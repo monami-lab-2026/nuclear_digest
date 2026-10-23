@@ -1,0 +1,32 @@
+name: Deploy pages on push
+
+# The daily Claude Code session pushes the commentary (data/news/days + docs). That push redeploys the site.
+# (Pushes made by the collection workflow itself use GITHUB_TOKEN and do not trigger this; it deploys on its own.)
+on:
+  push:
+    paths:
+      - "docs/**"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: site-publish
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deployment
+        uses: actions/deploy-pages@v4

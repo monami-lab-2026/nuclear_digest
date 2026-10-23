@@ -1,0 +1,1071 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-02T23:06:55+00:00",
+  "engine": {
+    "engine": "claude-code-session",
+    "briefed_at": "2026-10-04T21:51:36+00:00"
+  },
+  "overview": "국내에서는 현대건설이 사용후핵연료 처분시설용 굴착장비를 개발하고 처분공 굴착을 실증했다는 소식이 나왔다. 해외에서는 미국 팰리세이즈 SMR의 건설허가 신청 2부 제출, 영국 힝클리포인트 B의 해체 단계 이관, 컬럼비아 원전의 출력 증강 사례, 폴란드 BWRX-300 사업 투자 소식이 이어졌다.",
+  "stories": [
+    {
+      "source_ids": [
+        3,
+        6
+      ],
+      "region": "국내",
+      "category": "핵연료·방사성폐기물",
+      "importance": 3,
+      "headline": "현대건설, 사용후핵연료 처분공 굴착 장비 개발하고 실증까지 마쳐",
+      "summary": "현대건설이 사용후핵연료 처분시설 건설에 쓸 굴착장비를 개발하고 실증했다고 여러 매체가 보도했다. 제목 기준으로는 처분공 굴착에 성공했고, 이를 통해 원전 전주기 기술을 확보했다는 내용으로 보인다.",
+      "background": "사용후핵연료는 원자로에서 꺼낸 뒤에도 붕괴열과 방사선을 오래 내는 물질이다. 고준위 방사성폐기물 처분은 보통 지하 깊은 암반에 처분터널을 파고, 그 바닥에 처분공(수직 또는 수평의 구멍)을 뚫어 폐기물 용기를 넣은 뒤 벤토나이트 완충재로 채우는 다중 방벽 개념을 쓴다. 암반, 용기, 완충재가 함께 방사성 핵종의 이동을 늦춘다. 처분공은 용기 크기와 열 방출, 완충재 설치 공차를 맞춰야 하므로 굴착 정밀도가 중요하다.",
+      "why_it_matters": "처분 기술은 원전 운영 이후의 연료주기 마지막 단계로, 이 단계가 비어 있으면 원전 확대 논의의 약점이 된다. 굴착 장비의 실증은 설계 개념을 실제 시공으로 옮길 수 있는지 확인하는 단계로 볼 수 있다. 공학적으로는 암반 상태에 따른 굴착 정밀도, 처분공 벽면 손상 영역, 지하수 유입 관리가 쟁점이다. 또 용기 주변 열이 완충재와 암반에 미치는 영향을 설계에 반영해야 한다. 다만 보도 제목만으로는 실증 규모나 조건을 알 수 없으므로, 실제 현장 조건과 얼마나 가까운 시험이었는지가 관전 포인트다. 처분시설 부지 선정과 제도 마련은 별도의 과제로 남아 있다.",
+      "concepts": [
+        {
+          "term": "다중 방벽",
+          "explain": "암반, 처분용기, 완충재 등 여러 겹의 장벽으로 방사성 물질의 이동을 늦추는 처분 개념이다."
+        },
+        {
+          "term": "붕괴열",
+          "explain": "원자로가 멈춘 뒤에도 핵분열 생성물이 붕괴하며 계속 내는 열이다."
+        },
+        {
+          "term": "벤토나이트 완충재",
+          "explain": "팽윤성이 있는 점토로, 처분용기 주위를 채워 지하수 이동을 막고 열을 암반으로 전달한다."
+        }
+      ],
+      "question": "처분공 굴착에서 정밀도를 높이려면 어떤 암반 특성과 열 조건을 먼저 확인해야 할까?",
+      "study": [
+        "고준위 방사성폐기물 처분",
+        "KBS-3 처분 개념",
+        "붕괴열"
+      ],
+      "reference_ids": [
+        "kaeri",
+        "oecd-nea",
+        "wna-library"
+      ]
+    },
+    {
+      "source_ids": [
+        12
+      ],
+      "region": "해외",
+      "category": "SMR·신형로",
+      "importance": 3,
+      "headline": "팰리세이즈 부지 SMR의 건설허가 신청서 2부가 제출됐다",
+      "summary": "미국 팰리세이즈 부지에 SMR을 짓기 위한 건설허가 신청서의 두 번째 부분이 제출됐다고 World Nuclear News가 전했다. 제목 기준으로는 신청서가 나뉘어 제출되는 방식으로 보인다.",
+      "background": "미국에서 새 원자로를 짓으려면 NRC(원자력규제위원회)의 건설허가(CP)를 받고, 이후 운영허가를 받는 2단계 방식이 있다. 신청서는 안전성분석보고서와 환경 검토 자료 등으로 구성되며, 규제기관은 접수 후 완결성을 검토한 뒤 본심사에 들어간다. 사업자가 신청서를 여러 부분으로 나누어 내는 방식도 가능하다. SMR은 모듈 공장 제작과 피동 안전계통을 특징으로 내세운다.",
+      "why_it_matters": "SMR의 상용화는 기술 자체보다 인허가 일정과 비용 예측성에 크게 좌우된다. 이미 원전이 있던 부지에 SMR을 짓는 사례는 송전망, 냉각수, 부지 특성 자료를 활용할 수 있어 심사 쟁점이 달라질 수 있다. 공학도는 신청서에서 어떤 설계 기준 사고를 다루고 피동 안전계통을 어떻게 입증하는지 볼 만하다. 다만 제목만으로는 노형이나 심사 일정을 알 수 없으므로 세부는 후속 보도를 확인해야 한다. 앞으로는 NRC의 접수 판단과 심사 일정 공개가 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "건설허가(CP)",
+          "explain": "원자로 건설을 시작하기 전에 규제기관에서 받는 허가로, 예비 설계 수준의 안전성을 심사한다."
+        },
+        {
+          "term": "피동 안전계통",
+          "explain": "펌프나 외부 전원 없이 중력, 자연순환 같은 물리 현상으로 작동하는 안전계통이다."
+        },
+        {
+          "term": "SMR",
+          "explain": "출력이 작고 모듈 단위로 제작해 설치하는 소형 원자로다."
+        }
+      ],
+      "question": "기존 원전 부지에 SMR을 지을 때 새 부지에 짓는 경우와 비교해 인허가에서 무엇이 쉬워지고 무엇이 새로 쟁점이 될까?",
+      "study": [
+        "NRC 10 CFR Part 50 건설허가",
+        "SMR 인허가",
+        "피동 안전계통"
+      ],
+      "reference_ids": [
+        "nrc-advanced",
+        "iaea-smr",
+        "iaea-aris"
+      ]
+    },
+    {
+      "source_ids": [
+        14
+      ],
+      "region": "해외",
+      "category": "원전 운영·건설",
+      "importance": 2,
+      "headline": "영국 힝클리포인트 B, AGR 발전소로는 두 번째로 해체 단계에 넘어가",
+      "summary": "World Nuclear News에 따르면 영국 힝클리포인트 B 발전소가 해체를 위해 이관된 두 번째 AGR(개량형 가스냉각로) 발전소가 됐다.",
+      "background": "AGR은 이산화탄소 기체로 노심을 식히고 흑연으로 중성자를 감속하는 영국 고유의 가스냉각로다. 발전을 끝낸 원전은 연료를 인출한 뒤 해체 단계로 넘어가며, 이때 운영 책임이 해체 전담 조직으로 옮겨지는 경우가 있다. 해체는 제염, 구조물 철거, 폐기물 분류와 처리로 이어진다. 흑연 노심은 방사화된 흑연 처리가 따로 큰 과제다.",
+      "why_it_matters": "해체는 원전 수명주기의 마지막 단계로, 설계 때부터 해체성을 고려해야 하는 이유를 보여 준다. 가스냉각로는 경수로와 재료와 폐기물 특성이 달라, 방사화된 흑연과 구조물 처리 방법이 쟁점이다. 국내 원전 해체를 공부하는 학생에게는 노형별로 해체 전략이 어떻게 달라지는지 비교할 사례가 된다. 제목만으로는 해체 일정이나 방식을 알 수 없으므로 후속 자료를 확인해야 한다. 앞으로 영국이 다른 AGR 발전소를 어떤 순서로 넘기는지도 볼 점이다.",
+      "concepts": [
+        {
+          "term": "AGR",
+          "explain": "이산화탄소 냉각, 흑연 감속 방식의 영국형 가스냉각로다."
+        },
+        {
+          "term": "방사화",
+          "explain": "중성자를 받아 원래 방사성이 없던 재료가 방사성을 띠게 되는 현상이다."
+        }
+      ],
+      "question": "경수로와 흑연 감속 가스냉각로의 해체에서 폐기물 관리 전략은 어떻게 달라질까?",
+      "study": [
+        "원전 해체",
+        "방사화 흑연",
+        "AGR 노형"
+      ],
+      "reference_ids": [
+        "wna-library",
+        "iaea-pris"
+      ]
+    },
+    {
+      "source_ids": [
+        7
+      ],
+      "region": "해외",
+      "category": "원전 운영·건설",
+      "importance": 2,
+      "headline": "컬럼비아 원전의 출력 증강(EPU) 추진 과정을 다룬 기사",
+      "summary": "ANS Nuclear Newswire가 컬럼비아 원전의 EPU(출력 증강) 과정을 소개하는 기사를 냈다. 제목 기준으로는 더 많은 전력을 얻기 위한 설비 현대화 사례로 보인다.",
+      "background": "출력 증강은 원전의 허가 열출력을 높이는 것으로, 연료 설계 개선, 증기·급수 계통과 터빈 설비 교체, 안전해석 재수행으로 이루어진다. 열출력이 커지면 냉각재 유량, 증기 유량, 열 여유도가 달라져 안전해석을 다시 해야 한다. 규제기관은 이 해석과 설비 변경을 심사한 뒤 허가를 변경한다.",
+      "why_it_matters": "새 원전을 짓지 않고 기존 설비에서 출력을 늘리는 방식이라 경제적 관심이 크다. 공학적으로는 열수력 여유도, 구조물 진동, 설비 수명에 미치는 영향이 쟁점이다. 연료와 노심 설계가 어떻게 바뀌는지도 중요한 공부 대상이다. 제목만으로는 증강 폭이나 구체 설비를 알 수 없다. 국내 계속운전과 출력 향상 논의와 비교해 볼 만하다.",
+      "concepts": [
+        {
+          "term": "출력 증강(EPU)",
+          "explain": "허가된 열출력을 설비 개선과 재해석을 거쳐 높이는 일이다."
+        },
+        {
+          "term": "열 여유도",
+          "explain": "연료가 열적 한계에 이르기까지 남은 여유를 말한다."
+        }
+      ],
+      "question": "출력을 높일 때 안전해석에서 가장 먼저 다시 확인해야 할 사고 시나리오는 무엇일까?",
+      "study": [
+        "출력 증강",
+        "열수력 여유도",
+        "비등수형 원자로"
+      ],
+      "reference_ids": [
+        "nrc-factsheets",
+        "wna-library"
+      ]
+    },
+    {
+      "source_ids": [
+        17
+      ],
+      "region": "해외",
+      "category": "SMR·신형로",
+      "importance": 1,
+      "headline": "폴란드 기업인들이 BWRX-300 사업에 투자에 나서",
+      "summary": "World Nuclear News에 따르면 폴란드 기업인들이 SGE의 BWRX-300 사업에 투자한다. 제목 기준으로 민간 투자가 모이는 소식으로 보인다.",
+      "background": "BWRX-300은 소형 비등수형 SMR 설계로, 자연순환을 활용하는 단순화된 구조를 특징으로 내세운다. SMR 사업은 설계 인증, 부지 인허가, 자금 조달이 함께 진행된다. 민간 투자자가 참여하면 사업의 재원 구조가 넓어진다.",
+      "why_it_matters": "SMR의 보급은 기술 성숙도뿐 아니라 자금 조달 구조에도 달려 있다. 폴란드는 석탄 의존에서 벗어나려는 전력 전환 과제가 있어 SMR 관심이 높은 나라다. 학생은 설계 특징과 사업성이 어떻게 연결되는지 살펴볼 만하다. 투자 규모는 제목만으로 알 수 없다. 이후 인허가 진행 상황이 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "BWRX-300",
+          "explain": "자연순환 냉각을 활용하는 소형 비등수형 SMR 설계다."
+        },
+        {
+          "term": "자연순환",
+          "explain": "밀도 차이로 냉각재가 펌프 없이 순환하는 현상이다."
+        }
+      ],
+      "question": "SMR 사업에서 민간 투자가 늘어나면 설계와 인허가에는 어떤 압력이 생길까?",
+      "study": [
+        "BWRX-300",
+        "SMR 경제성",
+        "자연순환 냉각"
+      ],
+      "reference_ids": [
+        "iaea-aris",
+        "iaea-smr"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NPCIL signs MoU for Gujarat nuclear power projects",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/npcil-signs-mou-for-gujarat-nuclear-power-projects",
+          "published": "2026-10-02T14:08:08+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        },
+        {
+          "title": "GSECL Signs MoU With NPCIL For 4,000 MW Gujarat Nuclear Project",
+          "publisher": "Sarkaritel.com",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYjVpVUw3SXJLVUhpbXJiX2FGcWtPYjlfei1UTlhTblZqdUlqZUhvWnFGbVdzaTJvbml1WFNFM2lvYkg2dWR1dzAxc0tKTzVZS0UwVWlmNFlEQ1BacmhCSG83NjNSVzZYWW9HUFFERmVZT0tkNlFtN2NUSmxjT1U1RQ?oc=5",
+          "published": "2026-10-01T23:52:41+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "NPCIL, GSECL Sign MoU to Explore New Nuclear Power Project Sites in Gujarat",
+          "publisher": "APAC Media",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYjJsTGZsbzZyb2pFMG9LZFZUTzVTV2w2NTRQSUNJQzZ0bnp3Z18xLTZlaDZWVGV1dlJkQkNXb0JXdV91aVhieGFBaklZRFFHQmVZR3RVRk1OWEdkbkZBSzBIVmc5SV85M3d6MW1YaDlhb1REczBSYkNXeXRfaGFvT0tfM3h2djBUZ19URVFjbHBnS18tNm5SNEVNXzkyV3Q0dDVFT3ZfWDZEU3pjbmVOSg?oc=5",
+          "published": "2026-10-02T05:07:54+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Gujarat: GSECL enters nuclear power sector, signs MoU with NPCIL for new project",
+          "publisher": "Social News XYZ",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWmdiVGcyMk5zcENJaDdWMy1teVVQNmQyOWREX0NhWW93MGZSbFMyUlRKQm5kVXdHM1QyWkt2NzZJQWo0R0Z3XzV1cnd0MHBINTVHVTB2V1ZzNUd0V3VxOHk1NnkzLUtybzFaWWJqUV9ETnJfTEk5WW1uLVlmYU9Ebi1EZHVSaFI4Wk1yeXZNQmtNbEM1bGJIblZWUmxqN2V2ckU4NEZreFljTUpWTy1jZ0dzVzh5RTNq?oc=5",
+          "published": "2026-10-02T05:15:30+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "NPCIL signs MoU for Gujarat nuclear power projects",
+          "publisher": "SightLine | U308",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOUstT1FDWklCTVIyQzc4NUFFV1pOU1JrckNNUGw4MTl2ZkNKZjRjcUJsSWlqMmg4ZEdvbXoyVHpTYnY4b0NZX05qUWIxSGZ0M05nODE3RERXQVY2bEtobVRIM0hLRjZYYjJENTNoQTFnaU9pdF9ZRFVMMTlnRUxNU3JkNjZMcXo4Wi1hQTB3?oc=5",
+          "published": "2026-10-02T21:29:19+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 5.932,
+      "id": 0
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "California bills consider new nuclear power plant and plan for the future of fusion",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-02/article-8456/california-bills-consider-new-nuclear-power-plant-and-plan-for-the-future-of-fusion/",
+          "published": "2026-10-02T17:35:02+00:00",
+          "feed": "ans",
+          "region": "해외"
+        },
+        {
+          "title": "California bills consider new nuclear power plant and plan for the future of fusion",
+          "publisher": "American Nuclear Society -- ANS",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM0VyWnlSM0p5emVDcXV3dkdxcnYtUUVEWkxnNzk5QWRfUEdrWEFDcnJGclVObUpFWERBSW12NzN0VVVBdEJDQkc5a1N5RnJ4MVhJTGJUb0hIb0ZXU0UydEp0anB2cTZwOUtQR3k0a093R3dfRVFmRUZfdW15VWgwbDFvWEZUT19PXzdFRlFFaG1PdEs3T2NCZGdjamJxT1Jsa1ZCNXhJQ29lRFFabXkxSjlxOUlOYkx5LU0wNGJCTQ?oc=5",
+          "published": "2026-10-02T17:38:43+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.772,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 개인정보 보호수준 평가 2년 연속 최고 등급 획득",
+          "publisher": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPeEVJbTRmQ0JMbTJhRnFYYWxxaENVNGctRDJfcHpab3FGMjFBVnFxVUtvU1IxdnQxSjNseU53NVhZS1lUdl85Q0dVTkprV240MHY3c2t3NEZoeUtBd2hnbW1ReEtSQURFYnluSnpCUHMwSGVTSi1kOEZBbXlKWC1SNTlhR3lxN0RrekJvNU1zRUVaOV9FOU4yTVItNGRneUQxUEVvTG1oejQ3NFVkTmNuVGU5aUU5bTlpc0tHckVxb1M3ZDllTlM3WndkejB3QXZENktpYUFOemZEbWhvMWloZDlxdFB1cXhHUWFDaENoOGw3dkk4a0NhZWx5RENpdDVwSDVTSDloaTI4Q1BV?oc=5",
+          "published": "2026-10-02T06:35:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 개인정보 보호평가 2년 연속 최고 S등급...만점 표창",
+          "publisher": "pinpointnews.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BNFdPcFNIdUMyXzNKZlJ3Y3hWUG1GZmRHZ2JYN2tDalF3Q2MwTTlIOXljWTQzNFVLbWl6cUR3TnU3ZVM3N05WWXFCSjJCdDBPM0x5Zmh3aktIaG5fdTgzOWRKOWNRZ0dJZ2l0bmtDZFBsWHl3dko00gF3QVVfeXFMTkE0V09wU0h1QzJfM0pmUndjeFZQbUZmZEdnYlg3a0NqUXdDYzBNOUg5eWNZNDM0VUttaXpxRHdOdTdlUzc3TlZZcUJKMkJ0ME8zTHlmaHdqS0hobl91ODM5ZEo5Y1FnR0lnaXRua0NkUGxYeXd2SjQ?oc=5",
+          "published": "2026-10-02T07:02:15+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 개인정보 보호수준 평가서 '만점'…2년 연속 최고 등급 획득",
+          "publisher": "businessplus.kr",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TcW9DZXZvaVdBeDVWdk1pNGVUZHVWSWdRdjZfeFBIRUNmWDdINzJ5c2V3dzdBREM5REtjOXRoaVozX2RaQUh0UlhjM1I5NTh4TVBROG16WDJQS0FpYWpnUHlkRFN2UjJsVW9kVXZINA?oc=5",
+          "published": "2026-10-02T07:03:02+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 개인정보 보호수준 평가 2년 연속 최고등급 “첫 만점”",
+          "publisher": "주간한국",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3NDktNVpIRkUySHhhb3pQWGh2ZDRLU2Z1NmlZVHFuRlNOX3lzeTZ4ZTRyVThxV2VnSlljY0M3VkFVckNhQnpSOThxd09Sc1oycHBFYlhOUGdrc21hMlJvLWJ6a3YyZkduYWM1R29yNTNxd3ZD0gF0QVVfeXFMUHc0OS01WkhGRTJIeGFvelBYaHZkNEtTZnU2aVlUcW5GU05feXN5NnhlNHJVOHFXZWdKWWNjQzdWQVVyQ2FCelI5OHF3T1JzWjJwcEViWE5QZ2tzbWEyUm8tYnprdjJmR25hYzVHb3I1M3F3dkM?oc=5",
+          "published": "2026-10-02T07:23:36+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 개인정보 보호 만점…2년 연속 최고등급 달성",
+          "publisher": "뉴스퀘스트",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HSHJjeTBINno1Z3ltNHNRUWJvTkJzY003Nmxyc0ZzRDU0MHZMdjlWTkVvaWZrZmxnZkJYd2c1TUFNaGZOcXllWDlzSXFvcWt6X0RvY2diSW9ONDRkSmh5TVA1LVBJaWd6VXYyVmZwNA?oc=5",
+          "published": "2026-10-02T07:44:33+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 개인정보 보호 평가 ‘만점’···2년 연속 S등급",
+          "publisher": "이넷뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Telc1TmhHNFh4eTR2V1dfSl9zMHlNcVk5V3MzVE1UQ1BuMXpKNUdmVk45TnlKdmtadGdfdnpnY0dka1EzbC01WTA1TUo0M3Mzc2FQdnFHVVdWMFhHem45cEZIWktzUEIxSzdaQtIBcEFVX3lxTE1GTmxPYmJLMUljZVFfR2lBTDcxSHF1OHh4TzBlOUdkZjVMaFhvNjF2MExETkpPcnc4VDUwOHF0ZmRrYUo3ZHFPRlkzcjc3X19RZEdPNF9WWExRSzVrVVdaVEM5UXhTd0JmWUU3bTZXbXk?oc=5",
+          "published": "2026-10-02T08:36:35+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, ‘공공기관 개인정보 보호수준 평가’ 2년 연속 S등급 획득",
+          "publisher": "시사캐스트",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ncWhGUGJ3cEh4Q1JHeWJ4LWdtdHdfQU5fMGU3c1MzdzRFU3dYQkhyUnNJQlZXekRKRkR2V25icUliU1I0dG43LWptZ0VOMzdFZnlHNFFKNV91UnpDeVZnQTNLV2J5WXlW?oc=5",
+          "published": "2026-10-02T08:38:24+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, ‘개인정보 보호수준 평가’ 2년 연속 최고등급 획득",
+          "publisher": "부산일보",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1WUJ1RVVNOUpkTVhEQ1V4TjRId24zczkzQ0tEc3ZCUERCblc4TjFXSmdZR2hOV1dPTTY1OU9ONFhRelpqaHRWdHNxMktUZ1Q2ZDh3ZDgxQ1ZOOWxES2R1dmJiWDhGeGRydVFydmg4NlNES2EtYkhXSA?oc=5",
+          "published": "2026-10-02T09:11:11+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 개인정보 보호수준 평가 ‘만점’ 달성하며 2년 연속 최고등급 영예",
+          "publisher": "에너지플랫폼뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aaV9IWmd5V3JlTmhaQ3dtVDY1MDR0MG10VXZySHhsZlNVTms1WEQtWXRIMDBSWmRHaWxkOUhxekx4aC11a3Q5TjRSLTRJN01VcFo4V2RtMzhmbi1PQlRUV3hzZVNHVmxRUGlld9IBcEFVX3lxTE5LWGpEUXhNRXI5LWQtQlhqRndJZHY5bnozTjhnd0ExRXNvaFpKOU5TTmhkQzZ6Q282U1NNVHBYVzhKaGcyUWJHOWMtd0JLSVVyNU82WVp5QkhKT1laTXBUVWVIcFpQMzU0QUI5VlVHV1o?oc=5",
+          "published": "2026-10-02T09:43:06+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 개인정보 보호수준 평가 ‘만점’...2년 연속 최고등급",
+          "publisher": "천지일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfeDZLanR3VDA1d1ZEdkhuV2U3Ml9HRXQ0d3NyVUtncTkxV3N5UlJBUVlzVEdnM05ZVFZRc0JFcjZtZElHZHNVVmNaR0JZemk1SzZrN2wxck1WZ0JNZWNyWTdWaDN5YkZYZ2c?oc=5",
+          "published": "2026-10-02T14:34:15+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.644,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "현대건설, 사용후핵연료 처분시설 건설용 굴착장비 개발·실증",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjdEtBM0pUQkxhcEFXZmZpcTVOVUR2a0YtWkRna3gxLW0tNF9FR1RibWlUTUJ0TV8tUnUxNjJ0WEtFQjFxWGE0aDNQWnVpVllGQ0ZkUVBsZUxmZ0HSAWBBVV95cUxOOThVRWJGZjlEZHRwWEF5UVVocGtGeVk2ZUVDRlNURkFVUFlZOVRHc05ncDI1VzBaV0lXRThHbmxwcENJWXJ5b3FxY1c3ekpfX3hXVHgxVV8tZUN5STBpVlQ?oc=5",
+          "published": "2026-10-02T02:22:01+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대건설, 사용후핵연료 ‘처분공 전용 굴착장비’ 국내 최초 개발…암반 실증 완료",
+          "publisher": "팍스경제TV",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EWVZpT2t5YTRWbHFudWFMdEhOLVgzLWppb1lyUnRPZUVUSWxudGo1Rjl2RWZfLXE2UFEyWXpmV2xqMEsxSmEzelBWRnJUWGFHVHcwaXdyaFp2SmJrLU1LZ19POUwyY3FY?oc=5",
+          "published": "2026-10-02T04:07:33+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대건설, 사용후핵연료 처분공 굴착장비 개발·실증…원전 역량 강화 - 머니투데이",
+          "publisher": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IV2xjaEYzSHVCZDlCSkNtMk5oTWc2UjJaNEVLVFpHMkN3NEY4bmJIejJXUlEtZXBGWGlYRFBZV2ZuZUlDandtdmFVRGZlMW13VVJaZW8tclM4OENSbE4zTVNueDVETHZmanA0ZUk0Z9IBb0FVX3lxTE9IV2xjaEYzSHVCZDlCSkNtMk5oTWc2UjJaNEVLVFpHMkN3NEY4bmJIejJXUlEtZXBGWGlYRFBZV2ZuZUlDandtdmFVRGZlMW13VVJaZW8tclM4OENSbE4zTVNueDVETHZmanA0ZUk0Zw?oc=5",
+          "published": "2026-10-02T04:11:38+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대건설, 사용후핵연료 처분시설용 암반 굴착장비 개발·실증 완료",
+          "publisher": "오피니언뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wNWRXTDRFWTA3MnhMOW5fdFJRNHVva05vbUZPSUllRXZ2dnh0YURCRDNLZ05IbGlCR3huY1BLa1BVUGYwNWJTR2F1OG1hMlcxMFlWY3d0TXJXbWxGa0pEQ2k0LXlLc2N2b0VEcXVzaFIzQQ?oc=5",
+          "published": "2026-10-02T04:32:28+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[지식재산이야기-340] 현대건설, 사용후핵연료 처분공 전용 굴착장비 개발·실증",
+          "publisher": "파이낸셜신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnSE9fYVJNZ0ZhMzJoY2ZVdnpHbmxHci1HeFJlbDlWN2NJSl9PWkhPNzdnS2ZTTGhyYW51WXV6alJ6SUNDd2RSWUMxYm5nR2tfLTN6NjlyV29lRnFFUU5RX3V1UGkzajg2VDA4?oc=5",
+          "published": "2026-10-02T05:00:46+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대건설, 사용후핵연료 처분시설용 암반 굴착장비 개발·실증 완료",
+          "publisher": "주간한국",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5Q1o1aVBDSDRfTU1uTDNCWVVxbmpiSjVEVVVheGZ2dTZBN3BfSGZ5OWt4djZfZzJ3VEN5QnVhejBnRDVZaWx3b3RmNWhCTmI4bUN0ZHVaZk1vOVNRNjhRcC1XNmJIYmFfSFR4Z2lBMDZfV25E0gF0QVVfeXFMUHlDWjVpUENINF9NTW5MM0JZVXFuamJKNURVVWF4ZnZ1NkE3cF9IZnk5a3h2Nl9nMndUQ3lCdWF6MGdENVlpbHdvdGY1aEJOYjhtQ3RkdVpmTW85U1E2OFFwLVc2YkhiYV9IVHhnaUEwNl9XbkQ?oc=5",
+          "published": "2026-10-02T05:24:49+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대건설, 사용후핵연료 처분시설 굴착장비 개발·실증",
+          "publisher": "디지털비즈온",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFd0hsT0x4ZzZtcEpneHpXMG5XTXg1RDhYczNJSmNIdC1ZQXE4SmFUdjh5ZEp0U21PWmZvVHBidlZSSVpPR1BBMGZQOFJWc3V5R2UtUWIwSEZxSzV6Qjc4NnNtc1FQMThfLTVsTWJCV3HSAXRBVV95cUxORWNVS19MdEtheFRmMjVXNlZtNE9ya0tSNUwzS05kd0VlRUZIM0dmbEd1a05OTTBrUlZRTUJsdlR5N3ozd0M3THdhRWw2eGJYbTJlRjN0THZ0TEhIV0xrMU9uVzhGUnRHT0pQSjlTOVo1b0MtVQ?oc=5",
+          "published": "2026-10-02T07:07:31+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대건설, 사용후핵연료 처분시설용 암반 굴착장비 개발·실증 완료",
+          "publisher": "위키리크스한국",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UMWdDQW5CTGUyek9WVGhaQ2tMOG5GTS1mOG5xdmpHS1VCRXVtMjJ4TE5ldDZvaEJCcjBJWkFXRE1KVlBuNUo1cWpCZ3d3MnRDT1J1TWFTT3BLSlRJem91Q3o4anc3ZVhWd3VoVEhDb3E?oc=5",
+          "published": "2026-10-02T07:14:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대건설, 사용후핵연료 처분공 전용 굴착장비 개발…성능·시공성 검증",
+          "publisher": "아시아투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hTW9Ldk5MVnh5ZFBKRG0tSXF2VnJ0M2xycHNiQUptNjlvRW1laTZTNjNjejRWMFFnSFZqcU1WQmpUeTVLOU5UWF9jV2FLeEJTc2h0azdRMGVaaUFleEhVUkdzOW1aSTJjZEFuNVJR?oc=5",
+          "published": "2026-10-02T09:35:37+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대건설, 사용후핵연료 처분시설용 암반 굴착장비 개발·실증 완료",
+          "publisher": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5teWxBSjNMWTliRFBpVHBGVjFYTEVNUlA3NENiSWJET3RLLVFsWmtncFBjelp5TGZMeXJGcjNuMjZWRFhFa29RY1YtTjdXWjZJYWlMeTFuRVI0a3JuSVpyeU5hYzM?oc=5",
+          "published": "2026-10-02T10:11:31+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.462,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 원자력·원전 해체 등 특허기술 401건 중소기업에 개방",
+          "publisher": "주간한국",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OWDR5eDRzN05uTG05M1cwelVfR0FpbkdfY3FWWWwxSktaWi1GNjI4WnNfQjc1VUFCUC1FRDI1WExDTUc4Q1RaTGd3ZGx3QzZZTERwOHV6STl0NDlCSWt3eFFpbmt0N1ZmNHRTRERlLVpzOHE40gF0QVVfeXFMT05YNHl4NHM3Tm5MbTkzVzB6VV9HQWluR19jcVZZbDFKS1paLUY2Mjhac19CNzVVQUJQLUVEMjVYTENNRzhDVFpMZ3dkbHdDNllMRHA4dXpJOXQ0OUJJa3d4UWlua3Q3VmY0dFNERGUtWnM4cTg?oc=5",
+          "published": "2026-10-02T07:23:37+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 보유한 특허 기술 401건, 중소기업에 개방",
+          "publisher": "에너지타임뉴스",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xV1JuVURGSGV6VWNBY0s4OFBVM2pGVWFkckxmcFI4TUZtOVM1YVZOcEp5eUdCY2lrMHN6VXU3NG9mRW9kaEJJUGpVSGxTZkVLMVJ0OGpiMVRMeWlxeVhSTk9CbGp0aEE2VjFlQmZEZ3JQUjRhSEHSAXZBVV95cUxOMVdSblVERkhlelVjQWNLODhQVTNqRlVhZHJMZnBSOE1GbTlTNWFWTnBKeXlHQmNpazBzelV1NzRvZkVvZGhCSVBqVUhsU2ZFSzFSdDhqYjFUTHlpcXlYUk5PQmxqdGhBNlYxZUJmRGdyUFI0YUhB?oc=5",
+          "published": "2026-10-02T07:29:26+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, ‘원전 기술 보물창고’ 연다···특허 401건 중소기업에 개방",
+          "publisher": "이넷뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JT01JRnB2SXVRWnhFTXpWSHNzOXh4d3lWLUJOTmctSVEzbnRhSG5pLXo0ZUNVV09EVkJDVzBkb3RkTDgyeHNQelZwQVpxUWNmaHNFR3NrRnhsYzJ5WnF3UUltNng1cjR0clZNQ9IBcEFVX3lxTFByVUU0UWVzLWtmM3JlU0d5d1UzdFdxV05pVEdiTHBxeU1kRXZKQzlXUnU5bDl3eFlxU3JXM2luNTlGXzJDV1phbEMzcUJTc2FRYU9fY092a1Z3RDU4eHlIU2xFWUowOVJkcUVKMlZfMDc?oc=5",
+          "published": "2026-10-02T08:16:53+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 자사 보유 특허 기술 401건 중소기업에 전수한다",
+          "publisher": "에너지플랫폼뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtR0c0TjR0czJBeHdGWl9CRldZTzBQN0dGTUlGSUxYUDN3SW96U2FER19vRFBZOUF6RzZBdVRuc0UycC1XeC15Sko3LUdteEdMaDhjMnY5WlpucGV0ZUFYMWx4M1NXU1hLX1NYZNIBcEFVX3lxTE1sYlNROExJNWRNMjFCNTVBU3lLZ0hYNlozcl8wUUdrZTF5d05sa2xWUFZDRHhmYktUN2dETkFCRWxKV1R4WlZTX1NwV1hfNkdMSGdwRGRBYWpaNE80aU4wSldSZmZrMkJqZHRibkVQWVc?oc=5",
+          "published": "2026-10-02T09:27:07+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.431,
+      "id": 4
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "새울원자력, '2026년 제3차 원전소통위원회' 개최",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mcHh4X0I3ZVljbm9jSGF3aWdnVmpqenZnRXQ5dUJhdFY1QkFoTHBScWxMV0tEY25DUzlabWRrV3RDVXd6TGhzbVFjd3pjU2hHd1ZFQ0tJZjN5a0NHblI0WE5nQ09wUmJPLU9oSTJMTXR5dw?oc=5",
+          "published": "2026-10-02T05:13:48+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "새울원자력, 제3차 소통위원회 개최… 울주군-새울원전 '안전·소통' 강화",
+          "publisher": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9icndWTTRvODlsSzItWS0yQzRUREw4TER2YXRoYmdScWVVTTBGTk1JUW50WnN0YU9WaGhMaDVJOE5aY3RNa2xJRThKSmhmOEMtMnRRazdCeEh0V0d2VFRkcw?oc=5",
+          "published": "2026-10-02T05:55:19+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "새울원전, 2026년 제3차 원전소통위원회 개최",
+          "publisher": "울산종합일보",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HbkxUS1FVSmh2OENYSjdJNFhXcHBRc2JLMktCRFA4aHdMczN0SmlScGR4cXp0VGozRFdsaVZTanBPTU9yWlJRc0lhNGlpZmptNk1IbWZHTklDSWw5SjhZdVlnTDRoNnJPOERLVUhfaE5xcFE?oc=5",
+          "published": "2026-10-02T06:13:27+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "새울원전, ‘2026년 제3차 원전소통위원회’ 개최",
+          "publisher": "발전산업신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HaE50TC1NNHRVVjVzMWk0NlNFdFhEZ1hDc0NhTXdydUNhZ2YtdU5GWTNpM0RfYWRZaVZmcWpRRnh4eS04T1pLQ3BRV05TQWpGR2NnTjhVNmFPdDNyYk43Wjg3NGxPNFhE?oc=5",
+          "published": "2026-10-02T07:39:24+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "월성원자력본부, '2026년 제3차 원전소통위원회' 개최",
+          "publisher": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kV0lwVk53S3pVLUJ6ZUJzM013U29DU0o4bkhDdHpGWnRZSWhXSUJfTkEzRW1TUmpBQ01BeURMRHFZMWFUb3hzTzZHSU1VSGF2ZkNSQzZpVzQzTmd5aXRHag?oc=5",
+          "published": "2026-10-02T08:52:47+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.407,
+      "id": 5
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "현대건설, 사용후핵연료 처분공 굴착 성공…원전 전주기 기술 확보",
+          "publisher": "뉴스락",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04RHZZQUVCc1p3NE1Zc0ZZUV9WYkVtS0N4eU1wSnVHckdFWENqd0d1ZmtDdjFicGowN2JHYUdGcUlPeE9WbEZhZzIyRVVMdkVEZ21lcnRxZUZxd3BURmp3ck9nS192MG9NSGx5Sg?oc=5",
+          "published": "2026-10-02T04:32:03+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대건설, 사용후핵연료 ‘처분공’ 굴착기술 확보…국내 건설사 최초",
+          "publisher": "디지털데일리",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13M1c2WEE4ZHpzSDgtbmIxOVUxd20tN1FuQk5xLTNmSXRqMENOMi1wLWd6bWxIMng5TzktNE1LMUkxYTVpMnBDUE9sRDVMay1FODZId0ZwdHV3cjBOcksySGVBdkw?oc=5",
+          "published": "2026-10-02T06:04:45+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대건설 사용후 핵연료 처분공 굴착장비 기술 확보, 국내 건설사 최초",
+          "publisher": "비즈니스포스트",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53ejBPV3RtZmhNakxwTllCTTNuaGQxNnZQaS1yVmVzazlwWVJzVm41elp6UlZaeU1IUlQyclQ0TjYzNUdCX0hSbFozMDlRVmgzampSS1IyTG9icE12dS1XYVRHMC1CRXdDU0IxRk02Q1ZyRVE?oc=5",
+          "published": "2026-10-02T08:00:42+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대건설, 사용후핵연료 처분공 뚫었다···원전 '마지막 퍼즐' 기술 확보",
+          "publisher": "스마트비즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fRndYU3RMeHZVcWM2cjNFN3N2MjNyTzA4NGx6UVZVRDJRS3lXSi05M0tQLUhLNHYwOVFyam9aeWJXckNwQnVXTjlfTnJrejg4eUxSQXdZTWVYcUxqQVhUVUNIRncxWnVGQ09vdw?oc=5",
+          "published": "2026-10-02T08:02:07+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.372,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Modernizing for more megawatts: Columbia’s EPU journey",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-02/article-8410/modernizing-for-more-megawatts-columbias-epu-journey/",
+          "published": "2026-10-02T22:10:25+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.961,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "ANS names 2026 Winter Conference award winners, new Fellows",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-02/article-8459/ans-names-2026-winter-conference-award-winners-new-fellows/",
+          "published": "2026-10-02T21:38:28+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.939,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Rooppur nuclear plant uranium cargo flight due in Dhaka Friday",
+          "publisher": "The Climate Watch",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQejdScVdraTN4Z0ZlRURaM0FaZmNsbkRHQnNoRGlQUDgtSzY2UjZYS2N5akhhcnpWRXZMUmJmb3JvMmZsRFZkRkR6TGRWNzh5T3ItaXNMNkFmRDZacUN0Y1d4dGpaRzctOHRZeGZEVTBkREZFdXEyMUpUYjJ1MkYteVZZaTBROUVoelBXNUJRbEkxX2laREE?oc=5",
+          "published": "2026-10-02T14:44:14+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Special cargo flight carrying Rooppur nuclear fuel lands in Dhaka",
+          "publisher": "The Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQczJWZDRjQWVlX1NyWVBBZlpyT0Njc2R6a2dLcWowYWR3Wk5qT1Q1bndFbmEyVkpHa0NnVnBlWFBDODZCVnRRemRKbTVnN01PYURaN3dvTEdHdGtDM1djTWdRb0RNWWZTV3dxLUthY1RxRXpVTXhDYWVTQTlFZnduYUlsUXNnNmt3T2Q2enlybi1zSXl1TEQxSTVzT2NjTEVTdlZ2MDU0bTYxSzhrT1E?oc=5",
+          "published": "2026-10-02T20:34:49+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Uranium for Rooppur Nuclear Power Plant arrives in Dhaka from Russia",
+          "publisher": "The Daily Star",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZHZ1QUVVT1VRbFlNbEVGcEkycnlQaUVZMDYyWHdZeUc3QU5hYnl1Y3VMQ0FwRVJQZ0lWdlQzUlhFaFltNTkzQVdfeEt2UExteE1rTW9aMjNfOUk1QndjcHVublRXbFhZZkNKSk5hLXM0cUlYek93T0kya3RNLTlISlh6VlNVQXlSaUtLMlVlNHI3b0NQVGNqYnRycmN4UEVna2d1bHJhQkh1aVZCNDZKNTZnSlVwYmh1UEw5Ug?oc=5",
+          "published": "2026-10-02T21:19:10+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.925,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "US senators expect vote before December 13 on Trump’s nuclear power pact with Saudi Arabia By Reuters",
+          "publisher": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV05nOG9DMDRTNjcxSy1RelZKQ2syVjNCMzNSX3ptZkE4ZkpOVXAwX0lycWIxQ042UzdGb0VJcDVqeVhVNjFJai1RWHBYcnRQNjc4Rjdid01EQm1zQ2NWTG0xbDRBUGYyaVRpcVJfS2NxWmZnSUN4YTBSS29uZ1dicnpKSUpDRWxiM29Ub3Q2MDhSRHVJTXNGbzdVaFoyZE1GQVV2RWRBLVFKZzk2NWpKTnQ4Mkt3NnlNbGRWRkZzTjRTNzRNajJNX1o0Mkg3SklnVjVoVV9n?oc=5",
+          "published": "2026-10-02T17:17:24+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "US senators expect vote before December 13 on Trump's nuclear power pact with Saudi Arabia",
+          "publisher": "The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEQWZMWnFqNEdEMWZZUDZHdUM5UkpZZ3pCQ1NaLUZ2eTMzTVJvUjBxWldubGhtY0N5NFJPU05KM2hfT2pBd1ZTY0dkX25hQVFKRGdVZE94Z2o2RjBkeEd3?oc=5",
+          "published": "2026-10-02T17:24:48+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "US senators expect vote after midterms on Trump's nuclear power pact with Saudi Arabia",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSzRTNFR3cXdZcnJ1NTZWcTl0RXZRZFpRS09tQW5lQ0lDZDdoSGdtcXdGRGJyaV9QR1VnZnJJNFlRZzU5R25MTUl5Z1IzRU5abFZHQlRlWGREQ1YtMDNrR0F6NzNiQUlXUVVpMHRkWDI0TkNZTld2WmVfY0ptQjF0cGJzclBFV3hTMVhqQTRMRmNuZTJfOEg1Y0kxSEVPb2xacXM2dHZnQmhLdkUyT29ETGlFeTBqSDBTdUtxdlktU19UTW9pcUpvMGRhazZGdw?oc=5",
+          "published": "2026-10-02T20:11:30+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.878,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Deployable Energy next in line for testing in NRIC’s DOME",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-02/article-8455/deployable-energy-next-in-line-for-testing-in-nrics-dome/",
+          "published": "2026-10-02T16:11:36+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.712,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Second part of construction permit application submitted for SMRs at Palisades",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/second-part-of-construction-permit-application-submitted-for-pioneer-smrs",
+          "published": "2026-10-02T14:38:26+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.647,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "N.M. legislators tackle funding for WIPP road repair",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-02/article-8454/nm-legislators-tackle-funding-for-wipp-road-repair/",
+          "published": "2026-10-02T12:15:11+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.547,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Hinkley Point B becomes second AGR plant transferred for decommissioning",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/hinkley-pointb-second-agr-transferred-for-decommissioning",
+          "published": "2026-10-02T11:14:46+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.505,
+      "id": 14
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원자력산업협회, ‘원자력·핵융합 분야 네트워킹 데이’ 개최",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wMEJIZ29Vc0RpYm5MZUctZEhZcEQyZTVWVVU4MVl5TWstUW0tN2FBTGpFVU1jY1dhSGpEVTJTdENiZ3ljalVCcGd1cGh5YWdmSHBZYWQwbnNhRnh1ZWVJTWk2cUs1SHFtMUZKLWdmbnVkQQ?oc=5",
+          "published": "2026-10-02T06:26:22+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한국원자력산업협회 ‘2026 원자력. 핵융합 분야 네트워킹 데이’ 개최",
+          "publisher": "CBN뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhN1RXUjFMOHN0aHBLQUhISDJEdFRhYi1mRDlvUWJDbkZZbkpTQURNQm82SzVwclhGZXpRV0lYM0I2NHJlZ1k1NEE3djVDWVhwMWVF?oc=5",
+          "published": "2026-10-02T07:05:02+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원자력산업협회, ‘2026년 초격차 스타트업 프로젝트 원자력·핵융합 분야 네트워킹 데이’ 개최",
+          "publisher": "일렉트릭파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zbjlFNlFNTmozT2wyWUdHWTFLeDZ0R2lVRUYyelVGaHpiQXBtVTQxQUtsbFJWSnRBZ0ZnVGZvZ1Rpams2eUZtbEhFWk9MSWdncG5iaWViQXhJUkdGY2xrUWRLUVFYZw?oc=5",
+          "published": "2026-10-02T09:30:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.433,
+      "id": 15
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Moves to bolster US nuclear workforce development",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/moves-to-bolster-us-nuclear-workforce-development",
+          "published": "2026-10-02T09:00:16+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.412,
+      "id": 16
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Polish entrepreneurs invest in SGE's BWRX-300 projects",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/polish-entrepreneurs-invest-in-sges-bwrx-300-projects",
+          "published": "2026-10-02T07:04:24+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.332,
+      "id": 17
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원 인재개발원, 국내 교육훈련기관 최초 AI 경영시스템 국제표준 인증",
+          "publisher": "creatorjournal.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xSHlhS3l5M25reDRBbEMtRTJVaHY4ZnZXV3BvX01Zbzh4dDI1YTZ6LU5RTUdTbzBnWXpGZVFad2dSNTcxbURISnJUOFM0VzJpejc1VGVHT2tBeWpfZWpfS0NzcFhqTUNreGRDb3I2YTJFeTA?oc=5",
+          "published": "2026-10-02T00:36:23+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 인재개발원, 국내 교육훈련기관 최초 '인공지능 국제인증' 획득",
+          "publisher": "일간투데이",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNWWtnRGlmTnNrcTgwSVdHZW9pNWM0N2t1RlZJYWt3Y2RmWFEtci00OFFIOC1tcmRNUE16eWFkdUdYWUhEeU4xRF9mRDlsa0dUWl9wZzJmbmQ5U2NpUlVXa3NfTWMwSGcyUDE0?oc=5",
+          "published": "2026-10-02T00:38:58+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "[안전한 AI, 신뢰의 기준]한수원 인재개발원, 국내 교육훈련기관 최초 ‘AI 경영시스템’ 국제표준 인증",
+          "publisher": "전국뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94QWZZc04xcGV1eURXY2JWdEs4NWpxMEZvTFc5UmMzR2VGclFjZURTY0tGejZ1SWRfYm9TeF9NSVlKWlpQeUJDUnVvbm1TMmVSejltd21tS2plemhZWDFFQUowQWFsSlFPMGpTTDF5UkU?oc=5",
+          "published": "2026-10-02T01:08:35+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 2.085,
+      "id": 18
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Update 369 – IAEA Director General Statement on Situation in Ukraine",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/pressreleases/update-369-iaea-director-general-statement-on-situation-in-ukraine",
+          "published": "2026-10-02T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        }
+      ],
+      "score": 2.037,
+      "id": 19
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA Medical Assistance Supports Ukraine’s Nuclear Workers",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/multimedia/videos/iaea-medical-assistance-supports-ukraines-nuclear-workers",
+          "published": "2026-10-02T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        }
+      ],
+      "score": 2.037,
+      "id": 20
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Oracle to Absorb $300 Million in Rising Energy Costs Tied to Nuclear Plant in Wisconsin",
+          "publisher": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUEM4R3ZyaTFMcVRKbWxoMEhDbGYtVzZpWGlHMHBPMnlZdnFVa0pRVl8yMzduZnh0WXN0UHFCczVNa1UtZ054enBxNDNOOHpIbTl0Mmlya0ZFUHRfZjRNeEc3eG5sUUVuSGlYcDFiSEV1eENEcERQUzYxOEJab09RREZKMUV0d05UWnRVYjN6ZF92RGprRnpvaEtsc0lMOTU2dDUzcFV4ZlRob3YzN3Jaa0VyNV82SVZDV1MzUjRhby1WbHpuZUNwTGoxRDdmbzk3OEw1cUd3?oc=5",
+          "published": "2026-10-02T13:41:12+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "User of Port Washington data center commits to absorb $300 million in rising costs for Point Beach Nuclear Plant",
+          "publisher": "BizTimes - Milwaukee Business News",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTlJQWnJKR0llVmpUUklhNUhPOTZOQThZVGJRS3RJM1lDT01id2UtVEtjMnhVWEdOOHpuLU11RU9kWFd2V21RSHVrZmN3eDRWblkxZ0ZhMDBUQWNWdFVibWRGRXk2dm1mZmxoaDM0dXQtRVkxbFlHTVdRX1JiSlN1bWFZazVfakl5SjhSUXRGTHcyekstS0VteGZaM25KQ0daSmt2UDROelJYZ29Wb19vUXhOUF9wRUZyYWhha0YwZlFqeE5JXzVvMTNoV2xuQQ?oc=5",
+          "published": "2026-10-02T18:03:26+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.789,
+      "id": 21
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한국원자력학회, 한·미 원전 프레임워크 합의 환영",
+          "publisher": "경북신문",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43SWpPNC04azVRa3NERk9BQkpISmk0Um1QY2FxVEZrVm1QWUExMUwxOTNuOHFWR2pDbWxVWXdnMWFVS0NhNzNmYXk3OHBVV1ZrRVBoSlBtS1U?oc=5",
+          "published": "2026-10-02T10:26:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원자력학회, “한·미 원전 건설 협력 합의 환영”",
+          "publisher": "발전산업신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mZEVVR0tqdDZVbTJiUkwtTjB6MFpGT3pXV1FKY21KVWJrYWxQSWloVDVTcjc4T0ZiOHIzSmRIYzd2ZTVPU05EaHZZWjlWVTYza1Jia212UXZORUlXYXQyLTRNV0N3T0Fs?oc=5",
+          "published": "2026-10-02T15:05:13+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.666,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, '2026년 한수원 유망 기술 설명회' 개최",
+          "publisher": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYzRJTGEtbzByakRNWmpjdHBnbmxmSHQ3ZmRqX1dtVVpyVnhRSVJIVGpfc1NWXzdHaHRPSTFReXBSNldfVktpc2VwMVlNUHN6dTdURlNKblphS0dvRUozNTd6WDR3c2I2SkxkbVl6MnBzS1g1UWJfem9wZUxpVU9qZ0hCVXJVdHVQSnhmSGROdi1HSGlKNnRnM1ZLbkJFbm96d00wdXA3LUJ2c2Fmb2lRLWk5NlltN1ZVaVNyOElJZnloZmVEbzF2NkdETGlpMXZxZVJCS1ZkdzBsV1Y3a2hacUVXWEtUWmI4Q24xeg?oc=5",
+          "published": "2026-10-02T06:42:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "2026년 한수원 유망 기술 설명회 개최",
+          "publisher": "한국전력신문",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VeUprNTZrai1DbHVJLV9xd0h2aWZzR25FbG53VXhCZG1ubGxFOTVQcDJVMmNJMzk2X2dzQ1ZkNXFHTlNxNmwwbUdYb3NhRFkxUWRJcTQ1NW5MaFFTdERRYXBUU3NaVkd0cEE?oc=5",
+          "published": "2026-10-02T13:50:44+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.614,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 원전·AI 등 특허기술 401건 민간 中企에 이전",
+          "publisher": "pinpointnews.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kUU12VktKbzVzWVBnQUJRT1JZSnhBQ0JPang3MEwyR2VvRlI3NWpHWjdVcWxFRTY3cHNyRURzZWI0V3U2RVZzb1gzcndvcll0RHpPSVV5NkFtV3p5RnJoeXVETDJkZEVqQVJmZndoLUR2WHgxV19J0gF3QVVfeXFMTWRRTXZWS0pvNXNZUGdBQlFPUllKeEFDQk9qeDcwTDJHZW9GUjc1akdaN1VxbEVFNjdwc3JFRHNlYjRXdTZFVnNvWDNyd29yWXREek9JVXk2QW1XenlGcmh5dURMMmRkRWpBUmZmd2gtRHZYeDFXX0k?oc=5",
+          "published": "2026-10-02T07:14:09+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 특허기술 401건 민간에 푼다",
+          "publisher": "에너지타임즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CWnljWjFpbGp1T04tTkUydjREZjhveHNQY25WOGRIS0R6V2RmU2FpaVktbWdLVUVtdS0taUU1NzVyejg0RVlSSFk1TkxWT2QyRlUyXzJSbGFlVTBNM1F2VFBCbjZqcmdqNzVBcQ?oc=5",
+          "published": "2026-10-02T13:09:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.585,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원전 수출 비즈니스 ‘경주’ 집결…27일 NES 2026 개막",
+          "publisher": "에너지타임즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJbU5ha0tCZENjcFNWZ1hFYlhwRTR4YmxxcEJYQlVXbXBKOFlxTk43YkVvSm01elRKNzZPaFpMdDFDYTR3X3R3aG1WOEJVOTNxWDN5NVJ2dUl4WlJ6T2ktbm0wVEhFYlBScndMUw?oc=5",
+          "published": "2026-10-02T11:39:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "27일 ‘NES 2026’ 개막…원전수출 비즈니스 한자리",
+          "publisher": "에너지타임즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HOW9JM051S0hDVHJLNEZaWVRuYS1lYU9SdFN0RDBraE9FeXBQU2l6WE1idVlZWUlUbGlYZUx1bFBiRU5taFljTDhXNFRiUU4zX3VEczRZeFFxMlBQQzVWRXJWUDlVU09INmItdw?oc=5",
+          "published": "2026-10-02T12:49:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.571,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원전 기계분야 최신 기술 한자리에…한수원, ‘기계분야 통합 워크숍’",
+          "publisher": "부산일보",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80LVNsNldHU1RFVFZLZlM3c2lHQk1EMVpPRUlfcG93Um84eWQxV2xLZ282T3R5U1ZhOFVOc1NkM2xaTXNSZ3pFa0FLZWpra0VCWEF0OGZHMG9YeVgyN0dtVjFoY2dveHJ1US1oeEMxelliX19FV056Z3NQMA?oc=5",
+          "published": "2026-10-02T09:20:46+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원전 기계분야 최신기술 한자리…한수원-EPRI 통합 워크숍 열려",
+          "publisher": "에너지타임즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96ZkpNVVhOTHd6aG5LY3dhdmJuM3FqdWl5UHpMeEUteTJaSHk2SE9jd0VtZjE5Y2tEZUFkQ2RLckRLYXpuTmdvVEk5Y0FQMExnalZkeDU2VktsVmU3ZDd0WFZCalY4aDFsbUtQaQ?oc=5",
+          "published": "2026-10-02T10:54:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.491,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한국수력원자력, 개인정보보호위원회 위원장 표창 수상",
+          "publisher": "다경뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5qMkNBa19nQ0ZvMnZzTHNPUS1nZVVBbFlfVmdmZGJMby00MmxCelhWWFhacG5paVlvVXlCTW1RMW9ZY0xF?oc=5",
+          "published": "2026-10-02T07:41:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 개인정보보호위원회 위원장 표창 수상",
+          "publisher": "더트래커",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ILVc3T2JtQkMtX2J1YUFZa1VVS0RnbTlETGV6ZkdDZnplLUl1bm9LbWZiZk15ZF9mcS1mQ21xN015dExEWXdrQ1FoYURfSHJVX2pRZTJnRkY?oc=5",
+          "published": "2026-10-02T07:45:58+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.36,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원안위, 원자력안전 5개년 계획 공청회…국민 의견 수렴",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5udVMtc2VfcFg0dHB6aGZMSkVMVGVDSFRNTE04RnZJUk9DQnFVaHF4ZFNXMU5pQmN1YTRrRkcyeGc3NkdZaWRNcGtjN3hSaDBwcE1RMFBiZUIzMU1MRHZ2dnZrSWN5S2o3UXBUYl9EYzJ0NmlCTDZJR9IBeEFVX3lxTE5udVMtc2VfcFg0dHB6aGZMSkVMVGVDSFRNTE04RnZJUk9DQnFVaHF4ZFNXMU5pQmN1YTRrRkcyeGc3NkdZaWRNcGtjN3hSaDBwcE1RMFBiZUIzMU1MRHZ2dnZrSWN5S2o3UXBUYl9EYzJ0NmlCTDZJRw?oc=5",
+          "published": "2026-10-02T05:00:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "원안위, 원자력안전종합계획(안) 대국민 공청회…각계 의견 수렴",
+          "publisher": "에너지플랫폼뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIVzhCZWprY2F3VXJNRHhtMjg5TzhJTllLX3EwWnZRZnN6ZjI1dHgyU1lUcVdvUDN0Yk50N2JPQ0h3QXk3SUppT2RBS1dTVEpVX1AtRlEwUWdtaGxEcGJ2dXZLb0xVUi1iQ3ZpUtIBcEFVX3lxTE5jcjVDMDhiSGVPSkljY0xHZUNZYlFhc0FteFVRTUp0b3JKbGJaUU9xMVM1ZkJVa0U4U0k2b2diODFGeFJUS01BUkJ1aWtCVFBkUTJSN09jeXZkdndjeFRKSHJCUWFWcTFFMDhZZjJfZTg?oc=5",
+          "published": "2026-10-02T05:51:02+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.281,
+      "id": 28
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "대미투자 60% 원전에…美 뚫는 K원전, ‘제2의 마스가’되나",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5xcVllV281NElPdHlfUHc3QWVPeVFPaWczSXRUN2xsM1E1VWsyekZsQVRjS0dacU5ZZVh2UVJRNEVHd0dFTVdpSHBDUQ?oc=5",
+          "published": "2026-10-02T05:43:49+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "대미투자 60% 원전에…美 뚫는 K원전, ‘제2의 마스가’되나",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBYS2VmckVkei1nc0dTSW9JY1ZraElDRlpqSk11U3UwWDQ4ZEFaaHk2SUt4RjBKZVlGbFVLZ2hrQmprV2htZHc?oc=5",
+          "published": "2026-10-02T05:43:49+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.276,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 93
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 62,
+      "kept": 45
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 91,
+      "kept": 82
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 45,
+      "kept": 5
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 2
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 5
+    }
+  }
+}

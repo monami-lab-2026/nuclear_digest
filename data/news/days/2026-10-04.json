@@ -1,0 +1,819 @@
+{
+  "date": "2026-10-04",
+  "generated_at": "2026-10-03T22:16:06+00:00",
+  "engine": {
+    "engine": "claude-code-session",
+    "briefed_at": "2026-10-04T21:52:20+00:00"
+  },
+  "overview": "자포리자 원전 인근에서 드론 공격으로 외부 전력 설비가 손상됐다는 보도가 이어졌다. 방글라데시 루푸르 원전에는 우라늄 연료가 도착했고, 미국은 비스트라에 원전 출력 확대용 대출을 지원한다. 국내에서는 대미투자와 K원전의 미국 진출이 주로 다뤄졌고, 폴란드는 첫 원전 가동 시기를 2036년으로 미뤘다는 보도가 있었다.",
+  "stories": [
+    {
+      "source_ids": [
+        4,
+        13,
+        15,
+        19
+      ],
+      "region": "해외",
+      "category": "안전·규제",
+      "importance": 3,
+      "headline": "자포리자 원전 인근 변압기 등 전력 설비가 드론 공격으로 손상, IAEA는 휴전 촉구",
+      "summary": "여러 매체가 자포리자 원전 주변에서 드론 공격이 이어져 변압기를 포함한 외부 전력 설비가 손상됐고 IAEA가 이를 보고했다고 전했다. 원전 측은 우크라이나의 포격이 외부 전원 설비를 손상시켰다고 밝혔다는 보도도 있다. IAEA는 휴전을 요구했다.",
+      "background": "원자로가 멈춰도 핵분열 생성물의 붕괴열이 남아 있어 냉각을 계속해야 한다. 이를 위해 원전은 외부 전원(오프사이트 전원)과 비상 디젤발전기 같은 비상 전원을 함께 갖춘다. 외부 전원이 끊기는 사고를 소내외 전원 상실이라 하며, 안전 설계에서 반드시 대비하는 사건이다. 변압기와 송전선은 외부 전원 공급 경로의 핵심 설비다.",
+      "why_it_matters": "외부 전원이 약해지면 냉각에 필요한 펌프 구동을 비상 전원에 의존하게 되어 안전 여유가 줄어든다. 전쟁 중인 원전은 정비와 연료 공급, 인력 교대가 어려워져 이런 위험이 겹칠 수 있다. 공학도에게는 전원 다중성과 다양성, 비상 디젤의 연료 재고, 피동 냉각 설계의 가치를 생각해 볼 사례다. 다만 보도 제목만으로는 실제 손상 범위와 현재 전원 상태를 정확히 알 수 없으므로 IAEA 발표를 확인해야 한다. 이후에는 외부 전원 복구 여부와 IAEA의 현장 점검 결과가 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "소내외 전원 상실",
+          "explain": "발전소 안팎의 교류 전원이 모두 끊기는 사고 조건으로, 비상 전원이 냉각을 맡아야 한다."
+        },
+        {
+          "term": "붕괴열",
+          "explain": "원자로 정지 후에도 핵분열 생성물이 붕괴하며 내는 열이다."
+        },
+        {
+          "term": "다중성·다양성",
+          "explain": "같은 기능을 하는 계통을 여러 개, 서로 다른 방식으로 갖추어 공통 원인 고장을 막는 설계 원칙이다."
+        }
+      ],
+      "question": "외부 전원이 장기간 불안정한 원전에서 비상 전원과 냉각 능력을 유지하려면 어떤 대책을 우선해야 할까?",
+      "study": [
+        "소내외 전원 상실(SBO)",
+        "붕괴열",
+        "비상 디젤발전기"
+      ],
+      "reference_ids": [
+        "iaea-ines",
+        "wna-library"
+      ]
+    },
+    {
+      "source_ids": [
+        0,
+        1
+      ],
+      "region": "해외",
+      "category": "원전 운영·건설",
+      "importance": 2,
+      "headline": "방글라데시 루푸르 원전에 우라늄 연료 수송대 도착",
+      "summary": "방글라데시 루푸르 원전에 우라늄 연료 수송대가 도착했다고 여러 매체가 보도했다. 앞서 우라늄을 실은 화물기가 다카에 도착할 예정이라는 보도가 있었다.",
+      "background": "신규 원전은 건설과 시운전을 거쳐 연료를 반입하고 장전한 뒤 최초 임계, 출력 상승 시험으로 이어진다. 연료 반입은 핵물질 계량·방호 관련 절차와 규제기관 승인이 필요한 단계다. 신규 도입국은 규제 체계와 인력 양성도 함께 갖춰야 한다.",
+      "why_it_matters": "연료 도착은 원전이 운영 단계에 가까워졌다는 신호로 볼 수 있지만, 이것이 곧 가동을 뜻하지는 않는다. 장전 전에 설비 점검, 운영 인허가, 운전원 자격 확인이 필요하기 때문이다. 공학도에게는 신규 원전 도입국이 겪는 규제와 인력 문제를 살펴볼 사례다. 일정은 제목만으로 알 수 없으므로 이후 연료 장전과 임계 달성 소식이 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "최초 임계",
+          "explain": "원자로에서 핵분열 연쇄반응이 처음 안정적으로 유지되는 상태다."
+        },
+        {
+          "term": "시운전",
+          "explain": "건설을 마친 설비가 설계대로 작동하는지 단계별로 시험하는 과정이다."
+        }
+      ],
+      "question": "처음 원전을 도입하는 나라가 연료 반입 전에 갖춰야 할 규제 역량은 무엇일까?",
+      "study": [
+        "신규 원전 시운전",
+        "연료 장전",
+        "신규 도입국 인프라"
+      ],
+      "reference_ids": [
+        "iaea-pris",
+        "wna-library"
+      ]
+    },
+    {
+      "source_ids": [
+        2,
+        20
+      ],
+      "region": "해외",
+      "category": "정책·산업·수출",
+      "importance": 2,
+      "headline": "미국 정부, 비스트라 원전 출력 확대에 42억 달러 대출 지원",
+      "summary": "미국이 전력회사 비스트라가 원전 출력을 늘리도록 42억 달러를 빌려준다고 소식통을 인용한 보도가 나왔다.",
+      "background": "기존 원전은 설비 개선으로 출력을 높이는 출력 증강이나 연료 개선으로 이용률을 높일 수 있다. 이런 사업은 신규 건설보다 비용과 기간이 작지만 안전해석과 규제 심사가 필요하다. 정부 대출은 사업 금융 비용을 낮추는 수단이다.",
+      "why_it_matters": "대규모 자금 지원은 기존 원전의 출력 확대가 정책 수단으로 쓰이고 있음을 보여 준다. 공학적으로는 출력이 늘 때 열수력 여유도, 냉각수 용량, 설비 수명을 어떻게 점검하는지가 쟁점이다. 보도 내용만으로는 대상 원전이나 증강 방식을 알 수 없다. 이후 구체 사업 내용과 규제 승인 일정이 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "출력 증강",
+          "explain": "설비와 해석을 보완해 허가 열출력을 높이는 일이다."
+        },
+        {
+          "term": "이용률",
+          "explain": "일정 기간 동안 원전이 정격 출력을 낼 수 있었던 비율이다."
+        }
+      ],
+      "question": "기존 원전 출력 확대와 신규 건설을 안전성과 경제성 측면에서 어떻게 비교할 수 있을까?",
+      "study": [
+        "출력 증강",
+        "원전 이용률",
+        "원전 금융"
+      ],
+      "reference_ids": [
+        "doe-ne",
+        "nrc-factsheets"
+      ]
+    },
+    {
+      "source_ids": [
+        5,
+        6,
+        7,
+        8,
+        12,
+        26
+      ],
+      "region": "국내",
+      "category": "정책·산업·수출",
+      "importance": 2,
+      "headline": "대미투자 2000억 달러 논의 속에 K원전의 미국 진출 기대 커져",
+      "summary": "국내 매체들이 2000억 달러 규모 대미투자의 윤곽이 드러났다고 보도했다. 첫 투자는 24억 달러로 외화자산을 활용하고, 원전 100억 달러는 사업성 검토 후 집행한다고 한다. 한국 원전 기업이 미국에 진출하는 발판이 될지 다루는 기사도 나왔다.",
+      "background": "원전 수출은 설계, 기자재 제작, 건설, 규제 인허가 능력을 함께 요구한다. 미국 시장에 진출하려면 NRC 규제 요건과 현지 품질보증 체계를 충족해야 한다. 기자재 공급자는 원자력 품질보증 기준을 만족해야 한다.",
+      "why_it_matters": "투자 약속은 사업 기회이지만 실제 건설은 부지, 인허가, 공급망, 금융이 모두 맞아야 가능하다. 공학도는 수출 경쟁력이 설계 표준화, 시공 경험, 공급망에서 나온다는 점을 볼 만하다. 사업성 검토 후 집행이라는 조건이 있으므로 실제 사업화 속도는 불확실하다. 이후 구체 프로젝트 확정과 인허가 신청이 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "품질보증(QA)",
+          "explain": "원자력 기자재가 요구 기준대로 설계·제작·검증됐음을 문서로 입증하는 체계다."
+        },
+        {
+          "term": "공급망",
+          "explain": "원자로 용기, 증기발생기, 터빈 등 대형 기자재를 제작·납품하는 산업 연결망이다."
+        }
+      ],
+      "question": "미국에서 원전을 수주하려면 설계 외에 어떤 역량이 승패를 가를까?",
+      "study": [
+        "원전 수출",
+        "NRC 인허가",
+        "원자력 품질보증"
+      ],
+      "reference_ids": [
+        "nrc-advanced",
+        "khnp",
+        "wna-library"
+      ]
+    },
+    {
+      "source_ids": [
+        16
+      ],
+      "region": "해외",
+      "category": "원전 운영·건설",
+      "importance": 1,
+      "headline": "폴란드, 첫 원전 가동 시기를 2036년으로 연기",
+      "summary": "폴란드가 첫 원전 가동 시점을 2036년으로 미룬다고 Notes from Poland를 인용한 보도가 나왔다.",
+      "background": "대형 원전은 부지 인허가, 설계 확정, 공급망, 자금 조달에 오랜 준비가 필요하다. 신규 도입국은 일정이 길어지기 쉬워 초기 일정이 조정되는 일이 흔하다.",
+      "why_it_matters": "일정 연기는 신규 원전 사업에서 인허가와 공급망 준비가 얼마나 중요한지 보여 준다. 연기 이유는 제목만으로 알 수 없으므로 후속 보도를 확인해야 한다. 공학도는 건설 일정 관리가 사업성에 미치는 영향을 생각해 볼 만하다.",
+      "concepts": [
+        {
+          "term": "건설 공기",
+          "explain": "착공부터 상업운전까지 걸리는 기간으로, 지연되면 금융비용이 커진다."
+        },
+        {
+          "term": "인허가",
+          "explain": "부지, 건설, 운영 단계별로 규제기관의 승인을 받는 절차다."
+        }
+      ],
+      "question": "건설 일정이 늘어나면 원전 경제성에 어떤 경로로 영향을 줄까?",
+      "study": [
+        "원전 건설 공기",
+        "신규 도입국 일정",
+        "원전 경제성"
+      ],
+      "reference_ids": [
+        "wna-library",
+        "oecd-nea"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Uranium convoy reaches Rooppur Nuclear Power Plant",
+          "publisher": "daily-sun.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeWdhX0FQUmVTOElCcHEwUDNOWGdpY0tzdHpxMG5acW5iNjNvT1dkMmpuc1Rvd3R5YjZUNWtITy10THpEUXlGY2lBSml0bzJxWDRKRnlRNVZ0MDNGU3NadE1UcmpfZG5xT284bHpLdm9VcTFQb2VhekpOdXFWa1FUcko1Wm1RNUdIUXJ2M3VDUkFJVVMy?oc=5",
+          "published": "2026-10-03T06:51:54+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Uranium consignment reaches Rooppur nuclear power plant amid tight security",
+          "publisher": "United News of Bangladesh",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLUljemNGMXBiNHJYbVlnakZ3RXZ3N3VqRWZuY2RSdlEyc25pOV9jelFma1hTbWZFZnJmOFNLeWxybG15X3o5SzYwcHI2OGRwSVR4c2NwSmFQRkRJNk1kUE5qd1BVeklHcTY0aTFkYk9kM2ppN0FyRTFsN2N4R25OTmNxd1hwTENOSmZNZjB5U1pQM0FVMkZBQ1ZwTzlXRVZFWlFVZnJNWWlZamMxTHhqYXk2aUYwcHE5SzJFVTlR?oc=5",
+          "published": "2026-10-03T08:58:41+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Uranium consignment reaches Rooppur nuclear power plant amid tight security",
+          "publisher": "Dhaka Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc0Z6Tl9wYzl0OWllYTNTWV9INkt5VmMzZjhtcUlIZk1fckRZYnpOXzd6a0ZjbllzcDA4LXZTZGd4Y3dPMGxfV1RNTmxSZ1M2eU5DY2Y0aDB2dnNDOWF5c3dKVWY5NjhpTW5LRDh3UmJiNXRoN2RQb0RWNFUzSzNLeEZXVmk1YjVjczR5Z0pYSlRGdGN3bXdmNWhBYnp6anl5Tm5qdXpGYXFKcVVzR3JFOTlWVdIBswFBVV95cUxPc0Z6Tl9wYzl0OWllYTNTWV9INkt5VmMzZjhtcUlIZk1fckRZYnpOXzd6a0ZjbllzcDA4LXZTZGd4Y3dPMGxfV1RNTmxSZ1M2eU5DY2Y0aDB2dnNDOWF5c3dKVWY5NjhpTW5LRDh3UmJiNXRoN2RQb0RWNFUzSzNLeEZXVmk1YjVjczR5Z0pYSlRGdGN3bXdmNWhBYnp6anl5Tm5qdXpGYXFKcVVzR3JFOTlWVQ?oc=5",
+          "published": "2026-10-03T09:23:26+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Uranium consignment reaches Rooppur Nuclear Power Plant amid tight security",
+          "publisher": "The Financial Express",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOVVOdDdiSTlseEVOb1Zqa3gtcDVZTGo0XzNybHkyeVUzd3hnb0M4TVVaajVNcC0zM1k0UEU5SlNLOHltUzFIY1ZtMV90N2d2SEZzX3JDNzJ3UlRjbWZQc1F4VTlCcmxZbHJlUFduUWFWV3BJaHhwUzUyaTJfbkZmV3JwTFhWdExrNE95UmhlZERUelZCSGJSVjVkUHp6TWU2NVkzYVFZWUhiVVdGVzlzaXE0aXZUdm8?oc=5",
+          "published": "2026-10-03T10:28:37+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Uranium fuel convoy reaches Rooppur nuclear plant",
+          "publisher": "Daily Bonik Barta",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBtOENTMEJPMkJxU19mZHhmVFByU0FjV3lVZlE0RFZkRGlXVlNadlB4QjlMUzBuS3BRbW9JZF9XNDRJTDhiay10bFZ4LXA5bFJ0UFVha1RvTHprb3BKMzhxelIydw?oc=5",
+          "published": "2026-10-03T13:14:08+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Uranium consignment reaches Rooppur nuclear power plant amid tight security",
+          "publisher": "Dhaka Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTElVdGEzSEI0dUhMcUx4elBYc001U0dGOWRPQUZKcW1TU2ZDQWZNYy1zQ1ZxR1pfaDhBZFByTlI2NVlBc0hSTl9yaXJROTMzd2FtaC03TExtNnZLelBVc1NKM1lIaFg2Q0JPNE9oX00xT1haQjlhd05BNl9PeVhyejRRLWxsdThlYjBHc29zbGM1UWRHRm9xSVJLaHlRZ2FCTHViUDVzeUZySmPSAasBQVVfeXFMT0xJVXRhM0hCNHVITHFMeHpQWHNNNVNHRjlkT0FGSnFtU1NmQ0FmTWMtc0NWcUdaX2g4QWRQck5SNjVZQXNIUk5fcmlyUTkzM3dhbWgtN0xMbTZ2S3pQVXNTSjNZSGhYNkNCTzRPaF9NMU9YWkI5YXdOQTZfT3lYcno0US1sbHU4ZWIwR3Nvc2xjNVFkR0ZvcUlSS2h5UWdhQkx1YlA1c3lGckpj?oc=5",
+          "published": "2026-10-03T17:12:13+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.789,
+      "id": 0
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Uranium Shipment for Rooppur Nuclear Power Plant Arrives in Bangladesh",
+          "publisher": "RTV News",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54VjROWnlrazBPa3VzMWNLbklPX1dhOU1nZWJPaFBCY2c4ZHF0U3dydFR6aFR2dl9Qc2JXajJrZ3VmNDExVjlQU2hiNUxjSmlUX01pYVNTbUlUM1k?oc=5",
+          "published": "2026-10-03T02:38:02+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Russian uranium shipment reaches Bangladesh for Rooppur Nuclear Power Plant",
+          "publisher": "tribuneindia.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR0lNcUpSY2VrZ0xRczVlU2Q2LUNRNFdGY3lsUnJVVVdHb3BtZUhzX09xSG1fa2c5ZTBzbWstRy1nc3dWTkg2VUVXM0w4dnRwVUNWdWxoN1NIdy1yZ2k3d01rWTdmUHBNeHItd2JfQnNSYm9XQl9RZndTamZCQUpvd05SeGZHcDlFTF9VWXllUWdoM09JYVRwYnFrSHMzWHd3SHFmdENuemxzb3UxMzJzNFI1eUV3eXppT2Rn0gG7AUFVX3lxTFBHSU1xSlJjZWtnTFFzNWVTZDYtQ1E0V0ZjeWxSclVVV0dvcG1lSHNfT3FIbV9rZzllMHNtay1HLWdzd1ZOSDZVRVczTDh2dHBVQ1Z1bGg3U0h3LXJnaTd3TWtZN2ZQcE14ci13Yl9Cc1Jib1dCX1Fmd1NqZkJBSm93TlJ4ZkdwOUVMX1VZeWVRZ2gzT0lhVHBicWtIczNYd3dIcWZ0Q256bHNvdTEzMnM0UjV5RXd5emlPZGc?oc=5",
+          "published": "2026-10-03T03:52:13+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "World News | Russian Uranium Shipment Reaches Bangladesh for Rooppur Nuclear Power Plant",
+          "publisher": "LatestLY",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdmxfOW80eGJGMVNLeDhDekFhZzltd25IMUZ5MXRiTVRXN1lRYnlkV2pnX0hhOXJzWTR3dlFRM2d2UnplSjFrREZ4MG9sd29DeG9NeUNxenZfbEM4cGxmYlFDQ21OSUMtempMLUc4aFZCY1E2ZVN1VE5xWkMxUXgyOXlfeFJXS041QkZWVU9HQTZxbUVZQkZkcXlEMEh3UHVUMWhvX19UNVptYUZHRVdON2s3VTFHVUh2MDNKSmVXdGY1TzVaNklOTWRmdmZJOGNseVHSAdcBQVVfeXFMTl91WVgzcFBxSmE4SllhN0pseFBSSGpRbjFXVGtTZDdtSHRzWHB1N1NlNFI5MHVRS21QTHhFZGlBVEpuZkNCM0s4eE5GNXBna1VHVzVEdVp1X1pOcVhtWWxXWE1kTk5sZEVvNkdudjlGU1V0VEpDRUJkNFVGVHdpaE1HcTVPSHJneEZpREN2Wkp3ektpZ0FQQ1ItakxQamMyck5Gckh4cUtFSzZvNFNQV2dKS1NQVE5NYVJVY0tFMVVlX2lJWHA1VHVkaTJ1VzRrZ3p4UGxFUjA?oc=5",
+          "published": "2026-10-03T04:00:17+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Uranium for Rooppur power plant arrives; remaining shipment likely within 10 days",
+          "publisher": "The Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR2FtdVNGSnpqbHR3UnV4NVdIUGZHZWc2Ni1VTVZua1ZyNXVMT1M5WUF6U0tPbnFBQWdqQXVWdUdrLWIwd29hTlFKM01LWV8zQnRmc1ZjYlIzRmY4eThpRWQtYl9BdXFmUGEzdERzd0ZTeG9uUFZJZ3hwYjdRMVVtTnZzSTZkc0tVbS1ia0FpV0ZmSy16SEQxd2lqU3RPSWlVdldQZDc2MVZqWDBYeUE?oc=5",
+          "published": "2026-10-03T04:27:44+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Uranium Shipment Arrives at Rooppur Nuclear Power Plant Under Army Security",
+          "publisher": "businesstimes-bd.com",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CdU1jT0N2R1RHckhhWWdOcVJKelNqT29tdE5obzJldHB3N1NILUpoNVdPd3ZuNldHZk1QRklNdmxsYlBiakVfZGJpeTM0ZXNFNlktekpBY0hsMlhseEE?oc=5",
+          "published": "2026-10-03T07:17:32+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Uranium shipment arrives at Rooppur Nuclear Power Plant",
+          "publisher": "TheReport.live",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPckpLZ3Q0OF9nMGxNbVRlbzFldVFoaU5NTHJNbHVLQVcxN1FJeEFkNUgzSGEtcGxvZk9GZk9tdG5odFFlY1F5V09JaFZyckJpeDM3b2F0ZXdsaEY4eGtuNXFrSVAwRkR1VVByRnJTS0E0aWdZNHdlSjlaSFYyV21vNHRRR19pN05QVVFrRkh4S3NvbDJSSkJKZQ?oc=5",
+          "published": "2026-10-03T07:32:32+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Uranium convoy arrives at Rooppur nuclear plant",
+          "publisher": "en.bd-pratidin.com",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16cFNQY3k4a0RSUUo4WEt4cFpnOE42dVRHUUFuVWQ5dzRxMkpoVXFiTXg5eFUxQkdMeFh0c2V3R21lOWliM2ZBclFMUGJEUkw1NmpSVy1ELVFtb1pQeldMQ0Jn?oc=5",
+          "published": "2026-10-03T07:34:36+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Uranium shipment reaches Rooppur Nuclear Power Plant",
+          "publisher": "Views Bangladesh",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZVBxMWVTcldqRkxIazgwN0FZVmpFMDBBTnQtdDJJYTFVVzVuM1hKMER4bWI4RTFSZzBvN05HbTNKQ2tJZi1QaWRyTVFlM0N0bm1PM3pCLW10QS16YXdLbXN6cXJPWHR5MGNLRVEyTDNxTkY2ZmI2MS1zbEhrUjB6REJFWWkycE1M?oc=5",
+          "published": "2026-10-03T09:11:47+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Russian uranium shipment reaches Bangladesh for Rooppur Nuclear Power Plant",
+          "publisher": "Public TV English",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTktyZEdnbE8wcy1fV1ViNDR6cE5ROEx0bjd6aHAyQjM0SExtZWE4dm0ySlp5ejJwWVNTVXJqU0JwT1E5NjlDbi1pTXl0MG0yOFczaFMzUno5V1pwUmlNdnBubVRHTU1oSWZQbHRrVWt1bnJGZnJiN3VuWHJWcGxQMV9uaWhXbUVsTWFyeG5SNUh4MUdsNi1nX3Q2OGFuNlhxNU0tNFVMNA?oc=5",
+          "published": "2026-10-03T09:27:49+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.467,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "US to lend $4.2 billion to Vistra to boost nuclear power output, source says",
+          "publisher": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcVQ3T0xtZHVJeThJSjZWRGpfR0p5YmFGT042U1NfM245c0ZuQjI4VDY0UkMtSFpiUjB0M3A4SXhSMWcyMlhqb250S1VfR2psbjRrSm1aLURwaDNKcXg1SEZHbG92ZjJWa2xXbU5Vcktwcl92dVNqRzdNaThoam0wMFpibTN2NE05SGh4Y2Y3LUMxVU5ybnBKMEhfMnRlOFZQTThBNS1EUmdwXzNRZ0h4Q3Z2bjk1T2lfcG1fTzN0QlFiMVBUWmlnRlpRNnAxLXViNjJfa3RjUk9MY0RC?oc=5",
+          "published": "2026-10-03T13:25:35+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "U.S. to lend $4.2 billion to Vistra to boost nuclear power output, source says",
+          "publisher": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWRmhldThldkxxS0Y4eVhEbHdYTGhQblVhRU42akpWNWJsaXdUM29odW5mMDNqbnBoU0hhcU5iVk1fY09Va3llTmI2Vmc3RUdIQ0ExY0E4dThHZXI2TWFheGpkTHBiazgzUUF1ZUdOaTI2bE3SAXhBVV95cUxQcHNlYnJUY19fVWg0MW5tM3VCOXp3enB0SVotM1pxdTVZa0JGWHRTblNnUmRPOGRXOEdwSE1KSDV5Y3BmYzRQSXo4SWU5bXVRWUhTZWJ5WTJmRmdzSUVGamVjNmp4Y3d1UWp3a1U5V2cybW5nSHI5eW0?oc=5",
+          "published": "2026-10-03T15:00:51+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "U.S. to reportedly lend Vistra $4.2 billion to expand nuclear power output",
+          "publisher": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNLWt1MmM1dVgzMHRuU193OXlsWURGb2VmaW1zdEkwMnY3UUZ0SnZ4MkRtUmxxSDVCak5Kc19JVFZQczRpSFhFQ3ZmV290dDVNNDB4SmI1ZHl1Vjc3bEJVczlCd01ZNm0wR0g4VXlDNXlDSEliMWt4Y1hOMTJqV0hQcDJseXJHaTJVUjl2azRkNG1zSndkeWM1RlI5VmdmcnlEdU43b3dnbGdlejZMZWY5Zk9HMVRuYW9kMThqOVRZNC1OUF90MHc?oc=5",
+          "published": "2026-10-03T20:13:36+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.915,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Former OpenAI employee: ‘AI? It should be treated like a nuclear power station’",
+          "publisher": "Il Sole 24 ORE",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdHpqdVFVazA0NkFaZWx1a1dzMUtsUzFCS0hGYUkzWnhDSENaTjhndV91TjVmR2FjNk42RUVJT1ItR0xXanM3TTlYQlZRM0RsazdGM29MS081YW8xV18xOVBxeG1ZMGtaMDFnQWtqZUNpVTc1b2R5Zm8yaVJlNkZPLTJQRFNsMnZBZUNzNVI1ZnNDM0UxLW5wa2RYbGVsUnNZdy1KR0VNaFRUWTFabWZLTVcySW14V2RJcEk5TWxR?oc=5",
+          "published": "2026-10-03T15:21:26+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Former OpenAI Employee Says AI Should Be Regulated Like Nuclear Power Plants",
+          "publisher": "Engadget",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdXIwcW9BQXRhSzBJcm83ZHRlV3lGZ2pvZUhfTnBFM2pCazA2c1JRQzhQOXN3dnJ0Tk1sSE94QU9YUFFwV3NtY1BrMDNoSV95MXM1dnJ0Ul9RdHh1djRwWGNUcG80Nlp1TWxHdzNTRkpGUWxDT0kybjRWQzVXMC1xQ3B0RXVIRWxSaDU0NHJhMUViS3liRDhQcHlncmpHNVN4VFVZY3ZuV1ZTZFdTNWpz?oc=5",
+          "published": "2026-10-03T16:25:15+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.756,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Drones damaged transformers near the Zaporizhzhia Nuclear Power Plant; the IAEA is calling for a ceasefire",
+          "publisher": "UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdm9ZVDJiVm5WcXk5MHpscnJVVGRhcWdtVGlncndJSDdaSkYzWGp1VG1fT0lIcFh4NUhoX0UyOWYwbHpMeDBIMl95bDJFU2dINlh3ZkFob3k0elZSNUZyTG8yQUZsMWxaY2NDcXhiTGlCZERvM1BkLTUyY0ZhSGNNeGhkbUIyT1pwMDNPdEdHVVhRMUxqNVFTOHVmeV9pSTN0QlE?oc=5",
+          "published": "2026-10-03T11:20:51+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Drone Attacks Damage Transformers Needed to Power Zaporizhzhia Nuclear Plant",
+          "publisher": "Межа. Новини України.",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FTTVyZ2NwaGhYY3JxOHRpWTloZkVTdGNuVW5EZXZjUFhwdW9lMjhTa0hRVzFhUFYyWmFPN25yNUdXMGxhUFVLY1lvUmttejVXeDFNYVg0LWV3czBMd240cV9ZOGt0LUZZb2trMHZMbGhIbmNZbEFrRTFB?oc=5",
+          "published": "2026-10-03T15:10:19+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.704,
+      "id": 4
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "첫 수출 17년 만에 '종주국' 美 문 열었다…K원전 새 분기점",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qa2s0cEZ6Tks0ZndvUXRha1NSZnNGYWZ2LTFud2tJQkJDZy1QZUJuSVUySmRycGFrd1h2WnVkeDFkYVZhZ0duUVFlLW1NMUE0Ul80SkxZandJem1qTHdmMdIBeEFVX3lxTE0wQkh0a01vQUt0enNlWEYybGM5cFVtZ2N4RHhaby1OTnBjVUdIa05ZOHk0SGQwbXlTVXhVSEp3RzB4N01XMWpTLU1rN2V3UkpOLXZuT3F3NU9idVNsZGhQeGZXdTZ3NkROeGlmb2x4M2JTdFZGa3p1Tw?oc=5",
+          "published": "2026-10-02T23:00:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "첫 수출 17년 만에 '종주국' 美 문 열었다…K원전 새 분기점",
+          "publisher": "네이트",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qajQxaW9odW91QmFaejMxa1JnOUdOTHpJeTRFeGd6TWQ3enF5V3B3ZWQ2Zjd0bUVsMkR2TzlxTlIzMmZVdlljaVNwTlFqU2VwQjgw?oc=5",
+          "published": "2026-10-02T23:01:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.031,
+      "id": 5
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "베일 벗은 2000억 달러 `대미투자`…텍사스 발전소부터 원전·LNG까지 [헤비급브리핑]",
+          "publisher": "ddaily.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKc3AwbVpRVklMT1FnWVRoQzhPSEpDRHJ0SU53SFlTemRwVjU1RjNzSkE3VjBnY1YyS2xlME1KVVhYQWQtZDZUYWRtS1NpZS01N0RVRFVodDU2OTdMNjlEMkNRWEw?oc=5",
+          "published": "2026-10-03T22:00:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.989,
+      "id": 6
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "첫 대미투자 24억달러, 외화자산 활용…원전 100억달러는 사업성 검토 후 집행",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQS1lCN0ZJaGRxS3oyc3Y1ai12Z09wSDFsc2JVQkZwYkVGRnBseko0UmZtcENnQ2lLbTlxblQ5X0dGQWp0SDVIanktVjBLNmM?oc=5",
+          "published": "2026-10-03T21:32:08+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.97,
+      "id": 7
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "반세기 만에 '역수출'...세계 시장 주도하는 K-원전",
+          "publisher": "ytn.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CN2s4VXV1bm4zTlhxRGhIb2hXMkRVaTdZY1lxVGRZN3FLMl9oRk5hYXFJQS00R3NxWG5IeThJNENkZW1lUkxQUG1jTzIzcVcwUEU3Ni1VNGNlZDdDRGc?oc=5",
+          "published": "2026-10-03T20:25:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.923,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "An 88-ton tunnel boring machine punched out of the seabed off England after five months of being shoved along by hydraulic jacks on shore, finishing a 2,034-foot tunnel with one job, carrying the fish a nuclear power plant pulls in with its cooling seawater bac",
+          "publisher": "Autonocion.com",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51cFk5emZDbDNFMW02clFwVU41cm9rSUtENFZNeVFZelQ0WWhOd2lKSGRyYlpsYkVBSTQzWHJONU9kQ3lsTkhhZUIwTGE3cFlEZXdiRnJOemVpM0VFalpRWU9BcHNadC1IUWRualp3Tl9lMjJn?oc=5",
+          "published": "2026-10-03T18:00:46+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.823,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Reliance proposes ₹2 lakh-crore nuclear plant in West Bengal | Tap to know more | Inshorts",
+          "publisher": "Inshorts",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcC15M3Q4SzM4QmdJbFNiS1lOZlRJdHQ1QmNYekRiN0dkcEowT1VoZHpfYlVrMEdnbVJBNnhzeFVSTDZ5SWFwd2FTakRPMmlFc2RKbVNvMzNDeDFyc3ltVTRvZWpxdFdHN29FVV93OTRZdTFWVHFoNThtM2dzU3pJMHZxUEgwd2NUV2x5ekFTclRkbHdpeDRCb29hMjZkN1RJOVdib1g0V21ZMVXSAasBQVVfeXFMT3AteTN0OEszOEJnSWxTYktZTmZUSXR0NUJjWHpEYjdHZHBKME9VaGR6X2JVazBHZ21SQTZ4c3hVUkw2eUlhcHdhU2pETzJpRXNkSm1TbzMzQ3gxcnN5bVU0b2VqcXRXRzdvRVVfdzk0WXUxVlRxaDU4bTNnc1N6STB2cVBIMHdjVFdseXpBU3JUZGx3aXg0Qm9vYTI2ZDdUSTlXYm9YNFdtWTFV?oc=5",
+          "published": "2026-10-03T17:14:57+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.791,
+      "id": 10
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "美 해군, 군사기지에 ‘초소형 원전’ 꽂는다",
+          "publisher": "ainews1.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BRTJ6aGhsUzVQVmRjV09vbnhtYTlKczI1MUg0V2pWUGNPb2NnZWM5Um5HTDd5SW9pSXJKTWRYR01IVl82X2RjMC1xWEs1Vlk5aEFUQlBPQ1lsT2NqNHdZMk95X09NTHkwZG5j?oc=5",
+          "published": "2026-10-03T17:02:28+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.782,
+      "id": 11
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "대미투자 2000억달러, 한국 원전기업 미국 진출 발판 되나 : 기업·산업",
+          "publisher": "news.jkn.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DMFN2TVZjUExtVFRWNXl0MjdRMnloVG9RbE9lSFZaUkZVZm9KUWVvczFRb0c4Y0w3emVFMWhHQXlzNTJGanVidUlVRQ?oc=5",
+          "published": "2026-10-03T16:17:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.751,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Ukrainian shelling damaged external power supply equipment at Russian-held Zaporizhzhia nuclear plant, management says",
+          "publisher": "Devdiscourse",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQd0ZfUWQyTmtfek4tdmNMb1hUbkN2YVhPX3oyZ3ZKUUU1T1JyNXZEUmFmVW5XWmZWQTB3dDhnU1NCTGxjN1BJMHNoLXhSU1pkSHBIa0hJY2poQWMwYXJQaU93RUFFSDhkdV9XYkk5anF6T29NRi1QcWhHVng0OUFqdW1mbjY1VFlqUlFpMGdHR0xsY3IzcmV1a05RcUYyUWJnX3IyT2FjZjk0UEdQNFJ1NEN4OWk4bTZhbEl6UGNFT1VGakdWc1Z1bXRiWlQ4enJrZENtMEdSZmNzZXZBanl0NW83eXN4dVhqMlZqVVNlVHVzYndFei1DY2tGSkdENzFIUF9ZalhKa9IBjAJBVV95cUxObC1KaGlWb29kMFJWcVFBejNTcWR2bW5OaFpPN0d6dFpGZ0RSR2NidlU1YnMxcVFtZzVkWUU1NzNadEsxcXNmUWNHU2FOb3MxQjJOYldzY0FNbDZIa0lsTi1IYTAzeUIwNUlvRWpEU1p1TjVMVlNJMllKcGZ3dVlBQTdFX1ZNUmxrT2pZeGhNYmFMU1NoRzVicnc5aDVuZTdrNWsyOW5IVFduMG5lUWptOWplS3F0NUVHS1N4dktyY25lRGlPQkRZNERueVpTVEdnMTVQQUtoeU9wdkM3Q3gyR2g2LXoydnk4VWVuU3lNc2VPcUZ4OFhoVmtEdkVYS05jSEFTM0pXQXc2Nk5L?oc=5",
+          "published": "2026-10-03T15:45:42+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.729,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Ranked: The Countries Building the Most Nuclear Power – Visual Capitalist",
+          "publisher": "EnergyNow.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdEt5SDJ1Y3UwcUxhYUZ6dTFsQkFoQ1QyRVQ4R3IwSk9lcHZyTThvUXVnT2xaUmg4dVFSZjhBUkdrbUdCbXNLVzlWdDlYbEpPX1BDU2dwVEF4aFFsakJ5Y2hWV2pVSkJEcTZRZnJoOGc5TU0wdE1hYll1Q3dIM1RXM281a3l2WUxvOG5YZ29wNDR4bC1YWExVdFJfTjVwLUEzd3c4?oc=5",
+          "published": "2026-10-03T15:37:30+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.723,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA Reports Multiple Drone Strikes on Zaporizhzhia Nuclear Plant Damaging Key Infrastructure",
+          "publisher": "inkorr.com",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR3I2OVVYQlJmZmhma1hLWjlJVnJiZUF6MndrOHgzQXJXdTU0dmVtOVJ6V1hoLUFRTEZxcjMtTEhrbFVKUFZ5RU45VGt5SEdaSFhsUmw2RTNxQ0NNcVRZNF9tVUhDLTZIVkp3X1NEcElkanRBbkNYQ09ib1BmbHplZXZlLUpEYlZmNlVQWTJFMkI3TmtrUWFhNEJVdnVuRGw4ME5aWmhYdkhlM0xoSUU0LUVXYmtSUzJUYzJUeEY1YkRNN2pfSGQxNVhSWWNpTTFuVVHSAdIBQVVfeXFMTUdyNjlVWEJSZmZoZmtYS1o5SVZyYmVBejJ3azh4M0FyV3U1NHZlbTlSeldYaC1BUUxGcXIzLUxIa2xVSlBWeUVOOVRreUhHWkhYbFJsNkUzcUNDTXFUWTRfbVVIQy02SFZKd19TRHBJZGp0QW5DWENPYm9QZmx6ZWV2ZS1KRGJWZjZVUFkyRTJCN05ra1FhYTRCVXZ1bkRsODBOWlpoWHZIZTNMaElFNC1FV2JrUlMyVGMyVHhGNWJETTdqX0hkMTVYUlljaU0xblVR?oc=5",
+          "published": "2026-10-03T15:24:49+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.714,
+      "id": 15
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Poland postpones launch of first nuclear power plant until 2036 — Notes from Poland",
+          "publisher": "UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONEhQQUxLYmkxT2o0d21xWGZnYU1pTUZMY0JFdXJLeGJhenVQcUxSV3pEb2wwSWl0cmlYRUdUcVN3QXI4eUFaUi1sOUpMeTdOSnBfR0poYUZBckJuRVpoblE1Y1Rhakx2Y0dSTGtnZFdCa2FZNFpGVVdMT0NKUjVVcjVlQ0ItcGZfRklFMjhRVmhmZWxVQWZHaFRHYVMwRzNldmsxck1scw?oc=5",
+          "published": "2026-10-03T15:15:51+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.708,
+      "id": 16
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Nuclear power gets another look, but hesitation is real",
+          "publisher": "Eagle-Tribune",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVW5YdFB2NEtpeGhIRmFKSjRPWXhfejFhQmtnRWdmNjl2LVJPMGxScXIzVjkwVk9UZkZQT2lDYkg1RlJoYmdRUmEwRTRISVV3TTNvaWd5SUtiTnB0QXRzZGctbVRkNFhiZEJMd0wxOTJ3M1RDNVRXTzR2RDh2X0FCTmVqSGtxUUFTRTc5TE92V2Z3N2pla3JKdEhTYmRBNkVGYl8zLWtOMi16NVBLdVl2ajZjcFdGUnJsSTU1ckp5QVNfSmN1ZU91NWpWOUR6c01TYnp0dHlTYklCNEJxcHc?oc=5",
+          "published": "2026-10-03T15:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.697,
+      "id": 17
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "680 MW twin advanced nuclear reactor project advances as ground work begins in US",
+          "publisher": "Interesting Engineering",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcWpZdjBrYV90czlwUmkza2xuUDhxb016blhZc2x1SFZZUlUtMDZ6N0EzbFhFLWluWXZTVHIyYy1nYnZaUXNOQzY0RENHY2xCOGtXb19odEVuZ19VZ2kwQ3BsZE5ZRDVfa2NrWHlOWUlOMnRZaDdwdWVRU005UzJiS2RjeWx2TFB4dVE?oc=5",
+          "published": "2026-10-03T14:36:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.681,
+      "id": 18
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Series of drone attacks disrupt power supply near Zaporizhzhia Nuclear Plant, IAEA says",
+          "publisher": "The Kyiv Independent",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONkpqN0VrRDc5Y29XTmpNTjB5Z1hXQnZySkdEZTZPdDh3Z3o2cnhzOWNhUzY4dGNnUHlsclM4RW92WDNrVm5Xa1R5NW1jbl9nN2R1TktKOTMxTHd4Rm1aTHdGUVR2OTAtX1RWbThQbTBUOGxhd3lmRzR0bDBKdHp6bFBWMHpJM1JQNmYtNVpWQjY0eFZvUUR0QkVfbXdlVTdmNldqa3dKejQ0UGFqVlMtMVhyLWtFUQ?oc=5",
+          "published": "2026-10-03T13:45:35+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.646,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "미국, Vistra에 42억 달러 대출로 원자력 발전 확대 지원",
+          "publisher": "Investing.com 한국어",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kU290Y24yRkZBcWZ6OE1OQmtTakdWWEpnZ3RFTWVDNkRpeFJJVE1qTkZXQUJlaTRjd0NBOHM0QXlzSV80SHVOMjdpcHFscGpMWHBYUEVxRXRGbHBhNDBJWUZIWlR5R2hXdXpPSFJFMmU?oc=5",
+          "published": "2026-10-03T13:39:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.641,
+      "id": 20
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "BRULOTTE: Nuclear — Canada’s next energy superpower",
+          "publisher": "Western Standard",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWGZCTnFqRHltSExQX2VnaDBCSk9yVVBvRkpSTTVRaS1lVjl3ZWY5RFJqbnBJX0hiM3RvbndVaC04ZVNlUDF3d2FYdFlXYkM3alloZnlIWUhDVl83dmFEQ2M2b3RfQU1ydUxwbUhWTzZDeXlOUWFPdVdtbG04cmZHN3Q3NDg2dTg4Z3NpdkhoY2k4c19tZkhfbTV3?oc=5",
+          "published": "2026-10-03T13:30:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.635,
+      "id": 21
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "젤렌스키 “푸틴, 민간시설·원전 공격 제한 해제 지시”…러시아는 부인",
+          "publisher": "파이낸스투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FOUlBSXhZSHA0S1d5WXVlYUFQeElkRnF6QmVZb1djdThJS2NXZ2lRdlRySi1Wd180ekctTlF0VnlLS3pYYWxOMGVzNGRqYnUzMlRQNl9hYk96M01LSk8zZzRwaGRDM3NYZlN3Ug?oc=5",
+          "published": "2026-10-03T10:55:48+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.528,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 체코 원전 입찰 국내기업 참여 지원…130여개 공급사 대상 설명회",
+          "publisher": "웹이코노미",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvN0tFMFdpV2VEV1ZVM056QVUwc1FqZFhJTGMtUFRGLWM3RE1rSlRpaWdBd2NVRm5jajkzbW1ObnhidGprX0RIbVRaN052VmhrMWFGSl8xSnE1a3RNdVJScXNNdDdvbTRDYWlNUEZ0dGt0UQ?oc=5",
+          "published": "2026-10-03T10:31:11+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.511,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[포토] 김성환 장관, 전력수급기본계획 위한 원전 공론화위원회 출범식 참석",
+          "publisher": "환경일보",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EOHN5R2NpbWlnVFJLTTJfRUpHS3FlYm1tdy1PUl93X1FYYXhEQXFUbFNKYzM2UHJrVFYxVW9IMHhWSWRRXzAtd3hpYTFIeGJqRThibDV5eEhvSjVBWWhqXzk1U01WVE04?oc=5",
+          "published": "2026-10-03T09:44:26+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.478,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "두산에너빌리티, 원전·가스터빈에 SMR까지…4세대 원자로 시장 경쟁력 기대",
+          "publisher": "CBC뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DdWpsOTRxTDlod1NGdWxjYWRNMkpvbmRVZFdlTklVVW5BYkJtWEtKRmo5Tlp4TE15TjJSRzB3T3FuR2lWbVB5cFNRWWp0VnBNSlYtaTRpc2Q3QnQ4TXJqVFBxSGFSZ3Jl?oc=5",
+          "published": "2026-10-03T09:30:33+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.468,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원전 파운드리, 반도체 신화 이을까…K기업, 美 심장부 뚫는다 [분석+]",
+          "publisher": "hankyung.com",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aODY5NVA2WXRVMzlKUEtOcEN3M3ZuTHhTc1RaTG5IdVdPeGFPbkppVUszVHpvTDhiUzdpa29fbVhXT0phY0ZObk5BTTZ2dEZsVlhGLVF6aFNQZw?oc=5",
+          "published": "2026-10-03T07:43:51+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.394,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 원전·AI 기술 민간 확산…중소기업에 특허 401건 개방",
+          "publisher": "웹이코노미",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zT3NTN0FLSHNHX1VHOGp4YnA4bzVVRWFaR09hX2pEWGhDb0p2cm1nc2dNd2NvN0toMzRyWEViS0RDTjE4SFEzUDhHWldyNWx5ZWZuMHNwOUdkeVhWU3N5ZXZzT2k5WUZzalh4VU1zYzhRUQ?oc=5",
+          "published": "2026-10-03T07:26:47+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.382,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원-EPRI, 원전 기계분야 최신 기술 공유…안전·신뢰성 높인다",
+          "publisher": "드림저널",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1EbnJJMG41ZjFDMV9RenZlTWdTOWVzSi1tU185MlZ6YzcySy1TTnp0NWF4cGRVS1BkU29zSGpWUDBZUmxzUWc?oc=5",
+          "published": "2026-10-03T07:24:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.381,
+      "id": 28
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 보유 특허 401건 중소기업에 개방…기술사업화 지원",
+          "publisher": "드림저널",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1nUUpkZXFsOEVYcFhzdm5FSFVJUHc5UGxxaWRPWXVPckhZSFg3WHUybUlfMjYxM21XT1UzbDhodW1jQ04wTEE?oc=5",
+          "published": "2026-10-03T07:21:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.378,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 57,
+      "kept": 42
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 17,
+      "kept": 2
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 61,
+      "kept": 55
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 45,
+      "kept": 0
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    }
+  }
+}

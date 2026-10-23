@@ -1,0 +1,931 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-12T22:58:47+00:00",
+  "engine": {
+    "engine": "claude-code-session",
+    "briefed_at": "2026-10-13T01:51:35+00:00"
+  },
+  "overview": "오늘은 방글라데시 루푸르 1호기의 최초 임계 도달과 한국 원전 산업의 미국 진출 소식이 눈에 띈다. 국내에서는 사용후핵연료 저장 포화 문제와 한수원 해외사업 손실이 국정감사에서 다뤄졌고, 해외에서는 우라늄 농축 확장과 우주용 원자로 개발 소식이 이어졌다.",
+  "stories": [
+    {
+      "source_ids": [
+        5
+      ],
+      "region": "해외",
+      "category": "원전 운영·건설",
+      "importance": 3,
+      "headline": "방글라데시 첫 원전 루푸르 1호기가 임계에 도달",
+      "summary": "World Nuclear News는 방글라데시 루푸르 1호기가 임계(criticality)에 도달했다고 전했다. 후보 목록에는 제목 외에 세부 내용이 없어, 출력 단계나 계통 연결 일정은 확인되지 않는다.",
+      "background": "신규 원전은 연료를 장전한 뒤 제어봉을 서서히 뽑아 핵분열 연쇄반응이 스스로 유지되는 임계 상태에 도달시킨다. 이후 낮은 출력에서 각종 시험을 하고, 출력을 단계적으로 올리며, 발전기를 전력망에 연결한다. 임계는 시운전의 중요한 이정표이지만 상업운전까지는 출력 상승 시험과 규제기관의 확인이 더 남아 있다. 임계 직전에는 미임계 상태에서 중성자 계수율을 측정하는 역배수법으로 임계 위치를 예측한다.",
+      "why_it_matters": "처음 원전을 도입하는 나라가 첫 호기를 임계까지 올렸다는 것은 운영 인력, 규제 체계, 계측과 제어 설비가 함께 갖춰졌다는 뜻이어서 의미가 크다. 공학적으로는 최초 임계 시험에서 노심 설계의 예측값과 실측값을 비교하는 과정이 핵심이다. 제어봉 가치, 붕소 농도, 반응도 계수가 설계 해석 결과와 맞는지 확인하는 것이다. 신규 도입국은 연료 공급, 사용후핵연료 관리, 안전문화 정착이라는 숙제도 함께 안고 간다. 앞으로는 출력 상승 시험이 순조롭게 진행되는지, 계통 연결 시점이 언제인지가 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "임계(criticality)",
+          "explain": "핵분열로 나오는 중성자가 다음 세대 핵분열을 일으키는 수가 일정하게 유지되어 연쇄반응이 스스로 지속되는 상태."
+        },
+        {
+          "term": "반응도",
+          "explain": "원자로가 임계에서 얼마나 벗어나 있는지를 나타내는 양. 제어봉 위치나 붕소 농도로 조절한다."
+        },
+        {
+          "term": "출력 상승 시험",
+          "explain": "임계 이후 출력을 단계별로 올리며 계통 성능과 안전성을 확인하는 시운전 절차."
+        }
+      ],
+      "question": "처음 원전을 도입하는 나라가 시운전 단계에서 가장 먼저 점검해야 할 안전 요소는 무엇이라고 생각하는가? 그 이유를 설계와 운영 관점에서 설명해 보자.",
+      "study": [
+        "최초 임계",
+        "역배수법",
+        "제어봉 가치",
+        "원전 시운전 단계"
+      ],
+      "reference_ids": [
+        "iaea-pris",
+        "wna-library",
+        "nuclear-db"
+      ]
+    },
+    {
+      "source_ids": [
+        10
+      ],
+      "region": "국내",
+      "category": "핵연료·방사성폐기물",
+      "importance": 3,
+      "headline": "사용후핵연료 저장 포화가 다가와 저장시설과 처분장을 함께 보자는 주장",
+      "summary": "국내 매체는 사용후핵연료 저장이 포화에 가까워지고 있다며, 저장시설 건설부터 고준위 방폐장까지 종합적으로 관리해야 한다는 주장을 전했다. 후보 목록에는 구체적인 수치나 일정이 없다.",
+      "background": "원전에서 꺼낸 사용후핵연료는 높은 붕괴열을 내기 때문에 먼저 발전소 안의 습식 저장조에서 수년간 식힌다. 저장조가 차면 공기 냉각 방식의 건식 저장시설로 옮기는 방법이 널리 쓰인다. 장기적으로는 지하 깊은 곳의 암반에 묻는 심층 처분이 국제적으로 검토되는 방식이다. 저장과 처분은 부지 선정, 법·제도, 지역 수용성까지 얽힌 문제다.",
+      "why_it_matters": "발전소 내 저장조는 설계 용량이 정해져 있어서, 처분장이 늦어지면 운전 중인 원전의 연속 운전이 영향을 받을 가능성이 있다. 공학적으로는 건식 저장용기의 열 해석, 차폐, 구조 건전성, 장기 건전성 평가가 핵심 쟁점이다. 저장시설은 임시 해법이고 처분장은 최종 해법이어서 둘을 따로 보면 일정이 어긋날 수 있다는 점이 이번 주장의 취지로 보인다. 앞으로는 관련 법 제정 여부와 부지 확보 일정이 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "습식 저장",
+          "explain": "사용후핵연료를 물이 채워진 저장조에 담가 냉각과 차폐를 동시에 하는 방식."
+        },
+        {
+          "term": "건식 저장",
+          "explain": "금속이나 콘크리트 용기에 넣어 공기의 자연 대류로 식히는 방식."
+        },
+        {
+          "term": "고준위 방사성폐기물 처분",
+          "explain": "방사능이 강하고 오래가는 폐기물을 지하 깊은 암반에 격리하는 개념."
+        }
+      ],
+      "question": "저장시설을 먼저 늘리는 것과 처분장 확보를 먼저 추진하는 것 중 어느 쪽이 안전성과 사회적 수용성 면에서 유리할지, 근거와 함께 판단해 보자.",
+      "study": [
+        "붕괴열",
+        "건식 저장",
+        "심층 처분",
+        "고준위 방사성폐기물 관리"
+      ],
+      "reference_ids": [
+        "oecd-nea",
+        "wna-library",
+        "nssc"
+      ]
+    },
+    {
+      "source_ids": [
+        0,
+        16,
+        21,
+        22
+      ],
+      "region": "국내",
+      "category": "정책·산업·수출",
+      "importance": 2,
+      "headline": "가온전선이 미국에서 원전용 케이블 생산을 추진",
+      "summary": "가온전선이 미국 원전용 케이블 시장에 진출한다는 소식이 여러 매체에서 나왔다. 미국 내 LSCUS 공장을 활용해 생산한다는 내용도 보도됐다. 구체적인 규모나 계약 정보는 후보 목록에 없다.",
+      "background": "원전에는 안전계통에 쓰이는 케이블이 많이 들어가며, 이런 케이블은 방사선, 고온, 습도, 사고 시 증기 환경에서도 기능을 유지해야 한다. 이를 확인하는 절차를 환경검증(EQ, environmental qualification)이라고 한다. 미국에서는 원전 설비 품질보증과 관련 규제 요건을 충족해야 납품할 수 있다. 그래서 신규 공급자는 인증과 실적을 쌓는 데 시간이 걸린다.",
+      "why_it_matters": "원전 수출이 원자로 본체 중심에서 기자재 공급망으로 넓어지는 흐름을 보여 주는 사례로 읽힌다. 케이블은 눈에 잘 띄지 않지만 계측과 제어, 전원 공급의 신뢰성을 좌우하는 부품이다. 공학적으로는 열화와 방사선 노화 시험, 사고 조건 시험 등 검증 설계가 핵심이다. 미국 현지 생산은 규제 대응과 공급 안정성 면에서 이점이 있을 가능성이 있다. 앞으로는 실제 인증 취득과 수주 실적이 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "환경검증(EQ)",
+          "explain": "안전 관련 기기가 설계 수명 동안, 그리고 사고 환경에서도 기능을 유지함을 시험과 해석으로 입증하는 절차."
+        },
+        {
+          "term": "품질보증(QA)",
+          "explain": "원전 기자재를 만들 때 설계·제작·검사 전 과정을 문서와 절차로 관리하는 체계."
+        }
+      ],
+      "question": "안전 등급 케이블이 사고 환경에서 기능을 유지하는지 검증하려면 어떤 시험 조건을 어떤 순서로 적용해야 할지 설계해 보자.",
+      "study": [
+        "환경검증",
+        "원전 안전등급 기기",
+        "케이블 열화"
+      ],
+      "reference_ids": [
+        "nrc-factsheets",
+        "wna-library"
+      ]
+    },
+    {
+      "source_ids": [
+        8,
+        24
+      ],
+      "region": "해외",
+      "category": "핵연료·방사성폐기물",
+      "importance": 2,
+      "headline": "유렌코 미국 공장의 농축 확장 사업이 중요한 단계에 도달",
+      "summary": "World Nuclear News는 유렌코 미국 공장의 확장 사업이 이정표에 도달했다고 전했고, 국내 매체는 확장이 75% 달성됐다고 소개했다. 차세대 원전 연료 공급망과 연결해 해석한 보도로 보인다.",
+      "background": "천연우라늄에는 핵분열이 잘 되는 U-235가 약 0.7%만 들어 있어, 경수로 연료로 쓰려면 3~5% 정도로 농축해야 한다. 농축은 원심분리기를 수없이 연결한 캐스케이드로 하는 방식이 현재 주류다. 일부 신형로가 쓰려는 HALEU는 농축도가 5% 초과 20% 미만인 연료를 가리킨다. 농축 용량은 연료 공급의 병목이 되기 쉬운 단계다.",
+      "why_it_matters": "원전 확대 논의는 원자로 건설에 쏠리지만, 연료 공급 능력이 받쳐 주지 않으면 운영이 어려워진다. 농축 시설 확장은 수년이 걸리는 사업이라 일정 관리가 중요하다. 공학적으로는 원심분리기 성능, 캐스케이드 설계, 임계 안전 관리가 핵심 주제다. 공급처 다변화는 에너지 안보 측면에서도 의미가 있다. 앞으로는 확장 완료 시점과 HALEU 생산 계획 여부가 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "우라늄 농축",
+          "explain": "U-235 비율을 천연 상태보다 높이는 공정."
+        },
+        {
+          "term": "HALEU",
+          "explain": "U-235 농축도가 5%를 넘고 20% 미만인 연료. 일부 신형로가 사용할 예정이다."
+        },
+        {
+          "term": "분리작업량(SWU)",
+          "explain": "농축 공정의 작업 크기를 나타내는 단위."
+        }
+      ],
+      "question": "농축 용량 확장이 원전 건설보다 오래 걸리는 경우, 연료 공급 위험을 줄이려면 어떤 대책을 조합해야 할지 생각해 보자.",
+      "study": [
+        "우라늄 농축",
+        "원심분리기 캐스케이드",
+        "HALEU",
+        "SWU"
+      ],
+      "reference_ids": [
+        "wna-library",
+        "doe-ne"
+      ]
+    },
+    {
+      "source_ids": [
+        9,
+        17,
+        3
+      ],
+      "region": "국내",
+      "category": "정책·산업·수출",
+      "importance": 1,
+      "headline": "국정감사에서 한수원 해외사업 손실과 한·미 협력 문제가 거론",
+      "summary": "한수원 사장이 이집트 원전 공사 손실에 대한 충당부채가 1.2조 원이라고 밝혔다는 보도가 있었다. 같은 자리에서 한·미 원전 프레임워크에는 서명하지 않았다고 말했다는 보도도 나왔다. 한 국회의원은 웨스팅하우스 지분 확보를 주장했다.",
+      "background": "충당부채는 앞으로 발생할 가능성이 높은 손실을 미리 회계에 반영한 금액이다. 해외 원전 사업은 설계 변경, 공정 지연, 공급망 변동에 따라 비용이 크게 달라질 수 있다. 원전 수출은 원자로 설계 기술 보유 국가와의 지식재산 협력 관계에도 영향을 받는다.",
+      "why_it_matters": "원전 수출이 경제성과 기술 협력 구조에 얼마나 민감한지 보여 주는 소식이다. 공학도에게는 공정 관리와 설계 변경 관리가 사업 수익에 직결된다는 점이 중요하다. 구체적 협정 내용은 후보 목록에서 확인되지 않으므로 해석에 주의해야 한다. 앞으로는 협력 구조가 어떻게 정리되는지가 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "충당부채",
+          "explain": "미래에 지출될 가능성이 높은 손실을 미리 장부에 잡아 두는 부채."
+        },
+        {
+          "term": "EPC",
+          "explain": "설계, 조달, 시공을 한 업체가 일괄 맡는 계약 방식."
+        }
+      ],
+      "question": "해외 원전 사업에서 공정 지연이 비용 증가로 이어지는 경로를 설계, 조달, 시공 단계별로 정리해 보자.",
+      "study": [
+        "EPC 계약",
+        "원전 수출 구조",
+        "건설 공기와 금융비용"
+      ],
+      "reference_ids": [
+        "khnp",
+        "wna-library"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "가온전선, 미국 원전용 케이블 시장 진출…북미 사업 확대",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Yc1hGYzlEcmtPU0hQc0xTSFp2WDBITGY0bWJXYlVVbVh1TnViV2FxTURCX0N1Y1Z2MUEzSWw1LTM5dTVqZnZEUmwtZzJTNUlkSDZNYkxiQ1VuVDB6dVBIM9IBYEFVX3lxTE9Yc1hGYzlEcmtPU0hQc0xTSFp2WDBITGY0bWJXYlVVbVh1TnViV2FxTURCX0N1Y1Z2MUEzSWw1LTM5dTVqZnZEUmwtZzJTNUlkSDZNYkxiQ1VuVDB6dVBIMw?oc=5",
+          "published": "2026-10-12T00:38:12+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "가온전선, 미국 원전 케이블 시장 진출…현지 생산 추진",
+          "publisher": "신아일보",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pOFdHVWgyZHR1encxbDNXS0s4YWh4ekZCZlZoR1A4akp4T2dqNGFSM0tkdVdTb29Xb0h2SnJ5cUxHQVZEYThRdUN5RndVWVR0d3g3bjh1ZkRVVWgweEVuNWVmZXhVOFZEWThieDBCN0Y?oc=5",
+          "published": "2026-10-12T05:10:59+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "가온전선, 미국 원전 케이블 시장 진출…북미 전력 인프라 사업 확대",
+          "publisher": "팝콘뉴스",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sY09fR0ktVE5SS2owWHdsTERrX0EyRm04UFU2aGFoYldjN0dibk83X1VMd0h3anV6eVM2VWt4LVRLVDl3ZXhXeWFjQlBkMGY0RUpKTGlFUjFMUE1xREZleWhFVEx0V2FJNkxfVWZtc9IBckFVX3lxTE9qQXdpZndWdW1vYmxzV3hZSmRQQ2FuekF4SW5pZ0xXRzZ3Z19DdExYbTB6MDBhcFZDNHBCTGZ5OGRwWmZuQ2VLTTVBbG5vRGhZME51RmZJYWxkZGlDS0NjUVZKMDViR1lkSWNFcU8xbDZXQQ?oc=5",
+          "published": "2026-10-12T06:02:27+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "가온전선, 美 원전용 케이블 시장 진출",
+          "publisher": "디일렉",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FQW9ZeG9wQm1kUDFjRnh5TVlfUWpvR2Y3d3d1S3VlcW8xVkZQV2tCcy1DUHlRcGx4dkE0bDZRQ19qREZ5bm9NS0w2UFVGQlgzNUE4TEhXTlU4UFNTandhQWZEMm01QQ?oc=5",
+          "published": "2026-10-12T11:35:53+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "가온전선, 미국 원전용 케이블 시장 진출 추진…원전·SMR 시장 확대 대비",
+          "publisher": "elec4",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hSkxKUjQ0Q3kzSlRfR3ZLazN0OTlrSmVvaXIwZnN4WmNCLTF0Q0xXcWpxdDFlRC00bjQ4bUZQcERVZFNDQXpYWUF6dm94SV9WUUVfRzYxZGtoa1ZVQjVqNy05M2RhY0E5bXNtRGJB?oc=5",
+          "published": "2026-10-12T20:29:16+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.896,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 합천황토한우축제서 양수발전소 건설사업 홍보",
+          "publisher": "뉴스퀘스트",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EMlRGa1FxQWduYld4ZU4wMGhxS1dIMWp5REZnYWY5aTRYT0hBQUdmNlNnSlRDQ3QyeFNXQTZnNGMwVTk1bER6dWI4dERMc3hlTmhaT0M0ZXBYTDA4THBuT0JrZ2lxX2h1eElFbFgwQQ?oc=5",
+          "published": "2026-10-12T01:26:25+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 합천 황토한우 축제서 양수발전 홍보",
+          "publisher": "인사이트에너지뉴스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IRnI1YV90aVRDTlJLSU0xeGplWWhpamp1WVNDeS1qYkNuSGVIMXNZZG1iWDAzYUc3dHg4Nk1aekhob1dYTmhHQkVWWW1jS1Y2b1FVWkRBZG03NV92dkVKdUtHMDRzeUliM3ZN0gFrQVVfeXFMT0hGcjVhX3RpVENOUktJTTF4amVZaGlqanVZU0N5LWpiQ25IZUgxc1lkbWJYMDNhRzd0eDg2TVp6SGhvV1hOaEdCRVZZbWNLVjZvUVVaREFkbTc1X3Z2RUp1S0cwNHN5SWIzdk0?oc=5",
+          "published": "2026-10-12T02:07:48+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 합천황토한우축제서 양수발전 홍보",
+          "publisher": "한스경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YYnJ2TEpVRUFlLVdCalJGakc1SnA4VFE4MXc4SGszWXZHYThOdV83ZUVyUUFwYmE1MkdicEhTVDB3Qy1tYUQ4c19Td0s1d1BLUGlfeTBiWWhHRXQ2elJ3M1JFQjV2UFhTdTF5RdIBb0FVX3lxTE4zZ1FvbHViaUZBNzU2Qk9fMEh1b2laNGY0d1AyZTJHMW1rSkV3dk1QS2p6REI0TzNjRG5CTy1meDZYaDEtaEgwYW4wTEdERDBUdjBHUU5TT0R6SWhmdUxXMVdWT2dkaVJ0TE1Bc0Q0VQ?oc=5",
+          "published": "2026-10-12T04:37:42+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 합천황토한우축제서 양수발전 홍보 … 지역주민 소통 확대",
+          "publisher": "뉴데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUzZ2bUk4MnlBdVRqUi1hTm1vZS1MaGphN182SWhydGR1M21lX2g1SWx4SnN5Y25xeE1tMHJNV2FNYlVLVkxhU2JCS202YjFIdDNaSFN0U2M3T2pmakFqLTlGczV3U0IyeDNmMDB2MmpFczVSRlRaaUVSQUdGVmFsedIBgAFBVV95cUxNUzZ2bUk4MnlBdVRqUi1hTm1vZS1MaGphN182SWhydGR1M21lX2g1SWx4SnN5Y25xeE1tMHJNV2FNYlVLVkxhU2JCS202YjFIdDNaSFN0U2M3T2pmakFqLTlGczV3U0IyeDNmMDB2MmpFczVSRlRaaUVSQUdGVmFseQ?oc=5",
+          "published": "2026-10-12T04:44:28+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 합천황토한우축제 참가…양수발전 건설사업 주민 이해도 증진 도와",
+          "publisher": "SR타임스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYekdMZThBeTlQdDFNNnJxNDBqS0J1OHQzZm5VUVpvcWhpS3FENEQzdlk5N0FRLXpXeGhHcFRnOEJNV0N1LTBoUzh5MXpCaHpsZ25taHFaWk5ua3Z4WVJ6TlhhS3JUVkc2aFo00gFrQVVfeXFMUFh6R0xlOEF5OVB0MU02cnE0MGpLQnU4dDNmblVRWm9xaGlLcUQ0RDN2WTk3QVEteld4aEdwVGc4Qk1XQ3UtMGhTOHkxekJoemxnbm1ocVpaTm5rdnhZUnpOWGFLclRWRzZoWjQ?oc=5",
+          "published": "2026-10-12T05:23:16+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 합천 축제서 양수발전소 건설사업 널리 알려",
+          "publisher": "에너지플랫폼뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xVWk5aTAtdlA0bFR2dWx3dzh4aDdGQWFTTm0wNXJZbjZSRjZlSFRVM0JiWEdnLTFWTm5YUEVSem9abGgwQ0I3aEZNajNrbzZ1M1lfdWpJUkdLUXE1YVFpSHoycHgzc2dOM0JsclRn0gFwQVVfeXFMTTUwLTRnWDdPY2piN2ZZRGRQVWFkczJmOE90WTZjQzRQQWNPUVU2NHNFdEtSS3o2QWFlNzU0dU1tTmRmNVpfeXJDaXpNVGtjWDZ2akpoWHVqNlVMb3FicjFWaG80MWE0SGZDSGZHM20wcQ?oc=5",
+          "published": "2026-10-12T08:55:11+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 합천황토한우축제서 양수발전 건설사업 알려",
+          "publisher": "컨슈머타임스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41MVBBMHFKRGh3aTJnWk9sY25ycHg4ZGtLSkw2WVlNTHc2eF9QVFY2M0EzUkFvZkVaUld3ZWZEMXNRajdKT0dFQU5KRzZCY3NfRm1KWnJjS052R2J4LVRRTW91ZDF2b0QweXc?oc=5",
+          "published": "2026-10-12T10:28:33+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력, 합천황토한우축제서 양수발전 사업 홍보",
+          "publisher": "로이슈",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56ZTJqNnlWOEJtaC1DeU5oZlNmSG44SkxBNGZRa0tJMy1mTjFYQnN4N2JnWGtUUUQtc2Y2WmpwMFBodWEzOHQyTFE1NFloMV9QeG9tU091M3J3VnFtZHkyMFlRaEg1S0FGSkUzZzc1U2VuWUxBY3E2UmdR?oc=5",
+          "published": "2026-10-12T14:16:44+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.638,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "산업교육연구소, i-SMR·SMR 상용화 전략 세미나 개최",
+          "publisher": "에너지신문",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RemhIcktZeUREQjJpczduNkZlUjk2SDN2b1R0NEpxYmxTcnhacjNMYTBBcnJjUlF1OFJ2NG1EUlptZ1h1d2ItVEg5Z1dHMlBQcEMwSlpBdTVxUmRyS09rQVgzZ3pfYWpnN01pOTU2MHYxUQ?oc=5",
+          "published": "2026-10-12T04:10:30+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "산업교육연구소, 차세대 한국형 i–SMR·SMR 상용화 전략 세미나 개최",
+          "publisher": "에너지타임뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2LXIyQ3FoWlVEOGJNRlI1YTlLOGZadjY2bjF2SFV5U0Jic25NMUVOcG05WVVwcUhHcGhVaEdqbk5haUNrQTI5MG9sSkU5NFFweFluUE5JT2hXR3FRZEZwNWJmNE44UFFHOXpfc1Z4eUtvZ9IBdkFVX3lxTFBsR01fQms0RWRuRUxxdHVPN1NaSTJCV01pdUZmOXpNckNMU2F2VmhMbW5qRGdrWnpIdGJJalc3Q182MjkwbFVVcUdSemdKNFE2dkRLcGVtOVI1aE0wUXBBbk1pc3h4emkxTTVRZ1FJc0hzbXpjR1E?oc=5",
+          "published": "2026-10-12T06:19:55+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "산업교육연구소, SMR 상용화 시장 선점 전략 세미나 개최",
+          "publisher": "인사이트에너지뉴스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBES3E0bEFNalVXMnVVTG1xNWJtb0NUUWlrd1RDUG1VdGo2Qkd2R25hZnBHRTRZa3dUNFBMeWUzLXl0R0ZXTlFyTVB4ald4N0R0ci1KR3VqQ21tV1JSUjhiM3RNNDRwdzJIclBr0gFrQVVfeXFMUERLcTRsQU1qVVcydVVMbXE1Ym1vQ1RRaWt3VENQbVV0ajZCR3ZHbmFmcEdFNFlrd1Q0UEx5ZTMteXRHRldOUXJNUHhqV3g3RHRyLUpHdWpDbW1XUlJSOGIzdE00NHB3MkhyUGs?oc=5",
+          "published": "2026-10-12T07:14:11+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "산업교육연구소, 차세대 한국형 I-SMR 상용화 전략 세미나 개최",
+          "publisher": "기계설비신문",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tV25YSjRmVzNFVGlBNHlSWEFvQi02cUtXaUd5Q2NyeGVPQzhwQ0drTGs5ZlZ2bzJvUDRUNVIxaVNtU1B2bHFLcVBhQ0pySVFRX0w1cjFNSEFydVBmNnlvWWQ1TUJwNWdzZ1J1Zw?oc=5",
+          "published": "2026-10-12T09:21:46+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.433,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[국정감사] 박성민 “美 원전 선점 위해 웨스팅하우스 지분 확보해야”",
+          "publisher": "투데이에너지",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2WVk0TkQzNXB5MXdhemNsUUxHTjFsVmdMUVBraU5SeGNIaDNtenZtTnlNZ2I0bm82cDFGaGcxMXU1WmY4c0VfaG5KTTk5WmVqNFdzUVB2SjNKcEJsZldaUV9OdTVwekNqejFrdzZB?oc=5",
+          "published": "2026-10-12T05:42:26+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[2026 국감] 박성민 “美 원전 진출 위해 웨스팅하우스 지분 확보해야”",
+          "publisher": "울산매일 - 울산최초, 최고의 조간신문",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3azBrZWo5cWxqNnc4SUdaNGxjNmpBUHIyNzBZMjI2ZXVQTWxXZjJjd2hWWnlkbWxTNjNsYkIwUXJXSUE0R0czYTQ4UUlwZVBURF9uMm5LaU9zWVlMeW9jQUxFem1IX0I2RUJ1Rmtn0gFuQVVfeXFMUDdrMGtlajlxbGo2dzhJR1o0bGM2akFQcjI3MFkyMjZldVBNbFdmMmN3aFZaeWRtbFM2M2xiQjBRcldJQTRHRzNhNDhRSXBlUFREX24ybktpT3NZWUx5b2NBTEV6bUhfQjZFQnVGa2c?oc=5",
+          "published": "2026-10-12T09:22:49+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "박성민 \"세계 원전 진출 위해 美 웨스팅하우스 지분 확보\"",
+          "publisher": "경상일보",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VMXNtZGZHekNvajdaOEIzQk5feHh3UlhJNTFVZFp6SThrWEdEb0dCaVJBeWVuaEk4eWVlNXRfVm9QQXdIU3ZyZ25hTjZaVnFzYlJVeGlGSVhMOFU4SWdUbUEzMkRFV0h5TVA4cg?oc=5",
+          "published": "2026-10-12T15:00:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.668,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Hyundai E&C tests used fuel repository excavation equipment",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/hyundai-ec-tests-repository-excavation-equipment",
+          "published": "2026-10-12T13:18:01+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.597,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Bangladesh's Rooppur 1 achieves criticality",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/bangladeshs-rooppur-1-achieves-criticality",
+          "published": "2026-10-12T12:47:06+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.575,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NASA, DOE join forces for 'new era' of space technologies",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/nasa-doe-join-forces-for-new-era-of-space-technologies",
+          "published": "2026-10-12T11:19:38+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.515,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Hanhikivi-1 termination decision cases 'to continue'",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/hanhikivi-1-termination-decision-cases-to-continue",
+          "published": "2026-10-12T08:32:55+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.399,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Milestone for Urenco USA expansion project",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/milestone-for-urenco-usa-expansion-project",
+          "published": "2026-10-12T08:21:15+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.391,
+      "id": 8
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원 사장 \"이집트 원전 공사손실 충당부채 1.2조\"",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKSkpXMmVFa1I3OEQ0bG55aExXWG9SUGhldjV0T0Z3UkthS3JlN21jdnNvN2FFOEdaNFJLd3BjOC1wRThOenl4c2JCQWl6MC01ZGlRWXZNYjZCNE5RenBBMtIBeEFVX3lxTE9uZ1hrbElCSDVMeVBQNWtqVkJSSGJVZVdzVWRYd2U2cGNNWkRYUC1STklxdHpYTDNGcXdiekx6N3hPeVFraHhCUGd6Rm9oQVlOWVM5ZU5GdmhzcHNvVk55SEllX3pLVVpfYkRkMmhGZnJURU1pN3N0Vg?oc=5",
+          "published": "2026-10-12T02:38:51+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 이집트 원전 사업 공사손실 충당부채 1.2조…부실계약 논란",
+          "publisher": "민주신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2VjRCWnYzemtsYVdjbWpoTFhNZU9DYUgzcVdjU1ptSXlsMTYxaEJPTzg1Zk52OFVQT29Qa2g3c2p3bVFiUXZsUHB1MG9EMm5hUC02QUNnQ2pxZjFXeFdCV1NwcHlNZTVvclFn0gFrQVVfeXFMUDZWNEJadjN6a2xhV2NtamhMWE1lT0NhSDNxV2NTWm1JeWwxNjFoQk9PODVmTnY4VVBPb1BraDdzandtUWJRdmxQcHUwb0QybmFQLTZBQ2dDanFmMVd4V0JXU3BweU1lNW9yUWc?oc=5",
+          "published": "2026-10-12T04:36:39+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 이집트 원전 공사손실 충당부채 1.2조",
+          "publisher": "팩트인뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwRXhaMTdKYl9TOWZQRGYwZVowXzAyZTFKVnlCWVlHN3JiT3hjazdtelZHSlZLcnF2NEExUk9WRlNOU0dfUkVRM0xiVERwcVRESy1wT3Z3MXEwMTdpYlluTjhaRVVKNzR2cHFmZWg2SXrSAXRBVV95cUxNRF9uREtaUHdEVmtjQjZMQ2Q1T3p5aXFKNG5EbTZoSHpRU1lPNG45eW5pVWtNNzFiZzV2dnJSNzBoX2VyMERld2hyMXlRWThVemlRX0ZqcWI2Y2JIdW0wUjZNYVlNUlpJUDg4RzJBaTdTRHhJNw?oc=5",
+          "published": "2026-10-12T07:12:30+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 2.343,
+      "id": 9
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "\"사용후핵연료 포화 임박… 저장시설 건설부터 고준위 방폐장까지 종합관리 필요\"",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rRm0tRDlfWkw5VnhCRk1oenBzdHBOUnExTzNKckU1MzAtdjRPbXFCSDVhRTFEUVhIZ2VMZ1lrSjRXMDJBWFA4X2RWUk1sdjJvaUR1UGpJcXh5SExzc2ZOaVRxVDcycC1weFFzTnB6dmVEZw?oc=5",
+          "published": "2026-10-12T01:16:19+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[국감] 박해철 의원, 고리·한빛·한울원전 사용후핵연료 포화 임박, 건식저장시설 건설부터 고준위 방폐장까지 종합관리 필요",
+          "publisher": "경인매일",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GWnlTNUtXcEN0aHdud2VPR0lIYnMxaW56bHBXMGxVVkstQjlYa3VxQTRaQTg0YUlINUNoV2hHNVl2dXhZVTlsbUtqdHlzUGROSEtqd3FLU0t2UkEyajNyNFc4V0dCMHdz?oc=5",
+          "published": "2026-10-12T04:03:08+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "고리·한빛·한울원전 사용후핵연료 포화 임박... 고준위 방폐장까지 종합관리 필요",
+          "publisher": "영남경제",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1enZPbXBfMm5XWHd3NXU1cG9VSS1jNmRzZ2pqV0Rsd1k4NW0wZTV0V0FkcU9BSUx6RHBhdkwwRlZzLWppRG1BMkpub0dfT3FUUkZYX1ZhZzVHR0M0QzdzYW1PYWdBVkE?oc=5",
+          "published": "2026-10-12T06:10:13+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.3,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Nuclear Technologies in Space: From Batteries to Future Rockets",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/news/nuclear-technologies-in-space-from-batteries-to-future-rockets",
+          "published": "2026-10-12T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        }
+      ],
+      "score": 2.043,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "India Targets 100 GW Nuclear Power Capacity by 2047",
+          "publisher": "Siliconindia",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUWJWVlJsQWY1elY2aWozTDNkc1loNmQxVG8xMzFlNWpoQVZkRXY0UmhyQVhnMUhLN0RhUmxoMHR2cTV4TThNTktEVnZ1WGdVVGRuWXZaRzFGemVzS25aYmxTS0hTUlNndURGZDlyNGdkTUJiLUlyOEFrYjlmekhQTWV0ZE94ZXpEa3BWbl8wSXhpUzFneUZlSmM1ZU5fSjBxMGNZ?oc=5",
+          "published": "2026-10-12T11:24:41+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Jharkhand Explores Nuclear Power Plant Prospects as India Targets 100 GW Nuclear Capacity by 2047",
+          "publisher": "SightLine | U308",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRDVqX1VuRUpnX2RucFFOZ2FSUUNxVVZnTjU2STBMRkdZTWtUblZnX0xVbjd4YmFsVXBpSDNBeThZVU1NVjJBU0FXQ1FzY3g3ZHBQRFp4aU1RYW5pM09BbzFILWFQRWpqMlB1Z1UySml3ZmZZbjZFU3pfdUZTTUg5MWh4eV9UMHFkX3M1eWtHc0RMQ0tOenB6QmN6MzV1ZTVla19ramNhODNoQXdqamlaMEF3bUpVeGFpWU9HTmYzRUIwVG5nalZrM29Zd2E?oc=5",
+          "published": "2026-10-12T20:41:35+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.905,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Romania uses reservoir water to raise Danube levels amid nuclear plant concerns",
+          "publisher": "AzerNews",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wbnZUS29XZ1ZtM2lvMEQ5U3FyVXFWS0tLZWZJdTh2WE1jS3lPYS0zX0VZMlZfM1hXRGtfaFVlWW9ibWVMbkZWdHg3VEUtSHU3eGxzTA?oc=5",
+          "published": "2026-10-12T04:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Romania Uses Reservoir Water To Raise Danube Levels Amid Nuclear Plant Concerns",
+          "publisher": "Menafn",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSFdqdVl3UlYweHhpLW9XVnRyM0szeWZRekZRZE1wNGxScHVmZmlYNWUyUFF2Y3A4RkVlNUR0MEgxbkh1ajNyaUZoZnhwMlpKSlBZN2NzSkpPaWNMMVBvdkxBcFk3eHR3OFFTMl9Eam9WNHMxVFBISEhFQ2EydG9kVk4zOUhhNmhoRHowRHNFWHI3RmJXU1pZb3l1NGdoZmx2Y09lWUxkeDFWd1l4MEE?oc=5",
+          "published": "2026-10-12T16:07:24+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.714,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Number of Rosatom employees at Iran’s Bushehr nuclear power plant reaches 135",
+          "publisher": "تلویزیون سفیر",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaVNIbUFzbUJKbWt4U2lWbE5zY3ZCSTVGV09YSzkxYUF6dVlrX2ZaWkp1NU5oQndiVlRYa1RKUV9zenRkTVVLOEY4RFRnNWNSWUI2OXVsb0lzRERJYkVjaGlybTI2M3I1WDVPVEdJNGFHYVBwR3pMRVozQkR6UktkZnFFcHItQnFnWjJmWUNPVzdMUXJobHB6MFpnQ3B1Z3VkLW45T2hXNEhlbEta?oc=5",
+          "published": "2026-10-12T10:21:17+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Number of Rosatom experts at Bushehr nuclear plant rises to 135",
+          "publisher": "www.saba.ye",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wbGV4VEc5bkFOQi0wTWg3SVAwUW02ZUlvRFFNWWZIYzFhdzJlVUN4MWZZYXJsakhReUtURHh5b2I5WHV1N2IxU0Z3S1dyRUcyWHhKUk9QZ3I?oc=5",
+          "published": "2026-10-12T10:46:52+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.492,
+      "id": 14
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한화오션, 원자력 추진 함정 분야 경력 직원 채용",
+          "publisher": "한화그룹",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YQUdxTmJyUXpJUmpWZkdERW90eElOS0xOZU94eTQ2TUxCSTR3MTB6ZldhUzdDREhfdUEzMFlkd3VHcnRvek10QmdGd1lsTlJrLUx5ajlyRlZaVlNScW9oLVVuTThFZTZfUHc3T2tfNlRTQUlZdmtvd3RGVEpjRHM?oc=5",
+          "published": "2026-10-12T01:41:52+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한화오션, 원자력 추진 함정 전문인력 채용",
+          "publisher": "경남신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wUHM1VW96YkJGTUpESU1wRmZwVENXNUlKdlRKVl8weGdiSWw0X215Z3VydjBmMjZSTFN3SXdpS2hBNUxySVBIWThZVC0tZ09YLUtFTTc2OHNIQQ?oc=5",
+          "published": "2026-10-12T10:18:51+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.472,
+      "id": 15
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "가온전선 미국서 원전 케이블 생산…LSCUS 공장 활용",
+          "publisher": "자본시장뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KTHFwSGRJYmNjN0VsZTMxR1VFZHFJWWQ2Ry04Y1EweXotOXBhTVBER0xlQklRemtXakdZVGgyQVZudVBrUl9pUmxneVVYMHM0MjJRTTZlSllmNW9JY3lHUlN5Z3dVSjA?oc=5",
+          "published": "2026-10-12T06:30:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "가온전선, 미국서 원전용 케이블 생산한다",
+          "publisher": "에너지신문",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1QVFEemhBQ1V2MzVHUGJYZVB5bU55eEs5LVp4Qm1KNjg2bWxpVHViOE9ZTEVreEtJRXh5VEVyT1hrVWxmX2o2clpCeGNIVkVlTWVIaUlWR0VsWFRNXzRHV3dZcjFqdUNkT28tWllxd1VuUQ?oc=5",
+          "published": "2026-10-12T08:17:56+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.388,
+      "id": 16
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원 사장 \"한·미 원전 프레임워크 서명 안했다\"",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83MXBrMERCb1VzUVZ5RExfLWU4MW5CU1lqcUEyNjdhZnlzR1RzQVV6S3ktMkt2RnlnZ2phSGYyel9aSFpIU1FiWW42X1Y0bERvdGhzUW5uZzhwQnk5UlNqczQ2eUo4UzZVVG4ydlp3bDBKZmxVVWR0dNIBeEFVX3lxTE83MXBrMERCb1VzUVZ5RExfLWU4MW5CU1lqcUEyNjdhZnlzR1RzQVV6S3ktMkt2RnlnZ2phSGYyel9aSFpIU1FiWW42X1Y0bERvdGhzUW5uZzhwQnk5UlNqczQ2eUo4UzZVVG4ydlp3bDBKZmxVVWR0dA?oc=5",
+          "published": "2026-10-12T07:48:12+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 사장 \"한미 원전 프레임워크, 구체적인 계약은 서명 안했다\"",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kU0w2VWpUdmVhaHFYSS1zdGNhY195UXhqQUFvVVctbzJnd1EtOWpDeDc3U2hYeUp4N3l3MmdJU1VrbWVpZXkzeGQzVjBJSGhuajZUV1o3MUtlRXFsbjhBStIBeEFVX3lxTE83MXBrMERCb1VzUVZ5RExfLWU4MW5CU1lqcUEyNjdhZnlzR1RzQVV6S3ktMkt2RnlnZ2phSGYyel9aSFpIU1FiWW42X1Y0bERvdGhzUW5uZzhwQnk5UlNqczQ2eUo4UzZVVG4ydlp3bDBKZmxVVWR0dA?oc=5",
+          "published": "2026-10-12T07:48:12+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.368,
+      "id": 17
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "BoA. 3분기 단기 순환매로 베팅·유통·원전·배달·제약 꼽아",
+          "publisher": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnZ2tFb2FrM3Z1TWJ5c1k5NnlhMUlCSFVfU19meWZwLUl0NXJHeUluaFNnNG5xRUY0aEY0dlRmY293M1otWXdCWHpLTjRMUElDQmxpMjlEVFB3Zw?oc=5",
+          "published": "2026-10-12T07:26:16+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "BoA. 3분기 단기 순환매로 베팅·유통·원전·배달·제약 꼽아",
+          "publisher": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HWElENHZKODBiZkVIaU9YN3pLRm9wVkpYZ3BqeDFNYjZBME1fTjI2SFk3SFZxMHFFcl96a2pJQ0FyTzVUNENLaVFlQkxscWQyblpCLVlzb0V6d3pDdnM4UTZjS09MSVQt?oc=5",
+          "published": "2026-10-12T07:26:16+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.352,
+      "id": 18
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 합천양수발전소 건설사업 주민 소통 확대",
+          "publisher": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91M1hlYVBzMTRUS2NjbWg3RkUzTUxlaEZ3dEU3SWtkYlZaS1NuMDNSNVZwQW1HbkdsYzB0MTdHR1ZBR2NYOEN0NC1OTmE0eHQ5UkFVdGdydG93cUZFX0VwV3Q4cmg4c0x4LVozZTNTZmk2emfSAXdBVV95cUxNR0JKTjY2cjNIY1ZJUkpzRjZ2UC1VcFUwaUZTbkszdmRaXzBaM1lCdlZ3RE02eHFKZmZMUEZ5Z1ZjTHEwM0g2YXFXYWhjZC1Dd0VUdjJyeW5QQmJzdUN4anpscjdCRkh2VTNaRkpkZVpOeE96WFlyMA?oc=5",
+          "published": "2026-10-12T01:29:46+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 합천양수발전소 건설 앞두고 주민 소통 강화…지역 축제서 사업 홍보",
+          "publisher": "메가경제",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9veXY1a1J4LUhycUxKSmh2RUtsZkFCVmFySE5hM1FjMWdqYzI4OTdRZ2dxWGQwSnF5b3JOSmtUZ0VWcWRybU5fQ1RVNDl0OU1uNUFxMk5DN3Fhd2Q5YlRSclJqMDkyRkMzMkdEUnlYdERiZ9IBckFVX3lxTE9veXY1a1J4LUhycUxKSmh2RUtsZkFCVmFySE5hM1FjMWdqYzI4OTdRZ2dxWGQwSnF5b3JOSmtUZ0VWcWRybU5fQ1RVNDl0OU1uNUFxMk5DN3Fhd2Q5YlRSclJqMDkyRkMzMkdEUnlYdERiZw?oc=5",
+          "published": "2026-10-12T06:46:18+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.325,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "새울원자력, 노사 합동 ‘아톰 공학교실’ 운영",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyNXhuUnNFdDh2RnhVUm52em9jeG9GT3pselRFZzVZRkxYZnIzMkRiaHl5TnRLdk9uNVlaYS1VckVQaUF4RmVvb3JNd0lYV1JuWE1FT0tnQ1JQc0E5V3Y4TWk3RGZkSWFZM0JCMjZpejVzQQ?oc=5",
+          "published": "2026-10-12T04:44:12+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "새울원전, 노·사 합동 ‘아톰공학교실’ 운영",
+          "publisher": "울산종합일보",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lR1RXTG9pdHRuU0N4RnhHZmI1UFVpS2dueWx4V3VndW1JNFpTekNPNG52OWFUZWRqaG4wMkJXeVNqWmE1a3VLdHg5RlJub2FjWjdvSm8tX2hRdnMwT1FjOXJ1UHB3NGgtMFdZVkhR?oc=5",
+          "published": "2026-10-12T05:12:37+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.26,
+      "id": 20
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Gaon Cable Targets U.S. Nuclear Power Cable Market",
+          "publisher": "Businesskorea",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lZ3UydnBXdldkbF80Zlg5Wk1VQXlFU2ltYnN4NkpJc2FwTS1DUXF0WVlnTExBU3piT0N2X2FacVJaUzMxTHVkWERqY3pNREVZU2dQTE5BaERFWFZRNThacGFXODAwajlNa2pMRnZvR05tTHpM?oc=5",
+          "published": "2026-10-12T04:02:14+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Gaon Cable Co., Ltd. enters U.S. nuclear power cable market, steps up push into North America's power grid",
+          "publisher": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtaFNpcjc3MDdWMHpDanV0eVoyM3hTQVpiSFFBc0xaYXBjaHVTcG1yTndabjZEQVluTllvVXRodzBjd2JvdFQ5UHNfMHBLV1h6bldV?oc=5",
+          "published": "2026-10-12T04:42:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.238,
+      "id": 21
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Gaon Cable to Make Nuclear Plant Cables in U.S.",
+          "publisher": "Seoul Economic Daily",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZFpieXZpNzJXbHZlTVFRMHpxNEQ1a05jeGEtVmpDQWFUNG9aWjhvMjJ2UzhiVEpnVGFYM1ByQmJFbjlDcGJhMzh4ejMtV1ZWcWpjZzZ4ZUNhdHR0QnJlYUU4WHpXNkRaSVhLdG16T1RZSzhkTzBzSVBSWlpQaEl3VkNNMnNydVI2Z1lnejBNMjc?oc=5",
+          "published": "2026-10-12T01:15:18+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Gaon Cable to make nuclear power plant cables in US",
+          "publisher": "The Korea Times",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaTVocnFLUTZVWXJEdU9ERUhjS1VYWllGLUhPRkRqQnZfWE5qT3NzVko4S2RHM002RkhtSGRkb0lKZ0J3QllMb2FUOVZyV1BJOFRoUnNNeGpVUld3QnlLT0pUY1RwN014VWg1SWNmb0R3VjR1Nk9DTENMcDVKbzVVZWtqakpsdGpSV1pLYVBWOUx1N1RhcU1GM19yTmgtczF0MDVTeTFmYktnRjZjNE5RNE1R0gGyAUFVX3lxTE1pNWhycUtRNlVZckR1T0RFSGNLVVhaWUYtSE9GRGpCdl9YTmpPc3NWSjhLZEczTTZGSG1IZGRvSUpnQndCWUxvYVQ5VnJXUEk4VGhSc014alVSV3dCeUtPSlRjVHA3TXhVaDVJY2ZvRHdWNHU2T0NMQ0xwNUpvNVVla2pqSmx0alJXWkthUFY5THU3VGFxTUYzX3JOaC1zMXQwNVN5MWZiS2dGNmM0TlE0TVE?oc=5",
+          "published": "2026-10-12T04:36:03+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.234,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "체코, 첫 SMR 인허가 시동… 원전 도입 넘어 '세계 부품시장' 정조준",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0cm1udG4yQVoxQ2Uyb3hEanZJVVRHX1hLZl9lbzdaUkFCNGZ3RE9kNjE2NkRzYTZoNERCX3paRzhwNXBodkxKZUFQcFBlbFBIOGR4c2h2Q0RxZWdkWWxPRmVyWEQ?oc=5",
+          "published": "2026-10-12T22:47:47+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.992,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "美 우라늄 농축 확장 75% 달성… 차세대 원전 연료망 '장악' 나선 유렌코",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBldkM5UEZjell2aXMtU203N2poMjJ2R2l1SjFXSkJPVzVBdkNpcjgxU2ptazIyRENIc3RfZmNHYlhxZHpqUmVSRnVLOFBUMFMwNWRUWHpNR0tQa0lWY0gybHZJdVk?oc=5",
+          "published": "2026-10-12T22:32:03+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.981,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "\"믿고 샀더니 -30%\"…조선·방산·원전 ETF에 물린 개미",
+          "publisher": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iZk5Wb3Z0N2lGWHQ2YzFlU1BXWEtKd2lVY08zRU1ZSHo3SXdDQXI5QUoxeHlQRktwaGdUSlF5OU5lMGhiZ2lidHlEREpybkpBTEpvYWF2SQ?oc=5",
+          "published": "2026-10-12T22:13:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.968,
+      "id": 25
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Nuclear power key to Philippines growth plans, says Marcos",
+          "publisher": "Mining.com.au",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbUZvNkNlSHlRR1JqY3k5OExMZGhKa21McjI5MmVLMEEtaEhubXluSHcxVUg0N0JmeUx1ZWZucF9vdnY0aWtxbnBhNENydEJnRUhST2hJVVp6QUEwNFNoNmpKNldvRGJWTEg2MzJkd2ZjRFlOcUdSV1REM2JlVzViTEFXM2tZdkU?oc=5",
+          "published": "2026-10-12T21:27:03+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.936,
+      "id": 26
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "ICC panel rules on Russian-Finnish nuclear power plant dispute",
+          "publisher": "Global Arbitration Review",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSmlXUmVYd3FSNEhoaWY4Rm1rUzhKQjBaaUFONHFQUjRsNldtZzJTUzB5dVlub05iaUNkanlRbndmcjlhc2dTY2ZTYVpIYnZreUx0d19DTE1tUl9EZWFlRGY5TllaZFV3cnVPN3R4Um1nZ2JncXlCaUFvNVVseGVfNGNqbl9vSWFfWXlndVpMdXRlanR4OWpRLVpYYzI4eGpBczFsUjJ3?oc=5",
+          "published": "2026-10-12T20:46:22+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.908,
+      "id": 27
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NASA Glenn is designing the first U.S. nuclear reactor in space in more than 60 years",
+          "publisher": "Ideastream",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZThNZ21LbzBmSVYza0F5ZzBDWlpHYy0tNGtiQjZiWnpaZnc3VGtJdDFxQ3JvaTQzVDBjQWxyX0tGakZwRHVpZXU1VEMyTmxoM3pUREJYdXdESlFGSXgwc1h3U3VjUi14ZThseUJqLUo1VTF2a1R2OTcwZl81SFhQeFgyQy1aMHNUaXZmQk1pQTVUakg3TTFPVFlCVk9KUDdtNnhoLWE0U1RETmhsNl9PR3hpajFBQ3BVQjZDQzNTQWk1OXFoMFdBSVZkUGxPY3ZTWXBBSTRMMWs?oc=5",
+          "published": "2026-10-12T20:16:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.887,
+      "id": 28
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Critical milestone reached for Poland’s first nuclear plant: Westinghouse secures long-lead orders",
+          "publisher": "The Business Journals",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2luUjhxdDBpd2NUa1N2N285Tzk2YjQzenRPTnBHM1o3Z1pDa1kzRk5rSDlNeTJMeWhnUmt0Y0lnX3MtRnF2Q051QmFKNHR2bXlpSXBRN0s2VkRESE1ydktMSzhVOGU2cGJfUFVCUzBmdWpOY1U2cFZfYzZ4QS02QzNZZXNTT2pYeVEtUlB1LUtENXAxUWtpTEdqMVUwZ0E?oc=5",
+          "published": "2026-10-12T19:39:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.861,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 88
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 42,
+      "kept": 35
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 66,
+      "kept": 56
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 47,
+      "kept": 5
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 1
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    }
+  }
+}

@@ -1,0 +1,738 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-17T18:30:37+00:00",
+  "engine": {
+    "engine": "claude-code-session",
+    "briefed_at": "2026-10-17T21:51:58+00:00"
+  },
+  "overview": "체르노빌 보호 시설 복구에 G7이 자금을 내기로 했고, 슬로바키아 모호프체 4호기가 처음 전력망에 연결됐다. 캐나다 서스캐처원은 2050년까지 원전 설비를 늘리는 계획을 내놓았고, 미국에서는 데이터센터 전력 수요가 멈춘 원전의 재가동 논의로 이어지고 있다.",
+  "stories": [
+    {
+      "source_ids": [
+        23
+      ],
+      "region": "해외",
+      "category": "원전 운영·건설",
+      "importance": 3,
+      "headline": "슬로바키아 모호프체 4호기, 처음으로 전력망에 연결",
+      "summary": "슬로바키아 모호프체 원전 4호기가 처음으로 전력망에 연결됐다는 보도가 나왔다. 후보 목록에는 제목 수준의 정보만 있어 출력 수준이나 상업운전 시점은 확인되지 않는다.",
+      "background": "신규 원전은 연료 장전, 최초 임계, 저출력 시험, 계통 연결, 출력 상승 시험, 상업운전의 순서로 진행된다. 계통 연결은 터빈발전기가 만든 전기를 송전망과 같은 주파수와 위상으로 맞춰 처음 내보내는 단계다. 이후 출력을 단계적으로 올리며 각 출력 구간에서 계통의 반응과 제어 성능을 시험한다. 모호프체 원전은 가압경수형 원자로(VVER 계열)를 쓰는 것으로 알려져 있다.",
+      "why_it_matters": "계통 연결은 건설과 시운전을 거쳐 실제 발전 단계로 넘어갔다는 표시이지만, 이후 출력 상승 시험이 남아 있다. 이 시험에서 터빈 정지, 외부 전원 상실 같은 과도 상태에 설비가 설계대로 반응하는지 확인한다. 장기간 건설이 이어진 사업은 설계 변경과 규제 요건 변화를 어떻게 관리했는지가 공학적으로 흥미로운 관전 포인트다. 앞으로는 출력 상승 시험의 진행 속도와 상업운전 시점을 볼 만하다. 신규 호기가 소규모 전력망에 들어올 때 주파수 조정과 예비력 운용이 어떻게 달라지는지도 생각해 볼 점이다.",
+      "concepts": [
+        {
+          "term": "계통 연결(grid connection)",
+          "explain": "발전기의 전압, 주파수, 위상을 송전망에 맞춘 뒤 처음으로 전력을 내보내는 시험 단계."
+        },
+        {
+          "term": "출력 상승 시험",
+          "explain": "여러 출력 구간에서 제어계와 안전계통의 성능을 확인하며 정격 출력으로 올리는 시운전 과정."
+        },
+        {
+          "term": "가압경수형 원자로",
+          "explain": "높은 압력으로 냉각수의 끓음을 막고, 증기발생기에서 2차 계통의 증기를 만들어 터빈을 돌리는 노형."
+        }
+      ],
+      "question": "신규 호기를 처음 계통에 연결한 직후 바로 정격 출력까지 올리지 않고 단계별로 시험하는 이유를 안전과 설비 관점에서 설명해 보자.",
+      "study": [
+        "원전 시운전 단계",
+        "VVER",
+        "계통 주파수 제어"
+      ],
+      "reference_ids": [
+        "iaea-pris",
+        "wna-library"
+      ]
+    },
+    {
+      "source_ids": [
+        0
+      ],
+      "region": "해외",
+      "category": "안전·규제",
+      "importance": 2,
+      "headline": "G7, 체르노빌 보호 시설 복구에 2억 6천만 유로 지원 예정",
+      "summary": "G7 국가들이 체르노빌 원전의 보호 시설 복구에 2억 6천만 유로를 배정하기로 했다는 보도다. 우크라이나 매체 세 곳이 같은 내용을 다뤘다. 구체적인 공사 범위는 후보 목록에 없다.",
+      "background": "체르노빌 4호기 위에는 사고 후 임시 구조물인 석관이 세워졌고, 이후 그 위를 덮는 대형 아치형 보호 구조물(새 안전 격납체)이 설치됐다. 이 구조물은 내부 방사성 물질의 확산을 막고, 낡은 석관을 원격으로 해체할 수 있게 하는 것이 목적이다. 구조물이 외부 충격이나 기상 영향을 받으면 차폐와 밀폐 기능이 떨어질 수 있다. 그래서 외벽과 설비를 점검하고 보수하는 일이 장기 관리의 핵심이 된다.",
+      "why_it_matters": "사고 후 수십 년이 지나도 폐로와 방사성 물질 관리는 계속 자금과 기술이 필요한 일임을 보여 준다. 방사선량이 높은 환경에서 구조물을 보수하려면 원격 작업과 차폐 설계가 중요해진다. 이번 보도만으로 피해 원인이나 손상 범위는 알 수 없으므로 제목 기준으로는 복구 지원 결정으로 이해하는 것이 안전하다. 앞으로는 지원금이 어떤 보수 항목에 쓰이는지와 공사 일정이 관전 포인트다. 장기 폐로 사업을 설계 단계부터 어떻게 고려해야 하는지도 생각해 볼 수 있다.",
+      "concepts": [
+        {
+          "term": "석관(sarcophagus)",
+          "explain": "사고 직후 파괴된 원자로 건물을 덮기 위해 급히 세운 임시 차폐 구조물."
+        },
+        {
+          "term": "원격 해체",
+          "explain": "작업자 피폭을 줄이기 위해 로봇과 원격 장비로 고방사선 구역의 구조물을 해체하는 방식."
+        },
+        {
+          "term": "차폐",
+          "explain": "방사선이 사람과 환경으로 나가는 양을 줄이도록 콘크리트, 납 등으로 막는 설계."
+        }
+      ],
+      "question": "고방사선 환경에서 보호 구조물을 보수할 때 작업자 피폭을 줄이기 위해 설계 단계에서 어떤 장치를 미리 넣어야 할지 제안해 보자.",
+      "study": [
+        "체르노빌 사고",
+        "원전 해체",
+        "방사선 차폐"
+      ],
+      "reference_ids": [
+        "iaea-ines",
+        "oecd-nea"
+      ]
+    },
+    {
+      "source_ids": [
+        5
+      ],
+      "region": "해외",
+      "category": "정책·산업·수출",
+      "importance": 2,
+      "headline": "캐나다 서스캐처원, 2050년까지 원전 2600MW 확보 계획 발표",
+      "summary": "캐나다 서스캐처원주가 2050년까지 원자력 발전 용량 2,600메가와트를 목표로 하는 계획을 내놓았다. 어떤 노형을 쓸지, 몇 호기로 짓는지는 후보 목록에 나오지 않는다.",
+      "background": "서스캐처원은 석탄 발전 비중이 높은 지역으로 알려져 있어, 탈탄소 전략에서 원전 도입이 논의되어 왔다. 계획 용량인 2,600MW는 대형 원전 한두 기 또는 소형모듈원자로 여러 기에 해당하는 규모다. 노형과 부지가 정해지려면 인허가, 환경평가, 연료 공급망 확인을 거쳐야 한다.",
+      "why_it_matters": "장기 목표가 제시되었다는 점에서 신규 원전 도입의 첫 단계 정책 신호로 볼 수 있다. 다만 노형 선택에 따라 건설 비용과 일정, 계통 연계 방식이 크게 달라지므로 앞으로 어떤 선택을 하는지가 핵심 관전 포인트다. 석탄 발전을 대체하려면 기저부하 용량뿐 아니라 부하 추종 능력과 송전 인프라도 함께 검토해야 한다. 지역 전력망이 작을 때 큰 단일 호기를 도입하면 정지 시 계통 영향이 커질 수 있다는 점도 설계 쟁점이다. 한국 입장에서는 수출 가능성이 열릴 수 있는 시장이라는 점에서 동향을 볼 만하다.",
+      "concepts": [
+        {
+          "term": "기저부하",
+          "explain": "하루 내내 꾸준히 필요한 최소 전력 수요이며, 출력이 안정적인 발전원이 담당하기 좋다."
+        },
+        {
+          "term": "소형모듈원자로(SMR)",
+          "explain": "공장에서 모듈 단위로 제작해 현장에서 조립하는 소형 원자로."
+        },
+        {
+          "term": "부하 추종",
+          "explain": "전력 수요 변화에 맞춰 발전 출력을 조절하는 운전 방식."
+        }
+      ],
+      "question": "작은 전력망에 대형 원전 1기를 넣는 경우와 SMR 여러 기를 넣는 경우를 계통 안정성 관점에서 비교해 보자.",
+      "study": [
+        "SMR",
+        "기저부하와 부하 추종",
+        "탈석탄 전환"
+      ],
+      "reference_ids": [
+        "iaea-smr",
+        "wna-library"
+      ]
+    },
+    {
+      "source_ids": [
+        14,
+        9,
+        13
+      ],
+      "region": "해외",
+      "category": "정책·산업·수출",
+      "importance": 2,
+      "headline": "AI 데이터센터 전력 수요가 멈춘 원전 재가동 논의를 키운다",
+      "summary": "미국 기술 기업들이 과거 원전 부지를 되살려 데이터센터 전력으로 쓰려 한다는 보도가 있었다. 국내 매체는 이 흐름을 미국의 AI 전력 경쟁과 연결해 한국의 준비 상황을 다뤘고, 러시아와 미국이 원전 전력을 쓰는 데이터센터 사업을 논의한다는 보도도 나왔다. 세부 계약이나 호기 정보는 후보 목록에 없다.",
+      "background": "데이터센터는 24시간 일정한 전력을 필요로 하므로 출력이 안정적인 원전과 맞는 면이 있다. 폐쇄된 원전을 재가동하려면 연료 확보, 설비 점검, 인력 재확보, 운영 허가 갱신 같은 절차가 필요하다. 또 원전 부지에 인접해 직접 전력을 공급하는 방식은 송전 비용을 줄일 수 있지만, 계통 연계와 공급 신뢰도 문제를 따로 검토해야 한다.",
+      "why_it_matters": "전력 수요 증가가 원전 정책의 근거로 쓰이면서, 신규 건설뿐 아니라 기존 설비의 수명 관리와 재가동이 중요한 공학 과제가 된다. 오래 멈춘 설비는 노후 기기의 상태 평가, 안전 등급 기기의 재검증, 디지털 계측제어 교체 등을 점검해야 한다. 이번 보도는 제목 기준 정보가 중심이므로 실제 재가동 규모와 일정은 확인이 필요하다. 앞으로는 재가동 사례가 실제로 허가와 비용 문제를 어떻게 넘는지가 관전 포인트다. 한국에서는 수출과 국내 계통 운영 양쪽에서 이 변화를 어떻게 읽을지 생각해 볼 만하다.",
+      "concepts": [
+        {
+          "term": "전력구매계약(PPA)",
+          "explain": "발전사와 수요자가 일정 기간 전력의 가격과 물량을 미리 정해 두는 계약."
+        },
+        {
+          "term": "운영 허가 갱신",
+          "explain": "원전이 설계 수명 이후에도 운전할 수 있는지 안전성을 다시 심사하는 제도."
+        },
+        {
+          "term": "계통 연계",
+          "explain": "발전소나 수요처를 송전망과 연결하는 설비와 절차."
+        }
+      ],
+      "question": "폐쇄 후 일정 기간이 지난 원전을 재가동할 때 어떤 기기와 계통을 우선 재검증해야 할지, 이유와 함께 순서를 정해 보자.",
+      "study": [
+        "원전 계속운전",
+        "데이터센터 전력 수요",
+        "전력구매계약"
+      ],
+      "reference_ids": [
+        "doe-ne",
+        "nrc-factsheets"
+      ]
+    },
+    {
+      "source_ids": [
+        16
+      ],
+      "region": "해외",
+      "category": "SMR·신형로",
+      "importance": 1,
+      "headline": "미국 용융염화물염 원자로, 2027년 임계 도달 목표",
+      "summary": "미국에서 용융염화물염 원자로를 짓고 2027년까지 임계에 도달할 것으로 기대한다는 보도가 나왔다. 후보 목록에는 제목 수준의 정보만 있어 출력 규모, 사업 주체, 연료 형태는 확인되지 않는다.",
+      "background": "용융염 원자로는 액체 염을 냉각재나 연료 용매로 쓰는 형태다. 대기압 근처에서 운전할 수 있어 고압 냉각재 배관이 필요한 경수로와 설계 철학이 다르다. 염화물염은 고속 중성자 스펙트럼 설계와 연관되어 논의되며, 부식과 재료 문제가 핵심 쟁점이다. 임계는 연쇄반응이 처음 유지되는 상태를 말한다.",
+      "why_it_matters": "임계 도달은 개념 설계가 실제 장치로 확인되는 이정표이지만, 상업 발전까지는 재료 내구성, 연료 처리, 인허가 등 많은 단계가 남아 있다. 액체 연료 계통은 고체 연료와 안전 해석 방식이 달라서, 핵분열 생성물이 염 안에 있을 때의 관리가 중요하다. 이번 보도는 기대치를 전하는 수준이라 일정이 늦어질 가능성도 열어 두고 봐야 한다. 앞으로는 시험로의 인허가 진행과 재료 시험 결과가 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "임계(criticality)",
+          "explain": "중성자 생성과 소멸이 균형을 이루어 핵분열 연쇄반응이 일정하게 유지되는 상태."
+        },
+        {
+          "term": "용융염 원자로",
+          "explain": "고온의 액체 염을 냉각재 또는 연료 용매로 쓰는 신형 원자로 개념."
+        },
+        {
+          "term": "고속 중성자 스펙트럼",
+          "explain": "감속재를 줄여 에너지가 높은 중성자로 핵분열을 일으키는 방식."
+        }
+      ],
+      "question": "용융염 원자로가 저압 운전이라는 장점을 가지는 대신 어떤 재료와 화학적 위험을 새로 관리해야 하는지 생각해 보자.",
+      "study": [
+        "용융염 원자로",
+        "임계와 반응도",
+        "고속로"
+      ],
+      "reference_ids": [
+        "iaea-aris",
+        "nrc-advanced"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "G7 countries will allocate €260 million for the restoration of the protective shelter at the Chornobyl Nuclear Power Plant",
+          "publisher": "Українські Національні Новини (УНН)",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTXhOYUV1SUphcmhCZGlfMWZoYmhqcVRaUVo0OVJGd0xzY19uWWRMOFVqczNxTXYtSGwzVzEyRm92c0E4WDh0STk3Y25TZC0xaWlfeUVQRFFRSnpaNUd0d3lqUktnV2IwbEpWOXRFejFtblI3cV9lZWxFVVZNZS1GcmhIVDlFaXVDZDVpVThza0x5VlVLT01nUmU4QXl5TzFRaU9BVHo0YVI5QzEyc1NmdmFfSU1uUFlSZEVxTFFibzNST0I3Q2VWVUVQaFhkcjRfZ09jYm80dFhCZHVfVU1Jd9IB4AFBVV95cUxOTXhOYUV1SUphcmhCZGlfMWZoYmhqcVRaUVo0OVJGd0xzY19uWWRMOFVqczNxTXYtSGwzVzEyRm92c0E4WDh0STk3Y25TZC0xaWlfeUVQRFFRSnpaNUd0d3lqUktnV2IwbEpWOXRFejFtblI3cV9lZWxFVVZNZS1GcmhIVDlFaXVDZDVpVThza0x5VlVLT01nUmU4QXl5TzFRaU9BVHo0YVI5QzEyc1NmdmFfSU1uUFlSZEVxTFFibzNST0I3Q2VWVUVQaFhkcjRfZ09jYm80dFhCZHVfVU1Jdw?oc=5",
+          "published": "2026-10-16T20:41:34+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "The G7 wants to provide €260 million for the restoration of the Chernobyl Nuclear Power Plant containment structure, which was damaged by Russian attacks",
+          "publisher": "LIGA.net",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNRnlfNUVYYi1zRWswTWF1U0lRZEFNMHFRTzk1VVB0ZEtoTExGR2cySkNxWlBJd0VKRTE5T0VNdkxHX1g1OHdTczd1Ri1XSXVxd1BTUmdKR3czRVJzQ2VQcjZhamtiMnN4OUpQNW1GVks0Q21iT1JsU3ZYOWs0ajZKMFpRV04zSWNqN0RkNU1ha3VJbFRIb0tjSDJNbUpnRmRRS1F2aWpzVlJPUFF0QTBFdnFMSGhkYjBwUzdBd0dtd1ltbmVXbkgtMTZwVGJTSHI5NjU0bDZPUkYzdDMyQ0JENE9RMGlmck1SSXRwY01jcldrZy05aWtucnBQaTVGR3ROLUdDVVZDYk9kWWxTYnJBUGJfNNIBmAJBVV95cUxQUkFoenR3dTU3UUpTczNfVzR4Q1RYaFZWd2FEWnhVSC1vMUZ5UUNBdEtCTDdWM2NkT1pzMkFPODlVSjNCUFBlRmFxc1BnVWtVY2cxVHNaUFJIR2VLRUdOdUZmV1pZZ1U2cHFnY0FvMGtzc1NTX3o1MS1HRldmeGtpamV3a1Y5TVNSaDhLdWpfRm5EMnRodEJ5aEMyMG1KZHpabThmZFVObHM0OWNNNXYxVWhpQ0MzaFZTZDkzNTlvOVFUdDZTUE9PcWlWUE1rTTJBWV9pSDRHczJEcE1FdlZhMzU1bUNwVkhiQjk0cFpHOHo5NHNrRDdHRFZ1VlliN09KZVhvdnYtVzRndzNCcUlySEVyNy12RDV4?oc=5",
+          "published": "2026-10-17T06:04:08+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "G7 Countries to Allocate €260 Million to Repair Chornobyl Nuclear Plant Shelter",
+          "publisher": "uatv.ua",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLV84dzRtQXdHR0NMbDJxZ1U5X0U3WnIzRGl0ZTlIQjVSTlY2VGNVSlhxeDBTbm1OZHgwem9Kdy1JdHFqV09PbmZXSkZ5Tzg2SmhkWm5YYkg3V1BpMmhrbDRES3RObzRMSGRaOGx2M29sX3VOVXFNTFFzOEV4QXhHakJXVnRseERzRDhqVE1sV090SUc3OTFMLUxPOEhQR1U?oc=5",
+          "published": "2026-10-17T12:02:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.73,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원 인턴 출신 2490명 ‘성과급 소송’ 패소…법원 “정규직과 같은 업무 아니다”",
+          "publisher": "엔지오프레스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjdnlocDg0WGJpeGJnRzI3S2xwOUQtc19YQWUtVG5LVl9tQjVfM2ktN2pJanpuR095WUtEZEZfMEdIT2hCSjM2R2JpclhyNFowaC1IMHE2Z0RGX1ZfcTBvbmo0czRrQUUz0gFsQVVfeXFMTm1WMTBQaFByclJWN2hWdWNfTnR1VEwtS3NDZlBaNzNUTXFWOV9GY0l1M2tNY3phYXRyUl9qUy1GaTU2bGtBdmFvcFNESGRYTHJ2YW00Sm10bWVXM2ZncmFPVk56U2s2OVRkRjNq?oc=5",
+          "published": "2026-10-17T01:13:53+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "\"정규직과 같은 일 했는데\"…한수원 인턴 출신 2,490명 패소",
+          "publisher": "news.sbs.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLUQ0WUNCMzJ1QnJTZ2ZMb2w2SXFaWFc3NWt1UlJHcEQyd09VRTNpMFdOVmJyYVQzVFlLOEdZV3VURVFvdkdqbWVnektXR0l1WlU4VnJvZjZqYnduT3hYQmdGQS1HeXpVZzA3NHNaTWJNVzB3NDYyNmdOSXVvdU9yM0twNkpRdVRFUmE1bWVUcHhtUQ?oc=5",
+          "published": "2026-10-17T02:27:05+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "“정규직과 같은일 했으니 성과급 달라”…한수원 인턴출신 2490명 패소",
+          "publisher": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XeXltVmczRjQ1ejhxNUo2NTY3Z0VjRW5yQXpVUklqYmtBMEhWenhhaWM0bzZDcFRPTzkyaXZTYlNkTXJKSTZUOVlQd3dta2QtRHdENg?oc=5",
+          "published": "2026-10-17T05:32:44+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 2.46,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "“정규직처럼 성과급 달라” 소송 낸 채용형인턴 출신 한수원 직원 2000명 패소",
+          "publisher": "www.dt.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9XZ0NUM2Z0UGw5eUN6R2VuLVBZQUVrLUxRMFd5am5vTk5oZ1lydlBOb3ZnWWZIazJ1NFVud2VlOG9ZalZzeFpuNkdxMmpUUQ?oc=5",
+          "published": "2026-10-16T22:20:47+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "채용형 인턴 출신 한수원 직원 2천명 '성과급 달라' 소송서 패소",
+          "publisher": "생생비즈플러스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4SnR2ZDI2V202UnRJLVFFbnVRbnRnV0gxQ2NxblhUWHpzWG9TRnd4OVlfWTh3YkZ0bTZRYzJsVnhpc0JEZnNDZVlCUkRhVFdDQ1FpVWx6MVVUeEFoNWNmZkNjUElUdEV6SWF0cg?oc=5",
+          "published": "2026-10-16T23:14:49+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "\"성과급 못 받아\" 소송 낸 채용형 인턴 출신 한수원 직원 2천 명 패소",
+          "publisher": "MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tTUFPS3RqazUwaEotZGZDOXkzWTc0YlJMTldzMWU2WGxsVkp3bHN0anc0ZjF3Y3VIdVRUS2JWdlNtX0ZobEduQk5xQW9WdzU0cDAxWXpYSF9Kcl93SHVHZFVmcWdHQ1VYZmI1NWdrRGhMV1dzcDdV0gF3QVVfeXFMTTM3T0JUQVNCOGtHdHpWa0gySm83N0Rmc1RpN2d3cDJzTTJmVExWSnJfZk91eGJVbnk5OW9zLUJRYVNxS1FhSW8xVWhqZ1g3RjZLQ1M0YzRaTjBYWVc0by05S2xJOWZsTWlSczc0UGdIcFFFSHlfaXc?oc=5",
+          "published": "2026-10-17T04:51:25+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 2.431,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Browns Ferry and the fight against eelgrass",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-16/article-8413/browns-ferry-and-the-fight-against-eelgrass/",
+          "published": "2026-10-16T21:01:55+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.105,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Energy ETF Investing in Focus: AMLP's 7.7% Dividend or NLR's Nuclear Power Promise?",
+          "publisher": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWHJNVnJHN2pIZmRRWW1GR3hXSkNVVWpaODlIUHpJdDRJV1FqZ0xEeEpDZW80d2ppUHdnU1ZVcnpWQWgwYzdRd3J4Szg4Y1RJWGptVUxlQjVoeEotWnVRb1lEMDFiUzVOb2hWd3FTdzVBN2txbzhLZXBOWjZxYS1Yd1lXM3ZndXZYb0pvZzl5b3l0M2M?oc=5",
+          "published": "2026-10-16T20:22:01+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Energy ETF Investing in Focus: AMLP's 7.7% Dividend or NLR's Nuclear Power Promise?",
+          "publisher": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSEZWZ2hJZ0hDTEt1a3M1TlZzYzYxRUpPdXN0V19jX0doVjlRbk43VWdDdGJzQ2M4TTZPZDlwbVdxZmxpb1FGZ0c4VnVRRldZUkxLSDJHV09TdHhuQWJQTWRJLUtfZm90eUhfYzFCNW1XSUJaVkd3LWRjaXFrVGpSYl9ROWxqSE9rc2M2NnpPY2NWajZNdS1VVXhnOVpXdFgxWGhmcy1McmI4dm5lSkxLbHZqU2VENDQ3UENKejM4X0xKMlNQSkE?oc=5",
+          "published": "2026-10-16T21:02:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.105,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Saskatchewan unveils nuclear power plan targeting 2,600 megawatts by 2050",
+          "publisher": "DiscoverMooseJaw",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdUdOUEk3RnprR3lWbUU3UnNxdmcxdzNPWDlrMTJna2NONXdibC1ROGFmTDM0QVV2ZGpHMVB5ZjRma0dpNDhGdXdJTjhYVFRYN0Y0WUJpNk9KZ2hBUF9LU2IzVkw1eEJOaE4yNFB4bnNBU1JTS1dGMGlVb0tFUG9SRENOeThfSmo5bTNmZWVFejZ0UkE5Sk9YZ05XNE9yUHRkQ1JwbjJ1RDVlN2drTkVn?oc=5",
+          "published": "2026-10-17T17:31:53+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.959,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Race to 2036: Will Poland deliver nuclear power?",
+          "publisher": "TVP World",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaDgtQ3RHQkJXWUdQZnV4TjBxOURQRC1YblhlQVZXWURVTzAwVjNWUVNoemxKdGhOMFRFSnpxb0I4MkN5bXpRMF9tWkhQLWRwWWJmYVBUMEw4NnhDSHBSOUx6dWNta3JzRWw4V0J0RVlOWTY2Mld4MWloUWZqOFNyWnhB?oc=5",
+          "published": "2026-10-17T16:53:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.932,
+      "id": 6
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "‘붕어빵 원전’ SMR의 역설, 아세안 규제 장벽부터 깨라",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQSFJVU2d6bWxzc0ZFQ1oxV01sUlZfUnZRYzFmMm5yaHNkN3VCc29DdzZJdENhdWNCYVlmbUhaSE1QRlNFSXpGaUxOU0drbGRfRWFweTZkMzNqdEZybnZpSmhOUDI?oc=5",
+          "published": "2026-10-17T16:35:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.92,
+      "id": 7
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "\"아세안 원전 규제, 뭉쳐야 산다\"… IAEA의 SMR 통합 열쇠",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54N0pzanpXMzR5a0NXOWJmSnU0eWY0a3FnakZmS0c4MmQ5Y1VwVTYzVUgyY080a1BaWUVOZVpMNzk1dGtBeU5kOHhfQ0YyS19ycTJUQlJDQm1HalBYNW5tQWIxSlM?oc=5",
+          "published": "2026-10-17T15:45:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.885,
+      "id": 8
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "AI 전력전쟁에 멈춘 원전까지 깨운 미국… 한국은 무엇을 준비하나",
+          "publisher": "독립신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9valNyOG16UFc2bDNWRVl4VklXRzJsaXFnN0pWLXFhdjJvUmNveWxLS0FmTlpzeFdzMndlM2RKVTk1VEJIeTBiTGwwYUJ6RGI3ZmdVaDNnWmp6ZXNHV215Q2FTWUMtZnozU09Z?oc=5",
+          "published": "2026-10-17T15:44:13+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.884,
+      "id": 9
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "30조 사우디 원전 시장 열렸다… '팀 코리아' 중동 신화 재현 청신호",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04VmN6ZzAxLWNZX010ZFFUTFY0WWotVVg5VzU1R2hIaHVOZUFrT3VNNzhrYm55OXdyN21hSF9EY1VyUDVackQ0ZG96QnRjN0tJVGxqX3gyWFdoeFRqUUF2T1RhVVM?oc=5",
+          "published": "2026-10-17T15:35:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.878,
+      "id": 10
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원전 주기기부터 가스터빈까지…두산에너빌리티, 전력 인프라 수요 잡는다",
+          "publisher": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53TU1CQzRjbVFrVTJmNHlHUmh0M01yTDNrSlp3dV80QmZPazJ1Yl84WGtISmdfN01xR3FqbDV5ZXRPWmI0X1BuTTFJTW1wWk9lUFpLTU1NRFVHSVJoMXc4c2t0OWtDZVJfem82cjNjU0pCNjFScHNv0gF3QVVfeXFMTndNTUJDNGNtUWtVMmY0eUdSaHQzTXJMM2tKWnd1XzRCZk9rMnViXzhYa0hKZ183TXFHcWpsNXlldE9aYjRfUG5NMUlNbXBaT2VQWktNTU1EVUdJUmgxdzhza3Q5a0NlUl96bzZyM2NTSkI2MVJwc28?oc=5",
+          "published": "2026-10-17T15:33:59+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.877,
+      "id": 11
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "HD현대중공업, 차세대 이지스함 3번함 진수…해상풍력·해양 SMR 사업 확대",
+          "publisher": "웹이코노미",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55d2JmT1RiRFBWeUV2TXlnVFNYZUFNbC03VGNuaW5lVWpxUUF1WDc5bEVPTFhSZlAyWXNUeDc3d2ItM3p3emFxMG1OWEpYMWtKai0tYV95LVktYlpFLW9tWnBiVE9SZTM3bUVNQ0R6TE10UQ?oc=5",
+          "published": "2026-10-17T15:19:51+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.868,
+      "id": 12
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "러시아·미국, 원전 전력 데이터센터 사업 논의",
+          "publisher": "토큰포스트",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTM3hFOEdGQUhlMHRsLUxWVFBEX2I3WEZtaHg3a1F0YTVMaEdmV1NtUnlULU1sX2gyeWdvSllBazlSRmV0UngwZVl5VzVSU3NR?oc=5",
+          "published": "2026-10-17T14:58:37+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.853,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Tech companies revive former nuclear plants for data center power",
+          "publisher": "PennLive.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLXZWZ1BxeW9MS29oUTZEdHRIRUR0X21LTzZiclV2S2FaTDVXQl85Q2FaTmZHWEx1Y2djcUxyRTRQV0IzWm9XT2dQQXVCOU5PcGIyZi00cFdTdl9mMThCdFVwbGdpVG9rWUFxYlNsXy15VWhud3hUc1o0eEhCTWlJc0VNazFnVDBtS1BVOFFEYklwZTRuTTFVbkVObmJxT1NUZWFIQWhTOGk3bXM10gHAAUFVX3lxTE5Wd3FJYVJZNUczdV91UHhOY2UxYlY3eHpyU1AzajQzZVo4UV9sWE5Nd2tsZWxvRTY2blR0bkFTRE5KalBhWG9qTGl6RldLYnJ0YjNmLWVPLVJ6a3FVTDBsX2xoZmtxTmRkSlJQdGQtbllRMXpXSndZSEpMZlRHNXdXY09vczlocTJ4TnRidi1BUmExLWphTHJNQkl1ZmRmM2pnek1KNVdWdEFPSVc3NkZOUk5ONkJ1NDdnYm9ucW4yaA?oc=5",
+          "published": "2026-10-17T14:34:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.836,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Nuclear power good replacement for coal; EPC costs need to reduce: ReNew CEO",
+          "publisher": "Mid-Day",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMXhqMVg4XzFlT2t4WjR5UXZ5blozOE9iX190TXF5bXJ6MFUtV1ZWZ19QcEJQSkdLbHhQRkt2aFJSZ1ZvM0lSUEs0bm5pUGJvVE8zS2pXWHF2SzhMRWluMXg0cGpRXzZwUE9TeWlRWHV3aG5wRzRJd3R4MUxSNGlIZ3I0dUVJZzdTSklGN3dHcEt2c0k2bXdaOGYtLUdMVjBPRDZfektmME5NTC11eDNIVm9CczF2QUN5NzVN?oc=5",
+          "published": "2026-10-17T14:24:36+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.829,
+      "id": 15
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "The United States Plans Groundbreaking Molten Chloride Salt Nuclear Reactor with Criticality Expected by 2027",
+          "publisher": "Inkorr",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ1c3bmtrODZRcVEwZUhWRWFIdmV2emhPQnB4RVlqcWxVY0N1dEREU3BkR1BrMG9FN2ZlWGJaUXBlQVd1X1FUenRzS1Z2bGtraDJ1d2wtZldQNkRQdnIxVkEzaS1hZlpxRWR5OHBmcHZFUlctUGtlS19aSm1DWmI5cDF2YjdYajg0UjFRdmtkaUhMcDdoZmxKN0VmODF2LXFYdFVrQzFPZjdZV243c1RPZ0JOLUVXa1dGdlhWWFdwU1VicUF0cGp4btIBzgFBVV95cUxNenBNYlUxeTFDTWRZd19RZ3ZUN3RXVHhzd21XSXQ5TDRFSEQtX01OY2hjVjN6dDRhUUFMZnhRTmtPVWFJd2VoOGJLVjk2WEFsOVJ3ak5Oal85MWh0cUFqZkdlWlFfYS1sZ2xMWGFxX1lLdDd1YXYySVlVTnpHa2JmUUhtOXhOZ1RSQ3NuNzJVSVNRN0xUNmdjR3I4MnFPdzdlcGxzU2NkWkxfUmE3UVVKVkU2ampmZGlJQ0NlNjlsejNsRmNxY2JhVTJfNkRfQQ?oc=5",
+          "published": "2026-10-17T13:44:29+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.801,
+      "id": 16
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Advanced nuclear reactor design uses swappable cores to beat liquid salt degradation",
+          "publisher": "Interesting Engineering",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcTg4bWlOSFhGdDR6aXk4OHFBOGZsNkd1ZkwzbUFLN0M1NmQ0RWRSS00wOFRyTEFRVFNSajRkakI3dXhMV3JyNGVJY2lfYVo0XzRxdnBMaEdld1dsWEV0RFg3dTFlTDNIaHdRZ2IxSlVlSDc3eGF5WnkwdU5OWHZPclZjUnFLN3BESWhCeHRB?oc=5",
+          "published": "2026-10-17T13:17:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.782,
+      "id": 17
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Opinion: The costly burden of nuclear power",
+          "publisher": "Saskatoon StarPhoenix",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS3B2RlRkZFltTTNNVHlhSEVtQmk5ZG9DVU1DMTM2dlJ1TndCMHYzMGNDOUsyNGdiOE5ncl9ReHZBTkJxVkFGRGlNd3pTVmtQcUpwN3RnTzJmaGt5OWo3UGM4NEZJZnBObUN0UWNfV2k0VU5pbUV1S1lYbXd0Tjh3U2ZLXzFWQ2xVdVFBRGEzeWlGTGNPZWM3bQ?oc=5",
+          "published": "2026-10-17T13:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.77,
+      "id": 18
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "\"정규직처럼 일했으니 성과급 달라\"…한수원 인턴 출신 2490명 패소, 이유는?",
+          "publisher": "매일신문",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45akJtbnhtT3dHUThxdnhQcEhpZ2xVSDBudGNSa3MtbHJPT3NYTVRScjV2VkIyOWJIV2ZJQmFPdEZrOWlOTFNDRFRwaDJQS2Y0ekJGLUJac0pDdHQ2Si1vT2dB?oc=5",
+          "published": "2026-10-17T11:54:43+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 0.725,
+      "id": 19
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "The only country in the world that operates a floating nuclear facility wants to bring it to Africa, with its largest African partner in focus",
+          "publisher": "Business Insider Africa",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY3N6LUI1cDlQV2g2ZTNkUV9MWGxkTmZiaU0xU3JhX28yLUZiWUExUkYtdUhOb1UyUXJhOG9NX21hZmZOQ3FpV2E0Ynl5bjhiNXFuazRvUzZuSTE3cXJxdU1XVllETGRvaDh0Ymd1aHFHNlM1eWNfd2NPSktCOE4zdzBjTlF2WkJlcmJGOVlXWnE2M1hSVkR2ajVMZzA1bHVzLVVNbF9QTUt0ak9LQ0V0SExwWnVsT3pVWlRYTVpSUTJXYS1RVUVoX0RIXzU3RDdVSi0w?oc=5",
+          "published": "2026-10-17T11:45:35+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.719,
+      "id": 20
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "The Hidden Dance of Helium and Argon: How Temperature Gradients Quietly Stratify Nuclear Reactor Coolants",
+          "publisher": "Bioengineer.org",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT3AxMzFiYm5xNnRBQjZrVS1vYjM5YzlKZkVaa191dVFJeklhWkNLNmNsOTZMVXFWMG9Fdm5WTDhaME1ReC1LajVoVUszRFE0NGJkYkoxaDhadmJhTFVtTVFpS25rd05LRHNTMWhibDJyN0pfY2c4U3N0NkszcEJTN05lWHN1RFdselNSRmlFTTUzNm5oamVmd2RNVzhocDNKUHczb29PYXRWS3NLVHExMGxvcTJueGJ0MkZyeGo0eDloNlRPZjBoaw?oc=5",
+          "published": "2026-10-17T11:21:15+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.702,
+      "id": 21
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "박동일 신임 산업부 차관...제조업·원전 두루 거친 산업정책 전문가",
+          "publisher": "산경e뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xVzVzZW9YajFwaDQ2YmtSMTJHUi01eW56UzFUXzlIVHQ0VUVHRHpYYWVlU3VKRnpNNzdPOGdBcDBMdjhYN0R2M3paZWJwVDBSd1ZiTTV4RDhDRlhReVFOYnRXblRwdTg?oc=5",
+          "published": "2026-10-17T11:17:30+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.699,
+      "id": 22
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Slovakia Connects Fourth Unit of Mochovce Nuclear Power Plant to Grid for First Time",
+          "publisher": "LIGA.net",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVTlVa0ZXOHI1ZUd6Q0dnTUlXOERGd0wzOTludmI1S1R5b3o0ZUxyaHFrbjBERjFpS2Nmc0dtQU54NkJCQ25HdnU5a0xMWW04ZXVIRHA1ODlWNFFPWVZMdG5hOUtKUGxWS2NSVFM5Mzd1YVBOT29BSTR1R0xtMXNvQVh1QktoNUl2Zl9pUjFFX1JtdWdMMEpwX0hUM3VTcklHYlNtb3A1YXRWRjNCNno5em9VSUFZLWJrckxhNNIBwgFBVV95cUxQRTdnUktjaE1qY0stV2ZFaXJNLUVXdkJaQ2F5c2RTUnV5UTVQeUdKd0Rid1B5eEE5V0l0clAtd1lvSGNMV0hBcUItbUJTdVktSU1VWEZzc1hLU055a0lZdmM2WlZYWlFaTXM3dzZhNkVHOUJqQ3Q1Z2tlVWtNVEJVQ0hJUzdfQWsyUG9TVU1qeXJTVjhMSWhSbXk2Skkwb0x6M2cwbTRjMGNGUG1Fc2sxc3FZVjRHTXlaT0tneXhRZHd5dw?oc=5",
+          "published": "2026-10-17T09:34:48+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.628,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "“정규직과 동일한 업무” 주장한 한수원 채용형 인턴 출신 2천여명 소송 패소",
+          "publisher": "천지일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1T0F6UTdZbzFSZGRvRmZ5SDMyT05VNjVpOHMtQmhITlZrMVU1WkFSdEd4aHFGZ1ZQdVRjTWZ5Z0ozM3R6dUZRYXhXcmYtbTBXdW5mRjZBdGRSa3dQbkgwYm12T0VXaldwbnc?oc=5",
+          "published": "2026-10-17T09:15:40+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 0.615,
+      "id": 24
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Seventy years ago, Britain led the way on nuclear power. Then we stopped",
+          "publisher": "The Telegraph",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSHNnWWhNc0RCTkI1a3dOWm5fbl9OeDZnZjhObEphb1lSeGR6aTg1dWJFN0hySTRrbGFQSFUwTldQWG5EWGpzZ0g4LWtPQVM3SE5Jb09qUUZINzJVUlhSemtpU1ZaR1hFWEt0VDE2U1NTZTI4T1c3NWd6cGxyTW5vaW1NTVRBd3hQNi10RmFpYlpSbWptbVpBZXlXZDU3SmNORG43eg?oc=5",
+          "published": "2026-10-17T09:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.604,
+      "id": 25
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Russia’s Rosatom targets year-end start-up at Turkish reactor, seeks investors",
+          "publisher": "The Arab Weekly",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY0xGTXJwX3dCbFN0aW02RHB6RV9weDZ1ZkYwSUNPZkFteUV3VjZmUzVDeE9VVTl3b0wwbkRUV29NcFN1TlgyT3hqZnFSVUpVb0tPNUk5LVYwTlRkNFpBaHlfWTZxT1QxdzJvRjBRaGJRN09ZaG1vOWJ5elE4emlMQzlqRVlJbUY5WWRjU3k5dEQyQy0xblVPRmVBYlU?oc=5",
+          "published": "2026-10-17T08:28:03+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.582,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "책벌레 순둥인 줄 알았는데...HD현대 정기선, '왕회장' 쏙 빼닮은 강단으로 조선·방산서 순항‥원전·AI '라이징 스타' 뱃고동",
+          "publisher": "글로벌경제신문",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54T1BVMTI4bUdzY1pVR2R1SWFVaDc1cHU0TGhjOURTeW5sNlB3QnR2VjYtUlRxaTFZZ1dPa2JLTFppQjJKa2ZVZHRnZUplbTJtVkd3LVhnNVBXMl94ZU5hWWthZlRVc1UwVVZkadIBcEFVX3lxTE5oVFQ2SjAxd3YwUDJ2MlVLSTN4YWhyTmlWaXI0R0JFMlpGWWtQQ0JKN290Q2ZpY1gxVVBKeEJWR0hveVlFTFhPNzhodWtVRElBOGxieHlYUEppQUx6SFdfcnl1MWRRbHlvY1FGbXg2WVk?oc=5",
+          "published": "2026-10-17T07:35:41+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.545,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "“정규직과 차별받았다”…한수원 인턴 출신 2490명 소송 패소",
+          "publisher": "한스경제",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCMFdUWjdVbDZPelctMkptVFltdFhzZ2xnc1FJa01UQ3JYejVsTkltREJlWEdZQnhxSGtXMDNWSFdKcDI3NFctMmtqTHo3NnQ4Q3RsRThITm9FMFF1VEUwc2dNR1NpbldkYWpZ0gFvQVVfeXFMTU5TdnlOT3QtWHZfTnJGUjJ5UDQ3d3NfcnJIbUVHTllBQjZOZlM1VDh1d0lRVkVKQmNuNnhqSjYxOW5TUVdDWjhha04tWWV4Njk3c05FRk5iU1gxNHpDb0VmMDBVeE05Q1R4MElYY2w4?oc=5",
+          "published": "2026-10-17T07:30:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 0.541,
+      "id": 28
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "경주시장애인체육회, 박성률 한수원축구단장 '건강교실' 초청 특강",
+          "publisher": "국제뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1idEVpT2lnMEs1VEp6T2wtX0YyZXFnTnQ0blhNVndpU3pkVkl0Z2VaUVE1aTc2RldUR2RpbHRQWnl0ZTFhdVp0UjBaNXlUOGtmaDN3TkhCOXdYYmNhRlFXZ0x4ZTJiaDdwcGI5Q09R?oc=5",
+          "published": "2026-10-17T07:25:21+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 0.538,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 55,
+      "kept": 32
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 19,
+      "kept": 14
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 45,
+      "kept": 40
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 49,
+      "kept": 0
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 1
+    }
+  }
+}

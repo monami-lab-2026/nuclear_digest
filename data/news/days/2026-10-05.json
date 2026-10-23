@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T05:31:43+00:00",
+  "engine": {
+    "engine": "none",
+    "reason": "no candidates"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [],
+  "feeds": {
+    "gnews-ko": {
+      "ok": false,
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EC%9B%90%EC%A0%84+OR+%EC%9B%90%EC%9E%90%EB%A0%A5+OR+SMR+OR+%EC%86%8C%ED%98%95%EB%AA%A8%EB%93%88%EC%9B%90%EC%9E%90%EB%A1%9C+OR+%EC%82%AC%EC%9A%A9%ED%9B%84%ED%95%B5%EC%97%B0%EB%A3%8C+when:1d&hl=ko&gl=KR&ceid=KR:ko"
+    },
+    "gnews-ko-reg": {
+      "ok": false,
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%EC%9B%90%EC%9E%90%EB%A0%A5%EC%95%88%EC%A0%84%EC%9C%84%EC%9B%90%ED%9A%8C+OR+%ED%95%9C%EA%B5%AD%EC%9B%90%EC%9E%90%EB%A0%A5%EC%97%B0%EA%B5%AC%EC%9B%90+OR+%ED%95%9C%EC%88%98%EC%9B%90+OR+KINS+when:1d&hl=ko&gl=KR&ceid=KR:"
+    },
+    "gnews-en": {
+      "ok": false,
+      "error": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%22nuclear+reactor%22+OR+%22nuclear+power%22+OR+%22small+modular+reactor%22+OR+%22nuclear+plant%22+when:1d&hl=en-US&gl=US&ceid=US:en"
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 45,
+      "kept": 0
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    }
+  }
+}

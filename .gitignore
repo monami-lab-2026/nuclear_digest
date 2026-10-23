@@ -1,0 +1,9 @@
+
+# Binary artifacts are rebuilt every run; keeping them out of git avoids a full new copy per week
+*.pyc
+*.xlsx
+.DS_Store
+.venv/
+__pycache__/
+data/papers/literature.sqlite
+outputs/papers/*.xlsx

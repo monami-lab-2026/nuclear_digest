@@ -1,0 +1,1237 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-06T20:58:55+00:00",
+  "engine": {
+    "engine": "claude-code-session",
+    "briefed_at": "2026-10-06T21:51:35+00:00"
+  },
+  "overview": "오늘은 미국 빅테크의 원전 전력 계약과 기존 원전 출력 증강(업레이트) 투자 소식이 이어졌다. 국내에서는 SMR 인허가 기준 정비 지연과 SMR 추진 선박 구상이 눈에 띄었다.",
+  "stories": [
+    {
+      "source_ids": [
+        0,
+        6,
+        12,
+        18,
+        19,
+        26
+      ],
+      "region": "해외",
+      "category": "정책·산업·수출",
+      "importance": 3,
+      "headline": "구글과 컨스텔레이션, 원전 전력 장기 공급 및 출력 증강 계획 합의",
+      "summary": "구글과 미국 원전 사업자 컨스텔레이션 에너지가 원전 전력 거래에 합의했다고 여러 매체가 보도했다. 제목 기준으로 20년 계약, 43억 달러 규모, 11개 호기의 출력 증강 계획이 언급되고, 국내 보도에는 3.6GW 공급이라는 표현이 있다. 일부 매체는 약 10억 달러 규모로 협상 중이라고 전해 보도마다 금액 표현이 달라 정확한 구조는 확인이 필요하다.",
+      "background": "원전은 연중 대부분 일정한 출력을 내는 기저부하 전원이라 24시간 전력이 필요한 데이터센터와 잘 맞는다. 전력구매계약(PPA)은 발전사업자와 수요자가 장기간 가격과 물량을 정해 두는 계약이다. 출력 증강(업레이트)은 기존 원전의 열출력이나 터빈 효율, 계측 정확도를 높여 같은 부지에서 전기출력을 늘리는 방식이다. 증강을 하려면 노심 열적 여유도, 냉각재 계통과 터빈 용량, 비상노심냉각 성능이 새 출력에서도 안전 기준을 만족하는지 다시 분석해 규제기관의 승인을 받아야 한다.",
+      "why_it_matters": "AI 데이터센터 때문에 전력 수요가 빠르게 늘면서 무탄소 기저전원인 원전이 장기 계약의 대상이 되고 있다. 신규 원전은 건설 기간이 길어서 이미 있는 호기의 출력을 늘리는 방식이 상대적으로 빠른 선택지로 보인다. 공학적으로는 출력이 늘어날 때 연료 건전성, 열수력 여유도, 냉각수 계통 부하가 어떻게 달라지는지가 핵심 쟁점이다. 노후 설비의 계속운전과 증강을 함께 추진할 때 안전 심사가 얼마나 걸리는지도 관전 포인트다. 다만 보도마다 금액과 규모 표현이 달라 실제 계약 내용은 이후 공식 발표를 보고 판단해야 한다.",
+      "concepts": [
+        {
+          "term": "출력 증강(업레이트)",
+          "explain": "기존 원전의 설계 여유와 설비 개선을 활용해 허가된 열출력을 높이는 것. 안전해석을 다시 수행하고 규제 승인을 받아야 한다."
+        },
+        {
+          "term": "기저부하",
+          "explain": "하루 내내 꾸준히 필요한 최소 전력 수요. 출력이 일정한 원전이 주로 담당한다."
+        },
+        {
+          "term": "PPA(전력구매계약)",
+          "explain": "발전사업자와 전력 구매자가 장기간 가격과 물량을 정하는 계약."
+        }
+      ],
+      "question": "같은 원전의 출력을 몇 퍼센트 올릴 때, 어떤 안전 여유도부터 먼저 줄어들 것이라고 예상하는가? 그 이유는 무엇인가?",
+      "study": [
+        "출력 증강(power uprate)",
+        "열적 여유도(DNBR)",
+        "PPA",
+        "기저부하"
+      ],
+      "reference_ids": [
+        "nrc-factsheets",
+        "wna-library",
+        "doe-ne"
+      ]
+    },
+    {
+      "source_ids": [
+        9,
+        13,
+        17,
+        28
+      ],
+      "region": "해외",
+      "category": "원전 운영·건설",
+      "importance": 3,
+      "headline": "미국 에너지부, 비스트라 원전 출력 증강에 42억 달러 대출 제안",
+      "summary": "미국 에너지부(DOE)가 비스트라에 42억 달러 규모의 대출을 제안했다. 대상은 오하이오와 펜실베이니아에 있는 원전의 설비 개선과 출력 증강 계획으로, 제목 기준으로 이해된다. 국내 보도에서는 이 소식에 비스트라 주가가 11% 올랐다고 전했다.",
+      "background": "정부 대출 프로그램은 초기 투자 부담이 큰 에너지 사업에 낮은 금리로 자금을 대어 주는 제도다. 기존 원전의 출력 증강은 터빈과 발전기 교체, 급수 계통 개선, 연료 설계 변경 같은 공사로 이뤄지는 경우가 많다. 증강 폭에 따라 소규모 계측 개선부터 열출력을 크게 올리는 방식까지 구분되며, 규모가 클수록 안전해석과 규제 심사 범위도 커진다.",
+      "why_it_matters": "신규 건설보다 적은 비용과 기간으로 전력을 늘릴 수 있다는 점이 정책 입안자에게 매력적이다. 학생 입장에서는 출력을 높일 때 터빈 계통, 냉각수 취수와 방출 한계, 연료 연소도와 같은 여러 설계 요소가 함께 묶여 있음을 볼 수 있다. 규제기관이 증강 신청을 얼마나 빠르게 심사하는지가 사업 일정을 좌우할 가능성이 크다. 공공 대출이 민간 원전 사업의 경제성에 어떤 영향을 주는지도 지켜볼 점이다. 대출 조건과 증강 규모의 세부는 후보 목록만으로는 알 수 없다.",
+      "concepts": [
+        {
+          "term": "열출력과 전기출력",
+          "explain": "원자로가 내는 열에너지와 터빈 발전기가 만드는 전기에너지. 열효율만큼 전기출력이 정해진다."
+        },
+        {
+          "term": "정부 대출보증/대출",
+          "explain": "정부가 낮은 금리로 자금을 빌려 주거나 보증해 대규모 에너지 사업의 자금 조달 부담을 낮추는 제도."
+        }
+      ],
+      "question": "출력 증강과 신규 원전 건설을 비교할 때, 안전 측면에서 각각 어떤 불확실성이 더 클까?",
+      "study": [
+        "출력 증강",
+        "터빈 발전기 열효율",
+        "원전 경제성"
+      ],
+      "reference_ids": [
+        "doe-ne",
+        "nrc-factsheets",
+        "iaea-pris"
+      ]
+    },
+    {
+      "source_ids": [
+        27
+      ],
+      "region": "국내",
+      "category": "안전·규제",
+      "importance": 2,
+      "headline": "SMR 도입 기업은 늘지만 국내 심사기준 완비는 2032년 전망",
+      "summary": "한 매체의 단독 보도 제목에 따르면 SMR을 짓겠다는 기업들이 규제에 막혀 있고 심사 기준이 2032년에야 갖춰질 것이라고 한다. 후보 목록에는 제목 외의 세부 내용이 없어 구체적 항목은 확인되지 않는다.",
+      "background": "SMR(소형모듈원자로)은 기존 대형 원전과 설계가 달라서 기존 인허가 기준을 그대로 적용하기 어려운 부분이 있다. 예를 들어 피동 안전계통, 일체형 원자로, 작은 비상계획구역 같은 특성은 기존 기준에서 예상하지 못한 항목이다. 규제기관은 새 설계에 맞는 기술기준과 심사지침을 따로 만들어야 하고, 이 과정에서 사업자는 인허가 일정의 불확실성을 안게 된다.",
+      "why_it_matters": "SMR 기술 개발이 규제 정비보다 빨리 진행되면 사업 일정이 지연될 가능성이 있다. 설계자는 아직 확정되지 않은 기준을 가정해야 하므로 안전 설계 방향과 심사 대비를 함께 고민해야 한다. 반대로 규제 쪽에서는 충분한 검증 자료와 운전 경험이 부족한 설계를 어떤 근거로 평가할지가 과제다. 학생에게는 안전 기준이 기술과 함께 진화하는 과정이라는 점이 배울 거리다. 기준 완비 시점이 실제로 2032년인지는 제목만으로는 단정하기 어렵다.",
+      "concepts": [
+        {
+          "term": "SMR",
+          "explain": "전기출력 약 300MW 이하의 소형 원자로를 공장에서 모듈로 제작해 현장에서 조립하는 개념."
+        },
+        {
+          "term": "피동 안전계통",
+          "explain": "펌프나 외부 전원 없이 중력, 자연순환 같은 자연 현상으로 작동하는 안전설비."
+        },
+        {
+          "term": "비상계획구역",
+          "explain": "사고에 대비해 주민 보호 조치를 계획해 두는 원전 주변 구역."
+        }
+      ],
+      "question": "새로운 설계의 안전성을 판단할 기준이 아직 없을 때, 규제기관과 설계자는 어떤 순서로 근거를 쌓아야 할까?",
+      "study": [
+        "SMR 인허가",
+        "피동 안전계통",
+        "성능기반 규제"
+      ],
+      "reference_ids": [
+        "iaea-smr",
+        "nrc-advanced",
+        "nssc",
+        "kins"
+      ]
+    },
+    {
+      "source_ids": [
+        16,
+        21,
+        25
+      ],
+      "region": "국내",
+      "category": "SMR·신형로",
+      "importance": 2,
+      "headline": "현대글로비스, SMR 동력 자동차운반선의 한미 항로 사업성 검토",
+      "summary": "현대글로비스가 SMR을 동력으로 쓰는 자동차운반선의 한미 항로 운항 가능성을 검토한다고 보도됐다. 제목 기준으로 미국 LGL과 협력해 상용화 방안을 살피는 것으로 보인다.",
+      "background": "선박용 원자로는 군함과 쇄빙선에서 오래 쓰였지만 상선에서는 일부 시험 사례에 그쳤다. 원자로를 선박에 실으려면 파도와 흔들림에서도 노심 냉각이 유지되어야 하고, 충돌이나 침몰 같은 사고에 대한 격납과 차폐 설계가 필요하다. 또한 여러 나라 항만에 입항할 때 적용할 국제 규제 체계와 연료 취급, 사용후핵연료 처리 문제를 함께 풀어야 한다.",
+      "why_it_matters": "해운 탈탄소 압력이 커지면서 원자력 추진이 연료 대안의 하나로 거론되는 흐름으로 보인다. 공학적으로는 소형 노심의 장기 연료 교체 주기, 선체 운동에 대한 열수력 안정성, 사고 시 해양 방출 방지가 핵심 과제다. 항만국 규제와 보험, 국제 해사 규칙이 기술보다 더 큰 장벽일 가능성이 있다. 이번 소식은 사업성 검토 단계라서 실제 건조나 운항까지는 많은 단계가 남아 있다.",
+      "concepts": [
+        {
+          "term": "선박용 원자로",
+          "explain": "선박을 추진하기 위해 소형 원자로로 증기를 만들어 터빈이나 전기 추진에 쓰는 방식."
+        },
+        {
+          "term": "해상 운동 영향",
+          "explain": "선박의 흔들림이 냉각재 흐름과 노심 열전달에 주는 영향."
+        }
+      ],
+      "question": "육상 원전과 비교할 때 선박용 원자로에서 가장 추가로 고려해야 할 사고 시나리오는 무엇일까?",
+      "study": [
+        "선박용 원자로",
+        "자연순환 냉각",
+        "국제 해사 규제"
+      ],
+      "reference_ids": [
+        "iaea-aris",
+        "iaea-smr",
+        "wna-library"
+      ]
+    },
+    {
+      "source_ids": [
+        4
+      ],
+      "region": "해외",
+      "category": "SMR·신형로",
+      "importance": 1,
+      "headline": "BWXT 초소형 원자로 BANR, 캐나다 사업 후보로 선정",
+      "summary": "BWXT의 초소형 원자로 BANR가 캐나다의 한 사업에 선정되었다고 월드 뉴클리어 뉴스가 전했다. 후보 목록에는 사업의 규모나 일정 같은 세부 내용이 없다.",
+      "background": "초소형 원자로(마이크로리액터)는 수 MW급 출력으로 원격지나 산업 현장에 열과 전기를 공급하는 것을 목표로 한다. 이런 설계는 고온가스냉각이나 TRISO 입자 연료처럼 안전 특성이 높은 요소를 쓰는 경우가 많다. 규모가 작아 공장 제작과 운송이 쉽지만, 인허가는 별도의 절차와 기준이 필요하다.",
+      "why_it_matters": "디젤 발전에 의존하던 원격지 전력과 열 공급의 대안으로 주목받는 분야다. 설계 관점에서는 작은 노심에서 중성자 누설이 크고 연료 효율을 높이기 어렵다는 점이 숙제로 꼽힌다. 선정 이후 실제 인허가와 건설까지는 시간이 걸릴 가능성이 있어, 후속 일정을 관전 포인트로 볼 만하다.",
+      "concepts": [
+        {
+          "term": "마이크로리액터",
+          "explain": "대략 수십 MW 이하의 아주 작은 원자로로, 이동과 원격 운전을 염두에 둔 설계가 많다."
+        },
+        {
+          "term": "TRISO 연료",
+          "explain": "세라믹 층으로 겹겹이 싼 작은 연료 입자. 고온에서도 핵분열생성물을 잘 가둔다."
+        }
+      ],
+      "question": "노심이 작아질수록 경제성과 안전성 중 무엇이 더 유리해지고 무엇이 불리해질까?",
+      "study": [
+        "마이크로리액터",
+        "TRISO",
+        "중성자 누설"
+      ],
+      "reference_ids": [
+        "iaea-aris",
+        "nrc-advanced",
+        "wna-library"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Watch Google, Constellation Energy Strike Nuclear Power Deal",
+          "publisher": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT2dnMGxoVlZNUWRfUlJfVmhNbElLMjI5R09jc2FaZG9xU1l2OThESTN1UjUwX1Z3WUhxV2wweUE3d3duNjl0d1lWTDFVVzN1UUQzR1FacFlYOGd2RE9Qc3pDcmJ4OURSUENQR1RBRnROWU9TaXVDOVlnRGtOQk9WX0pRLUtUZlRfUHVOOVNXSW4zdDEzVHNXbzV5b3RWV0FBeUN2YU02Ukt0YkRa?oc=5",
+          "published": "2026-10-06T00:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Watch Google, Constellation Energy Strike Deal for Nuclear Power",
+          "publisher": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWmNHNkhvcWEtN3BOU3QzY19SS1hlSGpieVlBN1BoU1JQN2pGcVEwXzk3S0pXXzNZdWVybWRMMjFYVHlMeHlrYzNKWXZZQm9qSVN0QWJNVDlOb2dpcTZBOVcxelRZMU94OG03cTJnQ1FoWEJ1U1JvUlBvTnB3YTF4R0duQzhMbnZaQnZJU0ktYl9wWFgtNUduNmc0Z1c5akZOS0lMaFF0ZDc?oc=5",
+          "published": "2026-10-06T00:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google, Constellation near deal for nuclear power, Bloomberg News reports",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQnB3VGQ4am5pajBjVTZZeTAtTU9KVHZFc3p3R3hWYkNBVzFEcENOYUI5WGVobTk1OEYtZm8tVGFHTFc3ZzdzY1I2allEUm1lN0ZkSjREZ1Z6QjlXczNrTmlRcEFZMEJkYldSYzVIVUxMYzV4bFVuSDZTcFlvTTI4N2V1UHdWUWtIWl9KbUREWWN4a0VYMjJFLUg4MEZLWV9YcTF1OTFSZG53MXdkMnJkWFlhQkV6N2VjRGZVNg?oc=5",
+          "published": "2026-10-06T02:24:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google nears billion-dollar deal for nuclear power from Constellation - Bloomberg",
+          "publisher": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMk9aVXdRWTNBb0hHZWlOZExIdEQ3aVZSRHJjMzNiR0VfazllSUZNbUVTVmJISXhObXExejdXMXRQSHl0NElRb0M5RVNRRHNvT3QzZWhxYnFNeC1EeFZDWUZfMF9DdzVlNERrTnFvTHdKdTUzSS1VMlpwRE9LWXVrXzNHQlNJcFBDN08tcWlxc2d5dExJMFFmUVo4bGFYTlFBVUVyRGk2VDRjd05iamdQc1FGX0JIR2FEYUNFbHh0TXZleEMzU2RsYng3cmQyUTRvbG13UWlfYmZFdw?oc=5",
+          "published": "2026-10-06T02:38:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google nears billion-dollar deal for nuclear power from Constellation - Bloomberg (CEG:NASDAQ)",
+          "publisher": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbmlHM0lHdmZGdFJaejRDcGxHX2VwejZ4MmJ2b3BfQ2VUblFUcVB6eGF3TGZvSnV2bTF1X1NwU00wd0E2VXJkWkRvRXliMFhSYnlSN1M1SVV3Uktadk1MRk02YUM3S0FRNlhpQ2tWVmk4RGVEQS1panl4NHl3MGZHdml5dXZLSEctSFVtS0R6emMySWxMYTdnckpyUXN6czl5MktqakZSVU9LX09oN0VhcG5DUjlncU9k?oc=5",
+          "published": "2026-10-06T02:38:29+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google, Constellation Energy near billion-dollar deal for nuclear power",
+          "publisher": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaFR2ZmxWVFJNY1NucGpCOG5QbWR1ckJlTEd5TWZMdmtVdklQZkdiN3pIMkw5Y3hCeVpFa2xDWTY4d29ZNm5BbkNyYnFZcmtzaU9QMnE4VTNrZ052SjNPeURGdFA5dUNLT1ZOaHFXOU8tYlpTbjhKZGcwUElDV0cxYUx5WDhzMU9ZWVN5VDdWSUVYSmU2dHBqejdzcjNoV2FZU1liNFR5YTlzelBqOUM2NUZn?oc=5",
+          "published": "2026-10-06T03:25:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google nears $1 billion-plus nuclear power deal with Constellation amid AI boom",
+          "publisher": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQWkV5YTlNWDBjb01YT0U5YWFRVWxWUTVjUThJQWNpeXItbDF2QlZ3V1dxT2ZvZHhPTm8tdU94ejlvWEtoRHc2b1BWNlZmN3p2eW95SlNjdV9za3ZNYzQ4MU9wZkk0OFRHcXFVbEFHTjJ1T0t0OExrcmpsOTlnREpLZGV1NEJwenk4Zlk0Szdsa21SRlJxbzIzU0dNRlFNOG8waWZYMmpTcHpDcGVuV3I1ZjZ0Vm1EdnExX0RWamJrQTh0VE5fODNsWXJYM3o0QjBkcWFrRU9QdmVpOEg4THFYTkRLNkxqSFZNQzdQYmNyNC13bGhiUzVQbkhPUU1RUVhMd3fSAYcCQVVfeXFMTmNfUFlJbUMyeGpGQWhyZWlPUDhib0NXd1VrUEhUY0xCM01SSjI2VFlBeGVXVWg0MjRmaXRBV1NianhVck9zU0tHRWFiZk1TWjRUMkRicHc1RDVZSkdsQko0V3N2Uy1EYmk1akFxOFZsb0xxSDFmNnBxcGhNcmJZanlyV2QtZGE2RGpEQkNkMldISG5QUUd4Zm43Ym5YWFROZldFWW84RXpCSFd6TVF3dGpfUEw5dk9ZVm1HRm1zclhmaEZMTlUtRTJ1VGJnOXlmeVdlT2k2YmFXRnJkVkRRMUhTcF9RaTZqMzZvcEhqWDFDaDQtRDZCcnd1bjZWY1hBVkNWLUo2ZEU?oc=5",
+          "published": "2026-10-06T03:51:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google, Constellation near $1 billion-plus nuclear power deal, Bloomberg reports",
+          "publisher": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNjZtSnZBSDdaSVVzbkJ5VDFVNEdxQ0FWMG5RUWZ6T0FOcjduemg4ZjVoRUxKV00tcVNPVmMyRHlvYWRjaDJkMG5iNGFFV0E5MVhoRDd5YzhBMklrWjdEMnlINXZLUVd1TW04QnRqcHRFTWR2NjUzMzJxVm9mMzROZ3lZSkdDNUJmYXkySmlTWFJiNnBydjg0?oc=5",
+          "published": "2026-10-06T05:16:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google strikes 20-year Constellation deal to add 890MW of nuclear power",
+          "publisher": "Proactive financial news",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNDhwWXA2MWxpMWxxVU9PRm9ZWHRtZ1pjekdtRjJqZU5YZDhRaF9QbURyVURTc3o2ZTlvZzNmNHpxWTVIdlYxVzhSWF9PSGdXaldrZnBGNTJ5eDRRUW9XUlpxVmRKWlAtTWVCcUZ6VmFaNy1SaFJ5R1FseUM4VVozT0dNRno3d1dyLXZmdXEzQ2Q2LUZ5XzBYMzZBQm0yS3dWcmw0ZE5Jb2dOaGQwUFJqMzVVYmIwTW43cUFMWXB1dE9BSElCTFQwaW5pdVpfbzZ0UVRiUHFvRTYwUQ?oc=5",
+          "published": "2026-10-06T08:23:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Market Chatter: Google Nears $1 Billion Nuclear Power Deal With Constellation",
+          "publisher": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOGtMYXhISnRkNlo4S2hwZ0ZMRFdCNDZ1NXVEODJqb3VEVVp4cXlqNWJjNXh2SDZHUG9VdDI2dmdLLVpMcnBPV045eUxfWENnNl93RG9XbDNpT3o5b002cTh4MkNqLVpWSFVrWFNwcEF3RFp2M1I1cHZxT19SQnBkdFBzR1NzeHJyelRrRlBOcw?oc=5",
+          "published": "2026-10-06T08:27:14+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google Nears $1 Billion Nuclear Power Deal With Constellation",
+          "publisher": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcHh4dzBhNzgtc1VrakFSN2hENWx2RWFuRm5iaDlleTdIU0FTSF9iT3MtRy1PbUY5U2pJajVWbnNFZW9hTWFuczhJSlkycVptM3lraTVmcWdnOTZfUEF5LV9OZXVWd2VyN3BudGZITjAtdkRFMkwwb0J4WEFfNjNndnUwb0dGWTUweVNLSGZzQzU3V3VndXpTb2dTeFBZX1BwZ1BpUEF4QUtuT19fcV82ek8tVQ?oc=5",
+          "published": "2026-10-06T08:28:38+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google, Constellation Near Billion-Dollar Deal for Nuclear Power",
+          "publisher": "Deccan Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOUZycnY2MzM2c2c2eE1DRTVaTEhLbFVYbmRieFpEbU8zc2MxNXZGdEsyUHo5Ml8za0ZFRHRqdXhmZ3lHR2pXNWZIR2VNV2FBV3ZnM2c4d1VodmxFaGJBeHA0eWpQSkRVU3pxQ3RDVlBSYmYzdDI1V1Z6Rl8ycTNPaFhxcEJOemdhNFhwQ09uOVJCMmJsd1drVVBrN1RWaGEyelk1UUFCMjZKeU03OFRRX3J4ZW9UZ2NQbkHSAboBQVVfeXFMTjlGcnJ2NjMzNnNnNnhNQ0U1WkxIS2xVWG5kYnhaRG1PM3NjMTV2RnRLMlB6OTJfM2tGRUR0anV4Zmd5R0dqVzVmSEdlTVdhQVd2ZzNnOHdVaHZsRWhiQXhwNHlqUEpEVVN6cUN0Q1ZQUmJmM3QyNVdWekZfMnEzT2hYcXBCTnpnYTRYcENPbjlSQjJibHdXa1VQazdUVmhhMnpZNVFBQjI2SnlNNzhUUV9yeGVvVGdjUG5B?oc=5",
+          "published": "2026-10-06T08:37:58+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google Nears A Nuclear Power Deal With Constellation",
+          "publisher": "Finimize",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSUpQV2xaeWVPdUNSVDhBVFczeDFrMHFBSnR2OERsSm9Qb0JWbUNOTHdHWWxja25FVXd1T1I3LUc2aTdnN0JUelhKQ3NCQVVuZmJsM3lMRVBXei1kQS13T04zc1RNQzJtRDA5bVJGOHhrOXE4RVVmUXJ4QWpYcGJjRUVUY3NBVzBp?oc=5",
+          "published": "2026-10-06T09:34:13+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google and Constellation sign 20-year nuclear power deal for PJM grid",
+          "publisher": "StreetInsider",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa2xaNTJUMEdRd19yUm12YWIzTVhBR0pPcDRQMTFUaUZZRWNXMG94TW9YOVk1aG1ZQVU3ZGtaelhoZUtjd1Bsdk9FTnd1ZHpnQnlzTTItVTFFS2VobnRySVN5bDRXWHgwN0lqcVBEMEFWS2g4WHEwUXF2MTJVM3dkZk1wN2NVYUZnekZIX3Q5aFdjdjBzTk11U3lROU5JNmlPeTFpVDgyM1JVUWRoSk9qM3NacHFBYVptSUZGVEp6QnFXUjdzT2tv?oc=5",
+          "published": "2026-10-06T10:31:31+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google and Constellation Energy Near $1 Billion Nuclear Power Deal as AI Data Centers Drive Power Demand",
+          "publisher": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYi1RR19WV2djMWVKMWt3VTFVNnRuMWxVMmpZdndqNWJDT0QwVlVNNi1XdjQ3QnZyUTg4SzlMSEF0enB1aFRUempuamtZNjlGc1owbEJLQ1N4SFRDQWlDSVJndHV5cnlSMFcxMzFJeXNkOWZyeXpURFkzQWxGUjJ2NzAzU3huMFM1REV2RlMwcGJnSk91bFB6VUwyWV9mSE9LeklrNkVfZGNRRlJhVlV1VnNkM0l3WEE1dUJEZHI4ZkR5eDMxMkpENXI2WjYtaUE1VGtUOTBwMndVS1ZNLTU4Rk40bW5vRnNueW1xUzRTdi03THBpb0E?oc=5",
+          "published": "2026-10-06T10:53:35+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Constellation shares gain on 20-year nuclear power deal with Google",
+          "publisher": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOVpnSjAtcHNuZ054RFA3cFV5WklYamx6VktySXdSUk5RRmY4Z21KQ2RqelpDcGxXb1ZXdGlzTmp1d0RxcDVDdmdRWGtVX3cyOXRGd1hvbE8wbkdBbE5jWnc4Umw3dGhmOURWbG5jakxXdk5nMDgyZmd2REN3SzU2T0QybTV0NS1oTzNzMmJLclhZeFF3cmZ4dA?oc=5",
+          "published": "2026-10-06T11:14:27+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google Enters 20-Year Nuclear Power Deal With Constellation Energy",
+          "publisher": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSGZjVHNlcTBjaEpvZzN5SUhqQllGU3p3WW9jUTRxYmRPOGcyZVNnbnhFcmF5bGM4aThFMFBWN2lQS1lXaFNFWk8tRnpocjFycnlBbDRoMHl0aG9YMVcycjFoZXBFMVVnR3dtUExhTzVkVk9SOGRPUk93TzREYlFoclhRSlI3aEFNNXpqTFNjbk9lSmttMld6QVFURkxhZ0ltb2lVSU5DYVlRSEtFYTFoTEpLZjVIREFmcU5v?oc=5",
+          "published": "2026-10-06T11:22:41+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google, Constellation Energy Strike Deal For Nuclear Power",
+          "publisher": "NDTV Profit",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdjNGVmxHbmVuT1FXb1JJY1g1WmRLb1VCNDRLcTlfVGdpNDhEOHVoVm1YdVMwZVBMY1R5MnJTUTBFYmRaeDczYi1wNURpQ0RudGVOdkJCWWFSTXBDbzVIQkxpS0d6eTA5eXNBLW5HalBqMTFYa245N2hEYklJVFJheTdCaWQtckRLMm9XYnFYV1VVMVFiRnlFdUJVa3RZbFdsRjM3djZkM3hDcEZ4OUMw0gGvAUFVX3lxTFB2M0ZWbEduZW5PUVdvUkljWDVaZEtvVUI0NEtxOV9UZ2k0OEQ4dWhWbVh1UzBlUExjVHkyclNRMEViZFp4NzNiLXA1RGlDRG50ZU52QkJZYVJNcENvNUhCTGlLR3p5MDl5c0EtbkdqUGoxMVhrbjk3aERiSUlUUmF5N0JpZC1yREsyb1dicVhXVVUxUWJGeUV1QlVrdFlsV2xGMzd2NmQzeENwRng5QzA?oc=5",
+          "published": "2026-10-06T12:47:56+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google, Constellation Energy Strike Deal for Nuclear Power",
+          "publisher": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWDVtZWFsR0FhT1JuTno3Uy05dWpzOG91dmVfa09PR2pyaFZqV0Zudk1kSkxheWhuUW4xU0c0YWFrSjJqV2NONDlMMF9sQXRjLUF5Rmhfclp0MWNsamtnZXBTS3l5UnZ6SUFzcm1TU04xRXNCYS1UME9WSWozM05fYzh6VGF5c0NEbnY5WTZNamJCejJnVXdMNUZlV0NBcV9wZnJjNjdTZTRVTGRicHJld2E1ajg?oc=5",
+          "published": "2026-10-06T13:43:16+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google, Constellation Energy Strike Deal for Nuclear Power",
+          "publisher": "Advisor Perspectives",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc1AzamMyS3BEWERMamVsbVoyUWRjbnQxb3RxNzFuaS1DX2g5NmRlcjBycXU1dTB0UVI4YTlsaWluWDJaa1o5ZEZRRHJXbE1DSlE4UGNSWWRaRExKd21rVy12Vjl1UXdTQzFtdnd6aFNGS0NFdGpuZTktbGZLMC0xUm5wemduZmtldkdYM24za2dBQXNPbXUzSVVfdDZjOXFJYVp4Vg?oc=5",
+          "published": "2026-10-06T14:55:16+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Constellation, Google strike 890-MW nuclear deal in PJM",
+          "publisher": "Utility Dive",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMGhhY21iYVdFUjlTdTYxQXZucGNTYmZ1aTVEakYtZnUwQ3dYbDlteXZVTzY4S01wOEUwS1dSa0JYUjNNd0ZacUUyVlB0d3NQNnZPYnVuQ3NXRnExczJRYTc5amxDZnpBWTFueG5tT3dtQXFkQ0JieTdLRU8yV25VLTVBcU9sX2RacGpuR0NOd1hucEtTMUJFdmhlUjNoRm8tMU1wVWZERE1fUQ?oc=5",
+          "published": "2026-10-06T15:58:01+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google and Constellation Energy Strike a Sweeping Nuclear-Power Deal",
+          "publisher": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOGx4RnB0ZHFqa2cyQzltaWJtR1k0Y2llR0lwTHJUYU4xYkR4Vkd6WXJXRmpNcUI3SFh6TXdzVnV0d29ZSDZPRzZiZXJDQkpQX1kydGVCMW9SSGdHNFN4WnhJOEMtOUtMbjlxamlSMHkyYzF6bThsUngyQzVVaFNBR1drQ25nQkxkSXk5MkZlVWdCVWVDamZ4V2pOdHo2LXA1MVozVjNZTWl1cGtFRGttc0IxY3h1NTRX?oc=5",
+          "published": "2026-10-06T17:10:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google, Constellation Energy Sign Major Nuclear-Focused Power Supply Deal",
+          "publisher": "bloomingbit",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5OeUxfU3E4cThWVmtpaXl5RjZSSy01VXBNRi10Q0hUWVRfSXB5NFZLNFpZT19qVjNrNHhqX0h3RW1sVDAzcXlleUdyZ19yX0NWcmxqeQ?oc=5",
+          "published": "2026-10-06T18:38:57+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google and Constellation sign 20-year nuclear power deal",
+          "publisher": "BGNES",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcXBCUWptNkZfODRIQWJSekh2Z2JQMU9CWmpSZVdENjFWREVqNlRsQXpQTFBiZ3hJY0FfT3EzTFZWVHk0OHRLNmFQMDdkaTJEMnlYSEhic01QRElHWWJzTEc2aGQyeV9MV252blYtLTNxTzNOdFJYZ1JnakRUTHJRZ1hldFUyVjY3RnBnbWdB?oc=5",
+          "published": "2026-10-06T18:42:45+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google, Constellation Energy Strike Deal for Nuclear Power",
+          "publisher": "Energy Connects",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRW13cHhRT09ZNWwyN1NpWklXUnhGRElwTjQ3ZFU5R1N1SHQtOGo5VXpOdlY4QmpfT0JWc0tvSk55Ui1HZ2JOQm5oMkxkZlBLNXFIWW43UDVVbFg4S1lDSFNhblN3cFlRc0pva1A0dFBldGNJS0EtSmlfZ1JSX0M0eUlMV014MGdzRy0tNXBjcnU2U1FPSTZ2dTlaUVVKRWFDRktGb1BqN0RRWHgzM1l0b2t6cERxTTdKNUE?oc=5",
+          "published": "2026-10-06T19:13:46+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Constellation shares surge on Google nuclear power deal",
+          "publisher": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR2pSZzJuNEV5bkFFTzhwNTczWDNVbElKYVpUZVVKaVo2NjU3dWNtVUtTTnVzcXNFSVpvSzZVSjdZZWNZOFk1N29YRWF1WjctQzJaSzdTRzVyTEdDUmNKMF84T015bURhUFVaemEzbEt5TDE5NWxnZnJrX3c2Q1RSWnFidGRxd2ZIdlI3MVVmeml2b1FLeWRzQmpkZ3Zua2M?oc=5",
+          "published": "2026-10-06T20:13:05+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Watch Constellation Energy Surges 12% on Google Nuclear Power Deal | Closing Bell",
+          "publisher": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWZyNWNrUm5tYWhnV28xcDRiQlFNWEU3OUN4R3lJdkdZTmRIYW1xMTJ4VC15OFlDNGlHNGxlZkZRUG1uczZkNlFiSkJScnhpeFE5bHF1UTM1NjdjVFdxMDl5WkE3bVlmaGJoam0xNmpIbVh1R1ZZQmswdW1NaWx4SzlsN3RuTXVaVUdvbUlGbnI0enZwbXpRUG5oQ2NVOUk?oc=5",
+          "published": "2026-10-06T20:34:50+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.983,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 한국경영인증원 노사관계 우수기업 인증 5년 연속 획득",
+          "publisher": "SR타임스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nSl9PZE9BWjN0emNZaEMxaDQ1QlB3NjFaUVQ3YnUzcHhvOFlJLV9wREIwVDIyNmR0Q1J5MFBpQXdlSjh4SFZrLUlqUnh4SnFIeVBWSFlCVGpFbk00ekc0ZWRjOGFjc01Q0gFrQVVfeXFMTTZDZElfS0VsMXlRMmlhY2xfbGw2b2NLRmJESzl5bk04VFhFM1VKei04UHY1TXdHX05hMXZ1SXZ5dlNwYTRVeVhaeTdMSmdjV3N4TkwxLTMwMnNHVHBaSUMyWGhiNkVZaV9ONkk?oc=5",
+          "published": "2026-10-06T01:52:02+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 노사관계 우수기업 5년 연속 인증...\"만족도 86%\" |",
+          "publisher": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16MWZtc083Xzh6QjN1QldqY0hWczY1dlNneUtRY1V0ckRLZGVOZmJCa0EwLTROX0xRNkF2eGpOaEdQbF9uVEFtNVdsUkR3dm52ZmtUbXkyV2pLYlJJNFhzZzRNcGRnOV9oU1BuVDJ4dFZpYmoxRWNv?oc=5",
+          "published": "2026-10-06T01:57:22+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 노사관계 우수기업 5년 연속 선정",
+          "publisher": "경북매일",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nNVVNOVhEb01lVmd5WEdxeDZuc0FMUVdnZDZfajNDZ1pwYkJtZnJ0VzNrX2gzVmI2R3MyNVY3MU5uUjVxMG9FY1VKcl8yMDkzd0dRSng2cmNWQQ?oc=5",
+          "published": "2026-10-06T02:06:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "노사관계 우수기업…한수원, 5년 연속 인증 획득",
+          "publisher": "에너지타임즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XRkRwWGRqRUNScXc2ckNHQ0NDX2YzT1BBRDZfUVpRZjZqUl9ORzZzcFJtbm9ySElKQWZlc2dXT0NaUDB1NFFKYVk0Q0JCcGhHZVF6Vk01cThSbUx3TDJzNFp6QmVUbFlTc3RidA?oc=5",
+          "published": "2026-10-06T06:10:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 경영인증권 주관 노사관계 우수기업 인증 5년 연속 획득",
+          "publisher": "데일리한국",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tSGUzOXp5ZTlENkp3MHhnY056MS16RVdHN2IxOHBFYWFiLUtxNUJjMUNrc21qdUg1dGVZSDQ4bkZlR2VHNDBBOE4yeHV5MWpkZDZhZ2VyQU4tNHFjRTR0Q3RoMUJvcE5ZZlVscGpSSHB6TzDSAXNBVV95cUxPbUhlMzl6eWU5RDZKdzB4Z2NOejEtekVXRzdiMThwRWFhYi1LcTVCYzFDa3NtanVINXRlWUg0OG5GZUdlRzQwQThOMnh1eTFqZGQ2YWdlckFOLTRxY0U0dEN0aDFCb3BOWWZVbHBqUkhwek8w?oc=5",
+          "published": "2026-10-06T10:40:35+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 노사관계 우수기업 인증 ‘5년 연속’…신뢰·협력 증진 노력",
+          "publisher": "에너지플랫폼뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iOTB5dWlKczIySHRmU2t2N09UdW1LUjVmcVpySUJFTFF2T0xIZTN4anBrbFBZUGI1RVRNQ3RjZG5HVVEtS1BKY1hNMWM4RXJNT1ZJYXRPV2hQSFVfMTNUYnA2dHg0RlNJV0xRM21yOHbSAXBBVV95cUxNYjkweXVpSnMyMkh0ZlNrdjdPVHVtS1I1ZnFacklCRUxRdk9MSGUzeGpwa2xQWVBiNUVUTUN0Y2RuR1VRLUtQSmNYTTFjOEVyTU9WSWF0T1doUEhVXzEzVGJwNnR4NEZTSVdMUTNtcjh2?oc=5",
+          "published": "2026-10-06T18:07:33+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.881,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, ‘노사관계 우수기업’ 5년 연속 인증… 협력문화 성과",
+          "publisher": "Korea IT Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qWTMzZVpUODAwOHZwdzNQb2dqNzdsVHVrZ0xvVi02Mmc4clN3OG92RXczMFl2cnRLSWZzeVI0ck1LVHZHdW5ubVlJUzF6aWpvbDE0bWF4MllMNWhLdENEa1NLZG04R2JYUjZpS2hsUE8?oc=5",
+          "published": "2026-10-06T05:23:45+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 노사관계 만족도 86%…우수기업 5년 연속 인증",
+          "publisher": "경북일보",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YM3R6dmFfOVJDb3lqcU81WnlqNUMyUEJpdHRDVXpUeWxqcHFrTFVsZTYwYmhsMW9BTFNXOWZJU2FIRnY3QW1PNW5UcVhqa1RFQnRieFA3Nm94a3dyYmg3WHRNTV9NOXYxdGFvcjBRdw?oc=5",
+          "published": "2026-10-06T07:01:12+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 노사관계 우수기업 5년 연속 인증…신뢰·소통 성과",
+          "publisher": "노컷뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80MGM4cnlSRnpiS0Fqbi1SLXRhX09HTVNnajZEN3lCcTB2N01zXzdKUEZEY1JkdjY2Nzg2b2FHS1JfeWJMYzdsSTNOcjhfRzhpSHc?oc=5",
+          "published": "2026-10-06T07:18:10+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, ‘노사관계 우수기업’ 5년 연속 인증...실천형 파트너십 결실",
+          "publisher": "천지일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBveXRMZm1VNVY0Sk9FX3RtRGJvclhpSWNmZDNFVVpGUUl3d2tVTkt5MWJhV3Z3X1oxYURFdlpjZTBnT0MtSjF1WmQ3WVFlejVMb01fVXg3a1Atc1dPdktoY1RhWjVMcTFZbEE?oc=5",
+          "published": "2026-10-06T12:58:42+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, '노사관계 우수기업' 5년 연속 인증…만족도 86% 평균 웃돌아",
+          "publisher": "투어코리아",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qUkNFOVVDRFdYRXpKT2JWOXVRXzk3a1VZTVB1WnJncU5FNExtbG1hdXJwT2FTVzlkUmNMSWFVTGRoMlZkdU5MVjMtT2dwU2M4Snl4QVp5NzdlS2I2ZzlERUVqTlRheFlMZ2RUOG5n?oc=5",
+          "published": "2026-10-06T16:12:49+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.801,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한국수력원자력, 노사관계 우수기업 5년 연속 인증 쾌거",
+          "publisher": "CBN뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jaWRxOUIxX3NZa2pDcGFReDZsWDRSWExWTXdJTTRVUHBONmMycDZkcjdUZU9HMEtmTnJBY0ZLem5rU0kzUXZfMzU0UkllNElOSlcw?oc=5",
+          "published": "2026-10-06T01:37:06+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, ‘노사관계 우수기업’ 5년 연속 인증",
+          "publisher": "드림저널",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5uRDIwemhvS2xxay1GOUNla3NQN0NPdFdlNUxoVnB0NUpvLWc3SGhNN1FxNC1TX0d1eDFFQ0JFT0xLdU1FREE?oc=5",
+          "published": "2026-10-06T01:53:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 노사관계 우수기업 5년 연속 인증 쾌거",
+          "publisher": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOZXJKcEFramFUcUJ0OHFuWWlMandRYi1IaU8tbjJ2dnRqVHNYY3hSQjh6LW9JSlZXcDJNemo1cnQ3R2lSSF85VmJWckk1c1BUakttSEFNMHRkS1JDdVlJdWVxaEZYbTRQSFpyd1hrN3A0MDJMVkY5ZUVYTFVPVjhjUmdhdVRXbmhJdWpXVkFVa0RYNURGZF9jUG9zRWRTMjlncTRzNFJ4Vy14S1NoaXVmaENOSU1sZUxyWlFFZGR6ejItZEVzV3JFamk3NE80YTlLQklVRnktdV9tSF9NY0l6RGhvNGZNLUc3Z3lvQ1JVbm5yZWJyLThRdFZDSG14UzBGbU9vWHBFVWZ0QnBS?oc=5",
+          "published": "2026-10-06T01:57:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, '노사관계 우수기업' 5년 연속 인증",
+          "publisher": "산경e뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tNGpCNFRpbG1EaUhZZVdMTXZYMGZ1MllCdTZtcHRENTAtdk9kVC1UUFFfekRmUEQ3ekpyRzBtOVFPbEsyUEZZbW5fekptTlJLVkN4WGk0R3ktUHhOZmZ5WHhLV3ZTT3c?oc=5",
+          "published": "2026-10-06T02:24:42+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 노사관계 우수기업 5년 연속 인증",
+          "publisher": "한스경제",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LZXlCejJkMjZxNG9yV2VnaG9OQUFkdEdISzB1amZ1Z3VEbnctY0VSVExkT3ljaGp6bi1CN1pWeXNpV3dRLUlLd2lKR3lWM1RLVFZUNmtiZVBYcmRyTTBWVVc4N2JmclNlcHpF0gFvQVVfeXFMUFJlTmpDeDBMM0piX09qVWxfdzBIdFA3VHo2NGpRRXdrWFhETmItaE1QalVkcTl6UkVsXzJ4OUd0T3VRMjVJUTJEY2huVlYyNzBXNmZpalFadnE2N0tQQ1NkclpEc3lqYzJ6UDFzQ3B3?oc=5",
+          "published": "2026-10-06T02:37:22+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, ‘노사관계 우수기업’ 5년 연속 인증",
+          "publisher": "뉴스퀘스트",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Oc1VteFIyS1BoWHJJZjVhZTljZWF1bndqdjNHQVVzMW9VRlN4TXp5VTliWXBxTGt0VXY5aVRnQWc1bGtDaktHVFdlMGNFOHdqVkotVUtzNE5qZUt0RUdKV0tEdHMxMXRnQUJpSnY3Zw?oc=5",
+          "published": "2026-10-06T04:58:17+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력, 노사관계 우수기업 5년 연속 인증 쾌거",
+          "publisher": "중앙일보",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE16OFV1cmpvOF9VclpiM0ZZQ2I2UEFYbGFLVFdkSFNtUzQ2VXhpOGkzdFdvaHMwTm5GMDA5MUEwLUZOcDdYSzJpVklqY01wbHlTWmRWOV93?oc=5",
+          "published": "2026-10-06T05:08:50+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력, 노사관계 우수기업 5년 연속 인증받았다",
+          "publisher": "경북신문",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OdXI1MTdfYXliWF9oUlIyYS1leWZFbDFjbFg5RFZFN0N2OWUwN0ZYcUlRRUFuUUFTNDlSUDZMZU9YbENDQkZ3dHJzNWpSVUJCQ0w0TVItS18?oc=5",
+          "published": "2026-10-06T05:18:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, ‘노사관계 우수기업’ 5년 연속 인증",
+          "publisher": "시사캐스트",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Xek5MZk1VTjdMRkZmWVd4aENWcEVNXzUxRUY0TnlLdEEyZFBkZVRQcU52YjdvQ1RqV2NSVU4yWm9yaVZCc1cxdnJucnFIX29vd2M4eFNqMnlDaGYzM2hBdXVkWHVpMGhn?oc=5",
+          "published": "2026-10-06T06:25:32+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 노사관계 우수기업 5년 연속 인증",
+          "publisher": "로이슈",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCMlhBaGNhY1VoMnlRMkdEUnRDQ0tqN2VxYUpsYUdRcVBtNVlaREJVQjlVZUpqUWNjUkw5TmRLaHZsNzc5QUtxZGdqUkpvMUV3a0NSY0M2Z0RpdmpaTU1YOGFwVnpkMFlPc3VsZDhCWjJEY2dodU91U1FB?oc=5",
+          "published": "2026-10-06T07:58:41+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "노사 만족도 86% 기록…한수원, 노사관계 우수기업 5년 연속 인증 쾌거",
+          "publisher": "컨슈머타임스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HRm1nRmFoQlRSOVJXTXRZSHhoMExEWVRSendHbUcwelVyQmlESlRyaXd5WjdIT0ZqYnRQVGlUTnRvWTFweHUtZE83VEc2NXNUc2JNNG9iazdNNTF1dGFpWkdVbU1JMVdZOVE?oc=5",
+          "published": "2026-10-06T10:52:03+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력, 노사관계 우수기업 5년 연속 인증",
+          "publisher": "웹이코노미",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiTldiQldQVzRnWVNKQzN0ZGFfOGFFNG9LUmEtbzA1dkRrSTVwX2tSUXVVR29xYjZzTThWdE1lVFBKeHRLZGdpWElBVVVKWkJsUmNIVXNFRG1XNWxXaUZhd3hFT3VxLVpnWExpSWoybzdIdw?oc=5",
+          "published": "2026-10-06T16:03:10+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.795,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "BWXT's BANR microreactor selected for Canadian project",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/bwxts-banr-microreactor-selected-for-canadian-project",
+          "published": "2026-10-06T12:34:56+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        },
+        {
+          "title": "BWXT's BANR Microreactor Chosen for Canadian Transportable Nuclear Power Plant Project",
+          "publisher": "www.marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcHU0dnk0NFdvZEpWVGNQQThFNWJWVGJYR3BJalZ2Sjc2bmVRaFljb1NhTDZPN3V5c3QtT21lY1c0OTlFajdKMGlaXzc0V2dLdlNsV1lEVmdST0Mwb0JJekRwaEFMaUdPdFRvWE5YRkgwWU1tNXlPVGl5TWl6bVRGaTRMcHpLdVQzRUlmQWVTWE1sNjhoZ1ZBalRtNE94RUxqdjhzTTcxRVNSU1hIQldXYUdMQkpVOElyZ01zOVBvR2o5MnNnRE1yT3VpZk15TFQ4aUVPei1n?oc=5",
+          "published": "2026-10-06T14:17:31+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.721,
+      "id": 4
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[인사] 한국원자력의학원",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4bFJwV1dxeTFQblpxa3RBMndJTFdqQWpsbXdLeDZMQ21HQ2M4dHFHdVlFRXVlY3F2OU9KbzVsMHJoYmpJajhQMnJJZHNWSlJLRWlhaGVlOFpDZ1HSAWBBVV95cUxNckJXeHV5RmV6WGIwM19WYmpCNy1ONjFXUjZTRjlwZUJ5S3ZKUXNGNUw2WWNqVHE1aG0yOWpxN25QajZzQUJsNXNRTzhqbmJDNDRVRmR0cFJscUtMckM5bms?oc=5",
+          "published": "2026-10-06T04:30:02+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[인사] 한국원자력의학원",
+          "publisher": "연합뉴스 한민족센터",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84T0xSOHVtSXZsQUxwTDBVVmtQQWJjM01tM0dIUmhNYkh6bmdzbFk0RVdoNllrNktKb1NFRzFUZExfTWNDaE5FUnl2cmV2b1lfOWdRRFh2am9fSlRPV0h0UVF0S1Q0VV9SZWtkbzc2UjExcDI4?oc=5",
+          "published": "2026-10-06T04:30:02+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[인사] 한국원자력의학원",
+          "publisher": "DongA Science",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fUjNwS1VWb2NFYW9iVWlUejRFbWdBUlpCUC1ZNEVLYm84bzZVOHRUbmszNEFjNGw4WmJEVjFTbVpHRGlEa1N3V2ZsT3VuRno5cjNHbQ?oc=5",
+          "published": "2026-10-06T04:51:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[인사] 원자력의학원",
+          "publisher": "청년의사",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SbXBwOGtPS1Iwb0M1ZW13a21ZcHJ5UHB1ZmhFUjAydXBoTlFfWDZMWXd5WTRSclJLcGJ2WnlPclFEQVF1Q3BxdGltb1Q1YkI0RWJoZ1pPdlc3enpyQUtpUnVidGhDczhxTEdHR3k0d9IBc0FVX3lxTE15bVl2bnA1SjdBMDJJS2V3LWFDUnFEaVVsLXkteTR1a1k1NXF4SGlMSHo4UnRfdWJsSWNBWHNNVjIwNkFtZ01uYTQ2OFNhNkRkU2hpYjR1UFVKS3NTeE1DaXBZSFJxbDFZWHlqYlBtd2tfNVE?oc=5",
+          "published": "2026-10-06T05:07:05+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[인사] 원자력의학원",
+          "publisher": "청년의사",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15bVl2bnA1SjdBMDJJS2V3LWFDUnFEaVVsLXkteTR1a1k1NXF4SGlMSHo4UnRfdWJsSWNBWHNNVjIwNkFtZ01uYTQ2OFNhNkRkU2hpYjR1UFVKS3NTeE1DaXBZSFJxbDFZWHlqYlBtd2tfNVHSAXNBVV95cUxNeW1Zdm5wNUo3QTAySUtldy1hQ1JxRGlVbC15LXk0dWtZNTVxeEhpTEh6OFJ0X3VibEljQVhzTVYyMDZBbWdNbmE0NjhTYTZEZFNoaWI0dVBVSktzU3hNQ2lwWUhScWwxWVh5amJQbXdrXzVR?oc=5",
+          "published": "2026-10-06T05:12:09+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[인사] 한국원자력의학원 인사발령",
+          "publisher": "의사신문",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vU1A3SkxrR05zTWZHUk5yZmRIa0k3bFk3OE8xOWJTQXdnZlhmT1h4TXdDdkowRjdNdGxiczJSbmZmSFBUdDgyUFJ1bGR0SlFIY29ySEQ5c1k0NXlwd1RzbHlkTWxnN2Q5ZjdScmtnRQ?oc=5",
+          "published": "2026-10-06T05:49:41+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "(인사)한국원자력의학원",
+          "publisher": "의약뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50WFJkcS1VTVU3QjNweGtHWmVNd0dUZGVETHJTSVhQSVZodU5fQjZpN2UxNnNTSm9RSnJsTWhkSUdGOFdDZmZVcFpRRkZqWmV2UHV2TEdLTHFYOTFNS2VfSkpmVFAzLTdm?oc=5",
+          "published": "2026-10-06T08:23:21+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[인사] 한국원자력의학원",
+          "publisher": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iUXQzYXRXNGtmSk1CQmp6NTEzSk43YlRiM0laR08wVDl4Q202ckZWTi15akx6QnZBbzROY2VJTlQtN0ZVQWwyOFRKN0JsY3NaWFdseVdJclhXck41?oc=5",
+          "published": "2026-10-06T10:20:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.556,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Google, Constellation reach 11-unit uprate plan; Constellation to invest $4.3 billion",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-06/article-8467/google-constellation-reach-11unit-uprate-plan-constellation-to-invest-43-billion/",
+          "published": "2026-10-06T20:51:36+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.995,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Tritium detector for continuous underground monitoring",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-06/article-8466/tritium-detector-for-continuous-underground-monitoring/",
+          "published": "2026-10-06T19:09:10+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.924,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "General Matter’s NRC license application materials publicly available",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-06/article-8465/general-matters-nrc-license-application-materials-publicly-available/",
+          "published": "2026-10-06T17:22:58+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.85,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Vistra gets $4.2B DOE loan for planned uprates in Ohio, Pennsylvania",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-06/article-8464/vistra-gets-42b-doe-loan-for-planned-uprates-in-ohio-pennsylvania/",
+          "published": "2026-10-06T15:35:47+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.776,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Google and Oracle deals support long-term US plant operations",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/new-end-user-agreements-support-long-term-us-plant-operations",
+          "published": "2026-10-06T15:23:47+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.767,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Concreting milestones at Chinese Hualong One units",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/concreting-milestones-at-chinese-hualong-one-units",
+          "published": "2026-10-06T15:21:32+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.766,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Google and Constellation sign 20-year nuclear power deal worth $4.3 billion",
+          "publisher": "Quartz",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RQ0VqR3ZiUHNOUFAwc25iRmNTR2Z0bzVpOUltVjQ0b3lMaEJFbUtwN2U5UG9MUkltRnJrX3YyTHRNV3lIT21hcThLdDZLRkI5REN5ZmNydkMteU4xV1lnV3VSaFRqWEZIZHhnNVJR?oc=5",
+          "published": "2026-10-06T11:22:11+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google signs 20-year deal with Constellation to add 890MW of nuclear power",
+          "publisher": "The Next Web",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBva3dOR1FRZ1hCMlY5TFctY0VrVXdMMUU0el9uYUk4UmpFbHhDQzBia2tZQURtS2FscEJPYjNaMUphbHRiTmN5UHIxWHV3eUZQQVgwYVQzQmdzQnBRN3hXRVZRTFZWODhMOTJJTWoyaGFtcy0zdmc?oc=5",
+          "published": "2026-10-06T14:14:35+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google signs 20-year nuclear power deal with Constellation By Investing.com",
+          "publisher": "Investing.com Australia",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcjNNUHFFNGxWR2RpdTk4dDA2aEdHbWlWVzZWSnBIZ1k1ak5QOEo4MGZZYVVCNTBFNGxJTjN2SGlaTlJYNzJRTHQ4Y2lxNFQ5NzlxMEhSeHR5cnJteFdxWktIVkxXbkQyWmN6SWJjQUVacl9tdm9EOWRtNjQzeTB1RU15WjA3amlzUTk5YnZlYlY5YWYxTWF2SDZRb1VTQ19qMTA2bXVMNnVzY0dObnpPWW9MVllGZnYxbHc?oc=5",
+          "published": "2026-10-06T15:11:17+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.759,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "DOE offers Vistra loan for reactor upgrades and uprates",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/doe-offers-vistra-loan-for-reactor-upgrades-and-uprates",
+          "published": "2026-10-06T14:03:53+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.712,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Nano Nuclear seeks to build front-end capabilities with Radnostix assets",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-06/article-8463/nano-nuclear-seeks-to-build-frontend-capabilities-with-radnostix-assets/",
+          "published": "2026-10-06T12:14:44+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.636,
+      "id": 14
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "딥엑스, 두산로보틱스와 원전 제조 현장 ‘AI 용접’ 개발",
+          "publisher": "테크월드",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjd0lPVDdwR29yalRNNzJGRzdsc1J4QXNrMFhHeUo2aF9PYTBUVW9iaHgzNGxyMkxNZkxFMThYQkNnbTEwUkZfTUY5SU9YbzgwSE5YRkJjZEZPcnFVVXJzQy1HUGVXMW9r?oc=5",
+          "published": "2026-10-06T04:54:51+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "딥엑스, 두산로보틱스와 원전 제조 현장 AI 용접 솔루션 공동개발",
+          "publisher": "Daum",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lRUVHUmNkLUdsVWhsUGY2dUl2MURvZFVKc3JuT1dJd3g0RzVVa0NSb0Q2aW8zOXRfZFppQkhNOTRQNEg0Q204TmNHMVBIcFU?oc=5",
+          "published": "2026-10-06T07:24:09+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "딥엑스-두산로보틱스, 원전 제조 현장 AI 용접 솔루션 공동개발 착수",
+          "publisher": "헬로티",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tbU9FMW15eHhkZmxYd012YUpfTklENXV1V1hqOUowQllDZDRpaUk1bjA0aFBxOGtjc1laMlQtWERKcHJiVlh6Q2xzamdmOGNzdS04Zk1iM0pReXhmVVpj?oc=5",
+          "published": "2026-10-06T08:42:38+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.489,
+      "id": 15
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "현대글로비스, SMR 추진 자동차운반선 한미 항로 운항 검토",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ndXQ0VEk2ZFczeVI4ZGR3SjV0NUJGcmxqT3VGVVctRHVlT3ZyWENZdGhMaWdPcTByaFdVSDRXblJTVTZqQjlac0wxRm4tRVhKRDNRakg2SHVJeDRySTdFX9IBYEFVX3lxTE5ndXQ0VEk2ZFczeVI4ZGR3SjV0NUJGcmxqT3VGVVctRHVlT3ZyWENZdGhMaWdPcTByaFdVSDRXblJTVTZqQjlac0wxRm4tRVhKRDNRakg2SHVJeDRySTdFXw?oc=5",
+          "published": "2026-10-05T23:55:19+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대글로비스, 美 물류기업과 ‘SMR 추진 자동차운반선’ 한미 운항 검토 - 조선비즈",
+          "publisher": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTjB1WTNiOHk4NVVGc3FlTVRncUI1Rl9hU3ZpejRQY0g0bUFmRTBLcUowNlZkN0VCNlB6R3htYWJpOHY4ZzlMSjlBTFJ2ZWRfNFd6Z2dtUVZYUV9EMFlhUEdfdVZoVmhhem5wUG1zMXZhYzBjMkpCa3RIdllDMloxbnVmOFhremtSNDE4ZzRYWHhCMzRTY1ZxMNIBmAFBVV95cUxNTjB1WTNiOHk4NVVGc3FlTVRncUI1Rl9hU3ZpejRQY0g0bUFmRTBLcUowNlZkN0VCNlB6R3htYWJpOHY4ZzlMSjlBTFJ2ZWRfNFd6Z2dtUVZYUV9EMFlhUEdfdVZoVmhhem5wUG1zMXZhYzBjMkpCa3RIdllDMloxbnVmOFhremtSNDE4ZzRYWHhCMzRTY1ZxMA?oc=5",
+          "published": "2026-10-06T00:35:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대글로비스, ‘SMR 추진 자동차운반선’ 한미 항로 운항 검토",
+          "publisher": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50MTEtbFVfZHNpeUFTMjd2bTQ4bjBGZVBhU2RRTmNQYmRWY09CRm5wdEx2SkdYRWtDUkV4TjI4a3ZoMllXeFRLVXp0RkMzU3JfRnZkTEN3b09HUdIBX0FVX3lxTE1uQVcwMXNiZ2VJbUhzRmFkOWFvQ1ZVXzdoQ3JLVDFRb3dkeDNDc1dEMlZXZTJadFV4dmd6eVRvT3BDelpnTUhCeVl1VVRaZEtLb1V0WjkxY3ZFY0F1cTFR?oc=5",
+          "published": "2026-10-06T00:38:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.152,
+      "id": 16
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "$4.2B investment aims to boost nuclear power production in Ohio, Pennsylvania",
+          "publisher": "WKYC",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNOVpWSzFSdGR4bjVoakJlb3RtX201ZF95NW9CbVAxT1VjcndTTGRWZWhWeGV1dERlT0tFODB5MzJEYk9Da1E0QURaa3hpNUNIVXRlVGZQTjJmMWQzcWF3UFFLZUtCWk5JZHFrUmpId3VPbFFWenlhTnlzaDUzeDZOUjMxd2otMG04dDF6TmJMdzJJai1MZXR3UnR6YzZMei1iWFE2c0Z0MzlQVFMwSHhMeFBhc2MxMWpfNmlHMHFxMFZ0YjN6ZDJJeE1QSmo3Vm8yaEZLS0hYTkUyRzFEWkJld3JQY2l5OTIwWHVYa2pRSkhjekZIUnc?oc=5",
+          "published": "2026-10-05T23:57:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Trump administration investing $4.2 billion to boost nuclear power production in Ohio, Pennsylvania",
+          "publisher": "WKYC",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZGVTQ1dPcmhYUVRyM1pwSnZsbFVTUU1nSnd5QjlCVzlfT18xX3MwNnM0Rmc3SmZ4WnhSV2Y3eURUbHJvN1B5bk52a3Q4cHhyU0lOalpVU2FnNnY0dkhaVHhfdEYwaVFwVHJPX2tmX2otaVloQlBSNmxwVjlfNTBjQWMtYXZMTjhIdy1OaDVTYjdsMDlyczhfbHRacU9ZbXZxNEdvd1Q3SEJkZXY2UDJCc090ZXdCclZqSTVlTmNsQVRVb20tSktVTTF5eXpvODBnV2gyMHpHcmtoaUpkcEJrU2F0WEJwR19McnlFaUViVUxRQQ?oc=5",
+          "published": "2026-10-06T19:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.917,
+      "id": 17
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Alphabet Nears $1 Billion Nuclear Power Deal With Constellation to Fuel AI Data Centers",
+          "publisher": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1EakdDNUpwSjhjNHFKNkk0OHMtMGxjOWkxMWJZYnFCSU1OZWUyYVZ6R1I1YzZQY3AxN1dfSTc0SUlTNmNLcUFSSGlFckpIZDVvRXNPR1FlYXI5ZVV4Y0tWd2tBdUN0STUwcDZsOUxLS0ZWVDJHRnc?oc=5",
+          "published": "2026-10-06T02:55:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Alphabet to Spend Over $4.3 Billion in 20-Year Nuclear Power Supply Deal with Constellation",
+          "publisher": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jRUhnOEF1Yi1aVk00ek9HRk1ZRXRPUF9ZeWxqWkhjcEg0SWxLbVNmNGpFX0tzWXBmZ2RERlRfWHRNdE9BNHIxM2NCOVJnYlJlLXVfUzRjQ3JsTk5Zdlp5RDNlRDFMY2MwSW15Wnl5aVZSZ0ZkTXc?oc=5",
+          "published": "2026-10-06T18:18:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.888,
+      "id": 18
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Google nuclear deal nears $1B for AI data centers",
+          "publisher": "Cybernews",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RdmItTUhkYlNMcGljOV9kMjNtNWdnb0xnNXF5cVVjTGtxVkdKU2xPNC1ackhQMC1nN0NQN3hpc1dIa1ZTQ1JsbU1ZQTgyWGZqX2xlLWZfQlEybUhv?oc=5",
+          "published": "2026-10-06T11:17:14+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Google nears $1-B nuclear power deal",
+          "publisher": "Daily Tribune",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xQzBVbEFacmVKVmYwUGE3NkNzbUhnZzBVd2JuX2VKUS1BeG1BSFBtYmhJZ19Ha3gtNXJvQ3JmRUZyT2ItQmNuOEFDSTYybXhwNG00dmdhcUlweEhDQ1ZWLWs3U0dKeUhuVzBfRWFoX0Y0bXpfUkdsNw?oc=5",
+          "published": "2026-10-06T17:53:40+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.871,
+      "id": 19
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "The big bottleneck issue for clean nuclear power",
+          "publisher": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNHBaNnBfM0luUzVfbFdvWmN3RUpQUEp3ZElQZjVoOUdCSm5lUHdHQUZXcXJIRC1HZ1RqSWpkd2NiVU9RNVpqcmx3MGVWOUk0bjcyMmp0NHJjVHB2b1p4b2lYUDNxckVRdWVrTFZtZ0F5aXJrbU9VckFwWUp3T2d3dnlDbFUyczlB?oc=5",
+          "published": "2026-10-06T17:39:35+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "The big bottleneck issue for clean nuclear power",
+          "publisher": "Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNmVabklKcV9jYUhobXN0VzJrQ0liZUNIaThidG1sZXc0YVY5d2JnTnFDQzkxUG9HejhRc1doa0o5STV2LWVxYUpfSGZoVk1hdHB3M2cyeWRrc1JZbHRxYVoxZldoREhjWkNBRkpheWFjaXZSRkt0c2JSLTJuNWNJMWxtczNUZjFUcDhMZ1JVeHZrV1E0VjBVcEVzWi1QM1E?oc=5",
+          "published": "2026-10-06T17:39:35+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.862,
+      "id": 20
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "현대글로비스, SMR 추진 자동차선 상용화 시동",
+          "publisher": "서울신문",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1yaWhqa09WUjYwVDd4ZDBFZkw2S3VnRi1UX201dmdJdlBDcjIyTFd1ZmUxS3VVcF9ZOXRKSVBWQ2NCRTdmQ1N0NlJGbnI5eHVZd2ppQUhHWVJ5VFJfUFBHSlVnR0tiQTdMbTFIZ3daZEtYbmRYNlRTcw?oc=5",
+          "published": "2026-10-06T15:20:46+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대글로비스, SMR 추진 자동차선 상용화 시동",
+          "publisher": "서울신문",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nLWl6NjBLeGpzVkFXN1RJdXVua08wc3JNYVFsRE9qenczU1VtR1RsS3ZrVEJFdF9UeHRaQzFueW8ydDBaRU1TX2RPWEVKY2Nja2VFcWRRaw?oc=5",
+          "published": "2026-10-06T15:20:46+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.765,
+      "id": 21
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "\"월성원자력발전소 안전망 더 촘촘해진다\"…주민 안전 최우선",
+          "publisher": "매일신문",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5qVWJUeUttblpwVHJ6LWVJUHFVOXdDSC02UlNWdTdSengwdGpnRUhuZV9wWVdVUjN0dXpoeVNaVWFRaHpJV1JPam9lNEpPb0dId0ZNcWVibEhud1FGZkxXb0tB?oc=5",
+          "published": "2026-10-06T02:18:50+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "“월성원자력발전소 안전망 더 촘촘해진다”… 주민 안전 최우선",
+          "publisher": "일간대한뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YZ3VaTWUxbnRrbjM4bTd3Qy1pME1Odm1nVTdUbUV0YktsRTVQWWdGa24yT0FILWRaQ0ZTSEEwNUlfaVVjaWJYNVpuaEVFbUZRUjY0YXNFVldFQVdYYjVSU2EzWkcyNVE?oc=5",
+          "published": "2026-10-06T12:04:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.629,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "이형일 \"美원전, 국내절차·상업성 충족돼야 송금…집값 상승 무겁게 인식\"(종합)",
+          "publisher": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLXzMxd2YzTkQ4NFU0T1c3UF9qU1RBbmlRa2k4cjEtY0pQeTNYSEs2YkJrWXFPMWdyTlJkdmdKS3Q5MnhPMnE0SnpBWWZDWFg5RDVtQdIBWkFVX3lxTE1iMFFJNWpzN0ZlbmtYR0hIZEVsRk9QWHhLbkdpcmhvT01IejlTdnZjMG83ZF9fOGZqU3J2NmJDQ1RscFdzZDFXV0tLbzdlYmNFbWdCTVZzbUxFZw?oc=5",
+          "published": "2026-10-06T03:42:34+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "이형일 “美 원전 선급금, 국내 절차·상업성 충족돼야 송금”",
+          "publisher": "Daum",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52SHJSZl96Q2EtYVAxLUJRc09uRE0xV3BMUS1aa3czVzEzcnh4NkIwWUZUZlVNN1lUZDhpZGozTzU4UENEWDBkV043bHN4a0U?oc=5",
+          "published": "2026-10-06T10:05:16+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.546,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원자력안전재단, 사회연대경제기업 판로 확대 지원",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GbFA1aFFFNUdLN3JjZTZHQWpJUVZuVXNoYzZFcDdCelRkSEpIbWwzMDNMRTRKWmE5S0FGSjB2c1NJYlFTZnR3MWtJeTR1cE1oZVZGR0ZrQTlhbk9lTDRobGozZ2ZOT3hpT0RfaDcxR0gxZw?oc=5",
+          "published": "2026-10-06T00:10:05+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원자력안전재단, 사회연대경제기업 판로 확대 지원",
+          "publisher": "인사이트N파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBULVFSSV82SGlPd25RcW1yTWdyNTBFSFRaR0VvX1E5LUNDTEJya0V5Q2tuM1kzN0dDaWNDYy1Wc21GM0VZaG9TRWNaMXhxNnFpRDNmTzRlZnQ3OFhibXo3My1jZGJqdw?oc=5",
+          "published": "2026-10-06T04:35:11+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.317,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "현대글로비스, 美 LGL과 'SMR 자동차 운반선' 상용화 고삐…한·미 항로 대상 사업성 검토",
+          "publisher": "더구루",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oaWRRc1BFQ3ZwODVLYjRHcWNMcUNOdkdFRUlfQ2Y1eW05SEQ2MldEbi1SLU9BWnROVk5IOU85OGt2cW9pblktSlNvVms0M2pKel9YT05xd3lDTlluN3p3U3c1aw?oc=5",
+          "published": "2026-10-05T23:19:09+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대글로비스, LGL과 손잡고 SMR 추진 자동차운반선 상용화 타당성 검토",
+          "publisher": "글로벌이코노믹",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbW9vNXNkN0RROGtJRWQ4eS1Bc3VfQjRibUVJQjZOUzlVclB3bDFHQWdWMC1zanFhQWxUZzlvWU1XTC1BQjlnVm14ZEtUV1MzLVBwMzM4U3FrTWlfam4xelctTUROaEEwVEtLV18tRXd5TlVSZlcwR2g4bXdSY0FfWlpVUVI0RmhT?oc=5",
+          "published": "2026-10-06T02:11:30+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.217,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "구글, 美최대 원전기업 컨스텔레이션서 3.6GW 전력공급 계약",
+          "publisher": "Daum",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XQVJtVkx3WXhzZXpUbHdzS2gtUDI5Y2NXd0laWnpBM1oxNE1YeHNiRDBXTk5Rd29JTDFHVThDYWtRd0tCRGg1cnptdFE2dU0?oc=5",
+          "published": "2026-10-06T20:53:44+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.996,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[단독] SMR 짓겠다는 기업들, 규제 갇혔다…2032년에나 심사기준 완비",
+          "publisher": "Daum",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1STHpnRnVBeVEzTWhyTXhMaWF3SXJxZHJqUmx4MkdCcnBxNVVtNmM4LVRRS2Jid1dPLUg4NzBEbGhJSU9YSFFPdGZVLWhjRkE?oc=5",
+          "published": "2026-10-06T20:03:09+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.961,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[美특징주]비스트라, 美정부 42억달러 원전 투자에 주가 11%↑",
+          "publisher": "이데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYjVMLUFnRUUyaWEwcEFmeDBCNjctbFNWbDR3Z3BwaUpPc2NMNVFXMU5BT0g3REdqWkVkMEw4aENCc3FHWFVCeUtmV0FYbm9lVGU3cmtMV3VkQnFGNW0xVE03QVBOMlVheUtNb3VqRXpuOV9yWG9qaXQxVHNGVmtiLQ?oc=5",
+          "published": "2026-10-06T19:48:53+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.951,
+      "id": 28
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "교육훈련부는 원자력 공학 22개 분야의 석사 및 박사 과정 교육 기준을 발표했습니다.",
+          "publisher": "Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYlNHNVpMYktycnNuRmVOMll4bTFXXzRtdlluRFNLb1JnVGpWb0VsUUhZMHgzOE4zWkkxOFB2VDUzUXhQWC1waVRDM3RkbklRdkJRdm95VzlZWDhzbXRyU3YwbXlzc1JFdVphQlYwSWhXZmJYVlYwdlVkTnlTa2FXVWZpSC1nelRvem92WlF1SDIzbV9GUjVLTHA0Vjg2VmFBMTFBNkZCSmpiamhFd3Vj?oc=5",
+          "published": "2026-10-06T19:32:59+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.94,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 94
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 35,
+      "kept": 29
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 100,
+      "kept": 90
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 44,
+      "kept": 4
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 5
+    }
+  }
+}

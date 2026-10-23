@@ -1,0 +1,1050 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-19T21:02:56+00:00",
+  "engine": {
+    "engine": "claude-code-session",
+    "briefed_at": "2026-10-19T21:52:06+00:00"
+  },
+  "overview": "미국에서는 아마존, AEP, X-energy가 폐쇄된 석탄발전소 부지에 SMR 12기짜리 원전을 짓는 방안을 살피고 있다는 소식이 가장 크게 다뤄졌다. 러시아의 인도네시아 부유식 원전 계약, 국내 SMR 특구 추진, 한수원의 설비 무단 교체 과징금 보도, IAEA의 노후 원전 관련 전망도 함께 정리했다.",
+  "stories": [
+    {
+      "source_ids": [
+        1,
+        2,
+        7,
+        8,
+        10,
+        20,
+        28
+      ],
+      "region": "해외",
+      "category": "SMR·신형로",
+      "importance": 3,
+      "headline": "아마존이 후원하는 인디애나 석탄발전소 부지 SMR 12기 원전 구상",
+      "summary": "AEP, 아마존, X-energy가 인디애나주에서 960MW 규모 원전 사업을 검토하고 있다고 여러 매체가 전했다. 후보 목록 제목 기준으로는 SMR 12기로 구성되며 가동을 멈춘 석탄발전소 자리에 지어지는 안이고, 아마존이 개발 비용을 대는 것으로 보도됐다. 아직 검토 단계라 확정된 사업은 아니다.",
+      "background": "SMR(소형모듈원자로)은 한 기당 출력이 작아 공장에서 모듈 단위로 만들어 현장에서 조립하는 원자로다. 여러 기를 한 부지에 묶으면 필요한 만큼 단계적으로 출력을 늘릴 수 있다. 석탄발전소 부지에는 송전선, 냉각수 취수 시설, 부지 접근 도로가 이미 있어 새 발전소를 지을 때 일부를 재활용할 수 있다. 미국에서 새 원전을 지으려면 NRC(원자력규제위원회)의 건설·운영 허가 심사를 거쳐야 하며, 신형 설계는 설계 심사와 부지 심사 단계가 따로 진행되는 경우가 많다.",
+      "why_it_matters": "데이터센터 같은 대형 전력 수요자가 직접 비용을 대고 원전 개발에 나선다는 점이 눈에 띈다. 이는 원전 사업의 자금 조달 구조가 전력회사 중심에서 수요자 참여형으로 넓어질 가능성을 보여 준다. 한 부지에 SMR 12기를 놓으면 기수가 많아지므로 기당 출력은 작아도 부지 전체의 안전 설계, 공용 설비 공유, 운전원 인력 산정이 새로운 쟁점이 된다. 모듈을 반복 생산해 비용을 낮춘다는 SMR의 경제성 논리는 실제 호기 수가 늘어야 검증된다는 점도 관전 포인트다. 다만 지금은 검토 단계이므로 인허가 일정과 비용 규모가 어떻게 구체화되는지 지켜봐야 한다.",
+      "concepts": [
+        {
+          "term": "SMR(소형모듈원자로)",
+          "explain": "기당 출력이 작고 모듈을 공장에서 제작해 현장에서 조립하는 원자로. 단계적 증설이 가능하다."
+        },
+        {
+          "term": "부지 재활용(브라운필드)",
+          "explain": "폐쇄된 발전소 부지의 송전·취수 설비를 활용해 새 발전소를 짓는 방식."
+        },
+        {
+          "term": "건설·운영 허가",
+          "explain": "미국에서 원전을 짓고 가동하기 위해 규제기관에서 받는 허가 절차."
+        }
+      ],
+      "question": "한 부지에 SMR을 12기 두면 대형 원전 1기와 비교해 안전 설계와 운전 인력 측면에서 어떤 장점과 부담이 생길까?",
+      "study": [
+        "SMR",
+        "다수기 부지 안전성",
+        "NRC 건설·운영 허가(COL)"
+      ],
+      "reference_ids": [
+        "nrc-advanced",
+        "iaea-smr",
+        "wna-library"
+      ]
+    },
+    {
+      "source_ids": [
+        0
+      ],
+      "region": "해외",
+      "category": "정책·산업·수출",
+      "importance": 2,
+      "headline": "로사톰, 인도네시아와 부유식 원전 계약 체결",
+      "summary": "러시아 로사톰이 인도네시아와 부유식 원전 관련 계약을 맺었다고 World Nuclear News 등이 전했다. 후보 목록에는 계약의 구체적 규모나 일정이 적혀 있지 않다.",
+      "background": "부유식 원전은 작은 원자로를 선박이나 바지선 형태의 플랫폼에 싣고 해안에 정박시켜 전기와 열을 공급하는 방식이다. 육상 원전과 달리 조선소에서 제작해 예인해 올 수 있어 섬이 많거나 전력망이 약한 지역에 적합하다는 장점이 있다. 대신 파도, 충돌, 침수 같은 해상 환경 위험을 설계에 반영해야 하고, 연료 교체와 폐기물 처리를 어디서 어떻게 할지 국제적으로 정리해야 한다.",
+      "why_it_matters": "섬나라가 전력 공급 대안으로 부유식 원전을 선택하는 사례는 원전 수출이 대형로 중심에서 다양한 형태로 넓어지고 있음을 보여 준다. 공학적으로는 해상 플랫폼에서의 피동 냉각 가능성, 선박 운동이 노심 열수력에 미치는 영향, 사고 시 해양 방사성물질 확산 같은 쟁점이 따라온다. 도입국 입장에서는 규제 체계와 인허가 경험이 부족할 수 있어 IAEA 안전 기준 적용 방식도 지켜볼 대목이다. 다만 후보 목록만으로는 계약 세부 사항을 알 수 없으므로 실제 추진 범위는 추가 보도를 확인해야 한다.",
+      "concepts": [
+        {
+          "term": "부유식 원전",
+          "explain": "원자로를 선박·바지선에 싣고 해안에 정박해 운영하는 소형 원전."
+        },
+        {
+          "term": "피동 안전계통",
+          "explain": "펌프 같은 능동 장치나 외부 전원 없이 중력·자연순환 등으로 작동하는 안전 설비."
+        }
+      ],
+      "question": "부유식 원전이 육상 원전보다 유리한 점과 해상 환경 때문에 추가로 고려해야 할 설계 요건은 각각 무엇일까?",
+      "study": [
+        "부유식 원전",
+        "자연순환 냉각",
+        "원전 수출과 규제 체계"
+      ],
+      "reference_ids": [
+        "wna-library",
+        "iaea-aris"
+      ]
+    },
+    {
+      "source_ids": [
+        25
+      ],
+      "region": "국내",
+      "category": "안전·규제",
+      "importance": 2,
+      "headline": "한수원 원전 설비 무단 교체 되풀이, 누적 과징금 338억원 보도",
+      "summary": "SBS Biz가 단독으로, 한수원이 원전 설비를 무단으로 교체하는 일이 되풀이되고 있으며 누적 과징금이 338억원에 이른다고 보도했다. 후보 목록에는 개별 사례의 내용이 적혀 있지 않다.",
+      "background": "원전 설비는 허가받은 설계와 기술기준에 맞게 유지해야 하며, 안전과 관련된 설비를 바꾸거나 개선하려면 규제기관의 사전 승인이나 변경 허가를 받아야 한다. 이 절차는 바뀐 설비가 기존 안전해석 결과를 해치지 않는지 확인하기 위한 것이다. 규정을 어기면 과징금 같은 행정 제재가 부과될 수 있다. 원전 부품은 품질보증 체계 아래 관리되므로 부품 변경도 기록과 평가가 따른다.",
+      "why_it_matters": "무단 교체는 설비 자체의 성능이 낮다는 뜻이 아니라, 변경 관리 절차가 지켜지지 않았다는 문제다. 그래도 안전해석은 허가된 설계를 전제로 하므로 승인 없는 변경은 그 전제를 흔들 수 있다. 같은 유형이 되풀이된다면 개별 실수보다 현장 업무 절차, 정비 일정 압박, 내부 점검 체계 같은 구조적 원인을 살펴야 한다는 의견이 나올 수 있다. 안전문화 측면에서는 규정 준수를 형식이 아니라 안전의 일부로 받아들이는지가 핵심이다. 구체적 사례와 원인은 규제기관 발표와 추가 보도로 확인해야 한다.",
+      "concepts": [
+        {
+          "term": "설계 변경 관리",
+          "explain": "설비나 절차를 바꿀 때 안전에 미치는 영향을 평가하고 승인받는 제도."
+        },
+        {
+          "term": "품질보증",
+          "explain": "원전 부품과 작업이 요구 기준을 만족함을 문서와 검사로 보증하는 체계."
+        },
+        {
+          "term": "안전문화",
+          "explain": "조직 구성원이 안전을 최우선으로 두고 행동하는 태도와 환경."
+        }
+      ],
+      "question": "승인 없이 설비를 교체한 일이 반복될 때, 처벌 강화와 현장 절차 개선 중 어느 쪽이 재발 방지에 더 효과적일까? 그 이유는?",
+      "study": [
+        "원전 설계 변경 관리",
+        "품질보증",
+        "안전문화"
+      ],
+      "reference_ids": [
+        "nssc",
+        "kins",
+        "khnp"
+      ]
+    },
+    {
+      "source_ids": [
+        3
+      ],
+      "region": "국내",
+      "category": "SMR·신형로",
+      "importance": 2,
+      "headline": "경남도, SMR 특구 조성 전략 마련 착수",
+      "summary": "경상남도가 SMR 특구를 만들기 위한 전략 마련에 나선다고 여러 지역 매체가 전했다. 후보 목록 제목 기준으로는 아직 전략을 세우는 초기 단계로 보인다.",
+      "background": "SMR 특구는 SMR 제조, 시험, 실증, 관련 기업 유치를 한 지역에 모아 산업 생태계를 키우려는 구상이다. 경남에는 대형 원전 주기기를 만드는 제조업체가 모여 있어 부품 공급망 측면의 기반이 있다고 흔히 거론된다. 다만 실제 SMR 건설과 운영은 별도의 인허가를 거쳐야 하고, 특구 지정 자체가 원자로 허가를 대신하지는 않는다.",
+      "why_it_matters": "SMR은 설계뿐 아니라 모듈을 반복 제작하는 제조 역량이 경쟁력을 좌우하므로 지역 단위 산업 전략과 밀접하다. 학생 입장에서는 원자로 설계, 기기 제작, 품질 검증, 인허가가 어떻게 한 생태계로 이어지는지 볼 기회다. 공학적으로는 모듈 제작 공차, 용접·검사 기술, 시험 설비 같은 과제가 지역 전략의 실질 내용이 될 가능성이 있다. 주민 수용성과 안전 규제는 별개로 풀어야 할 과제이므로 구체적 계획이 나오는지 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "SMR 특구",
+          "explain": "SMR 관련 제조·실증·기업 유치를 지원하려고 지역에 지정하는 산업 구역 구상."
+        },
+        {
+          "term": "모듈 제작",
+          "explain": "원자로 구성품을 공장에서 만들어 현장에서 조립하는 방식."
+        }
+      ],
+      "question": "SMR 산업을 키우려면 원자로 설계 능력과 제조 공급망 중 무엇이 더 큰 병목이 될 수 있을지, 근거와 함께 생각해 보자.",
+      "study": [
+        "SMR 공급망",
+        "모듈러 건설",
+        "원전 기기 품질 검증"
+      ],
+      "reference_ids": [
+        "iaea-smr",
+        "kaeri",
+        "nuclear-db"
+      ]
+    },
+    {
+      "source_ids": [
+        22
+      ],
+      "region": "해외",
+      "category": "원전 운영·건설",
+      "importance": 1,
+      "headline": "IAEA, 노후 원전이 세계 원전 확대 계획의 변수가 될 수 있다고 지적",
+      "summary": "IAEA가 노후 원전이 세계 원자력 설비 확대 계획을 복잡하게 만들 수 있다고 밝혔다고 보도됐다. 후보 목록에는 구체적 수치가 적혀 있지 않다.",
+      "background": "원전은 설계수명 동안 운전한 뒤 안전성 평가를 거쳐 계속운전이나 수명연장을 할 수 있다. 이때 원자로압력용기의 중성자 조사 취화, 배관 열화, 케이블 노화 같은 경년열화를 평가하고 관리한다. 수명이 다한 원전은 영구정지 후 해체 단계로 넘어간다. 한 시기에 많은 원전이 건설되면 비슷한 시기에 수명 문제가 한꺼번에 닥친다.",
+      "why_it_matters": "새 원전을 짓는 속도보다 낡은 원전이 멈추는 속도가 빠르면 전체 설비 용량은 늘지 않는다. 그래서 수명연장 기술과 경년열화 관리는 감축 목표를 달성하는 데도 중요한 변수다. 공학적으로는 재료 감시 시험, 비파괴검사, 노화 모델링 같은 분야의 수요가 커질 수 있다. 어느 나라가 얼마나 계속운전을 택할지는 규제 판단과 경제성에 달려 있어 추가 자료를 지켜봐야 한다.",
+      "concepts": [
+        {
+          "term": "경년열화",
+          "explain": "시간이 지나며 재료와 부품의 성능이 서서히 떨어지는 현상."
+        },
+        {
+          "term": "계속운전",
+          "explain": "설계수명 이후에도 안전성 평가를 거쳐 허가를 받아 운전을 이어가는 제도."
+        },
+        {
+          "term": "중성자 조사 취화",
+          "explain": "중성자에 오래 노출된 압력용기 강재가 단단해지지만 잘 깨지게 되는 현상."
+        }
+      ],
+      "question": "수명연장과 신규 건설은 용량 확보 면에서 어떤 장단점이 있으며, 어떤 조건에서 수명연장이 더 합리적일까?",
+      "study": [
+        "경년열화",
+        "계속운전",
+        "원자로압력용기 조사취화"
+      ],
+      "reference_ids": [
+        "iaea-pris",
+        "oecd-nea",
+        "wna-library"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Rosatom signs floating nuclear power deal for Indonesia",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/rosatom-signs-floating-nuclear-power-deal-for-indonesia",
+          "published": "2026-10-19T11:40:56+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        },
+        {
+          "title": "Indonesia, Rosatom sign agreement for floating nuclear power plant in North Halmahera",
+          "publisher": "Indonesia Business Post",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZ3U4bTdVSXZqTUk1cVFwYnFiMGh4ZW9FNjFKemtEMXBIS0FyVTNvNmtjNnV4Wl9vMUlXYS1VWkI5bUppVTBzXzVUOGZmN3BmNFhWVjVuT2M0MDhrZldtOENCci1rR2pjQmF6N0FLRTZ3M29wdjMtdEJwSGtyM0FFdThnNERlTXVjbHlGMXNULXVzXzJoeUc3Ni1HWE14WnZVQWc0S0s4MXFjaVBoR3JYc3ZqbzZVMHlsNEZNOUpLZlVoalRqb0lxSi1YMGtNXzBHSG91NUhtM1J1WVc4?oc=5",
+          "published": "2026-10-19T11:03:35+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rosatom signs floating nuclear power deal for Indonesia",
+          "publisher": "World Nuclear News",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU1F1UEh0Sno5TEpwSjJzZmpkZ2ZjY242Rzduakd6S2lMMDZpcXl0RWx4d0NDRFJnZmF6Umg4aVotS3hDN1NhcHFhWU9ramFJdGlsSU9fTl9JdGRQSl9aUS1JZHBfem1YQkRoSE9VLWNmOTRWUjVJVHFqY25qbGIwbTdiR3dQT0dNUUlZTUpEUE04SmlSdUhLT1BLVQ?oc=5",
+          "published": "2026-10-19T15:05:09+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rosatom signs 200 MW floating nuclear power deal for Indonesia",
+          "publisher": "energynews.pro",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeS15Z1R1VXp5VGVETVFfdm5xOGl1TktPM24xb1hHUnFSei1zVnhRd05Hb3Fia0pLdzBQSlhTczdqVnlzMENua1dMdVVWNmlwaHhmQWViY0JkaTdaNmFTQmpaaEtSU3ktN3NNZGNSU3huQVlmQTFpcG5ubWVhX3dTZk1BZnlmYVdXeUVUN1hSRkNxUQ?oc=5",
+          "published": "2026-10-19T15:32:53+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rosatom’s Floating Nuclear Power Project Offers Tanzania New Opportunities",
+          "publisher": "https://ippmedia.co.tz/",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPS1hHaDRCdkNvM1NUOGRZZllaRFU5MElNNnVQQmJ2eWZ3Yy1WdnpkMkRITks4dEVnTjdXQndvdWRRY3ZJUTAyS1BLTkxCS3NESmEtdDFfUmhMeWFmRF92TEpNZTd4bzJCb25DNnZZei1LbDctX2JsS0VtQmZSQzhkR0pHSl9SSXZHVzFTR0NzVGtTaldXREhuR0hSNl8xWmJPMHZmSy1DbWNpX2VJZFRXWXBHUEV3NlBTa0VHVEJaSFVYQzJzaTJ1SVNNVm9KMEVEV1A5ell3YXdoOHdtWms2d1BB?oc=5",
+          "published": "2026-10-19T18:53:02+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 5.91,
+      "id": 0
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Amazon and AEP Explore 960-Megawatt Nuclear Project in Indiana",
+          "publisher": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY0QzSUNjTkNzZEppTURpTGxwaWV6blV6NmpUY3RvVzFpMTlZcHpubDZNTkQ5UFY1UDI5WDRfZndCYS02czBoVVdSNGFfRkNfeXlvbVRJeHZ5MVRPUGl1WWVEY3V1LVhlWW9yYVFqN1NRNUJoYnYyVVd0bTFSTFhySENVdHM5NFdDY01uU1gxWmxHOC1uMGpQTXhvcWV4X3NhX01vR0wzaHdhNWgwVDhUSDZDbw?oc=5",
+          "published": "2026-10-19T12:15:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Amazon and AEP are exploring a 960-megawatt nuclear plant in Indiana",
+          "publisher": "Quartz India",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rOWo4VmJxTnFHQTRoLVIzN2tGUHE0WWJqcTlWTXdxWkthczNGQklNMHk3S0dGNXVhSDZXQWxZTk9YOVplSzBMczFIRWhOVlF3YnlsX3VOWGJranlEZXpFQ3RhdFRNMjRIMEh0WUJHUU0?oc=5",
+          "published": "2026-10-19T12:51:06+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "AEP, Amazon, X-Energy to explore 960 MW small modular reactor project in Indiana (AEP:NASDAQ)",
+          "publisher": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWWZZck5zZTNiVU15TnREY3JPeXZUNFJBeEJKOHFFa1pEWVhjc1RIanNKOWpZQVZFdUFjRUNFNl9aQzc4UTdmZ0FvTEt5MjhtdVNzeGJpMm5HYmZLTlN6enNXM0x1cjFwbUt5blNwWDY2X3hTdl9mdjBYSWc0SkxyZEgyeDNMOUdTNlpJMnoxN1lRc0FmMGduVE1oSWdqWEFpanV3YldnSWI2SHc1aW5KZDh3RDNjeDA?oc=5",
+          "published": "2026-10-19T13:17:18+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "AEP, Amazon, X-Energy to explore 960 MW small modular reactor project in Indiana",
+          "publisher": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSHJIR1lFeDNPeGxKd0pyeW9kc2lfUmpGNWxNYzJtWXRFcW5qbEhsZ0VDcDM1NTRaZ29ydk5kNURveVc2UENSeWtlbTk3c3o3ZFZUaGRvaGlyRjJlbzhZUHZnZlVtMXpnYXlaMTJjMFl1NjU5SDVWTlV1QU9INnhldGhhMUZKUUlXMWxFSzBBZk5VT044bjJDcGxjY3hydzBjd01FNG1kc3JZTVhyS3VBZkJvV2NkdGJsU1kxbTBLZ3Q1alBYWUo1dWdkMEJtQnRZenpXTFRZZWg?oc=5",
+          "published": "2026-10-19T13:17:18+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Amazon and AEP Explore a 12-Reactor Nuclear Plant in Indiana",
+          "publisher": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZllqUlpYWF92OVRNTFRMeGRwZWdRSjhvTXFHRW9TOWlRQTZTSDZkTzlTRGc3RFpWVzZhZHdHdDlFVm0xX3FzaVZGaEpLa05TcVVrQTZlT1lITjBFblBTTWRtQTJnYi1mMExpUGxibkRfQXdfSHBMNDRKQndmbF8yd2VtcDZsMTluWV9zTk1UQzEta3Ix?oc=5",
+          "published": "2026-10-19T15:43:28+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.778,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "AEP, Amazon and X-energy planning 12-SMR plant",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/aep-amazon-and-x-energy-plan-12-smr-plant",
+          "published": "2026-10-19T13:35:54+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        },
+        {
+          "title": "Amazon Funds AEP and X-Energy Plan for 960 MW Indiana Nuclear Plant",
+          "publisher": "Securities.io",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZkJLVmdJR3JsYzMwR05XRXlYdnlIZ0VJYXZIUXZRTnhxZy16M05zaDJCa1Y0Mlp5VWRBc1lpWktKLU1leUkyVVQtZU9VQmtSV1dGM3RVNVplVEU0Vzd2TVV1MmNrcGx3UUMyMFM1bGRGZ3RoZWI4bWtrRzZwU0x5TW1taC1HM0hYVXRFWFVrS1pKZXp1akRDZzNB?oc=5",
+          "published": "2026-10-19T13:00:13+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.69,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "경남도, SMR 특구 조성 위한 전략 마련 나선다",
+          "publisher": "세계로컬타임즈",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5WTVVBQ1g3cGJUd0JBQWxkS1FQUFZvaU9PV3FrdVVFVmo0MW0zMy1KMjloLUxsV2IxZU94WkpoUjFCeGpnNGxfMjJQUFM3MjVCM0xKYUxqekdMM0lwZUHSAV5BVV95cUxOVk1VQUNYN3BiVHdCQUFsZEtRUFBWb2lPT1dxa3VVRVZqNDFtMzMtSjI5aC1MbFdiMWVPeFpKaFIxQnhqZzRsXzIyUFBTNzI1QjNMSmFManpHTDNJcGVB?oc=5",
+          "published": "2026-10-19T10:40:31+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경남도, SMR 특구 조성 위한 전략 마련 나선다",
+          "publisher": "경남경제",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2T3dwc1hPTVduSU9SLV9ybElheG1kZnhHMkdIaTE3S3dXTXVjZ0xzUWF5dVg2U294TVdLcVh4N3lpQXRiY0FMczFOVkZIXzZfU0h4RTREODB0T1paVVdjQm1YY1pZMURp0gFoQVVfeXFMUHZPd3BzWE9NV25JT1ItX3JsSWF4bWRmeEcyR0hpMTdLd1dNdWNnTHNRYXl1WDZTb3hNV0txWHg3eWlBdGJjQUxzMU5WRkhfNl9TSHhFNEQ4MHRPWlpVV2NCbVhjWlkxRGk?oc=5",
+          "published": "2026-10-19T11:08:42+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경남도, SMR 특구 조성 위한 전략 마련 나선다",
+          "publisher": "웹이코노미",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OWDZidi0wLV91ZG8zTmZMQk5ZQldDQUpKSXRGcW5jdVB5elN0U1ZwUVpqWWxLWVNHQnUxUlNDM09hWktuVVlUVTBuSUV0aWt0bFJhVGJxNkIzc3daS004NW1qdDVrOUFYeDhYR1BXY2laUQ?oc=5",
+          "published": "2026-10-19T12:15:15+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경남도, SMR 특구 조성 위한 전략 마련 나선다",
+          "publisher": "엔디엔뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RdC1JT05fNE5Qd1dTS3NULTUxd01nS1Rxcks0NGhiTk9CblZtM0tLajR1YmwtMmhVVzRQSEZBTVRFSXRORXRQeFlUUGZGaEFpY3BFQzNEMlJIZnZ5c0xlenRBbE5oemQ1QmdpaWhPdkg3UdIBckFVX3lxTE9RdC1JT05fNE5Qd1dTS3NULTUxd01nS1Rxcks0NGhiTk9CblZtM0tLajR1YmwtMmhVVzRQSEZBTVRFSXRORXRQeFlUUGZGaEFpY3BFQzNEMlJIZnZ5c0xlenRBbE5oemQ1QmdpaWhPdkg3UQ?oc=5",
+          "published": "2026-10-19T13:09:09+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.671,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "월성원자력본부, 호국훈련 참가…원전 통합방위태세 점검",
+          "publisher": "드림저널",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5fc2ItalpCV09FU2hxR1VXbFE5dnpZRHphcjcwaVk5ZEFTZTJQb2JpOW5CS182QkNUMjNTMnpPZ1dQczdrLVE?oc=5",
+          "published": "2026-10-19T09:06:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "월성원자력본부, 2026년 호국훈련 참가… 국가중요시설 통합방위태세 점검",
+          "publisher": "세계일보",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KRGFIUHpnTkJPbkZmelVhQnpFVDhfQ09RR3NhQ0xqaVBiemdtY011VGFvb2pJUDE3ZlpWa3VMZkZsM25RVUxBQ01rMFZnc25uNE5nU9IBVEFVX3lxTE1KRGFIUHpnTkJPbkZmelVhQnpFVDhfQ09RR3NhQ0xqaVBiemdtY011VGFvb2pJUDE3ZlpWa3VMZkZsM25RVUxBQ01rMFZnc25uNE5nUw?oc=5",
+          "published": "2026-10-19T10:38:03+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "월성원자력본부, 2026년 호국훈련 참가, 국가중요시설 통합방위태세 점검",
+          "publisher": "시사코리아저널",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nZENzVDBjclhjeHNJS3NVRmtSVC1jaklHbUFlbVROS2xiWDNiRWpTdGZab0lrZVQ3WFZLd0JQLUVpNmhweTNmaEJQOUdVbHBfeEkybDlFbEN2ZFJZa3NGSk1VOXppVExRSFp3?oc=5",
+          "published": "2026-10-19T11:15:16+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "월성원자력본부, 호국훈련 참가",
+          "publisher": "헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01N0YwT3VlSkFwd042dkd5TWJ6UEpmbWJ2bU1iMDNfWG9oeU42VFcwSWRhWGl6MFZOZ1psYkpwODBYN1kyTHlQTlpOMHZoYXZUaFhzTFdn?oc=5",
+          "published": "2026-10-19T11:50:21+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.616,
+      "id": 4
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, '첫겨울 나눌래옷' 캠페인 전개",
+          "publisher": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxObkxPWDJUZ3RzX2staV92cE5SSDFoUXB0WXRnRzVUNV9uX09neTFqdU8xYXoyalJZVHlmSnQ3YmNKNXljczlPdk1FWFdveHRqVXlXNktsZEdwVTlmeWxsQWk0N1FOelA1b05uNEN2SkpwM1lQWEpVV2JnODRSQVBnc1RGNlRpVmdLdmpuRlZWT3FrZUI5NWZNUVFWb2hyMEFPeWFFVnJ2aFVwZUpHTklJM2NValZNX1RpcjU5d05XbG50UWxUcjd6SVVfNWhoZXBYc3o3V0hGSHJGWkRXLTVnbmlyamZxN253N3dWTVY1V2FBNGdUU0twSGQ4Rm5Nb3JrQm9kMlhGdjc0YThzZnBBamt0dFZsTlE?oc=5",
+          "published": "2026-10-19T06:11:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 첫겨울 나눌래옷 캠페인…임직원 외투 외국인에 전달",
+          "publisher": "SR타임스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ibjBPUmR5RlJ0U24wRnJyWmZRaGthRUhEbjNtYlBfR1pxVjJNMjlPSzBmWTFqSEMzN3FvM0IwS0lKWHlJUXNuWXBzc3NYam5URW9WQnp5NWhFZGc1LWl3UUtlTGlOTjZt?oc=5",
+          "published": "2026-10-19T06:35:31+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 첫겨울 나눌래 옷 캠페인 시행",
+          "publisher": "인사이트에너지뉴스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MeWRVSmhtQlk4VWhidXdwZzBBdThwVkdjbUtlcWtaaWNUWHZsTm5La1FlRXJwVTIwRnR2Rm1oemk4LTZoQXUtRTJWSjFRU3JiY25uUHc0RjUwTkoxNzhicENqaWlWNzN6dHNz0gFrQVVfeXFMTkx5ZFVKaG1CWThVaGJ1d3BnMEF1OHBWR2NtS2Vxa1ppY1RYdmxObktrUWVFcnBVMjBGdHZGbWh6aTgtNmhBdS1FMlZKMVFTcmJjbm5QdzRGNTBOSjE3OGJwQ2ppaVY3M3p0c3M?oc=5",
+          "published": "2026-10-19T06:55:35+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 외국인 이웃에 ‘첫겨울 나눌래옷’ 캠페인 펼쳐",
+          "publisher": "인사이트N파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WaWlFdUhTb2I3RGNrZ2pGVXE4TEFva3BUOG5mbllvUWVzZVNBSlJDTE5EMDRELU14eWQyREFwdnluMjlHc0wyaG15ZDhURVdMbGFLb1l0SEZXVzZiQzVOYmE5UER4QQ?oc=5",
+          "published": "2026-10-19T07:30:27+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 외국인 이웃에 온기…‘첫겨울 나눌래옷’ 캠페인",
+          "publisher": "ER 이코노믹리뷰",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DZWRidmwwNFdNX285emRHeHNjNkh4QnVyeUF5TjJFLV92N2hTYXp2V2RnbFVEZ0hlVG5VOEhSRkl3ME9vSTg4SDl0NHZDX3oyaVlmaHpDQ0h5aGl2ekQ2N3MyY1p4UFFmeS1MZA?oc=5",
+          "published": "2026-10-19T08:28:48+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "외투 한 벌에 담긴 온기… 한수원, ‘첫겨울 나눌래옷’ 캠페인 성황",
+          "publisher": "지이코노미",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KQUd2RVRFbnpKMmZvWVNWenZVUFJsTnMxdHh3YWZPMVYwYzhqSlZIZ2lvQUhVaUFNTS1CVm15XzZGQWtCZmJqNkNHY00zMktVaFltSGl5NWJKWHJXNTVXUUpGbUs4YzQ?oc=5",
+          "published": "2026-10-19T09:18:34+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.511,
+      "id": 5
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원자력연구원 김병구 前 단장, 「다시, 원자력을 묻는 시간」 20일 출간",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hOGI5M1hfcTdjY0VoOHFXS05hdGxUUE1WNU9ITHJ1TzZwSUNmdDQwZjZXa1dMdTdLNUhKZ1VQQmpkalVwZ0M1S2RqRzRuR0d1a0VZVGl6T25tY0JleEE5QWNReGo?oc=5",
+          "published": "2026-10-18T23:59:42+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원자력연 김병구 전 단장, '다시, 원자력을 묻는 시간' 출간",
+          "publisher": "충청뉴스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ENGRPTUJGR0ZIVkJ2NUkwNk9oYUZoTFBpM0FZWERERi1xYWJNQm9sdVJHN2xUUGtPUXVxay1pMzV4dXQtUHBKcnJpTlA0Tm1DVTdXZGhXSzdkYkRobGY0NFVrWXlxVEJ2MURn?oc=5",
+          "published": "2026-10-19T02:14:11+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "김병구 원자력연 前 단장, 신간 '다시, 원자력을 묻는 시간' 출간",
+          "publisher": "투데이에너지",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtcUVveFlhM1dKcE02ZHNiNERDSHVFZ1ZuemRJd3AzWEpaa0llaEE0ci1uUno4VkxjU1FFMGh5TmNBenNrQl9jYlBzOU5wTGxNU0VFOHNTZ1RNOXNDc3I3VWRmcmRfNFlTNlVkMw?oc=5",
+          "published": "2026-10-19T06:30:07+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "김병구 前 원자력硏 단장, 신간 『다시, 원자력을 묻는 시간』 출간",
+          "publisher": "인사이트N파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5JcTBoQ1A2NEJWNFh6MXJEMC1KQ0ZDQm1Jdmp3eWE0bkNnQ0NNQ0dOVlVmMXZEUEE2Vk92M0tDZElmQ3JLY0JJYWowTGxKVjR6WXo3eTlsM0IwNHpaTFRQOC1qUnlyQQ?oc=5",
+          "published": "2026-10-19T06:35:26+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원자력연 김병구 전 단장, '다시, 원자력을 묻는 시간' 출간",
+          "publisher": "에너지타임뉴스",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZRUx5WFNET041b0d3RThmTzg3aWw0NFczX0xWWUc5Q3RzM21IRW5ZM3cyZi1ydmFXazVLZkhMSldoc3FlUkozSWg0eFpqNFUyN3I5S0RTdGExRmZJR24ta2dLYmFLbTJBTmZjQS1DTEs1NVAwTnfSAXZBVV95cUxOWUVMeVhTRE9ONW9Hd0U4Zk84N2lsNDRXM19MVllHOUN0czNtSEVuWTN3MmYtcnZhV2s1S2ZITEpXaHNxZVJKM0loNHhaajRVMjdyOUtEU3RhMUZmSUduLWtnS2JhS20yQU5mY0EtQ0xLNTVQME53?oc=5",
+          "published": "2026-10-19T07:44:26+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.446,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Amazon, X-energy and AEP eyeing possible nuclear power plant project in Indiana",
+          "publisher": "WFIE | 14 News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbURMRnVUUkN0cDhNZmx6QU5oU3pWUEI5S250STBIMUtjZEN1dEVoSng5Sm4xRzQ2U1FUVXdUR1lleDFMYU4zb0RpTW1PR1FYeWpBSHR3aE52Xzk2aEtGa21iYzRWOUtuUk83S3pfS0RaTEhIeDlNZFJKLVpQTkZyZkpaRVY2QTdVeUI5QUlJTUVoWEVKaThXeF9ETlVKdG13NXVSd1U4bG1pUQ?oc=5",
+          "published": "2026-10-19T13:23:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Amazon, AEP and X-energy Explore 960MW Small Modular Nuclear Power Plant in Indiana",
+          "publisher": "Construction Review",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd1VwT3E4UHJoWGpJSk5tNXVuUWtBMm5jQm04VldEM1hrT01ET1VMVjlnRHZXT1gzZ1A2OHBPdi1oWnJKZFhFUkxqX3IxbWVQTll0bTFzWDFKMVlaZjFYalVPMTA2bFB2a0NCdG15OTExY1JHMHVCNXlaSFJfcEdkemhwaGV2R1VlTUE0WkhkdUxwcHZnclFzdElOQmYzMDM5SzBTS0pOMG0tazhuQkkyODBpV0xablNoWG5lTw?oc=5",
+          "published": "2026-10-19T15:32:39+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Amazon and AEP Eye 960MW X-Energy Nuclear Plant",
+          "publisher": "Briefs Finance",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYU0wYXlFRGJSeWlUNmhZVDJmNE12cGdpUTR4dUNudFBSNmctc094RnFjUlB3LUlWYzU0NVUta1AxUzhhZmJiUGM5bFdDcFBPYm9jOXNnQlo0cUxaa3BGbDc3OHJ5R1lHQklyeWxIMGF5TmM3WTRlNkFyeHE2bjZvdmczT2hpQkxxa0d1X1ZlUms?oc=5",
+          "published": "2026-10-19T19:52:17+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.951,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "AEP, X-energy Eye 960-MW Nuclear Plant at Retired Indiana Coal Site, Backed by Amazon",
+          "publisher": "POWER Magazine",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdW1KZGtoQTNrNGdROXlqSXY5UEduSVZNeEh1cjNXU0M4WU9MaU5GelMzMzVnVVg0LURCZXhOcjhzc1hVdlRoUDRBV2tQMUJUX19JV2dGRHEyLWpsbWhmRnRlYXJWM0Z5WGpuZlduOWM4VjktMzhQblJ6TUFqQUw3WEF0WFZQSi1oLWJNTnJRY1dvTmhEWUNEOGZ0d2xsTjBNWjhPVlpNa1VOUzY5eFE?oc=5",
+          "published": "2026-10-19T14:04:41+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Amazon Backs 12-Reactor Nuclear Plant at Indiana Coal Site",
+          "publisher": "Gadget Review",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbE91WmR5aTFoWVNxREwxM1cybE52RVZMSjdDb3dVV3ZOcS05cUdCRXJRUEFVeW1mZnBiaVJWMS1haENQV1FOYzc4TEFPblhXVDlXSGozQUx3VVp5WFA2WTZrUXZwa2xRRkZyb3ZKUWJ3b2xaeEdkVGtVUElrelNnc1dJZS1aX2RsQnNmRDF6cTQ?oc=5",
+          "published": "2026-10-19T18:57:38+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Amazon Backs 12-Reactor Nuclear Plant at Indiana Coal Site",
+          "publisher": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcmxlU2RCMGVUNVMxdXdaZjNUUFRtUFJBdDZIT240SHpFdEpfTEI3dUt5LUttZDJEWVNWeFk3MEd2cDZSWkE0WVQxN3pqdG5BWDF5WWRkNWtScUpiUjVtWERzczhJUUdYQ0VKQ3B6R2RBbWdWbjFLc29iSUlESlVnRFBOMURmWVZPTmNZU2dxN1lKZw?oc=5",
+          "published": "2026-10-19T18:57:38+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.913,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Merkley and Markey introduce resolution to block U.S.-Saudi deal",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-19/article-8500/merkley-and-markey-introduce-resolution-to-block-ussaudi-deal/",
+          "published": "2026-10-19T17:43:58+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.862,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Amazon is funding a new nuclear plant in Indiana",
+          "publisher": "The Verge",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9nOXYtSjNXR3oxeVBMZkpSSEFvZURTZ1FMRVJWVWhRX3ZxdUVQdi00dUc3Nms5NUZGR0Q2RU1DN0U3TzJLSnRNWVJzSVBqNmJVemFjRF81Q1U0cDFsUnV5NlhBV2laOG9yUXpUbGFrcUxQMHRRUEFjLU5lLXM2dw?oc=5",
+          "published": "2026-10-19T15:44:20+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Amazon backs plan for a new nuclear plant in Indiana",
+          "publisher": "Mezha.net",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOGxHQmJrQ0ZLaTVNU2hSakZab1g4OEp4Nk10eFlnVXVpMVdEdzl3dTdMYngxbTF0dHpyY3dZcHU1aHBvV3c4SS1ZQ2hzOHc2aXpBZ0JuTkxYWTRwYkZBZFdoZWdsdkt0WkttUkJEdFpzNmV2UXlHNWoyYXdtOG9tdmpn?oc=5",
+          "published": "2026-10-19T16:07:32+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Amazon funds 960MW nuclear plant in Indiana, fi...",
+          "publisher": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNUt5bDlrSHZlRzAtRG1NZWl0cnYtUkdtc3N4T2VCNUxvWFhLNWZubmh5S0kta3pNb3VNbkRvWnJTTzJtcnl2VzRJZ09lY0xxNW5ZemZzRENHRDFOdXRaSHRoa1VSYXdhNjQ2bzhYTGhXcnkzOVk5c0sySkF0Q2hBTExQSXdPOTNXVDlFaGdOR1RUQQ?oc=5",
+          "published": "2026-10-19T17:17:24+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.843,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IBA and Framatome form Ekalia for At-211 production",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-19/article-8498/iba-and-framatome-form-ekalia-for-at211-production/",
+          "published": "2026-10-19T15:30:14+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.769,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Joint venture to produce HALEU in South Africa",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/joint-ventureto-produce-haleu-in-south-africa",
+          "published": "2026-10-19T13:59:40+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.706,
+      "id": 12
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원 임직원, 국내 거주 외국인 이웃에 겨울 외투 나눔",
+          "publisher": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTOTJmdFFsMER5VlRsTWM3am1wWFowN2ZvLVA2d3RHQzl0VUE5R3JBbnVzNnhuRzNBRU1EMjJCYWdEeUZWQkJvOFFWR3N6bVRJQnFnTzR6UlNwanVCZmtKZUI5TUtRRlZQOTR4UUdBOEI4S0w2dFlz0gF3QVVfeXFMUFM5MmZ0UWwwRHlWVGxNYzdqbXBYWjA3Zm8tUDZ3dEdDOXRVQTlHckFudXM2eG5HM0FFTUQyMkJhZ0R5RlZCQm84UVZHc3ptVElCcWdPNHpSU3BqdUJma0plQjlNS1FGVlA5NHhRR0E4QjhLTDZ0WXM?oc=5",
+          "published": "2026-10-19T06:52:58+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 임직원 ‘겨울 외투 나눔’ 기부…외국인 이웃 첫 겨울나기 응원",
+          "publisher": "부산일보",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1pQW8wMGhmUEdKdkJoLWdLckJqeFJ3bVNVMm9vQnJNSVpyZ1lNY2phS09YNHZSY1o3aHdRcEFPTjFsMk1xai1mMFpNX0t0bC1LSi1QeTRpZ2ZVZ01paDVvSUR5eHI3WDU2dEFKSGMxSHRxb2FEMV90NktzZw?oc=5",
+          "published": "2026-10-19T11:45:04+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "\"한국의 첫 겨울, 따뜻하게\"…한수원 임직원, 외국인 이웃에 겨울 외투 나눔",
+          "publisher": "투어코리아",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ySmJ2MjdWQ3ZtYVZDMmFMT3JCSVdkQ0VMN3FwYi0yNTRZZE9Tbk5XYlZHM1dFZWNROGVURlVaVDd3amdkSE9jbUY1T0xCbmFkM3A2NENRelJiMHlObVlUaDl6elBkcEg5Y1VuYmtn?oc=5",
+          "published": "2026-10-19T13:24:06+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 2.681,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA publishes report on isotope tracing for water pollution monitoring",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-19/article-8497/iaea-publishes-report-on-isotope-tracing-for-water-pollution-monitoring/",
+          "published": "2026-10-19T12:10:01+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.63,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Oklo plans isotope facility under US Launch Pad initiative",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/oklo-plans-isotope-facility-under-us-launch-pad-initiative",
+          "published": "2026-10-19T09:24:42+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.515,
+      "id": 15
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 외국인 이웃에 겨울 외투 나눔…‘첫겨울 나눌래옷’ 캠페인 진행",
+          "publisher": "직썰",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3Zm9ZTjk2a0RLMmZLaVpxTDBEN2gzOEg4alRlNHUtYkRJUktqdUl4X1ZtNnRlNUJOdnFmUEttSlpvMl9uanliZGc1NFZuVnQxdUI5RGpPOFJfOHRkODkwaVV6Qm1FWnNJ0gFsQVVfeXFMTXBCU045UlRfTVN4MkNDMWJQMldYRTBDRWkzci1TbVpHZG50NVNzZ1hreFBwV2xLRGp2S000bE4xMDFnM0l3Wk5VNWVtalNXLWk3bTY3MDlYc1NrWmNYUEYtVXBHSmctMEtmVi1R?oc=5",
+          "published": "2026-10-19T08:02:46+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 외국인 이웃에 온기 '첫겨울 나눌래옷' 캠페인 진행",
+          "publisher": "뉴스포스트",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IcXRFaG14RGJYVU51cHZlSlNSaWdIMUVnRF9aNjY0T2tKZHhpSV9rNXZucXQ3aEszcndvUjQzeEpUNVRrM3pocnFtb0pmV3U0WHJwNE5UeHo0ZlowdTB2SV9ReFlhenFG?oc=5",
+          "published": "2026-10-19T08:46:45+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 외국인 이웃에 겨울 외투 기부···‘첫겨울’ 온정 나눔",
+          "publisher": "이뉴스투데이",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE54a2Z6VWFkUVFlZWtEUzVKUURHLVBoT3ZxbkhqNU9mZjRoczhxdjlHM29zUk1udjFTM3daLWdlM1JXdDRVamExRjBqci0yNDVpemRpWlc5QU0yTlVXcXRiaDdRdUdRUzhWdkdCZERvQ2dsQdIBdEFVX3lxTFBKdFFRRWFRN2l5OHptWlRrb2wtSUpDV3J6OVFNQTlBNFF1TXl4ZzlidXphQ002VW9vR2lqZEE0aldPY0RDeWRSSGE5YU9wTnVCcnF0Z3ViaFkyVlZ3blR3YUZDRmFqUHVra24wUHNrM2x0VFNf?oc=5",
+          "published": "2026-10-19T09:10:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 2.505,
+      "id": 16
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원노조·시민사회, 10월 22일 ‘신규원전 지연 책임 규명’ 공동 행동",
+          "publisher": "에너지타임뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnM01IcW9Jb0tnbkVfbDV2X1pxRXV5ejUzVmt0RFpRVE9sQzl0ZWNWOUh1aGJZbWNCb0Y2aldOcnpYV2NzdFB1SUxCRVNuV2NpWUpCQjcydVYxcFdUaTA0ekJvLVhsUjZTZGE1dF9KSjlVZ9IBdkFVX3lxTE9DaHNBYUJRb0VsRlNxQlI4ME9kWHQ0algxN3hNOTlCckwwNzlETGd6SW85MUo5aUNwWm1fa0k3MnJyQWxSMW9QcnpPeEphbVl4aVI2ZldMMEFTZUZ6eXpKYVpnMEVyVHhXd3RPWVcyRzZmOV85UXc?oc=5",
+          "published": "2026-10-19T01:16:55+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원노조, 신규 원전 지연 책임 규명 공동 행동 기자회견 개최",
+          "publisher": "인사이트에너지뉴스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtdDIxOXlZclRfSWY0Q256Y2NVUU5SX1J0eGlJR1FlN3RvT094N191YS1TNkRSczZXdDlMWnBWaTZ6c1p5cDVuV0VLaUl6RHlfRlI5dFR5REJNT1BfQ1hKUkQ4blM5QTd3TXA40gFrQVVfeXFMUG10MjE5eVlyVF9JZjRDbnpjY1VRTlJfUnR4aUlHUWU3dG9PT3g3X3VhLVM2RFJzNld0OUxacFZpNnpzWnlwNW5XRUtpSXpEeV9GUjl0VHlEQk1PUF9DWEpSRDhuUzlBN3dNcDg?oc=5",
+          "published": "2026-10-19T02:36:43+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "\"신규원전 지연 책임 규명하라\"…한수원노조·시민단체, 22일 대규모 공동 행동",
+          "publisher": "에너지코리아뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2dkVQVFF1dU1INERwZEVGdXpjSUtVZGJPQWdUSVVmeERZdEI1Mk90ZHR2em85U2RodExRSmQ4RGJlTHdkSWtSNzFBTlhCSzhJTW1renkzUzd5NEx4UDBrdHZCOHRtRGh0ek1pX1M2MmM?oc=5",
+          "published": "2026-10-19T02:38:16+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.233,
+      "id": 17
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 첫겨울 맞은 외국인 이웃에 온정..‘나눌래옷’ 실천",
+          "publisher": "한국정경신문",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YYWF5Q000cXhDXzhIcThzcHN3UUg2RUx0UEN6eE5KOVVWYXJGTTU5Nm1Xb2h3dzdZMUhDOEp2R1dVSGY4cEhMZFhQX2ZqSDRMMXc?oc=5",
+          "published": "2026-10-19T06:20:13+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 외국인 이웃에 온정...‘첫겨울 나눌래옷’ 펼쳐",
+          "publisher": "천지일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uUmFzeE9jbWNzRlFnS1RnMVgtcFJsZHAwWXlfU2o2X3FXVnhDZmdzZlc3TzgxYzViQzJzejVYNjF1U1lTeTl5T1hoVlRHTDYwQnhicFhDRDhmQVp6MFhZVUdVVWR0ZGJPamc?oc=5",
+          "published": "2026-10-19T13:54:03+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.702,
+      "id": 18
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Small modular nuclear reactor among 77 projects backed by EU Innovation Fund",
+          "publisher": "MLex",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43dmgwVXl4TWhzbk1SWWRCTkhTbnFya1FDdEtFVlBhNVBISUY0azZZUmVrRUNYM1Y5elNkdE40WmZFVWtyUWVwWmxuM1NNdjY3WGlmN1dnQWU0UdIBWkFVX3lxTE43dmgwVXl4TWhzbk1SWWRCTkhTbnFya1FDdEtFVlBhNVBISUY0azZZUmVrRUNYM1Y5elNkdE40WmZFVWtyUWVwWmxuM1NNdjY3WGlmN1dnQWU0UQ?oc=5",
+          "published": "2026-10-19T13:52:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Small modular nuclear reactor among 77 projects backed by EU Innovation Fund",
+          "publisher": "MLex",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONmo2VkljcU5RR2RtU3cxUzJkTDZQdUM0aEV1LXJ1UWZZVzJ0RmQwQzdtUXpVeHo1S3pralpBRHBUaUoxcGx5UUlvOVZkaTlXazVES2diLUFCQnllU1d3OGtVaXZWTDBMVTMzN0szYnZONEpsRmdxajVRNUJVMG9lRWs5WGVDenpvM21lNXVVMW9pZEIwS1puX2tCTVdhVTRJeDVxZ2dHOWtKYW9BZnd1YVNFU2NIT3lVdmFZdmFGNEYtODjSAVpBVV95cUxON3ZoMFV5eE1oc25NUllkQk5IU25xcmtRQ3RLRVZQYTVQSElGNGs2WVJla0VDWDNWOXpTZHRONFpmRVVrclFlcFpsbjNTTXY2N1hpZjdXZ0FlNFE?oc=5",
+          "published": "2026-10-19T13:52:24+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.701,
+      "id": 19
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "American Electric Power, X-Energy Explore Development of Small Modular Reactor Project",
+          "publisher": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWWZXaVprTW9IRnhwT0xVYjBCZV9ZVnhxQjl1Z0xodm5DT0RhWHdOQTFndHk5RDB5WkRHSU5BY0JRUWRacWd3a0ZtT1Y4cDNXc2JoektmWm1GQ2N6TERzTnFxbW16ZC1yNHpoZGpiNnR4Z1ZjeDVZUzhyNW5zUHRXbFJxbDlrVmVYdmk5dGRnaEFVbWM?oc=5",
+          "published": "2026-10-19T13:16:31+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "American Electric Power, X-Energy Explore Development of Small Modular Reactor Project",
+          "publisher": "www.marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQanRqbEZPcFF0VkNtSTFObGw0Wi15d0JzTEtWOHFIalhrdDNNTTI3NUhWNHA5clEtSTljRnVmMi1SVkhUS19CQVpoeW12bThNakZwR2JWc1VBZ3dLS215RUp4RjBVUGEzRzFSWWJDbThoaFBYMXhmTVRmRlBkVzRVeFBUOG42MVVCNlVadjZKNUZIejZhb0dlTHdMLVc0ajE0QXIxdlpSUzlLckZBV3c5c3BUUkRWaVhiNnlQdXZnMnI0bFhZQkpIeXNlMmZ3QV81TldhVA?oc=5",
+          "published": "2026-10-19T13:17:44+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.677,
+      "id": 20
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "월성원전, 호국훈련 참가…드론 침투 대응태세 점검",
+          "publisher": "헬로tv뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wVTBUamR6MkltRGQ4c2JtQlZ5RnpTWjRWbE1oYUE4RVVWdlNseGtIZXhSMzJqbWQtQUx5MjE3bEo2dGprOGZWdDhzeEhnM2JsTkk5dkwzekZKckExeWttdmJIUHlwTmhUUjlpcGxrUTBTZ9IBdkFVX3lxTFBqSmI4aXl0X3RkZEF3c2MzaXVhX1NqWUlJVlotVXhwdmh4S0VWZ09CMmIxUFF0bXktRnppMHRBcWNEWUhqMXFBS2pNMVVma0hrM2UyR2wxaU1ueFpmR29pQWNnblVIUGlVLVpoTXZwNEdNa3lPclE?oc=5",
+          "published": "2026-10-19T08:24:50+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "월성원전, '2026 호국훈련' 참가…드론 침투 등 복합위협 대응 점검",
+          "publisher": "프라임경북뉴스",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nU0s4WlBRUmY3TmJVMmhJSnRTN0kyVnVMdEVybThlZjRsQTJPUlRIVlhfR2dLNE9iTGExTWJIZzVuc2llV0lvcUNZUGNlNndmN0dIdTBIZm5fWlVMaFVFZEJ3djhBX2xnM09nNjhfaw?oc=5",
+          "published": "2026-10-19T12:57:30+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.663,
+      "id": 21
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Ageing nuclear reactors could complicate global capacity expansion plans: IAEA",
+          "publisher": "Devdiscourse",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdVNYaGRqdVZUdVVzbHIyR0RCNzYwd2NhQW5hR0MwMVFpak9Lc2JmdlJUdWxqbWdMek1ITXpaMmZubmVuN0VmaUhQdVYzMGkzYTU3NERnb2ZPMjFFUk9TaG5TakVtZndPMWx0ekdoaGx6OFZZMFlGdERKTGtROUxiVV84Rzg5eFFJaUpob2oxaWNPWWJ6Q3lXemxYRDc0RkZNMnd2dUV3elZoV08zREd6Skt0TXFxLVFzdkJHaG9KVDRDNmhUUXZVbDFwM0ZXd0JU0gHQAUFVX3lxTE51U1hoZGp1VlR1VXNscjJHREI3NjB3Y2FBbmFHQzAxUWlqT0tzYmZ2UlR1bGptZ0x6TUhNeloyZm5uZW43RWZpSFB1VjMwaTNhNTc0RGdvZk8yMUVST1NoblNqRW1md08xbHR6R2hobHo4VlkwWUZ0REpMa1E5TGJVXzhHODl4UUlpSmhvajFpY09ZYnpDeVd6bFhENzRGRk0yd3Z1RXd6VmhXTzNER3pKS3RNcXEtUXN2Qkdob0pUNEM2aFRRdlVsMXAzRld3QlQ?oc=5",
+          "published": "2026-10-19T08:11:06+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Business News | Ageing Nuclear Reactors Could Complicate Global Capacity Expansion Plans: IAEA",
+          "publisher": "LatestLY",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQ2xlX1l2eWhMM1ZDNEFlbEM0VFF6aHVCTll3R3g5UlYweUhZbXNoWEE3VW1DU2xrN2FlbEhBTWwwMmsyelExT09zcHJYSkJsSUJaMEJuaUtjdGY3VFVEbzl2S0dURkFuZEZ2S1QzQ1N3UEJoc1djcDc2OUhSbGpYLUI4SERtQ3d2Z29odUJZRnJBa1k5VVJXTU1wZHNqNWtWcXAyY3p3NU12VTNKVUgxRXVjWFA0UHFaMmxmNXNsSHVkTmtreEJzSHNsQTJVUG5LR3hDYUtfSm3SAd4BQVVfeXFMTUw0R0JMT3YxRE5ZeV9MNjhETlRqRXFReXlPSWEtUVVCaWstSDBxdUJxVmthS1A3aFFLRnd1a0ZDZXBhZGNReF9WbkxrUUw2LW1tZUR5bW1FVUYwazMwMmthMElfV0oxMHh2T0JDSnJXTnh1M2pqYl9Fckx1STBQNGZFVzlYX3A5X3lIZUFSOENIRkZRNHl6QWNKM05uLWxVd083WWlzQlgtRFAxb1BfLUgyZ29zNjJjcFVSUWJrS1dWUnBVa3JBMUZqY2lCSkd6MUlmNWMxN2tiUjl4aWJ3?oc=5",
+          "published": "2026-10-19T08:18:26+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.469,
+      "id": 22
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "DEE Development Engineers signs nuclear power framework agreement",
+          "publisher": "Power Peak Digest",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TS1lIeGd0SkNPTXJqMmF3enA2eUZ5R25vSVdDUXBXeEZIS01aMGJZNWJYVmpXeC0xRDY4NjYwSHBhWVNyZlhEci1jbXlyUko2RzBtR29Lb1ZGM1B2WXR3cjUyVGF2VGQzeXJUOUMyNWlvY0xW?oc=5",
+          "published": "2026-10-18T22:51:03+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Dee Development Engineers signs framework agreement for nuclear power sector",
+          "publisher": "Indian Infrastructure Magazine",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVFVOZ0pSU0ZRMWREUlhyMjN3WlYtb2E4c3RBZTMwX2pXdDVFa2ptR09SSEZfNmNKUnJlc1A2aWVxZzVOdGdmbkFaMmJpU0hqRjJCbnhpOXhROE8wVlVOVW1nNFRYdjF2OEhiQ1QxcVppbDRGU0NOYmd5VHlISlk5VmxUX3pmOGdYWGM2Z25CVzlLc3lCS2VEa3Q1YnFzZWdQemR6WnN3R3lhajA4RHJKSzdmYmEycVRMUXdKRDRB?oc=5",
+          "published": "2026-10-19T07:18:35+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.428,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "업무보고하는 김회천 한수원 사장",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBlZzFMMks4SC1BUU5WZm5ZWEMyZXZRZGt4OXNqT3hfTUJMVmV3NHBRaTBnVWZvOXRFdUtZQ2Z2OW0yTjdCWDA5d2xWeFBRZVZhMk1UbXlPY3A0QU9wT01CVzdaZGVRVVNjaVdiX0ZXQlQ5aFdOUWZzMtIBeEFVX3lxTFBlZzFMMks4SC1BUU5WZm5ZWEMyZXZRZGt4OXNqT3hfTUJMVmV3NHBRaTBnVWZvOXRFdUtZQ2Z2OW0yTjdCWDA5d2xWeFBRZVZhMk1UbXlPY3A0QU9wT01CVzdaZGVRVVNjaVdiX0ZXQlQ5aFdOUWZzMg?oc=5",
+          "published": "2026-10-19T04:09:48+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "국감 답변하는 김회천 한수원 사장",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kR0ctTzdWMnRIWmg5ZkM4YUhtZmxBSXpaMGtCUnpBemZMdTBWcTZoeU9CMEMtYWV6R2w0ZUhZWTVWbW1JOEQxT0d1WDRwUG1KZzZFUzdWZENLWURsVzdEedIBYEFVX3lxTE9kR0ctTzdWMnRIWmg5ZkM4YUhtZmxBSXpaMGtCUnpBemZMdTBWcTZoeU9CMEMtYWV6R2w0ZUhZWTVWbW1JOEQxT0d1WDRwUG1KZzZFUzdWZENLWURsVzdEeQ?oc=5",
+          "published": "2026-10-19T06:43:04+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.403,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[단독] 한수원, 원전 설비 무단 교체 되풀이…누적 과징금 338억",
+          "publisher": "SBS Biz",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tMTJnOG4zZG1rZU5rZVV0RS12TThpV01QUzN6ZVRveUdFTDhDMXlURHFERE1yRS14b0JzWXdCdE9NTEFRb2RXSjhvU3hxTUlEMFU2aGF1SGrSAVhBVV95cUxOLTEyZzhuM2Rta2VOa2VVdEUtdk04aVdNUFMzemVUb3lHRUw4QzF5VERxRERNckUteG9Cc1l3QnRPTUxBUW9kV0o4b1N4cU1JRDBVNmhhdUhq?oc=5",
+          "published": "2026-10-19T05:07:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "[단독] 한수원, 원전 설비 무단 교체 되풀이…누적 과징금 338억",
+          "publisher": "https://spt.co.kr/",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JRk5KUWx6eUM3MGw5TVhkdjNCNDlIRENfU2VEam9zLXZxTG1RNG5Ld3JSeDY0LXphMVhGM0NJb1ZuVkZYVzY5VUVIbHRLVGIteUROQkhXYkVWU3Ry?oc=5",
+          "published": "2026-10-19T06:00:46+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.374,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "경주시장애인체육회, 한수원축구단과 맞춤형 건강관리 교육 실시",
+          "publisher": "인터넷조은뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yMFlVMzZhWFFSX1FRRTJGQ08xd0RCWXFCVVVOM1FGU1hsaXY3S0FIS3l0QV9zcTRRRm10WjNVMnlOeDZvTDA5QjdQb25xakN1d3RTU3FtTWxIN1J1dmlvLWRKdw?oc=5",
+          "published": "2026-10-19T01:43:40+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "경주시장애인체육회·한수원축구단, 장애인 체육·복지 종사자 대상 건강관리 교육 실시",
+          "publisher": "웹이코노미",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Ec3VNS1BwaThRZDRKRGFTZS1PaThEMV9aaVdLbWI1TDloRTRWdG85QTdpR2llcnBSMURFY245WGhnSHp4cW9lQkZrR3RKWlV3WnNEMktBRzl6R0pTeUtmSFMxbjRQWDREdFROQnJUOFd3UQ?oc=5",
+          "published": "2026-10-19T04:51:57+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.326,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "경주 장애인체육회·한수원축구단, ‘찾아가는 건강교실’",
+          "publisher": "세명일보",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WVjNWSmNzeXhtMVhubTUtTFlKT0Eyd2R5aXEtVmFpemFlNVpXdlo1TlhaRE00SUNLTGMtWi1NZWR1MUFHczNzMjl3MWVFSGhOYXR3YQ?oc=5",
+          "published": "2026-10-19T01:24:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "경주시장애인체육회·한수원축구단, ‘찾아가는 건강교실’ 운영",
+          "publisher": "경북뉴스",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iYjEyR3lfUkVrLUdNZG1FeTNpMWViNUQ0VjVuQkVWbTRUZVFsT3h1d2JYaWpySDBUdzBFcUVEcXZiVm5vNEZlejR3WXBlY3ZuT3NHSzdraWMtZEJfOEpBd2R3UklqRENTbGRrSl9QQnVmakJWUjZZRlRkSVI?oc=5",
+          "published": "2026-10-19T04:07:33+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.295,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "석탄발전소 자리에 SMR 12기…아마존, 960MW 원전 개발비 댄다",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXOWlXNUdQU1hrYU5CZkpkTjg4QkJ5ODlNdmQzU0liSDBKSlhGZXN2NndvZVhLZF9Zb3lQYVNoNDFuTlIxdnBWc1NZVzFtNkJQVHdvVjAyaVd6NFFOZDRIbFY1UmM?oc=5",
+          "published": "2026-10-19T20:45:28+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.988,
+      "id": 28
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[지역과 함께하는 원자력발전소] 새 원전이 주는 새 희망…영덕 신규원전의 첫걸음",
+          "publisher": "영남일보",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMdlozT2hrMVZGbUFfTkxmbzhrdlpjVlA3eEFEeUxhNDhPY0lzZldpaDFBQl9GS1NBYVo3ZDk0YzQ5MUJ0UHBRNG1lWkc4OEFUN0ZJMlo2ZFhGZ0JOZlhyckl6QXBNWE1JVWpF?oc=5",
+          "published": "2026-10-19T20:20:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.97,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 91
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 54,
+      "kept": 42
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 67,
+      "kept": 61
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 49,
+      "kept": 4
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 3
+    }
+  }
+}

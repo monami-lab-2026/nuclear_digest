@@ -1,0 +1,912 @@
+{
+  "date": "2026-10-06",
+  "generated_at": "2026-10-05T22:37:13+00:00",
+  "engine": {
+    "engine": "claude-code-session",
+    "briefed_at": "2026-10-06T01:51:55+00:00"
+  },
+  "overview": "자포리자 원전 인근 공격 소식이 다시 나오며 가동 중단 원전의 안전 문제가 부각됐다. 일본 ALPS 처리수에 대한 IAEA 점검 결과와 폴란드 원전 일정 지연, 유럽 첫 납-212 생산 시설 개소, ITER 진공용기 마지막 구획 인도가 이어졌다.",
+  "stories": [
+    {
+      "source_ids": [
+        0
+      ],
+      "region": "해외",
+      "category": "안전·규제",
+      "importance": 3,
+      "headline": "로사톰 수장, 자포리자 원전의 시설 두 곳이 밤사이 공격받았다고 주장",
+      "summary": "러시아 로사톰 수장이 우크라이나가 밤사이 자포리자 원전의 시설 두 곳을 공격했다고 밝혔다는 보도다. 여러 매체가 러시아 측 발언을 전하는 형태이며, 후보 목록만으로는 피해 규모나 구체적 시설은 확인되지 않는다.",
+      "background": "원자로가 멈춘 뒤에도 노심에서는 붕괴열이 계속 나오므로 냉각을 이어 가야 한다. 이를 위해 외부 전원과 비상 디젤발전기, 냉각수 공급 설비가 필요하다. 사용후핵연료 저장조도 냉각과 수위 유지가 필요한 설비다. 정지 상태여도 전원과 냉각 기능이 끊기면 안전 문제가 생길 수 있다.",
+      "why_it_matters": "이 뉴스는 원전의 안전이 원자로 설계만이 아니라 외부 전원, 냉각수원, 운영 인력에 달려 있음을 보여 준다. 설계 단계에서는 외부 사건에 대비한 다중성과 다양성을 확보하는 것이 쟁점이다. 전원 상실 시 견디는 시간을 늘리는 피동 안전계통의 가치도 여기서 드러난다. 다만 이번 내용은 한쪽 당사자의 주장이므로 IAEA 등 독립 기관의 확인을 기다려야 한다. 앞으로 볼 점은 외부 전원 연결 상태와 현장 점검 결과다.",
+      "concepts": [
+        {
+          "term": "붕괴열",
+          "explain": "핵분열이 멈춘 뒤에도 핵분열 생성물이 방사성 붕괴를 하며 내는 열이다. 정지 직후 비중이 크고 서서히 줄어든다."
+        },
+        {
+          "term": "소외전원 상실",
+          "explain": "발전소 밖에서 들어오는 전력이 끊기는 사고로, 비상 디젤발전기 등 내부 전원으로 안전 기능을 유지해야 한다."
+        }
+      ],
+      "question": "가동을 멈춘 원전이 전쟁 지역에 있을 때, 어떤 안전 기능을 가장 우선해서 지켜야 하며 그 이유는 무엇인가?",
+      "study": [
+        "붕괴열",
+        "소외전원 상실(SBO)",
+        "사용후핵연료 저장조 냉각"
+      ],
+      "reference_ids": [
+        "iaea-pris",
+        "nrc-factsheets"
+      ]
+    },
+    {
+      "source_ids": [
+        17,
+        18
+      ],
+      "region": "해외",
+      "category": "핵연료·방사성폐기물",
+      "importance": 2,
+      "headline": "IAEA, 일본의 ALPS 처리수 감시가 정확하고 믿을 만하다고 평가",
+      "summary": "IAEA 보고서는 일본의 ALPS 처리수 모니터링이 정확하고 신뢰할 만하다고 밝혔다. 별도로 24번째 방류분의 삼중수소 농도가 일본의 운영 한도보다 훨씬 낮다고 IAEA가 확인했다고 전해졌다.",
+      "background": "ALPS(다핵종제거설비)는 오염수에서 삼중수소를 제외한 대부분의 방사성 핵종을 제거하는 설비다. 삼중수소는 물과 화학적으로 같아 분리가 어렵고, 방출하는 베타선의 에너지가 낮은 편이다. 방류 전에는 농도를 측정하고 바닷물로 희석해 기준 이하로 맞춘다. IAEA는 일본 측 분석과 별도로 시료를 분석해 결과를 비교한다.",
+      "why_it_matters": "방사성 물질 관리에서는 측정값 자체만큼 측정 체계의 신뢰성이 중요하다. 독립 기관의 교차 분석은 그 신뢰를 확인하는 수단이다. 공학도는 희석과 방류 기준이 어떤 선량 한도에서 유도되는지, 시료 채취와 분석 불확실성을 어떻게 다루는지 볼 필요가 있다. 사회적 수용성은 수치 설명만으로 해결되지 않으므로 소통 방식도 쟁점이다. 앞으로는 장기 해양 모니터링 자료가 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "삼중수소",
+          "explain": "수소의 방사성 동위원소로 반감기는 약 12년이다. 물 분자 형태로 존재해 정수 설비로 제거하기 어렵다."
+        },
+        {
+          "term": "교차 분석",
+          "explain": "서로 다른 기관이 같은 시료를 따로 분석해 결과가 일치하는지 확인하는 품질 보증 방법이다."
+        }
+      ],
+      "question": "방류 농도가 기준보다 낮다는 사실만으로 충분하지 않다면, 어떤 추가 자료가 있어야 신뢰를 높일 수 있을까?",
+      "study": [
+        "삼중수소",
+        "ALPS",
+        "방사성 폐기물 방출 기준"
+      ],
+      "reference_ids": [
+        "iaea-ines",
+        "oecd-nea"
+      ]
+    },
+    {
+      "source_ids": [
+        9,
+        22,
+        27
+      ],
+      "region": "해외",
+      "category": "정책·산업·수출",
+      "importance": 2,
+      "headline": "폴란드 원전 계획 갱신으로 가동 일정이 늦춰지고 제2원전 경쟁이 주목받음",
+      "summary": "World Nuclear News는 갱신된 폴란드 원전 프로그램에서 호기별 일정이 뒤로 밀렸다고 전했다. 국내 매체는 폴란드의 9GW 규모 원전 추진 속에서 APR1400이 제2원전 경쟁에는 빠졌다고 보도했다.",
+      "background": "신규 원전 도입 국가는 부지 선정, 인허가, 금융, 공급망 확보를 순서대로 거쳐야 한다. 대형 원전은 착공 후 완공까지 통상 수 년이 걸리고, 인허가와 금융 단계에서 일정이 늘어나기 쉽다. 노형 선정은 기술 성능뿐 아니라 금융 조건, 현지화 비율, 외교 관계의 영향을 받는다.",
+      "why_it_matters": "일정 지연은 신규 원전 사업에서 흔한 위험 요인이며 공정 관리와 규제 대응이 핵심임을 보여 준다. 공학도는 노형이 달라질 때 인허가 자료와 설계 변경이 어떻게 연결되는지 생각해 볼 만하다. 수출 경쟁에서는 설계 성숙도, 건설 실적, 공기 준수 능력이 비교 대상이 된다. 다만 국내 보도는 제목 기준 해석이 많아 세부 사정은 추가 확인이 필요하다. 앞으로는 폴란드 측의 최종 계획 확정이 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "원전 인허가 단계",
+          "explain": "부지 승인, 건설 허가, 운영 허가처럼 단계별로 규제기관의 심사를 받는 절차다."
+        },
+        {
+          "term": "공기(건설 기간)",
+          "explain": "착공부터 상업 운전까지 걸리는 기간으로 사업 경제성에 큰 영향을 준다."
+        }
+      ],
+      "question": "신규 원전 도입국이 노형을 고를 때, 기술 성능 외에 어떤 기준이 일정 지연 위험을 줄여 줄까?",
+      "study": [
+        "신규 원전 도입 절차",
+        "원전 건설 공기",
+        "설계 인증"
+      ],
+      "reference_ids": [
+        "wna-library",
+        "iaea-pris"
+      ]
+    },
+    {
+      "source_ids": [
+        13,
+        23
+      ],
+      "region": "해외",
+      "category": "방사선 이용·보건",
+      "importance": 2,
+      "headline": "오라노, 유럽 첫 납-212 생산 시설 문을 열어 표적 암치료용 공급 확대",
+      "summary": "오라노가 납-212 생산 시설을 개소했다고 World Nuclear News가 전했다. 국내 매체는 이를 유럽 첫 납-212 암치료 공장으로 소개했다.",
+      "background": "납-212는 방사성 의약품에 쓰이는 핵종으로, 표적 알파 치료에 관심이 높다. 알파 입자는 에너지가 크지만 이동 거리가 짧아 주변 정상 조직의 피해를 줄이면서 암세포를 겨냥할 수 있다. 이런 핵종은 반감기가 짧아 생산 후 빠르게 약물에 결합해 병원에 보내야 한다.",
+      "why_it_matters": "원자력 기술이 발전뿐 아니라 의료로 확장되는 사례다. 핵종 생산, 정제, 방사선 차폐, 폐기물 관리가 모두 공학 문제다. 반감기가 짧은 물질은 물류와 시간 관리가 사업성을 좌우한다. 공학도에게는 방사선 안전 설계와 품질 관리가 의료 분야에서도 요구된다는 점이 의미 있다. 앞으로 볼 점은 임상 적용 확대와 공급 안정성이다.",
+      "concepts": [
+        {
+          "term": "표적 알파 치료",
+          "explain": "알파선을 내는 핵종을 암세포에 결합시켜 국소적으로 파괴하는 치료법이다."
+        },
+        {
+          "term": "반감기",
+          "explain": "방사성 핵종의 양이 절반으로 줄어드는 데 걸리는 시간이다."
+        }
+      ],
+      "question": "반감기가 짧은 의료용 핵종은 생산 거점과 병원의 거리가 가깝지 않을 때 어떤 설계상 어려움이 생길까?",
+      "study": [
+        "방사성 의약품",
+        "알파 입자 선질계수",
+        "반감기와 물류"
+      ],
+      "reference_ids": [
+        "wna-library",
+        "nuclear-db"
+      ]
+    },
+    {
+      "source_ids": [
+        4
+      ],
+      "region": "해외",
+      "category": "핵융합",
+      "importance": 1,
+      "headline": "유럽, ITER 진공용기의 마지막 구획을 인도",
+      "summary": "유럽이 ITER 진공용기의 마지막 구획을 인도했다고 World Nuclear News가 전했다. 후보 목록에는 세부 일정이나 조립 현황은 적혀 있지 않다.",
+      "background": "ITER는 토카막 방식의 국제 핵융합 실험로다. 진공용기는 플라스마가 담기는 도넛 모양의 용기로, 여러 구획을 만들어 현장에서 이어 붙인다. 높은 진공과 열, 전자기력을 견뎌야 하고 정밀한 제작 공차가 요구된다.",
+      "why_it_matters": "대형 구조물을 구획별로 만들어 조립하는 방식은 국제 공동 프로젝트의 품질 관리와 공급망 조율 능력을 보여 준다. 공학도는 용접 변형과 공차 관리가 플라스마 성능에 어떤 영향을 주는지 생각해 볼 만하다. 구획 인도가 끝난 것은 조립 단계로 가는 진전이지만 운전 시작 시점은 이 정보만으로 알 수 없다. 앞으로는 조립 완료와 시운전 일정이 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "토카막",
+          "explain": "자기장으로 플라스마를 도넛 모양으로 가두는 핵융합 장치다."
+        },
+        {
+          "term": "진공용기",
+          "explain": "플라스마를 담고 진공을 유지하며 중성자 차폐에도 기여하는 핵심 구조물이다."
+        }
+      ],
+      "question": "여러 나라가 구획을 나눠 제작하는 구조물에서 조립 정밀도를 보장하려면 어떤 관리 체계가 필요할까?",
+      "study": [
+        "토카막",
+        "플라스마 가둠",
+        "핵융합 구조물 제작 공차"
+      ],
+      "reference_ids": [
+        "wna-library",
+        "kaeri"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "HEAD OF RUSSIA'S ROSATOM: UKRAINE ATTACKED TWO FACILITIES AT ZAPORIZHZHIA NUCLEAR POWER PLANT OVERNIGHT - TASS",
+          "publisher": "news.cgtn.com",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBObEpzNHl0aHNaQnNHZmp5OEYxZmVJMk9XeU40ZkFZb2pHSHRlY21iZ2xEUDEzUEJudEo4U2VFRW9OQlRTNXNUTEFIRnBsdWl2SmhKclNXcmhaM216bkRKLVpVSTZMcDM5clRsejNB?oc=5",
+          "published": "2026-10-05T07:36:53+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Russia says Ukraine hit two facilities at Zaporizhzhia nuclear plant",
+          "publisher": "Devdiscourse",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWkFKSVh4eFU1cm1QM0NNSmt5czBHaFlxOU4xMEZyRGV0UnNkaWJlX1gtdm1WTXFpM2Y0QklCTWxDS0dlUUxJeHIwSmF1U2I3RHZMVS1XOHNjMzBRbHl2dFBzcmxHUzhwbEgzM21NNWlERzBpbkRyd0NkTEsyMldwbjY4OUFGNlVtRUV2M0JBb0dTWGJDX3doOTVULVF2ZnlpcXJHZUJTX3JuRWNsYkNyX1VBVzV1Y1dSUF90OFcyYlFhZVJaOWhCcnNWUdIBywFBVV95cUxPWkFKSVh4eFU1cm1QM0NNSmt5czBHaFlxOU4xMEZyRGV0UnNkaWJlX1gtdm1WTXFpM2Y0QklCTWxDS0dlUUxJeHIwSmF1U2I3RHZMVS1XOHNjMzBRbHl2dFBzcmxHUzhwbEgzM21NNWlERzBpbkRyd0NkTEsyMldwbjY4OUFGNlVtRUV2M0JBb0dTWGJDX3doOTVULVF2ZnlpcXJHZUJTX3JuRWNsYkNyX1VBVzV1Y1dSUF90OFcyYlFhZVJaOWhCcnNWUQ?oc=5",
+          "published": "2026-10-05T07:47:10+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Russia says Ukraine hit two facilities at Zaporizhzhia nuclear plant",
+          "publisher": "ANews",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR29IMF9QR01SRVgzdFdaRzJiandqM2NtYWhZSWJXNVIxcXpTUzA1dWd2VUNiQzQ0R2dleFVmXzVFdUZ6dFljb29ENnFPUEJmalRsZWNSTHh2YmpTQ3FyWkVhMHYxb2xSYU4xeHJGeFZvcGJSZEp5X1RqZ2hUYWRyLXNnN1ZvUDdGaHdZQWt1c0pUQ0l3SVQtUVJlZEFNYU81MG9SUDdrZVVoYlFKeEJZ0gG0AUFVX3lxTE9XNXZhSmplSzkwLWdySFZPT1FBN1AxbksySmRvU09CdlRfQ2ZndkhYOTN5RWZuMmp5NWV0UmJreFhwSnpjQUhvTXphUkxJcVJEQ3pYZDZHX2NNYnpXdldfNmpfOE82RUNOdndoVEVSQ3pHRWY4SURpajhMbEMxQUx0OUhuQmppVU9vcjBTS3B4SmNFLTVQckNIc0tZOUlrMWxZNTlBUkJBWnplZzRzTGVCa3Iwcg?oc=5",
+          "published": "2026-10-05T08:30:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Ukraine hit radioactive waste site at Zaporizhzhia nuclear plant: Rosatom",
+          "publisher": "Türkiye Today",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT1lJYkNULVB3cl9DN0g0RVVZVzZQTzFKLXprelBIUjZtRHpfTlZWOWY1elQycUxrOGJMazM4eGstZDVNX2NBdEdFamluZWx2RENhUGlvMmJQR1AxZGlFVUwtRFNnTWlmblRhTXV4Rnc3NzBCOWg2bE1RT2V5b3VOTlVEQlRQMG9tYWhhRGtLSHF0T3BtV1JzMDlYRmxveThjQ2xZdGRucmZlQktUdlQ5Y2pQZURnMTg?oc=5",
+          "published": "2026-10-05T10:52:48+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rosatom says 2 Zaporizhzhia nuclear plant facilities damaged in overnight attack",
+          "publisher": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGRMZDg5RjI4Tktxb0E3VUI4U3VfcDE2WmdfWFVFcFlITzRfb2JqLWQtQ2Z0LVZIZmxyUmJycnNFYzdUSU56eTR6OU5lbTE4MTZoREhGSDVqejRsYXFZczJaYmlXUUhkSnJpZUc3WUtqMjFteTlhcGZqQ0NXTDRiaFRFcEx4aWRsRnlmSFRULVZHMnhWSUNKMzNpTnNzbjFLdGVCWnBuNF9DbnBtSl9VWXZlVTFrb2t5?oc=5",
+          "published": "2026-10-05T12:50:50+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Ukrainian Drone Attack Damages Facilities at Zaporozhye Nuclear Plant",
+          "publisher": "teleSUR English",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVlJRLWFlUndpX2ZKaEhHZHoyNHg0Y3BYcnlrdEYzWE5qX0l3d3BUeGxQX1RFUGc4UzdReWxDMzZwdkpsU0s3MWZaOWtWajZKbDVDSXBmNmNid285SFh0eElSZEt2TDZucl9uMHpxWlRReXhYbFVpNTBfbHg1YnNqWVFBQWFqSldfcVJSMVpDMXJJelBzRWRFc0dlY21Ybm8yQU9B?oc=5",
+          "published": "2026-10-05T21:45:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.964,
+      "id": 0
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "‘Bring it on’, Bowie tells Scottish Government over nuclear power",
+          "publisher": "Rutland Times",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSHVxM2RSb2xtSURUWFp4RjN5ZGRkdUJPa0RzU1ltT21qSkNpV2NVUXNMSzRpSWEyTV9KWng2ZTBvZHNRamVZRkhRLTJDYkZadDBxcFJXclg2bXByUE41cjAxZlF5SjlSMmhrZHVlVTBvNWpQTlN4RmZ6TEVPbVVZMHJCbWMwcFZURkhTWEl1SjhHRXRDdGxzUjh6OVYzRFFqdkgwN3JvMW1keXNEbFhrWQ?oc=5",
+          "published": "2026-10-05T08:51:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "‘Bring it on’, Bowie tells Scottish Government over nuclear power",
+          "publisher": "newburytoday.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcVZuU1dMRlBYeTZLTWhwcE5tbzVESHNqcjlFQkJRYWE2SUpWbHd6d0Fna1JjWlNjbHRXZ0FrZU9wNWxZZURsUm93cE9yR3I2TXh4VWtfNXRVYUxqbElReEhBYmoweDVuaVRaYVdITlNPS0p6c0xwRjlXbnFQY29CT1gyOWlwT19UNUxIVWp5LTVrYlFFN3U4Mk91RjBxWGtHT0tmcEU4bmthSzdHT1FB?oc=5",
+          "published": "2026-10-05T08:51:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "‘Bring it on’, Bowie tells Scottish Government over nuclear power",
+          "publisher": "The Independent",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb2p6RG9lQ2VIeUVkSlp6SENhemJiN0U5R0VEZmd3YnU0M3JPVUpqazFzbkp5T0lDcHBMcHdQR0Uzelp1aHNBSnpHenZ3a0hMbnVYaXAwUlhzX1lXNzZMRlZzTUdvUTBzYkhfeVVNX0FvNzV5Mk01VDV0VlBKdlJmOXBlcnBoZ21GUnFZaFRoWTg5YlF6OW1MaEczWEtKUnlDSGtBamtJUUQwWUtnUUw0?oc=5",
+          "published": "2026-10-05T09:51:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "‘Bring it on’, Bowie tells Scottish Government over nuclear power",
+          "publisher": "Shropshire Star",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcnhLb0RXSF9zRTF5WUxBTnk1U1JlUFRjbV9SZEZLbFpha3hxNk04a01hanpDQTVnU0VhTmgyc25DNlNzLUlnaGp3YUd2MTRIdkxuLUN4RV9EQjZDS09NWTFjQ2g4Q3QyZ1JGeUd2MF9ORWJjLUlXa2FVU2Y3ZUIwNXo2WkRFQUFNVjdyZjRzQk5hb3dDSEJYblpfUEtQVFBoTkU3QnZianNGYUZqcVE?oc=5",
+          "published": "2026-10-05T09:51:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "‘Bring it on’, Bowie tells Scottish Government over nuclear power",
+          "publisher": "Herts Advertiser",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZkNEOWprUTZ6UElGRmJDRGdCOEMyVHRaT3ZOOTk3YTZqR1g2aUZodjBjcVd1czNCeWhDaUhjaHE0bUkxam0wRDQyUmxRVXNoakFTQUkwZmFPUW5OdTg3S1NKbHQ2X0IxUUE4MUFtbEhGZi1FSElFY3lpTW5mX0Rjc0dmaEpMVmF2RUhyMWZTSWtkanZ6UHd3dGtaeU9MX2s2LUpUOG1fQWFFVkczcDRzMw?oc=5",
+          "published": "2026-10-05T09:52:20+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "‘Bring it on’, Bowie tells Scottish Government over nuclear power",
+          "publisher": "Northwich Guardian",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3dCb1BwcnZDSDZDdGIwRVB1WFQ0YjJXbDI3QWR5M0F5dWJJYTBFTE5mTmFZQi0xUmJiU2d4MWdraUY2MENLTGVmbkxsaU1DVUtqQmU4b0ZNSEFEeGVKbUhtclhLYmlBNTYyRHJYekRJQ0NQM2ZKa2lyMmZNM0RPSDRKcTNsMFE1Tkh5WUhLNFRrdm9BeFUzZzVOanY4SHFVeHo1UlpHaksxUkhBTm1LdC1uVQ?oc=5",
+          "published": "2026-10-05T09:52:20+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "‘Bring it on’, Bowie tells Scottish Government over nuclear power",
+          "publisher": "London Now",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNkhjdUI2MS1ubDI4WTJFT2pqbmJaMndEUFlycUNxUWloSzl3eVNVT0dyY24weVk1eGlfNHBIMWpMVktyMi12SGNveEJBUk1mOXllYTVsQU1Qei1lRHNOVDd1RTM3QktYUzVhazBXdmpvTXBrNUdySWVvRHBjTkpMVWRhcHhxLVZ3SDZuUTNjVFBKLU9XcTNPNm9XaFFYMlVNNmR2eFBXSnh2bWdwSzhJUFNhU2k?oc=5",
+          "published": "2026-10-05T13:12:14+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "‘Bring it on’, Bowie tells Scottish Government over nuclear power",
+          "publisher": "Westmorland Gazette",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdWJGRmsyckJ4Q1lfaWhfOEV0cGZxUGdCNEZidEhDamk5T0lvaXN6NXJodlhSVTlKVnlEQlVoTHBmWl9xR1FuX0lxbjN1LTFXR2ZrQURRTmZSc25hWTBLM1lRRG1tN0ZTdU1RWVlDdENhcjBmcUVMZDhZaExQQWFONFlUUXNjQVZUZGhqQlNlZzdsaE5PM2ViQ2hyaEdJOC1zdTJpbzNuVEo5WlktUE0wNm1B?oc=5",
+          "published": "2026-10-05T13:12:14+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "‘Bring it on’, Bowie tells Scottish Government over nuclear power",
+          "publisher": "Hampshire Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRnBuQjVkREJwMDk2N1d3TkJJRkNYTTF5WWJBQWpJV1czU0QtY29OVF93c3ZrNGIzQzd2R2VFS1dsOHE4T25ubmZoTnBmUE9YNWhBNlpyUGRyeGpSX3VhS0xUcXZwWXRZLUV6eUt4bVN4LXh2TVhMdXR0QnR2dDFqTHdONmt5WUdwUHJRa0dqQWRsakZ2dENpN0F2WUdTTVA1WnhJX2t4SjJwTlhtaWdhNlJR?oc=5",
+          "published": "2026-10-05T13:12:14+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "‘Bring it on’, Bowie tells Scottish Government over nuclear power",
+          "publisher": "kilmarnocktoday.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSHMyY0xUaUxReGhzWVlkMDRQMDY0WTJselgtNXIyUmhEbjhVYzVCaEltT0dSS3pyWTRhaHhMOExCM0NKMzdraFFhd0N2bzA2ZVZvbVZTM3IzanJuUks0bjNlNWtBb2p0UHZLSkRvR1NCbXRza1FvT1Rja19uVF9vZXEybHNrYTJPaEVBUU9IaFJNMVdCemNJSjJ1bkVrb003VEF5TTBKdWZLTmR0blpqRg?oc=5",
+          "published": "2026-10-05T13:12:14+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "‘Bring it on’, Bowie tells Scottish Government over nuclear power",
+          "publisher": "Express and Star",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcWNBem1waTRzeF9KWmdUaWw2YmpqTGppMkRnTm5wUVRzTEF6YjlvV3F6b2N6T1lZRWNJR0dzWWhnMGJpWlNnbDEzSkltV3ZRcHpNWGNSSHM3SnkwVzV2cFI3aDVnYnJ0N3MzZnBaTjM3OHJaeU0taER5b18zLWNDZGh2aGFENDlXVnVBUlYwQ0otdHJJdjBVSi1mVFg3bXVtU0VaMWxHalZaMjZJMVE?oc=5",
+          "published": "2026-10-05T16:50:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.759,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Details emerge on Valar’s Utah plans",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-05/article-8462/details-emerge-on-valars-utah-plans/",
+          "published": "2026-10-05T20:15:08+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.901,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Berkeley opens FLiNaK test bed",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-05/article-8461/berkeley-opens-flinak-test-bed/",
+          "published": "2026-10-05T17:22:58+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.782,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Europe delivers final ITER vacuum vessel sector",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/europe-delivers-final-iter-vacuum-vessel-sector",
+          "published": "2026-10-05T15:04:03+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.685,
+      "id": 4
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한국수력원자력 새울원자력본부 원전소통위원회 개최",
+          "publisher": "iusm.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fWlVxMENyNTJqcC1ZNjNMT1hnNjd4bmVaZERVX19UQko3ejUxVWpzTE94cVJBWFVGNlphcU9oT3ZOT2VXeDJNbEhNZ2RZSTY3LVNkLXloQjJ3aFJCNENlT0gyYTJwTHdRVjRKQmhn0gFuQVVfeXFMT19aVXEwQ3I1MmpwLVk2M0xPWGc2N3huZVpkRFVfX1RCSjd6NTFVanNMT3hxUkFYVUY2WmFxT2hPdk5PZVd4Mk1sSE1nZFlJNjctU2QteWhCMndoUkI0Q2VPSDJhMnBMd1FWNEpCaGc?oc=5",
+          "published": "2026-10-05T06:29:42+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "3차 새울원자력본부 원전소통위원회",
+          "publisher": "울산신문",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82UndoV01lZnVuVWNnXzNfMmF2blRUSGJXa01yUHFRajg1LXA2VERXS3lJejZJNzNyekZmbjNVWVdNVUxfdmZ5eDc5MlVaYkRGaF81cElIZk82ZjhFR3B2LWxuVlRoUDFhN0RvQmln0gFyQVVfeXFMTVFnVXk4RjVONmJBRGYzcHJRcWw1bVVfMXJOYm9PZlVISnBoWWpzd0YtMkV2TThyWDhfT1NacVE3ZW03OXUxZ3JxRWpLazd2b1BYTnVtY1J0TmJORjIxV24tX29DaDlQTllvQmdIQXBvcVdB?oc=5",
+          "published": "2026-10-05T11:10:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "새울본부, 원전소통위원회 개최",
+          "publisher": "경상일보",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EMDh5RVJkVkNReUVuWkFYa1VWOG42eW41S3VHNU9kZ1NET1c2TWh3Rm0zMGI2a0dqUmlHcUtUVVNYSkVtRVRrQlY0ZmJILWFkZ1RWTHYyNHc3NllqOHZnX2FGaFNwQWpQNm93Ug?oc=5",
+          "published": "2026-10-05T15:00:03+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.683,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Sustaining communities",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-05/article-8406/sustaining-communities/",
+          "published": "2026-10-05T14:56:21+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.68,
+      "id": 6
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원자력 공학 석사 및 박사 교육 프로그램에 대한 기준을 발표합니다.",
+          "publisher": "vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSWVzRzc0UFZPN0RCV1hWWk1FU2Eyd3JEUGtkMU1yMWZWN0l2dkZ2NjJpRjdPY1M4cTB4a2prTWpmQnhCeWlmLXo1V2U5SS1aOTNRNW83dHBOQUF0RmtXLWI5RXpUbHJfV2x3cmV5WjhIcEFjbFQyWi1XSGYtVnVOblR4VWVWVF9mZ0RCeUlqQnp5VFFkVHE5eWF5cHBTYkhpaVdDQ2JYQQ?oc=5",
+          "published": "2026-10-05T11:45:42+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "교육훈련부는 원자력공학 석사 및 박사 교육과정에 대한 기준을 발표했습니다.",
+          "publisher": "vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT20wd0E4VlF0MV9OUVR0X1I5dXQ3Z1lvT1VsU1kzNjQ0dlFvRHdiRUhHRC02akJQNG9MN1BuUUJxdjk4ZkxwNm8zOEtMUlhkWUpLdzkzRlRjSm14bVhQZHllb0htWUhKM2RrRkhGTnp0dlJYamNwdWlyY0Exb3pkMTZSeE15bnZNNHpQSmYxWnNvaUNZclI3WFdJVWJ6SHZkVExFYlV6TFdFR1ZqY1NBT21jM0FhWUYxMnVjU01wQlpXNHc?oc=5",
+          "published": "2026-10-05T12:31:57+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원자력 공학 석사 및 박사 교육 프로그램에 대한 기준을 발표합니다.",
+          "publisher": "vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR0gwYXpDRjhiZnRDQlZCNUhlb1BtZWswV1RRZjlVSllVMzhwQ2p3YlZwbVVPQURCLXdhTC1KRDMtc1B0MmVWN1VzdVFTanVjQnZ6ZUZxX3ljMTJEamI5aXAwODVSclhVZ0JRSk5tY1EwQTVxTDRUYmpiMDc0VS1NRUJKM1NtYUZqdHkwM0dyUE1NMDA2RmtYNHJiYTFWd1VzSE00NzRGOEYtUTA?oc=5",
+          "published": "2026-10-05T14:10:37+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.648,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Pakistan’s solar generation overtakes nuclear power for first time",
+          "publisher": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTEtNNjVZUUlyak5VTkE0RTJtSGQtMlBzbkpnU1VKSjRDVDJKd054TzBQRzMyUllaQ29ZbWpwU2NrMllqUGszczlnbE9mR1cyM0E3cGFrVFJHbVNESUFqYmJKcFhmMGJmQmlQY1U1LUpPYXFqckYxbVRXT18yZHBSaTM5dGdjQThVdzdsdDI3TG0xdERLWjlaRjVKQmd6MTgxSVViSG5TQnVjQkdicWc?oc=5",
+          "published": "2026-10-05T07:41:36+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Pakistan’s Nuclear Power Output Hits Record High as Solar Generation Surges",
+          "publisher": "Bloom Pakistan",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHMyZ1g1engtdGpwRFNVdHFabFNHQmhNdjhpN0cxcmp1c3N5SjhaSlVfTWkyWUE1bndvMk5EdFFDNXg5NUxUNU5ianlwM1JaRjJsQkRXSFhQSkVncUlpSzNwd2ZvUC1ZY0t0RGNVM3JEY1pYVXl1T1dhbC03aksyLTNWa3N5aWktS2lSYnBPV2ZxbVBFc09OOEF2bFNoQkNPU3Rv?oc=5",
+          "published": "2026-10-05T09:38:50+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Pakistan’s solar generation overtakes nuclear power for first time",
+          "publisher": "Profit by Pakistan Today",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY2NTN1g1M2ItYk1PSlNOZjNyNmVqZF9NaTAyb2VESlJlNHFNd2FFNThTWWJJcldXSk9OOGtfRTBUdFY5cTZOUGdVV3hFU3VfZHpROG9ILVlKcDJtSzB0cjVIT1JkREdfVnV0NGpBZ0ZYTWhBM0R2OEdqTmQ4NXhyMWc5Z2tGSFlIaExMMy1TVEZjVE9nODhKM0dPUHNzNWhEa1p2dHZzbDRXSUhpSHAtVVZn?oc=5",
+          "published": "2026-10-05T14:00:36+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.641,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Timeline for Polish nuclear units slips in updated programme",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/timeline-for-polish-nuclear-units-slips-in-updated-programme",
+          "published": "2026-10-05T13:23:57+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.616,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "GAO report looks at NRC workforce recruitment and retention",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-05/article-8460/gao-report-looks-at-nrc-workforce-recruitment-and-retention/",
+          "published": "2026-10-05T13:17:26+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.611,
+      "id": 10
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 개인정보 보호수준 평가 2년 연속 ‘최고등급’",
+          "publisher": "경북매일",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4SHB6TmY0emd4bmprbDdFWWdudDcyeGVtRV9aNzBfNUpVaUtNVWRRVVFjVEEtMlcxaUpCZEdLQUphbC1hUWVtUVpINzIzV0hfYlVXbnJJcHB6dw?oc=5",
+          "published": "2026-10-05T03:06:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 개인정보 보호 ‘만점’… 2년 연속 최고등급",
+          "publisher": "비즈트리뷴",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yN0VRWm5SVlhVdkRTQTNuQW1iV0NYdzNwN214RWZjTC1LYUFVTlJscmJnajhUM0dXd0Jlc1NYN3AyVF83MndOT2pGMS0wOGdmRzNITEhQWXJ0b2JmNS1zTVo3eVVKcG1zcTlJaGd2NS0?oc=5",
+          "published": "2026-10-05T05:45:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 개인정보 보호수준 평가 2년 연속 '최고 등급' 획득…개보위 위원장 표창 수상",
+          "publisher": "컨슈머타임스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNTGVaTFpFVXBBOFE0M3VYaW5PVmZiMUFtaUdaeEJIU0lmOVhnRktpNnpWQ0xGNjBqcFR1c3hKWU5mM0EzQmItZERFWUlnTkFVNEhBcXdwX2FLWU15SnozWU83aDRxSWhjd0E?oc=5",
+          "published": "2026-10-05T13:11:39+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 2.607,
+      "id": 11
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, ‘2026년 KHNP-EPRI 기계분야 통합 워크숍’ 개최",
+          "publisher": "시사통신",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hRXBsUkhhN1FZdVVVTExPMWZYbi1hTHdqTmo4NHlFZ2VjZHA1ZUdUMmZsSldnR0JialZHSTItWnpncDRldUp3LTl1bWgwRmdwYkRyaUhka1ZteWtaODFlQ1hBbGxzVVBTR3dV0gFrQVVfeXFMTWFFcGxSSGE3UVl1VVVMTE8xZlhuLWFMd2pOajg0eUVnZWNkcDVlR1QyZmxKV2dHQmJqVkdJMi1aemdwNGV1SnctOXVtaDBGZ3BiRHJpSGRrVm15a1o4MWVDWEFsbHNVUFNHd1U?oc=5",
+          "published": "2026-10-05T05:30:11+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원전기계 분야 최신 기술 한자리에 ‘2026년 KHNP-EPRI 기계분야 통합 워크숍’ 열려",
+          "publisher": "에너지타임뉴스",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTTjExX2NlTXg1ZmNDOTdZOXdCLVdudXBDUTdMQVBzRzBCOFJ3S0JGOGU3LVhkU0IyekVCdW1JeDRvak1HdkhqZnpNT2NYZEpRNUdQVDFvNWh5ZGhLT2V4ekd4dXFQWDVtVktfZ1RiYjFwX3pQbmfSAXZBVV95cUxQU04xMV9jZU14NWZjQzk3WTl3Qi1XbnVwQ1E3TEFQc0cwQjhSd0tCRjhlNy1YZFNCMnpFQnVtSXg0b2pNR3ZIamZ6TU9jWGRKUTVHUFQxbzVoeWRoS09leHpHeHVxUFg1bVZLX2dUYmIxcF96UG5n?oc=5",
+          "published": "2026-10-05T07:23:50+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 'KHNP-EPRI 기계분야 통합 워크숍'·'유망기술 설명회' 개최",
+          "publisher": "컨슈머타임스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UUE13Q3h2VktpYl8zdG02N3lhSHRib2NEUFpQOW50LTZ5S0dPMlRrd0JvQTNuWU1oSWF4Ml9rakI1RnA2dzFtWmFJVG95U2dGR01ZdGNWQnloVDVVSElDalZOdGo5S1hESVE?oc=5",
+          "published": "2026-10-05T13:10:52+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.607,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Orano inaugurates lead-212 production facility",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/orano-inaugurates-lead-212-production-facility",
+          "published": "2026-10-05T12:45:19+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.589,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Race for nuclear reactor on the Moon, US accelerates plans in face of Russia and China",
+          "publisher": "Gazeta Express",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUWs3YWJZeHhPX2dlMUFYWDN0cHdhU1VONXVybzNnVmZMRk1KUUtuVmpiMDAzLWRXeldtLXd2TElFZUwzb1ZBYnJsTTVtNFZpeUQwc3Nxa0tYdGxGaWpQWWJiLVRJYnFNeGx3dUg1STlJa0cydmloalY0d0ZzRmlBREdxYXlxQnRzc3RhTmZ2OS1hbWFiN2dZSlprTVhhSXlvMEJxdjVKMjltTU1mNzZlMnFyU0FRWmZwTlRGTA?oc=5",
+          "published": "2026-10-05T05:13:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Nuclear Race for the Moon: US Aims to Deliver Nuclear Reactor to the Moon by 2030 - Ahead of Russian-Chinese Project",
+          "publisher": "Первый Технический",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZWl3ck9nSTRBcENJMWNmM3kxbWYtOHVzd3FGd1FMRFd4VmcxS0VIa25xdGw1T3pYb0JyTW0yTENBS2xoRmpXZXh4NUlrZ3EzYWJaclE5SEJXMU1SMDdlN2lmejB5MHJoSHctUVFUck1NWTJHUkRpaV9kTTNmTF8yWGFpQW9vdmNDYmZnUG04ZV96LThpM243TWdJa0RULVQ1TkI1bWducVdKQ3U0N2hMOW12STRXeW5GMllVX1QweFRFRG9yX00yZlo1ZkJLbkpCQUpMekdOXzgydnlkR2cwenhSa2lURldsS1BoSElaMkd3VV9CQTZNM1lZblRra1JrbC1RejVn0gGLAkFVX3lxTFBwUGh0SGVPYXRsLTJYUjBSRG9acEhuMEJXSWhWNmpsUG5zV2Vnb3lWSEF3VWhDNDVFc2FkVFhEeVpmdHpuTDlSOGtjMF9tWnQ5VG9BSFp0eGloUkd5TEhMN1YwZ1RPdVYzSjJVRlJSN25tLWtEamc1aF9kWDRvUnZZSkhfdGxod0FZbjl4YmNReFExWXB3YXJfRkxMN05GYTd5Zjd0WmxrQ2xSRUhVRk9JTjE5cGpnemdHR2t6R3ZiRlRqR2VYaTAzS0p2TDNMaXZaNFR2M3o2UTdfS3BuYzFDUDVFWk91Uk5LdXNCdzN6QlJaWnZQRzlkNnVhT05yY3lUYzgxSVdDd2R4UQ?oc=5",
+          "published": "2026-10-05T12:14:49+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Nuclear Race for the Moon: US Aims to Deliver Nuclear Reactor to the Moon by 2030 - Ahead of Russian-Chinese Project",
+          "publisher": "Первый Технический",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOdEdlUDBTWGNDaU44amdfdHNlN2VCLVM0WS04RjBBSGlVaHJFQ2tFLXYwMS1hcTlZOU52bWVpQ0NwZGlmMnltbFdJejNEQ1M2eUZxRGdUQ0Q3TmhuODM0NXU3Z3ZqWG9XV0NQdWd6ZnB3RmxaTjRvSUJ4N3JmOHpDNFJqZldQUGpXY09tdXhLeUpLTWktb0daWW5ENkhKWlVRcGRtMFlSdDA1TzEwUmJEeUpmc3RuX3dRcnNkT3NTM01PYzdBY1E2Q3dKXzJ1aDlPVHl4bmJCQW95alUtd2NrdnhGQTFValQwRjh6Y1MwdjRJSVpYb2lQOUpBRENiNXfSAf8BQVVfeXFMTnRHZVAwU1hjQ2lOOGpnX3RzZTdlQi1TNFktOEYwQUhpVWhyRUNrRS12MDEtYXE5WTlOdm1laUNDcGRpZjJ5bWxXSXozRENTNnlGcURnVENEN05objgzNDV1N2d2alhvV1dDUHVnemZwd0ZsWk40b0lCeDdyZjh6QzRSamZXUFBqV2NPbXV4S3lKS01pLW9HWlluRDZISlpVUXBkbTBZUnQwNU8xMFJiRHlKZnN0bl93UXJzZE9zUzNNT2M3QWNRNkN3Sl8ydWg5T1R5eG5iQkFveWpVLXdja3Z4RkExVWpUMEY4emNTMHY0SUlaWG9pUDlKQURDYjV3?oc=5",
+          "published": "2026-10-05T12:14:49+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.568,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Nuclear power output rises 4pc to record high",
+          "publisher": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE80UElDdEd4bkM0NDlRclBROFV0VmtWWlNLY0RTeXRzSWxBYlgyS2RxeF9acHZqaE0wSDlibkQ3LVRISGEzS3dSWg?oc=5",
+          "published": "2026-10-05T00:15:19+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Nuclear power output rises 4pc to record high",
+          "publisher": "Investify",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQjU5a3UwUW1nUEx1U2ZhOF9CMGpmQkZodTVPcEMzazZsd2NDQ3J5YS0zeUxObmJ5TjZ4aE1YWXEwS013cHF3M2lYTUlwVTFNUC1IMG03aEhvU016dTVhUHI4ZDRRMWNxRFNIVUxxbWo0dVFHeXFlLVJzQTVKOWk5WDFXS0J0QXFLTkk3MlRReG1sZw?oc=5",
+          "published": "2026-10-05T04:46:34+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Pakistan’s nuclear power output rises 4pc to record 22.5 TWh",
+          "publisher": "Energy Update",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZW94d0o2TTdValhwQXVzX3g5cjdlWDI1VGNIR3k0RXhlVDhWQkE1YTZyRURLNzVMVzFfajdwdDVPbjV0TVVPWVVkMm44WUtwcEFPdDdFWmpGcHc0eDBZN1VMUDhOczJoa1BWQUFDTW05S1RkTWlDaXhuOUl4enpkTFdJWWpDb3dEM050WkZ1Tk0tQ3NaOTFJ?oc=5",
+          "published": "2026-10-05T08:12:33+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.4,
+      "id": 15
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Green Party drops nuclear phase-out policy",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/green-party-members-drop-nuclear-phase-out-policy",
+          "published": "2026-10-05T06:26:23+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.326,
+      "id": 16
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA Report Finds Japan's Monitoring of ALPS Treated Water Accurate and Reliable",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/pressreleases/iaea-report-finds-japans-monitoring-of-alps-treated-water-accurate-and-reliable",
+          "published": "2026-10-05T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        }
+      ],
+      "score": 2.058,
+      "id": 17
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Tritium Level Far Below Japan’s Operational Limit in 24th Batch of ALPS Treated Water, IAEA Confirms",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/pressreleases/tritium-level-far-below-japans-operational-limit-in-24th-batch-of-alps-treated-water-iaea-confirms",
+          "published": "2026-10-05T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        }
+      ],
+      "score": 2.058,
+      "id": 18
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "\"AI 통제력 상실, 원전 사고보다 피해 커\"…오픈AI 안전 담당 사임",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NTW9wUG1BSnBkWFBCVUxvdkVNd21XeUpiVmhXWXZKMnJrUWdxalRIbnVmY2FlempHbGt2YW5HSGhHbEUteThicXIxZGp6bGs?oc=5",
+          "published": "2026-10-05T00:40:57+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "오픈AI 안전 담당 사임…“AI 통제력 상실, 원전 사고보다 위험”",
+          "publisher": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mMnBDR0NWWk1IQXAwaVpHVGtqMF9BM010dmtOenhLcWRHZktabDhPeG1TSWpzR0hZT254RkU3U3RNU19WZmoxMWtjOVhZZw?oc=5",
+          "published": "2026-10-05T04:36:32+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.25,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "美-中·러, 이번엔 달 원전 경쟁…NASA, 2030년까지 건설 추진",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50ZzVNTGwtdmxZdWhacHNwM3Z2VmRlbG53bW5id2ZGalBmMlJSdnlRQnRITzZsal9kM2M0Y09JVTN1NGNEWmRVcS1waDNhN0RRVk9heg?oc=5",
+          "published": "2026-10-04T23:26:12+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "美-中·러, 이번엔 달 원전 경쟁…NASA, 2030년까지 건설 추진",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE92YnZZbkt1bkliTEhpMUtKYWthNVFMY1JKTXdVYUtkaDFDSkc5bUFBYTRvSHQ5blNRVkJOcXF6Smd2THlaakE?oc=5",
+          "published": "2026-10-04T23:26:12+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.034,
+      "id": 20
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "영국 녹색당, 결국 원전을 인정했다…유럽 탈원전 공식 흔들린다",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tUnYzSzhQMVh1T2t3T2VkWjctSmU2Yy1nbXhEQmd3SHZJZ3FjdkhGSXIxalVoQ0FuelZRc0hXeWttOXp2MVhHYzNwTzZjdjZoME5xdDZnS19PVlZOSTZ0TzB6TWw?oc=5",
+          "published": "2026-10-05T22:09:47+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.981,
+      "id": 21
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "기술은 있는데 한국이 없다…폴란드 9GW 원전전쟁, APR1400 재진입 골든타임",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HU08tV1g0QmlvOU1BcXp5TFZLU3BIOWQ4WUs2VS13RmxGM0lYQjhta01YN0t1VFpudVRSZEpIaXJWeFR0aVpnckJsQ3pUS25vbG43WV80eEhwWlMyalRhMHAtSHQ?oc=5",
+          "published": "2026-10-05T21:43:35+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.963,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원자력이 암세포만 때린다…오라노, 유럽 첫 ‘납-212 암치료 공장’ 열었다",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIVHppbHVOTHNxel9yYXNROExKZTlacFJaQWJmTDdMRjhQSlRfUjFZZm04S3RzVXJkWEtMTGpUSlJPVElfQjBGTHdtNW1wWFRrM1hrNjFjbzk4UHd6VVE1VDRNLU8?oc=5",
+          "published": "2026-10-05T21:28:06+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.952,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[단독]현대글로비스·美 리버티, SMR 추진 PCTC 공동 연구",
+          "publisher": "더트래커",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53S3hsb1NJMlltS3VwcGNNZEpGclUyNzA2OWRZYUVweWI0LXlDc0VqSE15dGhkUGROODFJUFExbVVWM1JOb3NMQl9CcG4wWXZCU0xKd284M2U?oc=5",
+          "published": "2026-10-05T21:25:16+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.95,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "폴란드 투자자그룹, 삼성물산 협약 유럽 소형 원전에 1720억 투자 예정",
+          "publisher": "g-enews.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd3lFRUhzNlVqYmo1ZHl2MDhTM0o2OGNxdkVVVlRKX0FkOXAtWWZ1cTlFTmtfN1JOWXpEQnFnWjV6VmpRcDVmSHYzc0xIek9EdmJHN09IYWFGMHREd2Q3NlRLcDRSdVlFSWJxNlJWQk5LTk1HOU9xa1VfZ1k2RHVRYTR6VFItZEtr?oc=5",
+          "published": "2026-10-05T21:23:39+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.949,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[K-원전 50년만 유턴] ② 서방이 멈춘 반세기, 韓 뚝심이 만든 ‘APR1400’…美 전력난 ‘구원투수’로",
+          "publisher": "대한경제",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50VUdZVGFxSXdwazg0UXR5RkE5S3B1MF9jZUlRNzdVQ1ljTllDTTVFYl9KeXBic3padEp2Q1lUdmJsaTNNUDdKRl9Sb2RFV1pnangxYzluWmN3Q1dFRUh3NVp4RmV1ZHNrY3duYVFxZlNmTk5C?oc=5",
+          "published": "2026-10-05T21:20:32+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.947,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "폴란드 9GW 원전판 열렸는데…APR1400은 제2원전 경쟁서 빠졌다",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16M0J5d3dmUFFLb0RDd3BFSzRpM3V6MEhkUGQ5ZHVTdjFSa1MwV2hFOXRENnhYcFJGSEkyQWZiWG9mRktDc2NWQTJ4ekgyekNuMnJJMDdXVkZJdUtFS1FPR1U4Sko?oc=5",
+          "published": "2026-10-05T21:17:58+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.945,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "\"고리 1호기 도입 반세기 만에 종주국 역수출\"…美 본토에 한국형 원전 APR1400 2기 짓는다",
+          "publisher": "CBC뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDOTFPUjZ5UUg0WENNcHVsNVVhcW9PZjZWenJ1XzRneWhqT0JVNE9nWE5rRmh3QVFBUnZMb3VsR3FhOUpjVHB2YW1jWXFvUGRwTG51NVlIR1FnS3hqWUVyX2xpdXFheUpQ?oc=5",
+          "published": "2026-10-05T21:15:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.943,
+      "id": 28
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "기후부 오늘 국감…반도체 전력 공급부터 원전 역할까지 현안 산적",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50bmlMZG9LaTBkX25mU0RXVGJheGNoSzVrbWVrZ016VU50SmplaF93WnhwSlFRSVRwOVh1dGxEQlVNWHdIblJHMzNJZjdsOHJkbmJUQ0ZVVmNjUXpXT0FIQlZoOXljMUNERjZiT2RSWlFkTm1WQVZCMdIBeEFVX3lxTE50bmlMZG9LaTBkX25mU0RXVGJheGNoSzVrbWVrZ016VU50SmplaF93WnhwSlFRSVRwOVh1dGxEQlVNWHdIblJHMzNJZjdsOHJkbmJUQ0ZVVmNjUXpXT0FIQlZoOXljMUNERjZiT2RSWlFkTm1WQVZCMQ?oc=5",
+          "published": "2026-10-05T21:00:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.933,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 84
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 43,
+      "kept": 9
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 99,
+      "kept": 90
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 45,
+      "kept": 4
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 2
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 4
+    }
+  }
+}

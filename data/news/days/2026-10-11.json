@@ -1,0 +1,741 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-10T20:03:41+00:00",
+  "engine": {
+    "engine": "claude-code-session",
+    "briefed_at": "2026-10-10T21:51:36+00:00"
+  },
+  "overview": "국내에서는 한울 4호기가 재가동 승인을 받고 49일 만에 발전을 재개했다. 해외에서는 일본 미하마 3호기 기동, 다뉴브강 저수위와 원전 냉각수 문제, 핀란드 원전 사업을 둘러싼 중재 판정, 미국 SMR 건설허가 신청이 눈에 띈다.",
+  "stories": [
+    {
+      "source_ids": [
+        5,
+        26
+      ],
+      "region": "국내",
+      "category": "안전·규제",
+      "importance": 3,
+      "headline": "한울 4호기, 규제기관 승인 뒤 49일 만에 발전 재개",
+      "summary": "원자력안전위원회가 한국수력원자력 한울 4호기의 재가동을 승인했다. 한울원자력본부는 4호기가 49일 만에 발전을 다시 시작했다고 알렸다. 후보 기사 제목만으로는 정지 사유와 점검 내용이 분명하지 않다.",
+      "background": "원전은 계획예방정비나 고장 점검으로 멈춘 뒤 다시 가동하려면 정비 결과와 안전 점검을 확인받는 절차를 거친다. 재가동 승인은 규제기관이 설비 상태와 운전 준비가 기준에 맞는지 확인하는 단계다. 승인 뒤에는 원자로를 임계(연쇄반응이 스스로 유지되는 상태)로 올리고, 출력을 단계적으로 높이며 계통을 시험한 다음 전력망에 연결한다. 발전 재개는 이 과정의 마지막 단계에 해당한다.",
+      "why_it_matters": "정지 기간이 길어질수록 전력 공급과 운영 경제성에 영향이 크므로, 정지 원인을 정확히 찾고 고치는 일이 중요하다. 학생 입장에서는 재가동 승인이 단순한 행정 절차가 아니라 안전 여유를 다시 확인하는 공학적 판단이라는 점을 볼 필요가 있다. 출력 상승 중에는 노심 출력분포, 냉각재 온도, 터빈 계통 응답을 함께 감시한다. 이번 건에서는 정지 원인이 무엇이었는지, 그 원인이 다른 호기에도 해당하는지가 관전 포인트다. 규제기관이 어떤 조건을 달았는지도 이후 운영 경험으로 공유될 가능성이 있다.",
+      "concepts": [
+        {
+          "term": "임계",
+          "explain": "핵분열로 생기는 중성자 수와 사라지는 중성자 수가 균형을 이루어 연쇄반응이 일정하게 유지되는 상태."
+        },
+        {
+          "term": "계획예방정비",
+          "explain": "연료를 교체하고 설비를 점검하기 위해 주기적으로 원전을 세우는 정비."
+        },
+        {
+          "term": "출력 상승 시험",
+          "explain": "재가동 후 출력을 단계별로 올리며 각 단계에서 계통 거동을 확인하는 시험."
+        }
+      ],
+      "question": "재가동 승인 전에 규제기관이 반드시 확인해야 할 항목을 세 가지 고른다면 무엇이고, 그 이유는 무엇인가?",
+      "study": [
+        "계획예방정비",
+        "원자로 기동 절차",
+        "출력 상승 시험"
+      ],
+      "reference_ids": [
+        "nssc",
+        "khnp",
+        "nuclear-db"
+      ]
+    },
+    {
+      "source_ids": [
+        4
+      ],
+      "region": "해외",
+      "category": "원전 운영·건설",
+      "importance": 2,
+      "headline": "간사이전력, 미하마 3호기 원자로 기동하고 조정운전 개시 예정",
+      "summary": "간사이전력이 미하마 원전 3호기의 원자로 기동과 조정운전(시운전) 개시 계획을 발표했다. 후보 기사 제목에 나온 내용은 기동과 시운전 예정이라는 점까지다.",
+      "background": "일본 원전은 정지 후 재가동할 때 원자로 기동, 임계 도달, 발전기 병입, 출력 상승 순으로 진행한다. 정기검사 중에는 운전 조정과 계통 확인을 위해 시운전 성격의 단계를 거치기도 한다. 이 과정에서 설비가 설계대로 작동하는지 실제 운전 상태에서 점검한다.",
+      "why_it_matters": "일본은 후쿠시마 사고 이후 강화된 규제 기준에 맞춰 원전을 순차적으로 재가동하고 있어, 개별 호기의 기동 소식은 일본 원전 운영 흐름을 읽는 단서가 된다. 학생은 기동 단계마다 어떤 계통을 시험하는지 살펴보면 운전 절차와 안전 계통의 연결을 배울 수 있다. 미하마 3호기는 운전 기간이 긴 호기로 알려져 있어 노후 설비 관리와 장기운전 관점에서도 볼 만하다. 다만 이번 후보 기사만으로는 기동 일정이나 세부 시험 내용을 확인할 수 없으므로 발표 원문을 확인해야 한다.",
+      "concepts": [
+        {
+          "term": "조정운전",
+          "explain": "출력을 단계적으로 올리며 설비 성능과 계통 거동을 확인하는 시운전 단계."
+        },
+        {
+          "term": "병입",
+          "explain": "발전기를 전력망에 연결해 전기를 보내기 시작하는 일."
+        }
+      ],
+      "question": "오래 운전한 원전을 다시 기동할 때, 신규 원전과 다르게 더 신경 써야 할 점은 무엇일까?",
+      "study": [
+        "원전 재가동 절차",
+        "장기운전",
+        "후쿠시마 이후 신규제기준"
+      ],
+      "reference_ids": [
+        "iaea-pris",
+        "wna-library"
+      ]
+    },
+    {
+      "source_ids": [
+        6
+      ],
+      "region": "해외",
+      "category": "원전 운영·건설",
+      "importance": 2,
+      "headline": "다뉴브강 수위가 역대 최저 수준, 원전 발전용 최소 유량 확보 조치",
+      "summary": "루마니아 수자원 당국은 다뉴브강 수위가 전례 없이 낮다고 밝혔다. 원전 발전에 필요한 최소 유량을 유지하기 위한 개입 조치를 하고 있다고 한다.",
+      "background": "원전은 터빈을 돌린 증기를 응축하고 안전 계통을 식히기 위해 많은 냉각수가 필요하며, 강이나 바다에서 물을 끌어다 쓴다. 강물 수위가 낮아지면 취수가 어려워지고, 배출수 온도 규제도 더 빡빡해진다. 그래서 가뭄과 고온이 겹치면 출력을 낮추거나 운전을 조정하는 사례가 있다.",
+      "why_it_matters": "기후 조건이 냉각수 확보에 영향을 준다는 점은 부지 선정과 설계에서 최종 열제거원을 어떻게 확보할지와 직결된다. 학생은 일반 운전용 냉각수와 정지 후 붕괴열 제거용 냉각수를 구분해서 생각할 필요가 있다. 이번 소식은 수자원 관리와 전력 생산이 함께 얽혀 있음을 보여 준다. 앞으로는 유량 확보 조치가 얼마나 오래 이어지는지, 발전 출력에 실제 영향이 있는지가 관전 포인트다. 후보 기사 제목만으로는 실제 출력 감발 여부를 알 수 없다.",
+      "concepts": [
+        {
+          "term": "최종 열제거원",
+          "explain": "원자로에서 나온 열을 최종적으로 버리는 곳으로, 강, 바다, 대기 등이 있다."
+        },
+        {
+          "term": "붕괴열",
+          "explain": "원자로가 멈춘 뒤에도 핵분열 생성물의 붕괴로 계속 나오는 열."
+        }
+      ],
+      "question": "가뭄이 잦아지는 환경에서 냉각수 의존도를 줄이려면 설계나 부지 선정을 어떻게 바꿔야 할까?",
+      "study": [
+        "붕괴열",
+        "최종 열제거원",
+        "공랭식 냉각"
+      ],
+      "reference_ids": [
+        "wna-library",
+        "oecd-nea"
+      ]
+    },
+    {
+      "source_ids": [
+        1,
+        9,
+        13
+      ],
+      "region": "해외",
+      "category": "정책·산업·수출",
+      "importance": 2,
+      "headline": "핀란드 한히키비 1호 사업 취소 분쟁, 로사톰에 유리한 중재 판정",
+      "summary": "로사톰이 핀란드 원전 사업 취소를 둘러싼 분쟁에서 중재 판정을 받아 유리한 결과를 얻었다고 밝혔다. 대상은 페노보이마가 추진하던 한히키비 1호 원전 사업이다. 한 보도는 사업 규모를 약 70억 유로로 전하며, 우크라이나 전쟁 이후 취소된 사업이라고 썼다.",
+      "background": "대형 원전 사업은 공급자와 사업자 사이에 장기 계약이 맺히므로, 계약 해지나 지연이 생기면 국제 중재로 책임을 가리는 일이 흔하다. 원전 건설은 인허가, 설계 변경, 공급망, 금융 조건이 모두 맞아야 진행된다. 이런 요소가 흔들리면 공기가 늘고 비용이 오른다.",
+      "why_it_matters": "원전 수출은 기술뿐 아니라 정치·금융·계약 위험까지 함께 관리해야 한다는 점을 보여 주는 사례다. 학생은 계약서의 불가항력, 해지 조항, 분쟁 해결 방식이 사업 위험에 어떻게 반영되는지 살펴볼 만하다. 국내 업체도 해외 사업을 추진하므로 지정학 변화가 사업에 주는 영향을 참고할 수 있다. 판정의 구체적 금액과 근거는 후보 기사에 없으므로 앞으로 공개되는 내용을 확인해야 한다.",
+      "concepts": [
+        {
+          "term": "국제 중재",
+          "explain": "국가 법원이 아닌 중재 기관에서 계약 분쟁을 판정받는 방식."
+        },
+        {
+          "term": "불가항력",
+          "explain": "당사자가 통제할 수 없는 사건으로 계약 이행이 어려워진 경우를 다루는 계약 조항."
+        }
+      ],
+      "question": "해외 원전 사업에서 공급자와 발주자 중 누가 정치적 위험을 더 크게 부담해야 한다고 보는가?",
+      "study": [
+        "원전 수출 계약",
+        "국제 중재",
+        "건설 공기 지연"
+      ],
+      "reference_ids": [
+        "wna-library",
+        "iaea-pris"
+      ]
+    },
+    {
+      "source_ids": [
+        17
+      ],
+      "region": "해외",
+      "category": "SMR·신형로",
+      "importance": 2,
+      "headline": "홀텍, 미국에 소형모듈원자로 2기 건설허가 신청",
+      "summary": "홀텍이 미국에서 자사 모듈형 원자로 2기에 대한 건설허가를 신청했다고 보도됐다. 후보 기사 제목 기준으로는 신청이 접수된 단계이며 허가가 난 것은 아니다.",
+      "background": "미국에서 원전을 지으려면 NRC(원자력규제위원회)의 건설허가나 결합 인허가를 받아야 한다. 건설허가는 설계 안전성과 부지 적합성을 심사해 건설을 허락하는 단계이고, 이후 운영허가를 따로 받는 방식이 있다. SMR은 공장 제작 비중을 높여 공기를 줄이려는 노형이어서 인허가 절차에서도 모듈 제작과 시험 방식이 쟁점이 된다.",
+      "why_it_matters": "SMR이 실제 건설 단계로 넘어가려면 인허가가 핵심 관문이므로, 신청 자체가 사업 진척의 지표가 된다. 학생은 심사 과정에서 피동 안전계통과 사고 해석이 어떻게 평가되는지 눈여겨볼 만하다. 신청 접수 후 심사 범위와 일정이 정해지므로 앞으로 NRC의 심사 일정 공개가 관전 포인트다. 후보 기사에는 노형 세부 사양이나 부지 정보가 없어서 상세 판단은 원문 확인이 필요하다.",
+      "concepts": [
+        {
+          "term": "건설허가",
+          "explain": "원전 건설을 시작해도 좋다고 규제기관이 허락하는 인허가 단계."
+        },
+        {
+          "term": "피동 안전계통",
+          "explain": "펌프나 외부 전원 없이 자연 현상으로 작동하는 안전 계통."
+        }
+      ],
+      "question": "공장 제작 비중이 높은 SMR의 인허가에서 기존 대형 원전과 다르게 검토해야 할 점은 무엇인가?",
+      "study": [
+        "NRC 인허가 절차",
+        "SMR",
+        "피동 안전계통"
+      ],
+      "reference_ids": [
+        "nrc-advanced",
+        "iaea-aris",
+        "iaea-smr"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Location of possible small modular reactor revealed in Amherst County",
+          "publisher": "WSET",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd3JscVZyQUVPSGQ0OEQyVzIxOGVFYl95YXBuQVd6NmFYbFEzeGVoUThCM3RTWlU1LWFnT2c0S0pKdV94ZUZUNWIzSXh1NG41dHZSaVNrdTQxVVZDblBlOHBpQ2RnNTBGek0tY1hBY3I2eHFfdmlYRzM3Q0dWdWp3aXZKM09Ra1VuT0k3ems1VkNBZnBpQnRTTEc5dDhLcldNOWh6X2M0SmYwQWtVaXQ4?oc=5",
+          "published": "2026-10-09T21:22:57+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Location of possible small modular reactor revealed in Amherst County",
+          "publisher": "WSET",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYWpkNnBKUUd1dEs3aHdZdHVJUjZZUm45aUhzUFk1V2dHNUFfSFpnd3NNeHpYa0JFaXJrOWZnZk04dWNBVUxTcFpIQzJkQ2g1elQ0SF9UX1pQd2R1aUF4WDkyNUZIeXFaYmtCRWxFMkpQR1RkVWU2VmdsTWNqZEcyN0FPYmMtQ01UWlM5WEQ3QVptUGM2S1FwcjRSQVlUd0VEa1RoNHR6RmVocG9sdWtkb3dDdDRZNEJuZGc?oc=5",
+          "published": "2026-10-09T21:25:32+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Location Revealed of Amherst County Nuclear Power Plant",
+          "publisher": "WDBJ7",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOHRYTUh0X3ZsM1N6b0t5QWlvYXhXY2RYSGt6SzhubFVvOWs0RGhCd2RHcE52MWl4Q2pLN1AxR2xrX2NTSHZQa1h4dWxzY0xjU2diS19qbUpKMW1jN3B5ZDJoMFMwSWQxbjdNNVVPQUJJU09uQmpyNzBIU3cwcnpJMkZjM3Q2SWVEbnpuUUJNZUE5WnFUNHppWFdtODRVTjFPWWhGSV9WWXRqVjg?oc=5",
+          "published": "2026-10-09T22:19:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Location revealed of planned Amherst County nuclear reactor",
+          "publisher": "WDBJ7",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWnlJT3RxN2JMVF8yZjU2UmowcHA3aS04X01EcjFvNU5ibnotdjk4Q3htUHJEVkdJZkp4dmxtZmdLRjZQMzlNODJ3X3hTbml1cDA1cWNBZV95MmZkRE5Zell6TFdxRTNZOWJaMkxERUx4MUZ0ZkxkTjJXblFFU3hadVBOcWRiOUxYUVJmaVY5d2hUcXRT0gGoAUFVX3lxTFBsd0dURVFJQ1JMMWFoTW9sb0RhanpiM2s4VWtWXzBKWHNfMHNaZUowUi1kSUxpSlVvZkxmWEIyUGVjSkxNdWxkQU9UVU1QMGpSb1ZReG0wNUhjZng0WG9Lc2pDMU1zelpTWjhzV3ZOcERBVWFGamtDZHA0c3RYVl9iVWhWUWxpVUt1RG9GaldKOVJFa2sxb3FUcHBna2VrcUtBVE0ySl9GMQ?oc=5",
+          "published": "2026-10-09T22:37:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.106,
+      "id": 0
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Rosatom says it wins tribunal ruling in Finnish nuclear plant dispute",
+          "publisher": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaGZSZmV0b2pXYzBvMG1pSGtadExMUVd5ZDlJZ29iWVFwZ204RERYSFRMbldfc09fNzFMcGZaZm13SVgxcXVqTER2cXFPMFBsYjEwSVJyRGtfSFRfYW1ac1pyaFRnWHFiWG5kOWNtMkhzMjlWSWc1Z1VJUUNESlNJbTlSVjFuX0ozZFVLdVI5dHhpMi13NXdmOC1FZllJbUR3SjBZZ1NiaWJvdVY4a2ljZUVuYXhiTXlZRE1KeUVCUQ?oc=5",
+          "published": "2026-10-10T09:04:22+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rosatom Says it Wins Tribunal Ruling in Finnish Nuclear Plant Dispute",
+          "publisher": "The Moscow Times",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVd2TVZwN19UNE1CT2xhYVI0cnNSeVNvWXp1Z3oyalRiWTVwbTdudXNIb19FaGlQdlB2VVVsazVwRzVXQ0RGWDNOdDhUWDB2dGFYT2VxWFQ3eVdwd1J1TVJtSE9sWlJCNEtkZDZCd2tTTWRoay11MnF2WE9qMXV1UmN5T3lYV1RzOTFzelIxQmRPOFBwSGRfX3I2ZUtLTkNnNHJ4Rkk3Rkx2amM4Q191aU00R3VFX3F3WFE?oc=5",
+          "published": "2026-10-10T09:45:05+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rosatom says it wins tribunal ruling in Finnish nuclear plant dispute",
+          "publisher": "Hiru News",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaFV3NEpFQTJVZ2tsVnZROHBWVTliaDltYnNscVZ2LVp4OW9DcFE5T2xwbnlzeDBPb0Q5dHo2eGprZVc5QlZnTzVueFE0U0czSHVkM3BNZExHU0ZhVnNrczZGekxPVmFVbGFhdU0zbjIydHltTDNOZEhvQXE0VGNEYUVHMnBEMEs5ejZOWjR4NTZOdDNzRGlHVFBlMVM3RWxXYTZYMlB5cGdZeFU?oc=5",
+          "published": "2026-10-10T14:43:11+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.777,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Marcos Jr. on mothballed Bataan Nuclear Power Plant: 'Too bad they stopped it'",
+          "publisher": "ABS-CBN",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZkxDblp1Rmhtdm1oYmxVcE5MV2R1bDBtZjc0S0dRa2poSlFMWEs3cmRFcG9veVdVaENKb21lanJsb3VRN0psN0FlaHlST3dYTTBLSVVNUnB3WTNjcVVtaFN0ZmZmSnhUZXdXdzVmT1MxTWxHbFJ5X1V0bEM5WFY0T0Z3TDRLXzZmNmFfWnFBWnYxU205YnY5bW8wZ2RYOFJGbEEzRHNiNTd2NjlWYk1CQ3lvMEFEUllhajNOVXdoRFV1dmdlUm5lY1FXcFJGWExRTk1mb3lNNjZTdHBJeG5zdmF4eWphZw?oc=5",
+          "published": "2026-10-10T06:19:48+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Marcos on Bataan Nuclear Power Plant: 'Too bad they stopped it'",
+          "publisher": "GMA Network",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLXNLb2tqX25OTThXTkxXOFE3U3ZwcXl1YXYydEh0UVVJTE5kbzNhTkxoWnhhTDhTejRpRUpRd3VWM0xmVURuc1d3U0tzaXRlQVY4Tk13M1JPWmgxT2JLaUpCVjd3TUxzc2x2V1pKTzN4LXZreUp1OVRiUUxmVjVwalBROE5XakRUSzdudGNyaWtSMzNSaTF0TldoNm8tSXBINTYtXzRVWk5NV0pVTjVNekJOYlRSU1VrcTV2YTk4OGJIWlnSAcgBQVVfeXFMTnN3NDFhaFVQZXJDQlpiYnloclc2R0lGcXJJb0JFQ1gzMmsxUXJhTEpqNzdrTUZhMDJOQUhtZFpXSWlhSmsxaEpoZXRSVmZmWXdxcEtTSmVxX2NiTzZCTUJTWGx1b254clVzS2JqSDZMVzdiU0dva1hoOW1CWElrMGRFU01hM09CVm94WXhHNVBfRE9YRkc0dFphNVhjV2Y0WkJ5RWJNYk9XNEJUSTJTZEJxSEtIeENwbmo4V2JGVU1NTE5xN2lTUXE?oc=5",
+          "published": "2026-10-10T11:04:56+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Marcos on Bataan Nuclear Power Plant: 'Too bad they stopped it'",
+          "publisher": "Facebook",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY1o2VkxWN0ZWeHhoRUdZVDFrNGVvcHoyeE1BTGJOeVVGTU52ZkpITHNwa0lFUk9fSVdSZGRhT2ZiUWxEaUxzUmQ3amRPUDdQZTh1ekY1dXpZT0kwRWw5cEdVZ1RpOXdrT0wxN01Rc1RMcDFWUXZLa3AtQVNUaGR6c1NtVnZuX2hPS1RyRjJMSXN2T0liYkRpVDVqSTFyVFQ0M3NDS2N1N3BsNU41YW9HeVlVRWMtMk9T?oc=5",
+          "published": "2026-10-10T11:14:43+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.633,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "LOOK: President Ferdinand \"Bongbong\" Marcos Jr. received a presentation on nuclear power technology, plant operations, and safety measures during his visit to Singapore Nuclear Research and Safety Institute on Saturday, Oct. 10. | via Jonathan Andal/GM",
+          "publisher": "Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVmVkRFJzQm1rVzZ4RE5EMGRZOHh6VzZLRXAwUUZQcWdnQVZYYVdXTmZPb1FHdVNBLXNhZFZyd0hWWU8wamU1VFpDNWpDbG00c25WWXlGcDUxS0hESTlOZm50dFRNZ1dDajdzVk9Ic0JVVThpNUdqR0dSRV9OSXYzMXJrWFhvdEc3ejRMbWJqRFU4M2JYdU9KSVc5LUNLcGk1UkhSdHV3dnc1QlJMc0FtWnFPMWREQTRMdXQ0cjFvdEFsSGdxdWMtYXRUWVFBTTlNLWo4?oc=5",
+          "published": "2026-10-10T05:54:46+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "‘TOO BAD THEY STOPPED IT’ Pres. Ferdinand Marcos Jr. recalls the preparations made for the Bataan Nuclear Power Plant before its dormancy during his visit at the Singapore Nuclear Research and Safety Institute on Saturday, Oct. 10. | via Harlene Delgad",
+          "publisher": "Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUklBUEtJS2dVcHVqaTVwTW9LcDQ3QzJOdWt3a0VzYm5TYXR6eU5QbTFEY3VlZXNRQ2NiNkwxNmJuTTQzNXJxc2hwVXphNFJQQjZWNGQ3WUppZXktTWJUSUlVRHNSWUVKcndOZFJzMDdma0otekQzUjJCeFlUUVdfUENWeG1kbkFIUE9WNDF1MWxObG50M3hwdUFfbU1oeUp2Zi1FQWk1X09JOWJkck0tN2c2U1pxX19PbGVWdnZIMWs5Z2RuZk9yNndQb21heWlvYTk2Qlk0bw?oc=5",
+          "published": "2026-10-10T06:45:37+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.446,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "The Kansai Electric Power Company, Incorporated Announces Reactor Startup and Planned Commencement of Commissioning Operation At Mihama Nuclear Power Station Unit 3",
+          "publisher": "SightLine | U308",
+          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQc0wyR1lQTmVGdTBzYkx6aS1ZTWtobUJDRC1jeFNRUGg3bTR5YVVrMHJtU3lJNDhnWVdwUTFySG5BZUEtZVM2YUJXemlLWngyQTQ3Vko5ZlRHeHBfVm9GbnZnTS1BTXBGZnpUZlpaMW5pMm9JVkk5dHNYY1pLVjh5NDRfcTBoWllSeVRsRzJEMW9LXzNpOWo5R1FuNkF3QktabW1ZeWhkNkh3OUNYM292TDNjLUc2Qk9TZWtWN2lOVXJHa1kyQ3J6R1NteFhCNmFOT01qOWx4TWpYN1l5dDg5R0FTX1pjWEtMV05CdFFpQk55ZGJFaXpZR0NzTDJ3bUxqTlRrdWtYS2pHbjloNXdvTFNKMHRMWE9OdHV0dEJ6Y2xhRGxj?oc=5",
+          "published": "2026-10-09T23:52:45+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "BREAKING NEWS: Kansai Electric restarts reactor at Mihama nuclear plant in central Japan",
+          "publisher": "Japan Wire by Kyodo News",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3b0RRTmN1clk3OGNOUHdDbldtRXRNSFUyM2Fqam95WUFnbC1xX2M0bU81bzB4MkVmanB4Znp4T1FmTXhWbHBCWHBTbmNFekhTbEo0bFVTMTFodw?oc=5",
+          "published": "2026-10-10T00:40:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.192,
+      "id": 4
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원안위, 한수원 한울 4호기 재가동 승인",
+          "publisher": "전국안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1faVJReVBWQzkzNzBvcjIzOXphRGttaVozajU4SnJHeV9uUnctc0lQMGx3SVRscktCekp3cmZpVm1SdGxsT2RYT3pIeTM?oc=5",
+          "published": "2026-10-10T19:00:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.956,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Romanian Waters: The Danube at unprecedented historic lows. Intervention measures to maintain minimum flows, necessary for nuclear power generation",
+          "publisher": "Informat.ro",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOalpWZnBST3pTQ0dWMDFLMVBkRXhRaEVQd3k3SWxUMFFUNm11cS1iY1E1SUJMaFVIbjFlRi1hdWVJT2ZnXzh4U3hqaFVlNWZNQkZzRC1Hb3pvcmx1Q0ttS3cwYkdoSTBvNk1wMTlaNWpDRlNFUjhWN0I2OFNpdi10XzF3TzBYbmJmaUJOUVlDakxyQV9VbnNuQW1RUU1kY09qSmhHNjhSTE92NFVZWjFEX1MyMk5FakV0NXdRUzhuVXM5VVFfd1hPVnlGZw?oc=5",
+          "published": "2026-10-10T16:25:44+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.849,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "The IAEA has documented damage to buildings at the occupied Zaporizhzhia Nuclear Power Plant",
+          "publisher": "Комерсант Український",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY1dCbl9zNm1VVjhSUVJTSjlUWi13U1lSLWE0VXM0MlRvOE9Cd2Q0Nkh4b2xYMHg1RzlRcGV0dXAyMVVnVmpZenRFemxnNmdtS1NtVGI2YXhzOUJvNTNTS0k4d28ycVpibUhxRU5KODZ6WV95UkF6UkZuYzMtWUJrSzRybXMwa3UxaTlZekJR?oc=5",
+          "published": "2026-10-10T16:16:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.842,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Marcos disappointed Philippines halted Bataan Nuclear Power Plant",
+          "publisher": "Philstar.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbEVhV1BZMUJuNEdXS0d0Yy1iOXR0eFdKWVFLWEF1MFE0NEtKZjhlbXRiX3dGNHJRVFNSeExyV0NqcHYwdUlzcjlaV0ZDekprcTVXSDdGZTIyMGkwSnYtMmRrZ1U3YWdvd3JwMUhkLUNLWjhuYTVPRVlmczNfSEd5VXBuVVk1UmNPTWxXVUhNd01LanhvT293bUZtZFY0eXJoRXM3SVdFM0tYMnA4b18xV3RlOGVfaVZSU0NOLXJIYjBZQdIBwgFBVV95cUxQbEVhV1BZMUJuNEdXS0d0Yy1iOXR0eFdKWVFLWEF1MFE0NEtKZjhlbXRiX3dGNHJRVFNSeExyV0NqcHYwdUlzcjlaV0ZDekprcTVXSDdGZTIyMGkwSnYtMmRrZ1U3YWdvd3JwMUhkLUNLWjhuYTVPRVlmczNfSEd5VXBuVVk1UmNPTWxXVUhNd01LanhvT293bUZtZFY0eXJoRXM3SVdFM0tYMnA4b18xV3RlOGVfaVZSU0NOLXJIYjBZQQ?oc=5",
+          "published": "2026-10-10T16:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.831,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Rosatom wins an arbitration against Fennovoima for the cancellation of the Hanhikivi-1 nuclear plant",
+          "publisher": "Demócrata",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWmVaYjRLQ01STVZiZjlJSkhfeUh2TUZ3SlpaZzV4OWd3RmVVaXNRN1pZNFBCQlc2Y0pkZUkySzJlSFBHRjFTVXpIQjZTejdETzBtWHdwVWtHZW15LXR5M2ZLUndiTlFFTG02VlE2YVczUlBycDUzSFhheHp6NUtIUVVvWTJjZW1qS2tpaFBpdzFGYnp4Y29ocTlqUnA1RHJmTVRIZVYwaUt5dGhsYkZtWTVvVHBPSnNYcHQ2NnVjem1YS2YzWDE0V0dXREw0WXgxTXlBaU00Z2RYQnFOV2lZONIB4AFBVV95cUxOWmVaYjRLQ01STVZiZjlJSkhfeUh2TUZ3SlpaZzV4OWd3RmVVaXNRN1pZNFBCQlc2Y0pkZUkySzJlSFBHRjFTVXpIQjZTejdETzBtWHdwVWtHZW15LXR5M2ZLUndiTlFFTG02VlE2YVczUlBycDUzSFhheHp6NUtIUVVvWTJjZW1qS2tpaFBpdzFGYnp4Y29ocTlqUnA1RHJmTVRIZVYwaUt5dGhsYkZtWTVvVHBPSnNYcHQ2NnVjem1YS2YzWDE0V0dXREw0WXgxTXlBaU00Z2RYQnFOV2lZOA?oc=5",
+          "published": "2026-10-10T13:42:55+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.736,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "US firm aims to speed 390 MW nuclear reactor deployment with phased build plan",
+          "publisher": "Interesting Engineering",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc2tCNnpzaVlNblc4U0tFUFlhRl96a3N3WDI1MEd5YV9pQ3M2QkpaQTVjNkpvQWhFQ2FUc2lTdTlPai1MeDhYVi1peUxoZ1lod3laTXRQWGJRTV84ZzA5SkIySDd1LW5Ma1dabzJIZnE4c3I3YmtaMEpvVW5XbzFQai1n?oc=5",
+          "published": "2026-10-10T13:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.706,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Electricity bills too high? Marcos says Filipinos are warming up to nuclear power",
+          "publisher": "Politiko.com.ph",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQW1GVXBFdUtfazZqb1VvcFVRMjY5aUdjZFFVQ29obHRrOXh6cnFfbFBVR0Y5MWgybWoyd3VJOFBHRHAzalNLVldZaGRFbFZTc1ZJdW81T0VrMGh6ZTRya1JSTmtia2ZSQ0hqM3JOWEpjNVpfV211UGd1Zmt6cmdsMHE4Yml3bkphZU9WWEt1cTlrZFBfaEo2alM0N19wMTU0R2ZwVEFJVlI?oc=5",
+          "published": "2026-10-10T12:46:43+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.697,
+      "id": 11
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[2026 한-미 전력망 뉴욕포럼] K-에너지 쇼케이스…‘바다 위 데이터센터·원전 유지보수·정비 역량’ 美 조준",
+          "publisher": "Naver Blog",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeUsyOWI2NU5uUDhHODBGRXR6Z3pvYTZ3c00xQW1zbnI0QmRmZThKMDFsajZQajRUeFRONWFRaTU5ZjlnMjRHMVktYURISUJrSDFvaFgzWTRuNVFwQlFwbUJoV2NnSEVpdFRROFhnZU9qdHRPcmZLb0J1VmF3M3luLWxIMlZQdG5TT3lmY3dnWQ?oc=5",
+          "published": "2026-10-10T12:30:27+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.685,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Arbitration favors Rosatom in €7B Finnish nuclear project canceled after Ukraine war",
+          "publisher": "Türkiye Today",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa2s0LTk5ZHZFenRVV2dzUzROWmVobWw0R0V4SmtXWEtjWm9fdU5JbUI5S1dyeEFYalFoeWUwN1pFbmRiNU1CdHFoeW1sYWZHU0p6QzFGVWhiQkptczhlSVJkYkh3cXg1dnh2MUJ0ZUJhWm1YR0pyclIzbnNjSHhBWU54WTVRYUNmTHFLUl9rQ3hPNHZuUWo5d2FwYzhINDV1cWhIWTdkb185MjgxMVZaNTdoLU1jQzY2M3RvMXZJeWw0dVBzZ0J2SA?oc=5",
+          "published": "2026-10-10T12:01:41+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.665,
+      "id": 13
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "현대건설, 유럽 원전사업 확대 가속화",
+          "publisher": "칸(KHARN)",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuT242XzdTRWFJVkVDNVBNSE8yelBWOTA4cXVDdEVsRjZDeGUxOGVua0J3cmtvTkJCVEdaeENwcVcyczlaVVl4V2tkclZoVEZBYTNFcUVB?oc=5",
+          "published": "2026-10-10T11:58:36+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.663,
+      "id": 14
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "숫자 표시의 단위를 읽는 바라카 원전 적자 화면 가이드",
+          "publisher": "Calgary Roughnecks",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LZWZCTXZ5MUg4MExmSzU3M3BYYkRBTnlMM0dUb0V6dDFzVFFlV3ZVcFVJMm1zeEYtTTNmSzBJT3M2Z3RBUDI1dXF5ZHVTbG5VSFNZMWM0ZUpyY3FRcTZlZm5yVTZFX1BWLTlxLW5aMll2MTRVX2ZBR2RR?oc=5",
+          "published": "2026-10-10T11:32:49+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.645,
+      "id": 15
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Westinghouse and University of South Carolina sign workforce agreement to train nuclear plant operators and engineers for U.S. AP1000 fleet deployment",
+          "publisher": "Energies Media",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iVzU0R1JFV0tZemtyVFM5eWswaVJCQzk3WlZ6ZUR5bl9ENFlFNUZMTmo5VENXeGZJWnNaeW1ldHNENWt3UF9nQlc0UVdfZFVIT081aVRaZ3FWVkdmQ090T3dEaFZ5d1lkSS1tRHB2cm5JbkpMRmxlYkRB?oc=5",
+          "published": "2026-10-10T11:22:23+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.638,
+      "id": 16
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Holtec applies in the US for construction permits for two of its modular reactors",
+          "publisher": "oEnergetice.cz",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbG9Lalg0UkwxTUUxekdZcDFSYUQ3aDlSMWtiMGdOZVhtLVB5czI3bFVMbHQ1VG9TNGd3dTFpS1MzckZGUGt1NTdkb1g3UU81c0pyejQwbVpwLUxxNGhxMnh0NnBrdlE0bUJoc1o4SnlPUkZBcDMwR2VaUHhlTGlvd3pBMHI3MVZ6M2RCOHFZQnRqR1RwcGRMb1RERXZ4MjNQc28xZERSX2R3UU51aEwtQ1g2ZC1ETGdRb1BleXJB?oc=5",
+          "published": "2026-10-10T11:19:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.636,
+      "id": 17
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "A 19,000-ton Russian nuclear power plant with no engine now has both of its 58-megawatt reactors built, and tugboats will haul it to a copper mine across the Bering Strait from Alaska, where reactor heat piped into its ballast tanks will keep the sea ice off its hu",
+          "publisher": "Autonocion.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdVQwZzA2NHoxSnpudktHek1aandsNGtiY2ZGOUJPZHU1S05KNG5COW9rWC1Xc1h6RFdwazNjZk5Nei1WdjJjMEV6LS1BMXlYRnF5b09xVTRUWUhUVDNiMFJiblU3TndrOTZucElfYUtyaDN1NHFJeGxuU3FheUlpYXF0QQ?oc=5",
+          "published": "2026-10-10T10:30:57+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.602,
+      "id": 18
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "(영상해설) 2026~2035 미국의 SMR, MRR의 핵연료를 위한 농축우라늄 확보진행 상황",
+          "publisher": "네이버 프리미엄콘텐츠",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcnREUFBPZ095RGIxTFVwV3p1dS0tNWJaTWNzRHB1MFBYbFU4UjFqbVZ4THRjaklQb3hsZFRSUWJOSUtrY1I2YWZ0QUZKXzNQcGFMNWl1eVFsc0ZsVWFXM1N6a0p5U2FaZFVaT2trNVhuTkNybjVhbnBJWTBSVUpRLURIWQ?oc=5",
+          "published": "2026-10-10T09:18:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.552,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "방글라데시 원자력 발전소는 언제 국가 전력망에 연결될 예정인가요?",
+          "publisher": "Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORUhhUHRDenFyN1RTdm5MSkpBMm5KOUxWYm91bHNhMEpVV1g2V0R1TVhVYk5EZXlpeW5NUmVNLWJ5VEcxV0J1N0Z6Ql9Ma3RfdEEtMXUzWk9yNHJDMFNwdlA3NTlTb2l0Nzc5eHZvNk9QRF8wa29ZejdJSWt6cFIwZG13WHZ0WWRxbi15SVY2bTJLeWhoX2NRR1lONXdyMldU?oc=5",
+          "published": "2026-10-10T08:13:18+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.507,
+      "id": 20
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "\"원전 돌릴 사람이 없다\"…'원전 부활' 선언한 일본, 인력난에 연합군 띄웠다",
+          "publisher": "CBC뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oQVEwLVBZS25lUF9UYk5vZ19FQmVRdTQ1OEs1WXNRVXloQW9ZekRIamtFRm5GZkR4V0ZWaUoweUg5ZFdzNlZzM0czUzJBSENNYlVNT3preWFUXy1LSkx5bUJkOHotSzF2?oc=5",
+          "published": "2026-10-10T07:42:17+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.485,
+      "id": 21
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한국수력원자력 '아시아 최초 국민참여형 액티비티 시스템 국제인증' 획득",
+          "publisher": "전국구직노조신문",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oT3drTElncWVfMTJUT3c5YmhpSkhOOURZRXZuSG1aYk5WS2JNMzc5NHhzTElmbkVybHNlV3IxbWhXYlM1UzREak9UMXhzRkp0aU8wWVZuMS1xUlR5dHczSFZvMkI3TjQ?oc=5",
+          "published": "2026-10-10T06:15:11+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.425,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "임계 열흘 만에 전력망 뚫은 중국 톈완 7호기… 원전 수출 시운전 시계 빨라진다",
+          "publisher": "글로벌이코노믹",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUGRwMzdKbVdCLUJjZEtBWUU3RXNKV1NReDVJZk1jcnJONkVIYk81NVdpVmF2amtyWnFIM2FVb1k4bUhTRGltd18yZ01YRVJJRjg0RkloYzFJQjk3ckdUOFJUR00zSERwV0dpSE1LcjlkQUl5SFBWNFFVSzc5aHI1Vi1VeHNfNzVK?oc=5",
+          "published": "2026-10-10T05:15:36+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.383,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "신한울원전건설노동자가 하이닉스건설노동자보다 급료가 적다",
+          "publisher": "전국구직노조신문",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBQ0pHcFAwV1U4ZVJDTDM2aTB1NFdaZ25pX296UTBIQThhVHFhRzVqTHB2NHdMZVV1XzNKTFNyNVlaVGRGN2c1aVNhdnA2TzJkT0xFeHlFSFBYbm1EdEUzZkhGMGE4WU0?oc=5",
+          "published": "2026-10-10T04:00:36+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.331,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원전 공기 지연 덫 피하려… 폴란드, 본계약 전 대형 기자재부터 먼저 묶었다",
+          "publisher": "글로벌이코노믹",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQckN3bkpJN0gxc1RSMVNZdTJsdXoxTUh1aE5vTHRjUWR3UEFwZkxfSy1udDFXdDlLbVNRQzZtRV9teUlOOHhpaTlTZE1iaUI1eHpibWZ1dUV0UHAxUkR1d1k5d3hBUjVCWE1VaDFxeXRrYWduNkhuTzAxcTJTbDhFWFdqdTR5cWdK?oc=5",
+          "published": "2026-10-10T03:33:32+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.312,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한울원자력본부, 한울원전 4호기 49일 만에 발전 재개",
+          "publisher": "경북도민일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2d2Zsd3YzWGlYYXVDM0UwRjZrVVFwS241Y25fb1Bfcy1Ba0FRVE1LUExUNVlyRjlyM3NaUklQOXl4MHNLejNocm9OdTVjc3BlZjlBZ0ZyY2R5V3hfck96MEJqdkZ6aTlkVlE?oc=5",
+          "published": "2026-10-10T03:08:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.295,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "라마스와미표 원전 스타트업, 몸값 19억 달러 '대박'… \"우라늄 농축 없이 승부\"",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LaHZqYXJBOWJNVVdlNk9NTFZySUVRdEdrbEt2Y3dIVlBmR0UxblBEWDhzVE9hdEFSTi1GUVEtb011WWZzcEVQWXl4QXdwcDJVeFJRUmM2MXFKMkJFbFR3TkYxWTk?oc=5",
+          "published": "2026-10-10T02:36:32+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.273,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "“탈원전 39년” 이탈리아, 원전 재도입법 제정…멜로니 정부 ‘SMR 승부수’",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10cWlabkdwRHJrQW9QQjV2YWlyeXh5SUkxQ3UtMlVZNFNyWGdYVHkyTXgtdnQwZEVoYkJQcDBPSVZpQXA3NTJiZTFrUWlDRW9kNjRHNEllWHEzUjNobmJnempYb1U?oc=5",
+          "published": "2026-10-10T02:03:04+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.25,
+      "id": 28
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "현대건설 참여 텍사스 대형 원전 4기, 美 인허가 첫 관문 넘었다",
+          "publisher": "한국신용신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SVExWbVhwMmJmOXBPNjB2d1VicVVnNXpfbU9xME9FWkxMZHZncTZ0UEJmWm9vWTVjbHdGdGtCTDQ1dlNTUGl1bVBmLXFqSy1ab2xJdlBzUWV2X3ZUSHBzWUhxb2RyR2EyUlBR?oc=5",
+          "published": "2026-10-10T01:42:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.235,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 53,
+      "kept": 27
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 9,
+      "kept": 0
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 47,
+      "kept": 43
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 47,
+      "kept": 0
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    }
+  }
+}

@@ -1,0 +1,995 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-29T23:04:09+00:00",
+  "engine": {
+    "engine": "claude-code-session",
+    "briefed_at": "2026-10-04T20:46:18+00:00"
+  },
+  "overview": "해외에서는 중국 톈완 7호기가 저출력 시험 단계에 들어섰고, 네덜란드 보르셀러 원전의 계속운전을 위한 법 개정 소식이 나왔다. 국내에서는 원전 확대의 경제성을 꼼꼼히 따져야 한다는 신중론 기사와 원안위원장의 제철소 고철 방사선 감시 현장 점검이 눈에 띈다. 이날 여러 매체가 전한 TVA 클린치 리버 SMR 건설허가 소식은 10월 1일 브리핑에서 정리했다.",
+  "stories": [
+    {
+      "source_ids": [
+        13
+      ],
+      "region": "해외",
+      "category": "원전 운영·건설",
+      "importance": 2,
+      "headline": "네덜란드 보르셀러 원전, 법 개정으로 계속운전 길 열려",
+      "summary": "보르셀러(Borssele) 원전의 계속운전을 가능하게 하는 법 개정이 이뤄졌다고 World Nuclear News가 보도했다. 제목 기준으로는 법에 정해진 조건 때문에 막혀 있던 장기 운전의 길을 입법으로 연 것으로 보인다. 개정 이후의 규제 심사 절차나 운전 연장 기간은 제목만으로는 알 수 없다.",
+      "background": "원전에는 설계 단계에서 정한 설계수명이 있지만, 이 기간이 지나도 안전성이 확인되면 더 운전할 수 있다. 이를 우리나라는 계속운전, 미국은 운전허가 갱신이라고 부른다. 계속운전 심사의 핵심은 원자로용기, 증기발생기, 케이블, 콘크리트 구조물처럼 오래 쓰거나 교체가 어려운 기기의 경년열화(시간이 지나며 성능이 떨어지는 현상)를 어떻게 관리하는지다. 대표적으로 원자로용기 강재는 중성자를 오래 맞으면 깨지기 쉬워지므로, 노 안에 넣어 둔 감시시편을 꺼내 시험하며 변화를 추적한다. 많은 나라는 대략 10년 주기의 주기적안전성평가(PSR)로 최신 기술기준과 비교해 안전성을 다시 점검한다.",
+      "why_it_matters": "계속운전은 새 원전을 짓는 것보다 적은 비용으로 저탄소 전력을 확보하는 방법으로 여러 나라에서 검토된다. 다만 법이 운전 기한이나 조건을 직접 정해 둔 경우에는 기술적으로 안전성이 확인되더라도 법 개정이 먼저 필요하므로, 이번 사례는 제도와 기술 심사가 맞물리는 과정을 보여 준다. 공학적으로는 원자로용기 조사취화, 1차계통 배관의 피로와 응력부식균열, 케이블 절연 열화처럼 수십 년 동안 누적되는 열화 기구를 정량적으로 평가하는 능력이 요구된다. 국내에서도 설계수명에 이른 원전의 계속운전이 중요한 정책 쟁점이어서 해외 제도와 비교해 볼 만하다. 앞으로는 법 개정 뒤 규제기관의 기술 심사 결과와 요구되는 설비 개선 범위가 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "계속운전",
+          "explain": "설계수명이 지난 원전을 안전성 평가와 규제기관 승인을 거쳐 일정 기간 더 운전하는 것이다. 경년열화 관리와 최신 기술기준 반영 여부를 함께 심사한다."
+        },
+        {
+          "term": "경년열화",
+          "explain": "기기와 구조물이 오랜 기간 열, 압력, 방사선, 부식 환경에 놓이면서 재료 성질과 성능이 서서히 나빠지는 현상이다."
+        },
+        {
+          "term": "조사취화",
+          "explain": "원자로용기 강재가 고속중성자를 오래 맞아 단단해지고 깨지기 쉬워지는 현상이다. 연성에서 취성으로 바뀌는 천이온도가 올라가 가압열충격 평가가 중요해진다."
+        }
+      ],
+      "question": "원자로용기처럼 사실상 교체할 수 없는 기기가 계속운전 기간의 한계를 정한다면, 운전 기간을 늘리기 위해 운영 측면에서 쓸 수 있는 방법(예: 저누설 노심 장전, 열처리 회복)에는 무엇이 있고 각각의 득실은 무엇이라고 보는가?",
+      "study": [
+        "계속운전 제도",
+        "경년열화 관리",
+        "원자로용기 조사취화",
+        "가압열충격(PTS)"
+      ],
+      "reference_ids": [
+        "wna-library",
+        "nrc-factsheets",
+        "iaea-pris"
+      ]
+    },
+    {
+      "source_ids": [
+        18,
+        24
+      ],
+      "region": "국내",
+      "category": "정책·산업·수출",
+      "importance": 2,
+      "headline": "원전 확대론에 맞서 경제성부터 따져 보자는 신중론 잇따라",
+      "summary": "전력 수요가 빠르게 늘어나는 상황에서 원전이 해답이 될 수 있는지 묻고, 경제성을 꼼꼼히 검토해야 한다는 의견을 다룬 기사가 경향신문 등에 실렸다. 한겨레 등도 원전이 가장 싼 전력원이라는 통념에 의문을 던지며 건설에 신중해야 한다는 주장을 소개했다. 제목 기준으로는 원전 확대 정책의 비용 근거를 둘러싼 논쟁으로 보인다.",
+      "background": "발전원의 비용을 비교할 때 흔히 쓰는 지표는 균등화발전원가(LCOE)로, 건설비, 연료비, 운영유지비, 해체비 등 수명 동안의 총비용을 현재가치로 바꿔 총발전량으로 나눈 값이다. 원전은 건설비 비중이 크고 연료비 비중이 작은 자본집약형 설비라서, 건설 기간과 할인율에 따라 LCOE가 크게 달라진다. 설비이용률이 높을수록 고정비를 더 많은 전력량에 나눌 수 있어 단가가 낮아진다. 또 사용후핵연료 관리, 해체 충당금, 송전망 보강, 사고 위험 비용을 어디까지 포함하느냐에 따라 비교 결과가 달라진다.",
+      "why_it_matters": "같은 원전이라도 할인율을 몇 퍼센트로 가정하느냐에 따라 경제성 결론이 뒤바뀔 수 있어, 비용 비교는 숫자보다 가정을 먼저 읽어야 한다. 공학도가 직접 기여할 수 있는 부분은 건설 기간 단축, 모듈화, 표준 설계 반복 건설처럼 자본비와 공기를 줄이는 기술이다. 운전 단계에서는 계획예방정비 기간 단축과 연료 주기 연장으로 이용률을 높이는 것이 발전 단가에 직접 영향을 준다. 재생에너지와 비교할 때는 발전원 자체의 단가뿐 아니라 저장장치와 송전망 보강 같은 계통 통합 비용까지 함께 보는 시각이 필요하다. 앞으로는 전력수급 계획에서 원전 비중을 정할 때 어떤 비용 가정을 쓰는지가 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "균등화발전원가(LCOE)",
+          "explain": "발전소 수명 동안 드는 모든 비용의 현재가치를 총발전량의 현재가치로 나눈 값이다. 서로 다른 발전원의 단위 전력량당 비용을 비교할 때 쓴다."
+        },
+        {
+          "term": "할인율",
+          "explain": "미래의 돈을 현재 가치로 바꿀 때 쓰는 비율이다. 초기 투자가 큰 설비일수록 할인율 변화에 비용이 민감하게 반응한다."
+        },
+        {
+          "term": "설비이용률",
+          "explain": "일정 기간 실제 발전량을 같은 기간 정격출력으로 계속 운전했을 때의 발전량으로 나눈 비율이다. 높을수록 고정비가 더 많은 전력량에 나뉜다."
+        }
+      ],
+      "question": "할인율이 낮은 값에서 높은 값으로 오르면 건설비 비중이 큰 원전과 연료비 비중이 큰 가스발전 가운데 어느 쪽의 LCOE가 더 크게 오를까? 그 이유를 비용이 발생하는 시점의 분포로 설명해 보라.",
+      "study": [
+        "균등화발전원가(LCOE)",
+        "할인율과 현재가치",
+        "설비이용률",
+        "계통 통합 비용"
+      ],
+      "reference_ids": [
+        "oecd-nea",
+        "wna-library"
+      ]
+    },
+    {
+      "source_ids": [
+        10
+      ],
+      "region": "해외",
+      "category": "원전 운영·건설",
+      "importance": 2,
+      "headline": "중국 톈완 7호기, 최소 제어 가능 출력에 올라 저출력 시험 단계로",
+      "summary": "톈완(Tianwan) 원전 7호기가 최소 제어 가능 출력 수준에 도달했다고 World Nuclear News가 전했다. 제목 기준으로는 원자로를 처음 임계에 올린 뒤 저출력 시험 단계에 들어선 것으로 보인다.",
+      "background": "새 원전은 연료를 장전한 뒤 곧바로 전출력 운전에 들어가지 않고 단계적인 시운전 시험을 거친다. 먼저 제어봉을 조금씩 빼거나 냉각재의 붕소 농도를 낮춰 노심을 처음으로 임계 상태(중성자 수가 일정하게 유지되는 상태)에 이르게 한다. 그다음 출력을 정격의 아주 작은 비율로 유지하면서, 계측기로 중성자 선속을 안정적으로 읽고 제어할 수 있는 가장 낮은 출력 수준을 확인한다. 이 저출력 구간에서 제어봉 제어능, 반응도 계수, 임계 붕소 농도 등을 측정해 설계 계산값과 비교한다. 이후 출력을 단계적으로 올리며 계통 연결과 출력상승 시험을 진행한다.",
+      "why_it_matters": "저출력 물리시험은 노심 설계 코드가 실제 노심을 얼마나 잘 예측하는지 처음으로 확인하는 자리다. 측정한 임계 붕소 농도나 제어봉 제어능이 예측값과 허용 범위 안에서 맞아야 이후 출력 운전에서 안전 여유를 믿을 수 있다. 특히 감속재 온도계수가 음의 값인지 확인하는 일은 출력이 오를 때 반응도가 스스로 줄어드는 고유 안전성과 바로 이어진다. 이 단계에서는 핵분열로 생기는 열이 매우 적어 열수력보다 노물리 측정이 중심이 되므로, 원자로물리 수업 내용이 현장에서 그대로 쓰이는 대표적인 사례다. 앞으로는 계통 연결과 출력상승 시험을 거쳐 상업운전에 이르는 과정이 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "임계",
+          "explain": "핵분열로 생기는 중성자 수가 세대마다 일정하게 유지되는 상태로, 유효증배계수가 1인 상태다. 1보다 크면 초임계, 작으면 미임계다."
+        },
+        {
+          "term": "최소 제어 가능 출력",
+          "explain": "계측기로 중성자 선속을 안정적으로 측정하고 제어할 수 있는 가장 낮은 출력 수준이다. 저출력 물리시험은 이 근처의 낮은 출력에서 수행한다."
+        },
+        {
+          "term": "감속재 온도계수",
+          "explain": "감속재 온도가 1도 오를 때 반응도가 얼마나 변하는지를 나타낸다. 음의 값이면 출력이 오를 때 반응도가 줄어 출력 상승을 스스로 억제한다."
+        }
+      ],
+      "question": "저출력 물리시험에서 측정한 임계 붕소 농도가 설계 예측값보다 꽤 높게 나왔다면, 연료 농축도 차이, 노심 장전 오류, 계산 모델의 단면적 오차 가운데 무엇을 의심해 볼 수 있고 각각을 어떤 추가 측정으로 구별하겠는가?",
+      "study": [
+        "유효증배계수",
+        "점동특성 방정식",
+        "저출력 물리시험",
+        "감속재 온도계수"
+      ],
+      "reference_ids": [
+        "iaea-pris",
+        "nuclear-db"
+      ]
+    },
+    {
+      "source_ids": [
+        21
+      ],
+      "region": "국내",
+      "category": "안전·규제",
+      "importance": 1,
+      "headline": "원안위원장, 제철소 재활용 고철 방사선 감시 현장 점검",
+      "summary": "원자력안전위원회 위원장이 현대제철 인천공장을 찾아 재활용 고철에 대한 방사선 검사 현장을 점검했다고 뉴시스 등이 보도했다. 제목 기준으로는 제철 원료로 쓰이는 고철에 방사성 물질이 섞여 들어오지 않는지 확인하는 감시 체계를 살펴본 것으로 보인다.",
+      "background": "고철에는 버려진 산업용이나 의료용 방사선원, 또는 방사성 물질에 오염된 금속이 섞여 들어올 수 있다. 이런 물질이 걸러지지 않고 전기로에서 녹으면 방사성 물질이 제품, 슬래그, 분진으로 퍼져 작업자 피폭과 큰 제염 비용을 일으킬 수 있다. 그래서 제철소는 고철 반입 입구에 차량이 통과하는 대형 방사선 감시기를 두고 감마선 계수율이 배경준위보다 높아지는지 확인한다. 이상 신호가 나오면 휴대용 측정기로 위치를 찾고 핵종을 분석한 뒤 규제 절차에 따라 격리하고 처리한다. 관리 주체를 잃은 방사선원을 흔히 고아선원이라고 부른다.",
+      "why_it_matters": "고철 감시는 원전 밖에서 일반 시민과 산업 현장을 방사선으로부터 지키는 대표적인 방사선 안전 분야다. 감시기 설계에서는 차량이 지나가는 짧은 시간 동안 낮은 선량을 잡아내야 하므로 검출 효율, 배경 변동, 오경보율 사이의 균형이 중요하다. 고철 더미 자체가 감마선을 가리는 차폐체 역할을 해서, 안쪽 깊이 묻힌 선원은 신호가 크게 줄어든다는 점도 공학적 난제다. 이 때문에 검출기 배치, 계수 시간, 경보 문턱값은 계수 통계와 검출 한계 개념을 바탕으로 정한다. 원전 해체에서 나오는 금속을 재활용할 때의 자체처분 기준과도 맞닿아 있어 함께 살펴볼 만하다.",
+      "concepts": [
+        {
+          "term": "고아선원",
+          "explain": "분실, 도난, 무단 폐기 등으로 관리 주체의 통제를 벗어난 방사선원이다. 고철에 섞여 재활용 공정으로 들어가면 오염 사고로 이어질 수 있다."
+        },
+        {
+          "term": "검출 한계(MDA)",
+          "explain": "주어진 계수 시간과 배경 조건에서 통계적으로 믿을 만하게 검출할 수 있는 최소 방사능이다. 계수 시간이 짧거나 배경이 높으면 커진다."
+        },
+        {
+          "term": "자체처분",
+          "explain": "방사능 농도가 정해진 기준 이하인 폐기물을 규제 대상에서 풀어 일반 폐기물로 처리하거나 재활용하는 제도다."
+        }
+      ],
+      "question": "고철 트럭이 감시기를 지나는 속도와 고철의 밀도에 따라 검출 성능이 달라진다. 오경보를 줄이면서도 고철 속에 차폐된 선원을 놓치지 않으려면 경보 문턱값, 통과 속도, 검출기 배치를 어떻게 정하겠는가?",
+      "study": [
+        "감마선 검출기(NaI, 플라스틱 섬광체)",
+        "계수 통계와 검출 한계",
+        "감마선 감쇠와 차폐",
+        "고아선원"
+      ],
+      "reference_ids": [
+        "nssc",
+        "kins",
+        "nuclear-db"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "TVA receives construction permit for Clinch River",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-09-29/article-8445/tva-receives-construction-permit-for-clinch-river/",
+          "published": "2026-09-29T20:32:43+00:00",
+          "feed": "ans",
+          "region": "해외"
+        },
+        {
+          "title": "TVA First U.S. Utility to Receive Construction Permit for BWRX-300 Advanced Nuclear Reactor",
+          "publisher": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQb1NWVFlST0RsREtSZUdTV2Z0SUM5aWdtV3k0THVCeGxKZF94MVJDMDZvWXNaTVpHTmNVaVNoODlLdDAyRTJ6RV9YT29vRGoxLWJVTzJUSFpkU2N0M3o5b1BpUlJ4ZThaeWJWOFJkTUFEMVBoQ0xTakRLWFB1V1piaG9ucjJvOHB5QnJXSk5pd2owZGNKTXFxRlpzdkhGZkRWUHRoeUN0a0hGSWZoUm5Jel9KOTNXQjdCX1hXME05ZUR0bmNCVE4tSS1oc2VnZVpfblhKa1lnUjZvY2dVa3c?oc=5",
+          "published": "2026-09-29T18:34:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "RELEASE: The NRC Approves Construction Permit for TVA’s Clinch River Small Modular Reactor",
+          "publisher": "The Breakthrough Institute",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSEVKa0ZEUVZ1a0RLYS02MUllb3o0SVY0QkQyM0NzUkgzM1pseEFqQTZELXIxYUo1Z0VWUzRxTFFyUFFacnF6ZFNqcWpkNlpBSlozSEZaMkVvNlltcXlONU5LOHZZaDBmQ1NIQ2NKbzlnWGV3MXBMb2l6bWRvdk9KR2xZT05KTUg0aG90RW5rNnNGUnUwZjU2bzJFemI4bUJaRk15bjVpVU1UY3JBSWJvLTN3Vzh6VHdYRXZzNEhIRQ?oc=5",
+          "published": "2026-09-29T19:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 4.895,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "영덕군 신규 원전 명칭 후보에 ‘새빛·해누리’ 최종 선정",
+          "publisher": "스트레이트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yOUZzRnF1d21zamZNc3FvUTNrNmMtSHM1OTF0eUFkVldyNnltM29jU054SDlTR1FxaUM1NmdwNEE2cWlqU2tfbTJQaDFHdGpIcldBZXBlbkxHTU5PUzRORUY1V1lqbVI4bi1mS09FNG54UlhuUlNJ0gF3QVVfeXFMTzI5RnNGcXV3bXNqZk1zcW9RM2s2Yy1IczU5MXR5QWRWV3I2eW0zb2NTTnhIOVNHUXFpQzU2Z3A0QTZxaWpTa19tMlBoMUd0akhyV0FlcGVuTEdNTk9TNE5FRjVXWWptUjhuLWZLT0U0bnhSWG5SU0k?oc=5",
+          "published": "2026-09-28T23:27:40+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "[영덕소식] 신규 원전 명칭 후보로 '새빛'·'해누리' 선정",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tb2w0TW1JVzcwVURlaTh4UnpSVzludjZVZ0NVZTlPRFQ4T2xhUEoyMFZQUnQybFJYNml5QXZsWFBMa1BrMlc1ck9qQjhLWU1weThvMm5oYW1KbnfSAWBBVV95cUxOOG5KWWxtQ2VmbW5vYnUzOG9ZY0tySmVEaXRET1ZDXzZKbjFEQmtoREtGOE9vbkttbGpmOFpxaHRFbW91TzhqclM0RVVRTkJwVFBQbklRbVZDYjQyRndaS2c?oc=5",
+          "published": "2026-09-29T07:42:12+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "‘새빛·해누리’···영덕군, 신규 원전 명칭 공모 최종 후보 선정",
+          "publisher": "cnbnews.com",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UX3ZER0swQ21OdEZxRy1oU256OWJMekUyWnlDbi1IVVJsRXdTRllOWVM0T2xGWWlDbm56MGVNV0U5d0Vyc2hDUDZHSFFEVGpkR0VhelBnQm1Pekp5OXIxR0xiYTJwZC1sNWtn?oc=5",
+          "published": "2026-09-29T11:22:01+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "영덕군, 신규원전 명칭 공모...'새빛'·'해누리' 선정",
+          "publisher": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZSTVWZ2VZMHFoMUNzYTBWMkF4dG82SnowZmhMSUxVS0tSZnlkekt3RzV2bERvY2lqa1pQaGZJOGFRMG5vcUI1WG9PUW00SEdQcmdYODd0OUNuYWpl?oc=5",
+          "published": "2026-09-29T22:37:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.981,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "US Regulator To Approve Construction Of Small Modular Reactor At Clinch River",
+          "publisher": "NucNet",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVlZrV0J1MDU4RzgzazlRaGE2eTgzOXktbmxjbFJ2ZnZ0UHE2Q20zT0x5RXk5RURBOVg0WXRtcTZ6T0FSNlZxTk1RRXhwLUMyb3lxc1c5cXZ0TjhOSDNBTDRhS2VQSWlscjlDelhpNnBKYnBsNmg5ajh5OHNzeDJ1OWh4dEJYUlZYZU8yeVpDMmlhdUdKTDJyajNweFoxVkFCeGNFSE9CWkhlclhNUVM4VGF3?oc=5",
+          "published": "2026-09-29T15:08:28+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "US NRC approves construction of nation's first small modular nuclear reactor",
+          "publisher": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOS2NJZktHMkwwNjBxYkVrbG1oclhWWS1sbXo0NkQ0VlhrRlpNTFZtWktibDdyYzluaE9oN0ltaERNaFRLUzE3U2o0b1JSY2pJMGQwd1Myd2tyOVNfLTNNbTliSTdIWC1ObnMwMFRWMkhwTngzLS0tZF9DcllNWnQzSGtvYzNhT29uQUdXa0k4aEV4WTFqZjJGbFlzT3pwLThRZ0h6S2N5UDFiRW1tNDNmSUJaWjJ1enpUTC1QZGNqdFItZ0VESF80SlpXMTJwbkI3SXkyTkJ5ZnZ0S1Q2UjZV?oc=5",
+          "published": "2026-09-29T17:50:31+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "US approves first small modular nuclear reactor construction permit",
+          "publisher": "washingtonexaminer.com",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRFRPaEtva05KaVRzdG9oa0szN1BmMUxSTnFCRUZ5WlNacVFKS3ZUdklfQ2FwU21wMmt6REtOMzdVeUUzMGt2WFM4OXkzLS1QZi1YbmdHOFdPbU1HUjRCNlRidmdOV2VjVTMwNklWRFltdW5CQ01wUmJ3R2NUVU9WbFVtQ2tnN1dNOGtXTFpGcVMzWUItTVJTcVVzTjNGOWk3X1BfeUhJLXhYQ1FIUG01V29nWWNiTEZTMGdEM09MYzJKd1pmZlhUUVR2YVZJWnlGUFE?oc=5",
+          "published": "2026-09-29T20:13:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "US NRC approves construction of nation's first small modular nuclear reactor",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObUNDek1mWS1CaWZkc2FkdC1LUnRBMGoyclZzanBQbFJ2STYzWEZtV3pkY1NFeGE1VDQ3VzhsRkhqRlVhZW9tYTBRSTF0WjRFc0JnZDZ4S3VhX2VkUWNDN05Udm9hWWtPS1huWnV1RW42M01YWEVhTW5hVl9RSEV5TmZiQ1BIUFJadjVwNWV3NURuYkxLYUJMTUREME8wSWFXVEFiV01XUllYSDlVRnQ3SEdwNUxkZ1EtT2xEeGNGZXNPUQ?oc=5",
+          "published": "2026-09-29T22:03:43+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.958,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Saskatchewan government to confirm nuclear reactor plan",
+          "publisher": "980 CJME",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVTMxZkxzaGppWFRPYXozaWFqRmVsVjVlM2JCMTlJcG1kMTMybVpucDdTX0dpdWlPV0NRMHJ0YTZuNklCWVdld1hHVHJReXdTRkpGX0lyamhpZzlOaUhYQ1FqRFlELXJzMEQ0TEZ5UThzRzliV2VDMDRuTGVZVl9oajRYQmZ1Z1BLcF9nUE94ZVJWZw?oc=5",
+          "published": "2026-09-29T11:58:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Saskatchewan premier to announce nuclear reactor plan",
+          "publisher": "BNN Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa1FMd0lPVURGOVpyMHRwWC11d1dydERxX3l3d2dyRGd1OVFmM1FaYUh4Tk9zVlBYYVVtYTNmMDZnaDRBdUtqV1hEb2U0S2dsNUtjNmFreE1kWnBXOE5zZVkwX3U1cTdCakFEYTg1d0FBcWxXT241bGkxUU9xclNLX2plV0hKRkxxeUJGbkhpMjIwQ2lXRHpSdHEwUkk2SXhmVVkzQjhGdk80M0hYZTNaRWdR?oc=5",
+          "published": "2026-09-29T19:06:51+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Saskatchewan premier to announce nuclear reactor plan",
+          "publisher": "guelph.ctvnews.ca",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTmNiYzJTNW9qODdzT2xDeFNGMkR6Rk11T013VTBhZ19kbjZfdTVDR3Y2RnVZbzNxYjJsSG96a3VpQTFzek8wMGlqZmJ2TkpnUGQ4SFByZE0tRFVhbUNWVEt5ZzRpc1dDMkxSVUl1aVJKOHRmUEluOHpqQXlBNnhsanFCZTVYR3dKSFNjY0ZNdnI4c2dnQTVUX0lOc3ZnZGc?oc=5",
+          "published": "2026-09-29T19:06:51+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "LIVE SOON: Saskatchewan premier to announce nuclear reactor plan",
+          "publisher": "guelph.ctvnews.ca",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZEJnUEFPR0oxNUN0OU1lTHdXOUtpU0UwZlNlb2Q1T3liNjVaYjcydGtCVFlVeHdtVjY5c095V24tSUVKaUNwenNFQmlnQTFZenphTHlCdy0zczJTWDJCR0tTM0Zya1BXT1drZTN4eXFENzEyWWhRcGstUC1sZ2pUNG5Jb2EwNE1ZUGZBdDJ3ZEozdGZYeGgtNVFyQkRSZDJPZVE2UXJsX3hCalBv?oc=5",
+          "published": "2026-09-29T19:06:51+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Saskatchewan unveils plan for two nuclear reactors in the northwest",
+          "publisher": "980 CJME",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLW8zTmo2bmpGc1VwS3FEaGcwYy1zeDFwU0dybWo3cWh2TFBUazBGTnF5dnRmRTlDbFNka1NxRmxuTG5YUWpvRW91MjA3elpBX2lJdlhJcHJESVB6NEVFdkMzYWFrUXAyc3ZlZVdDMEZ3WXhIeHlyaHNGcHB1VEtoVzNWOGV5SWdBSk91cndjeVBaRndUU3Z2TG9IX0JzZlpYWWEyRFplN0U?oc=5",
+          "published": "2026-09-29T19:31:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Saskatchewan unveils plan for two nuclear reactors in the northwest",
+          "publisher": "paNOW",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdHZpTUNzcXRTS2FZTFQtTkJfUDRWYTJPSUFSeGZsNHJyaDFSVE1ZbnE2RDVCM1VMVVVWeTBBM215bWJIcnBBcm8wNG82U3JaM05Rc0VhZFdBM1ZRMzc4V2d2WmVsOWpfc1VnYnU4YnAybEVOdkQ5ZzhDOUN0VlNVRzFhdF9TVm1wQkdyLXI1cjBrbElFLUI0b1FDdkNLQQ?oc=5",
+          "published": "2026-09-29T21:04:49+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Saskatchewan unveils plan for two nuclear reactors in the northwest",
+          "publisher": "saskNOW",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd2lxOFNhMVpjYkFWc2oyRzJCRzUzcFdXZl9UNzkyaUltVWgwLVFRNndIdUk2TUhOa01CejdpTGRqLVFnMXVRcWJUeWp4UGZQb3FPNVo0TUZkdndGSGdZc3g3VnpSZGVUV1JGX05zdmh3andQZHE1QlNZaVpXUUFGOWxuWVFtNXFwRXNBWU01ZVBZWXlwS0JXajFRQ0prV3ZE?oc=5",
+          "published": "2026-09-29T21:41:42+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.943,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "영덕 신규 원전 명칭 ‘새빛’·‘해누리’ 선정…한수원에 후보안 제출",
+          "publisher": "국민일보",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DZmp1X3RrTGJPLUhaODBRVzJlTFotbWtqYmxtSElvX2E4VnlTbjV6MWlVb3lNczd2ZkpIb0N1UTJ1a1hYdjI5T29hN2VNUWV5Ym9jUWR4NllaSnVlV1RtQ1BZdWZJd2vSAWxBVV95cUxOVHlDdlhpSmt6ZjE2bWs3cTJZVkJEUHhhWEl4NjU4Rkh6MkdMeF9pLVZKNnNVaWFMXzhBVjdibkwyUTYyNUxkSDVSdjBwb184TFRPODBub0lxSHRtb3hTd18zaWh4d3R4OVoxWDQ?oc=5",
+          "published": "2026-09-29T02:13:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "영덕 신규 원전 명칭에 '새빛'·'해누리'...한수원에 후보 제출",
+          "publisher": "데일리한국",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mYlN2amlVNUxfWmtTUXpJc3ZsS2NmdnV5YUlvVVl1SGRiVXdHd0xkZWRwNGVuZF9MWVIybWxSN2tVTElYZU5vMWU4SmFyc1NPS2JHVXZhelc3OHJzV21QeHpXanVHaVdFYUs1LUpCdjFmbVXSAXNBVV95cUxPZmJTdmppVTVMX1prU1F6SXN2bEtjZnZ1eWFJb1VZdUhkYlV3R3dMZGVkcDRlbmRfTFlSMm1sUjdrVUxJWGVObzFlOEphcnNTT0tiR1V2YXpXNzhyc1dtUHh6V2p1R2lXRWFLNS1KQnYxZm1V?oc=5",
+          "published": "2026-09-29T02:58:48+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "영덕군 신규 원전 명칭 공모 ‘새빛’·‘해누리’ 최우수·우수 선정… 한수원에 후보안 제출 예정",
+          "publisher": "씨원뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mQlRHQTJaa2p2Q1ZpT2hKbm1aMjBzUVEyZHF4UUEzMFdnazl3M0E4SlJhLWZDRnM3ZVQ4RmlxM0VjS0lfYXBOSkZzS3RpUGp4S2RkSkxfVGw2ak1yMGdNbXdSUXZUaVU?oc=5",
+          "published": "2026-09-29T03:45:45+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "‘새빛’·‘해누리’, 영덕군 신규 원전 명칭 공모 결과…한수원에 후보안 제출 예정",
+          "publisher": "BBS불교방송",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03YzIyR0NBenF5QUl1X3h0N2ZuQ0VabjMwelkwNGtLMmZuTGphdXZDMG1temNmME5EU0I4Zl9iZHd1NTJzSm14V2tXa3F4YUpxMXEzQzlIRVE3dUt0TjJ1T1ZLa0dlYkI2YWRr?oc=5",
+          "published": "2026-09-29T07:34:39+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "영덕 신규 원전 명칭 새빛·해누리 선정…한수원에 후보안 제출",
+          "publisher": "아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YMEFEdFBXbVdBVXJLaERlZmdVVVpTZGtHWmVjeU1xa2lBV2FwbnY5bjhqaU5vMUtyVVhlMEFnd2lwa3ZCcWs4cWlPc2E1MnZyM3RmbWhBQlU3UdIBWEFVX3lxTE9iaWVScnpLT3AtaXBiU2IxNVIwLW83MUludHd6SlhKR1R1YnJCUjNKbFBSTlVBOWJvd0MzYXBvZWhfZDREcW1IVld1LWVqd1EzOUhrMk1DRnc?oc=5",
+          "published": "2026-09-29T20:00:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.872,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "LIVE: Saskatchewan premier reveals details of nuclear reactor plan",
+          "publisher": "BNN Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONVU1WWg5SndLQ1luemJaOV9ISW9KWk4xTzNTVy1KazJzaWVYRXZ4amtUemF6UHk2ZnBMUFdwbkw4VkFiQTQ2TmJzWVJXX2ZLOGRFLVEtWVl5aHhvdmt3Tl9yVDRySnU0aEEzMzFIeEgzQjhvNTg3b1VKSU5wOXJoM0lTbnRUWW12bGR4djg0QXpLNnlET1VDUXJVcG51TGRVb1hfNDVfZ0w5Z05hdXpybTdSQjFjcDQ?oc=5",
+          "published": "2026-09-29T18:46:45+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "LIVE: Saskatchewan premier reveals details of nuclear reactor plan",
+          "publisher": "ctvnews.ca",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMGxqellhR0xTS1FXX2tFSTFYT0dmQzhJOEM2U3dRRy10b2gxaDFNbFdsdURyZ0RJbjllaktIeE5lODh6cnhvM3liYVBndktGTFJLRGRsVHVibGtwcjc4S2dzdHd4YjJKSVFiM2Z1RDlFUWhISDlJUmd6dUJQOGtMMFk2Ni1Ja2pLYU1pLVJhenlUTHktVHhzdHFldm1UNlpUbWVJZEMtUm5JZXFNWFdlNg?oc=5",
+          "published": "2026-09-29T18:46:45+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "LIVE: Saskatchewan premier reveals details of nuclear reactor plan",
+          "publisher": "vancouverisland.ctvnews.ca",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMW4zbXFWRVJhc3JUMktUQlEtRWNZV1F2eXJvS0hwcXNZQ3BoOUxFUDBKN0lfYXo1V3ZDSGxtazBCQmFHX3QzOHhTV2dlSENMMUo1ZUhCQXhrSzRmOThnZHhCMzg1TERadk5HRlJpYUZKSXpfdDZqaUstcndBZE5kX1J6ZXhrTWw1X002OGM0dDIwbC1jd1pURE5BYXczUFlMYnc5Z0U4WjlQMjNCNmpsM0xuRVJRbll6NVBqN1QtNXQ?oc=5",
+          "published": "2026-09-29T18:46:45+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "LIVE: Saskatchewan premier reveals details of nuclear reactor plan",
+          "publisher": "guelph.ctvnews.ca",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLUFNQkk3elRrR2dkajBVVHdhaFRuNXhuS3ViX1pPVFpvcWp2TFhPWlhxdEpwMV9SM0U4NEdhTUUxN0JOQ3VvR1JnbnktOW45ejlYQkhBTVBMUGwtV0UzVTRCLUdac21wUy00Y0N5Y2VpSG1vZGNaQ1VSRkN0MmE4eFJXQkdvazdLT0dDcDZ2czZFdkMyaVd0Y1I0eTVuLU9PRmF3aVdZekhKZjZQeW5OQXBxbHg?oc=5",
+          "published": "2026-09-29T18:46:45+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.821,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "PM Pashinyan, Rosatom boss confer on Russia proposals for construction of new nuclear power unit in Armenia",
+          "publisher": "NEWS.am",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9TS2UwaTVtb3Q1c0xKU0RLa1NIb1l3X1FmcXhqMmZkZUV2Q3Y1MENmR1NRTTJwUkpFRUk5dW5HLWRad25oYkE?oc=5",
+          "published": "2026-09-29T10:43:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Decision on proposals from international partners regarding construction of new nuclear power unit to be made soon: Pashinyan to Likhachev",
+          "publisher": "Aysor.am",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxTENScWNRdlVkTWZVcENnQXREdk5JbVJjbGpncDY4S1djeXNDUlFLdmZuby1iNkJzZFhJNVVrTTlkMzl0QjBGVVJfTE81cFVfell6R0xCMG44cVBQVGZRc0pjUDBDdXpj?oc=5",
+          "published": "2026-09-29T11:14:42+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "EU, Asian companies may also participate in construction of Armenia’s new nuclear power unit, Russia’s Rosatom director general says",
+          "publisher": "NEWS.am",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9tS3QyUUhpNlkxRG92THBQWW90YzRlUUl0RWZsRHBuV29HNkVkczBsMFRDSEhEaHZTdzdNWmtZYjdTTHZaelE?oc=5",
+          "published": "2026-09-29T11:51:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rosatom exploring construction of new nuclear power plants in Iran",
+          "publisher": "ISNA News Agency",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOG5BYVpza1JvU3lRTFRCLWdGTDA3NGNidUgyaHV6akZla2lFZk5iYkF5MDRrcXlLTk1qQ0JWLV9nejhPWnJnWFZGYjU3cGhHbTNyNG03c3JscFNGT1ZpMGNjX3BiaTU5U1RTb3gxcmk4MUh4MGtzUDZZNGQ1YUZ5VktXcVYzTTNLdW5XRk5EdmtLVUkyVXY2SzIwNFMyVkl30gFOQVVfeXFMTjZtMC1TelBUb09uQWNwR3hVLXRRd2R2Q1VqcmtKT2ZWSGVXa0NzRkV5R0hSRGpqaTZtRFFZSnpGTlBiUUVfTDZPaVYteFZR?oc=5",
+          "published": "2026-09-29T17:02:28+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rosatom Proposes New Nuclear Power Unit as Armenia Weighs International Bids",
+          "publisher": "Caspian Post",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZk5RQzY2Y1daTWVhY3JoS1UxZldTWExtcHQ1TmQtdTFGUDZTVG9GbTFqbWFLMkdsQ0FHZmN6QzNjN0ZTbW5tYTFMZzlZd1RQWFZMOFZSeWJZakxMbTlxZmcwaEVfdjZoRzNPVmcycWp3MkRPQ2xtcF9LT293bzB0bHZSaUw3eERzb1RlaTMtTzk5TEhzQmFxODZDSDBKUFV5QXNhd0piTWk0dms?oc=5",
+          "published": "2026-09-29T18:17:12+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.801,
+      "id": 6
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "정우식 원자력연구원장 취임 \"SMR 상용화 충실 수행\"",
+          "publisher": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ENHRsaEVNX3dmbWlrY19RY256SFJzaF9oSXN6d2pvcXJXczhxZVh4M1pMaE55OFJwcjZVX0JhU3VPSFdIUDBOWnc5Q2tfSFNrVW9Ic05OeWE2QQ?oc=5",
+          "published": "2026-09-29T07:51:32+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "정우식 제23대 원자력연구원장 취임…“SMR 상용화·차세대 노형 개발 집중”",
+          "publisher": "산경e뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fZElTYVdNZ1d2dE1Ienp2N0w1U0NKOTBoVzlXMG1OXzNSQWdtLUdFcFg4Z092dlY5UjJBaW0waFZUckQxcGlMU3E5Yjc2dXZzMTd1dzBWWl9YSW9vOVhrcExlY3RYdjg?oc=5",
+          "published": "2026-09-29T07:56:49+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원자력연구원 정우식 원장 취임…\"SMR 상용화 등 충실히 수행\"",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pYUhWOGRqUmtCZ3gxanVDbDRUTVRkQkt6RWp6NWhTS05lejI2ckFMN3VtMVdjQ1MtVlk3TThmOEQwWlh6dTVwMmNxSjRDaXJpQU1GejVaMklCQ2fSAWBBVV95cUxOa2NaWWhHRElxbU5hZDJac2k2MWlDeFdZQmNjXzhpd3NGM3F5cTdVNTRfeHdYcVMyZGpoUUNVc0pCeXRxbmFBcGRWQktfTm5yaVNOYVRFS0ZBM2xWOURpeHQ?oc=5",
+          "published": "2026-09-29T08:03:31+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원자력연구원 정우식 원장 취임…\"SMR 상용화 등 충실히 수행\"",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rY1pZaEdESXFtTmFkMlpzaTYxaUN4V1lCY2NfOGl3c0YzcXlxN1U1NF94d1hxUzJkamhRQ1VzSkJ5dHFuYUFwZFZCS19ObnJpU05hVEVLRkEzbFY5RGl4dNIBYEFVX3lxTE5rY1pZaEdESXFtTmFkMlpzaTYxaUN4V1lCY2NfOGl3c0YzcXlxN1U1NF94d1hxUzJkamhRQ1VzSkJ5dHFuYUFwZFZCS19ObnJpU05hVEVLRkEzbFY5RGl4dA?oc=5",
+          "published": "2026-09-29T08:03:31+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "신임 정우식 원자력연구원장 취임…\"SMR 상용화 충실 수행\"",
+          "publisher": "티제이비",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nNWtHa0J5Q0hHRk0yRU80cHgxWjVWMFljT1I4RnRfN2pRd25iSEplTVpOd0lKandqV0ZDZ0ljVm9wdDFIU2dJVVpqUElRMmhqaFQxVTFDZmYwaURkUmdwdDhB?oc=5",
+          "published": "2026-09-29T08:12:38+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.381,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NRC grants review of Homestake Mining’s groundwater ACL application",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-09-29/article-8444/nrc-grants-review-of-homestake-minings-groundwater-acl-application/",
+          "published": "2026-09-29T18:58:31+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.829,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Oak Ridge radiochemist tweaks techniques to extract radioisotopes for research",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-09-29/article-8443/oak-ridge-radiochemist-tweaks-techniques-to-extract-radioisotopes-for-research/",
+          "published": "2026-09-29T17:05:21+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.751,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Tianwan 7 brought to minimum controllable power level",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/tianwan-7-brought-to-minimum-controllable-power-level",
+          "published": "2026-09-29T15:37:41+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.69,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Polimex Mostostal to build Polish AP1000 assembly halls",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/polimex-mostostal-to-build-polish-ap1000-assembly-halls",
+          "published": "2026-09-29T14:54:32+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.66,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NRC roundup: Crane EA/FONSI; new Agreement State",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-09-29/article-8442/nrc-roundup-crane-eafonsi-new-agreement-state/",
+          "published": "2026-09-29T14:36:41+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.648,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Legislative amendment paves way for continued operation of Borssele",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/legislative-amendment-paves-way-for-continued-operation-of-borssele",
+          "published": "2026-09-29T13:44:42+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.612,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Goodway® ScaleBreak®-000: Redefining Industrial Descaling for Power Generation",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-09-29/article-8319/goodway-scalebreak000-redefining-industrial-descaling-for-power-generation/",
+          "published": "2026-09-29T12:01:30+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.54,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "General Matter submits licence application for enrichment plant",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/general-matter-submits-enrichment-plant-licence-application",
+          "published": "2026-09-29T09:44:27+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.445,
+      "id": 15
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "정우식 제23대 원자력연구원장 취임...“연구 자율·안전 책임 강화”",
+          "publisher": "충남일보",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB1Vk9fdkdfNWRNNXV6Smh2T3pSQlBQc1pLT2ZOTHRaX0ZyWWNxN2J0dkIxZXdtQTN1Sl9wMDRneDVkWE5nWEc5SUpJZklIQm5ZSVlSTUtSZTNfdTVqbVlWVUtPdWNoM2taVWpmYUswWjFwOHM?oc=5",
+          "published": "2026-09-29T07:12:05+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "정우식 제23대 한국원자력연구원장 취임",
+          "publisher": "투데이에너지",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GQUdoOTYyc3l0cm9pZEkzYVl1SFVaSFRVWE15bTNQQmlXcFpLUDN0V1pGQ1M0Z0VwUHJYd1dlX2xBYTcxaC1WUGZwRlZtTmZ4RHJCUUZaZ1l2dm9MQ1Fxa2ZPSjNra2ZyTlpYMQ?oc=5",
+          "published": "2026-09-29T08:33:24+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "정우식 제23대 한국원자력연구원장 취임",
+          "publisher": "에너지타임뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxNkxHX1VUQ3JZTFppX2pYUUFjb1Z2eGVENEl0R2NHNXVXREdKRDBKR2lncldGcUEwYWVmM05PejBNZXZoZVh5YnJlbFlYWHJjMS1QN2otSzZXd1pCVzU1SnFMU2IyWGZKUVZ0QUZHUG0xQdIBdkFVX3lxTE9iaXdLTEF3THFoV2tRSS15RUNKU2syRGZ5ZzZIaTlmYVJUSjUtM0FzQ09UVjRSc3l0TmlFVi1VU2VPUEpuc0g5WTdkdm5DSkVWRDVHNGliX2RJVEN3UjBEX3gxTHRULXJFYTJwWVl2WmJBaDFLUVE?oc=5",
+          "published": "2026-09-29T08:56:33+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 2.411,
+      "id": 16
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "정우식 원자력硏 신임 원장 “SMR 상용화·차세대 원자로 개발 속도”",
+          "publisher": "헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qSk5XYnhGLUNfWXB6QkpXWFBaNEZ5clJJeVFPYm9ZRUxMRXkzQ0U3TzBpRXIzYlV4X3FWNU1lazNHcmlOaVNDa2N5SzZXZFFLN2g5eE5n?oc=5",
+          "published": "2026-09-29T07:38:41+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "정우식 원자력硏 신임 원장 “SMR 상용화·차세대 원자로 개발 속도”",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlZF91MHBwQjI2cGUwWmFfZFZlSjRydTBKWlgwbXlLTlJnNGlmQlNkRnktMVJLZVd3b1BzZnhNc2RkRjI3NXM4dmtyNA?oc=5",
+          "published": "2026-09-29T07:40:58+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "정우식 원자력硏 신임 원장 “SMR 상용화·차세대 원자로 개발 속도”",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfNHZFUWRYdzI4Nm0yU3B6R3ZUWWFIMkdiX2YyZ0xCRnZTblp3SjQ0WGtKdU90clZfQVg3UnpyQU9kOGJqcTZyem0zTC02RnNXTG9COA?oc=5",
+          "published": "2026-09-29T07:40:58+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.359,
+      "id": 17
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "전력 수요 급증에 원전이 해답일까?…“경제성 꼼꼼히 따져야”",
+          "publisher": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LUkhyWFY3RG1wQTFKVzhRTVBDVmpadmNsS0l6cWhaMWFBVm9QWUREc2Q3MXZBUWN4a012OVFEYWFCZGxCNW9SYkJVcGtYN3c3RTl0M0RjMjQtRkVhUmpn0gFfQVVfeXFMTUtSSHJYVjdEbXBBMUpXOFFNUENWalp2Y2xLSXpxaFoxYUFWb1BZRERzZDcxdkFRY3hrTXY5UURhYUJkbEI1b1JiQlVwa1g3dzdFOXQzRGMyNC1GRWFSamc?oc=5",
+          "published": "2026-09-29T05:46:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "전력 수요 급증에 원전이 해답일까?…“경제성 꼼꼼히 따져야”",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5YR05EeG5kQm9WOHNWVnoxWERZTFJ6LWt5T1kxcWQtbTJEWW1YSFlPb29mUzFkUy1PZm9HTko2Y045NmRmQWc?oc=5",
+          "published": "2026-09-29T05:48:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "전력 수요 급증에 원전이 해답일까?…“경제성 꼼꼼히 따져야”",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWZFgxSWNHZG9rd1JTd0lid1BIZTd2OXdvVWhTdTlNWG9mZEdoLTNfQ2Y5VzZBS1BlMllXUzRaXzdtVUVWV1E4ek5OTQ?oc=5",
+          "published": "2026-09-29T05:48:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.28,
+      "id": 18
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "How Nuclear Science Helps Tackle Food Waste",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/news/how-nuclear-science-helps-tackle-food-waste",
+          "published": "2026-09-29T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        }
+      ],
+      "score": 2.039,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "김정관 산업장관, 베트남 과기장관 면담…닌투언2 원전 수주 논의",
+          "publisher": "아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IWVVzaWRONXNUcjF0SVNaTXZGU09pMF9WbTdXZndxM2dpSXlYUzFIOVdSNTgta19xZ1k4T2ZvZzRXeFlVWmkyb1duTHJIYlpBb0VnLVhOakxtUdIBWEFVX3lxTE9xRUNXcWRzT1hqWTlLZUZxdlJJRVQ5Mm5YOXlNQXFHaVBpUkVmZkpibWVRQUVhUDAxMFc0TXdWTUpRTnJfYW1pTVF1Vl9WNzJiVzUwMURXWEg?oc=5",
+          "published": "2026-09-29T23:00:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "김정관 산업장관, 베트남 '닌투언2' 원전 수주 세일즈 전개",
+          "publisher": "이투데이",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yamw4WW1yQ2tKdnFXbEdyMUFsNGlubnRmUUt5aXBjWWN3YjRDZXlBOTR4U3U4T3JNZmVDSkRjX1ZzOFZHZVRVTEFLcDVLTW9tOU4wRVFRZWZta09HaTFuamlnN0RBdERGWnN5S3FUckhRam1U?oc=5",
+          "published": "2026-09-29T23:00:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.997,
+      "id": 20
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원안위원장, 현대제철 인천공장서 재활용 고철 방사선 검사 현장 점검",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhRVFlZTJzOExjMEl0MWVZTi1Mam80dGNhdy1WQU9yZG1ZV3J4aTREUGpOMWdHa0R0VmtwUkZKYkNxTjdmT2hHZHkzWnd3TVctODdiMGR5eWk0NlRxNXhsenlFZVdiM2hkWURsZ3VTVDV4ZlNWVDZXWtIBeEFVX3lxTFBhRVFlZTJzOExjMEl0MWVZTi1Mam80dGNhdy1WQU9yZG1ZV3J4aTREUGpOMWdHa0R0VmtwUkZKYkNxTjdmT2hHZHkzWnd3TVctODdiMGR5eWk0NlRxNXhsenlFZVdiM2hkWURsZ3VTVDV4ZlNWVDZXWg?oc=5",
+          "published": "2026-09-29T06:00:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "최원호 원안위원장, 현대제철 재활용 고철 ‘방사선 감시’ 점검",
+          "publisher": "인사이트N파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sSFc3dllFWGk1clVwcVNsRENvNGZtZUZGWHdrcGpmQkVYamw1ZDY2QWl0dmc2S0xxMGEydDJvQWRIZFlhcDE5d0xzM2w5TTd6c1dOd2dSUTVYdERmZDlkcncwLWUzQQ?oc=5",
+          "published": "2026-09-29T22:46:53+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.988,
+      "id": 21
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Nuclear power is a ‘nation building opportunity,’ Saskatchewan Premier Moe says",
+          "publisher": "Global News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPblJMX2FFajlKZlZaWmNCVVZBcl9pR1F2dFBWVUF5T1lzYlRFbElVempGTjVVcElhSU9qQVNyNVQ2ZmFPR094SjJuVXVNbFFqRDkxVEtEM0pBaGdOWE5XaDZ1Nnd5aUx0ampzaERGSjAyNThlT0UtWnBBcHBYZTNtT2RaTFhqU21xYmtpU3JWeXVyVUg3TWJ0NEM0Y0E4U2pRV3lsUlRZSDFUWkM4UHJEZEdoQ1I?oc=5",
+          "published": "2026-09-29T20:26:57+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Nuclear power is a ‘nation building opportunity,’ Saskatchewan Premier Moe says",
+          "publisher": "Yahoo News Canada",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb04wM3Rfb1JjYVhQaUdXU2MyVjJqSGxJWjdTWW1ZUGMzSVczT3dwOVhvZVhNUmc1Vkh5MEtwblM5YjdXTnhILWFCdkJlTmFUYlJFSmtIdDRaamdYMUh6WFUzQ2w5Yk1RX2RPTmRhZzBqcWs1UG15bXVZX0k4c2FSTVlQWE93Y09ncWc?oc=5",
+          "published": "2026-09-29T20:29:35+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.893,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "포스코, 수소환원제철에 민간 원전 활용하나",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE83MDVvYzNfMFVEdEVtN2NBUHoxRGhqRUZzbHRxSnZNbHVLYnBSOUtpc1otSVY2R0t2R1NxaWdRdlFJMTVxWlE?oc=5",
+          "published": "2026-09-29T10:11:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "포스코, 수소환원제철에 민간 원전 활용하나",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE52NUY5UkdSampMcVBnc2t1QmRsSDlyVkF0MHlNTTd1VmUwOGc0ekJaREwya1BVY0hueUp6YlNlcnpSWUtGQUsyTlgxRQ?oc=5",
+          "published": "2026-09-29T10:11:39+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.464,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원전, 가장 저렴한 전력공급원 맞나…“경제성 떨어져” 건설 신중론 제기",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8xUERLUnZXUlpIMDFCLW1WVDd1d3VQRHZ6TXhMa0RpREEtWFdvNGhldGNPdVVwTkdySzBaT1d3M0VocVc5X1NpWXdsbw?oc=5",
+          "published": "2026-09-29T06:57:01+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원전, 가장 저렴한 전력공급원 맞나…“경제성 떨어져” 건설 신중론 제기",
+          "publisher": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kR1B4Wi1DaENhdEpzV0ppV3VoQ09wVExjY1VSbjdsUnNHVEs3NE9iMzNhVDZzV1RPVERVQ0htdjRDQlo0XzNQcWxXZjFXNUFCdjJwSHhtbUtTWnp6NWx2YS11dlhrUGVtbDJKUjFHUmItUQ?oc=5",
+          "published": "2026-09-29T08:54:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.41,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원전 4기 멈춘 사이…부산 1년치 전력 생산 못했다",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnaHVhejR4NnM1Z20wbzZ5SW1HLUxSZGlUWnVtbWgtU19vT0E1MUxOOFdCTlExSk9JYzF4dVFCRFpudzhqNkJWSFFWcw?oc=5",
+          "published": "2026-09-29T07:44:56+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원전 4기 멈춘 사이…부산 1년치 전력 생산 못했다",
+          "publisher": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTXJmUWdoTnJRcWVKeEhRMk91YzhxTGFINFhhZnVCOTF1dzlIMmlJVW9vR21JQkp3ZGpIQnBlTktfNjhScWRZSWNuNHRFd0xReXNrbmVyOTRKTE5EdFJXOGdLR0ZUdmRPOEcyMXZsbXhwWTUwTVRLMEdDVk5OTDdGQlBTRQ?oc=5",
+          "published": "2026-09-29T07:46:10+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.363,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "영덕 신규 원전 이름 ‘새빛’ 또는 ‘해누리’ 될까",
+          "publisher": "kyongbuk.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SWkE1OTJzM215bG5qRlppaG5tdmlXQ253WFhwWDJHbDlJaTRDWEVWQWFJM09HU1VlTU9fNnNCczhGcWx4S2FlS2N1QWM2TTRsWGRRQVRvSHYtVHhxSVBfOEZZMFJXVmFVZUtuaUczcw?oc=5",
+          "published": "2026-09-29T03:28:28+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[원전 증설 러시] 영덕 신규 원전 이름은…새빛? 해누리?",
+          "publisher": "매일신문",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1NV9CTjdfU09TRVB4R0UxWUw2b1FkSmY2LS1XeG04UzVPRDEwY0s0Mk1LTVpWcjhlZXAxOGVmX3RUTllHWWxiMDFvb1ctNi15cEhlY3B3SUdDc1dfdnBrZEFB?oc=5",
+          "published": "2026-09-29T07:09:21+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.337,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한빛원전 1·2호기, 안 멈췄으면 반도체 팹 2기 돌렸다",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5BaEZsV3dHWkhEYmZhNDJDWkpkTWNJSS1jOGNERzN1bWE5UFRHSW0zbm9ORXZyXzBReEE2UXhhYXFiOW4wOHc?oc=5",
+          "published": "2026-09-29T06:18:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한빛원전 1·2호기, 안 멈췄으면 반도체 팹 2기 돌렸다",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xb3N4OFVyVmNjQTFpZXNYVHFxNnBCMWlZZE1MU29lRnA3ZmY1SVphZWdmVW05cjFCaXNDVjBNcmFrRDJVbjM3NnZmUQ?oc=5",
+          "published": "2026-09-29T06:18:34+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.302,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "韓·베트남 원전 협력 강화…산업부, 닌투언2 사업 참여 지원",
+          "publisher": "전기신문",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yenpjdHRINTdPdUgxWjNpT3lHMEc4b2xuMjRQN29ma2hoYWh0UEIxR0N2LW1BRlRhQTVPcnB0T1dWNlotdFJGbXkzdnF1Yk5QY1M3cUw1QlF3djZuOHRvQXN5Q00zS1NZZ05tWtIBcEFVX3lxTFBzQTNlbjBuVEI0SDd0LWlKRENpM2FOU0pwckIzNjFGNE8zNk05WTFWamFMYjNtcF85OVJFYlZXVmhBTkxsQ3h3R2JvNGhweVVObGtvd0tRa1RsaFJPaDdReTR6RmxiaHFoWnFsNVgyeWM?oc=5",
+          "published": "2026-09-29T23:00:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.997,
+      "id": 28
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[GAM]마이크로원자로 기대주 NNE ① 2027년 이정표 '두 배 랠리' 예고",
+          "publisher": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Qbld3UjI0X2RRNHZST0JUVXhQd3lySDh5d3hrWlUzalpxRWxtckxUTGV2MVVQV3RwRjJqcGZtMmpHZHZQampKWmd1d1BVSFJzN2ZGclIxSzdvRFdv?oc=5",
+          "published": "2026-09-29T23:00:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.997,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 99
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 40,
+      "kept": 22
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 100,
+      "kept": 95
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 47,
+      "kept": 4
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 1
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 5
+    }
+  }
+}

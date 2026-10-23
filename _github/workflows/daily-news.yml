@@ -1,0 +1,92 @@
+name: Daily nuclear news brief
+
+on:
+  schedule:
+    # 16:17 UTC = 01:17 KST. GitHub starts scheduled runs late: the old 04:30 KST slot actually ran at
+    # 07:16–08:52 KST (9/28–10/4), after the 06:50 KST commentary session had already given up.
+    # An early, off-the-hour slot lands near 04–06 KST even with that delay. The session also runs
+    # again at 10:50 KST and catches up missed days, so a late run only delays the commentary.
+    - cron: "17 16 * * *"
+    # Safety net at 09:13 KST: runs only if the morning run failed or published without commentary.
+    - cron: "13 0 * * *"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Day to build (YYYY-MM-DD, KST). Empty = today"
+        required: false
+      force:
+        description: "Rebuild even if that day is already published"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: site-publish  # shared with the weekly paper workflow: both publish the same site
+  cancel-in-progress: false
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    outputs:
+      publish: ${{ steps.guard.outputs.skip != 'true' }}
+    env:
+      TZ: Asia/Seoul
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      NEWS_MODEL: ${{ vars.NEWS_MODEL }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Skip if today already succeeded (scheduled runs only)
+        id: guard
+        run: |
+          today=$(TZ=Asia/Seoul date +%F)
+          done=$(python -c "import json; s=json.load(open('state/news/latest-run.json')); print(int(s.get('status')=='success' and s.get('run_date')=='$today'))" 2>/dev/null || echo 0)
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "$done" = "1" ]; then echo "skip=true" >> "$GITHUB_OUTPUT"; else echo "skip=false" >> "$GITHUB_OUTPUT"; fi
+
+      - name: Run pipeline
+        if: steps.guard.outputs.skip != 'true'
+        run: |
+          args=""
+          [ -n "${{ inputs.date }}" ] && args="$args --date ${{ inputs.date }}"
+          [ "${{ inputs.force }}" = "true" ] && args="$args --force"
+          python -m app.news.run_daily $args
+
+      - name: Commit data and site
+        if: always() && steps.guard.outputs.skip != 'true'
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add data state docs
+          if git diff --cached --quiet; then echo "nothing to commit"; exit 0; fi
+          git commit -m "원자력 뉴스 브리핑 $(python -c "import json; s=json.load(open('state/news/latest-run.json')); print(s['run_date'], s['status'])")"
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+          git push
+
+      - name: Upload Pages artifact
+        if: success() && steps.guard.outputs.skip != 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  deploy-pages:
+    needs: brief
+    if: needs.brief.outputs.publish == 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

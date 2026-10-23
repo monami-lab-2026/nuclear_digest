@@ -1,0 +1,690 @@
+{
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T04:18:21+00:00",
+  "engine": {
+    "engine": "claude-code-session",
+    "briefed_at": "2026-09-27T04:32:26+00:00"
+  },
+  "overview": "오늘은 미국 팔리세이즈 원전의 연료 장전 중 이상 사고와 이집트 다바 원전의 건설 진행 상황 등 해외 원전 현장 소식이 두드러졌다. 국내에서는 미국과의 대형 원전 협력 논의와 태국 SMR 시장을 둘러싼 경쟁, 방사성폐기물 처리 기술 이전 소식이 이어졌다.",
+  "stories": [
+    {
+      "source_ids": [
+        4,
+        26
+      ],
+      "region": "해외",
+      "category": "안전·규제",
+      "importance": 3,
+      "headline": "팔리세이즈 원전, 연료 장전 중 연료집합체 기울어짐 사고로 미 NRC 조사 착수",
+      "summary": "미국 팔리세이즈 원전에서 핵연료 장전 작업 중 사건이 발생해 장전이 일시 중단됐다. 보도에 따르면 미국 원자력규제위원회(NRC)는 연료집합체가 기울어진 정황을 조사하고 있으며, 해당 발전소는 최근 변전소(스위치야드)에 연결된 상태로 알려졌다.",
+      "why_it_matters": "연료집합체 장전은 원자로 재가동 전 핵심 공정 중 하나로, 장전 중 기하학적 이상(기울어짐 등)은 노심 내 연료 배열과 냉각재 유로에 영향을 줄 수 있어 안전 점검 대상이 된다. 규제기관이 재가동 전 이런 이상을 직접 조사하는 과정은 원전 재가동 인허가에서 안전 검증 절차가 실제로 어떻게 작동하는지 보여주는 사례다.",
+      "concepts": [
+        {
+          "term": "연료 장전(fuel loading)",
+          "explain": "원자로 노심에 핵연료집합체를 정해진 순서대로 넣는 작업. 배열이 어긋나면 냉각재 흐름과 임계 관리에 영향을 줄 수 있다."
+        },
+        {
+          "term": "연료집합체(fuel assembly)",
+          "explain": "여러 개의 연료봉을 격자 구조로 묶은 원자로 핵연료의 기본 단위."
+        }
+      ],
+      "question": "연료집합체가 설계된 위치에서 기울어지면 노심 내 냉각재 유동과 중성자 분포에 어떤 영향을 줄 수 있을지 생각해 보자.",
+      "study": [
+        "연료집합체",
+        "노심 장전 절차",
+        "임계 관리"
+      ],
+      "reference_ids": [
+        "nrc-factsheets"
+      ]
+    },
+    {
+      "source_ids": [
+        22
+      ],
+      "region": "국내",
+      "category": "정책·산업·수출",
+      "importance": 3,
+      "headline": "한미 원전 협력 확대 논의…APR1400 2기 건설 카드 부상",
+      "summary": "제목 기준으로는 한국의 대규모 대미 투자(3500억 달러 규모로 언급)와 미국의 원전 신속 추진 정책('원전 워프스피드')이 맞물리면서, 한국형 원전 APR1400 2기 건설이 협력 카드로 거론되는 것으로 보인다. 기사는 이 조합이 가진 기대와 우려를 함께 다루는 것으로 보인다.",
+      "why_it_matters": "APR1400은 한국이 해외에 수출한 대표 노형으로, 미국 내 건설이 실현되면 한국 원전 산업의 대형 해외 수주 사례가 하나 더 추가되는 셈이다. 다만 대규모 투자와 정책 연계가 실제 건설 계약·인허가로 이어지는 과정에는 여러 변수가 있어, 발표와 실행 사이의 간극을 짚어보는 관점이 필요하다.",
+      "concepts": [
+        {
+          "term": "APR1400",
+          "explain": "한국이 자체 개발해 UAE 바라카 원전 등에 수출한 1400MW급 가압경수로(PWR) 노형."
+        }
+      ],
+      "question": "대규모 국가 간 투자·정책 발표가 실제 원전 건설 계약과 인허가로 이어지기까지 어떤 기술적·행정적 절차를 거쳐야 할지 생각해 보자.",
+      "study": [
+        "APR1400",
+        "가압경수로",
+        "원전 수출 인허가"
+      ],
+      "reference_ids": [
+        "khnp",
+        "wna-library"
+      ]
+    },
+    {
+      "source_ids": [
+        5,
+        27,
+        25,
+        29
+      ],
+      "region": "해외",
+      "category": "원전 운영·건설",
+      "importance": 2,
+      "headline": "이집트 다바 원전 3호기, 원자로피트 하부 플레이트 설치…내년 핵연료 반입 준비 점검",
+      "summary": "이집트 다바 원전 3호기에서 원자로 피트 하부 플레이트 설치가 완료됐다고 보도됐다. 이와 함께 이집트와 러시아 양측은 내년 예정된 핵연료 반입을 위한 준비 상황과 다바 원전 전체 공정 진행 상황을 점검한 것으로 전해졌다.",
+      "why_it_matters": "원자로 피트 하부 구조물 설치는 원자로 용기와 내부 구조물을 지지하는 토목·기계 공정으로, 이후 원자로 용기 거치와 배관·계측 설비 설치의 기준점이 된다. 핵연료 반입 일정까지 함께 발표된 것은 건설이 설계 단계를 지나 기기 설치·연료 공급 단계로 진입하고 있음을 보여주는 지표다.",
+      "concepts": [
+        {
+          "term": "원자로 피트(reactor pit)",
+          "explain": "원자로 용기와 관련 구조물이 설치되는 격납건물 내부의 콘크리트 구조 공간."
+        }
+      ],
+      "question": "대형 원전 건설에서 토목 공정과 핵연료 반입 일정이 서로 어떻게 맞물려 전체 공정표를 이루는지 생각해 보자.",
+      "study": [
+        "원자로 피트",
+        "VVER",
+        "원전 건설 공정"
+      ],
+      "reference_ids": [
+        "iaea-pris",
+        "wna-library"
+      ]
+    },
+    {
+      "source_ids": [
+        19,
+        20
+      ],
+      "region": "국내",
+      "category": "SMR·신형로",
+      "importance": 2,
+      "headline": "태국 SMR 시장, 미국이 규제 표준 선점…한수원 i-SMR 입지는 좁아지나",
+      "summary": "제목 기준으로는 태국의 SMR(소형모듈원자로) 도입 논의에서 미국이 원자로 자체보다 규제·인허가 기준을 먼저 제시하며 시장 선점에 나선 것으로 보인다. 이에 따라 한국수력원자력의 i-SMR이 태국 시장에서 설 자리가 좁아질 수 있다는 우려가 함께 제기된 것으로 보인다.",
+      "why_it_matters": "SMR 수출 경쟁은 노형의 기술적 완성도뿐 아니라 어느 나라의 인허가 기준과 안전 규제 틀이 수입국에 먼저 채택되느냐에도 좌우된다. 규제 표준을 선점하면 이후 다른 나라 노형의 인증 절차가 상대적으로 불리해질 수 있어, 기술 개발과 별개로 국제 인허가 전략이 왜 중요한지 보여주는 사례다.",
+      "concepts": [
+        {
+          "term": "SMR(소형모듈원자로)",
+          "explain": "기존 대형 원전보다 출력이 작고 공장 제작·모듈 조립이 가능하도록 설계된 원자로."
+        },
+        {
+          "term": "인허가 표준 선점",
+          "explain": "수입국이 특정 국가의 규제·설계 기준을 먼저 채택하면 이후 다른 노형의 인증이 그 틀에 맞춰야 해 상대적으로 불리해질 수 있는 현상."
+        }
+      ],
+      "question": "한국의 i-SMR이 해외 시장에서 경쟁력을 가지려면 기술 개발 외에 어떤 인허가·표준화 전략이 필요할지 생각해 보자.",
+      "study": [
+        "SMR",
+        "i-SMR",
+        "해외 원전 인허가 표준"
+      ],
+      "reference_ids": [
+        "iaea-smr",
+        "nrc-advanced"
+      ]
+    },
+    {
+      "source_ids": [
+        7
+      ],
+      "region": "국내",
+      "category": "핵연료·방사성폐기물",
+      "importance": 1,
+      "headline": "원자력연, 폐이온교환수지 고형화 기술 개발…기업에 이전",
+      "summary": "한국원자력연구원이 원전에서 발생하는 폐이온교환수지를 안전하게 굳히는 기술을 개발해 기업에 기술이전했다고 보도됐다. 제목 기준으로는 구체적인 처리 방식이나 이전 규모는 확인되지 않는다.",
+      "why_it_matters": "이온교환수지는 원전 냉각재 정화 과정에서 방사성 물질을 흡착해 방사성폐기물이 되는데, 액체·입자 형태 그대로는 저장·처분이 까다로워 고체화 처리가 필요하다. 이런 고형화 기술의 국산화·기업 이전은 방사성폐기물 처리 공정의 실용화 단계를 보여주는 사례다.",
+      "concepts": [
+        {
+          "term": "이온교환수지",
+          "explain": "원전 냉각재나 정화계통에서 이온 형태의 방사성 물질을 흡착해 제거하는 데 쓰이는 고분자 소재. 사용 후에는 방사성폐기물이 된다."
+        },
+        {
+          "term": "고형화(solidification)",
+          "explain": "액체·입자 형태의 방사성폐기물을 시멘트나 특수 소재로 굳혀 취급·저장·처분이 쉽도록 만드는 처리 공정."
+        }
+      ],
+      "question": "이온교환수지를 고형화할 때 어떤 물성(강도, 침출 저항성 등)을 만족해야 안전한 처분이 가능할지 생각해 보자.",
+      "study": [
+        "이온교환수지",
+        "방사성폐기물 고형화",
+        "저준위 방사성폐기물"
+      ],
+      "reference_ids": [
+        "kaeri"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Dhaka-Washington sign strategic civil nuclear cooperation agreement",
+          "publisher": "daily-sun.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeGFBQWRQa1pveEYweUNydmRlT2tQVmxGX3I1dWpkTXFqaU5IV2JLREVWU2x5amNOb2VaR0xEbmtQRVJhaVJ6QXZ4T2ZJejVaekJUUTNOWGFkYWdLcXgxY1hYUFFFaWVHZDRNRmdvQWctOU00RlZyN2o2QlA5emxyMF9ZY0N6STgxbVk3MVFmUEtDNjN4TnhDdXdLQzJMLUpoSTJDU3NCZ0ZKQ2dqYlFLRWRMWWdTWElCUU9CTm1QT1VBdw?oc=5",
+          "published": "2026-09-26T07:12:34+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Bangladesh, US sign MoU on strategic civil nuclear cooperation",
+          "publisher": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVGMtdnBlYy1LMzYxekhHQnpYSWRXSFN2dDFyZlN6S0MtUDFSREg5d21SVnpaQVB2VDJldzl1X2hfWVRnbTFpNnlOTU1nQ1hhc0JUOWI1OEp4UmRRNVktTHJXYW9zUmVCdEJFQW1oQWNwcTg5NVFVUDBOaTZhYjVka01KV3huUjhVUUlQUi03Qk5faDRsT2Q4SncyMjJWeEIzcEJUTExZR1VQR240TEZNTDVGem9UUFRlZHA0Q0RQWlo5NDd4aEJPbGlnS0nSAcwBQVVfeXFMT1RjLXZwZWMtSzM2MXpIR0J6WElkV0hTdnQxcmZTektDLVAxUkRIOXdtUlZ6WkFQdlQyZXc5dV9oX1lUZ20xaTZ5Tk1NZ0NYYXNCVDliNThKeFJkUTVZLUxyV2Fvc1JlQnRCRUFtaEFjcHE4OTVRVVAwTmk2YWI1ZGtNSld4blI4VVFJUFItN0JOX2g0bE9kOEp3MjIyVnhCM3BCVExMWUdVUEduNExGTUw1RnpvVFBUZWRwNENEUFpaOTQ3eGhCT2xpZ0tJ?oc=5",
+          "published": "2026-09-26T08:51:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Bangladesh, U.S. sign MoU on strategic civil nuclear cooperation",
+          "publisher": "The Hindu",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNHdfNW9leUhUTmN4ZzVHTjVMZ1RLSkt4RXhyOE8yNk9CbC04S0F5dnlseUNuN1YxSndneUtwNW9IOUhZZ2JicXdIWU1fckJWY3hBeFY2d1JYWmhsSEtPZkdoQlhQQnpULWExV1FraWlUaHliSFZLQWZ1eHI4T2NHMjRNVFdTSEYzZTh0ZDJqeGxjT001dk94cXVvZlg5Z1NERlREV180WmxrMmZvQW1qZjBjWWJublQxa1hvYVd1NkpUSnhZa1hPdzVR0gHKAUFVX3lxTE80d181b2V5SFROY3hnNUdONUxnVEtKS3hFeHI4TzI2T0JsLThLQXl2eWx5Q243VjFKd2d5S3A1b0g5SFlnYmJxd0hZTV9yQlZjeEF4VjZ3UlhaaGxIS09mR2hCWFBCelQtYTFXUWtpaVRoeWJIVktBZnV4cjhPY0cyNE1UV1NIRjNlOHRkMmp4bGNPTTV2T3hxdW9mWDlnU0RGVERXXzRabGsyZm9BbWpmMGNZYm5uVDFrWG9hV3U2SlRKeFlrWE93NVE?oc=5",
+          "published": "2026-09-26T10:37:12+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.263,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한국수력원자력, 한국에너지공단과 감사 업무협약 체결",
+          "publisher": "시사통신",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0VG5oTVhOMGxvVkhJYkRHVjJiWEhNVXNGeEMzRmQ5UHpLVFFab0pwMjk4bkFDYlBpdUdDVTR2NUFYcnlta3lNeXhDVDZIaWNmLTBqTVdLWTNvLXFudWRQZXJPSDVmd2drZ2hJ0gFrQVVfeXFMUHRUbmhNWE4wbG9WSEliREdWMmJYSE1Vc0Z4QzNGZDlQektUUVpvSnAyOThuQUNiUGl1R0NVNHY1QVhyeW1reU15eENUNkhpY2YtMGpNV0tZM28tcW51ZFBlck9INWZ3Z2tnaEk?oc=5",
+          "published": "2026-09-27T02:17:21+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력, 한국에너지공단과 감사 업무협약 체결",
+          "publisher": "대경일보",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JWVk5Q0tLZUgxUmlkdF9YMjZaT0g3bHBhOWktSXJiNUNXU05nUUdYX1RGeDhSQmxzT25UWVJBLV80OTB3LWpyeVRBM1J2Z1BkdDhOMUp4UDRaTjdzNUZkLXdFMlJwMkJX?oc=5",
+          "published": "2026-09-27T02:57:44+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.944,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Monument Valley and Rifle: Monitoring Plant-Based Approaches to Milling Site Remediation",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-09-25/article-8430/monument-valley-and-rifle-monitoring-plantbased-approaches-to-milling-site-remediation/",
+          "published": "2026-09-25T20:06:18+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 1.658,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "European new nuclear: Italian revival, Polish agreement, Parisian summit",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-09-25/article-8437/european-new-nuclear-italian-revival-polish-agreement-parisian-summit/",
+          "published": "2026-09-25T18:16:44+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 1.582,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Incident pauses Palisades fuel loading; plant connected to switchyard",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-09-25/article-8436/incident-pauses-palisades-fuel-loading-plant-connected-to-switchyard/",
+          "published": "2026-09-25T16:39:21+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 1.515,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Egypt installs reactor shaft lower plate at Dabaa Unit 3",
+          "publisher": "Egyptian Gazette",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaFJuc25uX0txTEdXZ2hLVUlYZi0tcEdiZk85a05iOXgzLUZhTTFBTTlEWDZkYkZwaFBZS2VkUWlqQU0zcklvcVdaM0pEQ0tUQkFVOXhyenNXa0oySEtXblRobzJWaGFzbFJoMEhlLTJWMkVRVGM3c0lvVGw5Y0xNcHhGWXRRaEl3UUx5el9jdU1QcjhhRUxwSw?oc=5",
+          "published": "2026-09-26T09:13:26+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Egypt installs lower plate at third reactor unit of El Dabaa nuclear plant - Urban & Transport - Egypt",
+          "publisher": "Ahram Online",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV1pLdHVCWHktRlpxMGIxR1RoWkc2TkVMaVZyaWF4VDhqVWFOZm4zWDkxWFRCQUhxWm5KUlNRZDlIVHZPcVhRVXc5TmNyZDVJQnhoSEFJendYVTJRZ2xlY2JhMEFtS1VJbHpjcmFCU0pHSUFONTZ3Y2hNSDZoQzNtLTRBTlo0QUE2cGxCc0l0SHBHRjktSEUzeUlHd2pvbFR1Y3k5Z3AxRlFzTmxQbENKclBn?oc=5",
+          "published": "2026-09-26T15:31:14+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.467,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "India, France discuss EPR reactor deployment, nuclear supply chain localisation",
+          "publisher": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTFBmczJraU5CejZrcm9qMWwtdDdUWl9ZTFYzdnBzZnVEYlBjekZpaVRxOWk2SnNZNU83YUk0SkZMYWVmblJwQzBDMThLeXg2YjBvV0k2Qk5vVGowYWtvZXV3QlpseFl1R3oxM2NRS3F1V1NNb3dUR01kY2puYThUOVcweXFuY0phRk1KMS03VzF1M24xMU9ORndwNXVNUEsxaFBHRHFUV1pzeUtIdEtSWmFhOGVGX3BQTXhYanFwLXZYVFFiSTExZWhfZ2RTLW8?oc=5",
+          "published": "2026-09-26T05:12:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "India, France Discuss European Pressure Reactor Tech Deployment And Large-Scale Localisation Of Nuclear Supply Chain",
+          "publisher": "Swarajya",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQS19ENE9zQ0d6LTU2TUlOd2w2ZXBBVUd0UFZ2dmRiMWxQeU5VYnlycjZtbHBCSkFwdDhGak5OXzJnR01pVjlod0x4RzNZdzVrbVdoZHAxbEg1UmZ6Z01MZEhZYkxrMGpvRHVoRkFoS1BPb25US09PLVJiSm5XcWpxZW1mODIxc0JTSUItQ044c21XQ1ZYY2FjUlFueXNTbHkzakNjSkpyTXdkaG5TZ2ZsVi02QlV4eGx4bXk0NmRYNXhZUmJtMXNoekJRaWduaDE4LWJidjkwV3hMQlJGUVBzdzN30gHyAUFVX3lxTFB0QmtEdjd3clpyZnVKRUotay14Q1FmOTU4em1CN0I2d2dfOGdXemFmZGVKRDRtRmVLdmhXZk9vb191QXpvNHdCT3p0cVY0b18wQ3NoRXJBQU1lcTJ6bC13dFk1RS12VVFJRzYzTDJfakNuOWxsLUdod2NjR093blNES0dWdGZZZWlKWHpxajVPeVd6T0tId2NyVl9PRkZlb2VXVDJnaENRZmNISkJzb2Z4cjUwTXR2eXdPVmRIcDhpTEIxN0ktbGpTeVZRb3RuUllnb3l6UXM5NlpUQWwzNHFXTndmUEpTTEc5UWpyaTZ1NV9n?oc=5",
+          "published": "2026-09-26T11:23:31+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.295,
+      "id": 6
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원자력연, '폐이온교환수지' 안전하게 굳히는 길 열어...기업에 기술이전",
+          "publisher": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLdi1hVGhHSVV4dWs1M3ZvVjZVSURERkZaME9OUnYzV1g1NEx4QVlqZHh4OGJTY0FWZnBNLVpMeTJfRVlKeS1BaWpnTTRodw?oc=5",
+          "published": "2026-09-27T04:08:24+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.993,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Big Rock Nuclear Plant & Tiger Stadium | September 27",
+          "publisher": "WKAR",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNczNtNWJYczdXWDNVejFWNDFKMGhON1R5WUNDbHlTZFRodEFnZkRKY0ZBdGtTRjBlVDdBMTdvc1BRZVRVWHREMnU0dlZuNWVFRVRJemFrb2Y2dlRGQWJlT2dWaU1XWlhxcWtkc0MzbExNVm5SNzZLOVVWSld1Tkg2TFJYWWgyWkdkWTBDY25xOERlM3JRZUxWN3VhVXhtWkttQWJ5bmhRank?oc=5",
+          "published": "2026-09-27T04:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.987,
+      "id": 8
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원자력 상선 논의 본격화…50개국 ‘ATLAS’ 참여",
+          "publisher": "해양통신",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55ei1VblU2SlY0MzVNOHh4eW5MeGNvdWR4V09yMjNyLTRTR3REU3g3X19MeFNxeU51Y0hpaDdDblJmU3VUc3RPTk5LbkYtcVVoVHBRTEVvTjROaGpUREY4?oc=5",
+          "published": "2026-09-27T02:19:25+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.917,
+      "id": 9
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원·한국에너지공단, AI 감사혁신 맞손",
+          "publisher": "경북매일",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xM0dDRlhoWjM4bFdNY2doZ1ZLeS1vTTJmMF9Ea3dmLWZGdFBUSEw2WGZxNWRYLXhodXJEYlBZVm5vNXdWU1d0ZVBkN0I3WTFvOThCLVlFSnFDZw?oc=5",
+          "published": "2026-09-27T02:06:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.908,
+      "id": 10
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[3세 경영 선두주자 下] 정기선의 ‘장기전’…차세대 원자로에 걸다",
+          "publisher": "SR타임스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDZEhrNDNkXzBuRVJSLVlOS2pNbTJVQUZTTEZGZmhkekxqbTVxOThvVlByblJXOXZTQ3pXdVJUbzZEQ0x4Z0ZMX0psLUw2d1BNZENWbXh4TnB2MFFlNHJfa0E3S3pBXy1uRlRj0gFrQVVfeXFMUENkSGs0M2RfMG5FUlItWU5Lak1tMlVBRlNMRkZmaGR6TGptNXE5OG9WUHJuUlc5dlNDeld1UlRvNkRDTHhnRkxfSmwtTDZ3UE1kQ1ZteHhOcHYwUWU0cl9rQTdLekFfLW5GVGM?oc=5",
+          "published": "2026-09-27T01:04:39+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.866,
+      "id": 11
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "경남, 수도권 기업 300명 서울로 부른다…우주항공·원전·방산 투자 유치",
+          "publisher": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1ckZKMHEtRWxTUnN3UGJFUFVKdUtzUFJ0ZG9QcHYyZnpnY3lySFp6UUpwTlJ5SURNVjI1S1NxWlNwZTYxMDVtR3g2dXJyREVERlg1LXowbVNlZHlaS2JnbHNBaXlGLUFveVdRVDdmNTEtTHhKYTZZ0gF3QVVfeXFMUHVyRkowcS1FbFNSc3dQYkVQVUp1S3NQUnRkb1BwdjJmemdjeXJIWnpRSnBOUnlJRE1WMjVLU3FaU3BlNjEwNW1HeDZ1cnJERURGWDUtejBtU2VkeVpLYmdsc0FpeUYtQW95V1FUN2Y1MS1MeEphNlk?oc=5",
+          "published": "2026-09-27T00:55:19+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.859,
+      "id": 12
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "석탄에서 원자력으로(Coal-to-Nuclear)’ 전환…SMR 입지로 다시 뛴다",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ObmQxVFY3eE02YkFrT2N5MlNJRm9mQ0ZOOWNUM1JMN3hlZVlIT215T19KNTZEUDNEN1hCdzRINnRBYWxFbzFnT3JiMEVCd0JwLS1PRTIzcXhCVXd1SXpkVU81Z04?oc=5",
+          "published": "2026-09-27T00:30:58+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.842,
+      "id": 13
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "기후위기 시대 원자력의 재평가",
+          "publisher": "데일리환경",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kdEVJMlMyaEZqU1AtZG5Kc21RSTlJT1RQcXpPWUpvWXZhT25rb1pBZmFmdGtSbTBoSzlpaTN6WUpLdHRCREdUaktWMTVaQWZjekM1UVZfdjM4d3E4aGc?oc=5",
+          "published": "2026-09-27T00:10:56+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.828,
+      "id": 14
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "빅테크 전력난에 원전 손잡은 AI… 韓 원전 부품망에 분산 전원 새 문 열린다",
+          "publisher": "글로벌이코노믹",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUmZfMFlBOG5qNEFPSnlnU1lZZ2tnVVV3djJPNy1BOFFJWWxucDh0SmNiR1B4d1VtdmM0WUE1UTBUbGFWanFtVnFwNFprQzRuUnU2VUJTX0FkZmFhczlmNHZhMmlrZTNRUzAyVmhOd2t6Y21JOXRveGpQckgxdVlTRHhyWVFKOTN2?oc=5",
+          "published": "2026-09-26T23:49:26+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.813,
+      "id": 15
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Cancer is a concern with increasing nuclear power in Iowa | Letters",
+          "publisher": "The Des Moines Register",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNamMxcXhJSDNtbF95aFBIM0prYlBLZHhxUlRyMjV3UWRFb2lndHlqblZyVzNXNUVSakY3cXIyZkNQNzVQYkRvMlFHZktfRi1JYmpzM3dOM2RaT25VOGJQdExnam53THJfYlFXSG1LR1F4Mk95ZkRuR1kwOHZoYTJ6dnlTd19uOE9hOHFoeWpJaGRRUTNtclVRWl8xMFRMVUhzNHRRblZ3VGR0NkREZ3FKWWJtQWxJaFRESC1SemJUeUVvWE5pQWJmeA?oc=5",
+          "published": "2026-09-26T23:39:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.806,
+      "id": 16
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "외교 협약 뒤 진짜 실세는 한국…루마니아 2.8조 원전 개보수 'K-원전'이 지휘한다",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RcHZJTnJrYzVDa3ltUzhNc3dkTktDUUJrZ2NZVTJGS0tETUZJRkpvZ0VfR3pkWUNVbzRrZUp1V2xOdnM5Qk5PTVFGYUpTUmd6UjdwZzhXbXVGTElZR01Fcm95N1E?oc=5",
+          "published": "2026-09-26T23:37:38+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.805,
+      "id": 17
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "1.6km 지하에 묻는 핵폐기물, '심층 시추공'이 원전 쓰레기 문제 푼다",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VUFNWMlpKRTh6alhleEJ4RTV3WF8xUENVeXBGSjc0anJsQlZsUWVLMVlfeFNWM0JqbTB6bGpXM1JRMWJRQzB4T1lWalJ1c0JkYTRUV0p5Tm93UUdVUGx5WHQwY0E?oc=5",
+          "published": "2026-09-26T23:07:45+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.784,
+      "id": 18
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "태국 SMR, 원자로보다 ‘룰’을 먼저 잡은 미국…한국은 무엇을 팔 것인가",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VdlhmVGxabHY2UmN2aF9WQU85WTkwNUFYVGsyT1NrLUduNzN2bkxsdnlOYzFVLTl6cldQU1Y1bmNmNGdlZ2pzQmpTODlzWXhpNnZGUW0xTGpEYm9GcGJnRkFxY28?oc=5",
+          "published": "2026-09-26T22:53:58+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.775,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "美, 태국 SMR 시장 선점 시동…한수원 i-SMR 설 자리 좁아지나",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjbnZIbVI2eXROUEVsU2hVbnJQTjN0ekJTVHAxX213Tld6M2x0UjRYZ2MtU3UydEszeF9sQXg3bU1XdEtvRENtSHdZWm1iWnJ5eGs0NTVNa04xT3VCMFp6eGdSQWU?oc=5",
+          "published": "2026-09-26T22:46:30+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.77,
+      "id": 20
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "삼성물산, SMR 영토 확장…미국·유럽 사업화 속도",
+          "publisher": "블로터",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nb05iV0dmcmZsV2ZxT0YxckxWYUdBdDM3VUc5UkNzeFlfcVV2S1ZoUjRadjZKamlqaFp0c2VDMzBBakdXVGRialh3RjRUVHZfdm9OOURGVjJGeHl6Q0VtSmhFVEJsSzcwaWJietIBbEFVX3lxTE1nb05iV0dmcmZsV2ZxT0YxckxWYUdBdDM3VUc5UkNzeFlfcVV2S1ZoUjRadjZKamlqaFp0c2VDMzBBakdXVGRialh3RjRUVHZfdm9OOURGVjJGeHl6Q0VtSmhFVEJsSzcwaWJieg?oc=5",
+          "published": "2026-09-26T22:06:03+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.741,
+      "id": 21
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한국 3500억달러와 美 ‘원전 워프스피드’가 만났다…APR1400 2기 카드의 명암",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JSldXSVA0Zl9ySmdBWm5Sd2daRklURjBxeGJ0VzBYaVBxUWFycWxsUGtPdk5fOFJOR2NrMDNYX0pTSlRraENJSUFxMGhsSU9NM3B2OVlkN05NaWM1VDA2SlNBQUo?oc=5",
+          "published": "2026-09-26T21:57:47+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.736,
+      "id": 22
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Unrealistic to portray Cuba as a threat to biggest nuclear power on planet: Cuba at UN | US delegate walked out during his address | Inshorts",
+          "publisher": "Inshorts",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRXV6TTd3dEZmWXUyRGZvUUQ4MWJrbGZFdV95NjFnQXkzMXVQU2VXbkQ5NmlkTGFHSWFySUZFUS1vQy1zczdQdzduekdEYXV3a3FvREVnNTlMSElMaEZ0WW5HdWFoNE5qT1Y3S3dLYjBWZkZiUlRRWG1BeW1HUWJ6c2RNNmxjaHBJaUhzSTR0RlRMTlFTVXVSSTNySnVaMXhpbGR3eFk4UkdIUXZTSkUxbENNbWNmOTRTdU9IRHhvQll0eWlBWW10Y3ExdzU3d9IBzgFBVV95cUxNRXV6TTd3dEZmWXUyRGZvUUQ4MWJrbGZFdV95NjFnQXkzMXVQU2VXbkQ5NmlkTGFHSWFySUZFUS1vQy1zczdQdzduekdEYXV3a3FvREVnNTlMSElMaEZ0WW5HdWFoNE5qT1Y3S3dLYjBWZkZiUlRRWG1BeW1HUWJ6c2RNNmxjaHBJaUhzSTR0RlRMTlFTVXVSSTNySnVaMXhpbGR3eFk4UkdIUXZTSkUxbENNbWNmOTRTdU9IRHhvQll0eWlBWW10Y3ExdzU3dw?oc=5",
+          "published": "2026-09-26T17:35:59+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.554,
+      "id": 23
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Nuclear plant upkeep: Cattenom shuts down reactor 3 for final maintenance work",
+          "publisher": "RTL Today",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcHJ3ZDAzVGdIVFBzUlFOVXZJdlhSSFVMRWZJTldTYnhqZmZTaFhNVlhzQXN1aXhreFFQYjNIMURaRnprS3BTcEFTTWNSRlZjUXB3TmR3bEI4NHo2SUlqTktjSGxTZWlVQUJSZXh3bjIxbnZKZzF4QndXWFhBbXJEcTgzeUpham5ZRDdfNWdvWlFlYkV0X0dtZ1kyd0hVZXM?oc=5",
+          "published": "2026-09-26T15:40:55+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.474,
+      "id": 24
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Egypt, Russia review El Dabaa preparations for nuclear fuel delivery next year - Urban & Transport - Egypt",
+          "publisher": "Ahram Online",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZEJFZWFfZFV0dFptWnc1TlNIWEliQmsway1PTWFQV1pCcFJXYXJFNXA2M1k2R1AxcHpGemc3VUFESTd3RjFIT21ISnowcjFuSGpscU9zaWczRzV4MF9UemhrWDY5RW5ZeWZqVVA0a253WS1wRVVLMDZUREtWRW1JWmlhQ1FEbzAxUnJLbHNuanVpUWw4a3VfZEVadGxVSkpSWHVMakY2RmxDYjdCREw4UzhwbWRfbUo0MkVOUUd6TTlmemlCWGdKeGpsa3RVUQ?oc=5",
+          "published": "2026-09-26T15:31:10+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.467,
+      "id": 25
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Palisades Nuclear Plant: NRC Probes Fuel Assembly Tilt",
+          "publisher": "Hoodline",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTmY4cEYzNzdaTGdxQW9IMlNSZlVWXzNwXzFiR2g2UV9mdlhvUnB6Szh3N3BzZ0xNd0dsdk93cnRFc3FQN2ZEcHZtY0RDb24tSmNwT2MzeFdPbmtoWXdWUjhzQnllUE45N2ZGbzdjeml6SU1kWl9fY2ExS1ZfQ0pjZloyRVRGRm9hWmNGaExvQjRGWUFoRkhXem9wbW42Z0J1eF9rNjdR?oc=5",
+          "published": "2026-09-26T15:15:59+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.457,
+      "id": 26
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NPPA Successfully Installs Lower Plate of Unit 3 Reactor Pit at El-Dabaa Nuclear Power Plant",
+          "publisher": "Sada Elbalad English",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd1dLNzBFVlpnSGNpaTRxcXNOWXJDSVNBeFlPV0RXVmtaN2hHcFkzR2NvYzVmREQwRGRFcDBWZUJZM0w5eDdWTUZCSVlpdTFvUUV6QXdjVFFOMDFRLVhWVDcyZGZCLWJuOThFUDNLUEpmYzVpb2xfSG1ma0lWRk00WDBmWVpUcmJZT09UUnlJVDV0QzdKNmJWMWh3cE1CU3BMOWczNUN6QmkzSFpDNVE?oc=5",
+          "published": "2026-09-26T14:48:45+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.438,
+      "id": 27
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Bangladesh, US sign agreement on peaceful uses of nuclear energy",
+          "publisher": "Times of Oman",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWWVoNXRpR1BLNFRPMlZtZmRQZHY0Yy1WMTBORXc1U09OT1RDYXVHTGtzdjBuNm1hbXR0MDlvZTZYclU1YTRQWjA3eTItSlN5ODUzaWpYNUdvTWlVSkNVTVZwUzRYdE9yaUR6WDhBQy1tNG80OE1qNXVKWXN2YU5oQmlTcEI0b1hVcHhrQUNoSTh2ZHk4bTFNcElMNE1SU2szM2NRTQ?oc=5",
+          "published": "2026-09-26T14:32:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.426,
+      "id": 28
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Egypt, Russia review progress on Dabaa Nuclear Plant",
+          "publisher": "Egyptian Gazette",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMjNwNy14Tmp5WlVDT09XUFVEZU5CQjNwT1gwV1dkNVNVU21mZHR1Y2NiOEJ5eTNOOUtRcENvQzRUYXpMWk5iejhrUzNJX0djYjdLUVRyVWpET1Z4VWktVDFUaEJZSkRGazFseHY3RVUwWGxsYUVBM2o2SjVZYXc4cmxSa3FiNGMwbGxUVk9NcUo?oc=5",
+          "published": "2026-09-26T14:22:58+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.42,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 51,
+      "kept": 29
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 8,
+      "kept": 1
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 42,
+      "kept": 34
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 48,
+      "kept": 0
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 3
+    }
+  }
+}

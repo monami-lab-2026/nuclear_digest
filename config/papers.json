@@ -1,0 +1,696 @@
+{
+  "journals": {
+    "Nuclear Engineering and Design": "0029-5493",
+    "Annals of Nuclear Energy": "0306-4549",
+    "Nuclear Engineering and Technology": "1738-5733",
+    "Progress in Nuclear Energy": "0149-1970",
+    "Nuclear Technology": "0029-5450",
+    "Nuclear Science and Techniques": "1001-8042,2210-3147"
+  },
+  "topics": {
+    "열수력·유체": [
+      "flow",
+      "thermal",
+      "heat",
+      "boiling",
+      "condensation",
+      "coolant",
+      "hydraulic",
+      "fluid",
+      "turbulence",
+      "pressure drop",
+      "void fraction",
+      "pump",
+      "thermohydraulic",
+      "thermo-hydraulic",
+      "flowrate"
+    ],
+    "원자로물리·해석": [
+      "neutron",
+      "reactor physics",
+      "core analysis",
+      "criticality",
+      "monte carlo",
+      "geant4",
+      "cross section",
+      "burnup",
+      "kinetics",
+      "recriticality"
+    ],
+    "안전·사고·리스크": [
+      "safety",
+      "accident",
+      "risk",
+      "loca",
+      "tsunami",
+      "reliability",
+      "severe",
+      "emergency",
+      "hazard"
+    ],
+    "핵연료·재료": [
+      "fuel",
+      "cladding",
+      "material",
+      "irradiation",
+      "steel",
+      "zircon",
+      "alloy",
+      "corrosion",
+      "defect",
+      "composite"
+    ],
+    "AI·디지털": [
+      "machine learning",
+      "deep learning",
+      "neural",
+      "artificial intelligence",
+      "ai-driven",
+      "reinforcement learning",
+      "physics-informed",
+      "digital twin",
+      "surrogate",
+      "reduced-order",
+      "reduced order",
+      "cnn",
+      "lstm"
+    ],
+    "방사선·계측": [
+      "radiation",
+      "detector",
+      "dosim",
+      "shield",
+      "source localization",
+      "spectr",
+      "instrument",
+      "measurement",
+      "magnet"
+    ],
+    "핵연료주기·폐기물": [
+      "waste",
+      "spent fuel",
+      "fuel cycle",
+      "pyroprocessing",
+      "decommission",
+      "disposal",
+      "incineration",
+      "storage"
+    ],
+    "설계·운전·경제": [
+      "design",
+      "operation",
+      "maintenance",
+      "economic",
+      "cost",
+      "control room",
+      "optimization",
+      "management",
+      "policy",
+      "sociotechnical"
+    ]
+  },
+  "fallback_topic": "기타 원자력",
+  "keyword_exceptions": {
+    "_설명": "키워드가 이 구절 안에 나올 때는 세지 않음. 예: 'thermal neutron'의 thermal은 열수력이 아니라 원자로물리.",
+    "thermal": [
+      "thermal neutron",
+      "thermal spectrum",
+      "thermal reactor",
+      "thermal scattering",
+      "thermal fission",
+      "thermal energy neutron",
+      "thermal and fast",
+      "thermal/fast",
+      "thermal column",
+      "thermal-neutron",
+      "thermal-spectrum"
+    ]
+  },
+  "trend_keywords": {
+    "_설명": "이번 주 논문 트렌드 구(워드클라우드)에 쓰는 키워드. 이름(한글)마다 en = 영문 표기, terms = 제목·초록에서 찾는 동의어(단어 단위). 화면의 한글/EN 버튼으로 표기를 바꿉니다. 키워드를 더하거나 빼려면 여기만 고치면 됩니다.",
+    "소형모듈원자로": {
+      "en": "SMR",
+      "terms": [
+        "small modular reactor",
+        "small modular reactors",
+        "smr",
+        "smrs",
+        "i-smr"
+      ]
+    },
+    "용융염원자로": {
+      "en": "MSR",
+      "terms": [
+        "molten salt reactor",
+        "molten salt reactors",
+        "molten-salt reactor",
+        "molten salt",
+        "msr",
+        "msrs",
+        "fluoride salt"
+      ]
+    },
+    "초소형원자로": {
+      "en": "MMR",
+      "terms": [
+        "microreactor",
+        "microreactors",
+        "micro reactor",
+        "micro-reactor",
+        "micro modular reactor",
+        "mmr"
+      ]
+    },
+    "차세대원자로": {
+      "en": "AMR",
+      "terms": [
+        "advanced modular reactor",
+        "advanced reactor",
+        "advanced reactors",
+        "amr",
+        "generation iv",
+        "gen-iv",
+        "gen iv"
+      ]
+    },
+    "고온가스로": {
+      "en": "HTGR",
+      "terms": [
+        "htgr",
+        "high-temperature gas-cooled",
+        "high temperature gas-cooled",
+        "vhtr",
+        "pebble bed",
+        "pebble-bed"
+      ]
+    },
+    "고속로": {
+      "en": "SFR · Fast Reactor",
+      "terms": [
+        "sodium-cooled",
+        "sodium cooled",
+        "sfr",
+        "fast reactor",
+        "fast reactors",
+        "fast spectrum"
+      ]
+    },
+    "납냉각로": {
+      "en": "LFR",
+      "terms": [
+        "lead-cooled",
+        "lead cooled",
+        "lfr",
+        "lead-bismuth",
+        "lbe"
+      ]
+    },
+    "히트파이프": {
+      "en": "Heat Pipe",
+      "terms": [
+        "heat pipe",
+        "heat pipes",
+        "heat-pipe"
+      ]
+    },
+    "핵융합": {
+      "en": "Nuclear Fusion",
+      "terms": [
+        "fusion",
+        "tokamak",
+        "stellarator",
+        "plasma-facing",
+        "divertor",
+        "breeding blanket",
+        "iter",
+        "deuterium-tritium"
+      ]
+    },
+    "디지털트윈": {
+      "en": "Digital Twin",
+      "terms": [
+        "digital twin",
+        "digital twins",
+        "digital-twin"
+      ]
+    },
+    "인공지능": {
+      "en": "AI",
+      "terms": [
+        "artificial intelligence",
+        "machine learning",
+        "deep learning",
+        "neural network",
+        "neural networks",
+        "ai",
+        "ai-based",
+        "ai-driven",
+        "transformer model",
+        "xgboost",
+        "random forest",
+        "convolutional"
+      ]
+    },
+    "거대언어모델": {
+      "en": "LLM",
+      "terms": [
+        "large language model",
+        "large language models",
+        "llm",
+        "llms",
+        "chatgpt"
+      ]
+    },
+    "물리정보신경망": {
+      "en": "PINN",
+      "terms": [
+        "physics-informed",
+        "pinn",
+        "pinns"
+      ]
+    },
+    "대리모델": {
+      "en": "Surrogate Model",
+      "terms": [
+        "surrogate",
+        "reduced-order",
+        "reduced order",
+        "emulator"
+      ]
+    },
+    "강화학습": {
+      "en": "Reinforcement Learning",
+      "terms": [
+        "reinforcement learning"
+      ]
+    },
+    "자율운전": {
+      "en": "Autonomous Operation",
+      "terms": [
+        "autonomous",
+        "autonomy",
+        "intelligent control",
+        "unattended operation",
+        "self-driving"
+      ]
+    },
+    "다중물리": {
+      "en": "Multiphysics",
+      "terms": [
+        "multiphysics",
+        "multi-physics",
+        "coupled neutronics",
+        "neutronic-thermal",
+        "neutronics-thermal",
+        "coupled simulation"
+      ]
+    },
+    "전산유체역학": {
+      "en": "CFD",
+      "terms": [
+        "cfd",
+        "computational fluid dynamics"
+      ]
+    },
+    "불확도정량화": {
+      "en": "UQ",
+      "terms": [
+        "uncertainty quantification",
+        "uncertainty analysis",
+        "sensitivity analysis",
+        "bayesian"
+      ]
+    },
+    "사고저항성핵연료": {
+      "en": "ATF",
+      "terms": [
+        "accident tolerant fuel",
+        "accident-tolerant fuel",
+        "atf",
+        "fecral",
+        "sic cladding",
+        "cr-coated",
+        "chromium-coated",
+        "coated cladding"
+      ]
+    },
+    "TRISO 핵연료": {
+      "en": "TRISO",
+      "terms": [
+        "triso"
+      ]
+    },
+    "HALEU 핵연료": {
+      "en": "HALEU",
+      "terms": [
+        "haleu",
+        "high-assay"
+      ]
+    },
+    "토륨": {
+      "en": "Thorium",
+      "terms": [
+        "thorium"
+      ]
+    },
+    "피동안전": {
+      "en": "Passive Safety",
+      "terms": [
+        "passive safety",
+        "passive cooling",
+        "passive residual heat",
+        "passive heat removal",
+        "passive system",
+        "passive systems"
+      ]
+    },
+    "중대사고": {
+      "en": "Severe Accident",
+      "terms": [
+        "severe accident",
+        "severe accidents",
+        "core melt",
+        "corium",
+        "melt-coolant"
+      ]
+    },
+    "사용후핵연료·처분": {
+      "en": "Spent Fuel · Disposal",
+      "terms": [
+        "spent fuel",
+        "spent nuclear fuel",
+        "geological repository",
+        "geological disposal",
+        "radioactive waste",
+        "high-level waste"
+      ]
+    },
+    "원전해체": {
+      "en": "Decommissioning",
+      "terms": [
+        "decommissioning",
+        "dismantling"
+      ]
+    },
+    "원자력수소": {
+      "en": "Nuclear Hydrogen",
+      "terms": [
+        "hydrogen production",
+        "hydrogen generation",
+        "nuclear hydrogen"
+      ]
+    },
+    "핵자료": {
+      "en": "Nuclear Data",
+      "terms": [
+        "nuclear data",
+        "evaluated nuclear",
+        "endf"
+      ]
+    },
+    "로봇": {
+      "en": "Robotics",
+      "terms": [
+        "robot",
+        "robots",
+        "robotic",
+        "robotics",
+        "drone",
+        "uav"
+      ]
+    },
+    "사이버보안": {
+      "en": "Cybersecurity",
+      "terms": [
+        "cybersecurity",
+        "cyber security",
+        "cyber-attack",
+        "cyberattack"
+      ]
+    },
+    "적층제조": {
+      "en": "Additive Manufacturing",
+      "terms": [
+        "additive manufacturing",
+        "3d printing",
+        "3d-printed",
+        "laser powder bed"
+      ]
+    },
+    "의료용동위원소": {
+      "en": "Medical Isotope",
+      "terms": [
+        "medical isotope",
+        "medical isotopes",
+        "radioisotope production",
+        "mo-99",
+        "lu-177",
+        "isotope production"
+      ]
+    },
+    "우주원자력": {
+      "en": "Space Nuclear",
+      "terms": [
+        "space nuclear",
+        "nuclear thermal propulsion",
+        "space reactor",
+        "lunar",
+        "mars"
+      ]
+    },
+    "파이로프로세싱": {
+      "en": "Pyroprocessing",
+      "terms": [
+        "pyroprocessing",
+        "electrorefining",
+        "pyrochemical"
+      ]
+    }
+  },
+  "document_types": {
+    "정오표": {
+      "contains": [
+        "corrigendum",
+        "erratum"
+      ]
+    },
+    "편집물": {
+      "equals": [
+        "editorial board"
+      ],
+      "startswith": [
+        "introduction:",
+        "editorial"
+      ]
+    },
+    "리뷰·관점": {
+      "contains": [
+        "review",
+        "recent progress",
+        "perspective",
+        "retrospective"
+      ]
+    }
+  },
+  "default_document_type": "연구논문",
+  "country_names": {
+    "AE": "아랍에미리트",
+    "AU": "호주",
+    "BD": "방글라데시",
+    "BE": "벨기에",
+    "BR": "브라질",
+    "CA": "캐나다",
+    "CN": "중국",
+    "CZ": "체코",
+    "DE": "독일",
+    "EG": "이집트",
+    "ES": "스페인",
+    "FR": "프랑스",
+    "GB": "영국",
+    "GH": "가나",
+    "GR": "그리스",
+    "HK": "홍콩",
+    "HU": "헝가리",
+    "ID": "인도네시아",
+    "IN": "인도",
+    "IQ": "이라크",
+    "IR": "이란",
+    "IT": "이탈리아",
+    "JO": "요르단",
+    "JP": "일본",
+    "KR": "대한민국",
+    "LB": "레바논",
+    "LT": "리투아니아",
+    "MA": "모로코",
+    "MN": "몽골",
+    "MX": "멕시코",
+    "MY": "말레이시아",
+    "NL": "네덜란드",
+    "PE": "페루",
+    "PK": "파키스탄",
+    "PL": "폴란드",
+    "PT": "포르투갈",
+    "RO": "루마니아",
+    "RS": "세르비아",
+    "RU": "러시아",
+    "SA": "사우디아라비아",
+    "SD": "수단",
+    "SE": "스웨덴",
+    "SG": "싱가포르",
+    "SI": "슬로베니아",
+    "TR": "튀르키예",
+    "TW": "대만",
+    "UA": "우크라이나",
+    "US": "미국",
+    "VN": "베트남",
+    "YE": "예멘",
+    "ZA": "남아프리카공화국",
+    "ZM": "잠비아",
+    "EE": "에스토니아",
+    "CH": "스위스",
+    "BG": "불가리아",
+    "AT": "오스트리아",
+    "FI": "핀란드",
+    "DK": "덴마크",
+    "NO": "노르웨이",
+    "IL": "이스라엘",
+    "NZ": "뉴질랜드",
+    "AR": "아르헨티나",
+    "CL": "칠레",
+    "KZ": "카자흐스탄",
+    "TH": "태국",
+    "PH": "필리핀",
+    "NG": "나이지리아",
+    "KE": "케냐",
+    "QA": "카타르",
+    "KW": "쿠웨이트",
+    "OM": "오만",
+    "SK": "슬로바키아",
+    "HR": "크로아티아",
+    "IE": "아일랜드",
+    "BY": "벨라루스",
+    "UZ": "우즈베키스탄",
+    "LK": "스리랑카",
+    "NP": "네팔",
+    "CO": "콜롬비아",
+    "TN": "튀니지",
+    "DZ": "알제리",
+    "SY": "시리아",
+    "LY": "리비아",
+    "ET": "에티오피아",
+    "CY": "키프로스",
+    "LU": "룩셈부르크",
+    "IS": "아이슬란드",
+    "AM": "아르메니아",
+    "GE": "조지아",
+    "AZ": "아제르바이잔",
+    "BH": "바레인"
+  },
+  "translation_glossary": {
+    "thermal-hydraulic": "열수력",
+    "thermal hydraulic": "열수력",
+    "thermal-hydraulics": "열수력",
+    "pebble bed": "페블베드",
+    "multiphysics": "다중물리",
+    "critical heat flux": "임계열유속(CHF)",
+    "void fraction": "기포율",
+    "two-phase flow": "2상유동",
+    "loss-of-coolant accident": "냉각재상실사고(LOCA)",
+    "severe accident": "중대사고",
+    "molten salt reactor": "용융염원자로(MSR)",
+    "heat pipe": "히트파이프",
+    "burnup": "연소도",
+    "cladding": "피복관",
+    "fuel assembly": "핵연료집합체",
+    "small modular reactor": "소형모듈원자로(SMR)",
+    "microreactor": "초소형원자로",
+    "sodium-cooled fast reactor": "소듐냉각고속로(SFR)",
+    "high-temperature gas-cooled reactor": "고온가스로(HTGR)",
+    "passive": "피동",
+    "containment": "격납건물",
+    "reactor pressure vessel": "원자로압력용기(RPV)",
+    "steam generator": "증기발생기",
+    "subchannel": "부수로",
+    "CFD": "CFD",
+    "PIV": "PIV",
+    "Monte Carlo": "몬테카를로",
+    "neutronics": "중성자 해석",
+    "decay heat": "붕괴열",
+    "spent fuel": "사용후핵연료"
+  },
+  "translation_postfix": {
+    "열유압": "열수력",
+    "열 유압": "열수력",
+    "열-유압": "열수력",
+    "열수리": "열수력",
+    "조약돌 층": "페블베드",
+    "조약돌층": "페블베드",
+    "다중 물리학": "다중물리",
+    "다중물리학": "다중물리",
+    "원자로 반응기": "원자로",
+    "반응기": "원자로",
+    "마이크로 원자로": "초소형원자로",
+    "마이크로원자로": "초소형원자로",
+    "냉각수 손실 사고": "냉각재상실사고(LOCA)",
+    "냉각제 손실 사고": "냉각재상실사고(LOCA)",
+    "로카": "LOCA",
+    "핵연료 봉": "핵연료봉",
+    "연료 막대": "핵연료봉",
+    "연료봉": "핵연료봉",
+    "핵핵연료봉": "핵연료봉",
+    "클래딩": "피복관",
+    "증기 발생기": "증기발생기",
+    "붕괴 열": "붕괴열",
+    "사용 후 핵연료": "사용후핵연료",
+    "보이드 분율": "기포율",
+    "임계 열 유속": "임계열유속",
+    "임계 열유속": "임계열유속",
+    "2상 흐름": "2상유동",
+    "이상 흐름": "2상유동",
+    "2상 유동": "2상유동",
+    "¶": "",
+    "자갈층": "페블베드",
+    "자갈 층": "페블베드",
+    "페블 베드": "페블베드",
+    "포드 감소 주문 모델": "POD 차수축소모델",
+    "감소 주문 모델": "차수축소모델",
+    "감소된 주문 모델": "차수축소모델",
+    "원천 용어": "선원항",
+    "소스 용어": "선원항",
+    "고갈 사슬": "연소 체인",
+    "고갈도 계산": "연소 계산",
+    "고갈 계산": "연소 계산",
+    "고갈": "연소",
+    "지출된": "사용후",
+    "핵산 비등": "핵비등",
+    "분열 가스": "핵분열기체",
+    "이전 학습": "전이학습",
+    "장애 트리": "고장수목",
+    "결함 트리": "고장수목",
+    "제어 로드": "제어봉",
+    "코어 내": "노내",
+    "뉴트로닉스": "중성자 해석",
+    "중성자 전송": "중성자 수송",
+    "광고에서": "ADS에서",
+    "광고": "ADS",
+    "변이": "핵변환",
+    "높은 연소 구조": "고연소도 조직",
+    "높은 연소": "고연소도",
+    "사고 내성 연료": "사고저항성핵연료(ATF)",
+    "열 마진": "열적 여유도",
+    "유압 홍수": "침수",
+    "격납 장치": "격납건물",
+    "하위 채널": "부수로",
+    "1차 회로": "1차 계통",
+    "슬램": "SLAM",
+    "유체 대 유체": "Fluid-to-Fluid",
+    "소형 모듈식 원자로": "소형모듈원자로(SMR)",
+    "유동유발 진동": "유동유발진동",
+    "열 전달": "열전달",
+    "나트륨": "소듐",
+    "지질 저장소": "지층처분장",
+    "연료 펠릿": "핵연료 소결체",
+    "단면 생성": "단면적 생성",
+    "다중 그룹": "다군"
+  }
+}

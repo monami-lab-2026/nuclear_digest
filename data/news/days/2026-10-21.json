@@ -1,0 +1,1236 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-20T19:59:59+00:00",
+  "engine": {
+    "engine": "claude-code-session",
+    "briefed_at": "2026-10-20T21:51:58+00:00"
+  },
+  "overview": "국내에서는 사용후핵연료 저장시설을 둘러싼 지자체 요구와 한울 1호기 정비, 체코 원전 후속 협의가 눈에 띈다. 해외에서는 미국 인디애나주의 아마존 관련 소형원전 구상과 IAEA의 UAE 바라카 사고 대응 평가가 주요 소식이다.",
+  "stories": [
+    {
+      "source_ids": [
+        1
+      ],
+      "region": "국내",
+      "category": "핵연료·방사성폐기물",
+      "importance": 3,
+      "headline": "원전 지자체 5곳, 사용후핵연료 저장시설 지원책 요구",
+      "summary": "원전이 있는 5개 지방자치단체가 사용후핵연료 저장시설과 관련해 지원대책을 마련해 달라고 요구했다. 제목 기준으로는 저장시설 건설과 운영에 따른 지역 부담을 보상해야 한다는 취지로 보인다. 여러 매체가 같은 내용을 보도했다.",
+      "background": "원자로에서 꺼낸 사용후핵연료는 붕괴열이 높아 먼저 발전소 안의 수조에서 몇 년간 식힌다. 이후에는 건식 저장(금속 용기나 콘크리트 용기에 담아 공기로 냉각)이나 별도 중간저장시설로 옮기는 방식이 쓰인다. 국내 원전은 부지 내 임시 저장 공간이 한정되어 있어 포화 시점이 설비 운영의 중요한 변수가 된다. 최종 처분장은 수만 년 이상의 격리를 목표로 하는 심층 지질처분이 국제적으로 표준적인 방향이다.",
+      "why_it_matters": "저장시설은 기술 문제이면서 동시에 수용성 문제다. 공학적으로는 용기의 열 방출, 차폐, 임계 안전, 장기 건전성(부식, 균열)을 함께 만족하는 설계가 필요하다. 부지 내 저장이 길어지면 원전 운영 연장 논의와도 맞물려 설비 용량 계획이 달라질 수 있다. 지원대책 요구는 시설 입지 합의가 기술 일정에 직접 영향을 준다는 점을 보여 주는 사례다. 앞으로는 관련 특별법 논의와 저장 용량 확충 일정이 어떻게 연결되는지가 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "사용후핵연료",
+          "explain": "원자로에서 연소를 마치고 꺼낸 핵연료로, 방사능과 붕괴열이 높아 차폐와 냉각이 필요하다."
+        },
+        {
+          "term": "건식 저장",
+          "explain": "수조 냉각을 마친 연료를 금속이나 콘크리트 용기에 넣어 자연 대류로 식히며 보관하는 방식이다."
+        },
+        {
+          "term": "붕괴열",
+          "explain": "핵분열이 멈춘 뒤에도 방사성 핵종이 붕괴하며 계속 내는 열이다."
+        }
+      ],
+      "question": "부지 내 저장을 늘리는 방안과 부지 밖 중간저장시설을 짓는 방안을 안전성과 사회적 수용성 측면에서 비교하면 어떤 기준으로 선택해야 할까?",
+      "study": [
+        "붕괴열",
+        "건식 저장 용기",
+        "중간저장과 영구처분",
+        "고준위방사성폐기물"
+      ],
+      "reference_ids": [
+        "nuclear-db",
+        "wna-library",
+        "oecd-nea"
+      ]
+    },
+    {
+      "source_ids": [
+        16,
+        18,
+        28,
+        29
+      ],
+      "region": "해외",
+      "category": "SMR·신형로",
+      "importance": 3,
+      "headline": "아마존, 인디애나 옛 석탄 부지에 소형원전 12기 구상 지지",
+      "summary": "아마존이 인디애나주 옛 석탄 발전 부지에 960MW 규모, 원자로 12기로 구성된 원전 계획을 지지한다고 보도되었다. 아마존, AEP, X-energy가 인디애나에서 소형모듈원자로(SMR) 사업 타당성을 검토 중이라는 기사도 있다. 사업 측은 전기요금을 낮추고 전력망에 전력을 더할 수 있다고 말한 것으로 전해졌다.",
+      "background": "소형모듈원자로(SMR)는 출력이 작고 공장에서 모듈 단위로 제작해 현장에서 조립하는 개념의 원자로다. 출력이 작은 원자로를 여러 기 묶으면 수요에 맞춰 단계적으로 증설할 수 있다. 석탄 발전소 부지는 송전선, 냉각수, 기존 인력을 활용할 수 있어 원전 후보지로 자주 거론된다. 미국에서는 건설 허가와 운영 허가 단계를 거치는 인허가가 사업 일정의 핵심이다.",
+      "why_it_matters": "대형 IT 기업이 전력 구매자를 넘어 원전 사업에 참여하는 흐름은 SMR의 수요 기반이 어디서 만들어지는지 보여 준다. 공학적으로는 한 부지에 다수 호기를 둘 때 공유 설비, 다수기 리스크, 운전원 배치가 설계와 인허가의 쟁점이 된다. 모듈 제작의 경제성은 실제 반복 생산이 이뤄져야 확인되므로 초기 비용 전망은 불확실하다. 이 뉴스는 아직 타당성 검토와 계획 단계로 보이므로 허가 신청 시점과 노형 확정 여부가 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "SMR",
+          "explain": "소형모듈원자로. 작은 출력의 원자로를 공장에서 모듈로 제작해 현장에서 조립한다."
+        },
+        {
+          "term": "다수기 부지",
+          "explain": "한 부지에 여러 원자로를 두는 구성으로, 공유 설비와 동시 사고 가능성을 함께 고려해야 한다."
+        },
+        {
+          "term": "타당성 검토",
+          "explain": "사업을 진행하기 전에 기술, 경제, 인허가 가능성을 평가하는 초기 단계다."
+        }
+      ],
+      "question": "원자로 12기를 한 부지에 두면 호기당 안전 설계와 비상계획에서 어떤 점이 단일 대형 호기와 달라질까?",
+      "study": [
+        "SMR",
+        "다수기 리스크",
+        "원전 인허가 단계",
+        "X-energy"
+      ],
+      "reference_ids": [
+        "iaea-smr",
+        "iaea-aris",
+        "nrc-advanced"
+      ]
+    },
+    {
+      "source_ids": [
+        5,
+        19
+      ],
+      "region": "해외",
+      "category": "안전·규제",
+      "importance": 2,
+      "headline": "IAEA, 바라카 원전 5월 사건에 대한 UAE 대응을 효과적이라 평가",
+      "summary": "IAEA 점검단은 2026년 5월 UAE 바라카 원전에서 발생한 사건에 대한 UAE의 대응이 효과적이었다고 밝혔다. 일부 보도는 5월 17일 사고에 대한 비상 대응을 높이 평가했다고 전한다. 후보 목록만으로는 사건의 구체적 내용을 알 수 없다.",
+      "background": "IAEA는 회원국 요청으로 전문가 점검단을 보내 비상 대응 체계나 운영 안전을 국제 기준에 비추어 검토한다. 원전 비상 대응은 사건 감지, 등급 판단, 주민 보호조치 권고, 대외 통보의 순서로 이루어지는 것이 일반적이다. 사건의 심각도는 국제원자력사건등급(INES)으로 0등급부터 7등급까지 나누어 알린다.",
+      "why_it_matters": "사고 직후의 대응이 어떻게 평가되는지는 비상계획의 실효성을 가늠하는 지표가 된다. 학생 입장에서는 기술적 원인 분석과 별개로 비상 대응 조직, 소통, 판단 기준이 안전 문화의 한 축임을 확인할 수 있다. 제목 기준으로는 대응 평가가 중심이어서 원인과 설비 영향은 후속 발표를 봐야 한다. 점검 결과의 권고 사항이 다른 신규 원전 운영국에 어떻게 공유되는지도 볼 만하다.",
+      "concepts": [
+        {
+          "term": "INES",
+          "explain": "원자력·방사선 사건의 심각도를 0에서 7까지 나타내는 국제 등급 체계다."
+        },
+        {
+          "term": "비상계획구역",
+          "explain": "사고 시 주민 보호조치를 사전에 준비하는 발전소 주변 구역이다."
+        }
+      ],
+      "question": "사건 발생 후 대응이 효과적이었다는 평가를 내리려면 어떤 지표를 확인해야 할까?",
+      "study": [
+        "INES 등급",
+        "원전 비상 대응",
+        "IAEA 점검단"
+      ],
+      "reference_ids": [
+        "iaea-ines",
+        "iaea-pris"
+      ]
+    },
+    {
+      "source_ids": [
+        13
+      ],
+      "region": "국내",
+      "category": "원전 운영·건설",
+      "importance": 2,
+      "headline": "한울 1호기 계획예방정비 시작, 원자로 용기 내부 검사 포함",
+      "summary": "한울원전 1호기가 계획예방정비에 들어갔고, 원자로 용기 내부 검사가 이뤄진다고 보도되었다. 연합뉴스, 에너지데일리, 헤럴드경제가 다루었다. 후보 목록에는 정비 기간 등 세부 내용이 없다.",
+      "background": "계획예방정비는 원전을 정지하고 연료 일부를 교체하면서 설비를 점검하는 정기 정비다. 원자로 용기는 고온 고압의 냉각재와 연료를 담는 핵심 압력경계로, 중성자 조사로 재료가 점차 취화될 수 있어 비파괴검사로 상태를 확인한다. 검사는 원격 장비로 용접부 등을 초음파나 영상으로 확인하는 방식이 일반적이다.",
+      "why_it_matters": "원전의 안전 여유는 정비 때 확인한 설비 상태에 크게 좌우된다. 한울 1호기는 운전 연한이 긴 호기에 속하는 것으로 알려져 있어 경년열화 관리와 계속운전 판단의 자료가 될 수 있다. 원자로 용기 건전성은 교체가 사실상 불가능한 설비라서 수명 평가의 중심이다. 검사 결과가 공개되는 방식과 규제기관의 확인 절차를 관전 포인트로 볼 수 있다.",
+      "concepts": [
+        {
+          "term": "계획예방정비",
+          "explain": "발전소를 세우고 연료 교체와 설비 점검을 함께 하는 정기 정비다."
+        },
+        {
+          "term": "원자로 용기 취화",
+          "explain": "중성자 조사로 강재가 점차 부서지기 쉬워지는 현상이다."
+        },
+        {
+          "term": "비파괴검사",
+          "explain": "대상을 손상시키지 않고 초음파 등으로 결함을 확인하는 검사다."
+        }
+      ],
+      "question": "교체할 수 없는 설비인 원자로 용기의 수명을 평가하려면 어떤 데이터가 필요할까?",
+      "study": [
+        "원자로 용기 취화",
+        "비파괴검사",
+        "계속운전 제도",
+        "경년열화"
+      ],
+      "reference_ids": [
+        "khnp",
+        "kins",
+        "nuclear-db"
+      ]
+    },
+    {
+      "source_ids": [
+        21,
+        25,
+        27
+      ],
+      "region": "국내",
+      "category": "정책·산업·수출",
+      "importance": 2,
+      "headline": "한-체코, 두코바니 이행 점검과 테믈린 추가 수주 논의",
+      "summary": "한국과 체코가 두코바니 원전 사업 이행 상황을 점검하고 원전 협력 발전 방안을 논의했다. 이 자리에서 EU 규제에 공동 대응하는 문제도 다뤄진 것으로 보인다. 한 보도는 테믈린 원전 추가 수주를 준비하는 움직임을 전한다.",
+      "background": "대형 원전 수출은 계약 이후에도 설계, 인허가, 현지 공급망 구성, 건설을 수년에 걸쳐 진행한다. 수출 사업에서는 현지 규제기관의 심사와 자국 기업 참여 비율 요건이 일정과 비용에 영향을 준다. 같은 부지나 같은 노형에서 후속 호기를 짓는 경우 설계와 공급망을 재사용해 효율을 높일 수 있다.",
+      "why_it_matters": "EU의 역내 제조 요건 같은 규제는 해외 사업자가 부품 조달과 공급망을 어떻게 짜야 하는지에 영향을 줄 수 있다. 공학도에게는 표준 설계를 해외 규제와 현지 조건에 맞추는 과정에서 설계 변경 관리가 중요하다는 점을 보여 준다. 제목 기준으로는 추가 수주가 논의 단계로 보이므로 확정으로 단정하기 어렵다. 앞으로 체코 측 절차와 EU 규제 논의가 어떻게 진행되는지가 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "원전 수출",
+          "explain": "설계, 기기 공급, 건설, 때로는 운영 지원까지 포함하는 장기 사업이다."
+        },
+        {
+          "term": "현지화",
+          "explain": "수출국 안에서 부품과 인력을 조달하는 비율을 높이는 요건이다."
+        }
+      ],
+      "question": "표준 설계 원전을 다른 나라에 지을 때 설계 변경을 어디까지 허용해야 할까?",
+      "study": [
+        "원전 수출 사업 구조",
+        "공급망 현지화",
+        "EU 택소노미"
+      ],
+      "reference_ids": [
+        "wna-library",
+        "khnp"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Philippines advances plans for nuclear power as energy demand rises",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/philippines-advances-plans-for-nuclear-power-as-energy-demand-rises",
+          "published": "2026-10-20T16:15:21+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        },
+        {
+          "title": "Philippines advances plans for nuclear power as energy demand rises",
+          "publisher": "World Nuclear News",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2dNbV9fVkRFdHU4M1h3LUpmNnVHMjJvZ0l5akM4WEhjSFc2OEV3dEprZ0l2TElIZERhRFVwY2oyWk5XOUg0WmdJU2ZadU1wVTIwNXdYemJpMld2UzRpOHpmU2pnOVk4WDZzNVI1YUdJUHBoTkRJN3g1VTRwMkI1LUFKOHhvTkJQcnpBQlJmT3JNUHdvNFhIam1ZZk1VRWtRdkhFYnVwRWhFQm8?oc=5",
+          "published": "2026-10-20T10:11:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.844,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원전 소재 5개 지자체 “사용후핵연료 저장시설 지원대책 마련해야”",
+          "publisher": "경북매일",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pZ0VCbm1jdG8yaEpaRE5TYVpoQW9BeENLdVhfTTNaTGxBcEFpdS1mUnZzNDRlcHdTVlVMUkd0aU9PaHFmc2hRd295cnhETzZ2NnoxYlpscElNUQ?oc=5",
+          "published": "2026-10-20T02:24:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경주시 등 원전 소재 5개 지자체, 사용후핵연료 저장시설 지원대책 촉구",
+          "publisher": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aUmpoX1dOY3U1TElCS1hfYWtrZi15T2ZnYTlDV2xoUHRUOVpET2xDRGVWanltd3dVNV96SnpqRTdtUGd5Sms0ODJBR2QxLWZHS2xzQ0xOdmgxT0Y0OG9hM0xBZi0?oc=5",
+          "published": "2026-10-20T07:28:01+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원전 소재 5개 지자체, 사용후핵연료 저장시설 지원대책 촉구",
+          "publisher": "KPI뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50eDA4cDdaXzlCYXBJcTZ4aXBKNFlOT0g5dERnWEZiU2I3aGlpUk9YekNxVTBfV1ZLdk1VVGw3MEdackE2eUNEd2dyTEMyYnFWaWlJ?oc=5",
+          "published": "2026-10-20T07:28:43+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경주시 등 원전 소재 5개 지자체, 사용후핵연료 저장시설 지원대책 촉구",
+          "publisher": "프레시안",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQWWw4bzlUQUxzMGU0Z0kzZGQxOW1CTnRocWhxZlZoa1RIVllSWERJZHNaem83Q2JjbnZWZ3RSX1ExQUtiN2hrV1g3REZEbkMzNjkxNnBLQ1dYdHE4MVBPTnhoZTN0b3QzRTZr?oc=5",
+          "published": "2026-10-20T07:59:09+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경주시, 원전 소재 5개 지자체와 사용후핵연료 저장시설 지원대책 공동 건의",
+          "publisher": "시사경제신문",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pUGI5anRaaC1PeWt5TEdMX0lvN190RXNwTFBOMmNWc2pDVTNUYWtjVDZ4X3RXWk4yMWNLRC1BeThnYlVpdkFJNUNsRWlWQXBzdF9kWlpRVnMxOHk0eDZuLVZGdEd2YzhNdnc?oc=5",
+          "published": "2026-10-20T08:42:42+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경주시 등 원전 소재 5개 지자체, 사용후핵연료 저장시설 지원대책 촉구",
+          "publisher": "경북뉴스",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5nVzlwcVoyemo2bVBxdTNzeFJkZzF2bnp3b2N5X1JxX25VYTlxQ0VVSVJ4MWR6X1VGMWMzcVhjNFlXeVl1a0d1TmdzamNHSWJZUG02ZDcwdEFzRi1hVVB5bDJTNGhVME9Kd1V3d0RlRVdSWFF0SUluUGs1TFg?oc=5",
+          "published": "2026-10-20T09:05:12+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원전 소재 5개 지자체, 사용후핵연료 저장시설 지원책 마련 촉구",
+          "publisher": "노컷뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YMVUyejFMRFJaYXhTbjgwQlFhQXZabUs2M2ZUM1c3VW5VdF96aTJtRjR3QWRmSGNNVmVGbTVzMUdvaTEzQlI1TkhXNFIzOVdzdkE?oc=5",
+          "published": "2026-10-20T09:05:28+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원전 소재 5개 지자체 \"사용후핵연료 저장시설 지원을\"",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YSm5oczJ3R2dFSkRTSi1KUkRzbzI5d0UtclhGTHUxUWRWTXJkQ29zaGdNeUtZYkZnRW1haGlPcGd5cDNzeFdZUlotaVd6ZUphdVJYWkJZWG9ValM5a3YxakQzMUpNNl9uc3hfdUQ2VjNQUVFzUUlXbdIBeEFVX3lxTE9YSm5oczJ3R2dFSkRTSi1KUkRzbzI5d0UtclhGTHUxUWRWTXJkQ29zaGdNeUtZYkZnRW1haGlPcGd5cDNzeFdZUlotaVd6ZUphdVJYWkJZWG9ValM5a3YxakQzMUpNNl9uc3hfdUQ2VjNQUVFzUUlXbQ?oc=5",
+          "published": "2026-10-20T09:37:34+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "전국 5개 원전 지자체 “사용후핵연료 저장시설, 실질적 지원대책 마련하라” 공동 건의",
+          "publisher": "뷰티경제",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oNEJBMGZ5LWJUUktrNkUxcnVSNnYta2h2UXNud1lvMGIxZ2U5T1ZhdlFUQ1l4QmdJZzVZbS13cTBLLTh6dklkdVh5MHV2MU9rV2RnaGw4NlNON005RGlkRzFHQXZqUUtiRFE?oc=5",
+          "published": "2026-10-20T10:03:42+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경주시 등 원전 소재 5개 지자체, 사용후핵연료 저장시설 지원대 촉구",
+          "publisher": "세계일보",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPVEo3UGo1YVFoa1pyUnFPanM0VlBWRVZrVEc3MHlGMHJ2SUVhcE1rTkFwcHM4S0FscHRFZ2tyTkc1Uk5BazlJZHJUblFTc0FQ0gFUQVVfeXFMT2M4eHFqZWVwYmtwNFFmQVVuSDhzdklIVVhmc0RCY0R4bEdIbVdDVEFIT3hMWXI3RENGV1NsOW1EVTFEekw1UU9GMmtQNWJ6WU9SdVhX?oc=5",
+          "published": "2026-10-20T10:57:58+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원전 5개 지자체, 사용후핵연료 저장시설 실질 지원대책 촉구",
+          "publisher": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QOTNvQXdFaWdTUi1tajdxRDM1OHVzQl8zQ2t4N1ZNNkp6bFI3MXVaSVEzbERLaTAxZm1ZOExySUFFeU45Sl9nZVUxektuRjE0UFBFYzBLUl9kUTF2?oc=5",
+          "published": "2026-10-20T11:44:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경주 등 원전 소재 5개 지자체, 사용후핵연료 저장시설 지원대책 촉구",
+          "publisher": "뉴스타운",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DOXB4SmZxYjRWNmZISFZMZW1HVHJEWU5Qdm9FekRGbkc1aEtMYWo2Q2xjYjRfejd6cm1yamFvbUFXbzk1ajFMNWNjSmxjVTIxdnF1ZDc1SzhsWUY2V2pzWFQyOEFaZjMxcVUtbnp3?oc=5",
+          "published": "2026-10-20T11:46:10+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경주시 등 원전 소재 5개 지자체, 사용후핵연료 저장시설 지원대책 촉구",
+          "publisher": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nNW9QcFJSZ1VpYnY3NHFMNE9KYUt3ZDByeXZhSU1CUDI5UUFVMXlTQmhfbUV0bkw3OWxhc0tDVno0eko1MFZsTVdIdXFfQUVRcnhNWmZiclQwZw?oc=5",
+          "published": "2026-10-20T12:46:16+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경주시 등 원전 소재 5개 지자체, 사용후핵연료 저장시설 지원대책 촉구",
+          "publisher": "대구매거진",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wRzBkV1JpUGlIN2xRN21jeFJUNDVhQXJLam1Bd1NQaXJIeE9GQWJoQ0JBa3REdnJOOUQtOTF1aE1sN29lcHA1Vkppd3ZMM1c1cGNtT0lUdXhoeWtHb3g2SEdPZGRIZWFrZzBDRmVWQV9UZ9IBckFVX3lxTE9wRzBkV1JpUGlIN2xRN21jeFJUNDVhQXJLam1Bd1NQaXJIeE9GQWJoQ0JBa3REdnJOOUQtOTF1aE1sN29lcHA1Vkppd3ZMM1c1cGNtT0lUdXhoeWtHb3g2SEdPZGRIZWFrZzBDRmVWQV9UZw?oc=5",
+          "published": "2026-10-20T14:46:53+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.783,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 타지키스탄 최초 MW급 태양광 발전소 준공…중앙亞 후속 사업 발굴",
+          "publisher": "아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03WWFOOE13U3VFNVZrelpXVnB6TWV6UGZtdGFQTHVHTUpsMlFnSElQcjNkRzl4RVU1TGZHcTlIcWU4YkZlN2Q3QWNDSXduNGNsQWlHQW4tNWnSAVhBVV95cUxNN1lhTjhNd1N1RTVWa3paV1Zwek1lelBmbXRhUEx1R01KbDJRZ0hJUHIzZEc5eEVVNUxmR3E5SHFlOGJGZTdkN0FjQ0l3bjRjbEFpR0FuLTVp?oc=5",
+          "published": "2026-10-20T01:41:46+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력, 타지키스탄 최초 MW급 태양광 발전소 준공",
+          "publisher": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lS3BOYlptQk1VV01DcXp0RDdhMi1iWlROSHVVRndRT1M1UHBPQlItQ2pkQTdFbm5XemtxbERIRE8tRlYwaEZWcTloMGJ2SEEwVWE4TG9yN2IwelVYSVh1WDQ2UlZSWUE?oc=5",
+          "published": "2026-10-20T01:49:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄 첫 ㎿급 태양광 발전소 준공",
+          "publisher": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6QTlFdVlpZngzeFRFekYzY19aZjlJVUtwR296TG0xTTJxYldIXzRxYThMWFJkWS0wVlRsRDRvWTBDNzlUZHRORmlDRTdJWFROOVpGams2ekFWNVhTWmRNZWE4Tjg2dUN0dk5BVnRtblE?oc=5",
+          "published": "2026-10-20T07:05:08+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄 첫 MW급 태양광 발전소 준공···ODA 사업 완료",
+          "publisher": "헬로디디",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uSFI5cXY4NlYxMkVIaS1sQTNieHJVSS1xUFhsTnJpU3hHSFFMR1MyWGx4ajJPM0RyS2hKQ1lxRHYwNW5xbVRGNDBRa3JMMVZhMkZaWEdpcUI3SVk1Z3V3cnlIeGJtd3owZUE?oc=5",
+          "published": "2026-10-20T07:10:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄 첫 MW급 태양광 발전소 준공…전력난 해소 지원",
+          "publisher": "뉴스투데이",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSeWNteXpnRUhnbnFYMU90bG9JNElpWW53dlBKMTJYTVJTbTRXWFg2VTNheGdIdzNqUmxGVk96WFZqVWw0Nnk3YU1BYkJsaXJnOTMzWERxRE84c3pseUE?oc=5",
+          "published": "2026-10-20T07:32:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄 최초 MW급 태양광 발전소 준공…“안정 전력공급 기여”",
+          "publisher": "ER 이코노믹리뷰",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwUXNSY1hIVkFTbmlTWHotbTE5QVBOTzgxSmFRN01YVFFkWm1ZbkQyc3E0V2NScjlXUGgwMnV6OG45WWJMR1pPcGJGTS1kRTA4QVluVmgxekJTUUQxbjZqbDdCejdHclh4OGV2eg?oc=5",
+          "published": "2026-10-20T08:31:53+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄에 6MW 태양광 발전소 준공",
+          "publisher": "경북일보",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxeXBDQl92VFVsMmdMYWxVdy1GSUN3T0VSUkRLbmFpRnZuZmZmRzBCRjEyTGROaDd3dFlvQUZ2MHZDNkd5TkFWV2hMaE0tMjNPV252ZnJPUE0zNzJGSVlaRHhBOXdGNjI5TTBHcy0yNA?oc=5",
+          "published": "2026-10-20T09:21:31+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄 내 3MW 태양광 발전소 준공",
+          "publisher": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NVG9xX252Tkl4SHBpeVEwNG5UWU5FS2YzZmhKaklmblpCRkFLTlpTNjY0V01kSi03ZzN0NEt1MzVtOEpZdEpQN0tZNEpQYVNnTl9BeUM5ZTRFTktqRFB2Q2FwaVg?oc=5",
+          "published": "2026-10-20T14:14:32+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.76,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 타지키스탄 최초 ‘메가와트(MW)급 태양광 발전소’ 준공…지역 주민 생활 여건 개선",
+          "publisher": "KNS뉴스통신",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tLVFSWFUyell5T1dMVFRzZHc3dzJOY09uQkNfeHBBZ3I2WXFXSVZGNTA0cE5PMjNyckhTUnIwUTRqQ0FmZndOT2ZTTWtLM0ZNczd0ZUt5YVR2aTJ5OHpkYThtSEI?oc=5",
+          "published": "2026-10-20T01:38:38+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄 최초 MW급 태양광 발전소 준공",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKQ2RUR2JfelYydEhncHZ5ZWJSdF8yeFlVaUk2RzRMTFRQMkgtZVFYenUtVDc1X0RFZ0tIUUZsdWFEdDZyWHkxVlZ6MUVXZmVhaVl0Q3QyLUFBV2xSQ3cyTHk5RzFzbEZTR19hQTBpNDc1cC1mVjctQdIBeEFVX3lxTFBKQ2RUR2JfelYydEhncHZ5ZWJSdF8yeFlVaUk2RzRMTFRQMkgtZVFYenUtVDc1X0RFZ0tIUUZsdWFEdDZyWHkxVlZ6MUVXZmVhaVl0Q3QyLUFBV2xSQ3cyTHk5RzFzbEZTR19hQTBpNDc1cC1mVjctQQ?oc=5",
+          "published": "2026-10-20T01:42:24+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄 최초 메가와트급 태양광 발전소 준공 - 조선비즈",
+          "publisher": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUWlxRXVwZzhLU3BlM0x2VTdISGNyS2t1UzNCcTdZLTA1WnFpcFlnMXVvUGYyQzg2bzJ0ZHhicU9SX1BrX3VjRWk5TFFTZWZoNDl0SERDLXNUSkNXQ05FRzYtSUF3N1hDaE5PSjBaTDBSOWlZaXB0WjI4dDZJQUdEZmJVdVfSAZgBQVVfeXFMT0cwMXQyNkltNF9TQ0l3c0FOODQ3bTYwd0NzeUwyd1hjbVdUX3hNQ0lfaHNrQUs2V212SlpCTkc3eGxsV0RCLWdFMHhoNV9vRlhSMVhIZjEyS0lRdlpSRGNRdFlodHo1Tm54VDJLdnV5UGkyeHNFVkc2dWhZSnZqM1BGV1Jvd1VXVGwybTk3ajI0V2ZmWkVFd00?oc=5",
+          "published": "2026-10-20T01:54:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄 최초 ㎿급 태양광 발전소 준공",
+          "publisher": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPbFVUa1I4WWREcGI1R2hmLXJQd2FGQ0VhZE85eXdOTUE1VWZ0ZG1jQVlYbjFsNDJqR0U4R2hNcHlaM1ViRE5yZ3huTm9wMTFzZ1BGOHYzMFZOY0wxaFNGMnV0cEhPWmNuOERSb0V1V2xucHVGanlGSjRnWDNUelpkTk52anBSWnFoVmdjdFNqYS1mU1VySDlCd2RReFBMSlpwS21iRmVJX0xUWER0NHZ3SXh3QnYtaDNNS2ZRMEtYcFZ0R3FySHo0SkY3XzZHRFo3dFpIb241ckZBQVN5VVJ4NXkweTNWYUN1VkJjdTlON3BWT2ltaVdGUXRhZWlSZUdzSHc0VlVGYTlDY0N5T2JfeXROSjJuWWc?oc=5",
+          "published": "2026-10-20T01:55:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄 최초 메가와트급 태양광 발전소 준공",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BVi1HT21zWU9pNS0tUTBVdWdkdjVkVzU0VjVySHUxSzFxbnR4emRTQXM3STNvVzhPOS1VUTZKSEtRNTVaN2QzcC0xQ2EySUhVbWpTU09Ea3JjSXPSAWBBVV95cUxNODVyWmNGOVJxcmI3ZllibmxGOUZkUlVPTnk2Vks5R2RNOXVxbnpINExuc0JkMGg3SlJFWEtiZkxtRlA5MWtIZHM3RHBLVm9wNjJNcTVWS3VlNjVBVVQ2Rnk?oc=5",
+          "published": "2026-10-20T02:06:22+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄 최초 MW급 태양광 발전소 준공",
+          "publisher": "더트래커",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WR1FqSzNDMjh3bDFKamwzX0N6a1hTZWN4clV4cExnRHZaRHA3OEJyUHNUS0ZQQjliNkt1aGdtSDE1eWNJcERCUHJlU1gwVTY1MEtnbHB3TkE?oc=5",
+          "published": "2026-10-20T02:23:32+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄 최초 메가와트(MW)급 태양광 발전소 성공적 준공",
+          "publisher": "지이코노미",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMMXZFMEdGaDVhV1l4ZEl5WXAtT2t6TDRUT0ZnVnRsYTFrV0txZEhBc2NTUE5TTHphZTJMd2IwaDNrd1dsZ3prcUUyVXZmZXRBSTBBRUtQY3pfaWtaY0lRX3YzZExBRzQ?oc=5",
+          "published": "2026-10-20T03:00:16+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄 최초 MW급 태양광 발전소 준공...국산 기자재 적용",
+          "publisher": "팝콘뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Wc0lrUkItY2xKT2xCM0NtSUJzUmNpTDBJLWp5eXhTR1JmSzROWlY0SlUtUXpWQUxnQ2s5eUxZZjVJSG5YVTgzZVB5eWI5a3h1c29BUVlpd19CVXp4YTRsWlY5NUxURGZVSU8xUHVn0gFyQVVfeXFMTlg0NzJUeVFPSTIzdjQ3NWRSbkZlYm92VHJ2cDhSSEp3cmRudzZxVUNmTGwySUNVNXVFRVBrTDMyMHlaNmxGNFRUTEtEM0JRSVFCYWFCWDZ2SWNqbEZOMFhlNmVyTDc0cU5uc3p6ZjhDS0t3?oc=5",
+          "published": "2026-10-20T05:27:01+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄 첫 메가와트급 태양광 발전소 준공",
+          "publisher": "코리아포스트 한글판",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfSkdiTjZXcmZ0aE5NZms5eHRjQ0RZMTJlaVB5SWZSUm43VDNZVzBWWHdaTGd3cmNtNnVZZ3N2dExPOXczd2Eyd2lwTy1nZXhsYzVhQ3V0dkpWMllLVjV6ck82MnJMUlVMNzdCam93?oc=5",
+          "published": "2026-10-20T05:30:09+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄 첫 MW급 태양광 발전소 준공",
+          "publisher": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9acEtlaUVJTE4yNFRYbGJ3cFlMU2ozd0hRZmhRd0xFZEFLWV9ESFd2WndEY2lQWUd2MnQzOGVTbmhHOHVlWV9sbXJvRWVvSV9UTnBENGlHaWZ1QQ?oc=5",
+          "published": "2026-10-20T05:46:04+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 타지키스탄 최초 메가와트(MW)급 태양광발전소 준공, 안정적 전력 공급 기여",
+          "publisher": "비즈니스포스트",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrZEJkTUxxalhBcXJsRHdPVnRFeWRzUnNFV195TUVhU3draXRnaHJFUXV4R3RXMnpVcTYtQzJpZ0xUQzdQcUl3c3RKZVVPY1BOTVgzV1FIOHE1QTVXVGZkYURWcXJaSGVNNnAtU1g4SUNCYkU?oc=5",
+          "published": "2026-10-20T06:06:17+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄 최초 MW급 태양광 발전소 완공",
+          "publisher": "KPI뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5OdHNScGd2YmY3TlhqRzdpZzBJZHlUUk53UmRWbzZrM010MXFCcXd4YlRjalJ1Tld1M2hnTGg2RjA4SFZOckFtM2wwNzBiMWgzY19qRmh4cw?oc=5",
+          "published": "2026-10-20T07:05:21+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄 최초 MW급 태양광발전소 준공… ESS 연계 구축",
+          "publisher": "인더스트리뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XZEhud0hEdlFHcXpuS0Y4eE1lNjN0UlNRbHVRTmZNMmEtbWVhV216ZGZuNm1mZEhqQ0M0VnNNTFdvdlNLS2xjbHRVbnBMc2FndE9VNkxPTEJqOFloX0ZlS2J4ZWFUdmZnbDNFVEFmX3NKZw?oc=5",
+          "published": "2026-10-20T09:02:24+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력, 타지키스탄 최초 메가와트(MW)급 태양광 발전소 준공",
+          "publisher": "서울경제TV",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03VldISkJKYVZMLURCdUthU1poaWxsbWE1M2NjUUxONUxVQUJHQXRKTjAxZktTemlDLV8yTEt2ZWRtRUNiNlNmOWpTZHFvbWxpVTV6NThHWE5NZ2VkLVYyay1mZHM?oc=5",
+          "published": "2026-10-20T09:39:44+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄 최초 메가와트급 태양광발전소 준공",
+          "publisher": "부산일보",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9CSXFBRDZYRE9sOTQ0azVwWFBXZXhpTDRDYUVCWVhYVVQxWmdta21yNTdjZlFScDhuS1RLYlJXdW5faGRvNHlod3hyV3ViQ0wyRFQxcnhOZDZyeEREajd4aXpvcWlSZlF4VUFLWEFReEUxb1NWeHNkc2M4Zk0?oc=5",
+          "published": "2026-10-20T12:51:19+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.702,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 타지키스탄에 첫 MW급 태양광 준공⋯중앙아 진출 교두보 마련",
+          "publisher": "이투데이",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DLU40allKVmtvQmVPdGRNVEtfRGxWRUFBT3FtdHh5NDgtWmtqd2VJaHVWWDNPaFFWNXBFb1RzZlNRLW9nRHdBMUVkMFM4OGVsV0ZvRA?oc=5",
+          "published": "2026-10-20T01:33:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄 첫 MW급 태양광 준공",
+          "publisher": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zb2NWTkM5TlZiNUR1OC1wdzN4dFA1MmUzdTRWbWZvalZiQVUtZEVxRkRwOVphQ29pT29sSUpQdkFzR1NsMVVIeWx0UDExNFhsdm5EVVMzeUprb09KWkdLOGFVOUE4VkpIS2RoRjZaMTV0SUHSAXdBVV95cUxNb0pUamgyc3BkejVvUDNVM3VaU2VqTkI5SjY2UTFuRUQ1UkVEYnd5eHhqaHZtMGtpSmdUQmdTUTRFcWh2T21ROWVKRm9jdHlnaTB1a3VvdHdkMEM2SHEyZ2xzYlJ2dkJDYkprekxqaUw3UjdKOVhUUQ?oc=5",
+          "published": "2026-10-20T01:35:32+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄 첫 MW급 태양광발전소 준공…중앙아시아 진출 발판",
+          "publisher": "경북매일",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PUWZTN3BoV1YwQzVtbDRuWlhEdGhCb2JXVUtlWm9Ob0FkTWctaU9vN1F4VlZTeVlSSHYyaGZfZGJqSVVqSHJlOVI0V3ltUGpwZ19hVFNBTWRVQQ?oc=5",
+          "published": "2026-10-20T02:21:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄 첫 MW급 태양광 준공…중앙아시아 공략 발판",
+          "publisher": "뉴스퀘스트",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jRFlMbThjb1NmNDVPR2lFVHBWa1pDRWU1dG5nSjFrQTFOLXloVUNkZ242bW9rZnU1TkxVOWdCWUlHNjVRQ2dPZ1dRUnhRUFVYOUZ2T2xHeWdlckhuSGJDUkRDa2Z5TXJ1NldmaFQ3Zw?oc=5",
+          "published": "2026-10-20T02:35:17+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄 첫 MW급 태양광 준공…중앙아시아 에너지시장 진출 확대",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3T3Z2YW9iY3ZkRHBmQ2UwbzM0c1hLTmF2SlU3UTVCd1Q2NmI5NnAySUROM0MtaHlLWXFWaHhBN092SWJUZURwSEVwRnBJdjRvLXE1UXBydlRRajItYUtmc3Etb0M?oc=5",
+          "published": "2026-10-20T02:46:16+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 참여 타지키스탄 태양광·ESS 사업 준공 … 중앙아시아 진출 교두보 마련",
+          "publisher": "워크투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JM3BmcFZJWF9sNTNGVndydVFUUElKR21FRmhrSU4xdnd3dGtYc0xVMTVLbVg2VnVBQURBZkFOenFIM2d3cEI5TEFJRkFaOWJZTk0wUDA2bTd1NElXSG5VYzFLMkg5akdjVjhPNg?oc=5",
+          "published": "2026-10-20T04:19:51+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄에 첫 MW급 태양광발전소 준공…중앙亞 사업 확대 발판",
+          "publisher": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1veG5UQk5NS3JTdE9ZcWdOWnpYcTdZcXBFMUNORThYWHN2MnRnVjNwb0x4aWw4Vk5XYTlxREdJMy1xVGNQZXloSUZEcVJwQQ?oc=5",
+          "published": "2026-10-20T04:42:48+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄에 3MW급 태양광발전 준공…중앙아시아 진출 교두보",
+          "publisher": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHWHkyTkU5N1lBNjZza0VsUktHZG9DeWlZLW9wQUptUTBDSHYyMGxsd1hrSnRKUVROOVhRd08wYzczSUQxb1dSRnlBLTMtSkdtTF9Va2lCM3JYOHpp?oc=5",
+          "published": "2026-10-20T05:47:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄에 첫 MW급 태양광 발전소 준공",
+          "publisher": "미디어펜",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HZjlSR0tYMlpEdHlad3AxN3RDdkxtTDI5YktrUjA0RE81RXFtMzZKa1ZWZHB2MU9TREpCcnExUzJ5TU1XYko5YThrRnhTUzhtTVRJY9IBWEFVX3lxTFBZbHJqNl9yc1VoS1ZkSVZGZGJ0WU5CNmxkb1pvd1NQVG9jMW5ERUFneVRZRkcyZV82bGJWV1diUUpCM1ZLTXUyOU5tTDk1TWJqZTNES01sWjk?oc=5",
+          "published": "2026-10-20T07:56:38+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄 첫 MW급 태양광 준공",
+          "publisher": "이뉴스투데이",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jNkwyeklVTnV6cllveWNhRnZLTnJFQzNBQmlxTERPQVhrYk5EMkVncjNVU3dvOWVlM3FTVk1RSm0zaWhxQ0lUUVMwMTdzaFhyOXlnUzhqU1NaYzJ1NEc2SzBUaTc1alMtOTVtMHViX0xFd9IBdEFVX3lxTE9WbEZ5YWJiS3FHeGY5OTJEXzZyZHIzTklEQ2QzbHVod0xJVXB2WEVvOVJteWt3cHZRX2paeGV4NllzNnZBTkRDUzVfXzQzc1RONllMYTU4X0RfQ1l1VG9oTlg1UlRNVm44M3ZaZnJFMjhFVFR2?oc=5",
+          "published": "2026-10-20T10:15:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.594,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA Mission Says UAE Response to Barakah Nuclear Power Plant Event in May 2026 was Effective",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/pressreleases/iaea-mission-says-uae-response-to-barakah-nuclear-power-plant-event-in-may-2026-was-effective",
+          "published": "2026-10-20T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        },
+        {
+          "title": "IAEA Mission Says UAE Response to Barakah Nuclear Power Plant Event in May 2026 was Effective",
+          "publisher": "International Atomic Energy Agency",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaGQzZ2JlZC1qb1NkczJuZFphZE1PVS1nRXJ1RUNBZFdQLWNiajBvWHZrRmNPYlJrZjNqamFWZkxaRHBxNGhPdGg1bld4TjlvN3E5MXhMZ3R0VFFhYzdBdjRJZTlfdlB3dzUxbTFROEE1TUVNbzVVQjJIcDNST28yTFRJRDNSRHdjN19KcGQ0RkQ5LWh3TUZldFBWQTF6TUFnMnQyQkFuamRSXzFqMVViMjBBM0dkN09tZFMzRHBiZGFpTnZxOEs4d3ljTmlEbDZKdjIxamdB?oc=5",
+          "published": "2026-10-20T08:56:16+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.539,
+      "id": 5
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 타지키스탄 태양광·ESS 구축사업 준공…중앙아시아 진출 확대",
+          "publisher": "세계일보",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jazlteXg4eVYybkF4Z2FyWjFJVkRUNEx3YXE0WEk1NGZLeXZ2M1pibnFJZGJjZFI4ZGEyN3Nxb1hZbDJkQVZFZVAtSTF3Xy0xMHYwT9IBVEFVX3lxTE5jazlteXg4eVYybkF4Z2FyWjFJVkRUNEx3YXE0WEk1NGZLeXZ2M1pibnFJZGJjZFI4ZGEyN3Nxb1hZbDJkQVZFZVAtSTF3Xy0xMHYwTw?oc=5",
+          "published": "2026-10-20T01:47:56+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄 태양광·ESS 준공… 중앙아시아 에너지 협력 확대 발판",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBod2Z0SmRINEZsV0doRkduTGxLWW93bmhXVDRYV2RxOXdEN0JaeXRITDlLU1hBR3cyT1pYSUlER0s5UWVDWFBkeDYtSDFpbXBDXzB0NGFCU2FVM0tnM1FoOE92aWFfdjNmdUpmODF3Yl9qQQ?oc=5",
+          "published": "2026-10-20T01:53:18+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄 태양광·ESS 사업 완료… 중앙아시아 진출 확대",
+          "publisher": "Korea IT Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OOWQxX2lJOEZDaVBtT3FFTzBCUmxyYXVESWROYlktU1RxalZIUWxfWnoyYU5fNDVPa3huWmZLQi1RaWJLYWFrcDFjNVdVb3l3ck82VWtVTXpYQTZtQnY1bDMxb1U2ZndtRVBORHFlaTA?oc=5",
+          "published": "2026-10-20T03:27:10+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄에 첫 태양광 발전소·ESS 구축사업 준공",
+          "publisher": "화이트페이퍼",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDdXdMNnpERGtwWWNNeXpfbHFHNTBnekZDYnZKVDN2WXFtck5BdzZEZW92QUE2dkJsT0lSMW5lemdNSnR0VXJaamgxVko1bUwzMGJQQzZpd0NUSkd5bjFSUEJmN0RJaDNhYkNqS0lzSWhLUHfSAXNBVV95cUxQQ3V3TDZ6RERrcFljTXl6X2xxRzUwZ3pGQ2J2SlQzdllxbXJOQXc2RGVvdkFBNnZCbE9JUjFuZXpnTUp0dFVyWmpoMVZKNW1MMzBiUEM2aXdDVEpHeW4xUlBCZjdESWgzYWJDaktJc0loS1B3?oc=5",
+          "published": "2026-10-20T03:58:53+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄 태양광·ESS 사업 준공",
+          "publisher": "더팩트",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5kZjVNTjBRVzBjU0l5SmExam1ib0RWcE5yazFoWFFKZGVwdWZTcGM3WHY1cW1XY09OTHN5U1k4dEtjMjRJQTFaRzdhV2RrS2pXSE1aZNIBVEFVX3lxTE5kZjVNTjBRVzBjU0l5SmExam1ib0RWcE5yazFoWFFKZGVwdWZTcGM3WHY1cW1XY09OTHN5U1k4dEtjMjRJQTFaRzdhV2RrS2pXSE1aZA?oc=5",
+          "published": "2026-10-20T05:19:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄 태양광·ESS 구축사업 준공...중앙아시아 진출 기반 확대",
+          "publisher": "중앙이코노미뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kUVVpZVdzaW9KRHZTZ3Awclpxd01aZmJla3IwdG12YjBWUGFkeHpVY25qSGlwNGVnNDdhNjRnV0pvR0x6a3hKS25DeHd1UjhzNGliY043Ymc1alFvWlFIeDdoZlRVSnNCU0Z3dzgzTGRldw?oc=5",
+          "published": "2026-10-20T07:35:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄에 태양광·ESS 구축",
+          "publisher": "국토일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRalF5SlloOTBaTGFPejMxNGctRlJuSjZZTktYb0w5V3RHNkFNSk1BeFI4MXJLdkxJa0NHUkMxQjhvRUZaMEg3RkpGNm94T3F0MDVrc3I2SDI5TU5IcTZtOTZZNlo?oc=5",
+          "published": "2026-10-20T07:46:06+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.49,
+      "id": 6
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "안전이 생명인 원전… 한수원, 안전 관련 법령 위반 과징금만 338억",
+          "publisher": "에너지타임뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FcjlZdmNkeGNPVWtJejRJTXA3RFFVcDlVQUlZRVIxUkZDV1lQUWcteUItTWxpR1JhS0k1Q1F2VmlJZmtoX0F4eGEyZUhDNWRKS1gwck91dy1uSFJYN0J1WnNpNnJfMEJDdEF1WUIwUVY4Z9IBdkFVX3lxTE1SNVBzM1RFVGdkV095VmxOWW5naWJVelhXMGpTVHdqZW14TEU2cjYzbTFBTnUwVWpQSU5SYjlHZEU0ekotcVhBU2x2VWJJYUlUSzYzZ2dTanVqWmtqUFgxVGw1WWRYQXZmUW12N01GNUNZSmtCV1E?oc=5",
+          "published": "2026-10-20T00:09:29+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "이건태 민주당 의원 \"안전이 생명인 원전…한수원, 안전법령 위반 과징금만 338억\"",
+          "publisher": "브레이크뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5DQ1NQQmFhbVRSRDVCU1A0ZzNQSEZrU1diZWxnM1YyeVBWcGRsS1lYRWRYZjNzR0hFNzhhNDBRVE1KdzBXaTY5Mg?oc=5",
+          "published": "2026-10-20T01:41:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "[2026 국감] 한수원, 안전 관련 법령 위반 과징금 338억...안전관리 허점 드러나",
+          "publisher": "팝콘뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55MVI3eWV5Y3lNNHd0MC1tU2xvWkRPeEdKNk1DVEh4cnJPdVF6ZEpCejVlOEpLazJudXpmZHRYYXE2M3BoeDJXZWU5X3Z4enNkRmRiclRBUFBkRDl4TTFtSm9lSDVsMW0yZXpZMFVJMG9Rd9IBckFVX3lxTE55MVI3eWV5Y3lNNHd0MC1tU2xvWkRPeEdKNk1DVEh4cnJPdVF6ZEpCejVlOEpLazJudXpmZHRYYXE2M3BoeDJXZWU5X3Z4enNkRmRiclRBUFBkRDl4TTFtSm9lSDVsMW0yZXpZMFVJMG9Rdw?oc=5",
+          "published": "2026-10-20T01:57:44+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "[2026 국감] 안전이 생명인데…한수원, 안전위반 과징금 338억",
+          "publisher": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JZ1diOHpFakFSREhqUzl6YWdGNEhPQllaSk5aNER1LWVFWkd6VDlkQWhqU0lCeThSbl8zbURaZkdYMkZTNkhlY0NQU1FuWjE0Z3FUY2ZjbXZuejFr?oc=5",
+          "published": "2026-10-20T02:13:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.259,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Grants Reclamation Project: One remediation, multiple regulators",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-20/article-8428/grants-reclamation-project-one-remediation-multiple-regulators/",
+          "published": "2026-10-20T17:04:28+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.878,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "SRS fills first mega-volume disposal unit with grout",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-20/article-8503/srs-fills-first-megavolume-disposal-unit-with-grout/",
+          "published": "2026-10-20T15:03:38+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.794,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Aura aims for final investment decision on Mauritania project this year",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/aura-aims-fid-mauritania-project-this-year",
+          "published": "2026-10-20T14:24:16+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.767,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Choosing the Right LTO Partner Matters Now More Than Ever",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-20/article-8458/choosing-the-right-lto-partner-matters-now-more-than-ever/",
+          "published": "2026-10-20T14:05:35+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.754,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Indiana considering 6 GW Candu nuclear project",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/indiana-considering-6-gw-candu-nuclear-project",
+          "published": "2026-10-20T13:54:28+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.746,
+      "id": 12
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한울원전 1호기 계획예방정비 착수…원자료 용기 내부 검사",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rN1NPYnlLN2RYUHpIVS1kR1R2eVl1YXZEclhNLWR0dnFZSjJYby1nRVVGQ2k5VGRDMUxQTWtSWG1OTXJ1WllkX2hHa3pUTkRLLWNIWGt3YXc2U3M?oc=5",
+          "published": "2026-10-20T01:30:29+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한울원전 1호기, 제27차 계획예방정비 착수",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPWW03RDIwcHhHZVlUYVhwdk1WNS03YWhGdDJzODQ3UU1XMnIxQTZLTGdydmJjb3J6OXh4dG42cEdza3NpZXRwVTlqQzk0QWQzQ0wxWEdRQ1BxazIzTkk2RTQyS1kwN2l2MVBnQW4xTWIydw?oc=5",
+          "published": "2026-10-20T03:24:34+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한울원전 1호기, 제27차 계획예방정비 착수",
+          "publisher": "헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Rby1iRkpQbmhwSmZvcjJZM3RITmVELXlrMV9Hd0pLeXo4ZW8ycW5BZ1IyS3hMVkc4LWR5RVRuYzBmaFBSNjNzaF9scHpoZUVSbzlweHRTdw?oc=5",
+          "published": "2026-10-20T13:29:51+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.729,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NRC reviews first 100 days after reorganization",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-20/article-8502/nrc-reviews-first-100-days-after-reorganization/",
+          "published": "2026-10-20T12:40:25+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.695,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Korean concern over proposed 'Made in EU' act's impact on nuclear power projects",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/korean-concerns-over-proposed-made-in-eu-acts-impact-nuclear-power-projects",
+          "published": "2026-10-20T11:56:26+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.664,
+      "id": 15
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Amazon, AEP, X-energy explore SMR feasibility in Indiana",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-19/article-8501/amazon-aep-xenergy-explore-smr-feasibility-in-indiana/",
+          "published": "2026-10-19T21:33:06+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.065,
+      "id": 16
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Palisades Power Plant faces Friday deadline to remove tilted nuclear fuel assembly",
+          "publisher": "WNDU",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaFg3ZkhSV1ZFWFR4V3hJSnNxdm50S0xnR2lvdFRBVks1T3VsSXpwMncyY2hSbEtSVlpaVEU3d1AyYWQ2Sm05UnNiUm9wU1N4eGtCVWk5M1lzOU9IRWpCNVZYc1VreDlOejhJVjBRUF9mcHR6NVZKYl80anN3b3BUMW43d0tYVDBlbTJXSjJJZ0FwVlRMWkJxNk1qRzlpcEFJMWVCSEJlWWhXUERRbHNQbElB0gHGAUFVX3lxTE1WdUR1c0M2bElyeWdwOFViV2tDbFNQU0tfQWNZb1UweDVmbjFmVlE1cURILXhaZGtqczlITmlHR0UzRXcyLUNOVEVXQ0JnUE96Y2ZqTlZETUZRcHk2SUlhZEZYQmVpUDEzVE1xZ1FFcW9YNUVqZzZIMWJSOWVCNTBNQzExWU9oMHFrVmhQc3RKZFhyUjB0R0ROQm5GRHdzTGx3RzhweXZpMF9WVDZHMUtRNl8tRXNTYkg4czluRjE0MENEelgyUQ?oc=5",
+          "published": "2026-10-20T15:56:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "NRC amendment supports Palisades plan to recover tilted nuclear fuel assembly",
+          "publisher": "WNDU",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNekxfbzB1RlN4SW50VjU0QW1nbXBvOEEwWnZzM1JSVHFjZzBKWk9QMG85dl9od1lOMkdHVnNIMk5aLTVBV0ZVNUt6c2hKeEZSajRfVS10SWlQQzkyTXp1bWhnYjV4QzBvS3c5Vkg0WEpXVENZeE5OR0RIOW5SVFFWLXo2akNJT1hOQ0Z3T3RwREVzZ3VOby1IMXJ5aW14SkxnUmZFcjRuSGFNanc?oc=5",
+          "published": "2026-10-20T15:56:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.831,
+      "id": 17
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Amazon backs 960-MW nuclear plant proposal with 12 reactors at former Indiana coal site",
+          "publisher": "Interesting Engineering",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaXNKcGxsMG9NdW9lVjM0V2pqV0FmNGFUVmNoTVN0TWdiZERabkFod3BNbEpfZE5EOU92Uk5mNVFXN1ctU1ppVS1RNW9CcXkxQUd4X0dfYmRXZTg4cFREOU5iWGs4U2dkQ2dzbG5TcXVMMU1pMEVxdjRxeXY3NjZHRVJ1M2FPUQ?oc=5",
+          "published": "2026-10-20T00:59:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Amazon Backs 960-MW Indiana Nuclear Plant",
+          "publisher": "the Electrical Distributor magazine",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIemkxTjhESjRvdTFuSU1lcU1wWVc0YjVKZmZodWNZTkptMi1ta1NIR0xOZTdYUVgwV1BleU5JSGFBQjEyYXRPN1BmV0xqNExoRnp1SUR1U1dCVjAtd2pteHJaQ2oyQ2pjMXMxQWJn?oc=5",
+          "published": "2026-10-20T15:30:04+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.813,
+      "id": 18
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA Commends UAE's Emergency Response To May 17 Barakah Nuclear Plant Incident",
+          "publisher": "Menafn",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb1hyeDBPQXVZc2NMc0psNmsxOUlIOFdQN2l6Vnh6bzNVQUFWVmpObTlMd2U5VV9zc1NpazNoUGhraUY1QjlFS2dJa3FjUGc2XzVzWllBTmwwbGt3cXc0ODFIRllpXzZhV3dPY0hLZHFldmV4bHEyT0FOWVdWMVRCVDhJSU9YVnJNZWdCcTFKVmx5MVNEanBMZlZEWHptRnRycE55UTltMG1Ta1Zl?oc=5",
+          "published": "2026-10-20T06:36:17+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "IAEA commends UAE emergency response at Barakah plant",
+          "publisher": "Gulf News",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSWlpbm9qZ19CdnR3bHFRaFMyRzRqS1M0RUlFMTd5ZnN0QXktQVFYSVk1NUp5M25iQ2NESFp4NE8zejllR3FXUjUxUUhNVXg2czdZYmFMb094N0JKbkRpNm05bnM4OWE0aUJiOXVfYTJNaXAzRENsSWptUEZYaU8yUExOOEJDSzJ3Y3RwLTMtc05RVU5OV2JjdWNwYkxXcTRXeE5sYjFyRzNSVFhwSVJ1SWFUR21pUQ?oc=5",
+          "published": "2026-10-20T13:52:50+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.745,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "동남권원자력의학원-국립부경대, 의과학 인재 양성 맞손",
+          "publisher": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MYVE0NVA4SzNJcHBOc0NyZkhWRERZQXpvUjBDTVNEYVM1Q0Qwb29HLUtSNXU2R19XZWpVQ3dzdjM0aEhrdGppUEdTVGZpc24tWl9BRVdtY3FvX0pWYVVIeg?oc=5",
+          "published": "2026-10-20T06:46:50+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "동남권원자력의학원ᆞ국립부경대, 의과학 인재 양성 협약",
+          "publisher": "헬스포커스뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uUXVRNGVabGI5WlgydkpIM3AybzA1QWNXXzRJTms5bDVWbzVySUJmQ05hZndmYzNjMkJrNkZxQk5IWHlEWDdXc0hkcl8wNEZhbVhOdmZFX1VKVEt2SWNMVEw0UExxRkppV29QWlVjUzRxdw?oc=5",
+          "published": "2026-10-20T12:19:22+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.68,
+      "id": 20
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "두코바니 다음은 테믈린… 韓, 체코 원전 추가 수주 시동",
+          "publisher": "서울신문",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WREtGRmpjbXdoZ0Z5V0NCZGtsaWdJOUwzTTB0R2Z1S2N5b2VNNnRjRDdMYUx2cGRZU3E4TUZGc0ZfSENUdEx1SXYxRWlTTnlzRVZKODJaNUZrMjVkeFZnWFozSVRCWXhfaHpNcjQ0cw?oc=5",
+          "published": "2026-10-20T09:14:05+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "두코바니 다음은 테믈린… 원전 추가 수주 시동",
+          "publisher": "서울신문",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jQkZ5UUdqNDhmZVpwbVRTcXBZeG9kaFRFSFZNUnNkeVp2QkNRNEJtSlRJUU5DeGdieFNpYThOSzZoS2xvenJQOTdwcmlxbUVvckZHS3NySU44ZGdjUXVSME1BUGROLWhsWEV0V05iYw?oc=5",
+          "published": "2026-10-20T12:14:57+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.677,
+      "id": 21
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, ‘사랑온(ON) 안심밥차’ 올해 마지막 한 끼 나눔 진행",
+          "publisher": "KNS뉴스통신",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlWV94NWNBTXRLdi1zN01YUmQxdjVtN1dMekx2aWRuMDVPRExLVHpXdlhsamxLTWdRV2U1S180TE9UUkY5OGlmWW9JaTJ6ck1UNVllV29veWdvMGlKRFNsVjFndV8?oc=5",
+          "published": "2026-10-20T08:31:30+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력,‘사랑온(ON) 안심밥차’올해 마지막 한 끼 나눔",
+          "publisher": "다경뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wMWoyYTh3OFEtU0hLZ004LUdmOVRBbEU0cFlNN1llX196UFdOcEpmdnIyQnB0MmRWaU9EVV91cnRSTEQxdFoxVHE5dnhiLWlHM3Fpc3BTenVqVUx3N2c?oc=5",
+          "published": "2026-10-20T11:39:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.652,
+      "id": 22
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Emergency Shutdown Triggered at the Gösgen Nuclear Power Plant",
+          "publisher": "blue News",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd2Q5VENaamM2Ti1HQXAxTnhZYnd0cXBNb3dKQXNMNzkxZWRRdmFuNEx1YXZOQlhPMmlJV09UTC02eEZPQkxkT2lMcUJ0aER0ZndGak1wYkpNNnBtUzUwX2pBMll2cGpJOU9qc2xRSXMwaTk3cUtsTldLN3pocEN1RGtxSmhNQkpRbkZqQVo1M2xhVlFpR3laWnlvWVk1S0IzbDRuOGY1cw?oc=5",
+          "published": "2026-10-20T08:10:20+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Automatic emergency shutdown of the reactor at the Gösgen nuclear power station",
+          "publisher": "Pomona - Das Wallis im Hosensack",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONjNuTG5PeGw4dzRUbDVXV0JHZHZnUXdwUXNIOWY3dmVrVWtmRmZzeWR2c1VWR2RRU2tTTnhRSUhRMDZiZjk4Rmc2NkZYT0c2UVI2aDhSaXp0R1JqNW5xb3dlYTZYRHBfM3BNWHVjT3N1OEZiNWMwNVBGWURERHpxa0l1aVc1VUFRSG1CX2NXRldVTkpUQjladEFPVjhtbkk5RHBHWDZtZFMzSUVoTUlmbVk3U0lMQWU0MlE?oc=5",
+          "published": "2026-10-20T11:02:14+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.627,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "‘경주서 또’ 한수원, 올해 마지막 무료급식 봉사활동 진행",
+          "publisher": "뉴스퀘스트",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1eG80N2t3aW84RW1mUTZsVnNtUEc0NmRxWEVHNXJnYVd0eTR4alpQMDB5T2RBSHNvOVcyLW16MFNzSjNYbXNWS0FCbWdiSExGUktzTC0yZzFEZlUtNWJnN3JVVVQzUHN4VW5xZHZmOA?oc=5",
+          "published": "2026-10-20T09:07:53+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 경주서 '사랑온 안심밥차' 올해 마지막 무료급식 봉사",
+          "publisher": "컨슈머타임스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAydkNtYVQ5SmdFaUIyY0l5eGxVeVM3X21PSU1nWjhmcGJBa2VUMXVmNWxEZFVja21CTDU0STd3TkJzY1FMVFRTUmNwUzZMd1lLZzR1RjA4d0lMVjVCZFdSNmpUSlc1WGpsd0E?oc=5",
+          "published": "2026-10-20T10:39:10+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.611,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한-체코, 두코바니 원전 이행 점검…EU 규제 대응 공조",
+          "publisher": "페로타임즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvY1phaGpBaF9TMmt2bW9KQ0FKYXNLQmNsRmZYYU1WZC1WT1lUVkVjUkxjbm9ESEE3Q3pfZV8zYnZxVnRGNzFDXzNIbWFwQlVTbDJtQlNHbDVIQWZ3STJWNTFZUWhFNUhRY2Zfag?oc=5",
+          "published": "2026-10-20T06:11:52+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한·체코, 두코바니 원전 일정 점검…EU 규제 대응도 협의",
+          "publisher": "뉴스후플러스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2S3o5R3djZHBjWE5sTnFrU2xCZmRLWTI5N1ZCR2FPRExSbm9rU2l2aVpVM2dBZE1wT25NOTkxUDkyQnoyYVdoTVhYVktKLUdzaUtvdVRzSEQyUmJxelh1UldpalREaUpSNnNOY0ZB?oc=5",
+          "published": "2026-10-20T08:10:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.507,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 외투 한 벌에 온기 담아… '첫겨울 나눌래옷' 캠페인",
+          "publisher": "메트로신문",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FYlZaWGlMaEVFSmRoV3paOV9oaExJWGlFVWkxVlNUNnZMelFoVGNsVWxYUnV2eUFNWmtvQWdMLU9jRGN2cEZtZlNuV0dCcG5LMGdLdUw1LUdrV0M5RFhwTw?oc=5",
+          "published": "2026-10-20T04:00:05+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, ‘첫겨울 나눌래옷’ 캠페인··· 외투 한번에 온기를 담다",
+          "publisher": "일렉트릭파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVWTlRNV8tMDNOR013VlIwaEstYm83T1U0YjNnZjdmMndZeVJVVmRlcWJxZGZKQ3o3MUhOUncyWmdxU0xSdU9RczlIdmRHMjFQaDNXdVJEa1NlMFVKc2FhR1ZObkVCQQ?oc=5",
+          "published": "2026-10-20T07:55:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.497,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한-체코, 원전 협력의 지속적인 발전방안 논의",
+          "publisher": "헬로티",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXbFhPNUZMSGxGd09yRXlhMU5jX1QzVGZoUkV0amNuVWlPdGdqSTRxX1RBS05KODBQUzBTajlWT3ZvU0VVZDEyXzVxZW9GSGdyM2VaYmRyTlFSeUF3QXZz?oc=5",
+          "published": "2026-10-20T06:12:07+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한-체코, 원전 협력의 지속적인 발전방안 논의",
+          "publisher": "서프라이즈뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jXy1pMzZ1dURvUzRadENXR19iamw2YWx6MThheXowdEFvenQtYXlFbUZ1TnQ0a3kyb2hmS2NBTTdsTzZFNzZhZEQzWGJiLWVFRV9MVDZ2Nk1tdkNfLThIUTdFaTdRd2tNU3ZPWW93?oc=5",
+          "published": "2026-10-20T07:14:24+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.468,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "AI 전력난에 '원전' 승부수...아마존, 소형원전 12기 직접 짓는다",
+          "publisher": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kZnBMMEFmZ2FCSFBOcndsbUY4MEw3d0Z6VUMtOTQwb2pxbXFzbWY1WlNVVjNKczVSVEJlQ1JGZFJtck4xN2RNcllDc3U0WWRDekNCeXliWU5yM2tobENkSHl1RV9pbE1sWUZPc2NvU3VhdXZwREE?oc=5",
+          "published": "2026-10-20T01:18:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "AI 전력난에 '원전' 승부수...아마존, 소형원전 12기 직접 짓는다",
+          "publisher": "YTN 사이언스",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTExLWkRrWUxGcjNDd1NpU0tXNWlCdXI4RUwzTXdqalBGUXBfOHB2a3hleS04QnNHdjZoelIzQzBZYjU4cjQ4djVRV2QwVXZ6WlJ6THFldG1Oa1hwTXhhVG83cE1FV0xJSmZfS3haS19OUTRkTTVRMlRFc0kxWmp4TW5nLXdybUpwaExNYmRjUndSOV9LYmc?oc=5",
+          "published": "2026-10-20T07:00:30+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.459,
+      "id": 28
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Companies behind proposed nuclear plant in say it could lower electric bills, add power to grid",
+          "publisher": "WNDU",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSlF4Ty1DYkg0ZlA4Q2Nmc2pVaXNDemhOcnNxRnR5NmVHcVY1MzJUaGNadGNEM1hzMUx0S25KR0xUOE05ZUl1ZG5POTc2M05vdUJLOUc5STFiRkNhSnFIUEQ2d0ZNVklYT0hHdk9tMDc0cklxVDdfOG5odGctZmhOaF9kWGVGelpXRTVRUXhlemFQWE8wYzFfaTg2QnQ3TlhORGxhT1FoWGFQWGxzeTZWd2M0VlNiZTBlT0pSUkdxZ1I2bGlNOVE?oc=5",
+          "published": "2026-10-19T22:46:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Companies behind proposed nuclear plant in Indiana say it could lower electric bills, add power to grid",
+          "publisher": "WNDU",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTTZWZ2RIMC1zRTh4UGhqamtwcHd4eFdxMi0zRFFCNWVNTmM1MHJYcUFxUlM1SEM3YXR0OG12cmtiRHJRR0dCTmZLcE03MDZoZUFqOXZSQzMwVTdaaEZ0cnRIdHU1dXF6TEVzRHpiTDUyOVZpdDNZU00zUWw0OFZBT1Fid0gwLW82eGhobXZ0MVVTVVFWMHFBZjB6Y1ZlejFRT3ZoN2l3TmdXeHBmNjY4OTQ3c0xfQjMxTkV3VmpONUdyNFByOGRXNdIB3AFBVV95cUxNTWJPWnhKbC1GMTFnSURFR2g2WVhsMXdqMl8tTlpZTnBKTTlMeVdXUWJDN0NlNGhTZWdGMVEtcG9mWlJpWWhFNDhsYVp3NlpkcmdrckpyR2laVjVSd2lvZy1FQmpBY3ZVb3BqVnQ3QWxJRTNKeGxYSXZUNkR2MTU4VjlfSVZSY0lWWjR1bXU0YVp1bW5RVmRUM1dpYTdjLWVyV3pkVUdDWDJqdzVxVnkxQjdGMGlHS2lDSE5Lem9hUWFBYWF4M2w5UnJLcmV4TG85eXVtN2tnbVA3NWtl?oc=5",
+          "published": "2026-10-19T22:47:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.116,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 96
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 92,
+      "kept": 85
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 64,
+      "kept": 56
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 49,
+      "kept": 4
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 1
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 5
+    }
+  }
+}

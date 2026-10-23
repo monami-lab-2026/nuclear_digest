@@ -1,0 +1,959 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-16T19:33:21+00:00",
+  "engine": {
+    "engine": "claude-code-session",
+    "briefed_at": "2026-10-16T21:51:12+00:00"
+  },
+  "overview": "국내에서는 고리 3·4호기 계속운전 심의가 뒤로 미뤄졌고, 두산에너빌리티의 SMR 추가 수주 기대가 보도되었다. 해외에서는 미국 규제기관이 AP1000 설계인증 개정과 팔리세이즈 연료집합체 처리 방식에 대해 판단을 내렸고, 슬로바키아 모호프체 4호기가 계통에 연결되었다.",
+  "stories": [
+    {
+      "source_ids": [
+        21
+      ],
+      "region": "국내",
+      "category": "안전·규제",
+      "importance": 3,
+      "headline": "고리 3·4호기 계속운전 안건, 원안위가 결론 없이 다음 논의로 넘김",
+      "summary": "원자력안전위원회가 고리 3·4호기의 계속운전 문제를 추후에 다시 논의하기로 했다는 보도가 나왔다. 후보 목록에는 제목 수준의 정보만 있어 보류 사유와 재논의 시점은 확인되지 않는다.",
+      "background": "계속운전은 설계수명이 끝나는 원전을 안전성을 다시 평가해 일정 기간 더 운영하는 제도다. 사업자는 주기적안전성평가를 통해 설비 노후화, 안전 여유도, 최신 기술기준 반영 여부를 점검하고, 규제기관은 이를 심사한 뒤 위원회에서 허가 여부를 의결한다. 원자로압력용기는 중성자 조사로 취성이 커지므로 가압열충격 평가가 핵심 항목이고, 케이블과 콘크리트 구조물의 경년열화 관리도 함께 본다. 심사는 KINS 같은 기술 지원기관의 검토를 거쳐 위원회에 올라오는 구조다.",
+      "why_it_matters": "계속운전은 신규 건설 없이 기존 설비의 가동 기간을 늘리는 방법이어서 전력 수급과 탄소 감축 계획에 직접 영향을 준다. 동시에 수명 연장 근거가 되는 노후화 평가 방법이 충분히 보수적인지가 공학적 쟁점이 된다. 압력용기 취성, 격납건물 건전성, 안전계통 다중성 유지 같은 항목을 어떤 기준으로 판단하는지 볼 수 있는 사례다. 이번 보류는 결론이 아니라 일정 조정이므로, 어떤 자료가 추가로 요구되는지가 관전 포인트다. 이후 심의에서 쟁점이 되는 항목을 확인하면 규제 판단 과정을 이해하는 데 도움이 된다.",
+      "concepts": [
+        {
+          "term": "계속운전",
+          "explain": "설계수명이 끝난 원전의 안전성을 다시 평가해 허가를 받고 추가로 운전하는 제도."
+        },
+        {
+          "term": "주기적안전성평가",
+          "explain": "약 10년마다 설비 상태와 안전 수준을 종합 점검하는 평가."
+        },
+        {
+          "term": "가압열충격",
+          "explain": "중성자로 취약해진 압력용기에 차가운 냉각수가 급히 들어올 때 생기는 열응력 문제."
+        }
+      ],
+      "question": "계속운전 허가에서 설비 교체가 불가능한 부품과 교체 가능한 부품을 어떻게 구분해 평가해야 할까?",
+      "study": [
+        "계속운전",
+        "주기적안전성평가",
+        "원자로압력용기 취화",
+        "경년열화 관리"
+      ],
+      "reference_ids": [
+        "nssc",
+        "kins",
+        "khnp"
+      ]
+    },
+    {
+      "source_ids": [
+        11
+      ],
+      "region": "해외",
+      "category": "SMR·신형로",
+      "importance": 3,
+      "headline": "미국 NRC, 웨스팅하우스 AP1000 설계인증의 개정과 갱신을 승인",
+      "summary": "미국 NRC가 웨스팅하우스 AP1000 설계인증의 개정과 갱신을 승인했다는 보도가 있다. 세부 변경 내용은 후보 목록에 나와 있지 않다.",
+      "background": "미국의 설계인증은 특정 원전 설계를 부지와 분리해 미리 심사하고 규정으로 확정하는 제도로, 이후 건설운영통합허가에서 같은 설계를 다시 심사하지 않게 해 준다. AP1000은 피동안전계통을 갖춘 가압경수로로, 중력과 자연순환 같은 힘으로 노심 냉각과 격납건물 냉각을 돕는 것이 특징이다. 설계인증은 일정 기간 유효하며 기간이 끝나기 전에 갱신을 신청해 심사받는다. 개정은 시공 경험이나 기술 변경을 설계 문서에 반영하는 절차다.",
+      "why_it_matters": "설계인증이 유지되고 갱신되면 같은 설계를 쓰는 신규 사업의 인허가 위험이 줄어든다. 공학적으로는 건설 경험과 운전 경험이 설계 문서에 어떻게 환류되는지 볼 수 있다. 피동안전계통은 전원 상실 상황에서도 냉각 기능을 유지하려는 설계 철학이라 안전 해석 수업과 직접 연결된다. 다만 구체적 변경 사항은 확인되지 않았으므로 NRC 공식 자료를 확인해 보는 것이 좋다. 향후 신규 건설 계획이 이 인증을 얼마나 활용하는지가 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "설계인증",
+          "explain": "부지와 무관하게 원전 설계의 안전성을 사전에 심사해 확정하는 제도."
+        },
+        {
+          "term": "피동안전계통",
+          "explain": "펌프나 외부 전원 대신 중력, 자연순환 등으로 작동하는 안전 계통."
+        },
+        {
+          "term": "건설운영통합허가",
+          "explain": "건설허가와 운영허가를 하나로 묶어 발급하는 미국의 인허가 방식."
+        }
+      ],
+      "question": "설계인증을 받은 설계에 시공 중 변경이 생기면, 표준화의 이점과 현장 유연성 사이에서 어떻게 균형을 잡아야 할까?",
+      "study": [
+        "AP1000",
+        "피동 잔열제거계통",
+        "설계인증 10 CFR Part 52"
+      ],
+      "reference_ids": [
+        "nrc-advanced",
+        "nrc-factsheets",
+        "wna-library"
+      ]
+    },
+    {
+      "source_ids": [
+        6
+      ],
+      "region": "해외",
+      "category": "안전·규제",
+      "importance": 2,
+      "headline": "팔리세이즈 기울어진 연료집합체, NRC가 대체 제거 방식을 허용",
+      "summary": "미국 NRC가 팔리세이즈 원전에서 기울어진 연료집합체를 빼내는 데 대체 방식을 쓰도록 허용했다는 보도가 있다. 구체적인 방식은 후보 목록에 나와 있지 않다.",
+      "background": "연료집합체는 노심 안에서 격자판과 안내관으로 정렬된 상태로 고정되며, 연료 교체 때는 장전기가 이를 수직으로 들어 올린다. 집합체가 기울어지면 인접 집합체나 구조물에 걸릴 수 있어 일반 절차를 그대로 쓰기 어렵다. 이런 경우 사업자는 기존 규정이나 절차와 다른 방법을 쓰려고 규제기관에 대체 방안을 요청하고, 규제기관은 안전성이 동등한지 검토해 허용한다. 수중에서 작업하므로 물이 차폐와 냉각을 제공한다는 점도 기본 전제다.",
+      "why_it_matters": "연료 취급은 임계 안전, 방사선 차폐, 연료 건전성을 동시에 지켜야 하는 작업이어서 비정상 상황의 대응 방식이 공학적으로 중요하다. 대체 방안 허용은 규정을 완화한 것이 아니라 동등한 안전 수준을 입증하는 절차라는 점을 구분해야 한다. 팔리세이즈는 재가동과 관련해 주목받는 원전이라 이 작업의 경과가 운영 재개 일정과 연결될 가능성이 있다. 기울어진 원인과 제거 후 점검 결과가 앞으로의 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "연료집합체",
+          "explain": "연료봉 다발을 격자판 등으로 묶은 노심의 기본 장전 단위."
+        },
+        {
+          "term": "대체 방안 승인",
+          "explain": "규정과 다른 방법이 동등한 안전성을 갖는지 규제기관이 검토해 허용하는 절차."
+        },
+        {
+          "term": "임계 안전",
+          "explain": "연료 취급과 저장 중 의도치 않은 연쇄반응이 일어나지 않게 하는 관리."
+        }
+      ],
+      "question": "연료집합체 회수 작업에서 속도와 안전 여유 중 무엇을 우선해야 하며, 그 판단 근거로 어떤 해석이 필요할까?",
+      "study": [
+        "연료 취급 설비",
+        "임계 안전",
+        "붕괴열"
+      ],
+      "reference_ids": [
+        "nrc-factsheets",
+        "wna-library"
+      ]
+    },
+    {
+      "source_ids": [
+        10
+      ],
+      "region": "해외",
+      "category": "원전 운영·건설",
+      "importance": 2,
+      "headline": "슬로바키아 모호프체 4호기, 전력 계통에 연결",
+      "summary": "World Nuclear News가 모호프체 4호기가 계통에 연결되었다고 보도했다. 출력 수준과 상업운전 시점은 후보 목록에 나와 있지 않다.",
+      "background": "신규 원전은 연료 장전, 최초 임계, 저출력 시험, 계통 연결, 출력 상승 시험, 상업운전의 순서로 진행된다. 계통 연결은 터빈발전기가 처음 전력망과 동기화되어 전기를 보내기 시작하는 단계다. 이후 출력을 단계별로 올리며 각 출력 수준에서 계통과 제어 성능을 시험한다. 모호프체는 VVER 계열 가압경수로를 쓰는 것으로 알려져 있다.",
+      "why_it_matters": "계통 연결은 건설 완료가 아니라 시운전의 중간 단계라서, 이후 출력 상승 시험을 통과해야 상업운전에 들어간다. 학생은 시운전 시험이 어떤 안전 기능과 제어 특성을 확인하는지 살펴볼 만하다. 유럽에서 신규 원전이 가동에 가까워지는 사례여서 건설 기간과 일정 관리 측면에서도 참고가 된다. 다만 세부 일정은 확인되지 않았으므로 단정하지 않는다.",
+      "concepts": [
+        {
+          "term": "최초 임계",
+          "explain": "원자로에서 연쇄반응이 처음으로 안정적으로 유지되는 상태."
+        },
+        {
+          "term": "계통 연결",
+          "explain": "발전기를 전력망에 동기화해 전력을 공급하기 시작하는 것."
+        },
+        {
+          "term": "출력 상승 시험",
+          "explain": "출력을 단계적으로 올리며 설비와 제어 성능을 확인하는 시운전 시험."
+        }
+      ],
+      "question": "출력 상승 시험 단계마다 어떤 이상 징후를 점검해야 하며, 어느 시점에 시험을 멈춰야 할까?",
+      "study": [
+        "원전 시운전",
+        "VVER",
+        "출력 상승 시험"
+      ],
+      "reference_ids": [
+        "iaea-pris",
+        "wna-library"
+      ]
+    },
+    {
+      "source_ids": [
+        18
+      ],
+      "region": "국내",
+      "category": "정책·산업·수출",
+      "importance": 1,
+      "headline": "두산에너빌리티, 연내 SMR 추가 수주 기대감 보도",
+      "summary": "두산에너빌리티가 연내 SMR 추가 수주를 기대하고 있으며 북미와 사우디 등으로 사업 영역을 넓힌다는 보도가 있다. 수주 규모와 상대방은 후보 목록에 나와 있지 않다.",
+      "background": "소형모듈원자로는 한 기당 출력이 작고 주요 기기를 공장에서 제작해 현장에서 조립하는 개념의 원자로다. 제작사는 원자로용기, 증기발생기 같은 대형 기기를 만드는 기자재 공급 역할을 맡을 수 있다. 실제 건설까지는 설계 인허가, 부지 확보, 금융 등 여러 단계가 필요하다. 수주는 계약 형태에 따라 기기 공급 단위일 수도 있다.",
+      "why_it_matters": "SMR 시장에서 기자재 제조 역량은 설계사와 별개로 사업성을 좌우한다. 공장 제작 비중이 커질수록 품질 관리와 제작 공정 표준화가 공학적 과제가 된다. 다만 기대감 보도이므로 확정된 계약과는 구분해 읽어야 한다. 앞으로 인허가 진행과 실제 계약 공시가 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "SMR",
+          "explain": "소형모듈원자로. 모듈 단위로 공장 제작해 현장에서 조립하는 소형 원자로."
+        },
+        {
+          "term": "기자재 공급",
+          "explain": "원자로용기 등 주요 기기를 제작해 납품하는 역할."
+        }
+      ],
+      "question": "SMR의 경제성에서 규모의 경제 감소를 공장 제작의 학습 효과로 얼마나 상쇄할 수 있을까?",
+      "study": [
+        "SMR",
+        "모듈러 건설",
+        "원전 기자재 품질보증"
+      ],
+      "reference_ids": [
+        "iaea-smr",
+        "iaea-aris"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Utah, Idaho & Wyoming's governors tour a nuclear power plant under construction",
+          "publisher": "FOX 13 News Utah",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRzU5RVNBVlk2UXJWdU5fenJ1WHF2eFhReXNmcWFhRFpyR18wXzRqbE43S25aQmRHUlJzb19IQnFxLUI1UXhlNkJIbFhaN0dXQS1Bc0k5dm1SWE9iYUpSWXBuREpUdmdkZ2k3dUVnYTRZWTJhN1lkXzNGU1Q2ak1zTl9ZZEEzbUs3V1FRdnBpQVhHSVdPaFBxT0FXVy14VHpTZS03NlJYR2RabDh4T1NjR2pGbzN2YkZBeXJ5alJ3?oc=5",
+          "published": "2026-10-15T22:11:26+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Utah, Idaho & Wyoming's governors tour a nuclear power plant under construction",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTXVDczNHREdla1dxNEx2Q3J5LWo4UFZWdnpDRTdscTN3NDNDc0c3Q0g4aHpqNWZNeXU0ZnJLU0JyYVZQLUpiYkVxSnFhaGR0T1h2Y3c1QnBBR3pYaVJjNzVoWlhxblV2NU1BaWtWcDZhT2MzaTE3SE8tYmVuSXh3SVNkSjkyNm00NEhr?oc=5",
+          "published": "2026-10-15T22:11:26+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Utah, Idaho and Wyoming's governors tour a nuclear power plant under construction",
+          "publisher": "FOX 13 News Utah",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUpmY1cxbXhFeHpxQVM1QzJYSktWSWdUMi0tR0kyYTNiVW1kSi1MaE5CVjdWMFVHMWtiQ0FRZGlIZmpfd2FpN1NROFhYRWFxTnBzOERhTDRKNW8tT2sxZ2lhN2F5b1pPWGQ0TkFKQjRvRk94Q3d0YjJ0LTZuVmZfelJaTURQLWdnN2hPZ3BoNnRvNXBFcGpaeWJOWXRoQmx3TEtXNS16bDdCeTJUQkJnSFExVy1EclNhSlE?oc=5",
+          "published": "2026-10-16T01:53:59+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Utah, Idaho and Wyoming's governors tour a nuclear power plant under construction | KOAl - Price,UT",
+          "publisher": "Castle Country Radio",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ29fRWlwNGwyaDdicklsMnZhTWxlWHhiR0g4eGF5YnN2a1JHMUVIQkN3cElpeUlQUHdTYUlnckNONEp6bTRMSzNoeEo4Y0hzQWJFQ1VtbW1JbktWV0tnLXhMekhRYWtGODU2R3YyRmhtR1lKT09FY3BsQ25aOU1aY0tTWG9kODhfZGsydnNVdlc1VldLZ2lpcFB6YUYxczl4SjVDQ3JsREprZmdRbUhCbjlsNW5aWUM3YU5EVVJKUHZrRDZv?oc=5",
+          "published": "2026-10-16T16:36:04+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.877,
+      "id": 0
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Dee Development Engineers DEEDEV Nuclear Power Framework Agreement",
+          "publisher": "Kalkine India",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZUs3Q1RNcTZjNl9nY1ptTVNWY1RFY1JmYWx6WVB2YURuWVNkZkVtRlNkVmRHa2Q2RU44QlJXY0Z0X0pKTldWbW1WQS1vajdDYkp4NVRYaTZjeF9lb3RTbHdfUHVxZllETlg1M293YWFscnhLbk94ajNqQjd5RjRxVlNLNjlvaVNhNmIwS0prQmZRNWc3QmZ0V052V0Eyb29wcVhPRllDcVBaZnp1bDE3V2huMGQxRXdSNXoxTVJZeGp0UWJI?oc=5",
+          "published": "2026-10-16T06:11:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Dee Development Engineers Enters Framework Agreement For Nuclear Power Sector",
+          "publisher": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRDdVblFZdG1HNzRlZ0JWVHllWHgtc3REa0dsQThEYXM2VndrY1E4dG5sYzBNVmx2T0QyTzcwREI1QUtzZjl6bEE2cGF5NndfYWx3ZG5GY2FIZEpTallJNDhQUWRvSDZ6VjVXRGswQkw0ZzhLbC10VmF6QW9zdURGUGJMeW0wTkhzZVBQa09MTC1MMkdkM2o4RU0taG1YUkVwdzh5dGFqZEpIbVBDc1hsLUJpUFI3MHFpWUR0bHE0QTZYQmZUUkp6VXVUcEQ3eXdoX0IyNWtNaDFrVUpBcjlxYg?oc=5",
+          "published": "2026-10-16T06:12:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "DEE Development Engineers enters framework agreement for nuclear power sector",
+          "publisher": "Business Upturn",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNGFjbmhhaTZJTmdFd19RM1FOazdUanB0TWNOekRjZlZFTy1EU2lNZ21DYzMwMTh3WjlKVlpDY0N2d2hJU2oyX2hiMjFfamxrendVMU1tVnRMTmU5UEdCOW5LSmNDMF83NTc2N21xU21xX25oOFlGRXJIMGlHdmp6bDdQQUFXOVVhNnZpSWJCLTU2a0xnVFdoTTdiVkVDLXFJdlctZk1vSnhBUXVLNnNuWkNLbmI?oc=5",
+          "published": "2026-10-16T06:20:47+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "DEE Development Engineers Partners for Nuclear Power Sector",
+          "publisher": "Rediff MoneyWiz",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcm1fS3dTdFNIX0JaSmxSTE0wR3ptZlk1d01VTmR1M2V5T2Q1RFZ2N2FLZ29YaF91WjlSMjYySjV5YUhiMXFiUGJpM2xucExzb0JEclZqWWJJSUNnQVEtVXhENGRvNXpwdGttWEFXamZ0MFIzYjJOY2hReUVUdTc0MWotY0ZoS1VlWHBxYWhpdzl2OFV2VG9yRWxZZzVRc3FiSVlhWlA4VC1KZnpOQlB2VWdSTFRWQdIBtgFBVV95cUxOcm1fS3dTdFNIX0JaSmxSTE0wR3ptZlk1d01VTmR1M2V5T2Q1RFZ2N2FLZ29YaF91WjlSMjYySjV5YUhiMXFiUGJpM2xucExzb0JEclZqWWJJSUNnQVEtVXhENGRvNXpwdGttWEFXamZ0MFIzYjJOY2hReUVUdTc0MWotY0ZoS1VlWHBxYWhpdzl2OFV2VG9yRWxZZzVRc3FiSVlhWlA4VC1KZnpOQlB2VWdSTFRWQQ?oc=5",
+          "published": "2026-10-16T09:11:08+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "DEE Development Engineers Signs Nuclear Power Framework Agreement; Shares Fall 0.63%",
+          "publisher": "HDFC Sky",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWERxcVRSVmc5aS1zRnp6MUFWSHptTzdMZm1Kb00zVzdSTVE2Mm1Yd3BKTW16Sk9EQWZQY2dLLV9qSkFNT0FFbWJ1b3RJeGd3dFdJd0ZlOXdRbEFJeUQtekNVQTBxcmllZURCWUNUX0RxaUdxN0tIZTdlYnlHejVsNG9YOTBVd21xTW01UFV2cUd6cl9Z?oc=5",
+          "published": "2026-10-16T09:27:37+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "DEE Development Engineers inks framework pact with EPC firm for nuclear power projects in India",
+          "publisher": "ET EnergyWorld",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOX1Vra1FjZzRWNGI5aWE0Ym5ia2d3cW9iMkc0bV9RYWk5bnRnVC1qY1FLTVJGdFNSZnpSVGltbGk5UU4xNzN1YWZ0dHZucEVkeUp4d29GOUdOdzVPUHNJVll4QllTTFd0TDJYSjBHeHFFVVN6c3pkckpGejV2Y2dFQWlMR2FsUnRsZnpNV04wbUZEMmpfcUttbDhGckoxRGp0a0NFN2RBNTQ3M1lPbkhJMG9YbklPUUQ0YlF5TDNxMlg0MFNDc21Oc0lhVkt4YU82LUNTVWJFdFgtQWtVUUp0N254NWFQMkVDVHdWbFRtT01ZQdIB9wFBVV95cUxQeTJUVXNaNHBYN19Ca19Jd3hNd1N0M3hsSXVMLW5LRjl0OVJ2MUZZbnJ6SVNpZUlyMzlEZFZuUDBwZS1HRWY2ekQ1S21KTUxWblZ3Sms4U1NrM1d6NWFkMVF0NmRtbkR3RVd0UUxMa3NMa3pUVk1kWW5oWFRCdlY1N0lKX3dISTB3QXplREZELVVXMlRHbzhrZ1BKR3hONGt5UlNZUmRjdm5raTZWcjRyaVZHWWdmdEUwQTBSMUpWdmpjUEtRalhCNHVENFNXLVM2S0lpcGkyX2djb3FFcWJGUmI0MndUY1hkWTNHbzVFcEVYNzJMb3I0?oc=5",
+          "published": "2026-10-16T10:11:40+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "DEE Development Engineers targets India’s nuclear power projects",
+          "publisher": "Manufacturing Today India",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYTVvcWl0VU13ZnQtRk53bEo3cUhneXR6OF81YXFScWpObUtBS2t0TmZ3MzBQbi0zOTBvc2RTTXI3aXQ1eG5FYlB5X1g1eUVXaWtuZk9mamppUzEtakJQVERDb2U5NkhMYkJXYktIUUNBRGFTeW1YZ2RlaVVhZ0NKbDNBeTdTQ0E5TXFmQlh3c0JaYjJ1OEhwSGF2NWZ0b2EtRTFWWWJn?oc=5",
+          "published": "2026-10-16T10:44:47+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "DEE Development Engineers signs framework pact with domestic EPC firm for nuclear power sector",
+          "publisher": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMURGT1loTDI0am9EWVhsaEhMLUlTNjlma2xmc3JVTkVnb2xaWkFWQ1JlZ0FpMTBiR05yLWhfcHdkRHJsbEJuSFFzOXR1WHZ4MDZ1clRFVFdfUXFVOS1Pc3d6ODFRZjBOSVJwU2QtVVI1NUQzbXVZQWlHd3F5SEhqcEcxejA0dnZLelZWMjJFN0dBYWRBWHVsTjAwcHdNNTdMclloMVFrZVpBVHRWV25HcVcyS3V5N3JRdjJpdlYwMDV6QzhuYkhZMU9vRVVCNGZaOVctTlZpYUpnZGY5ejM0TU94WE1iVHFsYzdDc1JhUzJ2TnNWTjZ1bUp30gH_AUFVX3lxTFBVLUV1VGkzbzUtX1MxZGdrNmpmVG55Q01UclZFclQydWpGMTg2U0dhTlVWLW5nZTVtb2hiTGxuVlEzbzZMYTJmZ21XMnhpWjU5VW1MRzhidW1YYUN0THhkbld2UFVzYV92VmJDQ1pNMVl3UHpndVQ2NTJIOTl6eExucWJpQ1JlaG5QSHBfOFdBT2tvNnFEVXlZYXdUTHN5TDd4eFo3X2pNWFJacFJqb2FZN0RnOWU0N1B3TE9NZTgwOS1xWTZWVjNxRjRvMllDU19pVjNLSHlvLXFlYU9DZjVhaHFGQTRpSU5PbHZKa2xNZ3hMY0xib05lWU0xZENpNA?oc=5",
+          "published": "2026-10-16T11:50:39+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.679,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한국환경공단, 한국수력원자력(주)과 감사업무 협약 체결",
+          "publisher": "디지털비즈온",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE52d1ZBSnlPUEFtZGNGdWpiYkFVODJHS2pLRk8tdXN1MmdhekZFTk9ZOU1ZVEJQRGxzNTQyT3A4WHJqbGJEVGVZV2hRYWkyeTlrU3FWdWZucnpXcHVXZkI2RGNFWVlJdUdjc2twSjl0d0had9IBdEFVX3lxTE5CaG9DLXpEeWlHNFFiVGtfUHlTa281QV9XOGtzbi1KWThfeFNOZE5vamRCSUlaTUxoZ0NfUHgxZUJoMlJHNVZGZ1U3VnNXTXJLQjJqRmJ0VExBOGFRTWlXQnFld0czVVhMN3hUcFM0QTNZdExz?oc=5",
+          "published": "2026-10-16T07:27:12+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "환경공단-한국수력원자력, 감사업무 협약",
+          "publisher": "이투뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ORlZmMzZqNW51MGJwMVRGR3pBWEU1X09FdmRjSnVvY2JqSHNIdlpoaS1iSTVsbG1qcDV3allUdjI4NDFhQzhEUjNXQUlaQkFUeU1jWjVDYjdOemhIMXRNRlkzdmxhX0xF0gFrQVVfeXFMTkU3SHJIbW1QRE0wcExnZVZTYklZOE5RdWNXOU5JX0JNM3E4OFJSb0c4Y3lxLVdRXzdiYmxMWE4wTkhGekpRN0pOREx3aTNndUdtb1Z1eUExZEVFS2ZNNXVGazA5Wm9ibkxMYUk?oc=5",
+          "published": "2026-10-16T08:32:55+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "환경공단, 한국수력원자력(주)과 감사업무 협약 체결",
+          "publisher": "환경방송",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9leHFHaFdOWlhyY2wwN203WTZtVWRPRDYzV0dpNmNBUXFCbmpKUmNNN0NUcmxSaG5pbUJ2c08yX014NmRHUFF1UXplVXJQZ2lzRXdldHV2T191aDZPZmVDVnR0ZjlpNDjSAWtBVV95cUxOdFBQcnVHY1lPRVVlR2ZhUVBNRTR5NVhBTEw2SmZVTDJKWWU1V1E3T0M4ZHRCdGhVX0owcGgyU002RXJ1RnhuU1MwSkhiXy00WEI4UG9HLWFfNWNiV04wY3JvN0lZQ0VQRHFhZw?oc=5",
+          "published": "2026-10-16T08:58:22+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "환경공단-한국수력원자력, 감사업무 협약",
+          "publisher": "이투뉴스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FN0hySG1tUERNMHBMZ2VWU2JJWThOUXVjVzlOSV9CTTNxODhSUm9HOGN5cS1XUV83YmJsTFhOME5IRnpKUTdKTkRMd2kzZ3VHbW9WdXlBMWRFRUtmTTV1RmswOVpvYm5MTGFJ0gFrQVVfeXFMTkU3SHJIbW1QRE0wcExnZVZTYklZOE5RdWNXOU5JX0JNM3E4OFJSb0c4Y3lxLVdRXzdiYmxMWE4wTkhGekpRN0pOREx3aTNndUdtb1Z1eUExZEVFS2ZNNXVGazA5Wm9ibkxMYUk?oc=5",
+          "published": "2026-10-16T09:44:33+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.591,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[프로필] 박동일 산업통상부 차관…제조업·원전정책 전문가",
+          "publisher": "한국경제TV",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ORWJqOUJzajZXS1hBZTFKWnBxS0o5Vk01LXB2UXRNS21qVXZlM2c0M0xCNGE3V1g5WFVHZmhESDJhOHlJVFVYTXMxeEkySW5fRFAxbTg3dUNMMjd3MGxtQ2Jac2FIWWFwMWF2UFFtMW9BeEJOVzJTTmdPLUY?oc=5",
+          "published": "2026-10-16T05:47:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[프로필] 박동일 산업통상부 차관…제조업·원전정책 전문가",
+          "publisher": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3RkppRmNXQmFmU3lHV0pxYXdrd0hWSFQzdGhJVmo4Ynh5TUM1Q1BIUzBDUWZtQTB0cWxnQW52NUxqWjFPd2VCdVF0UWI0bGNoUUE?oc=5",
+          "published": "2026-10-16T05:47:23+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[프로필]산업통상부 차관에 박동일…원전·제조 전문가",
+          "publisher": "서울신문",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wSmFrNXZhN3FpdmNxQUpJS2tycmJFRkdHdElmVUU5bTRUVmtSUEZ3RnVVR29qZlRTeVVLdVVNNmozWm0yZmtvMFBrcnY4R0dBa3hlbXBKN2lEWkpJUFhyUWNIT2tLcnNKcWFoOEtfQQ?oc=5",
+          "published": "2026-10-16T06:23:14+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "산업차관에 박동일 산업정책실장…제조업·원전정책 전문가",
+          "publisher": "SBS Biz",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lX29HWlNuNW5fanJBTTY5cUo5SXA4M2RZWmh3ZEFTY3djLXZfM2hEdHhYeHNJalBBdE1keUVGVExKdXpJc3hlUmpTMEFzZVBGZ0hF0gFYQVVfeXFMTjduNUhoUXlJc3pabmFzS1BJTUFhRDQtcE13VF9aTjlIWkpKTDM1d1JFbmh3aTZDX0EwMjNQSU9FYW4zaEgwejFNcnBqSHNwOUJDZVQ3S1NsUA?oc=5",
+          "published": "2026-10-16T06:32:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.457,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Three universities launch nuclear education consortium",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-16/article-8496/three-universities-launch-nuclear-education-consortium/",
+          "published": "2026-10-16T19:24:04+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.994,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Plans to build second and third nuclear power plants in Uzbekistan announced",
+          "publisher": "Газета.uz",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nRlhxV3VkcFVNbE1PRmkzZ054dDBPbVMtM3BwSEFtZXVweUVpVmlJUEotR1BUb3F3SllNbVVFTFFNbmhCeWdxSVNLcmgwXzYxdlZmTzRUa2tWMTVSd19JYjIxR3ZHdXhHV3c?oc=5",
+          "published": "2026-10-16T13:13:29+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "President Mirziyoyev announces plans for second and third nuclear power plants in Uzbekistan",
+          "publisher": "Kun.uz",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT3djaEZ3WTF1d09aeGpOMVpNUWlaV0c3YTVRVVZDZUU0akNpVENnUkpZVHpadFBNaUJ6ZDZFZk5HUVZDRWRQSDNCM3hUZ2FRTzlrOThEY21zdWVfSmhEZHpNdzc2aHRJcUY2aVVxTHpWMHktVnZVeHY2X1kzdEhXVmk0bmVScGZNbVdOWXFHQTdKNU9hbzdZQXVXMmpza0E2eVQtcWk4X2M5dXpvU3B0alZlR3RBQjZ5cEQ5U2FBY0NpbEdS?oc=5",
+          "published": "2026-10-16T16:30:49+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Uzbekistan plans to build two more nuclear power plants",
+          "publisher": "Report.az",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNM1I4eExoSjU3VDNncUxHd0FYLUZ2ZXliVHJGb2RobUxwOVk3VllHZDdHN2Fjak9Kd0NhWlIxczlnaWdsaEstbVZOSU1hZGhJRXU1M0ZSbGN3d3NsdUVHWkZCTHJ1N3lsNktxMU5KcVE2cC1OcndFS0ItVTZuTnFNdHE0TUF1R3dNUndN?oc=5",
+          "published": "2026-10-16T17:45:30+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.925,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NRC allows alternate approach to removing tilted fuel assembly at Palisades",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-16/article-8495/nrc-allows-alternate-approach-to-removing-tilted-fuel-assembly-at-palisades/",
+          "published": "2026-10-16T17:43:41+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.924,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "New 3D imaging technique supports detailed analysis of cladding stability",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-16/article-8494/new-3d-imaging-technique-supports-detailed-analysis-of-cladding-stability/",
+          "published": "2026-10-16T15:29:28+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.831,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Land once meant for Shoreham Nuclear Power Plant becomes largest DEC acquisition on Long Island",
+          "publisher": "News12 | Long Island",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdW1ZTFpMbkFadHp2Tm1HdHozNEVZS1dtdmlzMUFOZUl4Z3ZEWTBBY3lDVUFMUWdEV3hpYkx4UWlyLUhpeDN1NEEwMUszRTVBdnIyVkpOOWF0MjROY3BqZFpta05JeGJkcnVaRkV5OFZXZEJkWS04TmNndl93ZTBmeGlKNW9weWFHWjg3UEFteGRUbzl4czZoNzctRXhiY0pSaVJpTWlvbGlHYVdPRHozMzJydXpNSDFmeVh4RlRpV0xFdFRnTzhlN1pvS3MteFdZU0VHSGtOaVBFWVkwekRmQnBHMzY0ZVZE?oc=5",
+          "published": "2026-10-15T21:25:33+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Land once reserved for New York's Shoreham nuclear plant has become Long Island's largest DEC acquisition",
+          "publisher": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQYzRhQjBPYVFVQTJ5VTh1WGliVFAwOEdjVk5EMHA1azRDb1A4SWp2TUpvSU13N1lLSnVhbTZsZnZVZnl0TnR5cTMyREplbGhPZ1BDS3JxWWo0dVV2eFdEdEROek9XWTNxcjFpWW9HY2x5NFVQMVVvTEE5QkZmNEtQclFoUG5YaUdjSzYyMWk0VDR4TlA5elhQbWJHUHB5R0xVRDNFb0t4bXY4SVo0M0ZuNXhTWmZJdGV2Z2V3V05sa3BqOGJIU0VaSnJVRXRPZVV4RHJzZnRqNlUyNVhRU0tXNUg5cHpvbXd6MGxCdHVfSGdMUFZiSHB2R2RIVGxyMHo3eFVzSnBQRmxBWkxGWXhucTlFTnpMQVhPZUNwRHFVdWhLM1dpbE12UXl3ZTNxNzhwVGU1WG1rak5Yc3B0WFFJa2JId2RYV2dEOTNPUzVPX2dXdFJyajVlZnF2ZlZEbjY0NWp3YTN2Sk5HR0tJVmtLdlpVSXPSAfoCQVVfeXFMUDBVd1EtR25ZNHM2TGM1bmJ4S25la0FmYThOVEJ0RlBiNloxZ1NZTmZKUWJ6WFpNTTlXWWF6NFp0UXBTU3pzc25kcU9TMmczcjhaeDh6SmxOTjEwTm9DVjluTXZzYk1lTW5Dczl3czkwS3pDUV9lMWZ3Z01XV25FU3huMWdPMG5rUUppbjM4MFdkQ2lBMFRxckZjM1FBUGQ5cGZ3c1VaellET2ZyeVhrR2VwR1JTNmpEYjFfdm1jZ1pZek1ZYXJLeDZtUm1LZ3E0bXpCM3dEMS1MeWFXLTFoSHlNY0ZBTnJkd01LaHVjWEVWd0M1ekZVMGMwdzNSSENHRVNpOHA2ZVVEeWtaTVJiYWZSWGQ0SjdobEVTTVB1aFA0WXVDYTItQTFsQUYwT3U3T2p1c2dDSlhVSVBoM1I3V1B3RWpzSHJ0cE16LU40MkpaQl9Qdkt6NjRsWDIzWXJkWGhxYnlFa1BoZ2oxR2lUamJmX3JLemNrb0N3?oc=5",
+          "published": "2026-10-16T10:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "NY Preserves 750 Acres At Former Shoreham Nuclear Power Plant, 'Largest Land Acquisition On LI In Decades'",
+          "publisher": "Patch",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc1JJRkd2Z0JGNmZXVlhrM0xmZXF6NW1IY0NKYm5Ec05leks1a2xqakI0TEI0UjhNV3p2ZDM2U1lPRkN4eWtIMmdnUXFGTEp6V0hOdzU3UVNhdHFad1JBRGl1cDVmbDJhWkN5dmRGd0Zjdm9YYmN3bE9uTmNReFBhSEd0QzBlSmxuS2h2SXZqS21jTHF6RThROXlqZGp0dzVOOUpON01kN1VEclJr0gHkAUFVX3lxTFBJaU5ucVp6dV84YnNGOG9iVWE5LUwzSndfdFZaUHNJQ3phSHhlVzFOYkV1d3VoVHlSTGhPWFRyS2dwZ1c4Y2xnZC1ZMFU3WjRyUElTSmpXOTVLZUpKaEdxemRVS2w4N0VFVXhkMWRqOTltZlQ0bV9QNWpVSWZTWkRQRnlXc2RtdzVIYzQySlFKbkdTWG1JYmdJbFRVc05SQ3UyRUtSTy1IQTRBWG9aQjhBX2VMOVFnSWJlUElxOEFRVllNRi1iNjdLc3RCYld1dGo4em52R1pKNzFiX3N1N3QwQS1YNg?oc=5",
+          "published": "2026-10-16T15:20:33+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.824,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Multiple milestones for India's nuclear projects",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/multiple-milestones-for-indias-nuclear-projects",
+          "published": "2026-10-16T14:43:40+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.799,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Mochovce 4 connected to the grid",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/mochovce-4-connected-to-the-grid",
+          "published": "2026-10-16T14:30:28+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.79,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NRC OKs Westinghouse AP1000 design certification revision, renewal",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-16/article-8493/nrc-oks-westinghouse-ap1000-design-certification-revision-renewal/",
+          "published": "2026-10-16T13:30:39+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.748,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Viewpoint: Unlocking ASEAN's nuclear potential - a case for regulatory convergence on SMRs",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/viewpoint-unlocking-aseans-nuclear-potential---a-case-for-regulatory-convergence-on-smrs",
+          "published": "2026-10-16T12:49:00+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.719,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Norwegian used fuel to be stored in Sweden",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/norwegian-used-fuel-to-be-stored-in-sweden",
+          "published": "2026-10-16T12:37:56+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.712,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Thorizon, TNO launch MSR materials programme",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/thorizon-tno-launch-msr-materials-programme",
+          "published": "2026-10-16T11:14:32+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.654,
+      "id": 14
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원자력병원 감염관리팀, 병원 속 ‘슈퍼박테리아’ 정조준…질병관리청장 표창",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mdVFvVlhWMTBPWFdwNWxvckk4Q2tZTUY4MlRhMk9aWVVjcHhqRGptYWowR2Q0WHVITEgtc2ttdjU3amI1VVZManBQdVNQT2F2NnJfVVZLWlRGQ2Y3c1dSRmZ2QXU?oc=5",
+          "published": "2026-10-16T04:57:56+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원자력병원 감염관리팀, 질병관리청장 표창 수상",
+          "publisher": "후생신보",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBKRFJWSUdJUzdTV0hZOUpvaFdjczY2aU1VNVhyQmw4ZmdSdnY5SGk0VXh4M0pGUnlSYkc5SjNtblRhYXFk?oc=5",
+          "published": "2026-10-16T05:37:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원자력병원 감염관리팀, 질병관리청장 표창",
+          "publisher": "메디포뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83MzJVZXlFWTVjanllM24tek9Tb19xZXFvemtwNDFqRDBfU1pOZ3lYX281cWZFRF9ad0ZCSmVuVV9ia05zeksxTHBqaVBKOHRsRHBKZ1V4dVkzU2xIQ1FlYW9weGo?oc=5",
+          "published": "2026-10-16T09:33:13+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.583,
+      "id": 15
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Russia plans to build nuclear power plant on Moon by 2035 :Rosatom CEO Likhachev",
+          "publisher": "Daily Excelsior",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcXVsZ2FRY2swZmtIS1RZQnU4aG0zMTdJM3loRmxJZEE1UzNFYVpwaVJhWkppTE5KMnh2ZXFIdXhYWTRRVmJfQjd0dzhkeXVYMXNjaXgyUGlmSFhod203a3dUcEtQbkJTeVlnZG1MejVPNkNFaGVmWENSODVPWVBkR29XTm4wN1Y0WFlvalFhUERmd2dzRUV6OWxQT0pLdG9jTGg2bkw3ZHFobjdyVjgwctIBtAFBVV95cUxQcXZHWGl5UTB5RUlSYlN6Y1FHNkxtc0k3c1JRYmstM1FCMVdCbU5pMF9KVmExcUxpTXJnTmpqY0EyNWhqZTlqbDZTa0JLSjV1N0l4TC1iN2pWUEVuWmtQeG5YYWFfbThhS2xoWjF5SlVrSDQzbGlnQ2QwYXdaQU1wUHF4TUFXVTc5VXRDZ0NfV2dvN3ZzaVhETzZkNVlSV1MtMEd0N3NQTVdCOHZDdElONFZ6UGo?oc=5",
+          "published": "2026-10-16T06:09:47+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Russia Plans to Build Nuclear Power Plant on the Moon by 2035, Says Rosatom Chief",
+          "publisher": "Bold News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSWNvYkw3UktmMWU5VW5NZURBS2RGZ19lLVF3UEJmY0ZfcFFoSDl2YUNseUJMQjB2VlFlMTBUTkYxOHFWVUp2VkNsbFBIR244NUpGaml4VHlCMWNGVERBdURUbzRyYVNpd2FGQndDS3UtR1YwLXU3bkdybE5zOFZ6NE9pVnJYNkJKZUZoTUxhMC1YOE9Fdk5jUDhOTlY5OEVyTV9WQ1dYaC1EM0Ro?oc=5",
+          "published": "2026-10-16T07:14:42+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Russia plans to build nuclear power plant on Moon by 2035: Rosatom CEO Likhachev",
+          "publisher": "The Northlines",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcGN3aUV3NHpXVUt3cnFVMURxanJRZUVYX3ptODA1ZUpyYVg3clJnVTI3M2RZbHh4TlJMck8ycnNKLWtabFNSZmpoakRoWVlROEhrLTM3YTBzTVJNN0xmUnpPMmVzb3FUczJISUNlTzhISHBkSDNlbjFlNlF5c2phQjVKSndSRDFxV245THhLSWo5VzQ4RUp6S1Fla2RHek1rTmN3aDJkcjVwUQ?oc=5",
+          "published": "2026-10-16T08:55:35+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.557,
+      "id": 16
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[프로필] 산업통상부 차관에 박동일 산정실장…제조·원전 두루 거친 산업정책통",
+          "publisher": "아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxTWloa1lSaDlRSkVfWW1oQ2wxZ045cDczUUZkMG1BYXRISHh2SlB1WG5MWUlpemtNT0M5OHhyRC1FbnM1OTVrTXRra2VUZnJBakQ3RDBvQ3TSAVhBVV95cUxQcU1paGtZUmg5UUpFX1ltaENsMWdOOXA3M1FGZDBtQWF0SEh4dkpQdVhuTFlJaXprTU9DOTh4ckQtRW5zNTk1a010a2tlVGZyQWpEN0Qwb0N0?oc=5",
+          "published": "2026-10-16T05:34:08+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "산업부 차관에 박동일 산업정책실장…원전·제조업 두루 거친 전문가",
+          "publisher": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CSjBlRlhLMW9uWWdIaTFMb0JVNE5JeHdfOEY1Rml4alJfRm5JOTBBRHJwaXJQOG1IbGdyTnR2R25JcGFVb3NpMFNqU254NVJtbTBYZG5wUHRhcmc?oc=5",
+          "published": "2026-10-16T05:41:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "산업부 차관에 박동일 산업정책실장…원전·소부장 두루 거친 산업통",
+          "publisher": "MTN 머니투데이방송",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pMjJybkJPaV80NkZhQU1lbWFoaHNhQUF4NEFlaFlOVFBJcmhidGJZcWhOODg1a1VBSUU2NE44SHE0YW5ZeGFtOGE4cnNBd0F1WjhfaXM1azF0MjZMLXBB?oc=5",
+          "published": "2026-10-16T06:11:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.443,
+      "id": 17
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "두산에너빌리티, 연내 SMR 추가 수주 기대…북미·사우디로 원전 영토 확대",
+          "publisher": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BWmlLdjBnaHJTV2VkNm9kazgyME5fVmtmQ1Q2TFd2X0VRZ3NXZWxleGJ6cVRiaTNhUjdPT2V2SVpxR09BVnlVVThDZU9qbm9YSzB5Nm94WTItQQ?oc=5",
+          "published": "2026-10-15T22:12:44+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "\"두산에너빌리티, 연내 SMR 추가 수주 기대…목표가는 하향\"-하나",
+          "publisher": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51TG1MYjNfaXJLemNBUGN2Zng4WDhtaDVZUnoxdDVXME9QMHJKa2ZISWJGOW5Ta0NJTVg2dV9lcFVrSHMtVFROZ1MzQmJ0VjFYVVhRY0liMXRNZw?oc=5",
+          "published": "2026-10-15T22:56:08+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[특징주] 두산에너빌리티, 연내 SMR 추가 수주 기대…주가 2.84% 상승",
+          "publisher": "남도일보",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVREV0MGRTS19hdE5sNWpzS21sVjIyeVNhbGxqVHVJd0pNdEN5ejYzM2hySVhmci1tRzQtVlpYTXBNT0trbmtWUkFMZmFOZU13OEY3WG5va0NZdk9XU1JMZmVsVExteW5FekJkdzBmcE7SAXBBVV95cUxQVURFdDBkU0tfYXRObDVqc0ttbFYyMnlTYWxsalR1SXdKTXRDeXo2MzNocklYZnItbUc0LVZaWE1wTU9La25rVlJBTGZhTmVNdzhGN1hub2tDWXZPV1NSTGZlbFRMbXluRXpCZHcwZnBO?oc=5",
+          "published": "2026-10-16T01:40:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.255,
+      "id": 18
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "From Farm to Fork: How Nuclear Science Helps Put Food on Our Tables",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/news/from-farm-to-fork-how-nuclear-science-helps-put-food-on-our-tables",
+          "published": "2026-10-16T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        }
+      ],
+      "score": 2.185,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "환경공단-한수원, 감사업무 교류·지원 위한 업무협약 체결",
+          "publisher": "데일리한국",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5McE0wSmgxMUpYUXJHdjJUQWpVMVJIZzl5a2t3UHFIMUZKWVhTLXQ2aFd0a055LURLNG8tZGNqMWRLemJSeTFucmVibktGRHpoeDZjSnJRcjZabmpjNGNmcl90Y0x2c0Z4MmctdjFlQmVzem_SAXNBVV95cUxOTHBNMEpoMTFKWFFyR3YyVEFqVTFSSGc5eWtrd1BxSDFGSllYUy10NmhXdGtOeS1ESzRvLWRjajFkS3piUnkxbnJlYm5LRkR6aHg2Y0pyUXI2Wm5qYzRjZnJfdGNMdnNGeDJnLXYxZUJlc3pv?oc=5",
+          "published": "2026-10-16T09:20:46+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국환경공단-한수원, 감사업무 교류 협약 체결...전문성 강화",
+          "publisher": "Queen 이코노미퀸",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oSzBPVFhoaFVfOEJPZ3hEdWNFVUNjLWVSTHZvWFZSQXlFbmY0OU5ndGNJMkJnQ19DOTd2UjNBSFJYNnZfaE0tTm9fTzgzS2p4akVzZ3lXenRod2lseWlZYld0ajVWek9Xa2c?oc=5",
+          "published": "2026-10-16T09:42:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.589,
+      "id": 20
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원안위, 고리 3·4호기 계속운전 추후 재논의",
+          "publisher": "인사이트에너지뉴스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QamNkOWRadmg1Zk1yX0lEaDRqUHpvS01KRmh0Uk03bWhOSnliLUQyWHpfZm9pUVhhTnRBMnRoOUFoNU5zZWFRcDh6V2hkdGU0T19RUE1tSTV5YlZ4ZlA4dS1QNElwQ29rYkk40gFrQVVfeXFMT1BqY2Q5ZFp2aDVmTXJfSURoNGpQem9LTUpGaHRSTTdtaE5KeWItRDJYel9mb2lRWGFOdEEydGg5QWg1TnNlYVFwOHpXaGR0ZTRPX1FQTW1JNXliVnhmUDh1LVA0SXBDb2tiSTg?oc=5",
+          "published": "2026-10-15T23:49:34+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "원안위, ‘고리 3·4호기 계속운전’ 심의 착수",
+          "publisher": "발전산업신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PNHNucUFJdHdLX21yaUM4aENwTXlraVJqYUlIcGx0QUlZTWpnOHdyU2xXTzlKaGFqczU3VXp5ZXVHRG5DN1c0d0llYnZxWk5KRFhHZjV0Q1lYdDVudVRHQmQxTHlXSnFX?oc=5",
+          "published": "2026-10-16T08:15:36+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.529,
+      "id": 21
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "환경공단·한수원, 공정한 감사문화 확산 맞손",
+          "publisher": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyeHVEblBkVDhkNkZMbUtOLUt4U2FHakkwTHJZZklKRDVSd0dCeTcxOUdmYWpmUGhqUmZsMTVMZDk0TUhaX3luSWhqTDRTMWJMd0RUZw?oc=5",
+          "published": "2026-10-16T07:51:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국환경공단, 한수원과 인권존중 감사문화 확산 맞손",
+          "publisher": "S저널",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NX1RGeVNtQzlFXzVtaTBNNnNvM2NzT2Y4MXczc3FUYk9oVGpBMDVfR3lKcUhPUV8xeWxnUVNxcjlua0pUcnNKQlluS2dpRkwtOFk3dFl1bTdaM0EwUjNKcFAzUG1zWnFxMWhmTmRR?oc=5",
+          "published": "2026-10-16T08:15:35+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.529,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한국환경공단, 한수원과 감사업무 맞손",
+          "publisher": "투데이에너지",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4akV6dWtsQVkwNC1RTkNkYnk4TEVvNWtFUHhVMlJSd0tkYWR1b1lMN1pCVGMtRjdZS0t0TWktNWhiRnB6U2E2bXNIallGRDlNU1U0OHN3ZV9SSmZOR3BtckZia2xvM3RnVmtiUXpB?oc=5",
+          "published": "2026-10-16T07:30:54+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "환경공단, 한수원과 감사업무 상호협약 체결",
+          "publisher": "국토일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84WmZJMnZYNkt3S1hnNW1fWmV3RlVOTGl1dGpDUEJST3E0YklDNXpvdi1jR3J1MkFqRER3cmFrZzBBbVg3ajRLREJkM3BRQWx3elpxTjNjd0IycVd0aHBXTTkzZlc?oc=5",
+          "published": "2026-10-16T08:10:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.525,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "박동일 신임 산업부 차관…원전·소부장·제조업 거친 '산업정책통'",
+          "publisher": "이데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdUdzdFpLSFJEU2hJQlhQS0k4dGcwa0Z6U1c0RUgzdnpKLWplQTlTXzY2VmpEY3FnR1ZmNjl1bVN1bGllTXN0Q2lCMkt0NnduS2dDeE1YYzNESWtBeEtTUEt0bUtDOElZRDU1ODFSZWFwb2NHTnV3NkhoSkZKY0I2dA?oc=5",
+          "published": "2026-10-16T06:23:18+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[프로필] 박동일 신임 산업차관…원전·소부장·제조업 두루 거친 '산업정책통'",
+          "publisher": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVTWY5ZzRkYmxySWpaRWZIV3FHSzJmZXNVSW9EYk54QjE0ZThYVjMzZVk3aTVsZTVOWW9vdU5qaWhvRmNIczFRSkJKMUc3dFJ4LWhiUWtNbzc5UXl3WGhtRg?oc=5",
+          "published": "2026-10-16T06:36:53+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.461,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원전 공론화 의제 확정···“어떤 전기로 살 것인가”",
+          "publisher": "환경일보",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GZURkODdtczR4X3E5QkVBbTBRZWRUYUZiSUF5Qy1KbFpYVjQtZThiMUVRa1lUVVlEalVhUG5neE9XaWpsZnBoR29CTmhhc2ZzeERZSEg0S2pOVlBSVHdsS0dScXZZeXVt?oc=5",
+          "published": "2026-10-16T00:04:39+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원전 공론화 대주제, “우리는 앞으로 어떤 전기로 살 것인가” 확정",
+          "publisher": "에코타임스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fVHNMRlN0QlNQTnFkSG92VzZpekt1UDRxejRqNmtkdDBrcnc1eWV5Rm9Ebk1HMmF0NE1xc2NPTFBYTmZoWFJobHhWbnpuU3EzcmRiNUc5RTR5TXl1OUczMFFiTWJNRDFZcDVUZ9IBb0FVX3lxTE1rWWxQelhZekZGQXlsVWE2dmM3dmJVdjFMOHFGTjUzNjFUdmN6S0tQcnRTdXFMRlhMeHpGcVlpNi00U1ZSclVIbW1OOFBGUW5Td0RxOFRfYnpwNWJfdnZ0bWFoOF9saV8wUjY0TlBtUQ?oc=5",
+          "published": "2026-10-16T06:09:32+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.442,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[프로필] 박동일 산업부 차관…제조업·원전 두루 거친 실무형 정책통 - 조선비즈",
+          "publisher": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRWRkME0zQVZVbzRmdTlfNHpMWkQxYUE5RjBCazRKeDBXOWdadm84TG55TDNSRTluTXpxOFR1S1FaYzNwa2w5WFdicGl4REd5YzVZRFc4a09ZVnItNFFER3JLaG9HMWVBRHVBMEdUX2p6WEFYV3A3dGdwNmZoNGFTU0syYnRXd9IBmgFBVV95cUxQY1pDQWdMb0lzRFVQc19iaWE2MW5IWUJya3ZKNVdUeDdUZ1FlSFNhcU52ZTRlZ2YyREQ3MGsyLWF4SlJhanhKZEtiNXR1VzN0SDQ5TTktQ0Q0NDFTeVJYU0pPWUZIYkUzbFdYV3JwTVNBVXJsRW1Dc18tdXhoMFpubUJ1X2NmYmVISlBBT19UOGRoU3dyVHF2Vm9n?oc=5",
+          "published": "2026-10-16T05:23:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[프로필] 박동일 산업부 차관…원전·제조업 두루 거친 산업정책 전문가",
+          "publisher": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84Qmtycm9ja2ZyOW5jOWd6UlhfemJuSzBjSFNGVkxuRkRZUzY3UTVzTVJQNjhrYWJjalRqWWYzUzZwT0s3RjlXbkFPUnlKNWNWcUVoSXJhdzhhaVdB?oc=5",
+          "published": "2026-10-16T05:56:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.432,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "G7, 체르노빌 원전 복구에 2억 6000만 유로 지원",
+          "publisher": "한국면세뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xV2NiLU1abl9XRl9lY0hrZWFSSG1jZVpNU3diUHJTZEVHRGJMQ0h4b2VsUU1abzdJV3p2RVc3X0NYakV2YlRtQWxNZ2xOWU1CVFM1Y0J0VkV4VmFiLWk3Vzc3cVM0LS05R3c?oc=5",
+          "published": "2026-10-16T15:05:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.814,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한국환경공단·한수원, 공공기관 감사 공정성·투명성 강화 맞손",
+          "publisher": "쿠키뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KbS0wUEFfbUwxOWhZdG1HWnhET2o3Tnptb0c0V1ZmZWlQemF4V3k0S0hNQ3hLLVhfTC1MNW03OVFYUXgyYlhXMG9PdGVVQ1NLWm1RaVlhUVZhU29LZEE5RW43OA?oc=5",
+          "published": "2026-10-16T13:41:29+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 0.756,
+      "id": 28
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "후쿠시마 원전 방사능 오염수 미국 승인",
+          "publisher": "중앙신문",
+          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOZmRHb0hZNF9zaG1uTmlibVVsQXZ2Z05uaENpNnhJWElETVhlWExvZV83YWY2Rm9wUEl1aGZIU19RazQ5SVkwZnNtQ253SlhtQVpBaHpnZGZTeDAxU3RiSFB2VG5QWXNlc0k1UHNWUC12U2NXOUZ4Zl9DVmFTcU5XWlBlYjBuVTl4N3doYXZILVhzc09jT2EtOFFFMUQ4aGxka2lUQVN0RXl4ZktNeWRMSkdBX0VNX3R2RkZEcmFLR3hUT1FzR1dPOFplclVDWllJUkhVMXVIeGJsaDVLc2NrQ3plcko4TnNQTFlEeFI0Sl8xYXFIcUhnVC1UZjhYWExXUkhzek8xQnBaZVVTRkR2Ui1mZ0k1NEtTZGx4bW9R?oc=5",
+          "published": "2026-10-16T11:26:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.662,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 87
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 35,
+      "kept": 14
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 90,
+      "kept": 84
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 49,
+      "kept": 5
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 2
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 5
+    }
+  }
+}

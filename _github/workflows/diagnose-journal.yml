@@ -1,0 +1,28 @@
+name: Diagnose journal dates
+
+on:
+  workflow_dispatch:
+    inputs:
+      issn:
+        description: "Journal ISSN"
+        required: true
+        default: "1001-8042"
+      days:
+        description: "Look-back days"
+        default: "90"
+
+permissions:
+  contents: read
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m app.papers.diagnose_journal "${{ inputs.issn }}" --days "${{ inputs.days }}" | tee -a "$GITHUB_STEP_SUMMARY"

@@ -1,0 +1,941 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-13T21:14:29+00:00",
+  "engine": {
+    "engine": "claude-code-session",
+    "briefed_at": "2026-10-13T21:51:29+00:00"
+  },
+  "overview": "국정감사 철이라 국내에서는 SMR 규제 인력 부족과 한수원의 출입기록 관리 문제가 크게 다뤄졌다. 해외에서는 방글라데시 루푸르 1호기가 첫 임계에 도달했고, 슬로바키아 모호프체 4호기 연결과 폴란드 두 번째 원전 협정 소식이 이어졌다.",
+  "stories": [
+    {
+      "source_ids": [
+        16,
+        22,
+        25,
+        28,
+        23,
+        15,
+        7
+      ],
+      "region": "국내",
+      "category": "안전·규제",
+      "importance": 3,
+      "headline": "SMR 개발은 빨라지는데 안전규제 인력은 7명, 원안위는 최소 33명 필요하다고 밝혀",
+      "summary": "국정감사에서 원자력안전위원회 위원장이 SMR 안전규제를 맡은 인력이 현재 7명이라고 답했고, 최소 33명이 필요하다고 밝혔다. 제목 기준으로는 1개 국 규모의 조직이 필요하다는 취지의 발언도 있었으며, 규제 인력과 예산이 도마에 올랐다.",
+      "background": "원전이나 SMR을 짓고 운영하려면 규제기관의 인허가 심사를 단계별로 통과해야 한다. 심사에서는 설계가 사고 때 안전기능을 유지하는지, 해석 코드가 믿을 만한지, 제작과 건설 품질이 적절한지를 따진다. 신형 노형은 기존 대형 경수로와 달라 심사 기준과 근거 자료를 새로 정리해야 해서 심사 인력의 전문성이 더 많이 필요하다. 심사를 지원하는 기술기관과 규제기관이 함께 일하는 구조라서, 인력이 적으면 심사 기간과 품질에 직접 영향을 줄 수 있다.",
+      "why_it_matters": "SMR은 피동 안전계통, 일체형 원자로, 모듈 제작 같은 새로운 특징이 많아 심사 항목이 기존 원전과 다르다. 규제 인력이 부족하면 심사가 늦어지거나, 반대로 서두르다가 검토가 얕아질 위험이 있어 둘 다 산업과 안전에 부담이 된다. 공학도에게는 설계 못지않게 설계를 검증하고 설명하는 규제 역량이 하나의 직군이라는 점이 중요하다. 앞으로 볼 점은 인력 증원이 실제 예산과 조직 개편으로 이어지는지, 그리고 신형로 심사 기준이 어떤 방식으로 마련되는지다. 다만 제시된 인원 수치가 어떤 범위의 업무를 기준으로 한 것인지는 후보 기사만으로는 알 수 없다.",
+      "concepts": [
+        {
+          "term": "피동 안전계통",
+          "explain": "펌프나 외부 전원 없이 중력, 자연순환 같은 물리 현상으로 작동하는 안전설비."
+        },
+        {
+          "term": "인허가 단계",
+          "explain": "표준설계 승인, 건설허가, 운영허가처럼 단계별로 안전성을 확인하는 규제 절차."
+        },
+        {
+          "term": "규제 독립성",
+          "explain": "규제기관이 사업자와 정책 기관의 영향에서 벗어나 안전 판단을 내릴 수 있게 하는 원칙."
+        }
+      ],
+      "question": "새로운 노형의 심사 기간을 줄이면서 안전 검토의 깊이를 유지하려면 규제기관은 어떤 방법을 쓸 수 있을까?",
+      "study": [
+        "SMR 인허가",
+        "피동 안전계통",
+        "규제 독립성"
+      ],
+      "reference_ids": [
+        "nssc",
+        "kins",
+        "iaea-smr"
+      ]
+    },
+    {
+      "source_ids": [
+        20,
+        21
+      ],
+      "region": "해외",
+      "category": "원전 운영·건설",
+      "importance": 3,
+      "headline": "방글라데시 루푸르 1호기, 첫 임계 도달",
+      "summary": "방글라데시 루푸르 원전 1호기가 첫 임계에 도달했다고 보도됐다. 별도 보도에서는 루푸르 원전 두 호기에 자동 제어계통을 설치하는 작업이 언급됐다.",
+      "background": "임계는 핵분열 연쇄반응이 스스로 유지되는 상태로, 중성자 발생과 소멸이 균형을 이룬 때를 말한다. 연료 장전 뒤 제어봉을 조금씩 뽑으며 중성자 계측 신호를 보고 임계에 접근한다. 첫 임계 뒤에는 저출력 시험, 계통 연결, 출력 상승 시험을 차례로 거쳐 상업운전에 들어간다. 제어계통은 원자로 출력과 안전계통 작동을 감시하고 조절하는 핵심 설비다.",
+      "why_it_matters": "첫 임계는 건설이 끝나고 시운전의 핵심 단계로 넘어갔다는 뜻이지만, 상업운전까지는 시험과 규제 확인이 더 남아 있다. 원전 신규 도입국에서는 운영 인력, 규제 체계, 핵연료 공급 같은 기반을 함께 갖춰야 해서 기술 이전과 교육이 중요한 과제가 된다. 공학도 관점에서는 시운전 시험이 설계 가정을 실제 플랜트에서 확인하는 과정이라는 점이 눈에 띈다. 앞으로는 출력 상승 시험 결과와 계통 연결 시점이 관전 포인트다. 후보 기사에는 노형과 일정의 세부 사항이 적혀 있지 않아 여기서는 단정하지 않는다.",
+      "concepts": [
+        {
+          "term": "임계",
+          "explain": "중성자 생성과 소멸이 균형을 이뤄 연쇄반응이 일정하게 유지되는 상태."
+        },
+        {
+          "term": "출력 상승 시험",
+          "explain": "출력을 단계적으로 올리며 설계 성능과 안전계통을 확인하는 시운전 시험."
+        },
+        {
+          "term": "신규 도입국",
+          "explain": "처음 원전을 도입해 인프라를 새로 갖추는 나라."
+        }
+      ],
+      "question": "처음 원전을 운영하는 나라에서 시운전 단계에 가장 큰 위험이 되는 요소는 무엇이고, 어떻게 줄일 수 있을까?",
+      "study": [
+        "임계 접근",
+        "시운전 시험",
+        "신규 도입국 인프라"
+      ],
+      "reference_ids": [
+        "iaea-pris",
+        "wna-library"
+      ]
+    },
+    {
+      "source_ids": [
+        2
+      ],
+      "region": "해외",
+      "category": "원전 운영·건설",
+      "importance": 2,
+      "headline": "슬로바키아 모호프체 4호기, 계통 연결 추진하며 출력 상승 이어가",
+      "summary": "슬로바키아가 모호프체 원전 4호기를 전력망에 연결하는 계획이 보도됐다. 제목 기준으로는 출력 상승 시험이 계속 진행 중인 것으로 보인다.",
+      "background": "신규 원전은 임계 뒤 터빈 발전기를 계통에 처음 연결하는 병입(grid connection) 단계를 지난다. 이후 25%, 50%, 75%, 100% 같은 단계별 출력에서 계통 응답과 안전계통을 시험한다. 터빈 정지나 부하 상실 같은 과도 상태를 모의하는 시험도 이 과정에 들어간다.",
+      "why_it_matters": "병입은 원자로와 발전소 전체가 설계대로 연동되는지 처음 확인하는 시점이라 시운전 중 중요한 이정표다. 출력 단계마다 열출력 측정, 노심 출력 분포, 냉각재 온도 같은 항목이 설계 예측과 비교된다. 공학도에게는 해석 결과와 실측값의 차이를 읽는 훈련이 되는 사례다. 일정이 길어지는 이유가 설비 문제인지 시험 절차 때문인지는 후보 기사만으로 알 수 없다.",
+      "concepts": [
+        {
+          "term": "병입",
+          "explain": "발전기를 전력망에 처음 연결해 전기를 보내기 시작하는 일."
+        },
+        {
+          "term": "과도 상태 시험",
+          "explain": "부하 상실, 터빈 정지 같은 상황을 모의해 플랜트 응답을 확인하는 시험."
+        }
+      ],
+      "question": "출력을 한 번에 올리지 않고 단계별로 올리는 이유를 안전성과 데이터 확보 관점에서 설명해 보자.",
+      "study": [
+        "병입",
+        "출력 상승 시험",
+        "과도 상태"
+      ],
+      "reference_ids": [
+        "iaea-pris",
+        "wna-library"
+      ]
+    },
+    {
+      "source_ids": [
+        0,
+        5
+      ],
+      "region": "해외",
+      "category": "정책·산업·수출",
+      "importance": 2,
+      "headline": "폴란드 두 번째 원전 협정 체결, 웨스팅하우스는 폴란드와 네덜란드 사업 추진",
+      "summary": "폴란드의 두 번째 원전 건설과 관련한 협정이 체결됐다고 보도됐다. 웨스팅하우스는 폴란드와 네덜란드 원전 사업에서 다음 단계로 나아갔다는 내용이 전해졌다.",
+      "background": "원전 사업은 정부 간 협정, 사업 참여 계약, 부지 조사와 환경평가, 인허가, 건설로 단계가 나뉜다. 협정은 사업의 법적·재정적 틀을 세우는 초기 단계에 해당한다. 대형 신형 경수로는 피동 안전계통을 갖춘 설계가 많고, 모듈 공법으로 공기를 줄이려는 시도가 있다.",
+      "why_it_matters": "여러 나라가 동시에 신규 원전을 추진하면 공급망, 기자재 제작, 숙련 인력 확보가 경쟁 요소가 된다. 공학도 입장에서는 설계 하나가 여러 나라의 규제 요건에 맞게 바뀌어야 한다는 점이 눈에 띈다. 협정 이후 부지, 비용, 일정이 실제로 확정되는지가 관전 포인트다. 후보 기사에는 협정의 세부 조건이 없어 구체적 내용은 단정하지 않는다.",
+      "concepts": [
+        {
+          "term": "정부 간 협정",
+          "explain": "원전 사업에서 자금, 기술, 책임의 기본 틀을 정하는 국가 사이의 합의."
+        },
+        {
+          "term": "공급망",
+          "explain": "원자로 용기, 증기발생기 같은 대형 기기와 연료를 제때 조달하는 체계."
+        }
+      ],
+      "question": "같은 노형을 여러 나라에 지을 때 규제 차이는 설계와 공기에 어떤 영향을 줄까?",
+      "study": [
+        "원전 사업 단계",
+        "AP1000",
+        "공급망"
+      ],
+      "reference_ids": [
+        "wna-library",
+        "iaea-pris"
+      ]
+    },
+    {
+      "source_ids": [
+        3
+      ],
+      "region": "국내",
+      "category": "안전·규제",
+      "importance": 2,
+      "headline": "한수원 원전 핵심구역 출입기록 21회 누락, 국감서 지적",
+      "summary": "국정감사에서 한수원이 원전 핵심구역 출입기록을 21회 누락했다는 점이 지적됐다.",
+      "background": "원전의 방호구역과 안전 관련 구역은 출입 통제와 기록 관리가 요구된다. 출입 기록은 누가 언제 어디에 들어갔는지 추적해 물리적 방호와 사고 조사에 쓰인다. 방사선관리구역에서는 개인 피폭선량 관리와도 연결된다.",
+      "why_it_matters": "기록이 빠지면 사후 추적이 어려워져 방호와 선량 관리의 신뢰가 흔들린다. 안전문화 측면에서는 사소해 보이는 절차 누락도 시스템 문제의 신호일 수 있다. 다만 누락의 원인이 장비 오류인지 절차 문제인지는 후보 기사만으로 알 수 없다. 앞으로는 재발 방지책과 규제기관의 후속 조치가 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "물리적 방호",
+          "explain": "무단 접근과 파괴 행위로부터 핵물질과 시설을 지키는 체계."
+        },
+        {
+          "term": "안전문화",
+          "explain": "안전을 최우선으로 두는 조직의 태도와 관행."
+        }
+      ],
+      "question": "출입기록 누락이 안전문화의 문제인지 설비의 문제인지 구분하려면 어떤 자료를 확인해야 할까?",
+      "study": [
+        "물리적 방호",
+        "안전문화",
+        "방사선관리구역"
+      ],
+      "reference_ids": [
+        "nssc",
+        "khnp"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Agreement signed on second Polish nuclear power plant",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/agreement-signed-on-second-polish-nuclear-power-plant",
+          "published": "2026-10-13T13:46:42+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        },
+        {
+          "title": "Poland signs agreement to prepare second nuclear power plant — RMF24",
+          "publisher": "UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS0s2Qm1zUHFJMkMxOTIxLTBKbFJxOWZRQjFOTlJ6OUU0TEZjamxMaHZuay1ETWNIWm9WcWkxSEhKZVduZ0cwMnBHSFlXYXRQS3lxTGNfUHcyNjJjWTNTQ0JUNFAtM29ob096dWRWam1WN3hZZVdldU16THZULTNIcU5yM29uWFVvdmhuVVdQR2F2VGM?oc=5",
+          "published": "2026-10-13T11:15:07+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Agreement signed on second Polish nuclear power plant",
+          "publisher": "World Nuclear News",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN3ROU3J1cVRuRi10Z1JCajBMX1NGdEJlM2d0MUFMdk9mMmZPYVlJMVFhRHRhV1RyeHFUZnlrTHFiRXdqR3hfZ1EtanNJX3dibW54NWpFR0dSQ3Exc0NrTjJTWVVkam5naWdYc3pjM29zUmVjcDRRZV82MHBHdzNVSFlrZHJhMzlfMU9BWnFTMDBfcUlndEpKdzlzRmdsQQ?oc=5",
+          "published": "2026-10-13T15:22:14+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 4.755,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한준호 국회의원 SMR 상용화 본격화… 안전규제 준비도 한발 앞서야",
+          "publisher": "경찰뉴스24",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CMXdqYmM1Q2JIY19qRTRqT2dpRVQ3M2p1ZVFDbGRudWtsX1Q3QjVRUEc2X2tPNENGNVNJcm1USG9MTmIyalZrUTdnRjJlVjdhRERFREdXelZDWjh1ZUtLbXpUd05WZHF0Rmt0cDl4d1ptdw?oc=5",
+          "published": "2026-10-13T05:21:08+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한준호 의원 “SMR 상용화 본격화…안전규제 준비도 한발 앞서야”",
+          "publisher": "에너지타임뉴스",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfNFI5X3o0cGRSY1E3dlVvc3lGejJhX3k0dldTNDAwTDJuOTNCRmRIbXdkYmFMZG1iM2tyYmcwZE9SY0RYTkNtcXJkcmFvVFZnWkJ2RjFlWFBIQTE0eGh2N3RiZ2FoeUVUZnF3ZnNITDhsU2ZBTnfSAXZBVV95cUxQXzRSOV96NHBkUmNRN3ZVb3N5RnoyYV95NHZXUzQwMEwybjkzQkZkSG13ZGJhTGRtYjNrcmJnMGRPUmNEWE5DbXFyZHJhb1RWZ1pCdkYxZVhQSEExNHhodjd0YmdhaHlFVGZxd2ZzSEw4bFNmQU53?oc=5",
+          "published": "2026-10-13T06:03:44+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[국감] “SMR 상용화 본격화, 안전규제 준비도 한발 앞서야”",
+          "publisher": "인사이트에너지뉴스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZdkxlcHBHb0swRnROSkJhTzNSMVIyRHVkUW44dlZobGM1bVdkd3FxbnROX1hQaW15ZnRic3VGS0pyNVBSYXpfUk9HN2tDQnpHcGVjeVN6MWE0VWVhZmFvSlctVkx3MEl2OUJz0gFrQVVfeXFMT1l2TGVwcEdvSzBGdE5KQmFPM1IxUjJEdWRRbjh2VmhsYzVtV2R3cXFudE5fWFBpbXlmdGJzdUZLSnI1UFJhel9ST0c3a0NCekdwZWN5U3oxYTRVZWFmYW9KVy1WTHcwSXY5QnM?oc=5",
+          "published": "2026-10-13T07:08:54+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한준호·민주당, SMR 상용화 본격화 안전 규제 준비도 한발 앞서야",
+          "publisher": "오토투데이",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qa1hVVG5rSGlQdFJTNVhLZUUzVnk4UnRfeGEyUzV3Y2lDU292SzZYbEw1UzJjbjlsM3BEelc4R184VlFiaVA0UXhqZ3VBUHZmcXhRT0tHSW9UUlhXd2xoeDZ4SFhwZkhRNUZydXZNYw?oc=5",
+          "published": "2026-10-13T15:15:42+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.751,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Slovakia to connect Mochovce nuclear power plant's fourth unit as ramp-up continues",
+          "publisher": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdGxBN0FTekhBcHNMc0piQmt6ZVBvWjJReVhLZHRvbGVNSjhuYnNSOUNoRHZBQjhzYVk0MFk2a0hXWjNZZ040YXB1Q2dObU1rWG9BWHY4UDgzZmdHRHhHNGo5M3ZTVmlhejV4QXpNalE2T2tCVU5Ydlg5endUTW5IaFZ4SVpTQ1ZZaW50RVZFSXlQdUQ1blVGTmJ4V00wal9pbU5tenYyUXkza01Qb0JnaDZuQ2U2UWQ2SDNabGVHUVhvaXJzUmJmdWE3QUR2MXpOV1BMb0pHam1JckR4UGV0eXgzd1hkRWF5?oc=5",
+          "published": "2026-10-13T11:26:16+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Slovakia to connect Mochovce nuclear power plant's fourth unit as ramp-up continues",
+          "publisher": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWTRMQjlYYjlFV2hVNFlndjlkcDJRVEFfN3dIa1FxdGxhWFhTbjluR2l2TVBwWF9xYWZvQW4ycDg0VV8xVWFsZVZXY1l5VzlXM1F2ZjdnNXpXbnR2VHQ2TTByU1NzclA4dUVzaGhjY2p3U3NuRTJYZVBLMHNlcnliY0RYU0NKQnNNSVJ3?oc=5",
+          "published": "2026-10-13T11:32:21+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Slovakia delays connecting Mochovce nuclear power plant's fourth unit, ramp-up continues",
+          "publisher": "Devdiscourse",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX3RZaF9qcHRFdkNiM1otalVIZUtDQzk3bzZuSnQ5OUotWGJWTEoycHNmSjNDejFmMnctUDFHdUtjenBZT09kUno1V2lwVkJVM1FYNXlienNmNXFrS25aMmJaeEpEMDVWYUp5R3lIeXdGWTFuNkQ4UXRwNGVoZ3RKdGl5bTRBWVhWanN3LTRTRVgzZ21uR0RjQk85WC1uaWN1U0wyclFVd3BnbFBiTXlpTHU2LXNna09IQ2lKZDVKYmktYnRaQm5RUWpBMTQ3UFkwQlVCVEZ3WDBSb2NOVlHSAeMBQVVfeXFMUFRQQzZMOW16UXpaM2tna2tDN1I4WHFDbkNldEtmSC1HcENRNXZ4UjhLSmI5N2t5Skt3MW1SSjB2SHFjMlNrcGxTNFM1dWFFZE41aG9CVXZHR2lRcHVpMUxOdVlPODJLb0k5d1NHUTlKWjJ3ZDU2NXdVQk1aTGZVVzZuRm0xMGVQRDdQQ0prRV9OTmRXUlJzanB3eUlpdHpJMnRGazFhVHV6NUV1TGh4aHo2TVpRYkc2c2NGNGdodmtnU1J6MC1SR29PUnZVUldDampsZG9pNkJTdWtMR0IzNVBfOXc?oc=5",
+          "published": "2026-10-13T14:38:59+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Slovakia delays connecting Mochovce nuclear power plant's fourth unit, ramp-up continues",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT0JwazhHX01wNlJxNWNtUFNzT2Rxc1o1N0FHOFBIeXV4bTUzMjB6UDJEdVFnVkVjQ1gwd2VBQnRUNmVUM25WcnFzRXJZaUkxcVBDWGRXMWZVZ2lFbnAxZ3lpbVZyVjZma0JEVllTVjB6ZkZYd05ZYXZwVFVvU1RkUmc4YURscVQ3X1BuUG93QkpwTlNMS1JUOEs2RElfNGdIYklKS0FMOHRzaTQxM2szdE9WS1JteVdHMHF2TEJscExab0FzcjFJ?oc=5",
+          "published": "2026-10-13T14:39:49+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.726,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[국감] 한수원, 원전 핵심구역 출입기록 21회 누락",
+          "publisher": "인사이트에너지뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iM1FFSEpKelhhZzI3aGF4eGNqWXF1Z3dLRmFvYnVaSDBKWENRTmdPbXFsZmY3b3pEbEFTNE9wVVd0OHhGQ3A5N1p2NlFUQWRwN1NGWHR4Q0dBWXpTOTRyNVp1NW1BYWfSAWtBVV95cUxOUHN6aXNNYV8ybE83S0hPUmw3TVp2TXBvSnUxY3M5bXIwV0k2S2c2bDF6RlFCX194ZlZQekpkd0RfNkt1ZUVOWFhSZXhkNmM1eE1LaVp0ZEc0TVZseHdvTExqN3NIYmpkdlN4bw?oc=5",
+          "published": "2026-10-13T05:45:47+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 원전 핵심구역 출입기록 누락 적발…과태료 부과받아",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45aXdkWDJXXzFOLUNsZTdGNGx0cFlOUzJxdThIb1JpaGNUZzdDZ0drdHJxREVFWGsyZVZYTHBtUjZqSzFjaV9FemV2dGNjTk9DWmZwckx0YTMtN281eVJQVNIBYEFVX3lxTE45aXdkWDJXXzFOLUNsZTdGNGx0cFlOUzJxdThIb1JpaGNUZzdDZ0drdHJxREVFWGsyZVZYTHBtUjZqSzFjaV9FemV2dGNjTk9DWmZwckx0YTMtN281eVJQVA?oc=5",
+          "published": "2026-10-13T06:11:11+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 원전 핵심구역 출입기록 누락 적발…과태료 부과 받아",
+          "publisher": "news.sbs.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GMVJsWFU2RExpYVlmSXBlMGhFYzlvRXd5eUVSSTNpSU1mYWdwUnJCazM1YUhJWWZGS2FueEJBUkhhLS1MVUJacXUxZVBTVGt6M0VWNGxQbkxLUTdna29RX3ZrWDAxUQ?oc=5",
+          "published": "2026-10-13T06:40:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "[2026 국감] 한수원, 원전 핵심구역 출입기록 누락… 과태료·수사 의뢰",
+          "publisher": "비즈트리뷴",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yckZHUDJrWmpRU3ltbkN3Qkc5aHczOGpIWTZJYmdDMmxWaXE4NXY5WXR4SnBZNmVDcndzcThjeWJDWEJLc2FlUUdiSEZ2azFUREs2WFNzRWtpclNubFBGUjdEajV5WGtUSjM1SFVNanM?oc=5",
+          "published": "2026-10-13T11:10:18+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.58,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원자력연구원, SMR 가속화 위한 전문가 심포지엄 열어",
+          "publisher": "일렉트릭파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13alB2aTRxSFR2cUduX0p5VWJXMkJFaHF0T3luQ3V6bkFjLUFnRlhHV0JyQjBWZXNGSl92d09oWE1Qa1dZVEx2Wm8tMGV3WDhhNmlMSldmNXZzQ3ZsWUlmOEFURVhfZw?oc=5",
+          "published": "2026-10-13T02:18:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한국원자력연구원, SMR 가속화 위한 전문가 심포지엄 개최",
+          "publisher": "투데이에너지",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04WTNXbzY0N1A5TnE4TzFQWTNvRkN6U1RlYWVzWnkxV0d0QnFTTW93TmxjQTlkaVRWWnZZeWtKVGthUGF1SHRHT0JIZmt3c0JLZ1hPaTNqWXBGLXVPODR6ZWczcEhCTlduLURvRQ?oc=5",
+          "published": "2026-10-13T02:35:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "원자력연, SMR 가속화 전문가 심포지엄",
+          "publisher": "충청뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJNzlqZ0hRdkdFX2dkRTJnamgwT0FoRUhEbzViLWJNREZtSG02WWRfREktS19udFR1MVpUR09EWnh1b0pOMV9ORXAtdGJBVHIyTVV0N19qbFNzeXNobmE1aGhza2NlUWZpUVlsTQ?oc=5",
+          "published": "2026-10-13T02:42:23+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원자력硏, SMR 가속화 위한 전문가 심포지엄 개최",
+          "publisher": "발전산업신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Wa3ZHY0RmTnAwMzRnZ3BKVEtjQ1ZiWXhNUGdTYk5yX1oxUzRYY3hPbnJramR5ZXV3cjctYXVpaW11N3JZUEZJakg3aFhjY2UzeDMzeXFNWUdqMHRyNVZWbkxXVXBzRzRh?oc=5",
+          "published": "2026-10-13T07:17:07+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.419,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Westinghouse moves forward on Polish, Dutch power plant projects",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-13/article-8483/westinghouse-moves-forward-on-polish-dutch-power-plant-projects/",
+          "published": "2026-10-13T21:12:20+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.999,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Durability where it counts",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-13/article-8407/durability-where-it-counts/",
+          "published": "2026-10-13T20:01:45+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.95,
+      "id": 6
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[국감] 국회 과방위, 원자력안전위원회 국정감사",
+          "publisher": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwR3NkN1hkQk5Md2NOWG1PemVWeVg1Zzl5dExHa1EwRzZCUFVwWXNZVjdkT3MyZFVYanBIamxOcldRd01OcTdxVWNBZw?oc=5",
+          "published": "2026-10-13T02:28:54+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "국회 과방위, 원자력안전위원회 국정감사",
+          "publisher": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55TXZfTkIwc0N1NXpYQlUweXJNQlVEeWpUNENhR3VHaHloVFI5MVhVN19CUV9JOVFVNXdxSFRaNFZ6X1lLeERobGJ2eUNwd01xQUVaMWNLTkpCNmdt?oc=5",
+          "published": "2026-10-13T06:39:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "과방위,원자력안전위 등 국정감사 실시",
+          "publisher": "글로벌뉴스통신GNA",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuTEpSQ0MteThZMWtPQnBlZUQ3VU4wbU8tSWtQRXBZWDhmYkNWbEVySWVoY0xnRHNUOHpvak9ucG56NjBYZlBCS1JGeDR2ZUdZWEtoSVAwN2haR1k2ZWkwbmtFU2dTSnhaRHQ0ZjMwbFNlRC1z?oc=5",
+          "published": "2026-10-13T18:24:15+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.882,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NASA and DOE sign space nuclear MOU",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-13/article-8482/nasa-and-doe-sign-space-nuclear-mou/",
+          "published": "2026-10-13T17:45:49+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.855,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Three fusion companies in DOE’s Milestone program have updates",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-13/article-8481/three-fusion-companies-in-does-milestone-program-have-updates/",
+          "published": "2026-10-13T14:56:23+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.737,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NND applies to take over Kjeller nuclear facilities",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/nnd-applies-to-take-over-kjeller-nuclear-facilities",
+          "published": "2026-10-13T12:30:19+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.636,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Chernobyl updates: Stable fuel particles, solid waste disposal",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-13/article-8480/chernobyl-updates-stable-fuel-particles-solid-waste-disposal/",
+          "published": "2026-10-13T11:47:04+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.606,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Czech SMR environmental impact assessment submitted",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/czech-smr-environmental-impact-assessment-submitted",
+          "published": "2026-10-13T10:58:34+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.572,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Agreement aims to support US maritime nuclear",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/agreements-and-deals-support-us-maritime-nuclear-developments",
+          "published": "2026-10-13T10:50:57+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.567,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA carries out fresh LTO review mission to Oskarshamn",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/iaea-carries-out-fresh-lto-review-mission-to-oskarshamn",
+          "published": "2026-10-13T09:06:19+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.494,
+      "id": 14
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "국감 답변하는 최원호 원자력안전위원회 위원장",
+          "publisher": "노컷뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44Y0JxYzI4alRqZWw5c3pITjVvel9PZC1fMjZIaDZlVWZDLTk3NlBxdXdNNi00X3Bvbkw0R2NSX0ttZHpqdzhXZk9FdktYWXRYNkE?oc=5",
+          "published": "2026-10-13T03:54:57+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "답변자료 건네받는 최원호 원자력안전위원회 위원장",
+          "publisher": "국제뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xQW53SGV3Y0VsQ2daSU5sajFMaWxCVWdpUzZYWkhOTjFOSHlYb3VJWmZITlVnYUhwX2hSSjNJd3lXSk1ja3RXSzlxWlhGeHlsNnRDYlhrZ1Q2V3pCRUFQdFFpcE8xRkV5ZjYzSUhn?oc=5",
+          "published": "2026-10-13T06:00:09+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "의원 질의에 답하는 최원호 원자력안전위원장",
+          "publisher": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lTXljSFFlM1RuM3ZhbENiV0FCMGt2eTNkalphQVBlcy1md2tzUWZ4UGZ1WUg5Z1NVZFpSYmhtQnpqdDBsUTV2aW4wc2ZuNjZBM3hES0taaTVUQ0ZV?oc=5",
+          "published": "2026-10-13T06:36:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 2.39,
+      "id": 15
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원안위원장 \"SMR 규제 인력, 최소 1개 국 규모 필요\"",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNYXhjSG1rblZGNWx4aDBVVk82R0hTODhwTV9QanhSN3N1MU1BRnJqRE1rbXAzNGVSVmZnVTNJQy1IRm1BR1lxaWduTFFuNENMSjRpUU9reVZ3OVFSLS13TtIBYEFVX3lxTFBNYXhjSG1rblZGNWx4aDBVVk82R0hTODhwTV9QanhSN3N1MU1BRnJqRE1rbXAzNGVSVmZnVTNJQy1IRm1BR1lxaWduTFFuNENMSjRpUU9reVZ3OVFSLS13Tg?oc=5",
+          "published": "2026-10-13T03:52:58+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원안위원장 \"SMR 규제 인력, 최소 1개 국 규모 필요\"",
+          "publisher": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13OWkxR3JmVHotaXl1QzFZZDdMeDNFZm82SU1qd0xBcWQzZ2NqcFlhOVhGc1BJVVIycnduenVLNTVzNnpmTUZvT2lidjJtNWNHOGc?oc=5",
+          "published": "2026-10-13T03:52:58+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원안위원장 \"SMR 규제에 최소 1개 국 필요…인력 7명뿐\"",
+          "publisher": "노컷뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XMV92OUFuZ1NsbmJQLUpSb251YUdvMGZZZ1hOcFl2cU5sVXJueG8yLXlXRHM4dEZUMTI4VUJCMjJWczU3ZWZycE12SDFxT3F4T2c?oc=5",
+          "published": "2026-10-13T05:23:37+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.34,
+      "id": 16
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "김현 의원, “한수원 정부광고, 4년간 종편에 지상파의 1.9배 …매체 선정 기준 불 명확”",
+          "publisher": "수도권지역뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44VDBUVzlESnlMR3pfR0Z1Tk1BTk9zQVNOXzRSR2diQWl0YkpfaE1xUXRMV21PbGsxQzQybHYyZ25tSzBwTEtydmFxRzhfaXh4RXBkUjJVb1pQbGw3MVduVy00RDhlU1Q2?oc=5",
+          "published": "2026-10-13T12:51:35+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 정부광고, 4년간 종편에 지상파의 1.9배 집행... \"매체 선정 기준 불명확\"",
+          "publisher": "데일리중앙",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xMURmeDhpcDRGYXVUNXFvcE5qWjkxRmVQZ2lHV0loc2M0WDd1RE1Qb0FOSzVFOXhWZTVoZ0hJbDJ2Nnp2Y1FqNFI3RW12dHpuZGJITXo4RHoxenFqWWJlbkhkUldTS0FiNFY4dWRR?oc=5",
+          "published": "2026-10-13T12:55:23+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.653,
+      "id": 17
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Limerick Nuclear Plant to Add 348 Megawatts Under New Google Deal",
+          "publisher": "PHILADELPHIA.Today",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTUt4NjluQWVOQnZpM1FwYXhibHAtVEtyMUZfYWVkWW9PaFFLRVVidlpDR3RFSTNvZ01TUTE4UkJWOE9WSW83SzF3TGtLUjNwUVdBMExaUm9sTzdYY09XNmt2bHNxVFNYbHZSRXdPZ05vOWdFVllyang0VDFVeFg3NWRTWjNYa20teWlHdg?oc=5",
+          "published": "2026-10-13T09:14:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Limerick Nuclear Plant Set for 348-Megawatt Boost in Google Power Deal",
+          "publisher": "Hoodline",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSHpNRFp1N2NZWHIzOTktMWZxOVEzMi1YY2dDSVlMX21TNm45NFlEN0VQdFJFS0p0RFM3YUZVWHJKTWlCR0Y1aG1YSkt2X216aVlicWJCOG11cUR5RlpNVTVaX2tfejNjMnc5X0JqbnkxWVdLaVRPaWtyLVBoMFpVUDZGcGUyd2J1NWtnOUFIMEFuUkdBTGktenJBOWRHZ1QteXc?oc=5",
+          "published": "2026-10-13T12:29:16+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.635,
+      "id": 18
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Missouri pushes nuclear power to reduce reliance on out-of-state electricity",
+          "publisher": "News From The States",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY2s5cWp2NzJYYU5LdWRCdE9USzMtT1RlcDRON1NSOUtGSGo0V1lwQnBEY2ZuNjRoWUJocFNQN3Nlb0F4T2lHclJuSjVidHpnemt3Z294Q1Q0cjVjcHBfanZ5TjNnNmtVUGR0d1lsV2tsLWZoQ1BpeTZYMkwwcmNINGJrYjllcUZ0XzlQRnozR0NraGtleFRHSkdOT0JrTElqdVBaa1BaNzM0OEFNMmc?oc=5",
+          "published": "2026-10-13T10:55:01+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Missouri pushes nuclear power to reduce reliance on out-of-s...",
+          "publisher": "seMissourian",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOckNrVDhqRjNVU3hKb1VCRzMxQTEzQ29kaDNiTmQ1bEVOcEotMXZaVUt2ZWd4aGdDVjRwMFNGWFhRbmJCcm1fZGR4dTVhZWNNNm5jNXhWWWJSaFhldEluUUZ3cmswVXIyMHVvdXFEYWl1NzBLYUVFMnRFc3YzVnpsM3lFbV9FdS1jVzVEOGtnNEx6b3dWT2dRSVVmWVROaV9lRDNOQXNud2pHVXpCX09pTk9fOTYwel9EX3R6Ng?oc=5",
+          "published": "2026-10-13T12:10:31+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.622,
+      "id": 19
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Bangladesh’s Rooppur-1 Nuclear Plant Achieves First Criticality",
+          "publisher": "NucNet",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWG9CVm1STjI5N3N1bnpteGd2YzZkTkVrUTJFTHduRU9JeHpkbE9rRUhtaXk5OXVCeS1jZDlnWE9JLWc3SlBab0R6MFNuUW5lbTczZllhX240ZmwyVUtFLUtYYXhCMVF3NGo2WkwwNENYRTJVOFZQS0dYX1pCTy1oTm12STBxY2lJLWJYSl93VFgyX19oeklzTlAwR2VkUkgzWGZZ?oc=5",
+          "published": "2026-10-13T07:34:42+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Bangladesh’s First Nuclear Reactor at Rooppur Reaches Criticality",
+          "publisher": "Technology Org",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUE55dWx1TjRfZzRxbmRBWnZKbmlIY0FCUnVxOVp4LVNxNDN6WmsybzNPWkVvb2ItRTh1Q2dWTFctcHMyUnhSeXpwS3laNnU2VkdPU1BaU1hqMmFoLUloVzFFYnlDdDFVdEZCS2Z3ck8xMUxXOTVhbjk4TzJ4YWl1OVZSdWlNZlFOS3F2cHJ3?oc=5",
+          "published": "2026-10-13T11:48:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.607,
+      "id": 20
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Installation of automatic control systems in both units of the Rooppur Nuclear Power Plant.",
+          "publisher": "https://www.businesstimes-bd.com/",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDaTZyOHdTVlBoQURtVnFLQkNjNDU5MUtPSjRGT0JUTGllSnNFdWN6RUFhdlMyNXRBWGU5X2hjT3g0cGNYYXdIN2FKMkZkQVNlMDByN09Vblp2azA?oc=5",
+          "published": "2026-10-13T09:12:13+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Automatic control systems at Rooppur nuclear power plant installed",
+          "publisher": "en.bd-pratidin.com",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11SEMxbWVrcUdQRnFjUUQ0dE9BSDF1eURwOWVLUko5bElndUJTY096cVp3RTU3UWtDa3p4MjVqYWx0TlpUNWM5WVFQNWJXcTA0QzlUVGZwSThtSnRYVk1SeWZR?oc=5",
+          "published": "2026-10-13T11:42:57+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.603,
+      "id": 21
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원안위, SMR 규제 인력·예산 도마…최원호 \"최소 1개 국 필요\"(종합)",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SVlJTNlRUVGh2bTJ5RmJtSUhzekpVRHRHN0dEUERvRmdmaEZlWVdrdmZELUtYMWt6dkVoemEyYjJkWl9WM1c3MVFRQ2lYUXkxVlNqOTJGem1JU2c3dEFQa9IBeEFVX3lxTE5QSVR5N29ISEVfaEpRX0hpeHA0bkRQWDJiZ2JVTkZyTFRKWWpMbFhialZZZFpTRHpaZHlOeDJmUE9XeUJBSGNBZDl2emhZamU3bGpneE1obHdhaDdmSGVac1hwckdZVFpfeXBTRVVSbHJ1MzUzV2ZzMw?oc=5",
+          "published": "2026-10-13T09:00:03+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원안위, SMR 규제 인력·예산 도마…최원호 \"최소 1개 국 필요\"(종합)",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QSVR5N29ISEVfaEpRX0hpeHA0bkRQWDJiZ2JVTkZyTFRKWWpMbFhialZZZFpTRHpaZHlOeDJmUE9XeUJBSGNBZDl2emhZamU3bGpneE1obHdhaDdmSGVac1hwckdZVFpfeXBTRVVSbHJ1MzUzV2ZzM9IBeEFVX3lxTE5QSVR5N29ISEVfaEpRX0hpeHA0bkRQWDJiZ2JVTkZyTFRKWWpMbFhialZZZFpTRHpaZHlOeDJmUE9XeUJBSGNBZDl2emhZamU3bGpneE1obHdhaDdmSGVac1hwckdZVFpfeXBTRVVSbHJ1MzUzV2ZzMw?oc=5",
+          "published": "2026-10-13T09:00:03+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.49,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "누리호 성공·SMR 속도전 뒤엔…국감서 드러난 규제·안전·조직의 빈틈 - 머니투데이",
+          "publisher": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qZDh6akFZWk1PazRNazlQUGRJUGxVaUlwa3RQMDVpdE9hUkpGYXBFdzctSy1weWo2TG9nRDVoeC1rMmVpR21JOHJXZmllQlB4UTlORlhZVTAxRXdIVHcyVFVwY0V4LTdfWkY5SNIBckFVX3lxTE03TXBrMU4wUHkyRG5DTFdXbnY1ckplUEhfN3E1Tjl3NFpEblNfbldPbHRLM0dVRHZzenhZOTVSTDliRWVWZUxMbF90WVNUQlpLVS1HMDRHOHZuclBSSm1TT25nb09VaDEzc2swSjM1Sjh0UQ?oc=5",
+          "published": "2026-10-13T09:00:23+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "누리호 성공·SMR 속도전 뒤엔…국감서 드러난 규제·안전·조직의 빈틈 - 머니투데이",
+          "publisher": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE03TXBrMU4wUHkyRG5DTFdXbnY1ckplUEhfN3E1Tjl3NFpEblNfbldPbHRLM0dVRHZzenhZOTVSTDliRWVWZUxMbF90WVNUQlpLVS1HMDRHOHZuclBSSm1TT25nb09VaDEzc2swSjM1Sjh0UdIBckFVX3lxTE03TXBrMU4wUHkyRG5DTFdXbnY1ckplUEhfN3E1Tjl3NFpEblNfbldPbHRLM0dVRHZzenhZOTVSTDliRWVWZUxMbF90WVNUQlpLVS1HMDRHOHZuclBSSm1TT25nb09VaDEzc2swSjM1Sjh0UQ?oc=5",
+          "published": "2026-10-13T09:00:23+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.49,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "황정아 “멈춘 원전 4기, 전력판매 기회비용 2조 원”",
+          "publisher": "굿모닝충청",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tUDlmUmVydnctdnRoemVpTC1SaTczQjdRS3hGQ3dvWFk3bHNaYnpIR1JlbDhKYVVSM19teUt3ajVOM19STjhXNnlIRElsMjd4VkpqUVRfYlhJNkRKQzUtaU9VQ3pxMlV3X2VDUUlSSTZydw?oc=5",
+          "published": "2026-10-13T07:54:43+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "황정아 “계속운전 심사에 멈춘 원전 4기…전력판매 기회비용만 2조원”",
+          "publisher": "브릿지경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NeDBYYV9ESEFkLWlPWExvYXhhWkNsT0t6WFk3RkN1QnoxY0lvaE9vZ0ZHbTF1UlNwQzFEQlVzdGw1YWY4NTc1d20xMDJXWW9CRU1veFMzZ2lFQQ?oc=5",
+          "published": "2026-10-13T08:50:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.483,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "최원호 원안위원장 \"SMR 안전규제 인력, 현재 7명뿐…최소 33명 필요\"",
+          "publisher": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWGphNUdSRDJjMk5mYWZXM0lVcnNXcFl6U0d6MlhieGNvbkZQd05CcGVzOWpHWDhuN0ZqX3lpQnp0SGZUN1BEbkJpQm9NdVlRNll4alpFVmFoUm40eHhieWE0QWxqc3NTeWZIeUtZTnliT3NRd09DRDlWcDFxNXFSS2xOYw?oc=5",
+          "published": "2026-10-13T07:16:49+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "최원호 원안위원장 “SMR 안전규제 인력, 현재 7명뿐…최소 33명 필요\" - 조선비즈",
+          "publisher": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdVVIYm9YR0JWakxURnVvTW5ZS09HcTVzZXFzckRjQk42QVhmcUttdlV1RlN0R0tFZHI0LVBZOGo5YnMtV1RYTVdZeDV3Qy1DMVlHQ3prWVJuWXJ1M01YZ2g0YVF2TEFsNFlMOW5maEdvWGJmUl81Y0ctUFl6bkxmZTNqekZ4T3UyQkJIZNIBoAFBVV95cUxPd0R1YWxTeG1fYmdQamtlM3BDOXo0VWxjbC1tMm1Zc29pQUVoMFEwRkZMVnpEeGcxU2R3ckVrZ0VKUWRmUkRvcTRLb18zSUpOTWRzSmRLLWxZUVZwaVVHX2tiQ0ZMbjFRV0ZuV0VWT0YxaElHYUVyWm9GVmVBeTZBRUthVWdhMEFpNlRHaXVFaExFemEyamtqbTltTVpZZXoy?oc=5",
+          "published": "2026-10-13T07:39:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.434,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[2026국감]\"4253억 원자력기금, 7년간 결재 문서 없다\"…원전 안전관리 도마 위",
+          "publisher": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DVmxxaGkwdDRmSWRNN1BENEhqcnlsODVLUl9mZUxnQWl6M01TaDNwUVZTd2k5ME82R3hzVTVnaWFPaG1NWEVoTFV0SDZXTEExSG5TTWMydmg3dFY2WUkweQ?oc=5",
+          "published": "2026-10-13T06:52:15+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[2026국감]\"4253억 원자력기금, 7년간 결재 문서 없다\"…원전 안전관리도 도마",
+          "publisher": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02cXJiSkNORHVjZE50M1Jyb0FKR0g4RlhHODZvYjlFSGZXVUlQekN1RHN5TWdqUnozUlA3bW5ZZ050b015ZlcxcWNqZ3NJV1lqV2lDb1FpTHhXXzJPb1BRTlZFeFpQX1VaYTlyT1haUDNtYU1G?oc=5",
+          "published": "2026-10-13T06:52:16+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.401,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "국감 질의 답하는 이나영 한국원자력통제기술원장",
+          "publisher": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XeWJvcjllZGJ5THE0OXZtOEQ5cFdaaHdFdm1McmhRS2ZnMlNxZkpkRFQya3E3YU03NGVqV0xHTE1pWGo1LU9jZjJudFphZlhmazRWdGZadEx1VDZ2?oc=5",
+          "published": "2026-10-13T06:40:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "이나영 한국원자력통제기술원장 '국감 질의 답변'",
+          "publisher": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LZXlWd2F4bi02TUZ3OTE4TGVReThkakNJcWg0clRJNk1lczRKX1Y1ODUyOERMNFNiY2VPMGdIdTRldEt5anBxQm9WbmhXN0lnVk9mLUJUNG9zbk84?oc=5",
+          "published": "2026-10-13T06:40:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.393,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "속도 내는 SMR 개발, 안전규제 인력은 7명뿐… 원안위 “최소 33명 필요” - 조선비즈",
+          "publisher": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRUZXTmgzSXZnWldQalJRRDJzLWVaR1g3Ykx6MHIxcEFXU1NhSTFhSm9FV0hSWURlVzcwOGJWX2F2WXVIeUotZ3V3SU5DVjVINzdzX3VtYkdMRUp0cDFhLXNsZ2NucFBSeHFSVnVWVUFGc1hYSTJpTXM4UDN0UXp0Q21UWEFQUWR6NnZ5RdIBoAFBVV95cUxOSjFpLVBRUFphNjI3ZzAyN1V2Z1lkSlM5RFpLMGJNaFk3SmJVSHAxdDlzMzhkdWhhS21JRWRRbFJsQWdTUmZ4NzRfZlYzSTIwa25VazlQQV9sZlVHRGliOWh1N3Zmc3pUT3hremx5RHVhUG1aWGU5Sk84VExQZHJKanhLNFZncy1ibXJSRFZCcXZTQnhiTEhuYTJyNklaTktL?oc=5",
+          "published": "2026-10-13T05:17:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "최원호 원안위원장 “SMR 안전규제 인력 7명뿐...최소 33명 필요”",
+          "publisher": "M이코노미뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKWl94MTBLa3lKd3d1cFJGN0RiU21ualZGRUhqSm8wNmZySTJUeDRCVDZFUFRlaGw5MmFSMk9uZV9SbTQyLTBFRm5CbEdWdDVVSWgtWFpBUmpjdnNSQjlrR0Z5THBQNWc?oc=5",
+          "published": "2026-10-13T06:07:31+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.37,
+      "id": 28
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "최혁진, “한수원, 10년간 3,887억 원 수의계약 논란···국회 허위보고 의혹까지”",
+          "publisher": "선데이타임즈",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1meWhDcmxHZ0pSYkRMZUFVVVFhRVZ0ZlRlek1vWGZ2UGxPR2gzNHQtT3lyTW9GLUJoWHBudmttbWNZbDN4NVVIc0hxZkpVT2JacXlZVUtn?oc=5",
+          "published": "2026-10-13T05:12:51+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "최혁진 의원 “한수원, 10년간 3887억 원 수의계약 의혹...국회 허위 보고까지”",
+          "publisher": "파이낸셜리뷰",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85NlI3SjR2ZktXYWZiTDZ6TjFTWXNxbTJrcmx4OEhLRE9rVmtJN2pZeFhCVmxzb05VbnJuQUdmT0JSSkJEZzVTekdSR3lvZ1dqWGxtcVN2MzNyejFXX1pBMVhSSjVrT2I0aHBhZk1XOE9BQVV1?oc=5",
+          "published": "2026-10-13T05:27:46+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.343,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 96
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 82,
+      "kept": 64
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 63,
+      "kept": 57
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 48,
+      "kept": 5
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 5
+    }
+  }
+}

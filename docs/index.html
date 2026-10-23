@@ -1,0 +1,184 @@
+<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>원자력 공부 노트</title><meta name="description" content="매일 아침 국내외 원자력 뉴스 해설과, 매주 주요 저널에 새로 나온 논문을 한곳에서 봅니다.">
+<link rel="manifest" href="./manifest.webmanifest"><meta name="theme-color" content="#1b2a41"><link rel="icon" href="./icon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="./icons/apple-touch-icon.png"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="원자력 노트"><meta name="apple-mobile-web-app-status-bar-style" content="default"><script>if('serviceWorker' in navigator&&(location.protocol==='https:'||location.hostname==='localhost')){addEventListener('load',function(){navigator.serviceWorker.register('./sw.js').catch(function(){});});}</script>
+<script>(function(){try{var v=localStorage.getItem('nuclear-digest-theme');var d=v==='dark'||(v!=='light'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.dataset.theme=d?'dark':'light'}catch(e){document.documentElement.dataset.theme='light'}})();</script>
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+<style>
+:root{
+  --color-neutral-50:#f7f8fa;--color-neutral-100:#eef0f3;--color-neutral-200:#dcdfe4;--color-neutral-300:#c3c8d1;
+  --color-neutral-400:#9aa3b2;--color-neutral-500:#666d7b;--color-neutral-600:#4b5462;--color-neutral-700:#3c414b;
+  --color-neutral-800:#262b34;--color-neutral-900:#16181d;
+  --color-line:#dcdfe4;--color-line-strong:#c3c8d1;--color-surface:#f5f6f8;--color-surface-deep:#eef0f3;
+  --color-canvas:#ffffff;--color-card:#ffffff;--color-ink:#1b2a41;
+  --color-navy:#1b2a41;--color-navy-deep:#121c2b;--color-navy-mid:#2e4365;
+  --color-accent:#007a45;--color-accent-mid:#00a35c;--color-accent-soft:#d6ffed;
+  --veil-line:rgba(27,42,65,.045);
+  --chart:#2e4365;
+  --s1:#2a78d6;--s2:#eb6834;--s3:#1baf7a;--s4:#eda100;--s5:#e87ba4;--s6:#008300;--s7:#4a3aa7;--s8:#e34948;--s-other:#9aa3b2;
+  --font-sans:"Pretendard Variable",Pretendard,-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Segoe UI",Roboto,"Noto Sans KR","Malgun Gothic",sans-serif;
+  --ease:cubic-bezier(.16,1,.3,1);
+}
+:root[data-theme="dark"]{color-scheme:dark;
+  --color-neutral-50:#1a1f28;--color-neutral-100:#212734;--color-neutral-200:#2a313d;--color-neutral-300:#444e5d;
+  --color-neutral-400:#7f8a9c;--color-neutral-500:#98a2b3;--color-neutral-600:#b4bdca;--color-neutral-700:#c9d1dc;
+  --color-neutral-800:#dde3ea;--color-neutral-900:#eef1f5;
+  --color-line:#2a313d;--color-line-strong:#3a4452;--color-surface:#1b212b;--color-surface-deep:#222a35;
+  --color-canvas:#0f1319;--color-card:#161b23;--color-ink:#e9eef6;
+  --color-accent:#2ce68f;--color-accent-mid:#00c46f;--color-accent-soft:#0e2f22;
+  --veil-line:rgba(255,255,255,.05);
+  --chart:#98a2b3;
+  --s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#c98500;--s5:#d55181;--s6:#008300;--s7:#9085e9;--s8:#e66767;--s-other:#7f8a9c;
+}
+
+*{box-sizing:border-box}
+html{scroll-padding-top:5rem;-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--color-canvas);color:var(--color-neutral-900);font-family:var(--font-sans);
+  line-height:1.6;-webkit-font-smoothing:antialiased;word-break:keep-all;overflow-wrap:break-word}
+::selection{background:var(--color-navy);color:#fff}
+:focus-visible{outline:2px solid var(--color-accent);outline-offset:3px;border-radius:2px}
+a{color:inherit}
+time,.tabular{font-variant-numeric:tabular-nums}
+.container-page{width:100%;max-width:72rem;margin-inline:auto;padding-inline:1.25rem}
+@media(min-width:768px){.container-page{padding-inline:2rem}}
+@media(min-width:1280px){.container-page{padding-inline:2.5rem}}
+.eyebrow{font-size:.6875rem;line-height:1;letter-spacing:.18em;text-transform:uppercase;font-weight:500;color:var(--color-neutral-500);margin:0}
+.eyebrow-accent{color:var(--color-accent)}
+.eyebrow-mark::before{content:"";display:inline-block;width:2rem;height:3px;margin-right:.75rem;vertical-align:.2em;background:var(--color-accent)}
+.grid-veil-light{background-image:linear-gradient(to right,var(--veil-line) 1px,transparent 1px),linear-gradient(to bottom,var(--veil-line) 1px,transparent 1px);background-size:34px 34px}
+.link-underline{text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px;
+  text-decoration-color:color-mix(in srgb,var(--color-accent) 45%,transparent);transition:text-decoration-color 150ms ease}
+.link-underline:hover{text-decoration-color:var(--color-accent)}
+.link-wipe{text-decoration:none;background-image:linear-gradient(var(--color-accent),var(--color-accent));background-repeat:no-repeat;
+  background-position:0 100%;background-size:0% 1.5px;transition:background-size 320ms var(--ease)}
+.link-wipe:hover,.group:hover .link-wipe{background-size:100% 1.5px}
+
+/* site header — same geometry as the homepage (h-16 / md:h-20, sticky, 85% canvas + blur) */
+.site-header{position:sticky;top:0;z-index:50;border-bottom:1px solid var(--color-line);
+  background:color-mix(in srgb,var(--color-canvas) 85%,transparent);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px)}
+.site-bar{display:flex;align-items:center;justify-content:space-between;gap:1rem;height:4rem}
+@media(min-width:768px){.site-bar{height:5rem}}
+.wordmark{display:flex;flex-direction:column;text-decoration:none;min-width:0}
+.wordmark b{font-size:.9375rem;line-height:1;font-weight:700;letter-spacing:.02em;color:var(--color-neutral-900)}
+.wordmark span{margin-top:.375rem;font-size:.6875rem;line-height:1;color:var(--color-neutral-500);white-space:nowrap}
+.site-nav{display:flex;align-items:center;gap:1.5rem}
+.site-nav a.item{position:relative;font-size:.875rem;font-weight:500;color:var(--color-neutral-600);text-decoration:none;padding:.25rem 0;white-space:nowrap}
+.site-nav a.item:hover{color:var(--color-neutral-900)}
+.site-nav a.item[aria-current="page"]{color:var(--color-neutral-900)}
+.site-nav a.item[aria-current="page"]::after{content:"";position:absolute;left:0;right:0;bottom:-.35rem;height:2px;background:var(--color-accent)}
+.site-nav .home{font-size:.75rem;color:var(--color-neutral-500);text-decoration:none;border:1px solid var(--color-line);padding:.45rem .7rem;white-space:nowrap}
+.site-nav .home:hover{color:var(--color-neutral-900);border-color:var(--color-line-strong)}
+.site-nav a.subscribe{font-size:.8125rem;font-weight:600;color:var(--color-accent);text-decoration:none;border:1px solid var(--color-accent);padding:.45rem .75rem;white-space:nowrap}
+.site-nav a.subscribe:hover,.site-nav a.subscribe[aria-current="page"]{background:var(--color-accent-soft)}
+.theme-toggle{display:inline-flex;align-items:center;justify-content:center;width:2rem;height:2rem;border:1px solid var(--color-line);
+  background:transparent;color:var(--color-neutral-600);cursor:pointer;padding:0}
+.theme-toggle:hover{color:var(--color-neutral-900);border-color:var(--color-line-strong)}
+.theme-toggle svg{width:15px;height:15px}
+.theme-toggle .sun{display:none}:root[data-theme="dark"] .theme-toggle .sun{display:block}:root[data-theme="dark"] .theme-toggle .moon{display:none}
+@media(max-width:767px){.site-bar{height:auto;padding-block:.75rem;flex-wrap:wrap}.site-nav{gap:1rem;flex-wrap:wrap;width:100%}
+  .site-nav .home{margin-left:auto}.wordmark span{white-space:normal}}
+
+/* page header (6-5): eyebrow, title, 64x4 accent bar, veil fading to the top-right */
+.page-head{position:relative;overflow:hidden;border-bottom:1px solid var(--color-line);padding:3rem 0 2.5rem}
+@media(min-width:768px){.page-head{padding:4rem 0 3rem}}
+.page-head .veil{position:absolute;inset:0;pointer-events:none;-webkit-mask-image:radial-gradient(90% 120% at 100% 0%,#000,transparent 65%);mask-image:radial-gradient(90% 120% at 100% 0%,#000,transparent 65%)}
+.page-head .inner{position:relative}
+.page-head h1{margin:1.25rem 0 0;max-width:48rem;font-size:1.875rem;line-height:1.25;font-weight:600;letter-spacing:-.02em;color:var(--color-ink);text-wrap:balance}
+@media(min-width:768px){.page-head h1{font-size:3rem}}
+.page-head .rule{display:block;margin-top:1.5rem;width:4rem;height:4px;background:var(--color-accent)}
+.page-head .lead{margin:1.5rem 0 0;max-width:42rem;font-size:.975rem;line-height:1.9;color:var(--color-neutral-700)}
+.page-head .lead b{font-weight:600;color:var(--color-ink)}
+
+/* building blocks */
+main.page{padding:2.5rem 0 5rem}
+.section{border-top:1px solid var(--color-line);padding:2.5rem 0}
+.section:first-child{border-top:0;padding-top:0}
+.sec-grid{display:grid;gap:1.5rem;grid-template-columns:minmax(0,1fr)}
+@media(min-width:900px){.sec-grid{grid-template-columns:repeat(12,minmax(0,1fr));gap:2.5rem}.sec-grid>.sec-side{grid-column:span 4}.sec-grid>.sec-body{grid-column:span 8;min-width:0}}
+.sec-side h2{margin:1rem 0 0;font-size:1.375rem;line-height:1.3;font-weight:600;letter-spacing:-.015em;color:var(--color-ink);text-wrap:balance}
+.sec-side p.note{margin:.75rem 0 0;font-size:.875rem;line-height:1.7;color:var(--color-neutral-600)}
+.stats{display:grid;gap:1px;border:1px solid var(--color-line);background:var(--color-line);grid-template-columns:repeat(3,minmax(0,1fr))}
+.stats>div{background:var(--color-card);padding:1.25rem 1.25rem 1.1rem}
+.stats strong{display:block;font-size:1.75rem;line-height:1.1;font-weight:600;letter-spacing:-.02em;color:var(--color-ink);font-variant-numeric:tabular-nums}
+.stats span{display:block;margin-top:.5rem;font-size:.75rem;color:var(--color-neutral-500)}
+.pill{display:inline-flex;align-items:center;gap:.4rem;border:1px solid color-mix(in srgb,var(--color-accent) 25%,transparent);background:var(--color-accent-soft);
+  border-radius:999px;padding:.3rem .65rem;font-size:.75rem;line-height:1;color:var(--color-neutral-700)}
+.chip{display:inline-flex;align-items:center;gap:.45rem;border:1px solid var(--color-line);background:var(--color-card);border-radius:999px;
+  padding:.45rem .8rem;font:inherit;font-size:.8125rem;line-height:1;color:var(--color-neutral-700);cursor:pointer;transition:border-color 150ms,color 150ms}
+.chip:hover{border-color:var(--color-accent);color:var(--color-accent)}
+.chip.active,.chip[aria-pressed="true"]{background:var(--color-navy);border-color:var(--color-navy);color:#fff}
+:root[data-theme="dark"] .chip.active,:root[data-theme="dark"] .chip[aria-pressed="true"]{background:var(--color-ink);border-color:var(--color-ink);color:var(--color-canvas)}
+.chip strong{font-weight:600;font-variant-numeric:tabular-nums}
+.chip[disabled]{opacity:.45;cursor:default}.chip[disabled]:hover{border-color:var(--color-line);color:var(--color-neutral-700)}
+.btn{display:inline-flex;align-items:center;border:1px solid var(--color-line);background:var(--color-card);color:var(--color-neutral-700);
+  padding:.55rem .85rem;font:inherit;font-size:.8125rem;cursor:pointer}
+.btn:hover{border-color:var(--color-line-strong);color:var(--color-neutral-900)}
+.caption{margin:.75rem 0 0;font-size:.75rem;line-height:1.7;color:var(--color-neutral-500)}
+.chart-note{margin:.75rem 0 0;font-size:.75rem;line-height:1.7;color:var(--color-neutral-500)}
+.chart-note strong{color:var(--color-neutral-700)}
+.site-footer{border-top:1px solid var(--color-line);padding:3.5rem 0}
+.site-footer .cols{display:grid;gap:2rem}
+@media(min-width:768px){.site-footer .cols{grid-template-columns:5fr 4fr 3fr}}
+.site-footer p{margin:0;font-size:.875rem;line-height:1.7;color:var(--color-neutral-600)}
+.site-footer .name{font-weight:700;letter-spacing:.02em;color:var(--color-neutral-900);margin-bottom:.75rem}
+.site-footer .eyebrow{margin-bottom:1rem}
+.site-footer a{color:var(--color-neutral-600)}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{transition-duration:.001ms!important;animation-duration:.001ms!important}}
+@media print{.site-header,.theme-toggle,.site-footer{display:none}}
+
+.home-grid{display:grid;gap:1px;border:1px solid var(--color-line);background:var(--color-line);grid-template-columns:minmax(0,1fr)}
+@media(min-width:900px){.home-grid{grid-template-columns:minmax(0,7fr) minmax(0,5fr)}}
+.panel{background:var(--color-card);padding:1.75rem 1.5rem 1.5rem;min-width:0}
+@media(min-width:768px){.panel{padding:2.25rem 2rem 2rem}}
+.panel h2{margin:1rem 0 0;font-size:1.5rem;line-height:1.3;font-weight:600;letter-spacing:-.015em;color:var(--color-ink)}
+.panel .sub{margin:.4rem 0 0;font-size:.8125rem;color:var(--color-neutral-500)}
+.panel .overview{margin:1.25rem 0 0;font-size:.9375rem;line-height:1.9;color:var(--color-neutral-800)}
+.notice{margin:1.25rem 0 0;padding:.8rem 1rem;border-left:3px solid var(--color-accent);background:var(--color-accent-soft);font-size:.875rem;line-height:1.7;color:var(--color-neutral-800)}
+.heads{margin:1.25rem 0 0;padding:0;list-style:none;counter-reset:h}
+.heads li{counter-increment:h;display:grid;grid-template-columns:2rem 1fr;gap:.25rem;padding:.75rem 0;border-top:1px solid var(--color-line)}
+.heads li::before{content:counter(h,decimal-leading-zero);font-weight:600;font-size:.8125rem;color:var(--color-accent);font-variant-numeric:tabular-nums;padding-top:.15rem}
+.heads a{font-size:.9375rem;line-height:1.6;font-weight:500;color:var(--color-ink);text-decoration:none}
+.heads a:hover{color:var(--color-accent)}
+.heads small{display:block;margin-top:.2rem;font-size:.75rem;color:var(--color-neutral-500)}
+.mini-stats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1px;margin:1.25rem 0 0;border:1px solid var(--color-line);background:var(--color-line)}
+.mini-stats div{background:var(--color-card);padding:.9rem .9rem .8rem}
+.mini-stats strong{display:block;font-size:1.375rem;line-height:1.1;font-weight:600;color:var(--color-ink);font-variant-numeric:tabular-nums}
+.mini-stats span{display:block;margin-top:.4rem;font-size:.6875rem;color:var(--color-neutral-500)}
+.mini-stats em{font-style:normal;font-size:.75rem;font-weight:600;color:var(--color-accent);margin-left:.3rem}
+.mini-stats em.down{color:var(--color-neutral-500)}
+.interest{margin:1.25rem 0 0;padding:0;list-style:none}
+.interest li{padding:.7rem 0;border-top:1px solid var(--color-line)}
+.interest .row{display:flex;justify-content:space-between;gap:1rem;font-size:.875rem;font-weight:600;color:var(--color-ink)}
+.interest .row span{font-weight:600;color:var(--color-accent);font-variant-numeric:tabular-nums}
+.interest a{display:block;margin-top:.25rem;font-size:.8125rem;line-height:1.55;color:var(--color-neutral-700);text-decoration:none;
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.interest a:hover{color:var(--color-accent)}
+.more{display:flex;flex-wrap:wrap;gap:.5rem;margin:1.5rem 0 0}
+.more a{font-size:.8125rem;color:var(--color-neutral-700);text-decoration:none;border:1px solid var(--color-line-strong);padding:.55rem .85rem}
+.more a:hover{color:var(--color-accent);border-color:var(--color-accent)}
+.more a.primary{background:var(--color-navy);border-color:var(--color-navy);color:#fff}
+:root[data-theme="dark"] .more a.primary{background:var(--color-ink);border-color:var(--color-ink);color:var(--color-canvas)}
+.week{margin:0;padding:0;list-style:none;display:grid;grid-template-columns:repeat(auto-fill,minmax(13rem,1fr));border-top:1px solid var(--color-line);border-left:1px solid var(--color-line)}
+.week li{border-right:1px solid var(--color-line);border-bottom:1px solid var(--color-line)}
+.week a{display:block;height:100%;background:var(--color-card);padding:1rem 1.1rem;text-decoration:none;color:inherit}
+.week a:hover b{color:var(--color-accent)}
+.week b{display:block;font-size:.875rem;font-weight:600;color:var(--color-ink)}
+.week span{display:block;margin-top:.35rem;font-size:.8125rem;line-height:1.55;color:var(--color-neutral-600);
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+</style></head><body><header class="site-header"><div class="container-page site-bar">
+<a class="wordmark" href="./index.html"><b>원자력 공부 노트</b><span>Nuclear Daily · 뉴스와 논문</span></a>
+<nav class="site-nav" aria-label="사이트 메뉴"><a class="item" href="./index.html" aria-current=page>홈</a><a class="item" href="./news/index.html">오늘의 뉴스</a><a class="item" href="./news/archive.html">뉴스 모아보기</a><a class="item" href="./papers/index.html">이번 주 논문</a><a class="item" href="./papers/database.html">논문 DB</a>
+<a class="subscribe" href="./install.html">앱 설치</a>
+<button type="button" class="theme-toggle" id="theme-toggle" aria-label="밝은 화면/어두운 화면 전환"><svg class="sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg><svg class="moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg></button></nav>
+</div></header><section class="page-head"><div class="veil grid-veil-light" aria-hidden="true"></div>
+<div class="container-page inner"><p class="eyebrow eyebrow-mark eyebrow-accent">Nuclear Daily · 뉴스와 논문</p>
+<h1>원자력 공부 노트</h1><span class="rule" aria-hidden="true"></span><p class="lead">매일 아침 국내외 원자력 뉴스 해설과, 매주 주요 저널에 새로 나온 논문을 한곳에서 봅니다.</p></div></section><main class="page"><div class="container-page"><section class="section"><div class="home-grid"><article class="panel"><p class="eyebrow eyebrow-mark eyebrow-accent">Today · News</p><h2>오늘의 원자력 뉴스</h2><p class="sub">10월 22일 (목) · 해설 5건 · 살펴본 기사 60건</p><p class="overview">오늘은 국내에서 사용후핵연료 건식저장시설을 둘러싼 원전 소재 지자체의 지원대책 요구가 이어졌다. 해외에서는 웨스팅하우스의 핵연료 공장 투자, 미국 켄터키와 인디애나의 신규 원전 구상, 방글라데시 루푸르 원전의 우라늄 반입, IAEA의 바라카 원전 점검 평가가 눈에 띄었다.</p><ol class="heads"><li><div><a href="news/index.html">사용후핵연료 건식저장시설을 앞두고 원전 지자체들이 실질적 지원책을 요구</a><small>국내 · 핵연료·방사성폐기물</small></div></li><li><div><a href="news/index.html">웨스팅하우스가 미국 내 LEU+ 연료 공장에 10억 달러 투자</a><small>해외 · 핵연료·방사성폐기물</small></div></li><li><div><a href="news/index.html">The Nuclear Company가 켄터키주에 6.6GW 규모 원전 단지를 제안</a><small>해외 · 정책·산업·수출</small></div></li><li><div><a href="news/index.html">인디애나주 신규 원전 사업에서 인디애나 미시간 전력이 타당성 조사에 참여, CANDU 검토도 거론</a><small>해외 · SMR·신형로</small></div></li><li><div><a href="news/index.html">IAEA, 바라카 원전의 드론 공격 대응이 효과적이었다고 평가</a><small>해외 · 안전·규제</small></div></li></ol><div class="more"><a class="primary" href="news/index.html">해설 전체 보기</a><a href="news/archive.html">지난 브리핑</a></div></article><article class="panel"><p class="eyebrow eyebrow-mark eyebrow-accent">This week · Papers</p><h2>이번 주 새 논문</h2><p class="sub">2026-10-12 ~ 2026-10-18</p><div class="mini-stats"><div><strong>63<em class="down" title="지난주 대비">-4</em></strong><span>이번 주 신규</span></div><div><strong>8</strong><span>관심 분야 해당</span></div><div><strong>688</strong><span>누적 논문</span></div></div><ul class="interest"><li><div class="row">핵연료·재료<span>24편</span></div><a href="https://doi.org/10.1016/j.net.2026.104792" target="_blank" rel="noopener" title="Public valuation of a partial transition from large reactors to enhanced-safety small modular reactors: Evidence from South Korea">대형 원자로에서 강화된 안전 소형 모듈형 원자로로의 부분 전환에 대한 공공 평가: 한국의 증거</a></li><li><div class="row">열수력<span>23편</span></div><a href="https://doi.org/10.1016/j.net.2026.104790" target="_blank" rel="noopener" title="Toward Reliable Probabilistic CHF Prediction: Physical Interpretation and Evaluation of Epistemic–Aleatoric Uncertainty Decomposition">신뢰할 수 있는 확률적 CHF 예측을 향하여: 인식적-대립적 불확실성 분해의 물리적 해석 및 평가</a></li><li><div class="row">원자로물리<span>22편</span></div><a href="https://doi.org/10.1007/s41365-026-02068-0" target="_blank" rel="noopener" title="Hybrid adaptive RSM-GA Monte Carlo optimization method (HRG-MCO) and its application in the design of moderator–collimator systems for accelerator-based thermal neutron radiography">하이브리드 적응형 RSM-GA 몬테카를로 최적화 방법 (HRG-MCO) 및 가속기 기반 열 중성자 방사선 촬영을 위한 조정자-조정자 시스템 설계에 적용</a></li><li><div class="row">안전·사고해석<span>17편</span></div><a href="https://doi.org/10.1016/j.net.2026.104790" target="_blank" rel="noopener" title="Toward Reliable Probabilistic CHF Prediction: Physical Interpretation and Evaluation of Epistemic–Aleatoric Uncertainty Decomposition">신뢰할 수 있는 확률적 CHF 예측을 향하여: 인식적-대립적 불확실성 분해의 물리적 해석 및 평가</a></li><li><div class="row">다상유동·비등<span>8편</span></div><a href="https://doi.org/10.1016/j.net.2026.104790" target="_blank" rel="noopener" title="Toward Reliable Probabilistic CHF Prediction: Physical Interpretation and Evaluation of Epistemic–Aleatoric Uncertainty Decomposition">신뢰할 수 있는 확률적 CHF 예측을 향하여: 인식적-대립적 불확실성 분해의 물리적 해석 및 평가</a></li></ul><div class="more"><a class="primary" href="papers/index.html">이번 주 동향</a><a href="papers/database.html">논문 DB 검색</a></div></article></div></section><section class="section"><div style="margin-bottom:1.25rem"><p class="eyebrow eyebrow-mark">Recent</p><h2 style="margin:1rem 0 0;font-size:1.375rem;font-weight:600;color:var(--color-ink)">지난 일주일</h2></div><ul class="week"><li><a href="news/days/2026-10-21.html"><b>10월 21일 (수)</b><span>원전 지자체 5곳, 사용후핵연료 저장시설 지원책 요구</span></a></li><li><a href="news/days/2026-10-20.html"><b>10월 20일 (화)</b><span>아마존이 후원하는 인디애나 석탄발전소 부지 SMR 12기 원전 구상</span></a></li><li><a href="news/days/2026-10-19.html"><b>10월 19일 (월)</b><span>인도 NTPC, 2047년 원전 30GW 목표 위해 부지 타당성 조사를 더 많은 주로 넓힌다</span></a></li><li><a href="news/days/2026-10-18.html"><b>10월 18일 (일)</b><span>슬로바키아 모호프체 4호기, 처음으로 전력망에 연결</span></a></li><li><a href="news/days/2026-10-17.html"><b>10월 17일 (토)</b><span>고리 3·4호기 계속운전 안건, 원안위가 결론 없이 다음 논의로 넘김</span></a></li><li><a href="news/days/2026-10-16.html"><b>10월 16일 (금)</b><span>일본 북동부 원자로, 물이 새는 문제로 가동 중단 예정</span></a></li><li><a href="news/days/2026-10-15.html"><b>10월 15일 (목)</b><span>SK그룹, 미국 원전 기업 웨스팅하우스 지분 투자 검토</span></a></li></ul></section></div></main><footer class="site-footer"><div class="container-page cols">
+<div><p class="name">원자력 공부 노트</p><p>Nuclear Daily · 뉴스와 논문</p></div>
+<div><p class="eyebrow">구성</p><p>매일 아침 원자력 뉴스 해설, 매주 월요일 주요 저널 신규 논문 동향을 한곳에서 봅니다.</p></div>
+<div><p class="eyebrow">바로 가기</p><p><a class="link-underline" href="./news/index.html">오늘의 뉴스</a><br>
+<a class="link-underline" href="./papers/index.html">이번 주 논문</a><br>
+<a class="link-underline" href="./papers/nuclear-literature-database.xlsx">논문 DB Excel</a><br><a class="link-underline" href="https://github.com/monami-lab-2026/nuclear_digest">수집 코드 (GitHub)</a></p></div>
+</div><style>
+.site-credit{margin-top:2.5rem;border-top:1px solid var(--color-line);padding:1.25rem 0 1.5rem;font-size:.8125rem;color:var(--color-neutral-500)}
+.site-credit a{color:var(--color-neutral-700)}
+</style><div class="site-credit"><div class="container-page"><a class="link-underline" href="https://thinklab.hanyang.ac.kr/ko" target="_blank" rel="noopener">출처: 한양대학교 THINK LAB</a></div></div></footer><script>(function(){var b=document.getElementById('theme-toggle');if(!b)return;b.addEventListener('click',function(){var r=document.documentElement,n=r.dataset.theme==='dark'?'light':'dark';r.dataset.theme=n;try{localStorage.setItem('nuclear-digest-theme',n)}catch(e){}});})();</script></body></html>

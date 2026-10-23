@@ -1,0 +1,117 @@
+{
+  "model": "claude-opus-5",
+  "effort": "medium",
+  "max_candidates": 30,
+  "max_stories": 5,
+  "min_stories": 3,
+  "lookback_hours": 36,
+  "backfill_days": 3,
+  "seen_retention_days": 21,
+  "other_headlines_limit": 30,
+
+  "feeds": [
+    {
+      "id": "gnews-ko",
+      "name": "Google 뉴스 (국내)",
+      "region": "국내",
+      "url": "https://news.google.com/rss/search?q=%EC%9B%90%EC%A0%84+OR+%EC%9B%90%EC%9E%90%EB%A0%A5+OR+SMR+OR+%EC%86%8C%ED%98%95%EB%AA%A8%EB%93%88%EC%9B%90%EC%9E%90%EB%A1%9C+OR+%EC%82%AC%EC%9A%A9%ED%9B%84%ED%95%B5%EC%97%B0%EB%A3%8C+when:1d&hl=ko&gl=KR&ceid=KR:ko",
+      "aggregator": true,
+      "needs_keyword": true,
+      "priority": 2
+    },
+    {
+      "id": "gnews-ko-reg",
+      "name": "Google 뉴스 (국내 규제·연구기관)",
+      "region": "국내",
+      "url": "https://news.google.com/rss/search?q=%EC%9B%90%EC%9E%90%EB%A0%A5%EC%95%88%EC%A0%84%EC%9C%84%EC%9B%90%ED%9A%8C+OR+%ED%95%9C%EA%B5%AD%EC%9B%90%EC%9E%90%EB%A0%A5%EC%97%B0%EA%B5%AC%EC%9B%90+OR+%ED%95%9C%EC%88%98%EC%9B%90+OR+KINS+when:1d&hl=ko&gl=KR&ceid=KR:ko",
+      "aggregator": true,
+      "needs_keyword": true,
+      "priority": 2
+    },
+    {
+      "id": "gnews-en",
+      "name": "Google News (international)",
+      "region": "해외",
+      "url": "https://news.google.com/rss/search?q=%22nuclear+reactor%22+OR+%22nuclear+power%22+OR+%22small+modular+reactor%22+OR+%22nuclear+plant%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "aggregator": true,
+      "needs_keyword": true,
+      "priority": 2
+    },
+    {
+      "id": "wnn",
+      "name": "World Nuclear News",
+      "region": "해외",
+      "url": "https://www.world-nuclear-news.org/rss",
+      "aggregator": false,
+      "needs_keyword": false,
+      "priority": 1
+    },
+    {
+      "id": "iaea",
+      "name": "IAEA",
+      "region": "해외",
+      "url": "https://www.iaea.org/feeds/topnews",
+      "aggregator": false,
+      "needs_keyword": true,
+      "priority": 1
+    },
+    {
+      "id": "nrc",
+      "name": "U.S. NRC",
+      "region": "해외",
+      "url": "https://www.nrc.gov/public-involve/rss?feed=news",
+      "aggregator": false,
+      "needs_keyword": false,
+      "priority": 1
+    },
+    {
+      "id": "ans",
+      "name": "ANS Nuclear Newswire",
+      "region": "해외",
+      "url": "https://www.ans.org/news/feed/",
+      "aggregator": false,
+      "needs_keyword": false,
+      "priority": 1
+    }
+  ],
+
+  "include_keywords": [
+    "원전", "원자력", "원자로", "핵연료", "사용후핵연료", "방사성", "방사선", "SMR", "소형모듈", "i-SMR", "APR1400", "APR 1400",
+    "한수원", "원안위", "원자력안전", "KINS", "KAERI", "원자력연구원", "고준위", "중저준위", "핵융합", "우라늄", "경수로", "혁신형",
+    "nuclear", "reactor", "uranium", "fission", "fusion", "radioactive", "radiation", "spent fuel", "NRC", "IAEA", "SMR", "microreactor",
+    "HALEU", "enrichment", "decommission", "NuScale", "TerraPower", "X-energy", "Kairos", "Rolls-Royce SMR", "Westinghouse", "AP1000"
+  ],
+  "exclude_keywords": [
+    "북핵", "비핵화", "핵무기", "핵실험", "핵무장", "핵우산", "핵위협", "핵도발", "핵보유",
+    "nuclear weapon", "nuclear-armed", "warhead", "nuclear arsenal", "nuclear test", "nuclear threat", "nuclear strike",
+    "nuclear option", "nuclear family"
+  ],
+
+  "categories": [
+    "SMR·신형로",
+    "원전 운영·건설",
+    "안전·규제",
+    "핵연료·방사성폐기물",
+    "정책·산업·수출",
+    "연구·기술",
+    "핵융합",
+    "방사선 이용·보건"
+  ],
+
+  "reference_library": [
+    {"id": "nuclear-db", "name": "Nuclear DB (원자력 기초 개념 정리)", "url": "https://nuclear-db.vercel.app/", "about": "원자력 기초 개념·용어를 학생용으로 정리한 연구실 사이트"},
+    {"id": "iaea-pris", "name": "IAEA PRIS", "url": "https://pris.iaea.org/PRIS/home.aspx", "about": "전 세계 원자로 운전·건설 현황 데이터베이스"},
+    {"id": "iaea-aris", "name": "IAEA ARIS", "url": "https://aris.iaea.org/", "about": "SMR·신형 원자로 설계 정보 데이터베이스"},
+    {"id": "iaea-smr", "name": "IAEA 소형모듈원자로(SMR) 주제 페이지", "url": "https://www.iaea.org/topics/small-modular-reactors", "about": "SMR 개념·국제 동향 개요"},
+    {"id": "iaea-ines", "name": "IAEA 국제원자력사건등급(INES)", "url": "https://www.iaea.org/resources/databases/international-nuclear-and-radiological-event-scale", "about": "원자력·방사선 사건의 심각도 등급 체계"},
+    {"id": "wna-library", "name": "World Nuclear Association Information Library", "url": "https://world-nuclear.org/information-library", "about": "국가별 원자력 현황, 핵연료주기, 노형 해설"},
+    {"id": "nrc-factsheets", "name": "U.S. NRC Backgrounders & Fact Sheets", "url": "https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/index.html", "about": "미국 규제기관의 주제별 해설 자료"},
+    {"id": "nrc-advanced", "name": "U.S. NRC 신형 원자로 인허가", "url": "https://www.nrc.gov/reactors/new-reactors/advanced.html", "about": "신형로·SMR 인허가 절차와 진행 현황"},
+    {"id": "doe-ne", "name": "U.S. DOE Office of Nuclear Energy", "url": "https://www.energy.gov/ne/office-nuclear-energy", "about": "미국 원자력 연구개발 정책과 해설 기사"},
+    {"id": "oecd-nea", "name": "OECD NEA", "url": "https://www.oecd-nea.org/", "about": "원자력 경제성·안전·폐기물 국제 보고서"},
+    {"id": "nssc", "name": "원자력안전위원회", "url": "https://www.nssc.go.kr/", "about": "국내 원자력 안전 규제기관, 보도자료·심의 결과"},
+    {"id": "kins", "name": "한국원자력안전기술원(KINS)", "url": "https://www.kins.re.kr/", "about": "국내 규제 기술 지원, 안전 심사"},
+    {"id": "kaeri", "name": "한국원자력연구원(KAERI)", "url": "https://www.kaeri.re.kr/", "about": "국내 원자력 연구개발"},
+    {"id": "khnp", "name": "한국수력원자력(KHNP)", "url": "https://www.khnp.co.kr/", "about": "국내 원전 운영사"}
+  ]
+}

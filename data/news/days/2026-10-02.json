@@ -1,0 +1,1192 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-01T23:17:49+00:00",
+  "engine": {
+    "engine": "claude-code-session",
+    "briefed_at": "2026-10-04T20:46:18+00:00"
+  },
+  "overview": "국내에서는 한수원이 체코 두코바니 원전 보조기기 입찰을 본격화했다. 해외에서는 아마존과 컨스텔레이션의 원전 전력 계약이 캘버트 클리프스 원전 출력 증강과 연결된다는 내용이 나왔고, 지르코늄·하프늄 분리 연구와 힌클리 포인트 C의 물고기 보호 터널 완공 소식도 있었다. 미국 내 대형 원전 8기 건설 추진은 10월 1일 브리핑에서 다뤘으며, 이날은 AP1000 6기와 APR1400 2기라는 노형 구성과 약 1,200억 달러 투입 계획이 추가로 보도됐다.",
+  "stories": [
+    {
+      "source_ids": [
+        3,
+        5,
+        28
+      ],
+      "region": "국내",
+      "category": "정책·산업·수출",
+      "importance": 2,
+      "headline": "한수원, 체코 두코바니 원전 보조기기 입찰 절차 시작하며 국내 업체 대상 설명회",
+      "summary": "한국수력원자력(한수원)이 체코 두코바니 원전 사업에 들어갈 보조기기 입찰과 관련해 설명회를 열었다. 제목 기준으로는 국내 업체 130여 곳이 참여한 것으로 보이며, 한국전력도 입찰 절차를 공유하는 등 지원에 나선 것으로 전해졌다.",
+      "background": "원전 설비는 흔히 원자로, 증기발생기, 터빈발전기처럼 핵심이 되는 주기기와 펌프, 밸브, 열교환기, 탱크, 배관, 계측기처럼 계통을 이루는 보조기기로 나눠 부른다. 보조기기는 종류와 수량이 매우 많아 여러 협력 업체가 나눠 공급하는 구조가 일반적이다. 원전 기기는 안전 기능에 따라 안전등급과 비안전등급으로 나뉘며, 안전등급 기기는 설계, 제작, 시험 전 과정에서 엄격한 품질보증 요건을 따라야 한다. 해외 원전 사업에서는 발주국의 규제 요건과 적용 기술기준이 국내와 다를 수 있어 같은 기기라도 추가 서류와 검증이 필요할 수 있다.",
+      "why_it_matters": "보조기기는 하나하나는 작아 보여도 납기나 품질 문제가 생기면 전체 공정과 시운전 일정이 밀릴 수 있어 사업 성패에 직접 영향을 준다. 특히 안전등급 펌프와 밸브는 지진이나 사고 환경에서도 기능을 유지하는지 확인하는 내진검증과 기기검증을 거쳐야 하므로 기술력이 필요한 분야다. 국내 업체가 해외 규격과 품질 문서 요구에 대응하는 경험을 쌓으면 원전 공급망 전체의 역량이 높아지는 효과를 기대할 수 있다. 공학도에게는 원전이 원자로 하나가 아니라 수많은 기기가 맞물린 시스템이라는 점과 기기 설계, 품질, 검증 분야 엔지니어의 역할을 실감할 수 있는 사례다. 관전 포인트는 실제 계약이 어떤 업체와 어떤 범위로 이뤄지는지, 현지 업체와의 역할 분담이 어떻게 정해지는지다.",
+      "concepts": [
+        {
+          "term": "주기기와 보조기기",
+          "explain": "원자로, 증기발생기, 터빈발전기 같은 핵심 설비를 주기기, 펌프, 밸브, 열교환기, 배관처럼 계통을 구성하는 나머지 설비를 보조기기라고 부른다."
+        },
+        {
+          "term": "안전등급 기기",
+          "explain": "사고를 막거나 사고 결과를 줄이는 기능을 맡은 기기. 설계부터 제작, 시험, 설치까지 원자력 품질보증 요건을 적용받는다."
+        },
+        {
+          "term": "기기검증(EQ)",
+          "explain": "안전등급 기기가 사고 때의 고온, 고압, 방사선, 지진 같은 가혹한 환경에서도 정해진 기능을 수행할 수 있음을 시험과 해석으로 입증하는 절차."
+        }
+      ],
+      "question": "안전등급 펌프 하나를 해외 원전에 납품할 때, 국내 원전에 납품할 때보다 추가로 확인해야 할 기술 문서나 시험에는 무엇이 있을지, 그중 무엇이 가장 큰 장벽이 될지 판단해 보자.",
+      "study": [
+        "원전 기기 안전등급 분류",
+        "원자력 품질보증(10 CFR 50 Appendix B)",
+        "기기검증(EQ)",
+        "내진검증"
+      ],
+      "reference_ids": [
+        "khnp",
+        "wna-library"
+      ]
+    },
+    {
+      "source_ids": [
+        0,
+        1,
+        9,
+        19,
+        21
+      ],
+      "region": "해외",
+      "category": "원전 운영·건설",
+      "importance": 2,
+      "headline": "아마존, 컨스텔레이션과 원전 전력 장기 계약 체결... 캘버트 클리프스 출력 증강과 연계",
+      "summary": "컨스텔레이션(Constellation)과 아마존이 원전 전력을 중심으로 한 전력구매계약(PPA)을 맺었다. 일부 보도는 계약 기간을 20년으로 전했고, 메릴랜드주 원전과 관련된 계약이자 캘버트 클리프스(Calvert Cliffs) 원전의 출력 증강(uprate)을 위한 협력으로 소개됐다. 제목 기준으로는 아마존이 원전 설비 확장을 뒷받침하는 성격도 있는 것으로 보인다.",
+      "background": "출력 증강(uprate)은 이미 운전 중인 원전의 인허가 열출력을 높여 더 많은 전기를 생산하는 것을 말한다. 미국 NRC는 출력 증강을 크게 세 가지로 나누는데, 급수 유량을 더 정확히 측정해 계측 여유를 줄이는 측정 불확도 회수(MUR), 설비 변경이 적은 스트레치 증강, 터빈이나 펌프, 열교환기 같은 주요 설비 교체가 따르는 확장 증강이 있다. 열출력이 올라가면 노심의 열적 여유와 사고 해석 결과가 바뀌므로 안전해석을 다시 수행해 규제기관 승인을 받아야 한다. 전력구매계약(PPA)은 전력 수요자가 발전사업자와 일정 기간 정해진 조건으로 전기를 사기로 약속하는 장기 계약이다.",
+      "why_it_matters": "출력 증강은 새 부지를 확보해 원전을 새로 짓는 것보다 기존 설비와 인허가 기반을 활용할 수 있어 비교적 짧은 기간에 발전량을 늘리는 방법으로 주목받는다. 공학적으로는 열출력이 늘면 붕괴열도 함께 커지므로 냉각재 상실 사고(LOCA) 같은 설계기준사고 해석과 잔열제거 능력을 다시 확인해야 한다. 노심 쪽에서는 핵비등이탈률(DNBR)과 핵연료 온도 같은 열적 여유가 줄어들 수 있고, 2차 계통에서는 증기발생기, 터빈, 복수기, 급수펌프의 용량이 한계가 될 수 있다. 데이터센터처럼 하루 종일 일정한 전력이 필요한 수요자에게 이용률이 높고 출력이 안정적인 원전이 잘 맞는다는 점도 이런 계약이 늘어나는 배경으로 볼 수 있다. 관전 포인트는 증강 규모와 인허가 심사 과정, 그리고 다른 원전으로 비슷한 계약이 확산될지 여부다.",
+      "concepts": [
+        {
+          "term": "출력 증강(Power uprate)",
+          "explain": "운전 중인 원전의 인허가 열출력을 높이는 것. 계측 개선만으로 하는 소규모 증강부터 주요 설비를 바꾸는 대규모 증강까지 있다."
+        },
+        {
+          "term": "전력구매계약(PPA)",
+          "explain": "전력 수요자와 발전사업자가 일정 기간 전력 거래 조건을 미리 정해 두는 장기 계약. 발전사업자는 수익을 예측하기 쉬워지고 수요자는 공급 안정성을 얻는다."
+        },
+        {
+          "term": "핵비등이탈률(DNBR)",
+          "explain": "연료봉 표면에서 핵비등이 막비등으로 넘어가며 열전달이 급격히 나빠지는 임계 열유속과 실제 국부 열유속의 비. 이 값이 충분히 커야 피복재 과열을 막을 수 있다."
+        }
+      ],
+      "question": "원자로 열출력을 높인다면 노심 외에 2차 계통의 어떤 설비가 먼저 한계에 부딪힐지, 그리고 안전해석에서 무엇을 가장 먼저 다시 확인해야 할지 따져 보자.",
+      "study": [
+        "출력 증강 분류(MUR, stretch, extended)",
+        "DNBR",
+        "붕괴열",
+        "이용률(capacity factor)"
+      ],
+      "reference_ids": [
+        "nrc-factsheets",
+        "iaea-pris",
+        "wna-library"
+      ]
+    },
+    {
+      "source_ids": [
+        11
+      ],
+      "region": "해외",
+      "category": "연구·기술",
+      "importance": 1,
+      "headline": "피복재 원료인 지르코늄에서 하프늄을 더 잘 떼어 내는 분리 방법 연구 소개",
+      "summary": "지르코늄과 하프늄을 분리하는 더 나은 방법을 찾았다는 연구가 ANS Nuclear Newswire를 통해 소개됐다. 제목 기준으로는 기존 분리 공정보다 개선된 방식을 제시한 연구로 보이며, 구체적인 공정 방식과 성능 수치는 후보 목록만으로는 확인되지 않는다.",
+      "background": "지르코늄 합금은 열중성자를 거의 흡수하지 않고 고온의 물에서도 부식에 잘 견뎌 경수로 핵연료 피복재와 구조재로 널리 쓰인다. 그런데 자연의 지르코늄 광석에는 화학적 성질이 매우 비슷한 하프늄이 함께 들어 있다. 하프늄은 열중성자 흡수 단면적이 지르코늄보다 수백 배 커서 피복재에 섞여 있으면 중성자를 불필요하게 흡수한다. 두 원소는 란타넘족 수축 때문에 원자와 이온의 크기가 거의 같아 분리가 어렵고, 산업적으로는 용매추출 같은 다단 공정으로 하프늄을 극히 낮은 농도까지 제거한다.",
+      "why_it_matters": "원자로급 지르코늄을 만드는 분리 공정은 여러 단계를 거쳐야 해서 비용과 에너지가 많이 들고, 공정에 따라 유기용매 같은 폐액 처리 부담도 생긴다. 분리 효율이 좋아지면 피복재 원료의 생산 비용과 환경 부담을 줄일 가능성이 있다. 분리된 하프늄은 중성자를 잘 흡수하는 성질 덕분에 제어봉 재료로 쓰일 수 있어 두 원소 모두 원자력 산업에서 가치가 있다. 이 소식은 원자로 물리에서 배우는 흡수 단면적 개념이 재료 공급망과 화학공정 문제로 바로 이어진다는 점을 보여 준다. 실험실 연구가 산업 규모 공정으로 확장될 수 있을지, 요구 순도를 안정적으로 맞출 수 있을지가 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "중성자 흡수 단면적",
+          "explain": "원자핵이 중성자를 흡수할 확률을 면적 단위(barn)로 나타낸 값. 클수록 중성자를 잘 흡수한다."
+        },
+        {
+          "term": "란타넘족 수축",
+          "explain": "란타넘족 원소를 지나면서 원자 반지름이 예상보다 작아지는 현상. 이 때문에 5주기의 지르코늄과 6주기의 하프늄은 크기가 거의 같아진다."
+        },
+        {
+          "term": "용매추출",
+          "explain": "서로 섞이지 않는 두 액체 사이에서 원소마다 녹아드는 정도가 다른 점을 이용해 원하는 성분을 분리하는 공정."
+        }
+      ],
+      "question": "하프늄이 조금 남은 지르코늄 피복재를 쓰면 노심의 반응도와 중성자 경제에 어떤 영향이 생길지, 그리고 분리 비용과 비교해 하프늄 허용 한도를 어떻게 정하는 것이 합리적일지 생각해 보자.",
+      "study": [
+        "열중성자 흡수 단면적",
+        "지르코늄 합금 피복재",
+        "용매추출(solvent extraction)",
+        "제어봉 재료"
+      ],
+      "reference_ids": [
+        "paper-collection",
+        "nuclear-db",
+        "wna-library"
+      ]
+    },
+    {
+      "source_ids": [
+        16
+      ],
+      "region": "해외",
+      "category": "원전 운영·건설",
+      "importance": 1,
+      "headline": "힌클리 포인트 C 건설 현장, 물고기 보호를 위한 620m 터널 공사 마쳐",
+      "summary": "힌클리 포인트 C 원전에서 물고기를 위한 길이 620m의 터널이 완공됐다고 World Nuclear News가 전했다. 제목만으로는 터널의 정확한 용도가 드러나지 않지만, 원전 냉각수 취수 과정과 관련된 어류 보호 설비일 가능성이 있다.",
+      "background": "원전은 터빈을 돌린 증기를 복수기에서 다시 물로 응축시키는데, 이때 빼앗은 열을 바닷물이나 강물 같은 외부 냉각수로 버린다. 해안 원전은 바닷물을 끌어와 복수기를 한 번 통과시킨 뒤 다시 바다로 내보내는 관류식 냉각을 쓰는 경우가 많다. 대량의 물을 끌어들이는 과정에서 물고기가 취수구 스크린에 부딪히는 충돌과, 알이나 치어 같은 작은 생물이 계통 안으로 빨려 들어가는 연행이 대표적인 환경 영향으로 꼽힌다. 이를 줄이기 위해 취수구 유속을 낮추거나, 소리 등으로 물고기의 접근을 막거나, 걸러진 물고기를 바다로 돌려보내는 설비를 두는 방법이 쓰인다.",
+      "why_it_matters": "경수로의 열효율은 대략 3분의 1 수준이어서 원자로에서 만든 열의 상당 부분이 냉각수를 통해 환경으로 나간다. 그래서 냉각수 계통 설계는 발전 효율뿐 아니라 환경 인허가와 지역 수용성에도 직결된다. 취수구 위치와 유속, 스크린 구조, 배수구에서의 온배수 확산은 모두 유체역학과 열전달 지식이 필요한 설계 문제다. 또 해저나 지하 터널 굴착 같은 토목 공사는 원전 건설 일정에서 큰 비중을 차지할 수 있어 원전 건설이 원자로 기술만의 문제가 아님을 보여 준다. 취수구로 해양생물이 몰려드는 문제는 해안에 원전이 많은 국내에서도 운전에 영향을 줄 수 있는 주제이므로 비교해서 볼 만하다.",
+      "concepts": [
+        {
+          "term": "관류식 냉각",
+          "explain": "바닷물이나 강물을 끌어와 복수기를 한 번 통과시킨 뒤 바로 돌려보내는 냉각 방식. 냉각수 온도를 낮게 유지하기 쉬워 효율 면에서 유리한 편이지만 취수량이 많다."
+        },
+        {
+          "term": "충돌과 연행",
+          "explain": "충돌(impingement)은 물고기가 취수구 스크린에 눌려 붙는 것, 연행(entrainment)은 스크린을 통과할 만큼 작은 생물이 냉각 계통 안으로 빨려 들어가는 것을 말한다."
+        },
+        {
+          "term": "복수기",
+          "explain": "터빈에서 나온 증기를 냉각수로 식혀 물로 되돌리는 열교환기. 복수기 압력이 낮을수록 터빈이 더 많은 일을 할 수 있다."
+        }
+      ],
+      "question": "취수구 유속을 낮추면 어류 피해는 줄지만 같은 유량을 얻으려면 취수구가 커져야 한다. 냉각수 유량을 유지하면서 환경 영향과 건설비를 함께 줄이려면 어떤 설계 선택지를 비교해야 할지 판단해 보자.",
+      "study": [
+        "랭킨 사이클과 복수기",
+        "관류식 냉각과 냉각탑 비교",
+        "취수구 어류 보호 설비",
+        "온배수 확산"
+      ],
+      "reference_ids": [
+        "wna-library",
+        "oecd-nea"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Constellation, Amazon agree nuclear-focused power purchase deal",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/constellation-amazon-agree-nuclear-focused-power-purchase-deal",
+          "published": "2026-10-01T10:32:26+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        },
+        {
+          "title": "Constellation Energy-Amazon Lock 20-Year Nuclear Power Purchase Agreement, Stock Soars",
+          "publisher": "tradingview.com",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaUpGbGxrcnZIbzVRQ1dQRGdtc2R5RVdnSHJQdEtWY0VIejNSTTQ2Q3EtYlZMX0lrcUZUeUpnTjE4a1hUenJhYjYyWWZoTXRnck52eWR2M1d4NFNkZVl6V19DWlc2MXZHWWNOUEtvcmNPWEhMTTlURU1tWEhCOVVyZmZ5MFhyZ3FtSDBWTHdfTnVOOVpNVXNWWGZRSkFYQlJoMzFaMTlDVDIzc2lwYjNlOWhycDZyLW1EZVVKUGMzdkNMMHpIZmdLNWdRaW04SFBjeFlFSGNWNjZrMldo?oc=5",
+          "published": "2026-10-01T10:57:27+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Amazon and Constellation Energy Sign 20-Year Nuclear Power Deal",
+          "publisher": "tokenpost.com",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84d2s5N2h2bWtnZlNGakpSUGdwUGRLMUQ0Y0RTczhLbkFVRllVS2txbXR2YmZYNDdHY2tBUXZWcWdOaVhvWkl3WURTYVd2NDdqczdhUzdxVjQ?oc=5",
+          "published": "2026-10-01T13:25:37+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Amazon Secures 20 Years of Nuclear Power From Constellation",
+          "publisher": "Crude Oil Prices Today | OilPrice.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUGU1QWNoekN3VmxLLTQ0dUFKd0pUWFNmZjctbDBVdmdWUGxFaDRKdWFIVTN0SzFrcjBlNTdGM0hwbGozdFA4YWY3b294NlRPLThYTjRWUjY4VlFWNHotZGE2dTQ1SThXaERaU0NQS3F2dDExblBFaHBOTUxCMmJpNVdtRzB4TDBGaWllYzhNUmhKc3c1bDRxMkFBNENGZWNnbkczY0JuSTdWY3FteVl0dnlicF9sM2tlemfSAb8BQVVfeXFMTVlRWkRrb1k2bjEyX0F4MUhEQVZiWk9IQkNNSWdtaDh0bUp0bVBzXzFZcmphXzY3NHZRdDBOY2t0cjhUYkZqUThmZXFwc0xUQms5OVhnV3ZvUm14c3ZkVFA3Rm1EUW82MUxkUl9tS2d1c0pjbzZaTFJnZ0ZEOE5uVnBUOXg5WjVSZmp6NEZrYk9Rc0RxUXRkdGh4Q0U2aDh0SURTejNCSGR4aXNHY05nemR1VmxXRlhkUldzMV8teVk?oc=5",
+          "published": "2026-10-01T18:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 5.779,
+      "id": 0
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "CEG Stock Rises Overnight: Constellation Signs 20-Year Nuclear Power Deal With Amazon",
+          "publisher": "tradingview.com",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT3AxUWhBdEJ4WTAyNWpDSDFTVzdJMzNOS3EzMEstSlgxMHlyNzI2bzNMbVFxYkZhZ1NfMWR2ZURRMER6dDBMX3B4ZGhtMThpTGZ3T0M2TWIzQ0h4VjRTNnI3UmZKNE1INmV1Vzhkd0s2cWVqWFhyVlNVems4aGVaMjc1c1NSakk1M2VjTDNMQzV6eE9KaHFZVzN2YmEyNU1ydXlheFA2TjM2aVVkT0laWmtRa2VqUGo0NTk1S1VDZkJpR3oyMGp3OEE4cTZIWU14SjJGYS1COGJIN3hvM0E?oc=5",
+          "published": "2026-10-01T01:16:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Amazon Signs 20-Year Nuclear Power Deal With Constellation, Unlocking $3 Billion Investment to Fuel AI-In",
+          "publisher": "benzinga.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV0pXckJqdUpmXzBZeWRwSEtNX3RkVEdGbkhCOVhvZ0dKaWRiWm11WXN2UlZaUkpHUFZoSXpTQ2I1ZU9DNXVPSVdzRjRuOXpwR3FJUnd5U19DYXQ4cGZnZFkzcDItaEFkb1RjNjlUdlJ0N0c2YlZ2bm5Xdmtidndzd3FjcUVHQWxHbnJBS0dqUWc1a1BOS1FpQi12M3prTjNlNUkwRzJVLUpXbk1aMGwtVFJ4MDVqT01Nams3U0JnSlE5UQ?oc=5",
+          "published": "2026-10-01T05:20:03+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Amazon Signs 20-Year Deal with Constellation to Upgrade, Extend Life of Nuclear Plant",
+          "publisher": "ESG Today",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdmFIUVRKRnUzYmljdUVTblp3ZDExTVZ6ZGFPQTFIMFV1WXpsM1hQQW1DN3VWU20tcjJRMVJUME44dmRQUTVFbV9ZeGYzNDhLUG5TckdKb0JMekdzQXhrQ2g5d2FSalVpcTcyWW8teDdheW00SWFNTDJZNDNRYzh4UVdGOVBRdXMyMXpOSjNPTkVMM1FFZ0tFa0hnYnBVTjBFTC1UU0szSXZRbEZJUW5n?oc=5",
+          "published": "2026-10-01T10:58:04+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Amazon signed a 20-year, $3 billion nuclear power deal with Constellation Energy in Maryland",
+          "publisher": "qz.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTG01OXRwcVBTa2hDbDNNQ0kwRkl3VzhHaGxYX082ZGZNS3NURER6R003Y3Q3SFZ2WnB4eVc0VDlQWE1IeHE2cU9CWHE2bjR1dHZmcjVKMFBtSWJGV25tR1d5dy1qNEc4VWNQWVFnUy1IMWFFZlZ1N1hPUDRkYWJOV1Bzbw?oc=5",
+          "published": "2026-10-01T11:30:50+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Amazon signs 20-year nuclear power deal with Constellation Energy",
+          "publisher": "foxnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBfQnFDREFySTJsbE51ZTJ6MTFORE1uMDRneGlueE1aRUswMWJ1NmU3VW9HSks5WFBXc1dXSnhCOXo4Szh4SFZORXZ0bDlZZmlDY1h1TFBn?oc=5",
+          "published": "2026-10-01T16:10:06+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Amazon Signs 20 Year Nuclear Power Deal. That's Great News for This Nuclear Stock",
+          "publisher": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObndyaTA1SWZvX1U4RmhIcUYtekpHdlRPZE9LNkJZd3VZMjltM3J6RF9aZkJqd2JTUHpYYTBHWHVJMDFwQU03Rmp4czQ5M1p6dzZraWZqSWR0X0FMTWRlSDFWTTlqTkZmclNQYU5QNzI5MlUtMnVqdE0taHVGSE1Oa1Fick5zWTE1eEtpS0p0a1NaM3B1UjNacGgzNENFeFVIcWhhSTFOakFaVVJQUWJ0cDQ3OHVtYmdSSFBJb2lubFc?oc=5",
+          "published": "2026-10-01T21:44:32+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Amazon Signs 20 Year Nuclear Power Deal. That's Great News for This Nuclear Stock",
+          "publisher": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMHhrT3FaVmNNZWM4UzQ0VFZxbDhRMVJNVmUzMXNMT25CbzJiSjBTUGVQUndERk50UzZxQi00Qm9NYkd4UVhrX2V4RzEtSFR3TEZOekdEQk5xbUdUcGtJdkVrOXFpX19KN2Zma2gwekticGw0bXFNb25LU21OWEVDaDdPai1CRXhfMDVFY2pUbw?oc=5",
+          "published": "2026-10-01T21:57:43+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.944,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "South Korea to build 8 nuclear power plants in US, invest $120bn",
+          "publisher": "Nikkei Asia",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTGRCY2dMVXpFY2JKcVVOX2VyY2p0VGU3dlJ2MTdFRUlibWU1NDNkQ3lFTVIzVUZObGZKazY5WHd6dGpqdE9EUUtVZ0daU0pOMTF4TV9yRXhLeHpLTFZDclBoaUd4RUg2SHM0eGNTb2drcFd4eFMyY3JrZnJvMGY0M1FQRk1kaUxXUDl2LU9rVG1mMG8xenY2MzhsVkxXNDkxX2dMWlRPVXFzU01uY3lkWUlSdnN1V1F2b3c?oc=5",
+          "published": "2026-10-01T01:13:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "South Korea to invest $200bn in US gas, nuclear power plants, Alaska LNG pipeline",
+          "publisher": "MLex",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCSmQ2RDBOaURkX19XTVRSQ0RTcTZHdmVoT3JfS0xHM3BvY2ZoOFFseTBtRXluTnFqWVhrNEY3c2ZqS0FGNUhrZkhGdFo0YmwzRFVLNVBlS2dEd9IBWkFVX3lxTFBCSmQ2RDBOaURkX19XTVRSQ0RTcTZHdmVoT3JfS0xHM3BvY2ZoOFFseTBtRXluTnFqWVhrNEY3c2ZqS0FGNUhrZkhGdFo0YmwzRFVLNVBlS2dEdw?oc=5",
+          "published": "2026-10-01T04:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "South Korea to invest $200bn in US gas, nuclear power plants, Alaska LNG pipeline",
+          "publisher": "MLex",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3BSQ3V0Ukg2VmNzV1pKOEQ3TXgxVzZKdmo0SXQwODlhQVhNMnJHVHNBOGNpMndzbTlYdnl1S2JmN2JRdDBwa0pOVDNzZ3JFNjBsTy1adU55bG90U1RLaUYzU0lmZk5vLW1iMlBJMzlUYnJiMU5scHFSeVlSVUF3QnpJdTgtenRoSXRWdkU2aE81TzZienZ0VDJGOFZCOU9FYmczQkJyYWYwd3VhNHRiWVMxSnZqMzFzNndwRFdwODR2NDZQSmfSAVpBVV95cUxQQkpkNkQwTmlEZF9fV01UUkNEU3E2R3ZlaE9yX0tMRzNwb2NmaDhRbHkwbUV5bk5xallYazRGN3NmaktBRjVIa2ZIRnRaNGJsM0RVSzVQZUtnRHc?oc=5",
+          "published": "2026-10-01T04:00:40+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "South Korea Announces $120 Billion Plan For Eight Large-Scale Nuclear Power Plants In US",
+          "publisher": "nucnet.org",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcTFxZnppU1pxdkE5ZDR3aG9xR3dKclBLdDRpbDhYV3duZjZwYTU1MVdtVmhMV2lpQ0Q0WEt3T1habzQtOEIyRlZxdlNTbVY3SlBKUERCQmVGNWlPRXM3azl0VVBtTm41S0JwNVlmUW9OcG9WUUNXVjMwNUQ4SzBuVHloNEtBV2dwLUZrMWJwUXhiN1ZOM1pmaFBpOTJjTHh4RjhLUzlUUkFJQ1dxcWZrYTZnR2s3czlLX1RuU1dhcmota2tZ?oc=5",
+          "published": "2026-10-01T10:49:53+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "South Korea plans $120B spend on eight US nuclear power plants",
+          "publisher": "Harici",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYy1nRmlRLU41Z3hrOTktVk1kdlZBdWVkcUF2VGxrd3Q2ZEdzZzNHcVFVM0RPeUZ2eWRVZm5ZWmUxLTV1UTBZZzFrbF92dHV6WE5ENkVsc0RwZ2wyanh6NmRVTTNDZzhNYTdIS3ZvRDZEdlBuTDN1YThkUExDT2ItZTFadzE1V2pwTkltZS1xaUTSAZABQVVfeXFMTWMtZ0ZpUS1ONWd4azk5LVZNZHZWQXVlZHFBdlRsa3d0NmRHc2czR3FRVTNET3lGdnlkVWZuWVplMS01dVEwWWcxa2xfdnR1elhORDZFbHNEcGdsMmp4ejZkVU0zQ2c4TWE3SEt2b0Q2RHZQbkwzdWE4ZFBMQ09iLWUxWncxNVdqcE5JbWUtcWlE?oc=5",
+          "published": "2026-10-01T11:28:33+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Lutnick says Korea to invest over $50B in Alaska LNG, $120B in U.S. nuclear power plants",
+          "publisher": "Korea JoongAng Daily",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPd251ZzVvZFg1cnB1QUJjcXZNbzI1QVBMbFQxeEFxNTNpYzEzMkFmRmJ5T2lkODJ5d0o0Sm9vbFRiR3FSbUY0Y0FZSHdNZHlzck9EOHBHcFI5ejdVWTFvcVNIUld4NzZDZWNMdWo4ZGRwOVdjbkZfb3R6SVNBUUJ0ei11Mjg2aHZjSVFjOG9FUFJPWWp2dHdoQlNTT3BtNzluUlN4d19wMVR4YnlXX2FMa3dmNjVwRDNYdmZxSHo4UlVWYmxtMFpKQktIUU5ZRi1Lenc?oc=5",
+          "published": "2026-10-01T18:06:46+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "South Korea invests $2B in US nuclear power",
+          "publisher": "Fox Business",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pMFBkVnp4d0twSy1wTEI2bXlMQW9WejJBZHNJUzBZX2hGSDFHTXcxX3l2eVVydTVYNkI0RWozLWZXLS1pQVd6WndYZ1hOT2lkaTR0QlVENVk0RVU?oc=5",
+          "published": "2026-10-01T18:08:06+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.785,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, '체코 두코바니 원전사업 보조기기 입찰설명회' 개최",
+          "publisher": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQQW1nbGJQNmQ4cnhHREhzbVFZQTItUC15QUd5OG5qTDlTQ1NpZlYwa1hzSE1zSVVILWdPS3liN0s4dHlRYjBCTWRodjI5bl83M3pBSlhGZWp5a3VQdGg3MEhXNFdtNWR2Y1JYYXJfaTJvVzRRZW9CRmM0a3Z0MkF1TkFJSlEwSDF5RnltZTFPaVExZzlBNFExSG4wekFyemxIUWZoSnR3S0tjYkpZdGxwY2pDTjRMVjBMZk9GT3pZUkx3RzZhMGg1RWN0bURyODFWMzhzNkw0Qi1tMzBKOU1zNEdyakNQUUFlbHItbUhIUHpxaDdBa0g2U3BKZ0VBcERMZXctenNveE4xTW14bDNjbHA1YUlmcUl3cjhyakJ4a055TnM?oc=5",
+          "published": "2026-10-01T01:43:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 두코바니 원전 보조기기 입찰 시동",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fMEliOUp6aklwM3JYY0lzYnpWN19QOEV2c1FfRDhvUUFkQm1IQ2E2WUVBWmlacU9yWXVDajJKTzJEM1daRlpmQWstX3RRZ3QtVHFVb0JzSFFNX1JKQk5WQTAzSXFmb2RQN2tMRDJpd0NkUQ?oc=5",
+          "published": "2026-10-01T01:49:38+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, ʻ체코 두코바니 원전사업 보조기기 입찰설명회ʼ 진행",
+          "publisher": "KNS뉴스통신",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85Y2hEWkN6Y3ZDMUI1M3FSRHhPVTFVZnZpRXBrY09qUkRrRzRMc3EtYy1sM2VQRElYdWxWcUtzUlF0NEotWl90b25SRXExZ2lieUtZN3F3Wm13U0hBamEwVzlEZFI?oc=5",
+          "published": "2026-10-01T01:53:22+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 두코바니 원전사업 보조기기 입찰설명회",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXLVhuUUcxQlpVNEJSSUhSclNYMFdtd1ZxQVU3NUxGd285d1Q1Si1JNmJ0UGs5bEJ0QXJ3OENsUmg0bkQtbXk3anVBaEVIRDNsNEpmRXRkMHBacms4bEZyQndFX3hhVFc1WUxGNmxMV2w4QTQtQ2ZqRtIBeEFVX3lxTFBXLVhuUUcxQlpVNEJSSUhSclNYMFdtd1ZxQVU3NUxGd285d1Q1Si1JNmJ0UGs5bEJ0QXJ3OENsUmg0bkQtbXk3anVBaEVIRDNsNEpmRXRkMHBacms4bEZyQndFX3hhVFc1WUxGNmxMV2w4QTQtQ2ZqRg?oc=5",
+          "published": "2026-10-01T02:37:06+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 원전 보조기기 입찰설명회 개최…국내 기업 참여 지원",
+          "publisher": "뉴스퀘스트",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBRk9Qa0NPdXFSQUpyMkFCTlBSSzgwLXo0SGUyS1ZDeFdhTkthZmY2V3R6SWlPQVFzTFoxMjZWa3NOdzZUeTk3SkRYR2M1M1FjN1JXM3JPLWlWWGJqazRtQXVVM3R4U1BHbVprVXlRMA?oc=5",
+          "published": "2026-10-01T03:28:57+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 두코바니 원전사업 보조기기 입찰설명회 개최",
+          "publisher": "팝콘뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01YnRnNTBuUnhKNldjT3BnYnB1ejN6NGFPaklBVGkwQ1k3dU5NOUlkeUZKWmRwQVZwZ0QycG5FNjhwUDVZVTBXYWJyOEowdmxVV0NRWFJyYTdjNnZmbTJoWDh4eFJWTkVyUTlDQy1wLWZhd9IBckFVX3lxTE01YnRnNTBuUnhKNldjT3BnYnB1ejN6NGFPaklBVGkwQ1k3dU5NOUlkeUZKWmRwQVZwZ0QycG5FNjhwUDVZVTBXYWJyOEowdmxVV0NRWFJyYTdjNnZmbTJoWDh4eFJWTkVyUTlDQy1wLWZhdw?oc=5",
+          "published": "2026-10-01T04:17:30+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 두코바니 원전사업 보조기기 입찰설명회…국내 기업 이해 도와",
+          "publisher": "SR타임스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpcXpuUy1INnp6U0lrZWRHUnozVndjUFRyUUZad0VndG15SVVXR2JBTm9vRG52VEUwaVF4LWp1azdGVHI1SGZNVnZ6SVY1NTZ3QkQwTC1venNtcDh4aXJnTDJBWEdzeEHSAWtBVV95cUxON2xUd3MyZFVDaXVDT1dUUldnNnBIalJ6RktzbEZpNmpJM3g4R2VHTmdQeFZDem10LTFKVTNmcDcxZUNXd2YwZ0dBeFIxQTJsUlh3ajVuWGtRLVJXMmtaakJpaUVwRlhQTEE4MA?oc=5",
+          "published": "2026-10-01T04:59:44+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 두코바니 원전 보조기기 입찰설명회 개최",
+          "publisher": "브레이크뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4za0pmcHN0LWZzSGl4SG1iaVh3NGlJREtqODRnV2cxUWptVnVMaUcyeFNrSnRjM2syOTRzTkJLVTJqOWVnMl8wag?oc=5",
+          "published": "2026-10-01T07:35:54+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "[게시판] 한수원, 체코 두코바니 원전사업 보조기기 입찰설명회",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84S01Lc2o4SXJKbGVBNnRGVUZ5SjdlWU40SFVTbnFjWGhvOTh6cHlSSDAxSkZyR2hfOVB3SEs3eDBiN2lmbGwyWnF5M2plZGk3a3AzMmlub2dyM1nSAWBBVV95cUxOdEQyR1VUZTZXUVExbW9kQURlbE9oS1ZCV1ozVGFDZUtfM3AyblJIcDI5X3lKQldiRjRLM3VhWWdGQmxib3NNeXVZSW1mS2tYTlJFTmJKSFV0WmZOZUMtN1o?oc=5",
+          "published": "2026-10-01T07:55:54+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, '체코 두코바니 원전사업 보조기기 입찰설명회' 개최",
+          "publisher": "컨슈머타임스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRa0JzSjE5TE0wREdac1hYNTc1T3puSkstb0VpZnkyWEVhb0VZYWFSQ1FGaW1vV2FsRUYxUVRNNXVGOWExdF9uUUQtUFBia3BvdjFnVFNtWHpLV0h1TERjV0h0dkxWWGdfTFE?oc=5",
+          "published": "2026-10-01T10:29:17+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, ʻ체코 두코바니 원전사업 보조기기 입찰설명회ʼ 개최",
+          "publisher": "발전산업신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43bXlJcHJleVJFb3M4X25fTk5yRV8tVG1meVJ2dzhZSEJxVnJUd1UwTnpLRlJIN2w5cTVaeGFlU0NuSlR3ckk5bFgwbDRhb05POHlma05vQWxOUG9QSnV3cHlmUi04RDl2?oc=5",
+          "published": "2026-10-01T13:26:48+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.59,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원 이광훈 품질기술본부장, 세계원자력사업자협회 ‘원자력분야 최고 공로상’ 수상",
+          "publisher": "KNS뉴스통신",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnRldhVjgwdEQtdzljLUdSTkl1ZXMzTFV0NGV0aldiR0VLdkpSb0p2eW13NlJLMEdxVEdKWTlVLXBlUjJFcEJua3hDZTdXelBRdVF0R2xmaGVza0hvNWVRUW5GNGo?oc=5",
+          "published": "2026-10-01T00:38:33+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "이광훈 한수원 품질기술본부장, 세계원자력사업자협회 '원자력분야 최고 공로상' 수상",
+          "publisher": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPVEJhTWRCVXJ2THJ6WGVvbC1SNEdHUGpzTHZzQW1sRl94bVJwYzQ1WndSNlpUSkZUOFZCdkdHNVFPbU5BVjNBYUxEMXd6Qll1UGl4V3A5aDc1RFRnakVfN09nWUtTclFScHFBTGtZUlFsYTVsYUdUUEp1YmR5UVBuT3FTT3Itamh0UkEybG5zYmxWZlBVc3AtcWt4X29jcU9ENXpuTlVSRTcwVEY1ajNKOV9UZkdvaVA4azh1WVRpUWIzLUJtZWN4RzFtYUdNUWczaE1QbWU5aktXN2x4QUJ4dHRGcFYyNmQ1TkZ2amljZVo0N2hXOVYyR3N0RHJGa2N6LUFpbnc0MnFkNzFKc0g5RTdHNmZBNEtMYXhJdUpMdHlzZ3hKcjZ2YkpRWTFPUQ?oc=5",
+          "published": "2026-10-01T00:42:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 이광훈 품질기술본부장, 세계원자력사업자협회 ‘최고 공로상’ 수상",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tUzllYWoyQzNOb2FFRDN1dk5YbTkyQ0xsejVSSmhaaE11VDZRcHhMT0hFWGxBdWJLMDRJSU5oTjB6YU5qT19iNF9FZXFnZW5iOVA0NVlDY2dPV1VCZFh4d09FM1ZqVTRoTElYT1M5eG05QQ?oc=5",
+          "published": "2026-10-01T00:42:55+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 세계원자력사업자협회 최고 공로상 수상자 배출",
+          "publisher": "etnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kTHAzY2xYTk43UklVVmc2Z0dyZWFOTWlBMHhFVmRITHR2TWxGc3JKMUhOS0EwMnAxdXAya1VNQ3NJMnV0cmlJOUlyUW95dw?oc=5",
+          "published": "2026-10-01T00:59:18+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 이광훈 본부장, WANO ‘원자력분야 최고 공로상’ 수상",
+          "publisher": "뉴스퀘스트",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnSFNjRHg2NzFWbENJUl9RaVBPVl9TUGZRYXRUay1MZkRfVy1vMUl0ZW9IUHhWM1ZSYmxneXkzNU1UQzNjZmFZc21ZWDF1ajJLel9aRHhzcVlnMlFfeWVUODJBTGZ5SjBYMEMyZ2dYRQ?oc=5",
+          "published": "2026-10-01T01:54:12+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "이광훈 한수원 본부장, 세계원자력사업자협회서 최고 공로상",
+          "publisher": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fdFIwYmFzVFoxNTJ0dE5pWVVOZHdLRzhRYUpVS0hHWjNrUVIzd1pOZ0tLaFpPcDhRangwLW9MX2s2LVFjSGRRT2pWTGhpR2FBdmRlbVFCMmRjZERwUUFOTllTSFVtVmRWV2hqS3pSaDVHNDDSAXdBVV95cUxNV285alZsdjNpUk1FR20zTmxFMUtETmZlc2FfSEJRcWtHekU4bTRfSXpVNWdMcVN3SWcxbXFmYWpUMFpaMFlaQ0MwNksxNDhIV2hjdGR0WVBVM3g4N0NQdUhsUnIycUpVNGtleEZONW8tQnBzRy1SMA?oc=5",
+          "published": "2026-10-01T02:34:21+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 이광훈 본부장, WANO ‘원자력분야 최고 공로상’ 수상",
+          "publisher": "한국원자력신문",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sdWgyTFlBb25iTDdiSmVRUEdxWndYYmZRNjhGZmYySjFQZ1c5eEM5R1JVdklrQ1B3TVJleTU0VlZ1YUUzcGd2aHV1VkdMZzVOdnJSZVZGeGxjQXFJMDJNU3p6RXF6SjjSAWtBVV95cUxQT082UGF2eTRKMW1MN3hzdEV1cU5uU181UWh5VVAwcnkxVUt0Sk5uLVVNZWlWOEdjZjkwUTR6WEhzZ0RhX3Q5X3l1RnprWFRfenNUY1I5N2dtN1ZFS3NKTVk4VHo2WFVySVpwQQ?oc=5",
+          "published": "2026-10-01T03:34:38+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "이광훈 한수원 품질기술본부장, 세계원자력사업자협회 최고 공로상 수상",
+          "publisher": "SR타임스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xbGV0YlBoLUs1Z2FkZjNzUm5va1pHdUpvVEg1M3JuVWlKZHZuVl9rSVNiZlFOMGRUMG5aYkw0UllKLWtRcEZXbm52TlJ0ZWV1TWF6TmFSZ1d4RHVpYkRVVlJIZU0tS0XSAWtBVV95cUxPa0piX3FZYjdMNXpVSmJCOEN6eUdvcW9zYnUtMUV6dHExNlVsdkhYeFJwcWVFRFFqbG4zYVpZZTJpTjVicVN4VUVMWnRfWEpBQWgydUloUW1GcG1ObVdabDVBc3NOYk1rbmxySQ?oc=5",
+          "published": "2026-10-01T04:27:48+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "이광훈 한수원 품질기술본부장, WANO ‘원자력분야 최고 공로상’ 수상",
+          "publisher": "경북신문",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TZDlUeGUxOC1VdDRMdVQ2WVFqcWJCOUZZRl9tQjdNM3hWTmV0Mk5LVzRhSVZNX0JQYi0wNUpBQTlFTEZkWngtV1JrTFVhUDd1WWpPTXFMcDY?oc=5",
+          "published": "2026-10-01T05:36:04+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "이광훈 한수원 품질기술본부장, WANO `원자력분야 최고 공로상` 수상",
+          "publisher": "매일신문",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IUVB1TXIxbGFBQ1NYMl9pWFVHbldZNGdPSTlSVkZydlg2ek1ubnh5ek9WU015WmxmbHdtU0pVdG1DcE5OTXNQWlNSZFBQcVJrX1pwcW9XdmYxaVYyN1ozREdn?oc=5",
+          "published": "2026-10-01T05:38:31+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 이광훈 본부장, 세계원자력사업자협회 최고 공로상…9년 만",
+          "publisher": "메가경제",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44TnVqNEtiUC1OZ0pES29ONlFsbHROSy1SNWFscWN5NWgybU53YWZTb2VVckF4dzZoSlRiOUgzMWxaZ18tel9nTGpCZ2VIRWJJa182Y0NQbk4yeTBGNTdGb1Yzc0JDb0tYRU5iZjBFMUtrdjQ10gFyQVVfeXFMTjdLZGJpYTF2eDVkVkxadktjbmhfcFlManFUa0swTWk3SHU1MXpEbTVTdHhlSmdGNHdIWlhOMDdoeXMxN0pLVVVIZmFXZGJKaGthdURNOE1CUnM2OWF6NVJfdHgtOW1hZnJJTEJUQVVJa3JB?oc=5",
+          "published": "2026-10-01T06:43:19+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 이광훈 본부장, 세계원자력사업자협회 '최고 공로상'",
+          "publisher": "헬로디디",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtV2tRaVB3MXkzYWY3enpTUVZnNDByLWNUQWlqU0RXaDNxNk5LS0xEbC0wdUE2YVppQmJrTm53ZS1ud25LVV9mN0hPajVmM3NvYVhqNDlvNHU2dXZKSy16UWk4UjJ4OVlHVkE?oc=5",
+          "published": "2026-10-01T06:50:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 이광훈 품질기술본부장, 세계원자력사업자협회 ‘원자력분야 최고 공로상’ 수상",
+          "publisher": "에너지타임뉴스",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VWGdld1o0UWk5a3gyQS1NVHN5UkVxRHA3WmZRMmlOUk8xT0YwWUJCclh2QmpqcnZKb3RyekdJUi10eUtSLTN0TVQySmdKc2JKSUtMdmFTNjFWS2tpZnh1NWt0YkNfOHRkZlRGaTFCUTJlVGRZaUHSAXZBVV95cUxPVVhnZXdaNFFpOWt4MkEtTVRzeVJFcURwN1pmUTJpTlJPMU9GMFlCQnJYdkJqanJ2Sm90cnpHSVItdHlLUi0zdE1UMkpnSnNiSklLTHZhUzYxVktraWZ4dTVrdGJDXzh0ZGZURmkxQlEyZVRkWWlB?oc=5",
+          "published": "2026-10-01T08:14:35+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 이광훈 본부장, WANO ‘원자력분야 최고 공로상’ 수상",
+          "publisher": "kyongbuk.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YRENhNnBlRERMbTFRQW91M3JmVnBtQ0RvRjlmT2V2NUx6M0J4dlZNLTRLQ3M3Ri1RWndwX0Jvd2ZwckNNLWUzWG04NmRveml2SXRIOUdaZmJZUHlQT2pVLW5ueW9zNUpnVXZDU3JNWQ?oc=5",
+          "published": "2026-10-01T08:48:05+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 이광훈 품질기술본부장, 세계원자력사업자협회 '원자력분야 최고 공로상' 수상",
+          "publisher": "컨슈머타임스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsVzFOaEVmZkZoQUdUN0ZGNkxtdHdTRzZBbjRpSHYwbmpkcWFJN0NFT1lmNGtCMmlrTW9Zd2NlcHJSbWF4cTBrQ1laNXh2VEtIMHRLbDgzNTJjNWlSMGprSXgzclpJMUJyVHc?oc=5",
+          "published": "2026-10-01T10:23:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "이광훈 한수원 품질기술본부장, WANO ‘원자력분야 최고 공로상’ 영예",
+          "publisher": "천지일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44V19lUG95UDRQdlZ1U1k1bFUxYkRoaUoyRjJRREVtUkpiY09GMGpDa3hUZ1JBT0ZIejFGR2pUNzFrRUdzY1FHanBscnV0elZtbzhXVEN0VmduZmE0aFdvX3lEa0JNTHpacVE?oc=5",
+          "published": "2026-10-01T11:16:20+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.499,
+      "id": 4
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 체코 두코바니 원전 보조기기 입찰 본격화 … 국내 130여개사 참여",
+          "publisher": "뉴데일리",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtUXZBX0RWOHFVZjRQTjJJTWlyS2JjSHE0ZmtzTFVyNEFVZWU5TzBhc0ZSajFOb3NhSUZrMjVWSzJvTnhBU2cySzRJOEpyNFhQS1YtVks1bGVsaHhZZC14a0xxdC1yVDlKOWk2Vkk1emMteHg5dDE3blVmSdIBgAFBVV95cUxOS2VoT3pEZUl2QzZDRkV4R0FOQWhCdW80US1VTVQzRV9iQzNFZk1kTHZCS3hCYjFYYVhXV1FSZ3dtNWFxdThRSkhfMXl3cmxWTURQR0psN0dqT1U5ZUh3ZWo3d1BJeUtjRklIeGNMOElxTngwWlk3ZTRsTGlhM0hhZg?oc=5",
+          "published": "2026-10-01T03:04:44+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 두코바니 원전 보조기기 입찰 본격화…국내기업 참여 지원",
+          "publisher": "드림저널",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ERHpFSktCa3RPN0gtampveWlmYzJFM2pjRVUwNW9zcjJkbFl2cV9jTWxDSDZmSkk3aWktdnRycDY2MHZnMlE?oc=5",
+          "published": "2026-10-01T05:04:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 두코바니 원전 ‘입찰’ 본격화…국내 기업 130곳 참여",
+          "publisher": "경북매일",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xNW9vZ1BucDBvYnlhMjE4WlcyMDdsWVpqU2NiOE9vVHktV01UNWoxNUJZd2tBdWw0QjZ2V0kxUkpiUjhrSExHcnVlRDVMbXk0UnQwOVV4WDgzdw?oc=5",
+          "published": "2026-10-01T08:17:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "체코 두코바니 원전 보조기기 입찰 본격화…국내 공급사 130여 곳 참여",
+          "publisher": "한국원자력신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MOWJFOW9TYVBNelk2a3hTZFJFXzJhRno4UFFwTGVTTzJZSzg0SDRPdU41cUQ1QmpyQTJMZGY3Sjl3ZjJpYk9ubnVOZ29JYnNKQjh1MzlVc3hHNVRROUxaMTJsYmV3RFBKNWZR0gFrQVVfeXFMTkw5YkU5b1NhUE16WTZreFNkUkVfMmFGejhQUXBMZVNPMllLODRINE91TjVxRDVCanJBMkxkZjdKOXdmMmliT25udU5nb0lic0pCOHUzOVVzeEc1VFE5TFoxMmxiZXdEUEo1ZlE?oc=5",
+          "published": "2026-10-01T09:04:23+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.407,
+      "id": 5
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원 인재개발원, 국내 교육훈련기관 최초 ‘인공지능(AI) 국제인증’ 획득",
+          "publisher": "KNS뉴스통신",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPRW13cUFlYWNUUGR0WGdzOEsxVlZmMmIycV9VTmRxX3VTNDNtMk94ekFfcEU3OGc3bld2Q1RaZk9NY3JRTXJkeGNNMTZnN0RZUW42TDZ5QXhsQWR6V0NjZUxXcF8?oc=5",
+          "published": "2026-10-01T04:01:58+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 인재개발원, 국내 교육훈련기관 최초 'AI 국제인증' 획득",
+          "publisher": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOU1IzQ2VVclVfMnB4bE1raHIxTXVVaXNiUVBEbm5jNnpXaldXVGZnZjM5NTZjUjljbVJIcWFvTFkzdWJWSl92MkY3dzN5b3JOVEw3YUNXOXZuS1RJU2xkYWF6Mm1YbTlacDk1bEwxSHRnYWNXcF9UTWRtMnpwdVp5MFJtT2VYMUFsb0kxc21TZXVVMERIWndDQklwMHQwOFZIQ0tGVjlCX2F1R2Y1Ti1UNDBUQ0QwQzd1cTdQZHlKVG1naDJhR0czUTdGWjROVDRIaV9NSmE3aU9HRm9aSk5FLXloRTE0WklCbUNJdF9RaTBQUG96dlZ3NkVxVU9sTXphMEpEZTNiOFdBZ0lDcUtsRTlfZzdVMWgzYnk3Zk9ycGlodw?oc=5",
+          "published": "2026-10-01T05:02:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 인재개발원, ‘AI 국제인증’ 획득",
+          "publisher": "주간한국",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsN002U3RUYnkzaVFWZ3RnZU00YzBLczFyN04zbnlabll4aWFkMS1tX1Etc3lld0tBSDBPZ00zLTU1VlJ3bXd0aDJvdDV0cm9JWmI5RW1MdkF0Z0s0Rm1uMkw3dU1peFBBbTNZUERncmtlRWRH0gF0QVVfeXFMUGw3TTZTdFRieTNpUVZndGdlTTRjMEtzMXI3TjNueVpuWXhpYWQxLW1fUS1zeWV3S0FIME9nTTMtNTVWUndtd3RoMm90NXRyb0laYjlFbUx2QXRnSzRGbW4yTDd1TWl4UEFtM1lQRGdya2VFZEc?oc=5",
+          "published": "2026-10-01T05:34:34+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 인재개발원, 국내 교육훈련기관 최초 'AI 국제인증' 획득",
+          "publisher": "뉴스포스트",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01MW4yLWdWcTZUREZTcmtpXzJlSUpGU3BBUmc5dVEzOFB2ZDBXSWlKMy1pRktOVkduM3M0SUNzbGNzV2dna0lLVUdGcTJqVWtVN2JEWW9lZHYzNHhDVXhmWlRva0Fjc1Rw?oc=5",
+          "published": "2026-10-01T07:42:09+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "원전 교육에 AI 들어온다…한수원 인재개발원, 국내 교육기관 최초 국제인증",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52RmxQVzhtcWlDVWc5SlJKcXlmWlFZdm5ZSnZ2TnJlRUsxNkZjc0tzalNmM3JTVVBWUjFjZjRBdjFNNlItaEZIMmdIMW5FeEIxNW54Vk1BX1V6VTRmQU5zU2Y2bEc?oc=5",
+          "published": "2026-10-01T07:47:54+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 인재개발원, 국내 교육훈련기관 최초 AI 국제인증",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LdS1GOEtoeVg3bHV0WXRGREl0MG5nQlNsN01lQkluTWM3YVhaOVc2aGVFVEprcWRfZUtldl91bjFodGFVNXJHY1BSQTZpb2c?oc=5",
+          "published": "2026-10-01T08:35:26+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.387,
+      "id": 6
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원 \"이광훈 본부장, WANO ‘원자력 최고 공로상’ 수상\"",
+          "publisher": "글로벌이코노믹",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWXZMR1VJX2JRM3JwR3BZWGNLdTVOSWRBQnRiVklVY01EdHJBMkRmZV9FS0hFM21qWXJjQTJNeTEyZEVJbkZWMW9taEJQLUNyZHd5RVEwejdrelJoamFzNmREZVNwZzdNOTB0ZjhFTmRkWHRHTURvQjBwY0lreWR4a1haQTVTRVhXeEE?oc=5",
+          "published": "2026-10-01T01:23:13+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 이광훈 본부장, WANO 최고 공로상 수상… 35년 원전 현장 경험 인정",
+          "publisher": "Korea IT Times",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSOUVOcS1Tei1qcDJmOU1ZMVZRLWQ2ZXBfSlRQMkZDZW1ualF3c1EzTVJoWTVDRHJCVks0N3FBOVoyUHhJTHBscHNIOFFNb2taSnlVTDU0MmFoOHhVQk9jQ05HakJIb3hrVFFVOFZSbw?oc=5",
+          "published": "2026-10-01T04:17:37+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "이광훈 한수원 본부장, WANO '원자력 최고 공로상' 수상",
+          "publisher": "일간투데이",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fTXJMUHlqYS1XNmxoMFY2Wjl6bDFnVTBWU0Y5VExMaWxnZHI4WEdUOTNSS1oxcTRackVyWWhrc1BKUndkTERPOGpHb0RlVGNjVjQzbE04dGhXSWZ5Yy1hc0Z2bE4xT2xaZmZz?oc=5",
+          "published": "2026-10-01T04:25:30+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "이광훈 한수원 품질기술본부장, WANO 최고 공로상 수상",
+          "publisher": "주간한국",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13bnpTNW8tdkU3dzA0T2RLOENUeVVqTkFDM3RpTGlWV0FoVmRZZ2NsQmdaelE3Wm1CRmFZQ0ZpNktmbHRCbXFpT1RFSHJHTFFqcm5vaFVoZkhoWnljYVlHZFlhYTZMcEotTE5JSi04MGV0WDBT0gF0QVVfeXFMTXduelM1by12RTd3MDRPZEs4Q1R5VWpOQUMzdGlMaVZXQWhWZFlnY2xCZ1p6UTdabUJGYVlDRmk2S2ZsdEJtcWlPVEVIckdMUWpybm9oVWhmSGhaeWNhWUdkWWFhNkxwSi1MTklKLTgwZXRYMFM?oc=5",
+          "published": "2026-10-01T05:34:35+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.262,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "South Korea to invest in U.S. nuclear projects, including 8 large reactors",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-01/article-8453/south-korea-to-invest-in-us-nuclear-projects-including-8-large-reactors/",
+          "published": "2026-10-01T21:15:21+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.915,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Amazon, Constellation partner for Calvert Cliffs uprate",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-01/article-8452/amazon-constellation-partner-for-calvert-cliffs-uprate/",
+          "published": "2026-10-01T17:47:03+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.77,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "BWXT secures $189M contract for U.S. naval nuclear reactor fuel",
+          "publisher": "tradingview.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUUZzdS1OREtVRVN3Y2s0d29jaC10ZUJCbHVicEthdVdNYzBuSlJDU3NpYWtBWFQwOEpidjhFSElHYW03cjE2dGctY0owWDRfUDZ0cVRWSVpNR080ejl4cnp3UnpIdnBHRkhiWlpIVzM0N1ZhVVl4OGNfZGN1eExDVmZyX3pQQUg3am5IWk5XbkFhVUFBYkZhMXBza0FXNzFlT1R2MGk1a1A3WGxVWmZQLUE5N05rSzRLYWpYWkROWlVidw?oc=5",
+          "published": "2026-10-01T12:06:44+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "BWXT secures $189M contract for naval nuclear reactor fuel By Investing.com",
+          "publisher": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPalZNR3hhRzRkWDY5RDZZVFRZeFZTTzN2UDBYNFZJcTBpWkR0azdHVzlTQlROa1QwaDVxY0tKdkJ3UHppN0lTM25OcDQtYUR3NEFrX1h2bG1kb2U5MXV5cFZTZXhTaHRTdDJZZUc4X3dTVUtPcFFkUmhvdXgzNEJ3TGR4TGw5Q0NQYWd2UW5BaHYxYkJUYlRXUG5PdHprVUc2ckZkYzVMN3BGSlBUb3BHU3BQMjc2aDQtOXc?oc=5",
+          "published": "2026-10-01T12:12:39+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "BWXT secures $189M contract for naval nuclear reactor fuel By Investing.com",
+          "publisher": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNmRiNFVpX1RpcmdWblEyb3RmS3RxazZSMFZnS3Bjc3FLd2l1ZHBTTTFJLUh1RVQzVjZJQzRpcG5ybXJQVjl4RFhzeExaMnluX21tU2lhdUVxb3M2VVdSX25tVkxLZkNDMUQ0ZVBKUWo5c3ZSdnVyNklCSlpTWUlWTnhQWUk1bkwzWmY0cFo2ZTAyUkxobXVEZ2F5dkxiaWxyMEZkS1lTNmNhWnpVZWZsc3BzSFFsQll3cnc?oc=5",
+          "published": "2026-10-01T16:54:52+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.734,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Study finds a better way to separate zirconium and hafnium",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-01/article-8451/study-finds-a-better-way-to-separate-zirconium-and-hafnium/",
+          "published": "2026-10-01T14:39:13+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.64,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Up next: 2026 ANS Winter Conference & Expo",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-01/article-8450/up-next-2026-ans-winter-conference-expo/",
+          "published": "2026-10-01T12:14:12+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.539,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "USA, South Korea targeting six AP1000 and two APR1400 units",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/usa-south-korea-targeting-six-ap1000-two-apr1400-units",
+          "published": "2026-10-01T12:08:45+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.535,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Four key issues when building nuclear in different countries, according to Rosatom",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/four-priority-issues-building-nuclear-different-countries-according-rosatom",
+          "published": "2026-10-01T08:43:37+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.393,
+      "id": 14
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "'K-원전' 미국 진출 시동…원전수출기획위, 대미투자 후속 논의",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9za0sxQUtSTlV1ZlIyRllwaWFvYTl0NlVoa2w3Zkd3bzJLN05tNFNqRklJdDM2Q1lnanpkQ3NyY3MtVDBPblE?oc=5",
+          "published": "2026-10-01T07:23:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "'K-원전' 미국 진출 시동…원전수출기획위, 대미투자 후속 논의",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1VV90VDNRWXZEeW5uOTZvOVFCa29BR20zSm5fVkVaUUN1ZHpZZk94emRkNm5XYnEzOTVTQUZWLTZOeVFhQnJtVGplYw?oc=5",
+          "published": "2026-10-01T07:48:04+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "팀코리아 K-원전 美 진출 시동…원전수출기획위, 대미투자 후속 논의",
+          "publisher": "디지털데일리",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KTFZpc0xILXpaaS16SFpETVh3S0NTUGVqeU1lTXV2YjFYdWJzZVU1U24tM3VWVnEtclItcWVkY0pLNGxtemZET1EtcEhJaFpaM2RqZHQ2bUpEa0RMVW00WkhLVC0?oc=5",
+          "published": "2026-10-01T08:21:40+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.378,
+      "id": 15
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Hinkley Point C completes 620-metre tunnel for fish",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/hinkley-point-c-completes-620-metre-tunnel-for-fish",
+          "published": "2026-10-01T08:02:22+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.364,
+      "id": 16
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "WANO stresses importance of collaboration for nuclear growth",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/wano-stresses-importance-of-collaboration-for-nuclear-growth",
+          "published": "2026-10-01T07:43:39+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.351,
+      "id": 17
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Missouri releases 2026 energy plan focused on nuclear power",
+          "publisher": "FOX 2",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUGE1TEVoSGFxcENyTE81UzVoRklLWlhZTlRPVEtTcjFxS1BZVnpEb2RlVDRMakk5TmRWa2twR2ZFYVc2MllUdUpfRFFxUWhNcUlhN2dRTS1yYXNJZTJRbnMwdndITDZwcWNBZHVnaGY2MnpFZ2ZtRUI3c1ZhQmd6TXhmWXZ2aWNOdGQ4bVBCUUM3WWp6RmFpb0J30gGfAUFVX3lxTFBOdW9XSFZLdXZDcnRBcmpUcEtzTHcyME5LcDdKU0xDYndCZjFhS3pNd2huWkJsSzNJZktUdjc2QTZNSmltMzdjYWpjRW80VWZRZktnbWM0cFYtN083U29FLTN5NGVneTJzYXY5bG81N3l2YXlaNFJpYlhMS0N6LVdCekpDdnZRTXVsLTNBTG9yQ2VtQW90N1ZSOFZWVXpiRQ?oc=5",
+          "published": "2026-10-01T22:01:05+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Missouri releases 2026 energy plan focused on nuclear power",
+          "publisher": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWW4tdURFeG51aXhRTTBzQTRVb3JlS25QdVNrR0xHMGl0WkNGZm1oZEhGbm5jdE9RSkItLTF0NlVBdWhUWXNGS0FhMGVTeElub04xWXI1aFZ5ZnJMMFRlc1Z1Wjc0UUZVOGd3c2RvN19JNWpuY0RkaUhxZnFuV2R1RlBJQno?oc=5",
+          "published": "2026-10-01T22:01:55+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.947,
+      "id": 18
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Amazon signs PPA with Constellation for Maryland nuclear plant",
+          "publisher": "Data Center Dynamics",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZGtxQlMtTmZhSUZoUmFIOC0xNTBVWHkybGpIbGVhN2FPZFRrSy1ZOWNOaVVqZkZjSDBaT2JBdk14ekR1WF82R012QlNTWlhFYXdwb3lkcHhmUzNvUzN4YjkybFJvVWFpdUo2bTF1RHVmUDE3UHpjZnFveFRDbDFUQWlHWHQtOEp4bXNkb041M0JvQm9MY1BJa2cwNVV2YXBHZGwwUW9xNVBadw?oc=5",
+          "published": "2026-10-01T12:20:41+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Constellation and Amazon Plan $3B Investment in Maryland Nuclear Plant",
+          "publisher": "Construction Review",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRFVGWER4X19MaTl1REp3Wkpwbmx1SkpJek9lVnY2SEpxZWFmSTQ3QlZHVEowb2hxc1RTUEF5NlZvTWczOXBRVkttT0pWUHNCeV9JY3pBVGlQMXRuMnliUkpSWXpSMGRqbGZzeThqMUxUMVdoX0tQYTkzdGFnRng0NjdCdXk4azFnbjJMRnJWQ0FqWllVeGJoQnFlOTA0a2lIYmNOVmZtZ2JicUk?oc=5",
+          "published": "2026-10-01T20:25:24+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.88,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "李대통령 \"알래스카 LNG, 상업성 전제로 착수…원전도 보장돼야\"",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82VUdiek0zQjZBdmF6TmNPQlh6azZwbzhHSlh3ck1YMFJ2ZkRuSzZib19xQkRaUEZDcTRWUEE3bFFLSENaZXMtVWtMdm4xNkhRZUhXTVVhbHoyaFnSAWBBVV95cUxPdTNRWDl3dHJ6MWdGdXRFaG83TjltNEhVLTIyZDIxNHczTS1RdV9od0g4QXpNYTZCQnRjazVNU2s1SldNVFJIdmNSMjNiRk1UMm50eVM1OWtFZGJmUXpDNW4?oc=5",
+          "published": "2026-10-01T02:54:38+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "이 대통령 \"알래스카 LNG, 상업성 전제 착수...원전 보장돼야\"",
+          "publisher": "ytn.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhY0ZYUnhsdlJfam5RWjhxa2FTc2tJNTNPdDd6eWtaOTQ5QTFXWHQtTDdham56Vm1qbERFYTc1QTFCMFpsWFJ0ZG9WVjN2d24zWHdoMEpaRUItMWxSNTEybkhGNnd4Y0FUVHVqeGRMNzlTeXc1aEE?oc=5",
+          "published": "2026-10-01T20:11:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.87,
+      "id": 20
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Constellation Stock Rises as Amazon Backs Nuclear Plant Expansion",
+          "publisher": "Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcFpSQ0JBZG1xeHRuR1NQLWN6c2k2TGlQYzQtTnlsd1dOd0JiYnpOY2RBSVdjYXlHRWI5azVJMm9CcmNZaWpDYXI4OWhBajFxNUd2MC1nS1ppVmFhQkpuZFBkOEpqd0x6OTdDTlBlaUN6Yko5OV9NdHFNNEgzRk9zQW1yZGhzRHkxSGtYa1hCWEFWaFgxSlNReExtTXlvVTlKUERCbTBlUjZkNE9Ub2c?oc=5",
+          "published": "2026-10-01T00:38:48+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Amazon, Constellation sign 20-year PPA to expand Maryland nuclear plant",
+          "publisher": "ESG Dive",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZnFoS2RRaFVyWU5NYlN2Y3Q2RkJlcVdVVmwwRzJhTVotMlJ2UUtHZmRfRHNlem5iRDR4MVZ2M2o5NndoTVNyNFd1S0FoUEpoN2Z6MVBaZGpFRmtvNTFGdzc0T3lsNEl4WXZhUVpuNkJoUmY3c2FhT3hZR0lnQmdLdUlaSWxJaVNhQ0tzSXRlUTFlVFBfaHNYR19qZGRUNWtRSzk1WmNHeXNGRzA?oc=5",
+          "published": "2026-10-01T20:03:06+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.865,
+      "id": 21
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "고리원자력본부, 「KORI-ON 지역상생 아카데미」 개최",
+          "publisher": "영남신문",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1naEhheUEzZkc3bGhwcFpOUnhLSDZ2ZWtudHBGMTJNOUdJanNXRGxqMDdVSWtERG1JcTJNVVp6ZE13eFp6aktpUUpnTWN2Vmt2cjA2dXoyZ2NtZ3RyWGN0QlJ2Z0hFRG5zaG9tT3JR?oc=5",
+          "published": "2026-10-01T11:12:57+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "고리원전, ‘KORI-ON 지역상생 아카데미’ 개최",
+          "publisher": "발전산업신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzQ2hsOVZGa2tRSktFS0ozVWV0ZS1SN2x5OFJNNEdYNTU1NHk4eVFjYzNQOUk2eHQ5Qm1hY1NOamh1TnJtenJ6aVZvQVZ4YjVzYk9lWkY0V0JLdG1JWGNmQ3VWeEdOVVRj?oc=5",
+          "published": "2026-10-01T13:34:18+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.595,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "대미투자 핵심 ‘원전’…1200억달러 투입, 한국형 등 8기 건설",
+          "publisher": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11bDNieW1pdW1vNllzaW9BNTBaMzRKVE1ZcDhrd09xekZqSXNIejJnYnpYeU5SM0dhUGpNUTl4ZEo0eUpBSGN3b3RxNkZqYWFPRkdkVEw5cTM4TzR0d2s40gFfQVVfeXFMTXVsM2J5bWl1bW82WXNpb0E1MFozNEpUTVlwOGt3T3F6RmpJc0h6Mmdielh5TlIzR2FQak1ROXhkSjR5SkFIY3dvdHE2RmphYU9GR2RUTDlxMzhPNHR3azg?oc=5",
+          "published": "2026-10-01T13:13:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "대미투자 핵심 ‘원전’…1200억달러 투입, 한국형 등 8기 건설",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wUlFQTmRBSUpLemY1ZXVUU1VsOXduemttS1RoMFpTbzZiRDBQY2s3RFQ4QkhpODdiMnVybFQ2ZFpWcTc5bzU1MXNLUE44WDA?oc=5",
+          "published": "2026-10-01T13:15:42+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.582,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "미국 땅에 ‘한국형 원전’ 첫 진출…연내 100억달러 선투입은 논란",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBITDVTbEhVSDdrcEFfd2pOYUN6WVpDb0xpR0YyZDVKOXMwZDc2Mjlyc0JwOEs4SmRHaVdVWlRWV3V6VVUwZUE?oc=5",
+          "published": "2026-10-01T09:21:47+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "미국 땅에 ‘한국형 원전’ 첫 진출…연내 100억달러 선투입은 논란",
+          "publisher": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmbHNZWjlrS0RVNkN6QXlYSFRMQVFSZ285dFJtTUVObEVzejlVdVFrR1NTTDlEZllrQk1UaDFGSEc5X2E5VEZROWVwOHBtRFA3bU14bGtQaGpxcXFyRHRaeWJndWhqQXpkZWc?oc=5",
+          "published": "2026-10-01T13:09:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.577,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "우크라이나, 원전 옆이 더 안전하다고?",
+          "publisher": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TLWpaSklnYkV2aFNuaU5SQWFlWk8xaFFiZEd6TThhOUpUMGlwUEExZXF3MjE4ZzNpUU9fbjI2cXdYaVR0UFd5VUN3VFA3aVk0eFdPMmlBeUdrOTlxeXBMSGI0Mi1NQQ?oc=5",
+          "published": "2026-10-01T10:38:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "우크라이나, 원전 옆이 더 안전하다고?",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1aWFJNQzhvZlZLcmEzZk9KbllySTlPRl9rSXhwdWZnZjFpRVJaU24xY0Q1M0l0SDk0bFp1b3pINERhbVlLWHByMXp0Ym12Tzd6ZXBxUQ?oc=5",
+          "published": "2026-10-01T10:43:19+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.476,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "50년 만에 미국 역수출 한국 원전…웨스팅하우스 지분 인수도 추진",
+          "publisher": "중앙일보",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NdTFPenBSbU9MRzVISUR2MnlUTWJiMjM2Vm9IU25RTWJfMFo2bThha3NFT3ZUMUZhMVd0MDhPOU1nbTZhU3pILXNWZGMtT2tIYjRZZkZn?oc=5",
+          "published": "2026-10-01T09:07:18+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "50년 만에 미국 역수출 한국 원전…웨스팅하우스 지분 인수도 추진",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBYd2ZjUEpXS0FIMzFlOU5CWkFKTFJxNFhsNUZjNWxobnlGMUxCN3ZlRTduck9oS2E1Z01iWjFJVWJ4SUNWR2h5ZllYOHZVUU0?oc=5",
+          "published": "2026-10-01T09:09:13+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.411,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원자력안전위원회, 베트남과 원자력 안전규제 경험 나눈다",
+          "publisher": "서울Pn",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xWnhadnlxbzh4bFVLcW9KYUx5ZEZKSF9pcHlWd3c2V0dzTlQzSVNLeVZmZDVmR1p6dWZDVWZOWjBRZTBHZks5eTNOR0JGQU9xLTZfWm56TmRxRmZvLVBRVGhn?oc=5",
+          "published": "2026-10-01T07:02:09+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "원자력안전위원회, 베트남과 원자력 안전규제 경험 나눴다",
+          "publisher": "에너지타임뉴스",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hZ3Y5YjhXbzhPY01DNnZId0ZGUnRCVjJCdjlQTVFPOTR5akhvMGZ3U05SZlFDQzQwemlUQTZVYkJiQ0luNTU0TmJvVDRQTUlKQW4xc1RwWDZjeWhIbmlpREFVU3VlaGVVMmZEMUN4cFlReTZrYmfSAXZBVV95cUxPYWd2OWI4V284T2NNQzZ2SHdGRlJ0QlYyQnY5UE1RTzk0eWpIbzBmd1NOUmZRQ0M0MHppVEE2VWJCYkNJbjU1NE5ib1Q0UE1JSkFuMXNUcFg2Y3loSG5paURBVVN1ZWhlVTJmRDFDeHBZUXk2a2Jn?oc=5",
+          "published": "2026-10-01T09:03:18+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.407,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한전, 체코 원전 보조기기 입찰 절차 공유 등 지원",
+          "publisher": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNNVM5My1DYUdqRXBHYUJtbTJxWndBM3l2dEotdGc1aGtnbEhQLWxrNEs3NEpTOFY3QnEwWWpTYjJpQXZaVzY5UG11X2QxbEtRV0p6YjJKTkZkOXZPTVVtQ20tbW5PWndycUJQVXVxMEZIWHdfcVhr0gF3QVVfeXFMUE01UzkzLUNhR2pFcEdhQm1tMnFad0EzeXZ0Si10ZzVoa2dsSFAtbGs0Szc0SlM4VjdCcTBZalNiMmlBdlpXNjlQbXVfZDFsS1FXSnpiMkpORmQ5dk9NVW1DbS1tbk9ad3JxQlBVdXEwRkhYd19xWGs?oc=5",
+          "published": "2026-10-01T02:51:10+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 원전 보조기기 입찰 절차 공유",
+          "publisher": "한스경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfYlN2eUswTWZxazlUTHhvYlA0WmVURnJMaEVlUTBoa0FMVkllVEtWbFpDc0U4VHRBNEh0OVFSOGMxcU84Zzg2OWNpeVRpcV9RMTZ2TllLUjlpNmU3ZTYtcU5RVW1uS2ZpdEUtctIBb0FVX3lxTE02dWllZ3BQOXpoZW43SzNsX0ZfX1JLNWlzSEllSzBNckNydEJZUDdQaUZGUHZzSnlJZ0pyd1dReFE5UnpyZFp2REVodHZVcVQwWEpuR3ZnVmZPZnhfRUo2RGlVRXQzazhzUXo5Z1R4cw?oc=5",
+          "published": "2026-10-01T08:03:27+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.365,
+      "id": 28
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원안위, 베트남과 원자력 안전규제 협력 강화 방안 논의",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LcGVZWk5TNUdPbFo1c3RWQmE4UmRBVnlTeWdCN2Z6YXBnSmp5VnU0Qm8xSWgyY290MlBYRG1IUlByLWRaWGxKWTRmYlp6ZEJGYXRBVmEzcjQyZGtmZWo1XzdXT251dVNJdkNfVWo0TVNXdw?oc=5",
+          "published": "2026-10-01T06:20:55+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원안위, 베트남과 원자력 안전 규제 협력방안 논의",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CRGZqbWhFNVhSUEVLMzJWaTljbWFCWjdUVHZnRDZLVW5UTTM2OVgxNWNFVmxwa1Q4QUV1U3gwcENteEFmYzFFaXJEazZ6Sms?oc=5",
+          "published": "2026-10-01T07:43:47+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.351,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 96
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 87,
+      "kept": 71
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 100,
+      "kept": 91
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 45,
+      "kept": 5
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 4
+    }
+  }
+}

@@ -1,0 +1,918 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-21T20:09:51+00:00",
+  "engine": {
+    "engine": "claude-code-session",
+    "briefed_at": "2026-10-21T21:51:39+00:00"
+  },
+  "overview": "오늘은 국내에서 사용후핵연료 건식저장시설을 둘러싼 원전 소재 지자체의 지원대책 요구가 이어졌다. 해외에서는 웨스팅하우스의 핵연료 공장 투자, 미국 켄터키와 인디애나의 신규 원전 구상, 방글라데시 루푸르 원전의 우라늄 반입, IAEA의 바라카 원전 점검 평가가 눈에 띄었다.",
+  "stories": [
+    {
+      "source_ids": [
+        1,
+        2,
+        18,
+        24,
+        25,
+        28
+      ],
+      "region": "국내",
+      "category": "핵연료·방사성폐기물",
+      "importance": 3,
+      "headline": "사용후핵연료 건식저장시설을 앞두고 원전 지자체들이 실질적 지원책을 요구",
+      "summary": "기장군수가 사용후핵연료 건식저장시설과 관련해 주민에게 돌아갈 실질적인 지원대책을 마련하라고 촉구했다. 경주시는 원전이 있는 다른 지자체들과 함께 같은 취지의 요구를 했고, 영광군 등 원전 소재 행정협의회는 고준위 폐기물에 공동 대응하기로 했다. 기장군은 원전 부지 건식저장시설에 대해 지역 협의체를 만들자고도 제안했다.",
+      "background": "원자로에서 꺼낸 사용후핵연료는 붕괴열이 크기 때문에 먼저 발전소 안의 습식저장조(물을 채운 수조)에서 수년간 식힌다. 저장조가 차면 열이 충분히 줄어든 연료를 금속 용기나 콘크리트 구조물에 넣어 공기의 자연 대류로 식히는 건식저장으로 옮기는 방식이 널리 쓰인다. 건식저장은 펌프 같은 능동 설비 없이 열을 내보내는 피동 방식이라는 점이 특징이다. 다만 영구처분장이 없는 상태에서는 이 시설이 임시 저장을 넘어 오래 머물 수 있다는 우려가 지역에서 나온다. 그래서 저장시설의 안전성과 함께 지역에 대한 보상, 의사결정 참여가 함께 논의된다.",
+      "why_it_matters": "사용후핵연료 관리는 발전소 운영의 기술 문제인 동시에 사회적 수용성 문제다. 공학적으로는 용기의 열 설계, 차폐, 임계 안전, 장기 건전성 평가가 핵심이고, 이 설계가 인허가에서 어떻게 입증되는지가 지역 신뢰와 연결된다. 오늘 기사들은 지자체가 시설 자체보다 지원대책과 협의 구조를 요구하고 있음을 보여 준다. 여러 지자체가 함께 움직인다는 점은 고준위 폐기물 정책이 지역 간 공통 의제가 되었다는 신호로 볼 수 있다. 앞으로는 저장 용량 확보 시점, 임시저장의 기간 한계, 지역 협의체의 권한 범위가 관전 포인트다. 기술자는 안전 논증을 비전문가에게 설명하는 일까지 업무의 일부가 될 가능성이 크다.",
+      "concepts": [
+        {
+          "term": "붕괴열",
+          "explain": "원자로가 멈춘 뒤에도 핵분열 생성물이 방사성 붕괴를 하며 계속 내는 열이다. 사용후핵연료를 식혀야 하는 이유다."
+        },
+        {
+          "term": "건식저장",
+          "explain": "사용후핵연료를 물 대신 공기로 식히는 금속 용기나 콘크리트 구조물에 보관하는 방식이다."
+        },
+        {
+          "term": "고준위 방사성폐기물",
+          "explain": "사용후핵연료처럼 방사능과 열이 높아 오랜 기간 격리해야 하는 폐기물이다."
+        }
+      ],
+      "question": "영구처분장이 확정되지 않았을 때, 건식저장시설의 저장 기간을 정하는 기준을 공학적으로 어떻게 세워야 할까?",
+      "study": [
+        "붕괴열",
+        "건식저장 용기 설계",
+        "고준위 방사성폐기물 관리"
+      ],
+      "reference_ids": [
+        "nssc",
+        "kins",
+        "oecd-nea",
+        "nuclear-db"
+      ]
+    },
+    {
+      "source_ids": [
+        5
+      ],
+      "region": "해외",
+      "category": "핵연료·방사성폐기물",
+      "importance": 2,
+      "headline": "웨스팅하우스가 미국 내 LEU+ 연료 공장에 10억 달러 투자",
+      "summary": "웨스팅하우스가 미국에 짓는 LEU+ 연료 공장에 10억 달러를 투자한다고 World Nuclear News가 전했다. 후보 목록에는 제목 외의 세부 내용이 없어 공장 위치나 일정은 확인되지 않는다.",
+      "background": "현재 대부분의 상용 경수로는 우라늄-235 농축도가 5% 이하인 저농축우라늄(LEU)을 쓴다. LEU+는 이보다 조금 높은 5~10% 구간을 가리키는 말로 쓰인다. 농축도를 높이면 같은 연료로 더 오래 운전하거나 연료 집합체 수를 줄일 수 있다. 다만 농축·성형가공 시설은 높은 농축도에 맞는 임계 안전 설계와 인허가가 따로 필요하다.",
+      "why_it_matters": "연료 공급망은 원전 운영의 기반이다. 제목 기준으로는 연료 공급을 국내에서 확보하려는 투자로 보인다. 농축도가 올라가면 노심 설계에서 반응도 제어, 연료봉 내 압력, 사용후핵연료의 열과 방사능이 달라지므로 안전 해석을 다시 해야 한다. 사고저항성 연료나 연소도 증가와 함께 논의되는 경우가 많다는 점도 눈여겨볼 만하다. 구체적인 공장 사양은 후속 보도를 확인해야 한다.",
+      "concepts": [
+        {
+          "term": "농축도",
+          "explain": "천연 우라늄 중 핵분열이 잘 되는 우라늄-235의 비율을 높인 정도다."
+        },
+        {
+          "term": "연소도",
+          "explain": "연료 단위 질량이 뽑아낸 열에너지의 양으로, 연료를 얼마나 오래 쓰는지를 나타낸다."
+        },
+        {
+          "term": "임계 안전",
+          "explain": "핵물질을 다루는 시설에서 의도치 않은 연쇄반응이 일어나지 않도록 하는 설계와 관리다."
+        }
+      ],
+      "question": "농축도를 올릴 때 노심 설계와 연료 공장 인허가에서 각각 새로 확인해야 할 안전 항목은 무엇일까?",
+      "study": [
+        "우라늄 농축",
+        "연소도",
+        "임계 안전"
+      ],
+      "reference_ids": [
+        "wna-library",
+        "doe-ne",
+        "nrc-factsheets"
+      ]
+    },
+    {
+      "source_ids": [
+        7,
+        15,
+        17
+      ],
+      "region": "해외",
+      "category": "정책·산업·수출",
+      "importance": 2,
+      "headline": "The Nuclear Company가 켄터키주에 6.6GW 규모 원전 단지를 제안",
+      "summary": "스타트업 The Nuclear Company가 켄터키주 루이스 카운티에 6.6GW 규모의 원전 단지 Prosperity One을 제안했다. 여러 매체가 이를 보도했고, 후보 목록에는 노형이나 인허가 일정에 관한 내용이 없다.",
+      "background": "6.6GW는 대형 원전 여러 기에 해당하는 용량이다. 새 부지에 원전을 짓는 사업은 부지 조사, 환경 영향 평가, 건설·운영 허가, 지역 및 전력 계통 연계 협의를 거친다. 이런 단지는 흔히 한 부지에 여러 기를 모아 건설과 운영의 규모 경제를 노린다. 제안 단계는 아직 허가나 착공과는 거리가 있다.",
+      "why_it_matters": "이 소식은 데이터센터 등으로 늘어나는 전력 수요를 겨냥한 대규모 원전 구상이 민간 스타트업에서도 나오고 있음을 보여 준다. 다만 제안과 실제 건설 사이에는 노형 선정, 자금 조달, 인허가, 공급망, 인력 문제가 있어 일정을 낙관하기 어렵다. 여러 기를 한 부지에 짓는 계획은 공용 설비와 냉각수, 송전망 설계가 핵심 쟁점이 된다. 후속 보도에서 노형과 허가 신청 시점이 공개되는지가 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "GW",
+          "explain": "기가와트, 10억 와트. 대형 원전 1기는 대략 1GW 안팎이다."
+        },
+        {
+          "term": "부지 인허가",
+          "explain": "원전을 지을 땅이 지진, 홍수, 인구 분포 등 기준에 맞는지 심사하는 절차다."
+        }
+      ],
+      "question": "한 부지에 여러 기를 모을 때 안전 면에서 이점과 위험은 각각 무엇일까?",
+      "study": [
+        "다수호기 부지 안전",
+        "원전 인허가 절차"
+      ],
+      "reference_ids": [
+        "nrc-advanced",
+        "wna-library"
+      ]
+    },
+    {
+      "source_ids": [
+        13,
+        14
+      ],
+      "region": "해외",
+      "category": "SMR·신형로",
+      "importance": 2,
+      "headline": "인디애나주 신규 원전 사업에서 인디애나 미시간 전력이 타당성 조사에 참여, CANDU 검토도 거론",
+      "summary": "Indiana Michigan Power가 인디애나주에서 제안된 원전 사업의 타당성 조사를 돕는다. 별도 보도에서는 이 사업에서 참여자들이 CANDU 원자로를 검토할 예정이라고 전했다.",
+      "background": "CANDU는 캐나다에서 개발한 가압중수로다. 중수를 감속재와 냉각재로 쓰기 때문에 천연 우라늄을 연료로 쓸 수 있고, 운전 중 연료를 교체할 수 있는 특징이 있다. 미국의 상용 원전은 대부분 경수로이므로 중수로 도입은 인허가와 공급망 면에서 새로운 부담이 된다. 타당성 조사는 건설 전에 기술, 경제성, 부지 적합성을 가늠하는 초기 단계다.",
+      "why_it_matters": "미국에서 경수로가 아닌 노형이 후보로 거론된다는 점은 노형 선택이 다양해지고 있음을 보여 준다. 중수로는 연료 농축 시설에 덜 의존하지만 중수 확보와 정비 체계가 필요하다. 미국 규제기관이 중수로를 심사한 경험이 적다면 인허가 기간이 길어질 가능성이 있다. 이번 소식은 검토 단계이므로 실제 노형 선정으로 이어질지는 지켜봐야 한다.",
+      "concepts": [
+        {
+          "term": "중수(D2O)",
+          "explain": "수소 대신 중수소가 든 물로, 중성자를 덜 흡수해 천연 우라늄으로도 연쇄반응을 유지하게 해 준다."
+        },
+        {
+          "term": "가압중수로",
+          "explain": "중수를 가압 상태로 유지하며 감속재와 냉각재로 쓰는 원자로다."
+        }
+      ],
+      "question": "천연 우라늄 연료를 쓸 수 있다는 중수로의 장점이 미국 시장에서는 얼마나 큰 의미가 있을까?",
+      "study": [
+        "CANDU",
+        "감속재",
+        "타당성 조사"
+      ],
+      "reference_ids": [
+        "wna-library",
+        "iaea-pris"
+      ]
+    },
+    {
+      "source_ids": [
+        8
+      ],
+      "region": "해외",
+      "category": "안전·규제",
+      "importance": 2,
+      "headline": "IAEA, 바라카 원전의 드론 공격 대응이 효과적이었다고 평가",
+      "summary": "World Nuclear News는 IAEA가 바라카 원전에 대한 드론 공격 상황의 대응이 효과적이었다고 밝혔다고 전했다. 후보 목록에는 피해 규모나 대응의 세부 내용이 없다.",
+      "background": "원전의 방호는 물리적 방호, 비상대응, 안전계통의 다중성으로 이뤄진다. 외부 위협이 있어도 원자로를 안전하게 정지하고 냉각을 유지하며 격납 기능을 지키는 것이 기본 목표다. 국제적으로는 IAEA가 평가와 권고를 통해 각국의 대응 체계를 지원한다. 드론은 기존 방호 설계에서 충분히 가정하지 않았을 수 있는 새로운 위협 유형이다.",
+      "why_it_matters": "제목 기준으로는 IAEA가 비상대응 체계가 의도한 대로 작동했다고 본 것으로 보인다. 공학도에게는 안전과 보안이 맞물리는 지점을 볼 기회다. 외부 전원 상실, 비상 디젤 발전기, 냉각 유지 같은 안전 기능이 위협 시나리오에서도 유지되는지가 평가의 핵심이다. 앞으로 드론 방어 설계 기준과 훈련 체계가 어떻게 바뀌는지가 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "다중성과 다양성",
+          "explain": "같은 기능을 하는 설비를 여럿 두고(다중성) 서로 다른 방식으로 만들어(다양성) 한꺼번에 고장 나지 않게 하는 설계 원칙이다."
+        },
+        {
+          "term": "설계기준위협",
+          "explain": "방호 설계가 대비하도록 정한 위협의 종류와 규모다."
+        }
+      ],
+      "question": "드론 같은 새 위협을 설계기준에 반영할 때, 안전계통의 어떤 부분부터 점검해야 할까?",
+      "study": [
+        "원전 물리적 방호",
+        "설계기준위협",
+        "비상대응"
+      ],
+      "reference_ids": [
+        "iaea-ines",
+        "nrc-factsheets"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Hungary is considering replacing Rosatom in the Paks nuclear power plant expansion project - media",
+          "publisher": "Українські Національні Новини (УНН)",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcTcxMjRkMUFtTnRmdnp1QmVneVNIam1XVVhwWkcwWEdPN3F4SE1xR0I4Y0lVcjlBUmRMMHpLUlpWZDVhREZjX1d6MF9QVjZzMmQ1Tk5kWXRFTUVZQ2JvNzU3QV9NZU1wdnhUeHJ1cUxDYkxvdE1NZEZMUDA5UVFZNXRyV3JZN1Rvb1FSalZyUzQ1QkY4aWxTSWhjSDNkaFR6YnNDbDRhT0lkT1VQOGkxdE91TdIBswFBVV95cUxNcTcxMjRkMUFtTnRmdnp1QmVneVNIam1XVVhwWkcwWEdPN3F4SE1xR0I4Y0lVcjlBUmRMMHpLUlpWZDVhREZjX1d6MF9QVjZzMmQ1Tk5kWXRFTUVZQ2JvNzU3QV9NZU1wdnhUeHJ1cUxDYkxvdE1NZEZMUDA5UVFZNXRyV3JZN1Rvb1FSalZyUzQ1QkY4aWxTSWhjSDNkaFR6YnNDbDRhT0lkT1VQOGkxdE91TQ?oc=5",
+          "published": "2026-10-21T12:37:13+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Hungary Seeks a Replacement for Rosatom to Expand the Paks Nuclear Power Plant — Reuters",
+          "publisher": "UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSDZidzhxSHN4THRsZy1XLWNTNTdIRHhnY1ZZWl9jSTRoMkd1UUlxd0dsN3QyNFp2UjloWkhnZnBRVmZkajlTLVQyVnV2QnRITUF5bXB2a1hicWhmTGZCN0JyUVJwbEJsWGM0ckRFRG5DNFFzdDhtWWpzSnhZZ3ZWNXpYc1d2QzR4UEhxMHNVd01aa3FOWHd4SlhwcUo?oc=5",
+          "published": "2026-10-21T13:37:42+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Hungary is considering replacing Rosatom in the Paks nuclear plant expansion project",
+          "publisher": "Mezha.net",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdWJqcGxUeUZJQ3IzcU0za0NORWpJZFhMbFlvRk1BZ3ZBRFFEWTM2a0dRRzMtMjV3YWlkS2lwMlZ2ZTl4amNDWUM5QnRNejdlS3JQcVpjSzNWUHNyTVoyaEJmOThtaTBmWndmQW0tZzBYYllvWS1tdzlmVEZLQzNVM2VlNTZGdTdY?oc=5",
+          "published": "2026-10-21T14:12:51+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Russia's Rosatom says it is continuing work on Paks-2 nuclear power project in Hungary",
+          "publisher": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU3BXdW9JR0pHOFAtU083Vzl0cEdpejRmNlVpczNrbDk2dzhqVnhsRExkQWJxczlHVC1ubzNJbmtFcmp4M25fM2pLR3JHZ2RnQXNuVlBzaTdmWEowLTh3Ymw5MWdXM2Y0SmloaWlqMl9mZE9MM2JtcnBqWDNyUFRFWmJRZl9DYVd6cWd3RU5QNUdBSzdPR2lxSXFZc0I3S1NXYXpDYTFsRHJfMGJaU0x0aHNCYXFWbUNoVlNsQ3NYcWViMUMtMzBIemJ4cC1FZTlUeVNrdmVn?oc=5",
+          "published": "2026-10-21T14:46:35+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Hungary is seeking a replacement for Rosatom in the €12.5 billion Paks nuclear power plant project",
+          "publisher": "logos-pres.md",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaXBjU01DRjdOdlhxRU1CTzBNT2JXLWRPVTNkMklGa2M5d1ZrWVBfTlBsVHd4aXRaZjUtLVNoMmtSZi1TTnh0ek1aLXNhZEJUNzZEakVDTVpYSXZfQjFOV2FoRGxRUW1yZXZaRlJZVzhRRE1YXzNDUmJ0OE9VQlVzS3hDQklleld3WUFwSG9LdmJTRzZvS2xxWGNoTmhmeG5Bc2FPd1JXNHJ0MVZ6dTdRWGl6emMzR1o0bmdraVpMUTk3Z3Y1Wk1VTA?oc=5",
+          "published": "2026-10-21T15:17:26+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Paks without Rosatom? Hungary reconsiders key nuclear project",
+          "publisher": "oEnergetice.cz",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenNyN2VvMkpCNUxjRkgxd2F1RHI4bVNZYjVMTUpvaFlMSkh5eFVBV01DeUFmN2I5a2F2Q3FsQ3FBMG9MdlFuVXdrQnVodWxqXzdqeGNmaE1sVk1zbjRUN2daMVE3NjNsUjJ3N1Rscm1rTlJIRFBYZGJWV1J0eWVwQ09vS2NscFI5aDlkSEJKZnhoYjdWWXhFeGhiMmd6UVExTFE?oc=5",
+          "published": "2026-10-21T15:52:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.821,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "우성빈 기장군수, “사용후핵연료 건식저장시설 실질적 지원대책 마련 촉구”",
+          "publisher": "https://www.kgdm.kr/",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EcVRvSWFqSzZnRjdNT1VWX2tKVUl6NzBFV1liYXJ4TFNnWmM2Tm8wbU4wd0ZNdXlqQlNDUXV5RkRsX0wxcGhlNjBnbGRfWGFEVGtxZ1F5WjBKZHdjSlRERlNwZWVGUQ?oc=5",
+          "published": "2026-10-21T06:27:46+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "우성빈 기장군수, “사용후핵연료 건식저장시설 실질적 지원대책 마련 촉구”",
+          "publisher": "로컬세계",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3amNtSTcwTWFiMHR0U2xHTnNlMnhmZFM3TXFfS3pWSTFnMUQzeHNOZHVlVVRiTmJLbjFIRUZPV1BQMF8tYlREdE9xU3ltV0Nhajh0RDBKMUrSAVhBVV95cUxQd2pjbUk3ME1hYjB0dFNsR05zZTJ4ZmRTN01xX0t6VkkxZzFEM3hzTmR1ZVVUYk5iS24xSEVGT1dQUDBfLWJURHRPcVN5bVdDYWo4dEQwSjFK?oc=5",
+          "published": "2026-10-21T06:57:57+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "우성빈 기장군수, 사용후핵연료 건식저장시설 실질적 지원대책 마련 촉구",
+          "publisher": "로이슈",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vVlZpZHlObnFhRUQxWm9tTFF4UXdWWjMyX2dSRlAzTUtrb1doWFR6a29jVGRjQm5EUVltZi1kTHVra0ZRbDVxOXdTVzl1NDRGR2p5YlFmUjVwZDJUbHg4TEVCeWdubzdVRHlvQ1o2WklvMmo5d05JaGtn?oc=5",
+          "published": "2026-10-21T06:58:44+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[로컬 게시판/기장군] 우성빈 기장군수, \"사용후핵연료 건식저장시설 실질적 지원대책 마련 촉구\"",
+          "publisher": "베타뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VeC1DT1YtdjJINVNnZUFldF95Y3ZaMG5uQW1RWmJsY1VicldUVzFFOWUzUHA3cGVxanUtLVB3WG1QMkpmR0RHclRoRE5lWVdDZERZMHQ0dzNpNERjeFVxbGVyakM?oc=5",
+          "published": "2026-10-21T07:12:05+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "우성빈 \"사용후핵연료 건식저장시설 실질적 지원대책 마련해야\"",
+          "publisher": "프레시안",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjNmdCUFU3dTJPSC1jODBPa2dGblhqQktMS3ZydzVDZDZHS2JLT0Z5XzRHZlBmUUhsVU5wc0FzMzFXejh6NHJyZ0hxd3NoR0x6amotV2ZDQnJJejUzT1VMb0JTT2pKRUJnakhV?oc=5",
+          "published": "2026-10-21T08:25:50+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.511,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "경주시, 원전 소재 5개 지자체와 사용후핵연료 저장시설 지원대책 촉구",
+          "publisher": "메트로신문",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfM1Mzb1RRZEpveUtldXM3dnZsVHBqU3NkaGExanEyUFJxZGdKVkxGbi16UWtDNjRjY01zN21EemVTaE5ENzdvWEc3c3pLT21EeE5sb0lwMTBRdFk4aGZqdQ?oc=5",
+          "published": "2026-10-20T23:42:13+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "영광군 등 원전 소재 5개 지자체, 사용후핵연료 저장시설 지원대책 촉구",
+          "publisher": "선데이뉴스신문",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BSmx5U1RHRWlWUE5hNFlKX3NtQVRWaUVtMlI1ckR0T3R3a1YtTUxlWHljR08wUGJLWWtKUTRfa3Z4LV8zRmtFMHE0OWs0Y01jVURVajBnQ3B1bHdQ?oc=5",
+          "published": "2026-10-21T01:49:31+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원전소재 지방자치단체 행정협의회, 사용후핵연료 저장시설 지원대책 촉구",
+          "publisher": "중도일보",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yQnNqNlk3YzUwRUhGbzVnYnY5VVU5MnRiZW5mUUNOcllTMU1nZm92TS0yUldZdy1NUURtTmZkNmpkSVFMYndUd0RmR3pxaUxQUEM5aUsxdWlyMmFRdUlqRks3TnhVeHdINXk0aA?oc=5",
+          "published": "2026-10-21T02:23:01+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[경주 24시] 원전 소재 5개 지자체, 사용후핵연료 저장시설 지원 촉구",
+          "publisher": "시사저널",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Ndl9PSW9qYkZqUTBZUUhVczBsZGJxTGZFQUIyb25qYXdfb19HVS1weDlVQUZGcl9QSGJybjhOald4cmtuM3R0OElNT1EwOEtGcTgzTW1jbmlEUFpQdEpNd0JqU0plMDBwaE5JYW5KSDlMTnfSAXNBVV95cUxNTXZfT0lvamJGalEwWVFIVXMwbGRicUxmRUFCMm9uamF3X29fR1UtcHg5VUFGRnJfUEhicm44TmpXeHJrbjN0dDhJTU9RMDhLRnE4M01tY25pRFBaUHRKTXdCalNKZTAwcGhOSWFuSkg5TE53?oc=5",
+          "published": "2026-10-21T03:16:22+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "영광군 등 원전 소재 5개 지자체, 사용 후 핵연료 저장시설 공동대응",
+          "publisher": "서울파이낸스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjeXVBelc1WnFsTDUxNFlEZVFYTDhmeWJ3ci1xQ2NGOHVicHdncHY0SUlJX1RkeTVQMm5OdV80RlJSWmpoeVdiSzFfV2VjRXllUl8tTG1kMndiRm91S3JqNEpiNzhzQXc0bGc?oc=5",
+          "published": "2026-10-21T05:28:47+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "기장군 등 원전지역 5개 지자체, 사용후핵연료 건식저장시설 지원대책 촉구",
+          "publisher": "브릿지경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0RzZ0VFY1S3NSVmE1cDBNX2VoeDNMbE14MzdrTkJaTGFUall4alNjeU1ILTZTSWh4Yko0eGhmT2dnTjY4WXcxWENNeDlDanVFbkhPd1ktQkVUQQ?oc=5",
+          "published": "2026-10-21T06:31:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "기장군 등 원전 소재 5개 지자체, 사용후핵연료 저장시설 지원대책 촉구",
+          "publisher": "메가경제",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xaWVzLTY1UF9tYUFaajVKZzNOLXhSOWZNWHVVWXdqVGoyeWRvWExfVUxhV1dtMTZJOU1uRHBIbk1QVG9KeThFbWUzNGtUQ1lGLXhQY3YtVTRSZWFTdjZ3a2dMUzVTaVd1WUVlSzRVUmdWUdIBckFVX3lxTE5xaWVzLTY1UF9tYUFaajVKZzNOLXhSOWZNWHVVWXdqVGoyeWRvWExfVUxhV1dtMTZJOU1uRHBIbk1QVG9KeThFbWUzNGtUQ1lGLXhQY3YtVTRSZWFTdjZ3a2dMUzVTaVd1WUVlSzRVUmdWUQ?oc=5",
+          "published": "2026-10-21T06:42:21+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "영광군 등 원전 소재 5개 지자체, 사용후핵연료 저장시설 지원대책 촉구",
+          "publisher": "아시아투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uWnZJVHh5Q2RFQWp5Z2pST1Zqc29ZeDAtRnpKei1CTzZXUkYwdDJiOVVhZENwSmFQQU91X1hRU0xJZi03amtZR1lsOGF1a3EyTzlyVlBRMW9Xb09Zdm5wNkY1LTNrYlBNUVFQRzlR?oc=5",
+          "published": "2026-10-21T07:12:45+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.46,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IPP, Columbia University establish international fusion research center",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-21/article-8507/ipp-columbia-university-establish-international-fusion-research-center/",
+          "published": "2026-10-21T18:49:38+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.944,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "ASEAN nations assessing nuclear energy option",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/asean-nations-assessing-nuclear-energy-option",
+          "published": "2026-10-21T15:26:18+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.803,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Westinghouse invests USD1 billion in US LEU+ fuel plant",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/westinghouse-invests-usd1-billion-in-us-leu-fuel-plant",
+          "published": "2026-10-21T14:36:59+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.769,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Second round of Genesis Mission selections includes 12 Phase II awards",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-21/article-8506/second-round-of-genesis-mission-selections-includes-12-phase-ii-awards/",
+          "published": "2026-10-21T14:28:03+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.763,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "The Nuclear Company proposes 6.6 GW Kentucky project",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/nuclear-company-proposes-66-gw-kentucky-project",
+          "published": "2026-10-21T13:44:17+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.732,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA says Barakah drone-strike response was effective",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/iaea-says-barakah-drone-strike-response-was-effective",
+          "published": "2026-10-21T12:16:11+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.671,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Canada: City opposes deep repository designation; court denies NSDF challenge",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-21/article-8505/canada-city-opposes-deep-repository-designation-court-denies-nsdf-challenge/",
+          "published": "2026-10-21T12:09:55+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.667,
+      "id": 9
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원 한울본부, ′제6회 한울 상고문화제 가을(秋)편′ 개최",
+          "publisher": "KPI뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EMHdmcVpTb05NdUg3M2FtM1VLVjc1RVk4cG8zYlVTX0FzM1dmUFdvdlJFSW1MUVUxVUZqSVpFaXNycmZUeXBBZVZDWjRjR0duc1pn?oc=5",
+          "published": "2026-10-21T04:17:01+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원(주) 한울원자력본부, 제6회 상고문화제 ‘가을편’ 개최",
+          "publisher": "경북도민일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RaTNSRU5FRTNPQUxPQnVyS3EwMjNlTVpTSUluQ2hlQUNBT09RalRYSFZ6OXZlV2NCS0hrN3gwS0ZxSDY4WGhIRWZHRHQtRm9qWjFCQl9XX1A2cTdvR1BodWY4b0pEcUFTaHc?oc=5",
+          "published": "2026-10-21T04:47:30+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한울원자력본부 '제6회 한울상고문화제 가을(秋)편' 개편",
+          "publisher": "전국구직노조신문",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zWklyZ3J2cS1ybjRkckdtbXpLNGFlT3V5MTlsT2MxUjF1M2w1NGVubWFZcWh0eGt4eHlfcFQwZDYycEpVWUZ4TzM3a3hGVFl3MC1GX296eF9tQ3dzVjViN3VCRFRSWjA?oc=5",
+          "published": "2026-10-21T11:36:40+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.644,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Uranium Convoy Arrives at Rooppur Nuclear Power Plant",
+          "publisher": "RTV News",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wLVJ0MGZTYUJ3Z29nZVRpUzJncWstejhWQk04ZXJIQjg0R0dYdnkxcXg4MW9JZGJCWERwX3lsWXhMd2pMNGNrcFdsSE11cTZENXc4YWNGM3N4VEU?oc=5",
+          "published": "2026-10-21T06:06:35+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Second uranium shipment reaches Rooppur nuclear plant",
+          "publisher": "Daily Observer",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9wejNoUW1PRUlnV3o4dmZKNGFrYlZFUmhYN2FpRDl3eEtwVXVRM2RhVXVONGVYZ0Z6THU3azRpQy1ZM0M0VFZ1SUx3?oc=5",
+          "published": "2026-10-21T08:59:04+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Uranium Fuel for Rooppur Nuclear Plant’s Second Unit Arrives",
+          "publisher": "https://www.businesstimes-bd.com/",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52T3hWM3NubEstV2h3Tjl2NTZVVGRRTmJNVm1CRlI4S2tDV0ZPZHgyN1hTLS1sY1o2bC1qOHFzaXBGT28xNURsbUQtWVdCd1RrMnFRTHgtb0prbUk?oc=5",
+          "published": "2026-10-21T11:01:24+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.619,
+      "id": 11
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원 ‘사랑온 안심밥차’, 올해 마지막 한 끼 나눔…10회 봉사 마무리",
+          "publisher": "드림저널",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE54MVI5WFZrVkNyU2JzN1JBR0x2UEV1eW93NF9taUEzd0Z6V2RhT0I2ZWZISm9GY3dkaS1EMEVaLTBjZms3Rmc?oc=5",
+          "published": "2026-10-20T23:58:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, '사랑온 안심밥차' 올해 마지막 무료급식 나눔",
+          "publisher": "일간투데이",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53XzJueFNXQ25wY3poVVNjRzFrRmxtRDdBQlFsazVjRFJwSVhWdWJEZmtyTmNENmFTY2NwVnJxNHZKeVk4UVdTOFgzWEN2dTNRSFlxendPTTlCd09KYzZHTkdNbmU2cXNENFpr?oc=5",
+          "published": "2026-10-21T01:47:43+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, ‘사랑온 안심밥차’ 올해 마지막 무료급식 봉사",
+          "publisher": "인사이트N파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4ya1p2Nmk0OGRXMDRFa2hPeXpxZncyTUlTNVFhdEM5Z2JObDFDV2FKYkdXdU9Za21BQjlmRWZ5SFVYc0d6cGVPNlNfSkxJczdoZE40STdwMmtHdTFzUDJaTmRCR1BaQQ?oc=5",
+          "published": "2026-10-21T06:28:22+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 2.43,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Indiana Michigan Power helping conduct feasibility study for proposed nuclear power plant",
+          "publisher": "MyWabashValley.com",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdmxTZzV5dU50QlRHajhmMTRMZXkzVm9kamU4VWh0dmFQcXVEUUcyRERBNGRLSzBkclJ5aDdMUTlWU25hekhuU0xIZS12WVJNdldqTC1wODdXeWotY3ZBS3ZMSEs4VHZBSENTVDM0Y2U3N2t4WGdVVHZNUnB3MW9SdWkwZnlrYk5nTUozR3NENEVIdDlhNE83QkVHOVZRWEVfUFBwbVF0NzVocWxiX20xeWZWTmpDMGFYRXJ6dnhSY25QTEVOWEJnbVlVcTFRdFRhYVFn0gHYAUFVX3lxTFBxUDJSYktxeW5jcGc3LWdObDNUUFdtNExXUVkxdFlJOXBGNEtWNExZV2lfS1M4Zk56aXZvZHJkcEJ0VGdyMlZpRnpnZXp2djJRRU9RdlZYZURrel81dVc3VTRLNDZINjJ4WTNaREFRc2Z4d3B0ZFNRNExlcDB5dzRja1hKWGt4cEJDaG1adi1nV2J5Q3hsdU56SEI2N1NsYnFzS2VfOHZ3X0gwTmVxUUVsay1MUTdIYzhRaXlGS2FsVlVRalRFZ01Mbi16R2VrUDB2d29mMkozMA?oc=5",
+          "published": "2026-10-20T22:00:04+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Indiana Michigan Power helping conduct feasibility study for proposed nuclear power plant",
+          "publisher": "MyWabashValley.com",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObXNTTkoxdHE2SkZrbnJjZjMtZXpoUU5XTmZLenIyLUFxclBocjlBSUY1TnR3d3NlN3JSaWE5aUxSbDVHVHBqWmp4M0N1dDBMbHFvV0VHNkVKVXBHMVkzVEU4RWxSNVBySy1Sa1JtS0VQNVNUX0tqRWZJc0R5bGRmbHVEekFvRzB2SjNwY2ZjOUFDQ1dueklZNHdJY2ZGUHEwQVNhVDRHREJoNlpaaTRVMm1ibXNaRVNtTkxQN1ZkNWMwN0J6bkhBOTllMlpxcTFFLXc?oc=5",
+          "published": "2026-10-20T23:19:42+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Indiana Michigan Power helping conduct feasibility study for proposed nuclear power plant",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT1VmWktaMzh5T3pESTNRNmJkdGFfTnJrenFtRHJiTW1OTkpUbWZKZ3h0U3JCQnFrZWpTMDJaYzczRkdPMl9OZWtUZEpCT01uUDg3T1NhU2hLUGxpRjMxVDFvcGxaWWpZOWNwcmotZHRfa1JaSTRDak1sWHN6NUxURjRib1JTaU5HalFaTHRWejI?oc=5",
+          "published": "2026-10-20T23:19:42+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.132,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "In latest Indiana power plant proposal, parties to explore CANDU reactors",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-20/article-8504/in-latest-indiana-power-plant-proposal-parties-to-explore-candu-reactors/",
+          "published": "2026-10-20T20:14:28+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.003,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Startup proposes massive nuclear power plant campus in Lewis County",
+          "publisher": "WUKY",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTGVrdGJkMHJvUFduQWlUN2x5cXJGb2NqaWJ6bnM2MngybnN0Yll2Uk9iQS1BTHR5V3M3cWVGYnFoUXFFclk3b05tdnRGVXk1SFlKZFpwNmozRjFWbVIxTE1xZDNBcFNiTGJNbG5DNVFhRkVmLTFSZ1lIYVpiRncyX0ozbVpuenJCUlhkSnVLNEJDb2EwenU1LTVwMERXSW82ZTY2UHMxdENOaVVneWc?oc=5",
+          "published": "2026-10-21T18:05:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Startup proposes massive nuclear power plant campus in Lewis County",
+          "publisher": "Kentucky Lantern",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR3I5RDNPdVdwS0pIdnVDMHFWMUpsUl8yTXFCUXV3cFFqcW1HWHZaUnVvb2sydGNpN3dTcFdBY0xFamNtcDV3OFdpTlZncXdiRUFxYlFkem9EcE5ZNEpTbHRkLUEtYlFhdllic0E4Y0F4dlJLVk1TM2YtTi1pejdYWjlEVFVST09WaC01TlcweHlqUjB0NkVxdFBBMFJlMGRzci01MVE5ZEFVT0U?oc=5",
+          "published": "2026-10-21T19:21:22+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.966,
+      "id": 15
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Third uranium shipment reaches Rooppur site amid tight security",
+          "publisher": "The Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSjJmY2VhVVVEY0p0aWVCcG1mRmtubHBld0txOWlHVkJZZ2lhNzY4d0ZhbWZwNG5scHQ2OEdPbUQwNncxaEltX21HZTMxRXlibFphOUttOU9sbmh1UWxBdkVRXy1mY2J0VFQzTnN0azh3eVY1MW5WVlNBYXlGU29JSHdyc25DamZoTGNLX1lQbno1bWR6MDZSNFM1Wld3cDB1QXd3?oc=5",
+          "published": "2026-10-21T09:43:04+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "3rd uranium shipment arrives at Rooppur plant site",
+          "publisher": "The Financial Express",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUQzajdPOWUyUFFzRlpiSm1GTDU1ZXRQVG5HZzV2Tll5dmc2V2d6bko3VThvTjBLbllXZHJ6VHdfclV4R01NSXl4cTNBYVgtUlJ1R1hQYnBkZ0NldlNlV1dWanBNTkItTjIyMGphRW5JSWVNeHFZd0hTMjZROGo1ZjFiRERxckpyNjR5ZXh3aHlIS0VyT0EzX0pyVFpzNFh4U2JBSU9oX1N3T3RQckd5Q0lB0gG-AUFVX3lxTE9KSEJTVzFQb2Y0VC01VG4tZHRhV2VsM0tycU5lQUxmd1duVEliT0U5RG5YOXJ1cFMzcklrTVJGZlkyblNjSVhDRW45UV9NYlJCMU9jcFdqTk1xclZtc1duc3pKb0g4WkJmRWpzTjlfLU1xeWpZSVhzLVlaeVNzN3Izc1Nqb2dHb003QnJXeTVGNTBEcUQ3YVZZVVJZQWg4TVlEbmhudG9yazNmSXp1cTkyMEEyN3VwMVp2dkl5a1E?oc=5",
+          "published": "2026-10-21T18:12:31+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.919,
+      "id": 16
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "The Nuclear Company Announces Prosperity One, a 6.6 Gigawatt Nuclear Power Campus in Lewis County, Kentucky",
+          "publisher": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWEN1ZlNXcDZlc0JobzFzWGNidFJsR3hLY3NJeTZmVm1BV243QzZCbFhaRGhWN0p3YnFEa1hNWHRzLVlLNTh0SHItVk9CNklBS3I1dkZZUFMwWU9sWUNiOE42RFhjTWREWlZ6WGsxR3I1eVMwcVBLNFVoNk5fakFfc3hWbVNQdTN3VnpVNFM0MDFEWDFiVGtnOXVtUHlwRDhrc0hQNEd3blh1SDRTM01iamhrQ3FGem1XRlFKYlRBR0YtVXRzRnQ4a1otaWFzWi01bDlLQ3llczFwTktiU2tKOGdOZ05EbGFWVHpTOXRSLXBKWFk?oc=5",
+          "published": "2026-10-21T09:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Companies announce proposed 6.6-gigawatt nuclear power campus in northeastern Kentucky",
+          "publisher": "Kentucky Today",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQUTg2MjB4MDlWbVZnRi1mZlZaVWJXekJ5ZW04MHJ3MzNBZHZGQmhBcjF4X2JhNmZSS2Zvc3hKcDZYamNTd2hEbmFKY3NvcjdXUFMyQ2NWYjN1SHlJTXRXOFpXZzUweTJLVzROSHZwckxxMjZfd0NIWmpNeElBcWVZVUFENDFkbTVUUDJpeXJjbHNwdTYtN2ZoSVptVDhoampqQVZacll1akluSkZoZDhpNzRTcGtCWTNkV2c4TWdkVTRoQzhEcVA0azJmTEV3eFU1U00zYXlEM1dWZkNDRGkycHgzNnI2dVNZS0c4MmRLSmhCTXlpZWhUX0llT2Z3R0p6?oc=5",
+          "published": "2026-10-21T17:01:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.869,
+      "id": 17
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "우성빈 기장군수 “원전지역 특별한 희생에 실질적 보상 따라야”",
+          "publisher": "스마트비즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjOVFZcU1pb1plYmF1dzYxdV80VnpVVkdsXzc3RXFZTm9aN1FISWVnbUtGOEhKVzh0c1lUb2FLVUxOUTU5cERzZlVyRXlKOWUxV2p5cklCNk9SeXBaMkZCcDNHYThlWnlwYXhqNA?oc=5",
+          "published": "2026-10-21T09:05:35+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "우성빈 기장군수 “원전 희생에 실질적 보상 따라야”",
+          "publisher": "인더스트리뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IQUNGODJpYTM0T0NQSllMSHJxMGFvek5yWmhvLWFINzhxV1BKZkJtaUZIeE5GUkN0c3JHNVB5bjMxQVpWUGJQNjhOSHg5dm1QSUVhUkhCay1KZ0w2dVlDejlxT1E3azE5U2NDOW9mTm1Zdw?oc=5",
+          "published": "2026-10-21T15:14:56+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.795,
+      "id": 18
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Space Nuclear Power Corporation Awarded Darpa Agreement For Ground Test Of Autonomous Nuclear Reactor Controller",
+          "publisher": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPS3Q3WGlMVnFEUk1PX3hQNHBMa0RfYVJiYW51N0hEQ3Y0TmxESnFTX2gzZGJxSktWa2VhUUV1TEUtSnAzVEVremN1MGVlWEc1WEo3NGhjWFBqUGhWWTNLZFBiM2VYOVEzT3RuNGViaC1vV29PWVdjd0hkd0RHN0RKSFczX3R2Z1BhNjJrbnFWem10b25WbkgtUFlGdUVhSFdSaDQyQ21IYjhMd09PX2xrMUpGV0NZaFBYWTJ2YWlEV0RMaEVtQi1MRUJZdXBFZS1wWXR2WXNfZjB3MWxEVDBuRjhkNVhSRjdiUDREMVlnaUIwQkszVGowUkdha3BTdHFOMVFTYmlSeEpxVU5vNURJ?oc=5",
+          "published": "2026-10-21T13:17:47+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Space Nuclear Power Corporation Awarded DARPA Agreement for Ground Test of Autonomous Nuclear Reactor Controller",
+          "publisher": "SpaceNews",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZUtkTjBvZWRRMWMtUVQwVFV6SXJBbzVVbkxMYzFOUFJnYlpxb0VESG1sXzQ4NEtzdUpvMWpFVnV5cGN2MXRkNDBaWE4zak1MbjluVEEzdmplb09HWTlIYTZBR2stNEo3V2xWVF9jU0xMLWRVdnZiT1ZBNTJSbmZGY0h4NUllZXUtcmotb0ZialIzbUVmZGZPNVBCVzRyMjk5VlFhMkgzaERxWFhvMHhLdXNxRjFUcjN6RThDZTNOOTFQRWhRXzdWbWJiWllMVUtL?oc=5",
+          "published": "2026-10-21T14:29:57+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.764,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "동남권원자력의학원-부경대, 의과학 학·연 협동과정 도입 협정 체결",
+          "publisher": "경남신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fUl9NSVVvS25WTDA4ZUtocS03eGo2X0ZPQWpPR3pNaTY4TW90UjhWXzlmX0pqc2VMRnhfZE5nS2JBVjFwLWpjYUswU0ljQ05fbHd2eFRDVXB5QQ?oc=5",
+          "published": "2026-10-21T00:58:25+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "국립부경대-동남권원자력의학원, 의과학 학·연 협동과정 도입",
+          "publisher": "국토일보",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UYjBJUXZoWXcyeW9ERVFVd2o1TmJ4cEViVWllQllNY203ODR4Ynp2V2U5dUR2TzNKazRXUDdxQlRPWUNNaDhmbjZBa3liaFhnN3lYNTZQcVVZR0tWMWlrOWpRbw?oc=5",
+          "published": "2026-10-21T04:29:02+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.347,
+      "id": 20
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "영국 원자력 협업 프로그램 종료, 부문 전체에 유산 남겨 - 뉴스 및 통계",
+          "publisher": "IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZU01UDdIbDdhRjR3cUlRcVlMN1htMHJLWU1lbFFpM3RPSFI1ZFF6UENvUnM5eDhNRElnRHJCdTlPYXMzSHoyeU03RGQ4aXdpcFFqUm1qQWpRXzJKdnpmZVY4Y3hBOTBueE9PN196MUpHMEViX3poQjFranZKTS1UV0dmWDRCWGFOU090MEZsQ0dUVU0zcFlTZV9lNkJfZGVBc2VfQ2pJdnYwSl9ObU9mTQ?oc=5",
+          "published": "2026-10-21T16:11:45+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.835,
+      "id": 21
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "日 원전 1기, 전 생애주기 경제효과 36조 원…‘에너지 안보·산업·일자리’ 삼중효과",
+          "publisher": "독립신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tLW9XeC1yXzBaTGc3alpEcWZSS25MTGZCcWtzSnZINEtqaTdjNS1WbzdMNkZMYzFrZW5NWjFfQnotdWhMVGpDeXlEX2RwbDNqbFpYQmg4ZXg2T1B2MFh5RHk5V0FyTUVGQzI4?oc=5",
+          "published": "2026-10-21T14:46:47+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.776,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "AI 전력전쟁, 빅테크의 선택은 원전… 아마존, SMR 12기 승부수",
+          "publisher": "독립신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ON1d3VDQxbVV5Rjlualc4eUZsZWZPWkdJZGtNMkZ1VnBkb284ckhDZ2VJNFA4TDFKWlNzMm1hamp0T212dWxpczJDRzBqcEEyVmNnRjFRZHY2ZDA4RVI2djJJMkM1SEV5Vjlz?oc=5",
+          "published": "2026-10-21T14:47:36+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.776,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "기장군, 사용후핵연료 저장시설 주민 지원책 요구",
+          "publisher": "중도일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42YVRucGFkWnNWUV9QSkpQcGlQOVVSX2FaNHpOMURmZkx3dFRVMENvbXN5aUtLWTFNVkhMVGtTR2xzelJ0bWNaZDJCSHNZd0E3dUN5RG52bmhsVVJGYXl1SmRwWGM?oc=5",
+          "published": "2026-10-21T12:03:39+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.662,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "영광군 등 원전소재 행정협, 고준위 폐기물 공동대응",
+          "publisher": "https://www.theleader.co.kr/",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FRGh3TXB5UU5sYUozZmlfcFlWbDVlekc3dG50emFaWm1QaWFJakJQS0VFc1F0M0ZJejFmUjJOdVV2SVBRRTBLVEp1cFdOeXZqS1BCLV9TWUhJbnVwN043WE1aakJGYUtDaEhPOGRR?oc=5",
+          "published": "2026-10-21T11:56:53+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.658,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원전 전력구매계약 특혜 논란…공평한 제도 설계 출발점 삼자 [왜냐면]",
+          "publisher": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NMnNLcmpKMlg1Zmh4Q0ZtYllncGtrOW5NVUdnZ3dSUG9FRVc5WVN0REM0ZWZFamJhb1FEZklrRGRxNU1uMk84WkF2aHU3V2lsYTJOZjZNVE02cEdVejZTTGdIdWRjODQ?oc=5",
+          "published": "2026-10-21T11:49:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.652,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "세계가 인정한 한국원전기술 '한울1호기, 제27차 계획예방정비' 착수",
+          "publisher": "전국구직노조신문",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11b1JKcjVIUnA3LTVsWU5IQU1yZVZtR29qdHBWQm1nR18wTUhyTUpuVXhETnNCWXVfVW9ydnZjcGtKT0tmalE5V09DUFNJb3d4UFd1Z1dLUUZtR3FFenBHYzFQOEhidUU?oc=5",
+          "published": "2026-10-21T11:40:27+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.646,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "기장군, 원전 부지 건식저장시설 지역 협의체 제안",
+          "publisher": "서울경제TV",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xbEp1OXJoNHpfRlczR09MU0tLVVdXLTk3Z1N6bDdBVzY2OE1PLTBLWGZxWU82emt1ZjdvRjJycGFfNzBhdUtIOE0yRFBUNmJBeTFvdmZsc0cxSmotcHdRWmxlZ00?oc=5",
+          "published": "2026-10-21T11:26:44+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.637,
+      "id": 28
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원전수출업계 기업들, 경주에 모인다... ‘NES 2026’ 27일 개최",
+          "publisher": "문화일보",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNX0IxNkoxQWV2QXVuZzhSYWhhSmRiT1J5bTk3QkV1UllWWXNlWGp5TnZmcDgwbWtMYkhmWnJ0RzlrdlpsSE8wcEp0VlFsaTZq?oc=5",
+          "published": "2026-10-21T09:40:48+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.563,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 82
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 31,
+      "kept": 23
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 93,
+      "kept": 82
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 48,
+      "kept": 4
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 4
+    }
+  }
+}

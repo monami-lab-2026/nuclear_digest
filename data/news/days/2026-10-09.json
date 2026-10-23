@@ -1,0 +1,946 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-08T21:19:40+00:00",
+  "engine": {
+    "engine": "claude-code-session",
+    "briefed_at": "2026-10-08T21:51:19+00:00"
+  },
+  "overview": "해외 대형원전 사업이 설계와 기자재 발주 단계로 넘어가는 소식이 이어졌다. 현대건설이 네덜란드 신규 원전의 기본설계에 들어갔고, 폴란드는 첫 AP1000의 핵심 기자재 발주를 시작했다. 방글라데시 루푸르 1호기는 첫 임계를 앞두고 승인을 받았고, 국내에서는 원전 공론화위원회가 시민 숙의 방식을 논의했다.",
+  "stories": [
+    {
+      "source_ids": [
+        0,
+        13,
+        19,
+        21,
+        22
+      ],
+      "region": "국내",
+      "category": "정책·산업·수출",
+      "importance": 3,
+      "headline": "현대건설, 웨스팅하우스와 손잡고 네덜란드 대형원전 2기 기본설계 시작",
+      "summary": "현대건설이 웨스팅하우스와 함께 네덜란드 신규 대형원전 2기의 기본설계(FEED 1) 계약을 맺은 것으로 보도되었다. 해외 매체도 웨스팅하우스가 현대건설과 네덜란드 FEED 연구를 함께 한다고 전했다. 국내 매체들은 이를 유럽 원전 시장 진출의 계기로 평가했다.",
+      "background": "FEED(기본설계)는 본격적인 상세설계와 건설 계약에 앞서 부지 조건, 주요 계통 배치, 공사 범위와 비용을 구체화하는 단계다. 발주국은 이 결과를 바탕으로 사업성과 인허가 방향을 판단한다. 대형 가압경수로 건설은 원자로건물, 터빈건물, 보조건물 등 수많은 구조물과 계통을 맞물려 설계해야 하므로 설계사와 시공사의 역할 분담이 중요하다. 유럽에서는 국가별 규제기관의 요건과 유럽 공통 기준을 함께 만족시켜야 한다.",
+      "why_it_matters": "설계 기업과 시공 기업이 한 팀으로 해외 사업에 들어가는 구조라 한국 건설 경험이 어떻게 활용되는지 볼 수 있다. 공학적으로는 이미 검증된 노형을 새 부지와 새 규제 환경에 맞추는 과정에서 어떤 설계 변경이 생기는지가 핵심이다. 지진, 해수면, 냉각수 조건 같은 부지 특성은 구조 설계와 냉각계통 설계에 직접 영향을 준다. 공기와 비용이 계획대로 관리되는지는 첫 단계인 FEED의 정밀도에 크게 좌우될 가능성이 있다. 앞으로는 규제기관의 인허가 일정과 부지 선정 절차가 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "FEED",
+          "explain": "Front-End Engineering Design. 상세설계 전에 범위, 비용, 일정을 확정하기 위한 기본설계 단계."
+        },
+        {
+          "term": "부지 특성",
+          "explain": "지진, 지반, 냉각수, 기후 등 건설 지역의 조건. 설계 기준을 정하는 출발점이다."
+        },
+        {
+          "term": "노형 표준화",
+          "explain": "같은 설계를 반복 건설해 설계·공사 오류를 줄이고 비용을 낮추려는 접근."
+        }
+      ],
+      "question": "같은 노형을 새 나라에 지을 때, 어떤 설계 요소는 그대로 쓰고 어떤 요소는 반드시 다시 검토해야 할까? 이유와 함께 생각해 보자.",
+      "study": [
+        "가압경수로 구조",
+        "부지 평가",
+        "원전 인허가 절차"
+      ],
+      "reference_ids": [
+        "wna-library",
+        "iaea-pris"
+      ]
+    },
+    {
+      "source_ids": [
+        4,
+        5,
+        23
+      ],
+      "region": "해외",
+      "category": "원전 운영·건설",
+      "importance": 3,
+      "headline": "폴란드 첫 AP1000, 제작 기간이 긴 핵심 기자재 발주 시작",
+      "summary": "폴란드 PEJ와 웨스팅하우스가 폴란드 첫 원전에 쓸 장납기 품목의 조달을 시작했다. 보도는 이를 건설이 본궤도에 오르는 신호로 해석했다. 대상은 AP1000 노형이다.",
+      "background": "장납기 품목(long lead item)은 원자로 압력용기, 증기발생기, 가압기, 대형 단조품처럼 제작에 수년이 걸리는 기기를 말한다. 이런 기기는 공급업체 수가 적고 품질보증 요건이 엄격해 일찍 발주해야 한다. AP1000은 피동 안전계통을 적용한 가압경수로로, 중력과 자연순환 같은 힘으로 안전기능을 수행하도록 설계되었다. 대형 단조와 용접은 재료 검사와 품질 기록이 건설 일정을 좌우하는 영역이다.",
+      "why_it_matters": "장납기 기자재 발주는 전체 공정에서 되돌리기 어려운 투자 결정이라 사업 진행도를 가늠하는 지표가 된다. 공학적으로는 공급망이 대형 기기를 계획된 품질과 일정으로 만들 수 있는지가 관건이다. 제작 중 결함이 나오면 재제작에 긴 시간이 들어 전체 공기에 영향을 줄 수 있다. 피동 안전계통은 설계 개념이 다르므로 기자재 사양과 검사 기준도 이에 맞춰 관리된다. 앞으로 볼 점은 발주 이후 제작 진행과 현지 건설 준비가 일정대로 이어지는지다.",
+      "concepts": [
+        {
+          "term": "장납기 품목",
+          "explain": "제작에 오랜 시간이 걸려 건설 초기에 먼저 발주해야 하는 대형 기기."
+        },
+        {
+          "term": "피동 안전계통",
+          "explain": "펌프나 외부 전력 없이 중력, 자연순환 등으로 작동하는 안전계통."
+        },
+        {
+          "term": "품질보증",
+          "explain": "원전 기기의 설계·제작·검사 전 과정을 기록으로 입증하는 제도."
+        }
+      ],
+      "question": "건설 초기에 장납기 기기를 먼저 발주하면 일정 면에서 이점이 있지만, 어떤 위험을 함께 떠안게 될까?",
+      "study": [
+        "AP1000 피동 안전계통",
+        "원자로 압력용기 제작",
+        "원전 공급망"
+      ],
+      "reference_ids": [
+        "wna-library",
+        "iaea-pris"
+      ]
+    },
+    {
+      "source_ids": [
+        1,
+        15,
+        16
+      ],
+      "region": "해외",
+      "category": "원전 운영·건설",
+      "importance": 3,
+      "headline": "방글라데시 루푸르 1호기, 규제기관 승인으로 첫 제어된 핵반응 단계 진입",
+      "summary": "방글라데시 원자력규제당국(BAERA)이 루푸르 원전 1호기의 첫 제어된 핵반응 시작을 승인한 것으로 보도되었다. 방글라데시 첫 원전이 곧 가동에 들어갈 것이라는 보도도 나왔다.",
+      "background": "신규 원전은 연료 장전 뒤 최초 임계, 저출력 시험, 출력 상승 시험, 계통 연결 순서로 시운전을 진행한다. 최초 임계는 연쇄반응이 처음으로 스스로 유지되는 상태를 말하며, 제어봉과 붕산 농도로 반응도를 조절한다. 각 단계마다 규제기관이 시험 결과를 확인하고 다음 단계 진행을 허가한다. 신규 도입국은 규제 체계와 운영 인력을 함께 갖춰야 한다.",
+      "why_it_matters": "첫 원전을 도입하는 나라가 시운전 단계에 이른 사례여서 신규 도입국의 안전 문화와 규제 역량을 볼 수 있다. 공학적으로 초기 임계 시험은 노심 설계 계산이 실제 측정과 맞는지 확인하는 과정이다. 반응도 제어, 출력 분포 측정, 계통 거동 확인에서 문제가 나오면 일정이 조정될 수 있다. 앞으로는 출력 상승 시험과 계통 연결 일정이 관전 포인트다. 루푸르의 세부 노형과 일정은 후보 목록에 없어 여기서는 다루지 않는다.",
+      "concepts": [
+        {
+          "term": "최초 임계",
+          "explain": "핵분열 연쇄반응이 외부 중성자원 없이 일정하게 유지되는 상태."
+        },
+        {
+          "term": "반응도 제어",
+          "explain": "제어봉, 붕산 등으로 연쇄반응의 증감을 조절하는 일."
+        },
+        {
+          "term": "시운전 시험",
+          "explain": "연료 장전부터 출력 상승까지 단계별로 설계 성능을 확인하는 절차."
+        }
+      ],
+      "question": "신규 원전 시운전에서 규제기관이 단계마다 허가를 따로 내는 이유는 무엇이며, 어떤 시험 결과가 다음 단계의 조건이 되어야 할까?",
+      "study": [
+        "최초 임계",
+        "시운전 시험",
+        "신규 도입국 규제 체계"
+      ],
+      "reference_ids": [
+        "iaea-pris",
+        "wna-library"
+      ]
+    },
+    {
+      "source_ids": [
+        14,
+        17
+      ],
+      "region": "국내",
+      "category": "정책·산업·수출",
+      "importance": 2,
+      "headline": "원전 공론화위, 다수결보다 숙의를 택하고 시민 300명 토론 방식 논의",
+      "summary": "기후에너지환경부 산하 원전 공론화위원회가 1차 회의를 열고 운영 원칙과 시민참여 방식을 논의했다. 보도에 따르면 다수결 대신 숙의를 중시하며, 시민 300명이 2박 3일 동안 토론하는 방식이 제시되었다.",
+      "background": "공론화는 이해관계가 갈리는 에너지·환경 사안에서 시민이 충분한 정보를 접하고 토론한 뒤 의견을 모으는 절차다. 숙의형 방식은 단순 여론조사와 달리 전문가 설명과 토론을 거쳐 의견 변화를 확인한다. 원전 정책에는 안전, 비용, 폐기물, 전력 수급 같은 기술 사안이 얽혀 있어 정보 제공의 정확성이 중요하다.",
+      "why_it_matters": "원전 정책은 기술 판단과 사회적 수용성이 함께 작용하므로 공학도도 시민에게 기술을 설명하는 역할을 맡게 된다. 공론화의 결과는 신규 건설이나 계속운전, 폐기물 관리 같은 후속 정책의 방향에 영향을 줄 가능성이 있다. 정보 자료를 누가 어떻게 구성하느냐가 숙의의 질을 좌우한다. 이 후보 목록만으로는 구체적 의제와 일정을 알 수 없어 확인이 필요하다. 앞으로는 의제 설정과 자료 구성의 중립성이 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "숙의민주주의",
+          "explain": "충분한 정보와 토론을 거쳐 의견을 형성하고 결정하는 방식."
+        },
+        {
+          "term": "사회적 수용성",
+          "explain": "기술이나 시설을 지역사회와 시민이 받아들이는 정도."
+        },
+        {
+          "term": "이해관계자",
+          "explain": "정책 결정의 영향을 받는 주민, 산업계, 전문가 등 당사자."
+        }
+      ],
+      "question": "복잡한 기술 정보를 시민에게 전할 때, 정확성을 지키면서도 이해하기 쉽게 만들려면 어떤 원칙이 필요할까?",
+      "study": [
+        "공론화",
+        "원자력 정책 결정 과정",
+        "위험 커뮤니케이션"
+      ],
+      "reference_ids": [
+        "nssc",
+        "oecd-nea"
+      ]
+    },
+    {
+      "source_ids": [
+        7,
+        24
+      ],
+      "region": "해외",
+      "category": "원전 운영·건설",
+      "importance": 2,
+      "headline": "중국 톈완 7호기 계통 연결, 러시아 설계 원자로 송전 시작",
+      "summary": "중국 톈완 7호기가 전력망에 연결되어 송전을 시작했다. 국내 보도는 이 원자로가 러시아 설계라는 점을 짚으며 중국의 원전 확장이 빨라지고 있다고 평가했다.",
+      "background": "계통 연결(grid connection)은 원자로가 출력을 내기 시작해 발전기를 전력망과 동기화하는 단계다. 이후 출력 상승 시험을 거쳐 상업운전에 들어간다. 러시아 설계 가압경수로(VVER 계열)는 증기발생기가 수평으로 놓이는 등 구조에서 서구형 가압경수로와 차이가 있다.",
+      "why_it_matters": "여러 노형이 같은 나라에서 동시에 건설되고 가동되는 현황은 노형별 건설 기간과 운영 실적을 비교할 자료가 된다. 계통 연결 후 출력 상승 과정에서 터빈과 발전기, 계통 안정성이 확인된다. 앞으로 볼 점은 상업운전 시기와 후속 호기의 진행이다. 세부 출력과 일정은 후보 목록에 없으므로 확인이 필요하다.",
+      "concepts": [
+        {
+          "term": "계통 연결",
+          "explain": "발전기를 전력망과 동기화해 전력을 보내기 시작하는 단계."
+        },
+        {
+          "term": "VVER",
+          "explain": "러시아가 개발한 가압경수로 계열 노형."
+        },
+        {
+          "term": "출력 상승 시험",
+          "explain": "단계별로 출력을 높이며 설계 성능을 확인하는 시험."
+        }
+      ],
+      "question": "서로 다른 설계의 원자로를 함께 운영하는 나라는 인력 양성과 규제에서 어떤 장단점을 갖게 될까?",
+      "study": [
+        "VVER 구조",
+        "계통 연결과 동기화",
+        "상업운전 개시 조건"
+      ],
+      "reference_ids": [
+        "iaea-pris",
+        "wna-library"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "현대건설, 네덜란드 신규 원전 기본설계 착수 |",
+          "publisher": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HYnZtTEY0NFc1NnlxT2xIVDRPYzM0X0wxQkE2bG9MaHZCbU5ZUjhxdjd0NVlYU3V5NHZubHR4eko5eXlBb0ttS09zMk51SXMwVkZOeU1PU1ZnQXY5VnJ0SWFEcjNrSmszSElDZ3FGMldCRXpM?oc=5",
+          "published": "2026-10-08T00:53:57+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대건설, 네덜란드 신규 원전 2기 기본설계 참여 - 조선비즈",
+          "publisher": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeGUxZGdGVzl4bTBFU2U5bW9sMlVmNXppbDdyNUEzNzlwYUE1cTF5MHhIblMtQmR4UWpFZkVtWE9lYzJmLTdxaUVFZnk5bHVtRmZHY0tubTZQY015VGJmZ1l5WnJtS0RISGt0aXI1anFhaW5ib3J1OV94MThndGJ0Qmltb1RvQ1NtUW5SVmVSRnhmRHRNUWdNOdIBrAFBVV95cUxPUTlobF9WNl8wQnU1TlNLZkhqc25taFRERlZFcW9mTm40N1dlaVZFV2RBd2xvSDdMT2xaLUNUcXNjMm1nWHhzOFE5NXdCLTlLLWdocjMtRDVmajhGV1MwSm5ja0t3UzlZMGZrU0diVjNuS1ZrRFVudXdNbTBEQmMxVnZ6SHhfQ3NjQ1ZZRDFCM19lcjdSVDlRM0laOUR6TXNJMkFfcUFkUTdoZHRZ?oc=5",
+          "published": "2026-10-08T01:10:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대건설, 네덜란드서 신규 원전 사업…대형원전 기본설계 착수",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Pa0cxeW1zY1F5MElyb20teGtkU1QzV3hyMDdaeGROZWZRcDNyXzRmbVhHcTdyQ0hpdnYydWVLb2hxeDhHY1hqS205dHlrZ1F4RnhJaXBXbm5UT2xuUmtfedIBYEFVX3lxTE5Pa0cxeW1zY1F5MElyb20teGtkU1QzV3hyMDdaeGROZWZRcDNyXzRmbVhHcTdyQ0hpdnYydWVLb2hxeDhHY1hqS205dHlrZ1F4RnhJaXBXbm5UT2xuUmtfeQ?oc=5",
+          "published": "2026-10-08T01:17:55+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대건설, 네덜란드 신규 원전 2기 기본설계 참여…유럽 원전사업 확대",
+          "publisher": "동아일보",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52SGZXZ0MxbmJORlQ1b1YzbmNKZXo3Qk9Gb1R5YTBrRTF3S1FSQk93YXRxbEpKRzhiMkltUU9HeFQ1anpDN2EwWXlrYVIxNEtJUXRtckZFaGZ3TmJ1c3Jyd1hKOWJSd9IBZkFVX3lxTE52SGZXZ0MxbmJORlQ1b1YzbmNKZXo3Qk9Gb1R5YTBrRTF3S1FSQk93YXRxbEpKRzhiMkltUU9HeFQ1anpDN2EwWXlrYVIxNEtJUXRtckZFaGZ3TmJ1c3Jyd1hKOWJSdw?oc=5",
+          "published": "2026-10-08T01:58:49+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대건설, 네덜란드 신규 원전 기본설계 착수",
+          "publisher": "한국건설신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zXzZmN3ROLTIxcHlObDByNnRTRDAzSlZORWFIU2xfLXVjQ3ZOd1dKNm4xUlBxMzBvTXVjckZTWXRDTUFZTmZicEFUWk9JX21RRlJTc3ZwTnBXZllvekVhM2JUc3BPWV95ZWxN?oc=5",
+          "published": "2026-10-08T02:44:17+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대건설, 네덜란드 원전 기본설계 맡았다",
+          "publisher": "스트레이트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HcGVJalkzRDZadXVURjU4M0RaSUdkbHQ2bzN0QW9rTFJVd3JRZVQwYVZ3azllZ09qdXdOUWdjc3ZZSEVFWDNlOEdrazYwXzhZRzBqMlZuLVpGdkdOaTlkNXFvUFN5MTJPeDBjbEJSMWR0VEhjTFBF0gF3QVVfeXFMTUdwZUlqWTNENlp1dVRGNTgzRFpJR2RsdDZvM3RBb2tMUlV3clFlVDBhVndrOWVnT2p1d05RZ2NzdllIRUVYM2U4R2trNjBfOFlHMGoyVm4tWkZ2R05pOWQ1cW9QU3kxMk94MGNsQlIxZHRUSGNMUEU?oc=5",
+          "published": "2026-10-08T02:49:06+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대건설, 네덜란드 신규 원전 기본설계 착수…유럽 원전시장 공략 확대",
+          "publisher": "녹색경제신문",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zMVhwRF9jMkh3WmhmamwyMTVzeXRDUFZlTm5sYUFpWkpscG5CMjk5SFBCN3ZGUklvT2NiNTZfaFJYZ1RsdWtldmJLbWV3cldUWGdaWm1VVGthUXZpUHlydG5NSVMyNlk?oc=5",
+          "published": "2026-10-08T03:28:27+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대건설, 네덜란드 원전 2기 기본설계 착수…\"유럽 수주 확대\"",
+          "publisher": "아이뉴스24",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9WdF8xY1lHRU9xRHJnUzF4UHNaNjlGUjgxT0hyTGpvT3JHWEgwU0N1d3VYOWNPNjg4aWdkdTRvdHpmdkpYY21JTVRKOA?oc=5",
+          "published": "2026-10-08T05:40:57+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대건설, 유럽서 원전 사업 확대…네덜란드서 신규원전 기본설계 착수",
+          "publisher": "소셜밸류",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zX0RoNlBrTGh2alktSDhpNzdkeVZDanY0MzQ0cXZpV29kYnJmdUZfbjFYdXNhbGZ0VURLT3NuUEREX29qM2ZjZTJhVkc4MmlLczRsMkRiQ1BXTE9oRlJZVE1oc9IBbEFVX3lxTE9hT0E0c2U5bDFNRzFHcF9JVzY3Y3NnUjNMNzhMWXNSbDVIbVVDUEkyZnV0a05jUlgzVEp3V1NHZFhSSTdQU2N0cENqT0E5VVZLMFpaMGU3WDJjWVhrSkEtWGRTU3BrNDI0bk11Yg?oc=5",
+          "published": "2026-10-08T05:55:49+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대건설, 네덜란드 신규 대형원전 사업 기본설계 참여",
+          "publisher": "주간한국",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qMU4tUmctc3JDX1dqWlhjSWh2ZGt2S3VrY1UweGlPSVNEUW4wQmVpaTgySG01NDFSOEtSa1pwS25SOHlvZ1pBQ1habHU5SWFoNkg2N3FRZGpkVVNPZ2RuWGJrUUZiTTRhTVNfeTltU1rSAXRBVV95cUxOTnR1UXc5Z1hTSUdlUnlaTHJIZUVOcmM1eDZYbUR6b2M4bkFmTzdjWTJkWWFIWXFRUXJxLWVzdWNSOGtOYmE0d3djQUJ1OS1qLUJWa0FPR0FKTi16dHE3Ml9vM3haUUcxQkFkUGg3ZkhVTHYzdg?oc=5",
+          "published": "2026-10-08T07:18:20+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대건설, 네덜란드 신규 원전 기본설계 착수…웨스팅하우스와 FEED 1 계약",
+          "publisher": "중앙뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCQkZYRVZMY1ZtUWJnRTg3MUJxLVdoal9fd09FbjlBVUNCbGx0bjJtb2JKNUQ1S1hhb2ZIYXJrQUw0RUloZDhLMDkyemNtWHdpM3V2djQxRVU3c2FscFZTOHVGMFB0REtPenNJRtIBb0FVX3lxTFBrLVhBUndqUjZVbF9kYzRpTVo2VFBvWjNLUmhvRnJLZ2F1QnZwYlJTZUtITkJvY3pMMTF4R3R5SXpDV21IYkZPLXQxRDB2bjdUam5OZG1YekpOZnpFUEQ3TVpwYnlZTjlOMzUtYmF3aw?oc=5",
+          "published": "2026-10-08T07:51:24+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대건설, 네덜란드 대형원전 2기 기본설계 착수",
+          "publisher": "디지털데일리",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1qelc0YTFUTUF2d09SaE5LSFlncFB5alZHb3R0UjM4bFE4WVZaaEJnSkYzekZKYVY0Sldubl93Ym9pNTBicUcxdlA2Q2ZxRzVTVW5DUFhNMm9KNVpkQTdTb3BlM3k?oc=5",
+          "published": "2026-10-08T08:36:24+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대건설, 네덜란드 신규 원전 사업 기본설계 착수",
+          "publisher": "뉴스포스트",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zdmNJa2lYQmNNaHFPX08tRWVndklvbXQzMzBjZXBHMHZBNldoWkRILTN4OWlKZkpRMWZkaTVhd1VCYjdfdk9jekdGN0NVcVhnZnVaR3JPZ28wRWNRTzA2aDVxbTFSc0NBTUE?oc=5",
+          "published": "2026-10-08T08:41:40+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대건설, 네덜란드 신규 원전 기본설계 계약",
+          "publisher": "글로벌뉴스통신GNA",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XWXVwVmRVS0ZyRFpuQjBDQmtkY21TWHEwY0tBbGhxWlNvb3pIa1dKQWJ5YVgxN1lFdU90WVhrbFZ4MVp6S2twZzlKdUdrMEhNQ0lscDEtOVctVS0tY00wY05USVlqdkxGV0Izd1NNS0xabURG?oc=5",
+          "published": "2026-10-08T10:36:53+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대건설, 네덜란드 신규 원전 기본설계 착수",
+          "publisher": "부동산신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fR2xxRDlYZjliX1JTUkVXSFhYYWxNc3VNVWlzODhRLXYxdlZwUTlHQlBtODVjMVlKcHBLMzBtTUp2T0E0cm9oUGZBQl9pa2hiQmpUVWFZVFowVW1fUWt3N1lFeTdfbzZZ?oc=5",
+          "published": "2026-10-08T12:04:26+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[건설 Pick] 현대건설, 네덜란드 원전 기본설계 착수 外",
+          "publisher": "뷰어스",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UQjFGUExIVm05NDV5TUFHeGlNdktqU2hzeDhBVU0wOUVTMEpkUG5tVDZkWExranp5V0ItVDM1eGs4aEtJSzBQcjhFSmJPU3IyWDM4WVFwVGk?oc=5",
+          "published": "2026-10-08T14:06:13+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대건설, 네덜란드 신규 원전 기본설계 참여…유럽 사업 확대",
+          "publisher": "코리아리포트",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11QmJqRW1TNHdYS2pYdW80NURxS3l2ZG5jSTFveXplbW1UOUhieTRidTZBaUNzZUhTcTFwOGRCMzJmamo5V291Q2haUXBpU1pEb2tCVm5uY3lVS0lXSUY2ak9pUTlaSGxsVlhvY1NBU1I?oc=5",
+          "published": "2026-10-08T14:56:17+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.734,
+      "id": 0
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Bangladesh to put its first nuclear power plant into operation soon",
+          "publisher": "Laodong.vn",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOWtkdVJNSWphMWNLVVFXcTFxUUwyY1I5aVFRTlFZbTVEUFBFZXBtM3ZlVnk0UHNuVU9WRm16cDQ3cEpZZ1lQU1Z5RTE5VVA3OFpBY2kybTRnY1Aybk51bDFXeVdIaVNLRzFiXzY3Qm85MlR4UzVYMVdmMUliZTZ6c3V4cnNGOTFtSy1HZDRzbXI4ZWpubHJFVnNoSm5BRS1MdDloR0pXOXduQWRV?oc=5",
+          "published": "2026-10-07T23:40:19+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Bangladesh’s First Nuclear Plant Brings Hope and Concern",
+          "publisher": "https://newsalert.com.pk/",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLWw4OE90d2xheTBkWlg2VW9nakd3WV9lblNQTmhuT2RuSEJGclZYTldCM2V3WE1vRE9QR1czM0JIYXowWFZobTc3UlppNHJMSmxuYmFSVHZRR2lXZmJ4UDNlY1BEM21oSUNodmxmS1g2VDI3THZtMHhHSVl4TTcwOWdzMGRvdVVw?oc=5",
+          "published": "2026-10-08T06:43:12+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rooppur Nuclear Power Plant Nears First Electricity Generation",
+          "publisher": "https://www.businesstimes-bd.com/",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KcUF4SkZMZWNYSk5tWlZ3SV9qRzh4QUFfQnpOa2p2S0NTU0xGLU1XRXJrMmdQOGFLTmNLdER6VG93dlpHb3dnQUQ1QWktZ2hxbWhDWGxZT1NZckE?oc=5",
+          "published": "2026-10-08T08:51:07+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Bangladesh set to begin nuclear power generation",
+          "publisher": "GulfToday",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaHpqTlFSRTdScDRQbzJPcERRNk5GMUlWV1hCdUgxWk5pQTF5QjVueXlNOFptMjZkNGhVMVFWRDc4YzJ1R3J3ejdWN2MxUnBoMVBwUVo3X0s2Q2l5S21UMXB2eWxIZ2VDd0JXSnlBSnlVZ3VzSFV3bVBMWVB4eHYyamlLd0h0VlFCTnpDRk1wOGNwT1NiYVZN?oc=5",
+          "published": "2026-10-08T10:03:25+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rooppur Nuclear Power Plant‍‍`s first unit gets final approval for power generation",
+          "publisher": "TheReport.live",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSFBmN1lHT1ZiMU96R0NZck9GREN6MC1COHdCV0UzVDhxRDVVdDlLVjFKVUFoNmNMQm1CVjdzSVRoOFNDLU5LM01jaU1OY0taTXNKTEpiQXhBNzV3TnhZVDFNek5PaXU4Q1pKOVBzZndqcXMwT1B0ZmNJYWd5bklaOHU5dUlic3g0YTlvdGxmT2p6LVdlOU92cjZjSzYyTk04RmEwZEhONy15YXRVbHEyYmJlaE1jMU5VQktLTWs4TlE3cElJcDJQejhlbTBZZVJEMU5ZZVN3?oc=5",
+          "published": "2026-10-08T13:01:06+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.654,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NRC reviews LAR on Palisades fuel loading incident, as Pioneer SMR application advances",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-08/article-8474/nrc-reviews-lar-on-palisades-fuel-loading-incident-as-pioneer-smr-application-advances/",
+          "published": "2026-10-08T21:18:22+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.999,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Study proposes more efficient path to fusion ignition",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-08/article-8475/study-proposes-more-efficient-path-to-fusion-ignition/",
+          "published": "2026-10-08T19:03:55+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.906,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "PEJ And Westinghouse Begin Procurement Of Long Lead Items For Poland’s First Nuclear Plant",
+          "publisher": "NucNet",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTmMwRlUtMWdPSExiZGdGRVRDMERuUkh2ZTNGZ0pVbm5mX3ZleV83c1Z3RHlqb04yZjBXcUR3U3NRTXp1VDRTMmNla0toaUNyTlBlb0tkeE9Iai02TVNtVVFWOG1yQ3RXUC1UVmhTOFl0T2lSNkF5eU4xYl9RUkhMOUVRQmlldkJZbmNsVDNKdERLcXgyWmJ0Z2hPY1NjN29sMG1Wc0NKWF9aUFNkNV9QZTJLUFhZWnU4ZktMcmRZYVVJRURDbm9z?oc=5",
+          "published": "2026-10-08T09:01:45+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "PEJ and Westinghouse Begin Long-Lead Item Procurement Process for Poland’s First Nuclear Power Plant",
+          "publisher": "Business Wire",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTmpPenlFMnlqdnFkWlpsT0JwWnMxeDVxeU9TRUR3NVdWZ0ctVHBzYVJEME4wMWFzNEhCdTljMnpSRGRLZElLaTZUVnVHY0JacVFReVdWb3d6VGVuNFB3blpia3RmalVoaU9VSm10Q2tLVE81VVFfNmM3UjBBTDg2NWJUQ1JpbmQ3eWpFNXRNMHpJZkNoTVJ4NmpGWEVlMUc3UnkzMjFTUVVFYUlxbkd2cGRWYnRsR1hlRC0tTjBlOXVnSlkzWmFlX2xDSS1FTzVZZUFxdWtZNFJHSmd1ZnRmbHFRa1M2U3pEaGVHeg?oc=5",
+          "published": "2026-10-08T16:20:35+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "PEJ And Westinghouse Begin Long-Lead Item Procurement Process For Poland's Nuclear Power Plant",
+          "publisher": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPb1NkSzZDM04tUkdYMW41R3A1NUNIX2ZYclIzeEp4TUhXZEF0cjdLZUVVR0ZsSmJabEdOSW1FU3Z0UEIzVHhUT0dIc09iN0pXeGZfY2tlMEEwbWc0UnZRR3hWcVVtS2thTDMyUE4xWnduNUNIWENvVndpbVF0TVlZdENtQ2JVN0lCd214ZzZmU0p4LUljRDBaUEswMHlKeEdtcF84ZktJN3lpazVwcjZscmppRllobEF3RUZHOXhSSWRZZWtBa1RveWd2SUo0SDJiWVM1TF9qNU1zUjVadHhDMnoxQnUyaVNQeE5mMTlfZl8xUnY1MVBB?oc=5",
+          "published": "2026-10-08T16:46:45+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.811,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Poland begins ordering long-lead components for first AP1000",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/poland-begins-ordering-long-lead-components-for-first-ap1000",
+          "published": "2026-10-08T16:16:41+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.79,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "DOE announces grants for SiC cladding research and testing",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-08/article-8473/doe-announces-grants-for-sic-cladding-research-and-testing/",
+          "published": "2026-10-08T16:00:11+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.778,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "China's Tianwan 7 connected to the grid",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/chinas-tianwan-7-connected-to-the-grid",
+          "published": "2026-10-08T14:59:17+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.736,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Last Energy's Texas micro-modular reactor clears safety analysis",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/last-energy-texas-micro-modular-reactor-clears-safety-analysis",
+          "published": "2026-10-08T14:45:38+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.726,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Thorizon, Urenco to cooperate on MSR fuel cycle",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/thorizon-urenco-to-cooperate-on-msr-fuel-cycle",
+          "published": "2026-10-08T12:47:19+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.644,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Rising together: Collaborative project delivery for the nuclear fleet",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-08/article-8405/rising-together-collaborative-project-delivery-for-the-nuclear-fleet/",
+          "published": "2026-10-08T12:43:57+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.642,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Supplier Showcase focus: AI-driven diagnostics",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-08/article-8472/supplier-showcase-focus-aidriven-diagnostics/",
+          "published": "2026-10-08T12:04:44+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.615,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Slovakia buys out Czech stake in new nuclear project company",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/slovakia-buys-out-czech-stake-in-new-nuclear-project",
+          "published": "2026-10-08T11:48:24+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.603,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Westinghouse teams up with Hyundai E&C for Dutch FEED studies",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/westinghouse-teams-up-with-hyundai-ec-for-dutch-feed-studies",
+          "published": "2026-10-08T11:04:41+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.573,
+      "id": 13
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원전 공론화위 \"다수결 대신 숙의\"…시민 300명 2박3일 토론",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Qc2NodmRtRjVOYURPRFM3VmJWX3lRaWd0UDhJTkdNMjExZ2ZUb0dadzVVQnYwXzBNTW5kMjFPUk12c1lxY3pwU1dCdW5WelVRc3YyWDZ6QVlqWlQ4bVdLR9IBYEFVX3lxTE1Qc2NodmRtRjVOYURPRFM3VmJWX3lRaWd0UDhJTkdNMjExZ2ZUb0dadzVVQnYwXzBNTW5kMjFPUk12c1lxY3pwU1dCdW5WelVRc3YyWDZ6QVlqWlQ4bVdLRw?oc=5",
+          "published": "2026-10-08T01:52:57+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원전 공론화위 \"다수결 대신 숙의\"…시민 300명 2박3일 토론",
+          "publisher": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43ckFUUjhBd2s1VnhjYzdRVk9GX0o2ZGJ0cFFaQ0JKeGRjUzlyVEd5VnFOYmMyV1RqOWptOFZSWXJvZjlPMk51Q284b3ZJajR2ZUE?oc=5",
+          "published": "2026-10-08T01:52:57+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "시민 300명 2박3일간 원전 공론화… “다수결로 결론 안 낸다”",
+          "publisher": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TVFFWQjAwaGJQUTNSOVBiaDltSjJzbS0wZEVnd0lCWDBKeXlaU1VoYjVPZk14WGwtT19IYjN1WXdPcVgxX2YyYUtmaGc4cEdDaElJ0gFTQVVfeXFMTVNUUVZCMDBoYlBRM1I5UGJoOW1KMnNtLTBkRWd3SUJYMEp5eVpTVWhiNU9mTXhYbC1PX0hiM3VZd09xWDFfZjJhS2ZoZzhwR0NoSUk?oc=5",
+          "published": "2026-10-08T07:58:09+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 2.443,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "BAERA Approves Nuclear Reaction at Rooppur Nuclear Power Plant",
+          "publisher": "Energy Bangla",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZnpyVmJtY1hMdnpBSUJoQVRYbjRBbW1mWjU0SUNTZ1VmdC1kSEpuV29JWGZleUVQV2JaNVFWMmVOZXltSTd2SklibXVQQnlBY2VNanBkS1VrSEZ4TXh4bzB1VjBxSEhJZkRmSE1EVEMxYUlYUlpCVEpodzV3MW9WNVd3ZnR3eV9HLUdqVUVDOElWUQ?oc=5",
+          "published": "2026-10-08T13:46:37+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rooppur Receives Final Approval for Nuclear Power Generation",
+          "publisher": "RTV News",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRZDJjWTl0R1NkcDBRd3BhVndSWlpjc0ZQSDNCaDhoR2FXcmxna1VSakFueV9KdEJ4SWdLZjBfVVVOeVZpWERoQU55WUJpX0piVHpJcHJXSkpudTQ?oc=5",
+          "published": "2026-10-08T19:07:30+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.908,
+      "id": 15
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Rooppur Unit 1 gets nod to start first controlled nuclear reaction",
+          "publisher": "The Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaFRqamhZX1FGNEdVNXRCNWZGdnFOSk9lQ0FINkJNamZ5bTZOSTZMVTEyMlZKdnI0Q1Q5SjlYMHBMbVRDU3I3ak1kbFk3cUdjUzNpSHlKQXJLM1g2ZjR5OWtoTkJobTJ2NmRTYV9JaTNQUlJLNUdzeWxzWXhtLTFJQW9EUUhhM2JmdnFtUXlyU1lXUDVoVnZ6QU5jbXJ6blNubGQzZDZMek1Uci1oeW85NTVSWnNOTVhU?oc=5",
+          "published": "2026-10-08T12:45:11+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rooppur Unit 1 gets approval to start first nuclear reaction",
+          "publisher": "www.daily-sun.com",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kZjhvVmJ2cExfMlFXZC1IVXVkUXZSNXhLaHNnNkVIQlFoc0ZGNUhETjVYS2VZb0Y4d05RdXpFSzY1aENnc0dTd1ZZaw?oc=5",
+          "published": "2026-10-08T16:41:39+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.807,
+      "id": 16
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "기후부, '원전 공론화위원회' 1차 회의 열고 운영 원칙과 시민참여 방식 논의",
+          "publisher": "행정신문",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mYzViM1JXa1NrbDhaQjladV8yRjNwenBoMER6S2tVTmFjbVlYTHE5blczNWNURktScWpIYzBoUkRNLU4yYncyeVF5V3VoZlVySW5UU2pGMm1BT0hIcVJ5QnQ2NXFOMDJjYWtVcw?oc=5",
+          "published": "2026-10-08T10:01:46+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원전 공론화위원회, 1차 회의 열고 운영 원칙·시민참여 방식 논의",
+          "publisher": "에코타임스",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhZk84TEo5ZEpGYjNyMDNkeE9NM3hwdlhpZnl5eUNtSGN5a3BRbU16dTNvYnVETTEwYlA1bGNYZVlFcW9BOTlsd1U4MGRZWmVjMXRQYmJHOWRLZEs1TGpJZ21LN00tNFJnQlZxeUFSVdIBb0FVX3lxTFBhZk84TEo5ZEpGYjNyMDNkeE9NM3hwdlhpZnl5eUNtSGN5a3BRbU16dTNvYnVETTEwYlA1bGNYZVlFcW9BOTlsd1U4MGRZWmVjMXRQYmJHOWRLZEs1TGpJZ21LN00tNFJnQlZxeUFSVQ?oc=5",
+          "published": "2026-10-08T12:12:04+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.62,
+      "id": 17
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[울산소식]새울원자력, 서생면 취약층에 밑반찬 배달 등",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qZGZoTWhjdjVwSGNab0VzcU9qSHJoYW5hWUcxR19iSExIWUxvWDRlWXFZZ1FoQmhKc0doa2llSFRVdEVOTFcySzh6b3hKUTNzejlLZ2lMVlk3R1JkNTdMS3RsMkx1YktuNzFHaGUtdEhBZmV1U3I1T9IBeEFVX3lxTE5qZGZoTWhjdjVwSGNab0VzcU9qSHJoYW5hWUcxR19iSExIWUxvWDRlWXFZZ1FoQmhKc0doa2llSFRVdEVOTFcySzh6b3hKUTNzejlLZ2lMVlk3R1JkNTdMS3RsMkx1YktuNzFHaGUtdEhBZmV1U3I1Tw?oc=5",
+          "published": "2026-10-08T07:21:30+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "새울원자력, 서생면 취약계층 35가구에 '사랑의 밑반찬' 배달",
+          "publisher": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kMXlyQkdWTDdwTlFEMjc4T3J5ZkZqWHZXMGkzZG5qWkxjOWkyaXIxb2tqeU9xeHl3aG9sOFRyZEdSSVZ0aE9lcEdGSENYV0ZxMmc?oc=5",
+          "published": "2026-10-08T07:57:09+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.443,
+      "id": 18
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "현대건설, 네덜란드 신규 대형원전 FEED 1 체결… 유럽 원전 시장 공략 가속",
+          "publisher": "글로벌이코노믹",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbmozWWtjWnlqWlBuVGVDOTFTZTVaOGN3ZzZJZ0hJTWhJRXBTVXd1Z180cjJzNUhxTjlYRHVXMmNyQ043dkh4Sm1FOHl3NDc2ZFpIajRadWNTVXM4YXFVSG5PYzgyNjRwQ3BkSkFOLUFtQTJCazAwQVFuMWNFd3lqRE1vOTVtdllsUFE?oc=5",
+          "published": "2026-10-08T06:19:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대건설, 네덜란드 신규 원전 사업 참여…유럽 원전시장 공략 가속화",
+          "publisher": "백세시대",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QNWFWYjl3cVZ0bVF1WnlsYThjdF90WlEtVkFobzB1NGtwYnA5aHRSTXZGX1VOZXktbkpUcVBFdVhHdV9Pb0FSN3BMR09Ib2hEVXNLUWFzMTAyeWp2ZjJXTkZWcnpFMVFBbi0w?oc=5",
+          "published": "2026-10-08T07:54:21+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.441,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "남부발전, MIT 원자력재료센터와 미래 에너지 인재양성 협력",
+          "publisher": "천지일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOU1lsTDg5YUtkRXpQbFpILVNTTUV5cHMySkY1Y1ZEb3J0R0ZBLXdFMjl4WlhvSXVGa05NWEJxYUNEeFZGV1V4UEQ0RkxCVHRlOGZTVzNqMjM5NUtEQkllOGV2bUpOLXNFanc?oc=5",
+          "published": "2026-10-08T07:16:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "남부발전, 美 MIT 원자력재료센터와 에너지 인재 양성·연구 협약",
+          "publisher": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jTXVnM1FzV1FmMlJMak1meHY3UDdlUUl4WmlCUlFLVlhCMTJzRXJsaUI2c1hpamYwRkVPeFpaV2Z3bDhyeFkwUk5NT3JQc3pKN3FiUA?oc=5",
+          "published": "2026-10-08T07:38:21+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.43,
+      "id": 20
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "현대건설, 네덜란드 대형원전 기본설계 진출…유럽 시장 공략 가속",
+          "publisher": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sMjBwaW1vQ1ZaOC1KY29qd0U0RFF4OGFJejU3bkZTaXhSNWlzT3F2U194cXJZTlp4TmpwRjhwWk00MmpfNXN3TUEzRnB0dlBPLVJYaXJNQlBhV0VU?oc=5",
+          "published": "2026-10-08T02:11:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대건설, 네덜란드 대형원전 2기 기본설계 계약",
+          "publisher": "기계설비신문",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tMFZnSmdzWm1iNkxpRm9XLTNoV3pZcXR5b3cwd002N2Z0SC1VZEl0SW96STJyYXlfWmNZb21TQy1fYkoxOTdHVTBJSUhtLUp1U0d1Q2dyemdkMk1kWV9LcmlNR0cxNFkxNHNjQw?oc=5",
+          "published": "2026-10-08T02:51:32+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.23,
+      "id": 21
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "현대건설, 웨스팅하우스와 네덜란드 대형원전 2기 기본설계(FEED 1) 계약 체결",
+          "publisher": "오피니언뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41bGlZY1k1LTJhTU53cVVPUElnNGdpYzNtRHdXeEUySE1WbnVNVUowNXRCYnBTUUl4Q08wVkJjSjZOUzVVSXJJWlo3bFFQN3g0Sm95eUJtLTRtbnhiY3ZRYlowVkZKbENLdTFDRUw1NGlzUQ?oc=5",
+          "published": "2026-10-08T02:15:51+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대건설-웨스팅하우스, 네덜란드 대형원전 2기 기본설계 계약 체결",
+          "publisher": "파이낸셜신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DRWtrczZWTHBJM1Bfd3dSc09zeUdXWE9sSlBhRVRMX3hxeHJqTnpfVHFzVGVKbHI4dTZGZzUzOXJEc2xHUWM0TXk1RFVReTJjTEh5QWJuZ010VmVaR293Vk5NbjAybUg4N040?oc=5",
+          "published": "2026-10-08T02:51:15+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.23,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "폴란드 첫 원전 'AP1000' 핵심 부품 발주…건설 본궤도 진입",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wR3ZkTFAydW1jZkRhZnhHekE4LWhSTTRhaDJfZHB0UjJQbGZWTXpQanh5Z3hfQnRjbF9JZEk2YThXT0Y5OE1ydnpVZlo4cDItSkZia2dkYTg2ZUU4Q0dBS1dvVzc?oc=5",
+          "published": "2026-10-08T20:53:25+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.982,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "러시아 원자로 품은 중국, 톈완 7호기 송전 개시…원전 확장 가속",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QaXpFU1VNVEE4ODVpNkFBZXJRZEZUNkdLU1RwUERMclNFdmllakNCVXg5QS1lS3UxY3lrZWN0TDd5TlUtV0c4THgxUW80VURQQTlhOHBvSGFURXdzN2F6YlBpTVY?oc=5",
+          "published": "2026-10-08T20:36:46+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.97,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "과거 탈핵 소신 어디로? 김성환 기후부 장관 '갈지자' 원전 행보",
+          "publisher": "뉴스펭귄",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aN1NGYklLempEUkVZZmhVc081QVB3anl4Y0ltNG5rT21FdlVlU1B5bWwxYXFPd3ZWZmJYeXpSZlFVVzRCcmhEMV93XzVneG1URU41RHZpdHR1QjJGa1VqWUFfVS1pSXpscUtUQUtn0gFyQVVfeXFMUGJwNlZ2MzFIeTZXc3BianRWRDcwUkNLejVueUNlNG1OQWJ6MVJScTZQUDh1YzJwdFJCcVFsUk0yNnVNSVl4RVF6VHk2MkltUF9UUFBtVUdJM0hEZ1VpaWxOVWJLNVEwM1RYTkp1QWN0OU1B?oc=5",
+          "published": "2026-10-08T19:54:49+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.941,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "이란 원자력청장 \"우라늄 농축 포기하지 않을 것…국가적 권리\"",
+          "publisher": "블루밍비트",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xVFZCbjdHYnRWbGh0cFRESy1IOWJLbEhuLXNXNVJJNzNPbFhlOUlQdVFfTFdRSzFVTzl1a2pSd3piNy1DU21wOUJnUzhjNzJq?oc=5",
+          "published": "2026-10-08T17:06:22+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.824,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한빛원전 건식저장시설, 고창군의회 ‘주민투표’ 요구",
+          "publisher": "주간해피데이",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRFAxNmpQLUhmMC01TF9Nb2ZxOHNqOG8zUjFDWG5wbnRyRjMtREhEMFMwUGEwc3lYRDVDazBsZklROFJqMHc2OTRjV3ZVSk1lRGJEaWpad2JOMkNYYjljSkd5N191SUVFY0dURWFvdF9KUEhnVDlObC1STms1ZWN6Z0k1MA?oc=5",
+          "published": "2026-10-08T15:48:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.77,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원자력은 젊은 과학자들에게 중대한 과제를 안겨줍니다.",
+          "publisher": "Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOemVMQUtDd1NEakNNbUhxbWdjN0ZlRWNvamRTYzNYR084LVc5U1dXdHh3LW1qdXNVNHBPb3FtOHpocTFJTjFJQnMtZ0x6OE9ETjY4VmFxSkZtUlVFRnlpeHJ2UnZpNHZUUVhYMTE3R0Vac0U5cHE2NjEwd05NWENpNWRzU0FMYVlf?oc=5",
+          "published": "2026-10-08T14:29:07+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.715,
+      "id": 28
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원자력 분야의 젊은 전문가들 사이에서 과학 연구를 장려합니다.",
+          "publisher": "Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS1U1emVCcTBKWHFod0hyTjBMQTZlNXlHVWh6WGhtbWlkdEFXQ1YtcnZkNUFlLXIxRlV2bDZYVWRoRi1RTmQwdmZvdGp2aVNVOElsVkdHM2tVanlqUHYyeHh1Z3JaY0VicEVQZmNDY2lQZWJ0a2dIS2xfR3BNOUFrS3lzOHNsVWxYR0JOMnFhM19pbFNpNzg3UVVtZnVEUDA?oc=5",
+          "published": "2026-10-08T13:42:23+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.682,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 87
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 52,
+      "kept": 13
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 82,
+      "kept": 78
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 46,
+      "kept": 6
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 5
+    }
+  }
+}

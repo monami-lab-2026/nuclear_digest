@@ -1,0 +1,1052 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-28T23:52:11+00:00",
+  "engine": {
+    "engine": "claude-code-session",
+    "briefed_at": "2026-10-04T20:46:18+00:00"
+  },
+  "overview": "오늘은 미국에서 멈춘 크레인 원전을 다시 돌리기 위한 환경 검토가 끝났다는 소식이 해외 인허가 쪽의 주요 흐름이었다. 국내에서는 일찍 문을 닫는 석탄화력을 SMR 등으로 바꾸는 방안을 둘러싼 논쟁과 대전시의회 원자력안전특위 출범이 눈에 띄었고, 해외 연구 소식으로는 사용후핵연료 재처리를 단순하게 만들 수 있다는 공정이 소개됐다. TVA 오크리지(클린치 리버) 원자로 건설 승인 소식은 보도가 모인 10월 1일 브리핑에서 정리했다.",
+  "stories": [
+    {
+      "source_ids": [
+        9
+      ],
+      "region": "해외",
+      "category": "원전 운영·건설",
+      "importance": 3,
+      "headline": "미국 NRC, 크레인 원전 재가동에 필요한 환경 검토 마쳐",
+      "summary": "World Nuclear News 보도에 따르면 미국 원자력규제위원회(NRC)가 크레인(Crane) 원전 재가동에 대한 환경 검토를 마쳤다. 제목 기준으로는 재가동 인허가 가운데 환경 영향 심사 단계가 끝난 것으로 보이며, 안전성 심사 등 다른 절차가 어디까지 왔는지는 후보 목록만으로는 알 수 없다.",
+      "background": "운전을 멈춘 원전을 다시 가동하려면 규제기관의 심사를 다시 거쳐야 한다. 미국의 원전 인허가는 크게 안전성 심사와 환경 검토의 두 축으로 진행되며, 환경 검토는 국가환경정책법(NEPA)에 따라 사업이 주변 환경과 지역 사회에 주는 영향을 평가하는 절차다. 일반적으로 영구정지를 선언한 원전은 운영허가가 더 이상 원자로 운전을 허용하지 않는 상태가 되므로, 이를 운전 가능한 상태로 되돌리는 절차가 따로 필요하다. 오래 멈춘 원전은 그동안 노화된 기기, 바뀐 규제 요건, 운전 인력 확보 같은 항목도 다시 점검해야 한다.",
+      "why_it_matters": "멈춘 원전을 다시 쓰는 방식은 새 원전을 짓는 것보다 기간과 비용이 덜 들 가능성이 있어 여러 나라에서 관심을 받고 있다. 공학적으로는 정지 기간 동안 설비 보존 관리가 제대로 됐는지, 펌프와 밸브, 배관, 전기·계측 설비가 다시 쓸 수 있는 상태인지 평가하는 일이 핵심이다. 환경 검토가 끝났다는 것은 여러 인허가 단계 가운데 하나를 넘었다는 뜻이지, 곧바로 운전을 시작한다는 뜻은 아니다. 앞으로는 안전성 심사 결과와 기기 교체·점검 작업이 어떻게 진행되는지가 관전 포인트다. 학생 입장에서는 운전, 정지, 재가동으로 이어지는 원전의 수명 주기를 규제 절차와 함께 이해해 볼 수 있는 사례다.",
+      "concepts": [
+        {
+          "term": "환경 검토(NEPA)",
+          "explain": "미국 국가환경정책법에 따라 연방 기관이 허가를 내주기 전에 사업이 환경에 주는 영향을 평가하고 대안을 비교하는 절차다."
+        },
+        {
+          "term": "보존 관리(lay-up)",
+          "explain": "설비를 오래 쓰지 않을 때 부식이나 열화를 막기 위해 건조, 질소 충전, 수질 관리 등으로 상태를 유지하는 방법이다."
+        },
+        {
+          "term": "운영허가",
+          "explain": "원자로를 실제로 운전할 수 있도록 규제기관이 내주는 허가로, 안전성 심사를 통과해야 받을 수 있다."
+        }
+      ],
+      "question": "오랫동안 멈춰 있던 원전을 다시 가동할 때 어떤 기기와 계통을 가장 먼저 점검해야 한다고 보는가? 정지 기간 동안 일어날 수 있는 열화 기구(부식, 고무·케이블 노화 등)를 근거로 우선순위를 정해 보자.",
+      "study": [
+        "원전 재가동 절차",
+        "환경영향평가",
+        "보존 관리(lay-up)",
+        "경년열화"
+      ],
+      "reference_ids": [
+        "nrc-factsheets",
+        "iaea-pris"
+      ]
+    },
+    {
+      "source_ids": [
+        11
+      ],
+      "region": "국내",
+      "category": "정책·산업·수출",
+      "importance": 2,
+      "headline": "조기 폐쇄 석탄화력을 SMR 등으로 바꾸는 방안 거론, 탈석탄 후퇴라는 반발도",
+      "summary": "KBS 뉴스 보도 제목에 따르면 일찍 문을 닫는 석탄화력발전소를 소형모듈원자로(SMR)나 안보전원으로 바꾸는 방안이 거론되고 있다. 이에 대해 탈석탄 정책에서 물러서는 것이라는 반발이 나온 것으로 보인다. 누가 어떤 형태로 이 방안을 추진하는지는 후보 목록만으로는 확인되지 않는다.",
+      "background": "석탄화력을 원전으로 바꾸는 방식은 흔히 석탄화력 부지 전환(coal-to-nuclear)이라고 부르며, 기존 부지의 송전망 연결, 냉각수 취수 설비, 부지 인력 같은 기반 시설을 다시 쓸 수 있다는 점이 장점으로 꼽힌다. 소형모듈원자로(SMR)는 대략 전기출력 300MWe 이하의 원자로를 공장에서 모듈 형태로 만들어 현장에서 조립하는 개념이다. 출력 규모가 석탄화력 한 기와 비슷한 경우가 많아 대체 후보로 자주 거론된다. 다만 원전 부지는 지진, 인구 분포, 비상계획구역 설정 등 석탄화력과 다른 기준으로 평가해야 하므로 기존 부지를 그대로 쓸 수 있다고 단정할 수는 없다.",
+      "why_it_matters": "탄소 감축과 안정적인 전력 공급을 함께 맞추려는 정책 고민이 원자로 기술 선택으로 이어지고 있다는 점에서 공학도가 눈여겨볼 소식이다. 경수로가 만드는 증기는 석탄 보일러보다 온도와 압력이 낮아 기존 터빈을 그대로 쓰기 어려운 경우가 많으므로, 다시 쓸 수 있는 설비의 범위를 꼼꼼히 따져야 한다. 원전은 정상 운전뿐 아니라 사고 때의 열 제거 능력이 중요해서, 석탄화력의 냉각 설비가 원전의 설계 기준을 만족하는지도 검토 대상이다. 반발 의견은 재생에너지와 원전의 역할 분담이라는 정책 논쟁과 이어져 있어 기술 논리만으로 결론이 나기는 어려울 가능성이 크다. 앞으로 정부의 전력 계획에 이 방안이 어떤 형태로 담기는지가 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "소형모듈원자로(SMR)",
+          "explain": "대략 전기출력 300MWe 이하의 원자로로, 주요 기기를 공장에서 모듈로 만들어 현장에서 조립하는 방식을 지향한다."
+        },
+        {
+          "term": "석탄화력 부지 전환",
+          "explain": "폐지되는 석탄화력 부지에 원전을 지어 송전망, 냉각수 설비 같은 기존 기반 시설을 다시 활용하려는 방식이다."
+        },
+        {
+          "term": "비상계획구역(EPZ)",
+          "explain": "원전 사고에 대비해 주민 대피 등 보호 조치를 미리 계획해 두는 원전 주변 구역이다."
+        }
+      ],
+      "question": "석탄화력 부지를 원전 부지로 바꿀 때 다시 쓸 수 있는 설비와 새로 지어야 하는 설비를 나눠 보자. 경수로형 SMR이 아니라 고온가스로처럼 증기 조건이 다른 노형이라면 판단이 어떻게 달라질까?",
+      "study": [
+        "소형모듈원자로",
+        "랭킨 사이클 효율",
+        "원전 부지 선정 기준",
+        "비상계획구역"
+      ],
+      "reference_ids": [
+        "iaea-smr",
+        "iaea-aris",
+        "wna-library"
+      ]
+    },
+    {
+      "source_ids": [
+        18,
+        26
+      ],
+      "region": "국내",
+      "category": "핵연료·방사성폐기물",
+      "importance": 2,
+      "headline": "대전시의회 원자력안전특위 첫 회의, 방폐물·사용후핵연료 점검에 무게",
+      "summary": "프레시안, 굿모닝충청 등 보도에 따르면 대전시의회가 원자력안전특별위원회를 꾸려 첫 회의를 열고 구본환 위원장을 선임했다. 제목 기준으로는 특위가 방사성폐기물(방폐물)과 사용후핵연료 문제를 중점적으로 살펴볼 계획인 것으로 보인다.",
+      "background": "방사성폐기물은 방사능 농도와 열 발생량에 따라 극저준위, 저준위, 중준위, 고준위로 나뉘며, 등급에 따라 처분 방식이 다르다. 사용후핵연료는 원자로에서 쓰고 꺼낸 연료로, 방사능 세기와 붕괴열이 커서 오랫동안 냉각과 차폐가 필요하다. 상용 원전뿐 아니라 연구용 원자로와 핵연료 연구 시설에서도 방사성폐기물과 사용후핵연료가 생길 수 있으며, 대전에는 한국원자력연구원 등 원자력 연구 시설이 자리하고 있다. 원자력 시설의 안전 규제는 국가 규제기관이 맡지만, 지방의회와 지자체는 주민 의견을 모으고 정보 공개를 요구하는 방식으로 관여할 수 있다.",
+      "why_it_matters": "방사성폐기물과 사용후핵연료 관리는 기술 문제이면서 지역 주민의 신뢰가 걸린 문제라서, 지방의회 차원의 점검은 사회적 수용성 측면에서 의미가 있다. 공학적으로는 폐기물 종류별 발생량, 임시 저장 방식, 저장 기간 동안의 차폐와 냉각 성능이 기본 점검 항목이 된다. 사용후핵연료는 영구 처분 시설이 마련되기 전까지 습식 또는 건식 방식으로 저장해야 하므로, 저장 기간이 길어질수록 저장 용기와 연료의 장기 건전성이 중요해진다. 특위가 실제로 어떤 자료를 요구하고 어떤 기관과 소통하는지가 관전 포인트다. 원자력 전문가에게는 기술 정보를 주민과 의원이 이해할 수 있는 말로 설명하는 능력도 필요하다는 점을 보여 주는 사례다.",
+      "concepts": [
+        {
+          "term": "방사성폐기물 분류",
+          "explain": "방사능 농도와 열 발생량에 따라 극저준위, 저준위, 중준위, 고준위로 나누며, 등급이 높을수록 더 깊고 엄격한 격리가 필요하다."
+        },
+        {
+          "term": "건식 저장",
+          "explain": "수조에서 충분히 식힌 사용후핵연료를 금속이나 콘크리트 용기에 넣어 공기 자연대류로 냉각하며 보관하는 방식이다."
+        },
+        {
+          "term": "붕괴열",
+          "explain": "원자로를 멈춘 뒤에도 핵분열 생성물이 방사성 붕괴를 하면서 계속 내는 열로, 사용후핵연료 냉각이 필요한 이유다."
+        }
+      ],
+      "question": "지역 주민이 방사성폐기물 저장 시설의 안전성을 이해하도록 돕기 위해 어떤 공학 지표(예: 주변 선량, 저장 용량, 붕괴열)를 어떤 방식으로 공개하는 것이 적절할까?",
+      "study": [
+        "방사성폐기물 분류",
+        "사용후핵연료 중간저장",
+        "붕괴열",
+        "차폐 설계"
+      ],
+      "reference_ids": [
+        "nssc",
+        "kaeri",
+        "nuclear-db"
+      ]
+    },
+    {
+      "source_ids": [
+        7
+      ],
+      "region": "해외",
+      "category": "연구·기술",
+      "importance": 1,
+      "headline": "용해도 차이를 이용해 사용후핵연료 재처리를 단순화하는 공정 소개",
+      "summary": "ANS Nuclear Newswire 보도 제목에 따르면 용해도에 기반한 공정이 사용후핵연료 재처리를 더 단순하게 만들 수 있다는 내용이 소개됐다. 제목 기준으로는 연구 단계의 기술로 보이며, 어떤 원소를 어떤 조건에서 분리하는지 등 세부 내용은 후보 목록에 나와 있지 않다.",
+      "background": "재처리는 사용후핵연료에서 우라늄과 플루토늄처럼 다시 쓸 수 있는 물질을 분리하고 나머지를 폐기물로 정리하는 과정이다. 대표적인 상용 방식인 퓨렉스(PUREX)는 연료를 질산에 녹인 뒤 유기 용매(TBP)를 이용한 용매 추출로 우라늄과 플루토늄을 분리한다. 이 과정은 여러 단의 추출·역추출 장치와 많은 화학 약품을 쓰기 때문에 설비가 복잡하고 2차 폐기물이 생긴다. 용해도 차이를 이용한 분리는 특정 화합물이 조건에 따라 녹거나 가라앉는 성질을 활용하는 방식으로, 결정화나 침전 분리가 그 예다.",
+      "why_it_matters": "재처리 공정의 단계 수를 줄일 수 있다면 설비 규모, 운전 비용, 2차 폐기물 발생량을 함께 줄일 가능성이 있다. 다만 실험실에서 분리가 잘 되더라도 실제 사용후핵연료처럼 방사능이 강하고 성분이 복잡한 시료에서 같은 성능을 내는지는 따로 검증해야 한다. 강한 방사선 속에서 용매나 화합물이 분해되는 문제, 원격 조작 설비에서의 운전성, 공정 중 임계 관리도 공학적 검토 대상이다. 또한 재처리 공정은 핵물질 계량 관리 같은 안전조치를 함께 고려해야 하므로, 플루토늄이 단독으로 분리되는지 여부가 중요한 설계 기준이 된다. 앞으로 실제 연료 시료를 쓴 실험이나 규모 확대 연구가 이어지는지가 관전 포인트다.",
+      "concepts": [
+        {
+          "term": "퓨렉스(PUREX) 공정",
+          "explain": "사용후핵연료를 질산에 녹이고 TBP 용매로 우라늄과 플루토늄을 추출하는 대표적인 상용 재처리 방식이다."
+        },
+        {
+          "term": "용매 추출",
+          "explain": "서로 섞이지 않는 두 액체 사이에서 물질마다 옮겨 가는 정도가 다른 점을 이용해 원하는 성분을 분리하는 방법이다."
+        },
+        {
+          "term": "안전조치(Safeguards)",
+          "explain": "핵물질이 평화적 목적 밖으로 쓰이지 않도록 계량, 검증, 감시를 하는 국제 체계로, 재처리 시설 설계에 큰 영향을 준다."
+        }
+      ],
+      "question": "새 분리 공정을 실험실 규모에서 상용 규모로 키울 때 분리 효율 외에 어떤 공학 조건(방사선 분해, 임계 관리, 2차 폐기물 등)을 가장 먼저 확인해야 한다고 보는가? 우선순위와 이유를 정리해 보자.",
+      "study": [
+        "PUREX 공정",
+        "용매 추출",
+        "핵연료주기",
+        "임계 안전"
+      ],
+      "reference_ids": [
+        "wna-library",
+        "oecd-nea",
+        "paper-collection"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "First concrete poured for Bailong 2 nuclear power unit",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/first-concrete-poured-for-bailong-2-nuclear-power-unit",
+          "published": "2026-09-28T11:12:52+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        },
+        {
+          "title": "First concrete poured for Bailong 2 nuclear power unit",
+          "publisher": "world-nuclear-news.org",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWkcyWkEtLVhVZEJuRXUyS19MODFCM1o2eEFEZENHMUlmWUVxYThidG01UDR3eXNiYVVRX1ItQU10eUl0aFQydm1rcjI1QV8zdkJxV1pibUtCeHdVNXdMbzl4ZDlmdzVoNTV5cVJxWWsyanI1U1dUY2tFaVVpNUgyNGczZlRTd0V2SnBPR0xPTzlEV0JZUTZRSUV3?oc=5",
+          "published": "2026-09-28T21:43:25+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.911,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원자력연구원장에 정우식 교수·전기연구원장에 강상희 교수",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sU252cllKcVVGaG84UGw5RWsyYnFVNkFhNFlPU1JlWFdjd0lqd3ZzQUZSMDA3N0UxZVgtWDlhWVoyTkF4UHBkUFY5SS14ajY4RXNOUU82UmppX3fSAWBBVV95cUxOZ3pZMFlucHVPRmVyVHhXM01rdkt4cnlLZUNCbFJ0TktiVkx0NGhSQzBBQmF4UFA2MmhWazNGVHM3bTkwVk5pWlZlTl9SUmY4T08tZkNoYVozUWJmY2RzbUI?oc=5",
+          "published": "2026-09-28T07:15:30+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "정우식 원자력연구원장·강상희 전기연구원장 선임",
+          "publisher": "에너지경제신문",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05QkRPajVkeWFic1RrSVVXenJQUGxDMUtocEdxbWFfX3pEbHBRWVNnU1RFSG04WHYwVTZXc01aUDRwQTc5ZlVzaFNiTUNvdnpDUWMtYUJkbDhyY1U?oc=5",
+          "published": "2026-09-28T07:44:31+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원자력연구원장에 정우식 교수·전기연구원장에 강상희 교수 발탁",
+          "publisher": "교수신문",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pZi1KeXUtelhGSHpNSXJZb1VWZkJRMVozU1Q1a0VLb2tFcWpUVDNYOVVacDNEYlhJWTBwd1B6eEZ2YWZZZm9MUjNrX2RYdUZxcWRNOHFsQ1B0a3dZTDZtVUVxRnVudEE?oc=5",
+          "published": "2026-09-28T08:18:26+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "전기연·원자력연 신임 원장에 강상희·정우식",
+          "publisher": "DongA Science",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwNU9HeDBtTjNrOTczbGV4ajVFMmd5NEVybzVuQl9zZWFQSFhTTzJfOThaUGloSGczckdMVzNxSFlxemlXaGFYbVVIYXlaRl9UVFVrOA?oc=5",
+          "published": "2026-09-28T10:02:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원자력硏 원장에 정우식·전기硏 원장에 강상희 선임 - 조선비즈",
+          "publisher": "biz.chosun.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbFdZcjhWMFc4M3NsemZEejY4LUo2ZXE3eFgwaUNFSWd6amw4TTZyYUFRdWxZc0piMWJRaUc0WHQxWFZOY21lZ1cxcTR2eWZLNkNtV25qdm9XdldSNDdxekUzUE5pQ0s0SjcxWGpBV1VWa3psNXBra0dNdjd3WkE4OGcyMl84S0ttTUJLUlRhV1Q0MnN4SFl1ZTc1dWVLNVRD0gGgAUFVX3lxTFBsV1lyOFYwVzgzc2x6ZkR6NjgtSjZlcTd4WDBpQ0VJZ3pqbDhNNnJhQVF1bFlzSmIxYlFpRzRYdDFYVk5jbWVnVzFxNHZ5Zks2Q21Xbmp2b1d2V1I0N3F6RTNQTmlDSzRKNzFYakFXVVZremw1cGtrR012N3daQTg4ZzIyXzhLS21NQktSVGFXVDQyc3hIWXVlNzV1ZUs1VEM?oc=5",
+          "published": "2026-09-28T10:54:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원자력硏 원장에 정우식, 전기硏 원장에 강상희 선임",
+          "publisher": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYm9IYmpQS1lKUXZ5SFh3S0FkLVFiclpySExBbHdiMk5KWVZyV2oza3lDSTFSVFdYTEdHQ3RkTkNzcDN0SDBFbzVXSk8wdDB3YWtsVWxueG5PMzQyUmV3VWVTU0Y0amh1ZmNVYmRBYWRNWWpQWHR0NmFfTXlTNGFSZDJmWQ?oc=5",
+          "published": "2026-09-28T10:59:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "정우식 원자력연구원장, 강상희 전기연구원장",
+          "publisher": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbWhDWU56dkp4RWZFMkJ3ODRxNThhd3Jmd0JKOHF1S1BxUHZOWUlqZHVQZWc4ZzBTVXM4V2ctWWZidmNVdXlzT1dvdHJqVk1KT1ppMmwybU9MZkpoNm9FSEFyNjhsdXlWOGU3TlBZVmdvMktaZWx6YlU1dXphcno4LTFTWQ?oc=5",
+          "published": "2026-09-28T15:43:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "정우식 원자력연구원장, 강상희 전기연구원장 - 조선비즈",
+          "publisher": "biz.chosun.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOXJxWVZnQkpodENnSGk1WFNmSFJkN2dreGlDN2prUFFHQkY1UG1mcFBLVy11ajlsdWdWQ0FRQzhMeTR6UVNwLXZ5WTlnUjBuVUFPSmIycTRUTS02NVIzUWRURU5ld1I1WDdOel81SEtSdlJja2gwQldnanNtTm15Zzk4enBPX1d0NGtmRdIBoAFBVV95cUxNM2ZtRy1BQnZYdWVFLWVCRjBkell3Qlh5OWVxVndkcmxhcGMxTkluelM3RFJpVW5CbEh3b1BOT0tTRXNRTktmamVUOWFIOS01NEcyUjJkblFvQW1iVTZFX0N0d2lMdGVSbG1hbFAyaTZIbk5qTWd4ODBScndvV1pwQkN5Vm5ZcGNwcUtSVUMxanpwQnpnSjBsUUxDWEpRWXVu?oc=5",
+          "published": "2026-09-28T15:44:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원자력연구원장 정우식-전기硏 강상희",
+          "publisher": "동아일보",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01dW1yLTFzczVIVnhHYjlKcE1GTUpneGRfV1ZzSWI1a3Ewa1VrRDNzYUVsSl9tbUNIUkVCZGlCcG5jTlhsUmxHYUZ4ZElicmxWNGYwaEYwNmtxNUpHREFYUWowc1M4Z9IBZkFVX3lxTE01dW1yLTFzczVIVnhHYjlKcE1GTUpneGRfV1ZzSWI1a3Ewa1VrRDNzYUVsSl9tbUNIUkVCZGlCcG5jTlhsUmxHYUZ4ZElicmxWNGYwaEYwNmtxNUpHREFYUWowc1M4Zw?oc=5",
+          "published": "2026-09-28T19:30:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.818,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 추석 맞아 전국 29개 사업소 나눔",
+          "publisher": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IWlg5eWVvNUt1WDBVUFJZajhxSWs1RFktRFhZN3RyUUNMaWtfdWNyMW85S05kRGx2SFlaUEhzNTRTempPZm9jcmpuMGJJT3NDd0wyN2JfRTBmZnZ0c0Q5WmRtenJGVkthMUtPT0plVzhJcXl3SGFB0gF3QVVfeXFMTUhaWDl5ZW81S3VYMFVQUllqOHFJazVEWS1EWFk3dHJRQ0xpa191Y3IxbzlLTmREbHZIWVpQSHM1NFN6ak9mb2Nyam4wYklPc0N3TDI3Yl9FMGZmdnRzRDlaZG16ckZWS2ExS09PSmVXOElxeXdIYUE?oc=5",
+          "published": "2026-09-28T02:25:55+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 추석 맞아 전국서 나눔 활동…29개 사업소서 50여건 진행",
+          "publisher": "더트래커",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96VUlkZWJPV2NIbnVFVUVDMXk2am5GTV9rVE5YM2xwVVRHRUhZX1ctTEpRRXFxcFZROE01OVMtWThFY1ctY1A1RjVmYWlybHBldG9QZ2JldEo?oc=5",
+          "published": "2026-09-28T02:39:57+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 추석 맞아 전국 29개 사업소서 50여 건 나눔활동",
+          "publisher": "한국원자력신문",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9icnVFNmtWSktCLXRVY251eWNuMWJuSmlFVGJTdzRmRFNiVmZxeHRPTndFMFJoc1JhMUUyTXp1aTY2eFp0VV9MMDVkdE5TeWlXX2c2dFdIbXVCZHQ1aEFySkRldHRLSTTSAWtBVV95cUxNTkxYXzM0OFc4eW5NbkQ4SWVKZTZrd3FDSXJfZTFzMU1Fb1lGcUxvMUowUDl4b0ZnajZKcFlZNEhtVW1nZkw0SGl6MDRPZGZlbjc2SFd1SlFuazRUWXBZbTNUelp2LTBiLXFFNA?oc=5",
+          "published": "2026-09-28T03:27:56+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 추석 맞아 전국 29개 사업소서 이웃사랑 나눔 활동",
+          "publisher": "nocutnews.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5Z1ZCRTZmRzJEZ2dpcU5teUVmQkRJeERnX1I0RjBmUFFydXpUTDNZVkctMEZGZ3hFME1PWGJIT1lqeUhlQmRGaTFoVUZ6aWlzdUE?oc=5",
+          "published": "2026-09-28T05:22:42+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "[ESG] 한수원, 추석 맞아 전국 29개 사업소서 50여건 나눔활동",
+          "publisher": "joongangenews.com",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tcHc2U0RiT2ZWS0h0YzVIM2lETE0yUmhQTHh0VXZfWXBmajc3cl9nenhsLTVyMDJTQW1VN3ZIcDgteE1zTXo0Ri1GYU1LZHFBRUs1UDktSW85Qk1hMkVYcWdwbzBfQzlIZFZyeTctaGFlZw?oc=5",
+          "published": "2026-09-28T07:41:06+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 추석 맞아 전국 29개 사업소서 50여건 사회공헌",
+          "publisher": "주간한국",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yVjdrbFFwM1NocjdReVlsMlFaY0Q5TnFxbjhGbVYxbHFVNS1hdzQ2WWpfa0h6WHREMGplNVZpeVlGVEl0UURKYzJJcnVUcUM2MmxOMjlRdmJlOFE5Mnl2OGROQUFlZF96UXo1eTYwRXY2bWlT0gF0QVVfeXFMTzJWN2tsUXAzU2hyN1F5WWwyUVpjRDlOcXFuOEZtVjFscVU1LWF3NDZZal9rSHpYdEQwamU1Vml5WUZUSXRRREpjMklydVRxQzYybE4yOVF2YmU4UTkyeXY4ZE5BQWVkX3pRejV5NjBFdjZtaVM?oc=5",
+          "published": "2026-09-28T07:50:05+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 전국 29개 사업소서 50여건 추석맞이 나눔",
+          "publisher": "천지일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOSzZ2bWJQWVh4VWRsRzFrdUxRNENsUUd2NEVIQktMeU9fbTRGbDJSYm1GNUY0VkdTWVZEYzhwbzVPaF9VZ05BckF3U3AwUmt4WnpZWE54RHhVOTJESlQwanNITkVSeEtERXc?oc=5",
+          "published": "2026-09-28T13:48:11+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 추석맞이 전국 29개 사업소서 50여 건 나눔활동",
+          "publisher": "인사이트N파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2NjE2c2NOVDYtWGNnLWw3bC1YV1AwLXZnMXA5N0t0X0NUUURqcURTZmhYTWtleGg0UEJQbnpvTS1BSzBmQ1BvbzZYMDl5M3VOOVIxMTVUY2ppS3d1eFl4ek50dkNadw?oc=5",
+          "published": "2026-09-28T15:05:30+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 추석 맞아 전국 29개 사업소서 50여 건 지역밀착 나눔",
+          "publisher": "투어코리아",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00WmlpSDg3cjJVWEFoWmJHUzFCMkdybGg0S1dwek5Yd1lBcHZ4WkdBSlh0RzZfNDVEQlRHeXhLWE15NVdWaGg5Rm5yTF9Ial9FVVdhN3diX3AtcXRabk1DOGhxRm5fbjNoUVlnTDFn?oc=5",
+          "published": "2026-09-28T16:12:40+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.681,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "대한전기산업연합회, 'SMR 금속 3D프린팅 전문인력 양성교육' 시행",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqd3RmdmdCTndna0RQRUdYNzZVd3BjSG5IUFVIdWI5Y2Zzbm53NmpHc2tXQ04waUpFOWltNkpLeXBSTXUyQXllY0Vmd2J1RGZBdFFyeWtMclZuTlFTczZmdmt1VVhYdzR3QkhZNWhtMF9DUQ?oc=5",
+          "published": "2026-09-28T01:52:42+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "SMR 금속 3D프린팅 전문인력 양성 무료 교육",
+          "publisher": "전기신문",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaeFFhSm5IdXo5dlU2OWxCZlhtQUQwWjFFck5GeHJScGhtaDRfa0hLOXRtTXBaazBUWWpPQUVSeVozZk1UUTFMdko1RUUzbkU5a3U2RG5raFRQaS1td1hFT0VVa3hjcURUWTFDbm1SZk3SAXBBVV95cUxQWnhRYUpuSHV6OXZVNjlsQmZYbUFEMFoxRXJORnhyUnBobWg0X2tISzl0bU1wWmswVFlqT0FFUnlaM2ZNVFExTHZKNUVFM25FOWt1NkRua2hUUGktbXdYRU9FVWt4Y3FEVFkxQ25tUmZN?oc=5",
+          "published": "2026-09-28T02:16:19+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "전기산업연합회, SMR 금속 3D프린팅 전문인력 양성 나선다",
+          "publisher": "일렉트릭파워",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hWFBjeEZ6REN3Nm5lcWZ1SV82elZENm9yZTU1aUdVaWhIYmRRaW1QR0ozejc4WU1Ca2t2ZC1zaFRCMUNfWTFXYXAxaDhwSk5QbGV2SnloTWRja1YxaXU5NQ?oc=5",
+          "published": "2026-09-28T03:47:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "전기산업연합회, ‘SMR 금속 3D프린팅 전문인력 양성교육’ 실시",
+          "publisher": "발전산업신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iM1k1aXhvZFo2cncweDFwWU10ZUkxVHk3a3Vpb1RRYmhocXRtNGVWNzl6V0hHSTJ6djZyWFl6YTdKQ2RCbldGUDdTY3k2aGFSbUtkc0tMUlhjRVpLaGtiaXBqd21zTUds?oc=5",
+          "published": "2026-09-28T05:58:08+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "전기산업연합회 ‘SMR 3D프린팅 전문인력 양성교육’ 시행",
+          "publisher": "투데이에너지",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yOTEyVEpSVloxWXZ2eklpNGlNWWNXbXRtc3AyN2NKdW1lbnZsT1RLd2ZIcGt0MW9iYlZWZzFtN3RUTlR5ZmMtb2VoZGpjWmpsbExydkFkaW9QclBVVGRZUTVEM2xtVGFCWV81OEpB?oc=5",
+          "published": "2026-09-28T06:32:47+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "전기산업연합회, SMR 금속 3D프린팅 인력양성 나서",
+          "publisher": "에너지타임즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qSjdtRUQ1TVBCQ2w1NDNXOWwzTkZSNUtNeVhNdGYtRml1cFpPckd4NFpWdVVfN1JIZFR5Y0ZUa0lzNzl4N2lsSXdzRmZEbjRSZXpQNDQ0V3l6YWpOdktqZFU5dWpoSTYtUV9sbA?oc=5",
+          "published": "2026-09-28T07:23:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "전기산업연합회, SMR 금속 3D프린팅 인력 양성",
+          "publisher": "국토일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84bnphbl9aOXhrNU1XRUkwZDRSNGE3c0xMb0hmNFZqMWJmbVBxNWJvQ05Pa014SUpWTVVkWWR3bXpiOWgyWDNEa0xhSmlQU1NTdlJrYlZGdlBQYlVpZ0NwbkhiUlM?oc=5",
+          "published": "2026-09-28T07:40:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "전기산업연합회, SMR 금속 3D프린팅 전문인력 키운다",
+          "publisher": "인사이트N파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01VGhYZFY2b1ZmenNwTDYyUUZVc3FpQU9nVmZ1NkswVFl3RHZtVnowcFU5RnlQYlJiNTF3MHliUW5UMnJXaHV1MG9URk55LXVaZHNaVFZZT2hEck5HTGg5VEltMTFUQQ?oc=5",
+          "published": "2026-09-28T14:56:43+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.628,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한국원자력연구원 신임 원장에 정우식 세종대 양자원자력공학과 교수 - 머니투데이",
+          "publisher": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kUE9fUjhjMVByUy1uaDl3dzYtdUZ1NUNYMkJ0MFJPR2daQk5zcUxmaXBTQzEzcG41Q2Ewd05qRVY3eGJWaDNUbFA2QzZULVRmTkxhMVpWQy1UY0MtZUxZemdjbm9kUU3SAWxBVV95cUxONTVkcjAzajk0RjlFZk9uZExJZk50a01FV3VhY21Jek5jRVBvTHZHWlRtRmZFSlQ2TlhVTnhIaHVRUmtaMW9zcjdXWXpmdnJzdFBLMXhBQjFBZmFESkRvZ1RuVER4cUUzLUdieHQ?oc=5",
+          "published": "2026-09-28T07:04:03+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한국원자력연구원 신임 원장에 정우식 세종대 양자원자력공학과 교수 - 머니투데이",
+          "publisher": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41NWRyMDNqOTRGOUVmT25kTElmTnRrTUVXdWFjbUl6TmNFUG9MdkdaVG1GZkVKVDZOWFVOeEhodVFSa1oxb3NyN1dZemZ2cnN0UEsxeEFCMUFmYURKRG9nVG5URHhxRTMtR2J4dNIBbEFVX3lxTE41NWRyMDNqOTRGOUVmT25kTElmTnRrTUVXdWFjbUl6TmNFUG9MdkdaVG1GZkVKVDZOWFVOeEhodVFSa1oxb3NyN1dZemZ2cnN0UEsxeEFCMUFmYURKRG9nVG5URHhxRTMtR2J4dA?oc=5",
+          "published": "2026-09-28T07:04:03+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국원자력연구원 새 수장에 정우식 세종대 교수",
+          "publisher": "전기신문",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14cVYtaEhqOG1YdTR5VkFoaFhFelE4UTJGWFdKZlg2WWt6S1NieDhjWFd5RTJLZXdGcUdsYVpFMFc3eGhYNDgzaWhLZzBVZlpIYWQ4Vy0wMUdsb1RpaEdFQUpCZnJwXzZIN3pEVlNCTXjSAXBBVV95cUxNeHFWLWhIajhtWHU0eVZBaGhYRXpROFEyRlhXSmZYNllrektTYng4Y1hXeUUyS2V3RnFHbGFaRTBXN3hoWDQ4M2loS2cwVWZaSGFkOFctMDFHbG9UaWhHRUFKQmZycF82SDd6RFZTQk14?oc=5",
+          "published": "2026-09-28T07:48:57+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원자력연구원 신임 원장에 정우식 세종대 교수",
+          "publisher": "인사이트N파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xQ0xXclVvU0RlQkoyRFpUcFBVQzU3WWU0RHAwb21XSTg2Z0VzN3AxSVk4TWtINjVJYWRXaWZENDM5cERKUzY4RTJabHJkYXkxTUVVa19vN3VmNFl6N19sZXVIWTRsQQ?oc=5",
+          "published": "2026-09-28T08:23:09+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "신임 한국원자력연구원장에 정우식 세종대 교수",
+          "publisher": "아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sQ3RYZU9oUWQ4ZFphOUg0QVh4SU4wQUd4aVRhOWFqZkZFdnNGclNvTi1lUW93RjJtdllOQ1lTUVFjMU9ZbXQ0YkNmakpTeDZhY2dVUVR3UkjSAVhBVV95cUxObEN0WGVPaFFkOGRaYTlINEFYeElOMEFHeGlUYTlhamZGRXZzRnJTb04tZVFvd0YybXZZTkNZU1FRYzFPWW10NGJDZmpKU3g2YWNnVVFUd1JI?oc=5",
+          "published": "2026-09-28T13:15:07+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.558,
+      "id": 4
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한국수력원자력, 추석맞이 나눔으로 지역에 활력과 온기 더해",
+          "publisher": "CBN뉴스",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLTNTTkYwVTVhcDNJM3RUdUFVMTVKaEdnMm1VaTVZRnFLeW5keHBzR1gxSWZtU1NEM2RHVmVkRDlIejh2WmU3VTFWbjFxSkxNckl5cldVay1IRUx5R0RnZFdCWHZibjR3SDFxdk5fS2N0cjQ3X2dabE51N3p0b243ZQ?oc=5",
+          "published": "2026-09-28T01:57:28+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 추석맞이 나눔으로 지역에 활력과 온기 더해",
+          "publisher": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOUFlmaDBBQVFkaktWeEdPYkZzbXZ1SXFnaFhLdHZoTUZ3c0FSdm1yYTJYOElRQ1lKR2pfS1gzaEcxNm1NZ0NOZzR0OEQ2S3YtNFJfTGdBVTVGUXRuX3A5NXVlbnBSS3REam0zQnMyaFZnR2I2Zm5mbGZ5WWpEaUhYT1Fqd1V3dGVwUUpEckY2cC1IckJicTg3a3dIRk1Zb3N6NnV5cDMwLU80SGtYcml6M0M5T04zQmFGMGw5QTFVODNhRWZiSHgxLXBORVd5aktnYlJnbjNYUnBwbGJacHg5VFhXZFRoOXJWbU84aWFFczNBNXFtanhYX0ktaXo4OVI5TFZSdDVIZ3piWjA4TU1HSzFGZGdPd1Nj?oc=5",
+          "published": "2026-09-28T02:18:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 추석맞이 나눔으로 지역에 활력과 온기 더해",
+          "publisher": "enertopianews.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9XLW5KUU12S093aEx3RVlwTXY3cTAyRzZNMktMVnphRGlfcmpfOTVGLVZ5RXBsYnhnekRHbkY4a3F1SUhWbnBCTGVYWTV2Umx4VHdPbnoyTmRuRTl0dE1zVXFOX1ZBWllQLWlqUUViQmN3a0NlQVHSAXZBVV95cUxPVy1uSlFNdktPd2hMd0VZcE12N3EwMkc2TTJLTFZ6YURpX3JqXzk1Ri1WeUVwbGJ4Z3pER25GOGtxdUlIVm5wQkxlWFk1dlJseFR3T256Mk5kbkU5dHRNc1VxTl9WQVpZUC1palFFYkJjd2tDZUFR?oc=5",
+          "published": "2026-09-28T04:16:24+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력, 추석맞이 나눔으로 지역에 활력과 온기 더해",
+          "publisher": "다경뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB1cWhXUUVXcmZseVZEeWNxcVVBQlFhT0ZXXzdnd0RkY0NDU0dJUV9XTThwQzgxMkVQT01qLXN0TEdrSlF2?oc=5",
+          "published": "2026-09-28T10:51:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.458,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Findings from deep borehole disposal study hold promise for NLIC initiative",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-09-28/article-8438/findings-from-deep-borehole-disposal-study/",
+          "published": "2026-09-28T20:07:30+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.844,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Solubility-driven process could simplify used fuel reprocessing",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-09-28/article-8441/solubilitydriven-process-could-simplify-used-fuel-reprocessing/",
+          "published": "2026-09-28T17:57:20+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.754,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Democrats request information from NRC, Nieh over regulatory overhaul",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-09-28/article-8440/democrats-request-information-from-nrc-nieh-over-regulatory-overhaul/",
+          "published": "2026-09-28T16:06:26+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.677,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NRC completes environmental review of Crane restart",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/nrc-completes-environmental-review-of-crane-restart",
+          "published": "2026-09-28T15:38:44+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.657,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NN Asks: How can the nuclear industry ensure trust in AI-driven decisions?",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-09-28/article-8330/inni-asks-how-can-the-nuclear-industry-ensure-trust-in-aidriven-decisions/",
+          "published": "2026-09-28T14:31:39+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.611,
+      "id": 10
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "조기 폐쇄 석탄화력, SMR·안보전원 전환?…“탈석탄 포기” 반발",
+          "publisher": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aTmwzeUVtTi1IVXFaeENMNnNMSHlLdDVQZWhTajk5Skc4X0g2N01OdlQ1TkV4RkZZeWFTcGU2Q3Vxa1Myb2xNQVhtWWJyZVRMMmVoazF1M25HMUYwS1VEcDJzVFlEQQ?oc=5",
+          "published": "2026-09-28T12:02:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "조기 폐쇄 석탄화력, SMR·안보전원 전환?…“탈석탄 포기” 반발",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHcG5YMmFuQ2RhZTEwUmpKam1XbGx0V3FSUEUxSUJlVERqZ3gwc1ZEVmd4RE91WlM3XzFVTnhCX2pXYmhsUTNPdWV3bUJBRDA?oc=5",
+          "published": "2026-09-28T12:57:15+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "조기 폐쇄 석탄화력, SMR·안보전원 전환?…“탈석탄 포기” 반발",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA0cjZiNHVnR0lxTElLVDVUeTd6bkNmTkxNbnpKWnNfS3ZjVDRRZDhHcDdZNU9PaUxVNk5Mbmo3SmVBQWlTZFE?oc=5",
+          "published": "2026-09-28T12:57:15+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.545,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "ANS webinar includes career advice, personality quiz",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-09-28/article-8439/ans-webinar-includes-career-advice-personality-quiz/",
+          "published": "2026-09-28T12:09:31+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.512,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Taiwan regulator completes review of restart plan",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/taiwan-regulator-completes-review-of-restart-plan",
+          "published": "2026-09-28T10:55:12+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.46,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "UK aims to build on fusion research record to establish industrial base",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/uk-aims-to-build-on-fusion-research-record-to-establish-industrial-base",
+          "published": "2026-09-28T10:28:50+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.442,
+      "id": 14
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "NST, 정우식 한국원자력연구원 신임 원장 선임",
+          "publisher": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKZk8tbmE3R0pIRGJiOUlyREdoX3M0TGhURG03c0JZV1p3YURIUHNQOHF3Mkt1NEd6ZWl2ZHRVRUl1bUt4VWMxcTFFbFpycE82RGdn0gFTQVVfeXFMUEpmTy1uYTdHSkhEYmI5SXJER2hfczRMaFREbTdzQllXWndhREhQc1A4cXcyS3U0R3plaXZkdFVFSXVtS3hVYzFxMUVsWnJwTzZEZ2c?oc=5",
+          "published": "2026-09-28T06:59:23+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국원자력연구원 신임 원장 정우식 세종대 교수 선임",
+          "publisher": "한국원자력신문",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84UWtHRHZxV0VxVnZUaV9LdlVLVXJBT1I2MXJzQU9hYjZaNHVzdW9NQTR6NUdTQ3FEYjBJYzFKSTNscFdCd0Vkb2FHcURLWl9kN3g3Y2NCbWRMV3FkVlJRcFVtT0RKRU3SAWtBVV95cUxQUGt4MWZ3Ykx1dlN5ck1lMlk0cXNka0xadWJtZmpBc2s3dGhHamlZNnFBckNzMlNqbzdFaTlzRmJTZXo5QmpkYWJoQ1FqMllBU0lIZTg0aFBfeTRXMnR0UUd4dTQ5U0ZpZFdyZw?oc=5",
+          "published": "2026-09-28T08:31:45+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국원자력연구원 신임 원장 정우식 세종대 교수 선임",
+          "publisher": "한국원자력신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQa3gxZndiTHV2U3lyTWUyWTRxc2RrTFp1Ym1makFzazd0aEdqaVk2cUFyQ3MyU2pvN0VpOXNGYlNlejlCamRhYmhDUWoyWUFTSUhlODRoUF95NFcydHRRR3h1NDlTRmlkV3Jn0gFrQVVfeXFMUFBreDFmd2JMdXZTeXJNZTJZNHFzZGtMWnVibWZqQXNrN3RoR2ppWTZxQXJDczJTam83RWk5c0ZiU2V6OUJqZGFiaENRajJZQVNJSGU4NGhQX3k0VzJ0dFFHeHU0OVNGaWRXcmc?oc=5",
+          "published": "2026-09-28T09:50:34+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.416,
+      "id": 15
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Inter-American Development Bank and IAEA sign nuclear energy MoU",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/inter-american-development-bank-and-iaea-nuclear-energy-mou",
+          "published": "2026-09-28T09:51:51+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.416,
+      "id": 16
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원자력연구원, 아시아 16개국 대상 ‘IAEA 연구로 노화 관리 훈련 과정’ 개최",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iQzhrdk9zYV9Yb3hmYkVQMHMtZnlvUmRXN2lpZDBvd3ZubkVKSXFJcFRrV2xtc2lIbG93MEdJckRINTgtWnhRY05adFloMUw2Tk92REV5eXJmcWEzb0swdTZ5Z0k?oc=5",
+          "published": "2026-09-28T04:51:49+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원자력연구원, 아시아 16개국에 연구로 '노화관리' 전수",
+          "publisher": "newsis.com",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hZlFPZ1MyR1h5ak5aS2s4NDFhaVduS1c4bUg5RUF5LWIxRFNHWDJDcnBnOHI3djlhYzYtTjRUaXpjY0FsVV91LVVaTW1GOElnN3o4QzB1aG9JdHpQRHB5QVVPamNmZHZwV3JjdmJTdUdvTExUMWRITtIBeEFVX3lxTE5hZlFPZ1MyR1h5ak5aS2s4NDFhaVduS1c4bUg5RUF5LWIxRFNHWDJDcnBnOHI3djlhYzYtTjRUaXpjY0FsVV91LVVaTW1GOElnN3o4QzB1aG9JdHpQRHB5QVVPamNmZHZwV3JjdmJTdUdvTExUMWRITg?oc=5",
+          "published": "2026-09-28T07:49:54+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원자력연구원, IAEA와 연구로 노화관리 훈련…16개국 30여명 참가",
+          "publisher": "산경e뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tYkVoY1dlcEgyNVBRM24xa1lWM01yR1pxaDhaeldIaGFSLUxIMGp2aTg2Rm1lMWxoV3lMUHB3QjNRWXZnSWl1b3g0RkI0UV9LMDc0ZDZibGw4MC15R1RQZXkySXVjOEE?oc=5",
+          "published": "2026-09-28T08:13:10+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.348,
+      "id": 17
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "대전시의회 원자력안전특위 가동…방폐물·사용후핵연료 집중 점검",
+          "publisher": "프레시안",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKVEhiMWQyX1BZTmxGQUpEOTRFMkFfbnQ4TUI0VVlqLXdCcV9zWDFBdHEzYzFnYzVFcjZzMFg4LVl3MnZwWnR4MldDaWEwNWRZUGFwTEdTUzhsTmR4VXJaM3F5emNkN2xJczlF?oc=5",
+          "published": "2026-09-28T05:42:59+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "'사용후핵연료 1699봉 보관'…대전시의회 원자력안전 특위 가동",
+          "publisher": "cctoday.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TTTBoaEJOdU9pYjBLOWphQWJlZFk3WV8wZVpSM0ZCbjBTYjYwbWJzT2dQTHBQRGNyakROZzRoMHVRTV9LdG9lSjZ6Z25PYkt3bzdwNWRRQW1SeVBZNmJUU0daa3RweS1ZYkdlZ0Z3?oc=5",
+          "published": "2026-09-28T07:18:17+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "'사용후핵연료 1699봉 보관'…대전시의회 원자력안전 특위 가동",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KbHFhZnQ4QW01bWdySThNa1ROVk41NHBfTGlqN2F5aUtVQ2YzNzJqaW1fT2Nla3dfRXRaWUJ3ZFVjRE40X0NiLUNjbw?oc=5",
+          "published": "2026-09-28T07:26:19+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.315,
+      "id": 18
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 9월 한 달 동안 추석맞이 지역 밀착형 사회 공헌활동 전개",
+          "publisher": "한국NGO신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40aVp4Mno1M1pRRER2RnA5NFNUWGpKZ095dWtuMm9LS1BVU1d4bTU1ZEplak1GbFNBcHFyb2d4dGtPWk9JVFF1OC1yMVBIWEdXSE5NOUxTU1FxTkJENDRBdGdXYlRpczlf?oc=5",
+          "published": "2026-09-28T02:28:23+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 추석 맞아 지역밀착형 사회공헌활동 전개",
+          "publisher": "팝콘뉴스",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11ZGpXT19pemdPbzB0WFA2RXFkNkllSzlfSmRnU21ncmZ1WWszMkRaaGhITTB5LUtWRXR6ak1PQVpsZXFZRGNZRXJ2czZENndvQnRHSG44bXgxZzZTVS1aZk0xUllsdkF6bE9IR1IyVdIBckFVX3lxTE5jTWk1b3czRmExM3pUSU53Rl9fSHVTTkpGYWpGUVlXQmtVanpCYjRyV2RlV3BWMWlYZ3dSc1ROb2w2OUxHLXV2REpyNjBjZElsTkJHN2NxblBNcndoQXFLc28zOFhqVW5PUkVJMlpjX3A5Zw?oc=5",
+          "published": "2026-09-28T05:19:57+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 9월 한 달간 지역밀착형 사회공헌활동 집중 전개",
+          "publisher": "daily.hankooki.com",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZRTNBUm9LNnZoMDJhTWxvZ3BHOHBHcFhublJWTGJHODFKbXZzUlYtUmR0c1VfcHV4RlpEblB2N1ZTY240YnJjaVM0emRNeVRxWXlxR1k1cHlZV0tycXZ3T3RGUTBPVWF1Q3dFOEUxZVB1eWvSAXNBVV95cUxQWUUzQVJvSzZ2aDAyYU1sb2dwRzhwR3BYbm5SVkxiRzgxSm12c1JWLVJkdHNVX3B1eEZaRG5QdjdWU2NuNGJyY2lTNHpkTXlUcVl5cUdZNXB5WVdLcnF2d090RlEwT1VhdUN3RThFMWVQdXlr?oc=5",
+          "published": "2026-09-28T05:21:41+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 2.229,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 추석 맞아 전국서 지역 나눔 활동",
+          "publisher": "한스경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRRjZhWEMweFRSUUs1M1R0N2VnaW45MGJlaTJaRk5VOHdqRkVWMU1qalJzVzRSMDhrYlY2TUZYdVk3OEtvOEk1b2lwekxtVkFSdEU4OTNvWGZCSk1XXzFZRnVxU3dWbml2Y21iT9IBb0FVX3lxTFBaVzZQOVJEN2JJYXNJR25OMXAzUjR5ZHRsOHB4c0RGdzUxWG5pNWJ5cUNwaVlyZlFVaEdtZWxlbDlOeWk1ek9nZXJlNnk0dTZ4QTU0eW84N3AyUFQwS19qal9jZ01lWEVnaDNxYkN1WQ?oc=5",
+          "published": "2026-09-28T01:55:45+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 추석 맞아 전국서 50여 건 나눔활동",
+          "publisher": "전기신문",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hRGtBdUw0MzZMQkVSMTU4TmJGVVFhQmdiX0hsLVZxOUxfbGJpb281RWlTeTY2SnZvTEdOYl8zUkdSdVg2ZnNXUDFRX0huTDBvaVZFTkVhY2QyXzJWd0dOeEc0ZFNzZmdsY3p0Qg?oc=5",
+          "published": "2026-09-28T04:54:12+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 추석 맞아 전국서 50여 건 나눔활동",
+          "publisher": "전기신문",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PRnhwU1NYX1NOcTlkVkN5U3JoZTVtRmJjbzNXeVVJY29vRmJZOGNzcm84YmNVTENoS3FuOWhuSnhnR21zenlBY2tTcGJMVlFHbUt0UzNQLWJTQnc4S25yTWoyS18zbm9LUERkaFhGTDjSAXBBVV95cUxOT0Z4cFNTWF9TTnE5ZFZDeVNyaGU1bUZiY28zV3lVSWNvb0ZiWThjc3JvOGJjVUxDaEtxbjlobkp4Z0dtc3p5QWNrU3BiTFZRR21LdFMzUC1iU0J3OEtuck1qMktfM25vS1BEZGhYRkw4?oc=5",
+          "published": "2026-09-28T04:57:31+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 2.212,
+      "id": 20
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Technical Cooperation Showcases Results at 70th IAEA General Conference",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/news/photoessay/tc-showcases-results-iaeagc-70",
+          "published": "2026-09-28T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        }
+      ],
+      "score": 2.005,
+      "id": 21
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Group says NY’s nuclear power push could cost taxpayers $24B",
+          "publisher": "WCAX",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYTMxNkdIYWMwMjkzS0QzZ25aRlF2QUJYVjJGRmNyQkNSQVhUZ192Tl9raGpUY3YzeERuZUdqOUFpYXV0WkEtUS1DRWhSWUtMYkkzYndNN3kwRmVXbldDTEZTWlA4SUh0YjRTTTZrU1dNM2R1NXM4WWtfNUkzSzhfQjk2WDBwYWpSV0xudE5UWWZ1RFZFUEHSAaoBQVVfeXFMT2RJaTJYSnNlelBnVEhmdDBoWTM2TDQxUEdJUDJrNlgyaFpjQWxtSlM2c1FmQ0NjaU85djVLREs1ZE85VEpLTEk1TTdsNVhwZHNiclhabWZ0a19hQzdhZlhWMkZzY2lFcjBkVGRIaDhza2dfM08yN0xvdm9ndmY2Mm9tRkNzRUFOQnJZWEJqbVpuZ29HV2d4VXo3M1BUMFNTVUFiN3VfVlhvU3c?oc=5",
+          "published": "2026-09-28T21:54:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Group says NY’s nuclear power push could cost taxpayers $24B",
+          "publisher": "WWNY",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLXdPNkcydkI4S1F1VHhMYjRSa2UyWURrelo1RTJqWDNwUXdrZ1puYllLRnU3cGFiMUZMMTBGelFIZml4YnR4U0NxX3N1OWFEb0c4NnVBXzlBMkNQWk83VS14WXJPSWZBUnh0YmE1TEVUdHJyZEtRR0lnbEMtcWVFNzdCVHdVd1B1Y1hFNXNTSHFaSTlHZThNX1lORkttTjhw?oc=5",
+          "published": "2026-09-28T22:12:49+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.931,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "삼성물산·GE버노바·히타치·SGE, 유럽 BWRX-300 확산 손잡아…중동부 유럽·영국 SMR 시장 공략",
+          "publisher": "CBC뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEZWZNWkc5X2otTkt6SjBoYkJZZVVGd3VUWHJPb243clk3UWYxcTZBRk1OeGtWR21ycnEyd0tvU3ZRRnFVVnNHdlNTWU9Fa0pnam1tQTdrVmFWd3ZNT1c2cnctU2NLV2dD?oc=5",
+          "published": "2026-09-28T22:05:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "삼성물산·GE버노바·히타치·SGE, 유럽 BWRX-300 확산 손잡아…중동부 유럽·영국 SMR 시장 공략",
+          "publisher": "CBC뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53LUtTd3haX25BMkpmRFEzT2hDWVhHaFIzS3FwNTdwXzhaT2loM0o0Sm0zdGRkbWlxWTdLMnFmN1BReElXaHMwYjllVDhjbThSSUhBRGtzaTk2ek51RXoxSUEzMmc0MEE?oc=5",
+          "published": "2026-09-28T22:05:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.926,
+      "id": 23
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Approval to build Oak Ridge nuclear reactor comes ahead of schedule for TVA",
+          "publisher": "yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT294dUNOa1AzUWJzRmJsN0hHWXdpdzYtOUpxb3RXemxNUVFRek1FRHBmQTZCZy15TkZxeDVCVFR2MnN2UGpMellKLWR0dE9ldTRCTjBHNGVpaFBOeWJ4dmpNdnZuZmR6RGF6ZWFrenZFOENwR09MZnRSTzlEU25WRjUwZkdNZ1ljMmlVQkUydF9QNEpQYUE?oc=5",
+          "published": "2026-09-28T15:48:26+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Approval to build Oak Ridge nuclear reactor comes ahead of schedule for TVA",
+          "publisher": "Knoxville News Sentinel",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWGVJSXc5T1FYTnZodzd4R2lnS18xSkxhbnE0Ykg1VDVSR1B3R21LY1dQdHpObXpVaGNVdzV4WGVnMTJrZWtaX3B3YnJPeWVKU2ZyMWxSQXJvWFgtZ0t4ZHRMSldKbFFXVFhKREhHcHplaFFXc2Q0LWtaSWs1WGZkbUFxcjYwTm9yVndnUTBaajBPU29tb3dvS2F1WXIyekJzZHg5WmZzeUtVcnVzazRjd3pJdk5acWMzd0lYMjBJNFN5aWJRcDRmOE91bnFHT1JrOHdrNlpMUm5OSE9s?oc=5",
+          "published": "2026-09-28T21:13:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.889,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[미리 보는 국감] 원전 공론화에 2040 석탄폐지까지…12차 전기본 수급 안정 검증대",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5KQy1KTldyTVBGSWFDYzJRR3QzLU5qaXNZdWJUV2ROOVhKelpNMzM1SHFoemozaERjbGxKRVhxUU95LUphc0E?oc=5",
+          "published": "2026-09-28T09:01:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[미리 보는 국감] 원전 공론화에 2040 석탄폐지까지…12차 전기본 수급 안정 검증대",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVQ2RSMlQzUnI1d0RENlBwZFAzVVg0WFg2YnRFMm1JWnNsMV9XSWQ3QlJpZ0xpRUlONWlVZ3A3OG9lRFpmeVNVLXJzNnh6RVZQa1l3OA?oc=5",
+          "published": "2026-09-28T09:01:23+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.381,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "대전시의회 원자력안전특위, 첫 회의 개최…위원장에 구본환 선임",
+          "publisher": "주간한국",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50dk9Ec1htakkxN3VpNzUteWlteE1UR0JhMkZPZkYtalhXOFlaX3h0d2dXdkVtMDd1cUVZNWMyX2tlcVZnOW51Wko4MDZIdXh1NUt2Q0dkOEszMXIwZ09yQVhDNlJ5dlp5Ukt5a09zdUtVQkNu0gF0QVVfeXFMTnR2T0RzWG1qSTE3dWk3NS15aW14TVRHQmEyRk9mRi1qWFc4WVpfeHR3Z1d2RW0wN3VxRVk1YzJfa2VxVmc5bnVaSjgwNkh1eHU1S3ZDR2Q4SzMxcjBnT3JBWEM2Unl2WnlSS3lrT3N1S1VCQ24?oc=5",
+          "published": "2026-09-28T05:52:28+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "대전시의회 원자력안전특위 출범…위원장에 구본환",
+          "publisher": "굿모닝충청",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VRzhhd0tmT3pNSDR4Tzl6V3VBNmVLdXZfU05CWnk3bUZUMGRtMG9nN1B0Z0tTRVpkNGtQUlpNZ0RSTE1EcWdnekEzT1ctNjR6aTlDSlZSWk1Bb2RPYndzYk8yMnpaRk9PeXdRUEtLelRsUQ?oc=5",
+          "published": "2026-09-28T07:42:47+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.327,
+      "id": 26
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "World News | Bangladesh Rooppur Nuclear Fuel Transport Disrupted as Pakistan Withholds Airspace Clearance",
+          "publisher": "LatestLY",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOd2R2R0VacjM1OTF3Rm02OXJ2T2YweFpKUFBjMm1Xa05ENDFWUUJmYV9ZaVI2SEdsVk1VdGNadzBNRVRIRkxfWHJQV0FEd21PVXNrTF84Tll4NF83MUFhajBwUnZPajRPOUFkc2dOVmFvblRkMElkcUhibEFDU2F6M19XdTdMd1lTX1NiQ05UZE45ZUtDanVLUkdRQkNXY0RjZzI3UzF0OWZ3ZC1xT0VjQ1FGT0pOTDNza3h0UFFzLWk4ajlYTDltazBzUm9OM3JJVUJvbnBxdmRuaUR3N0phTDR2akpXejRn0gHuAUFVX3lxTFB5c0pPWEdFYlBOY19adUVfOG4wbXdNckJBVjFoUk8yeFVRWVBSTWJNTFd1MzNkYk5uanRDWHBTV2xHenVxS1gwbkZwejZMVEtubmhlVDJOalFpVG9aWktfdkwyS2pBUkhwVk1EZ2NsN2cwTWJTZ2JBTDJpM0xUakRmTWRqSFBLcEdWVlNCaTY5SGlCTFd1T1F1UHFEcHEzR1RhS01mbFJXU19zb3MtQktvUkFIY0JHbjFwV1ZwVlN5WW0yVEE0NEIyNC10Mi1oSWlxMUliY3JqMmRyeVdiUW43MDNWUGYzTmprZjBuMFE?oc=5",
+          "published": "2026-09-28T00:08:16+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Bangladesh's Rooppur Nuclear Power Plant faces transport disruption as Pakistan withholds airspace clearanc...",
+          "publisher": "Firstpost",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLUdfTnR0U3d3RmlBazg1TV9rZVRWSnNaaVBrSjZBdzJoUC1TOXhqSm5WQkIwVEpGU2c5S0JxcDdNZjBGMGRjaGIybnFuZ0dIaDk5OFJzZG9zS2ZlWFVrbjYzcXVlZnRVaU9rd1JtTTVnQ2xPektaR3VpNG50UHY5M2NvLXJFbzNBWXFMMFdSbzktN0tlVW82eHZ6bG5zR2V3VE1ZYXVURGVocXpIV2pkWXFzVVlENk9KQ016RnJEY2NsSFpCYWNrdXRlNDZQWldNb19uNVJEM042eXY1MU8wMnBLNVFtT3F10gHuAUFVX3lxTE9NWjdJSFVGaGhMY3hwbVA5MmxPYjBiMlJBZDM4bEhPUlQ0QkxwRmdYNUdTVnZYMVZtcndDbC13UklTSnlNWFptb2xBNnhQRlByQjBQRVZDaExFcU4wR0xJazdyRmQ2NV83VlJyTkJkZjVReF94Ti1GSmlDODJZRWtpVEVPMU1ONmEwaGQwRXdFWGFHVjVuZkxBVTdPVkEtVlphVVAyMVh5TDFXLU5HVHJsZkhVUVJ4MUlSZGZLVVJEdkN6Z0FoRHdVS1AwRHMyRnhSQ1AxWmxEQXJxam9SNzVfUVZnYzBOb210WV9YRWc?oc=5",
+          "published": "2026-09-28T07:22:51+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.313,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "포천양수발전소 수몰지역 주민들, 보상 없는 공사 강행에 ‘분통’…원칙만 고수하는 한수원 맹비난",
+          "publisher": "중부일보",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55VjJEZXlPOTJaamllTlZMTXZHSDJJRU5wSzBhaGhFN3Y2cGoyZFdiSVRTbjNJZXNmUjJNb0Z0WGdQVGFaTnRaZ1FlcTB3dHRDcUJTTm5YN25Ma3JsM09hQ2dJOFFtYnFFZHByM2hn?oc=5",
+          "published": "2026-09-28T05:54:22+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "포천양수발전소 수몰지역 주민들, 보상 없는 공사 강행에 ‘분통’…원칙만 고수하는 한수원 맹비난",
+          "publisher": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpNHNHSURzMkFCQ2tjVmwtajRvUVVSb2lnNFhLRVZxanhiQS1YTU8zSHVDYkVlV1BFdEJnbXI3Y2tZYVRJLUh6UWpYeW81Ymc?oc=5",
+          "published": "2026-09-28T05:56:04+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.253,
+      "id": 28
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "South Korea needs action, not nuclear debate",
+          "publisher": "동아일보",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OdWhkM3g2b2QwQ2Y4RFYtVEFNZnBnbW0yTHVXS0hBT3hYd1dJcURVTTVuNUFXekI3dU1kZGZQVzUwTHlQT0NXZzNKZW5yWFdZeTlwVF9JeGZNME1vTzdsWGp2RG15dw?oc=5",
+          "published": "2026-09-28T23:33:47+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.987,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 97
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 56,
+      "kept": 48
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 53,
+      "kept": 49
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 48,
+      "kept": 5
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 1
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 5
+    }
+  }
+}
