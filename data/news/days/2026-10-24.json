@@ -1,0 +1,763 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-23T19:58:48+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "New nuclear developments in Europe, Asia",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-23/article-8514/new-nuclear-developments-in-europe-asia/",
+          "published": "2026-10-23T17:07:08+00:00",
+          "feed": "ans",
+          "region": "해외"
+        },
+        {
+          "title": "New nuclear developments in Europe, Asia -- ANS / Nuclear Newswire",
+          "publisher": "American Nuclear Society",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWG1jeWpuRkdqV29lUTBoT0gzZU85N25WU3JoZ2tjTE92Y1RwUmNfNHdyODBiOW9sbml4aUZydXhrVnVfMmZJS0NUdHpSSWExTXNnOUpmSV82cFhGMUtwVDMtVzl4UDZnX3hpUC16X3RBeDVwWUhkNnBVcDc0QTA2cmhTdHg?oc=5",
+          "published": "2026-10-23T17:11:54+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.884,
+      "id": 0
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Carney says \"good chances\" for AtkinsRealis to build Turkey's next nuclear power plant",
+          "publisher": "Devdiscourse",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWW81Ulgzd1ZhR0czOTJESm02UnlvR0lqMDlJOGtNbG9hbnBCRUo2R2ZmQVVLTXNXdnJCZy1ZQUVnT2taRmZ4RmxUcEhOYTE2ODB6RVFiZE4xb0sxS0NRaW13X2oxOUc1Ynd2Y3NaR3pjRDVyVU1iWGhNZXM5RHpuRzBmeXdIQWUxMnRkQW9Qc1JxbVlHVmt2Wnh4VHpqTl9ldWhLdkFPQm5HNUlQVkZKczNTbzVhNVZGbDFfeHc3NXFnamFJSEV6cnRnb2NHeGd0UlVqZVZXdFlEZ9IB3wFBVV95cUxOZ3RzbUZ3enNBcnU0OXNMRGRnM1Rlbk9jUXhFMnFhczlXQzVhOWFfVnAwS0htRXp6RExJZmpGUVk0a19ramV0UUcwMkYyOFR0VnlNdmw1ZnpTeEkzZUZNb2ZjTXpaN1h1QTRzZXhwYThYWVM1LXlPX084Zmhyb3duTW5UbVprek02Ym1TS0s2dUw5YUtpOER0Tlo3anpLMmVWVUJYd1RiSUl6LWNOY20tU3RmODAyYU1ydV9hcHh6aHhWaGdQYTlWZG5BSHZ1ekpzQ1pKdUpUYzFHN1ZBUldR?oc=5",
+          "published": "2026-10-23T08:11:54+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Carney says \"good chances\" for AtkinsRealis to build Turkey's next nuclear power plant",
+          "publisher": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQakFRdFF4ME1aU3JFMVhLWHh2MnV4dlhMcTNlYTFPM2NqWl9GakcySXhUcFJwTm42bWxDREFudEFKc2Z1bEdGVVFXMnFNZjRIaUg5R1FrZzFsNG1ncERBdmROS3dlaGhROGU3THlxczVhMmhtVnl5SkRlSXNGRl9wOWxuZ0xGMjVENy04Q1QyR21SZ0dkUVdKNmNVQ3RYcEFFQlBIMEQ4Y1RNZVptOFF6Yk00QkFFbllIS0hvMXFYZGE0TmgwQlhtZjdvYzJHaldfLXI0?oc=5",
+          "published": "2026-10-23T08:14:12+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Carney says AtkinsRealis is a contender to build nuclear power plant in Turkey",
+          "publisher": "Devdiscourse",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZTVLQ3p0a0lWcTRaNlZGSVdVaVFka3hlV0dXLUIzeThOcTgwbVVpWkxYWEQzVE9ONTFfQmVTUWtVVmZvN3FVTHBsdmpjOC1aQ09ZVVhIWVNYRk9HbmQyWjBMV1FOVF9HWnJMTE5zYlN4OFF1TnFEb0F2SF9MT0NrSTJIazVKRjF5VDY3dDFCV0s0a1cwTWUyUTJSU0MwWXd4eS10RHpRVGtJZjE1Wl9jdmlqZUhiVk9lNmtfRXBVd2tUdS1qM29EUGJwMUxWQWNrZEJ5Z2Q2a0nSAdgBQVVfeXFMUGU1S0N6dGtJVnE0WjZWRklXVWlRZGt4ZVdHVy1CM3k4TnE4MG1VaVpMWFhEM1RPTjUxX0JlU1FrVVZmbzdxVUxwbHZqYzgtWkNPWVVYSFlTWEZPR25kMlowTFdRTlRfR1pyTExOc2JTeDhRdU5xRG9BdkhfTE9Da0kySGs1SkYxeVQ2N3QxQldLNGtXME1lMlEyUlNDMFl3eHktdER6UVRrSWYxNVpfY3ZpamVIYlZPZTZrX0VwVXdrVHUtajNvRFBicDFMVkFja2RCeWdkNmtJ?oc=5",
+          "published": "2026-10-23T09:14:47+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Carney says AtkinsRealis is a contender to build nuclear power plant in Turkey",
+          "publisher": "Yahoo News Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOclJXYkx1NHhDTjZNWGJ2dUFmMG16N1poMVJ2TmZPVlBINkJ1OFBoWVRKQ3NWN0RVQk1kMGxNdnk3emFBU29uYmp5RTlpcmdHeGE3MklubjR4VHlGYVA3aTZ0M1hOcndOS3B4RHhiU2NpT0didlBOUzBfNHR1aElIT2J2Vkp5eU5T?oc=5",
+          "published": "2026-10-23T09:29:28+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Carney says AtkinsRealis is a contender to build nuclear power plant in Turkiye",
+          "publisher": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR2o5REpZS0t6QVdwZFpCSTdjOFdfdTh2NHFRSzVwdFhRS0U5UjluRG00Qm8xYk5vX3loR3FVa2ZBaVBWVmdWNmU3bEU2V09SWmFvcE1rTzFMSEk4d2FRRjlMZTFadWVCdFM3SV9zY2sxRUZTN1Q1b1oyQjZVa0U5a1ppM1R3UF9SNnNadkoxVml4UVR5c1lYdXNJQUVpYlN3c09zNHN0RVU2RzRDcFViU3Q5ZmpiMU0?oc=5",
+          "published": "2026-10-23T11:15:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Carney says AtkinsRealis is a contender to build nuclear power plant in Turkey",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUDVaTVBUN2djLWhIejhzYlNpOGtWU0hoUEQxN1g0Q0M2UldpcFhud2pIc2s3LWpfOWdIVm1hZU4tSzFmVDRzLUJxSzFHcFNybURZTnY0R3liU1QtSE51S1F3TDJXdFJ6dzNUd2tjQUxScWpIYWt6ZXVPQnFqUjdVWkRENWRncnhoMFp2NDdMVWZrMFdUWThFcU9FbUdNOWplcWUxNXdRelc1cHN2RWJ3OEl6RXV4VkNpQUYxRDE1cTdFUQ?oc=5",
+          "published": "2026-10-23T15:11:26+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.8,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Candu attitude: Carney pegs ‘good chances’ on Canadian bid for Turkey nuclear plant",
+          "publisher": "CityNews Toronto",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQTdtdEc5bFhrQXU4WS1JU3pGazlhb3V3UUt5c1ZGWFJFMWJVNlJsUHItdHlEamdRTllGaVNkdmlfNnVrVi1kWE95alQyeTVrX2kxa3o5TFBscFN1VWxLWXVrUXZRVUNWeWtRWWJmaTJRRUFONHlaSGZ3VEp2NEJZcmhJTThWLWlIeVQwLVlNdjEzb2JUQ3UxR3pUdzVVSVpsYVRFNlVuMEJmTmpDbDJ1dGh3Vk9ZQV81bXhOZg?oc=5",
+          "published": "2026-10-23T10:37:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Candu attitude: Carney says Canadian bid for Turkish nuclear plant has ‘good chances’",
+          "publisher": "CKPG Today",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU3YzVWZuNURXRHh0LXJGRlVsOEpLVjB3VUdEM0NPeXI0cmVNWmxycTFnRWN4Ym9CWS01VUVhWHg3TGw5Qy14UmQ3NkxsVXQtNGUtRS1BSGpRSVpmUHNiRHlfTnd3eGZRM01WaTlIaE9PbmN5djVlallLcEpNa1Q3MGtja0duYnV1V0FUeFVzUC1zUUtOY1cyODFtTUpLRjF0bmg2ZXVYLUFzZ2p1eXVOZm9wbw?oc=5",
+          "published": "2026-10-23T10:37:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Candu attitude: Carney says Canadian bid for Turkish nuclear plant has ‘good chances’",
+          "publisher": "The Spec",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaDNyWnc1a1FlRGpYcUdkZUl5bXNEdmowVkE0bTBQNlZuR1JXSldtbWVibTZBblB1UXVWbFNhYmRUUnB2amhmSVpKWFU0LUg3ZFUtZGpGaHRtdEtkVU9sMnJNQmJPNU1IWENMaTEzbTdPbjhDLVBkRV9qS0xtbHJRTUJrTmhDTVNCazZpVkNfODlsUDRDX1VXcE4zSG1salV0aW9aTDBDSzRhbk92TGVUbmtvZ3pPanB0TzdEZGhaOG1YTUdPb2NXbWM0SGJ1dS1oa0wwbzlqdVRCcnpnMVNJS1poQl8waWVYalMyMzBiYUlRa09IWVE?oc=5",
+          "published": "2026-10-23T10:37:24+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Candu attitude: Carney pegs 'good chances' on Canadian bid for Turkey nuclear plant",
+          "publisher": "Winnipeg Sun",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNLVc3b2NyM1VLMXBrUWtsZWhmWDQ1elJNdmtZTDZIM2RQU2oxdTB2MkdnQlE1VURqYVNwWl9vT0pJV1BtdUZCdzc0ckR6ZDFzRnZaT21uYjI0empwdUdXcFQ4czQ3VU42bnNaVVJFQ0YzZm9DdzJ0NmJKeTNLUl9yeDdlOTdoa0Q0Q2ttdFBIZTVSd2N4T3ZsaEVXcFdZYUpManJTWG1pWkJSZW56QWg5aFMzaS1wdDlyaWNXYXl6Z3J4WkRINlpVcTZtaXhEblV6eHZ1akVUWndabUJaR3Q1Mlg4Z0JEajh5anhhNUMxMEF0dzg3UTVEV01QM256VWwtZmc?oc=5",
+          "published": "2026-10-23T10:37:24+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Video: Carney confident in Canadian bid for Turkish nuclear plant",
+          "publisher": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVzZIMTFnNEZjOWlYcVhpLWJNQWRNSlVOczRDdWZhZVZvQmJkNmctaGlpU2w2UGVBMmlQcmlSZTFZa19BYkViR2N3UkNhUlR6MmwwXzlTY21WMExkb09pQ1VBdldhT1BWSXJiQUdUNkt6dUVSYkhIN3QxLUcteElXY2FTZnc1U1JncmRTa2RrWjVmbXJuTHZyRk1COFZBbmlJd1NJWWQwTQ?oc=5",
+          "published": "2026-10-23T11:43:23+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Candu attitude: Carney pegs 'good chances' on Canadian bid for Turkey nuclear plant",
+          "publisher": "Castanet",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rcGFYNTRpTEc5ZTNnVFUxc0xBOGc4VVVNQ1NLWnlsUFpKX3VENTNkVUZJSXg5QWFpY1FVVlZlZVlDU0lZRjVabXl6RE9SWVBQSUpEcUFIZi1rSEZUeFFMTmZSaENsc2pj?oc=5",
+          "published": "2026-10-23T13:29:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Candu attitude: Carney says Canadian bid for Turkish nuclear plant has 'good chances'",
+          "publisher": "Winnipeg Sun",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQZ0RLTlRLWVZUQXBZVXpNbXpTTVByaVdSZWUtLUNYSFgtbk5jcjU2OUxwS1I4WDhHS05CR0lxcDFMNnFFcE5WeEFOVUE1SWN1Z2pRMmloQi1OTElKcVhuNDRmYTBPdnhqR0NibW45QllyeTU2V0hwTS1zWWZxdGxmUVNCQ25rdG5rb2RLVXEzU1lWTDFWM1hydGt6aXFqTlI3UDZEajZBVjBCX3FSSDFVZ1ZSTjlNb0xyc0x4TWJYV1J3cHVvenFqSy1jSmxsOUNycVZhMS1YeEtTSTBhRVpMWHpGOHZwZk5lMVVlQ2w5aTB2MkJnaWpBbks4cW9HWFJWQkpmSQ?oc=5",
+          "published": "2026-10-23T13:44:19+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Candu attitude: Carney says Canadian bid for Turkish nuclear plant has ‘good chances’",
+          "publisher": "BNN Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQTRXcko0S3cxQ3NaWVhodmRsWGppSmphdnlHYW8wbC1rajBWRVJtWXdFYktYZzdlNC1UdngtZEJUdFN1YldkQk1CbUIzUjdOTHpGbzA4R3BENUtrTkExY3p6aHVwT3FKVWJkZWY0ZGV4b1NUeWdkQXZiSUFIT3NqRXJfT016NGQ5Z1RqdVlWRmpNVUtwSTYzeWFNWmlYWEJKUFh0Z0N4OFVSMHU3U1V2QUlRQXo3cDh2SE5fRlRMZ0VDQjM0ajZINUJNelNVanl3cXlKbFRn?oc=5",
+          "published": "2026-10-23T15:02:40+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.794,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 청정수소 산업 실무자 대상 전문교육 시행",
+          "publisher": "일간투데이",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tWWN4cy03NFFtM25GSVE1NDE0OFhyMHhCeUtvMTg2azdHWERaSkdvcFN4QWhFVWRKOUFtTVIxUFdzSkV0dGNNRzdmSXV0Yzl3ek05UTJfMkZCaGFaNFZNVFhtbThkSGtXcDIw?oc=5",
+          "published": "2026-10-23T01:25:46+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력, 국내 청정수소 산업 실무자 대상 전문교육 실시",
+          "publisher": "파이낸셜신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Wc0lfSTh4SlVJbmdkMUVicW0yaGQ1WUxCRHVQNHVJb3lqVGR0ZmVrcnk5UnNNbkxFcWxneWNramFOX0V4VjVRV1hGNEF1SVFuUF9xNUkzLTdHRnViNDJYcW1RWFpFc2stTEZF?oc=5",
+          "published": "2026-10-23T01:42:23+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 청정수소 산업 실무자 대상 '수전해 기술교육'",
+          "publisher": "인사이트N파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4ya05PNXhiS2Rlb1NEMVp6djZ6MlVQZXhvejA1Z0RXbHdoSDUzWms5UEhTaHdVQm8xRWxwYWlmY2RXbDN6eTVzN1FJRUltOEl2a2JFOHJ4R3NkLUIxQnVLRFJJS2Fadw?oc=5",
+          "published": "2026-10-23T06:44:23+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 청정수소 산업 실무자 대상 전문교육 시행",
+          "publisher": "한국전력신문",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3NWU4eG1jeldMUERRYm53ZW43TGNGSjdGdThaem15c2NlUWZyVHpZRnk1UkxvR0I1b0tXM3gwRGVtdHM5b19VbHBrZzVYTFVxLVM4NVNZRHRiOWx0MXh4NndNVXZycnRfbFE?oc=5",
+          "published": "2026-10-23T11:36:47+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.651,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Six AP1000 reactors eyed for Kentucky nuclear power facility",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-22/article-8511/six-ap1000-reactors-eyed-for-kentucky-nuclear-power-facility/",
+          "published": "2026-10-22T17:39:37+00:00",
+          "feed": "ans",
+          "region": "해외"
+        },
+        {
+          "title": "Six AP1000 reactors eyed for Kentucky nuclear power facility -- ANS / Nuclear Newswire",
+          "publisher": "American Nuclear Society",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeHM1VHA5OWhiTWotX296UUswSENOYUpscDFkVk9XQ2lKVm1ibHRONThONWpWZ0ptcTJMa3RyQngyck5pUnFreDYzY1JhS1h6ckMyZUdtOGNFaTN1dktoWl9ZaGl2dGdTZWZDSG9GaDBMRGNab2ZuUnhfNTdiQzYzOVhsalkzcXZZckh6NXVLby1tZHBEWjZYbF9pdUhzRFg2?oc=5",
+          "published": "2026-10-22T23:41:19+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.155,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Radiant Industries chosen for naval station deployment",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-23/article-8515/radiant-industries-chosen-for-naval-station-deployment/",
+          "published": "2026-10-23T18:32:51+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.94,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Posiva given go-ahead to operate Finnish used fuel repository",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/posiva-given-go-ahead-to-operate-finnish-used-fuel-repository",
+          "published": "2026-10-23T16:00:37+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.835,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Viewpoint: Four million workers won't be enough without the right leaders",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/viewpoint-four-million-workers-wont-be-enough-without-the-right-leaders",
+          "published": "2026-10-23T14:27:31+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.77,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "FID sees Etango enter full-scale construction",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/fid-sees-etango-enter-full-scale-construction",
+          "published": "2026-10-23T14:13:54+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.761,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Westinghouse to fabricate LEU+ fuel at expanded S.C. facility",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-23/article-8513/westinghouse-to-fabricate-leu-fuel-at-expanded-sc-facility/",
+          "published": "2026-10-23T13:45:44+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.741,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Locals rally against proposed nuclear power plant in Nabarangpur",
+          "publisher": "OrissaPOST",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNclZvbEswaDljTkFLRXRGNy1GcXZveGZMdWR1MVMxbDFSY1IxbndLLWVMNVdBX2VaUU5WalpGN0tZQmZBZWIyUVZMMUYxcjR4MmNrOXF6UjFZVzl1bUJDd1UyRzhNaVRTclMzSmlhTGduTDFwOWFwS2taRlNxaWxVdWF4YWFPZ2l4Z2IzeXFMOVhqOU9OSTFV0gGXAUFVX3lxTE1yVm9sSzBoOWNOQUtFdEY3LUZxdm94Zkx1ZHUxUzFsMVJjUjFud0stZUw1V0FfZVpRTlZqWkY3S1lCZkFlYjJRVkwxRjFyNHgyY2s5cXpSMVlXOXVtQkN3VTJHOE1pVFNyUzNKaWFMZ25MMXA5YXBLa1pGU3FpbFV1YXhhYU9naXhnYjN5cUw5WGo5T05JMVU?oc=5",
+          "published": "2026-10-23T04:18:19+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rise Of Tribals in Odisha’s Nabarangpur against Proposed Nuclear Plant",
+          "publisher": "The News Insight",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd1A5a1pDR3pCWkJmOVVZeHl2V01XcGZwaGs1QkpWZXB2Y0x3a0E2azhxRnRpRzNUeFFCOUZsNzh1MEtJNUN2cmw4dmt1d1VRYzVwYVAxVERtVDJVY2JHOWZ5Ymd4el85dVJFM2ZpaTZwTlk3OHh5ODR5SkMwODVxWmdpSTVWUTJxdXpCU3VuNG9QTHdXWjM1V1Z5MA?oc=5",
+          "published": "2026-10-23T11:34:43+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Tribal woman dies during protest against proposed nuclear plant in Madhya Pradesh",
+          "publisher": "The Statesman",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUWNMSUMzRHlncWRoZG1YcDZJcVZuNU5VOUJjeEN0RDAzOURkb0NuZWxBNWhKNl91VWMyUmZWekIyNmVUcTJUcFVfVVQxMm5wUWdUcVRLRlprZVZsT29jOVg5cmMxRGtDUVJ6ZlFMc2VqQ1o2VWtvRE1QSU5WanhiRWQyTGs3MkxZRnlGM0xSMUJTVjF3VjJBR2poNGtIQm53NEcwTFFRUzBybEFQZk5tUldxZnJsc1pMaTMzNi1TYjJ3UjgyY2o5eUhISXnSAdIBQVVfeXFMUC1NamNITlZQNGlOckRrN1FkcEI4X3lZX2NFUEJGdi0wNVlzRGVvbUdlRzFQZGd3Q2FFMVZZRVJ1c0dNbzhqZGJPcHNXOFcyME4zVHlEUHVmckMxSXFMdTczX05rNjRxZUFFYnU1WnVGNGRBNnZDSG5lYzFYdmNGR2ZkY2xwbUpiYmtCbUd4ZXp1UFlrUmstTGNfNXpRRzh4TzFhTFpVQlU0OFJvVjEwR0NGN21ubTNoekVUWXRDcllnT3BZbWFIZVFNXzJ1R0FvWVFn?oc=5",
+          "published": "2026-10-23T12:59:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.709,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Rosatom eyes 2027 for Uzbek large reactor construction",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/rosatom-eyes-2027-for-uzbek-reactor-construction",
+          "published": "2026-10-23T11:59:44+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.667,
+      "id": 11
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원 인재개발원, 신입사원 33명과 울산양육원서 봉사활동",
+          "publisher": "인사이트N파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05T0JxX3hDdTNlWF8xT1N1bEtlaUJTS2lad3V6LVJ0MU5PdDBjRmp3VHptUS1CTVFJRTFoTmJwWWVUcEhlMnN4VVNJRmt2bkQ5eWx6Tmh3NzFJcEMtYzlOamhhSHlLdw?oc=5",
+          "published": "2026-10-23T03:36:57+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 인재개발원 신입사원 33명, 울산양육원서 봉사",
+          "publisher": "한국원자력신문",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkajZ3ZlozOG02azlSVnlKWWJKYThuS2tHVVNockZxaHN0YURxWjlJLUdiSmI0c1hoVF9CWExiSUV3R2UyNko3bG0zaWNHNm8xMGRVb2FJaVM3MlQ3YWZGazdHdkplMjDSAWtBVV95cUxPdUNWOVk2dk03aDAzbjBRNms4YWVrTGE0dWtHelZxcUx2QWVCeUdZS1lyeTU4aWtfM2FQcUJVdTZVV0FOZWZ4T3gzOE4wWVpwcVhGcTlpNmx5M1REZjRCU0FxQTNKeE44eDdKdw?oc=5",
+          "published": "2026-10-23T07:39:23+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 인재개발원, 신입사원과 함께 울산양육원서 나눔 봉사활동 시행",
+          "publisher": "한국전력신문",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkWWJ3aU9Mc29LaXMtd3l3bmpwVGV6NGRUU3Y4MllCczc1Wm54ZzREb1NRekhWZnJ2RVdUSmRQZ0lUdVNXRkJqdjgwQ0RoaHFsU29MeWhOUUxvUlBtTk1DcnZGeUVDR0g1YVE?oc=5",
+          "published": "2026-10-23T11:37:20+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 2.652,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Slovenia's deep borehole disposal options studied",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/slovenias-deep-borehole-disposal-options-studied",
+          "published": "2026-10-23T11:06:07+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.63,
+      "id": 13
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원노조, 신규원전 지연 반발…김성환 장관 경질 촉구",
+          "publisher": "국토일보",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qcjdFLWdEUzFndDFQVUVFdnNJQVpDaXEzZWdXc0dobFB3VF9VTW55Y0ZyNFh5b25mMHNKQi13UThmZUpEUkNGR2I0dDhMYXJLMEo3WjBZRW5aXy1teDBTR01Law?oc=5",
+          "published": "2026-10-23T00:22:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원노조·시민사회 “신규원전 지연 중단하라”… 김성환 장관 경질 촉구",
+          "publisher": "독립신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVek80N09CZzcwaHIxcFU0eUJ5amZKZlJYUnQ3clpLNmJzTzJxVVphVDk0RDRJM1h1dVlKTXByVUkwUk0taktFWExpV2xEWTFxUEY3OURQcDdsODY5QjRtQVA5R3R5MTZoQXYw?oc=5",
+          "published": "2026-10-23T00:25:38+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원노조-시민사회, 신규원전 지연 규탄…김성환 장관 경질 촉구",
+          "publisher": "인사이트N파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93TXF4N2NlR1Z2cERxS0ZKaWhReTRxYV9VdE56RXJFZnlJV2F5aE1SYzBFd2ZVbGVSMGo5bWRDYWQxY1JLdDVSRElBNFlsaWJNZTVaTWJtc29sWmlMNkZFTXg3Q0NHUQ?oc=5",
+          "published": "2026-10-23T02:29:32+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.271,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Nuclear power could return to Genoa under new agreement",
+          "publisher": "WXOW",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaEN6M0xtOHRfT0VOUlEyNGVPZXpWMTJyUWE5M1FiVmtrR19uZWZ1WFA0Snlod3VYejhQZXBYR21IRlhWX1pPc0NTOXhJWGRhTXR1Z0pnMzBzUjZIcldjUkZ4bHVnZDZveXlNMHg2V3V1YkJIY1p4bEZWOEw0U2JwVFVxUGN2amJYYUJKdWRCX2hTVVduUHh6NDFvTFVFNjJ5RlRzR0JPS2xmUnRQNXNVNGpQVFVvWU52WFFUTXJuaXZFa0paTGZpc0ZFRnhOM1pLX1h1YQ?oc=5",
+          "published": "2026-10-22T21:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Could nuclear power return to Vernon?",
+          "publisher": "VTDigger",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJTFhKWW1PVFJ3MXROaDdjeVVQclA5SmpVU0VZTjM4VkZkWHNTeEFwVm1FUUVITG9SdUk3WFZhTXlVQ1JPQXFUVmZ6QmF5a09vNHJVTGFnRUpDWHctdEJlN3VPYlJEQzlXQnlyTmZIdk9XdWd6Yy1MUQ?oc=5",
+          "published": "2026-10-22T22:26:07+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Could nuclear power return to Vernon?",
+          "publisher": "Brattleboro Reformer",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZVFMbWl2bDItVGUzNktyMGlMNE9uYUxWSS1GVTFuR0lVVHZQYnJ2RGdvWWdUZ1FpR0ZWbTZ2cXdZeFR0SzJ3NjhSb1N0bDZDa1Z1NE9qb2UtN0dzNU4xVi1SVEs0bUJlaXJpZ1J2OWRPTjh4bkQtT3NmczNFVFdmY1FNNnE1bDg?oc=5",
+          "published": "2026-10-23T00:36:51+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.193,
+      "id": 15
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Update 372 – IAEA Director General Statement on Situation in Ukraine",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/pressreleases/update-372-iaea-director-general-statement-on-situation-in-ukraine",
+          "published": "2026-10-23T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        }
+      ],
+      "score": 2.168,
+      "id": 16
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "What is Nuclear Fuel?",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/news/what-is-nuclear-fuel",
+          "published": "2026-10-23T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        }
+      ],
+      "score": 2.168,
+      "id": 17
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "핀란드, '세계 최초' 사용후핵연료 최종 처분시설 운영 허가",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2cl9RY1BYR2h5bzRuZ09pRTRZNWVBSTl3eW9GQXNQcE9JNVpvdGowc1JRd0RlcXFYR2xmZERhSUoxTjIzc1YtRFpmQmo4SGwxYnBHdFNmSlE1QzhnS3JFRdIBYEFVX3lxTFA2cl9RY1BYR2h5bzRuZ09pRTRZNWVBSTl3eW9GQXNQcE9JNVpvdGowc1JRd0RlcXFYR2xmZERhSUoxTjIzc1YtRFpmQmo4SGwxYnBHdFNmSlE1QzhnS3JFRQ?oc=5",
+          "published": "2026-10-23T16:27:35+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "핀란드, 세계 최초 사용후핵연료 최종 처분장 가동 허가 : 국제",
+          "publisher": "재경일보",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAyS2w2OThFTUhySW1ZQlRvOGZQQTZHR2llRlJycFdOZ1dTWHkzMm9hN0JaZTdDVEo2QkhKa0RoLXZySllfVUFrdnFCaw?oc=5",
+          "published": "2026-10-23T17:10:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.883,
+      "id": 18
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 타지키스탄 최초 MW급 태양광 발전소 준공…해외 진출 확대 '청신호'",
+          "publisher": "한국원자력신문",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4bEpNVU54a0N6LXdwMDNMSzMwbTY4ZllYUTlYaXpKTUppdzRzX3ZOQ05tRXc4ZDRnS3FMVnlydWZhMm9mSDh5NXMwVGNpd1I2bDR4YUw1YkNEQlNvdUwzTUNqOGtyYjTSAWtBVV95cUxPd0swVzlrLTZZTi1HVnpabU1SRzBWV21ndlNfNXgtTExaOU90V3NzV25VRmhjM19XWFBmWFA5eXNlVjRHZ3NyUmtXbWpPZl95R2lpNGJabFM0SlFQR2JsVERNbVVMUDhQUHptYw?oc=5",
+          "published": "2026-10-23T08:56:05+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 타지키스탄 최초 메가와트(MW)급 태양광 발전소 준공",
+          "publisher": "한국전력신문",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wQnpDcl9ZTy1sMFRVajhCdFZGb1pfSENmaThKT0c2Yld3SndtR3FIUXRleFJmaUNMR1NiTWtuS085UXNLXzNOT0xsVl9mU1FxRkpyRzhJWFZVaGNkVVgySjZDOEE3QVVuQVE?oc=5",
+          "published": "2026-10-23T11:36:11+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.651,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "고리원자력본부, 기장군 장애인복지증진대회에 1800만 원 지원",
+          "publisher": "문화일보",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83bnFqV3Y2eG51S3IyeS1hSG56OUstU2gwN0E5bDlUT3NIVWltZDRVSlM4VUtCZmxmRUhEdzhOSEQ4enB0QklLQ3BQaXk5ZFZP?oc=5",
+          "published": "2026-10-22T21:43:10+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "고리원자력본부, 기장군 장애인복지증진대회 후원",
+          "publisher": "한국원자력신문",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwV3JXbk4ta3lTbmJ0a25qd2lBdkJlb2YwcjFQeVJOZFhlSzVlOVd6MkFEZFZSWGhCcjRUZllsdTBydk9tVDV2Y3BDU0t3NG9yb2RWYkg3NC1YeHd5WUxwODQ4X2FtdFnSAWtBVV95cUxNR0lpSDBrV3o2WnZfQnM2UkNmTjhmQnlQUGRkSWc4TF9kRFNfQWVheVBVdDQzeEFsdHhTTXJ6bXJKOHVMZ0VhSnZkb1FUT0Z4SFpIaDl1SndITzk3dTRTX0FORnlmZTZiVEtUZw?oc=5",
+          "published": "2026-10-23T07:39:23+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.487,
+      "id": 20
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "모정환 통합특별시의원, ‘원자력발전 지역자원시설세 인상’ 촉구",
+          "publisher": "일등방송",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBQV1phaE1jdWExRjg1bGVyX1hjVUZjYW5BenZHdVBCYVZZQTFZMjRNdWRMWDA1MmJVeHNPeXFaYXdZbmha?oc=5",
+          "published": "2026-10-23T05:25:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "모정환 전남광주통합특별시의원, 원자력발전 지역자원시설세 인상 촉구",
+          "publisher": "웹이코노미",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fSjBmNGZrekZvN2U1NEpEVzd2azNBOG9XaTJ3ZnhFMXNxTGFScEtNUzNtRzFJakRmTzRPNWx0ZjhVbFphaEdCZ0oxS0w5cmR5b2J1UV9kWXFzektoZ1NKRG1UdFMwSE1lZV9Jemh1bmZnZw?oc=5",
+          "published": "2026-10-23T06:40:35+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.446,
+      "id": 21
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원전 공론화 전문위원 9명 확정…12월 11~13일 시민참여단 숙의토론",
+          "publisher": "인사이트N파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rVlRWRUtzWV85T1BkV2xSbm0ydjBTd3YxalBYUTVEZ25vaFNYZ0VBem5GTERGU2M4ZFZCaEFkYVRqbTZ6NldCOUY2dnF1UjBiT0lhREtPQmgtVngtQkNLVERBQ3hqZw?oc=5",
+          "published": "2026-10-23T01:45:49+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[원전 공론화위원회] 전문위원회 구성 및 시민참여단 숙의토론 12월 11~13일 개최 확정",
+          "publisher": "워터저널",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aWUlYWVBUWFNxRnY3YWhEZUktUUd1TXJuMFhIVjV0WDYyYTZ3UmdnOUhhTEtRdzE4SWJnMzFvdmltb3JjMFI5WG5Eb055NGxMZVFDNGdlT3lDeHgtQ1FqWXVYbG5lcDRoTWZoQjBqMFZkOXlBU2fSAXZBVV95cUxPWllJWFlQVFhTcUZ2N2FoRGVJLVFHdU1ybjBYSFY1dFg2MmE2d1JnZzlIYUxLUXcxOEliZzMxb3ZpbW9yYzBSOVhuRG9OeTRsTGVRQzRnZU95Q3h4LUNRall1WGxuZXA0aE1maEIwajBWZDl5QVNn?oc=5",
+          "published": "2026-10-23T04:03:15+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.336,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[포토] 질의 답변하는 최원호 원자력안전위원장",
+          "publisher": "천지일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yVUtaMU9PZW9Jd2dKZDd1QzFZandMdVlzdUhrVjMxR3ItNVQwUnIxNnNveTgxYjhlOXRoeHFQdVlXZ1lkVXdXQVlGM1pEaHJBcG5rTi1RdS1JQWFMN3pXUzlTMEVBbDVGdmc?oc=5",
+          "published": "2026-10-23T02:49:35+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "박종운 원안위원 SNS 관련 답변하는 최원호 원자력안전위원장",
+          "publisher": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZckVCbURMMlZIZi1xcV9hdlA3TTRodExCYjlYay1tNjc0TVI2WVV1Q1F2TEEzXzlvV3FIX3RQVk8wNlA4b01yQlVPOUxvRlBHeVN6VC1UNjl3SS1H?oc=5",
+          "published": "2026-10-23T03:17:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.304,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "'SNS 막말'에 직원 삿대질한 원안위원…오늘 과방위 증인 소환한다 - 머니투데이",
+          "publisher": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12dXdZMGx1cXRsX19LT1JpeE1jYy1yTjJ0TDA3Um5SU0JaRkJmRVJYMkFJX3lHNVA3LWExTUFCSmZxOUVwQWF3WlFMV09oTEVKa3BvR2V2RU5TVVVVamNXVG9hM0FlMjTSAWxBVV95cUxOR2xIUmpVQWVMcWVNX096MEN3bUFrRlo1NmkyU1lCa3o4b3FUeDNDN1pvd0dTZFJxS3lXTC1tZG4zN3VaZzNhVHRGZWlwNFpRa2ZKaWNza093ODcxa3BjRXJFQmZ1MnNmazRzRm4?oc=5",
+          "published": "2026-10-23T02:04:28+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "'SNS 막말'에 직원 삿대질한 원안위원…오늘 과방위 증인 소환한다 - 머니투데이",
+          "publisher": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HbEhSalVBZUxxZU1fT3owQ3dtQWtGWjU2aTJTWUJrejhvcVR4M0M3Wm93R1NkUnFLeVdMLW1kbjM3dVpnM2FUdEZlaXA0WlFrZkppY3NrT3c4NzFrcGNFckVCZnUyc2ZrNHNGbtIBbEFVX3lxTE5HbEhSalVBZUxxZU1fT3owQ3dtQWtGWjU2aTJTWUJrejhvcVR4M0M3Wm93R1NkUnFLeVdMLW1kbjM3dVpnM2FUdEZlaXA0WlFrZkppY3NrT3c4NzFrcGNFckVCZnUyc2ZrNHNGbg?oc=5",
+          "published": "2026-10-23T02:04:28+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.254,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "고리 3·4호기 원전 '계속운전' 통과할까… 원안위, 27일 회의 개최 - 머니투데이",
+          "publisher": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qT1lZTkNpTm1mbUlBV0VHU0UydW5EWUl3N1lrdWswVldjZ0xJZU40empEUDNDS3loNUhiWUg3c3JmM0RnZnFmQWhaLU1GTHhXNlFPNHpfaEw5SG5lT2dwSGN5eGJhZzB0MEFrVmlwOVFicUdJ0gF6QVVfeXFMTmZPRmlUT1lsaVQ5N1VrbUtsc01oNFBCN2dPc3N3SC1ZdWY5TVZZZEZ1UEgybUpXUTdrWUtpVkZrTkhwQllSZG1uSHk0VVlLaktHd3EtVVBUSE5RRGVWUE5GMjRuZDVzVWx1RlBId2hhdlY5TFJ2YXFpWlE?oc=5",
+          "published": "2026-10-23T01:17:07+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "고리 3·4호기 원전 '계속운전' 통과할까… 원안위, 27일 회의 개최 - 머니투데이",
+          "publisher": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OU3o3TEhVU1dQWTFTNVBOSHBMdmtXZDR5NWNhRG5taDQyendHQ0xKOEg2M3JVSk5wNldxV3pCRUZYekF0MjluT3NoUFRDS25mLVRtVlpnRGVNR05BOTVha3lLWk51VkMwVEZLedIBbEFVX3lxTE9OU3o3TEhVU1dQWTFTNVBOSHBMdmtXZDR5NWNhRG5taDQyendHQ0xKOEg2M3JVSk5wNldxV3pCRUZYekF0MjluT3NoUFRDS25mLVRtVlpnRGVNR05BOTVha3lLWk51VkMwVEZLeQ?oc=5",
+          "published": "2026-10-23T01:17:07+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.221,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "AI 시대 전력은 어디서 오나…가람중 학생들, 원자력의 미래를 배우다",
+          "publisher": "한국원자력신문",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tcWVkQzhCbjctX3lhVE5VQ3ZfVU9jSnMxU0FGTHdZQkw4eXY1NWRYcUJMaEZIaEE3eTVNcXYtSU05RGlndkZ5d0FCcXNlUU1SdWtLUlRRa0FDQm1ocWtVeG1SdzlFWWPSAWtBVV95cUxNRGhfeFFaWWNQZFdCbmdKOXg2aUE0UE42b2RfZHJaTmV6TlUtcFlwLURxOE1VUDdZODR3MmNjaXZ2cWRKa0RKWGVJa1R2QUYzZURyRXVQZjF2OTBCS0xRTlJINUlJWENrQjNpRQ?oc=5",
+          "published": "2026-10-23T12:03:21+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.67,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "美 원전 인허가 장벽 낮춘다… 실증 데이터 상용화 직행길 열어",
+          "publisher": "독립신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wTkhxeXJFdTdOQnBBcDduOEJIeEtkelpYb2taM1Y3djJwMDdxTWs0SERiWTBJb3NZcUNjc1RSdXh5Y0R2WWFWQi1RcUxoVDJSLWZVakZ4YjVCNmhISkM2M1RxWUtkZVluMkN3?oc=5",
+          "published": "2026-10-23T11:52:07+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.662,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 외투 한 벌에 온기를 담아 ‘첫겨울 나눌래옷’ 캠페인 펼쳐",
+          "publisher": "한국전력신문",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDbGc3UHB6Vk9seVVudElQR0tmeWVWbGRIOVdqYWtlTThjeE54amFEa1E5RkllM21xa3RDemdtRVpndDQ1VUx6dldhSHZXTW5WcTI5ZnlZMnd6X2RCNHZXNklEZ1ZPaXE3UUE?oc=5",
+          "published": "2026-10-23T11:40:36+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 0.654,
+      "id": 28
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "OECD/NEA 핵연료 국제공동연구 FIDES 정기회의 대전서 개최",
+          "publisher": "한국전력신문",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vd043WGlNYmM3cGZlWjhRQ2UzcG5uVDUxY3JvWEpaQkVIcndPQUROaERGaG5YYkZWTEMwR1U3ZjVPZ2VjdTVfamFsTnhsc0Exa3FmVXFrOVozSC1iUHB2RF9WbC1qWkdJSVE?oc=5",
+          "published": "2026-10-23T11:35:20+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.65,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 96,
+      "kept": 66
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 42,
+      "kept": 18
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 86,
+      "kept": 82
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 46,
+      "kept": 9
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 2
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 7
+    }
+  }
+}
