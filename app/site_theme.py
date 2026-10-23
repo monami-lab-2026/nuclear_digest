@@ -236,19 +236,25 @@ FOOTER_NOTES = {
 
 
 CREDIT_CSS = """
-.site-credit{margin-top:2.5rem;border-top:1px solid var(--color-line);padding:1.25rem 0 1.5rem;font-size:.8125rem;color:var(--color-neutral-500)}
+.site-credit{margin-top:2.5rem;border-top:1px solid var(--color-line);padding:1.25rem 0 1.5rem;font-size:.8125rem;line-height:1.9;color:var(--color-neutral-500)}
 .site-credit a{color:var(--color-neutral-700)}
 """
 
 
+def _linked(item):
+    text = esc(item["text"])
+    if item.get("url"):
+        text = f'<a class="link-underline" href="{esc(item["url"])}" target="_blank" rel="noopener">{text}</a>'
+    return text
+
+
 def credit_line():
-    credit = SITE.get("credit") or {}
-    if not credit.get("text"):
+    """Bottom lines on the front pages: original source (credit) and current maintainer (maintainer)."""
+    lines = [_linked(SITE[key]) for key in ("credit", "maintainer") if (SITE.get(key) or {}).get("text")]
+    if not lines:
         return ""
-    text = esc(credit["text"])
-    if credit.get("url"):
-        text = f'<a class="link-underline" href="{esc(credit["url"])}" target="_blank" rel="noopener">{text}</a>'
-    return f'<style>{CREDIT_CSS}</style><div class="site-credit"><div class="container-page">{text}</div></div>'
+    return (f'<style>{CREDIT_CSS}</style><div class="site-credit"><div class="container-page">'
+            f'{"<br>".join(lines)}</div></div>')
 
 
 def site_footer(section="home", root="./", credit=False):
