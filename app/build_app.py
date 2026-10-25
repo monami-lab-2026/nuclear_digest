@@ -12,7 +12,7 @@ SW_VERSION = "v1"  # bump to drop old caches if the caching rules below change
 
 SERVICE_WORKER = """// Network first for pages and data (new briefs appear immediately), cache as offline fallback.
 const CACHE = 'nuclear-digest-%(version)s';
-const CORE = ['./', './index.html', './news/index.html', './papers/index.html', './install.html', './icon.svg', './manifest.webmanifest'];
+const CORE = ['./', './index.html', './news/index.html', './papers/index.html', './jobs/index.html', './install.html', './icon.svg', './manifest.webmanifest'];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(CORE)).catch(() => {}).then(() => self.skipWaiting()));
 });
@@ -58,6 +58,7 @@ def build_app():
             {"name": "오늘의 뉴스", "url": "./news/index.html", "icons": [{"src": "icons/icon-192.png", "sizes": "192x192"}]},
             {"name": "이번 주 논문", "url": "./papers/index.html", "icons": [{"src": "icons/icon-192.png", "sizes": "192x192"}]},
             {"name": "논문 DB", "url": "./papers/database.html", "icons": [{"src": "icons/icon-192.png", "sizes": "192x192"}]},
+            {"name": "원자력 취업", "url": "./jobs/index.html", "icons": [{"src": "icons/icon-192.png", "sizes": "192x192"}]},
         ],
     }
     (DOCS_DIR / "manifest.webmanifest").write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

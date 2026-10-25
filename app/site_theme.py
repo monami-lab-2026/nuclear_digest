@@ -159,7 +159,8 @@ MOON = '<svg class="moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" 
 
 # (key, label, path from docs/). One menu for the whole site, so news and papers feel like one app.
 NAV = [("home", "홈", "index.html"), ("news", "오늘의 뉴스", "news/index.html"), ("news-archive", "뉴스 모아보기", "news/archive.html"),
-       ("papers", "이번 주 논문", "papers/index.html"), ("database", "논문 DB", "papers/database.html")]
+       ("papers", "이번 주 논문", "papers/index.html"), ("database", "논문 DB", "papers/database.html"),
+       ("jobs", "취업", "jobs/index.html")]
 
 
 def esc(value):
@@ -231,6 +232,8 @@ FOOTER_NOTES = {
              "기사 본문·사진은 싣지 않으며 저작권은 각 언론사에 있습니다. AI 해설은 틀릴 수 있으니 중요한 내용은 원문으로 확인하세요."),
     "papers": ("수집 기준", "Crossref DOI 등록일(created) 기준 주간 수집 · 국가·Open Access·초록은 OpenAlex · "
                "토픽은 제목·초록 키워드 규칙 분류 · 한글 제목은 기계번역"),
+    "jobs": ("수집 기준", "공공기관 공고는 공공데이터포털 「공공기관 채용정보 조회서비스」(잡알리오)에서 매일 아침 모읍니다. "
+             "마감일·응시 자격은 바뀔 수 있으니 지원 전에 반드시 원문 공고를 확인하세요. 뉴스는 제목·링크만 싣습니다."),
     "home": ("구성", "매일 아침 원자력 뉴스 해설, 매주 월요일 주요 저널 신규 논문 동향을 한곳에서 봅니다."),
 }
 
@@ -267,6 +270,7 @@ def site_footer(section="home", root="./", credit=False):
 <div><p class="eyebrow">{eyebrow}</p><p>{note}</p></div>
 <div><p class="eyebrow">바로 가기</p><p><a class="link-underline" href="{root}news/index.html">오늘의 뉴스</a><br>
 <a class="link-underline" href="{root}papers/index.html">이번 주 논문</a><br>
+<a class="link-underline" href="{root}jobs/index.html">원자력 취업</a><br>
 <a class="link-underline" href="{root}papers/nuclear-literature-database.xlsx">논문 DB Excel</a>{repo_link}</p></div>
 </div>{credit_line() if credit else ""}</footer><script>{THEME_TOGGLE_JS}</script>"""
 

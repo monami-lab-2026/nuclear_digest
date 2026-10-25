@@ -61,6 +61,16 @@
           "sizes": "192x192"
         }
       ]
+    },
+    {
+      "name": "원자력 취업",
+      "url": "./jobs/index.html",
+      "icons": [
+        {
+          "src": "icons/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,87 @@
+{
+  "_comment": "원자력 취업 페이지 설정. 공공기관 공고는 공공데이터포털 '공공기관 채용정보 조회서비스'(잡알리오)에서 매일 자동 수집합니다. 인증키는 GitHub Secret DATA_GO_KR_KEY.",
+
+  "alio": {
+    "endpoint": "https://apis.data.go.kr/1051000/recruitment/list",
+    "view_url": "https://job.alio.go.kr/recruitview.do?idx={sn}",
+    "max_pages": 15,
+    "backfill_pages": 40
+  },
+  "_alio": "max_pages = 매일 '접수 중' 공고를 몇 쪽(쪽당 100건)까지 읽을지. backfill_pages = 기록이 비어 있을 때 첫 실행에서 지난 공고를 몇 쪽까지 읽어 통계를 채울지.",
+
+  "institutions": [
+    {"group": "원전 운영·설계·정비", "names": ["한국수력원자력", "한국전력기술", "한전KPS", "한전원자력연료"]},
+    {"group": "연구·안전·규제", "names": ["한국원자력연구원", "한국원자력안전기술원", "한국원자력통제기술원", "한국원자력안전재단", "한국원자력의학원", "한국핵융합에너지연구원"]},
+    {"group": "방사성폐기물", "names": ["한국원자력환경공단"]},
+    {"group": "전력(관련)", "names": ["한국전력공사"]}
+  ],
+  "_institutions": "기관 이름(잡알리오 표기의 일부)이 들어 있으면 원자력 기관 공고로 모읍니다. group은 페이지 필터 이름.",
+
+  "title_keywords": ["원자력", "원전", "방사선", "방사성", "핵융합", "핵연료", "원자로", "SMR", "가동원전", "사용후핵연료", "핵물질", "핵비확산"],
+  "_title_keywords": "위 기관이 아니어도 공고 제목에 이 단어가 있으면 '기타 관련'으로 모읍니다.",
+
+  "history_days": 400,
+
+  "news": {
+    "lookback_days": 14,
+    "limit": 12,
+    "feeds": [
+      {"id": "jobs-ko", "name": "Google 뉴스 (국내 채용)", "region": "국내",
+       "url": "https://news.google.com/rss/search?q=%EC%9B%90%EC%A0%84+%EC%B1%84%EC%9A%A9+OR+%EC%9B%90%EC%9E%90%EB%A0%A5+%EC%B1%84%EC%9A%A9+OR+%ED%95%9C%EC%88%98%EC%9B%90+%EC%B1%84%EC%9A%A9+OR+%EC%9B%90%EC%9E%90%EB%A0%A5+%EC%9D%B8%EB%A0%A5+OR+%EC%9B%90%EC%A0%84+%EC%9D%B8%EB%A0%A5+when:14d&hl=ko&gl=KR&ceid=KR:ko",
+       "aggregator": true},
+      {"id": "jobs-en", "name": "Google News (nuclear workforce)", "region": "해외",
+       "url": "https://news.google.com/rss/search?q=%22nuclear+workforce%22+OR+%22nuclear+jobs%22+OR+%22nuclear+hiring%22+OR+%22nuclear+talent%22+OR+%22nuclear+skills%22+when:14d&hl=en-US&gl=US&ceid=US:en",
+       "aggregator": true}
+    ],
+    "must_have_any": ["채용", "인력", "일자리", "인재", "신입", "공채", "취업", "채용형", "인턴", "hiring", "workforce", "jobs", "talent", "recruit", "career", "skills", "graduates", "apprentice"],
+    "topic_any": ["원자력", "원전", "한수원", "한전KPS", "한전기술", "SMR", "핵융합", "방사선", "nuclear", "reactor", "fusion", "SMR"]
+  },
+
+  "links": [
+    {"group": "국내 공공기관", "items": [
+      {"name": "잡알리오 (공공기관 채용 통합)", "url": "https://job.alio.go.kr", "note": "모든 공공기관 공고 원문 · 이 페이지 목록의 출처"},
+      {"name": "한국수력원자력", "url": "https://www.khnp.co.kr", "note": "원전 운영 · 대졸 공채 상·하반기"},
+      {"name": "한국전력기술", "url": "https://www.kepco-enc.com", "note": "원전 설계·엔지니어링"},
+      {"name": "한전KPS", "url": "https://www.kps.co.kr", "note": "발전설비 정비"},
+      {"name": "한전원자력연료", "url": "https://www.knfc.co.kr", "note": "핵연료 설계·제조"},
+      {"name": "한국원자력연구원", "url": "https://www.kaeri.re.kr", "note": "연구직 · 박사후 · 학연과정"},
+      {"name": "한국원자력안전기술원 (KINS)", "url": "https://www.kins.re.kr", "note": "규제 전문기관"},
+      {"name": "한국원자력통제기술원 (KINAC)", "url": "https://www.kinac.re.kr", "note": "핵비확산·방호"},
+      {"name": "한국원자력환경공단", "url": "https://www.korad.or.kr", "note": "방사성폐기물 관리"},
+      {"name": "한국핵융합에너지연구원", "url": "https://www.kfe.re.kr", "note": "핵융합 · KSTAR"},
+      {"name": "나라일터 (공무원 경력채용)", "url": "https://www.gojobs.go.kr", "note": "원자력안전위원회 등 정부 부처"}
+    ]},
+    {"group": "국내 민간 기업", "items": [
+      {"name": "사람인 '원자력' 검색", "url": "https://www.saramin.co.kr/zf_user/search?searchword=%EC%9B%90%EC%9E%90%EB%A0%A5", "note": "민간 기업 공고 모아 보기"},
+      {"name": "잡코리아 '원자력' 검색", "url": "https://www.jobkorea.co.kr/Search/?stext=%EC%9B%90%EC%9E%90%EB%A0%A5", "note": "민간 기업 공고 모아 보기"},
+      {"name": "고용24 (워크넷)", "url": "https://www.work24.go.kr", "note": "정부 운영 채용 포털"},
+      {"name": "두산 채용 (두산에너빌리티)", "url": "https://career.doosan.com", "note": "원자로·증기발생기 주기기, SMR 제작"},
+      {"name": "삼성 채용 (삼성물산)", "url": "https://www.samsungcareers.com", "note": "원전 건설·SMR 사업"},
+      {"name": "현대건설", "url": "https://www.hdec.kr", "note": "원전 시공·해체·SMR"},
+      {"name": "대우건설", "url": "https://www.daewooenc.com", "note": "원전 시공·연구로"},
+      {"name": "한국원자력산업협회", "url": "https://www.kaif.or.kr", "note": "원자력 기업 목록 · 채용박람회 소식"}
+    ]},
+    {"group": "해외", "items": [
+      {"name": "IAEA Careers", "url": "https://www.iaea.org/about/employment", "note": "국제원자력기구 · 인턴·JPO 포함"},
+      {"name": "OECD NEA", "url": "https://www.oecd-nea.org", "note": "원자력기구 · Careers 메뉴"},
+      {"name": "ITER Careers", "url": "https://www.iter.org/jobs", "note": "국제핵융합실험로"},
+      {"name": "USAJOBS 'nuclear' 검색", "url": "https://www.usajobs.gov/search/results/?k=nuclear", "note": "미국 NRC·DOE 등 연방 공고"},
+      {"name": "Oak Ridge National Laboratory", "url": "https://jobs.ornl.gov", "note": "미국 국립연구소 · 박사후 다수"},
+      {"name": "Argonne National Laboratory", "url": "https://www.anl.gov/careers", "note": "미국 국립연구소"},
+      {"name": "Idaho National Laboratory", "url": "https://inl.gov", "note": "미국 원자력 선도 연구소 · Careers 메뉴"},
+      {"name": "Canadian Nuclear Laboratories", "url": "https://www.cnl.ca", "note": "캐나다 · Careers 메뉴"},
+      {"name": "ANS Career Center", "url": "https://careers.ans.org", "note": "미국원자력학회 구인 게시판"}
+    ]},
+    {"group": "대학원·박사후", "items": [
+      {"name": "하이브레인넷", "url": "https://www.hibrain.net", "note": "국내 교수·연구원·박사후 공고"},
+      {"name": "한국원자력학회", "url": "https://www.kns.org", "note": "학회 공지·구인 소식"},
+      {"name": "UST (KAERI 캠퍼스)", "url": "https://www.ust.ac.kr", "note": "출연연 대학원 · 원자력 전공"},
+      {"name": "한국연구재단", "url": "https://www.nrf.re.kr", "note": "박사후 국내·외 연수 지원사업 공고"},
+      {"name": "KAIST 원자력및양자공학과", "url": "https://nqe.kaist.ac.kr", "note": "대학원 입시"},
+      {"name": "서울대 원자핵공학과", "url": "https://nucleng.snu.ac.kr", "note": "대학원 입시"},
+      {"name": "EURAXESS", "url": "https://euraxess.ec.europa.eu/jobs/search", "note": "유럽 연구직·박사과정·박사후"},
+      {"name": "Nature Careers 'nuclear engineering'", "url": "https://www.nature.com/naturecareers/jobs/search?keywords=nuclear%20engineering", "note": "해외 박사후·연구직"},
+      {"name": "AcademicJobsOnline", "url": "https://academicjobsonline.org", "note": "해외 대학 박사후·교원"}
+    ]}
+  ]
+}

@@ -1,6 +1,6 @@
 // Network first for pages and data (new briefs appear immediately), cache as offline fallback.
 const CACHE = 'nuclear-digest-v1';
-const CORE = ['./', './index.html', './news/index.html', './papers/index.html', './install.html', './icon.svg', './manifest.webmanifest'];
+const CORE = ['./', './index.html', './news/index.html', './papers/index.html', './jobs/index.html', './install.html', './icon.svg', './manifest.webmanifest'];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(CORE)).catch(() => {}).then(() => self.skipWaiting()));
 });

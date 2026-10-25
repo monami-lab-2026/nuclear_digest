@@ -14,7 +14,7 @@ WEEKDAYS_KO = "월화수목금토일"
 
 HOME_CSS = """
 .home-grid{display:grid;gap:1px;border:1px solid var(--color-line);background:var(--color-line);grid-template-columns:minmax(0,1fr)}
-@media(min-width:900px){.home-grid{grid-template-columns:minmax(0,7fr) minmax(0,5fr)}}
+@media(min-width:900px){.home-grid{grid-template-columns:minmax(0,7fr) minmax(0,5fr)}.home-grid.one{grid-template-columns:minmax(0,1fr)}}
 .panel{background:var(--color-card);padding:1.75rem 1.5rem 1.5rem;min-width:0}
 @media(min-width:768px){.panel{padding:2.25rem 2rem 2rem}}
 .panel h2{margin:1rem 0 0;font-size:1.5rem;line-height:1.3;font-weight:600;letter-spacing:-.015em;color:var(--color-ink)}
@@ -173,11 +173,16 @@ def recent_week(days):
             f'<ul class="week">{"".join(cells)}</ul></section>')
 
 
+def jobs_strip():
+    from .jobs.build_site import home_panel
+    return f'<section class="section"><div class="home-grid one">{home_panel()}</div></section>'
+
+
 def build_home():
     days = news_days()
-    lead = "매일 아침 국내외 원자력 뉴스 해설과, 매주 주요 저널에 새로 나온 논문을 한곳에서 봅니다."
+    lead = "매일 아침 국내외 원자력 뉴스 해설, 매주 주요 저널에 새로 나온 논문, 원자력 채용 공고를 한곳에서 봅니다."
     body = (f'<section class="section"><div class="home-grid">{news_panel(days)}{papers_panel()}</div></section>'
-            f'{recent_week(days)}')
+            f'{jobs_strip()}{recent_week(days)}')
     page = (
         f'<!doctype html><html lang="ko"><head>{head(SITE["title"], lead, HOME_CSS)}'
         f'</head><body>'

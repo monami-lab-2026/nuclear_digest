@@ -1,0 +1,17 @@
+{
+ "run_date": "2026-10-25",
+ "started_at": "2026-10-25T20:06:10+09:00",
+ "alio": "no_key",
+ "news": {
+  "jobs-ko": {
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%EC%9B%90%EC%A0%84+%EC%B1%84%EC%9A%A9+OR+%EC%9B%90%EC%9E%90%EB%A0%A5+%EC%B1%84%EC%9A%A9+OR+%ED%95%9C"
+  },
+  "jobs-en": {
+   "ok": false,
+   "error": "HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=%22nuclear+workforce%22+OR+%22nuclear+jobs%22+OR+%22nuclear+hiring%22+OR+%22nuclear+talent%22+OR+%22"
+  }
+ },
+ "news_items": 0,
+ "finished_at": "2026-10-25T20:06:35+09:00"
+}
