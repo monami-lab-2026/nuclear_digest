@@ -1,0 +1,619 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-25T19:06:28+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Scottish Greens reaffirm opposition to nuclear energy",
+          "publisher": "Scottish Greens",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSk53YmpTMjNSdGpaUVh4c21lRVRPLVFnYktiZFVhRThmRWNPajJYeXI5WTFXOHI5U3Rpcmtqdjd4WVJhQ0RIbWZxY3o3NDBpNEVxWW5aMGxtUVoyVDJlVTh3NHlBZ1VkNVllSm5fVXpkeFVvQUV3VHpWOG04SW8wSlNoZFk?oc=5",
+          "published": "2026-10-25T12:58:46+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Greens confirm their opposition to new nuclear",
+          "publisher": "Deadline News",
+          "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNdmxJVkR5TjcyWlFpMXJQRjNodjFtNGV2eVpCOTFBU281WkZCaWtEUExORkxHSkd3c0tGREhBZ0hpY1lkUlYtV3k1ZDljX1BiNE5zdkhTMGJpaXFKQXBjTE5ydXROdjNhbEI4ZkxrRktWbFRyaV9RN0JoaVBBLVFhbHIyNlRjY3I5WThFWldQQXVuRW9YQ0JES1lhYlVwZ3lvTEFZNlROdmxFNTBZSGVpZFlwbkdKYjVZaS0yTzI3aEdxWmczRmNMSEI5cURBYUNYZkF5VFlBM1RZaW5LX1RzVGtNRFpUUGtYSGNoeHJuVjh0Zk1WNU9ydHd3clN5TkdrZloyOTNLVkQxRHdvWDdyaEpRNk9SX1NYRDJJMFdKcVpOUENERURtUW9obWhTZHJJdjE3V2JTV2lxVmU3bGxQQjRxeG5UNGF0dDl2bTNhQndmRHBER1NKSzJXWVgxUHNtWkhSckF1V21iQzRtUWJJZ0RUVXN0eGs2aHlDLUJGd2o1eTlNRHZxd1lSc2ttQUR3SWROWkhocVRCM2hRRHdYdGQ2ZC16d9IBpgNBVV95cUxNdmxJVkR5TjcyWlFpMXJQRjNodjFtNGV2eVpCOTFBU281WkZCaWtEUExORkxHSkd3c0tGREhBZ0hpY1lkUlYtV3k1ZDljX1BiNE5zdkhTMGJpaXFKQXBjTE5ydXROdjNhbEI4ZkxrRktWbFRyaV9RN0JoaVBBLVFhbHIyNlRjY3I5WThFWldQQXVuRW9YQ0JES1lhYlVwZ3lvTEFZNlROdmxFNTBZSGVpZFlwbkdKYjVZaS0yTzI3aEdxWmczRmNMSEI5cURBYUNYZkF5VFlBM1RZaW5LX1RzVGtNRFpUUGtYSGNoeHJuVjh0Zk1WNU9ydHd3clN5TkdrZloyOTNLVkQxRHdvWDdyaEpRNk9SX1NYRDJJMFdKcVpOUENERURtUW9obWhTZHJJdjE3V2JTV2lxVmU3bGxQQjRxeG5UNGF0dDl2bTNhQndmRHBER1NKSzJXWVgxUHNtWkhSckF1V21iQzRtUWJJZ0RUVXN0eGs2aHlDLUJGd2o1eTlNRHZxd1lSc2ttQUR3SWROWkhocVRCM2hRRHdYdGQ2ZC16dw?oc=5",
+          "published": "2026-10-25T13:55:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Scottish Greens reject motion to drop long-standing opposition to nuclear energy",
+          "publisher": "The Herald",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNHByd0tycTJqd1JVMlprMDhCNF9GclIwVk54cTZROG0tSHo1MTlkQ2xTRzh2eG5sMXBhTnNiZ2wyend1dHhvVFBjb0Z3YkNZc01sMnplakF3STN5Mjk2NUR4WnNNYXBmRUM0SFhYdGVtUGNGZkJ4NmVqRlA0MnJyUmYydmJsdDZRU2Z6RlVCN1BVSzFieFFWUWpHMWZPanRIZ2c4?oc=5",
+          "published": "2026-10-25T15:10:48+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Scottish Greens reaffirm opposition to nuclear power",
+          "publisher": "Daily Business",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMmo5dXZoYkZVZFdmTm9CTVZ6R3otLV9rSGZheGZ0a0RYQ0hnNDdiazJKcnhMWGZ2ejV4TmNfcGliSE1NTG5BNGNnaUxUNVNlTlg1S0tkSC1DUmlSeGxuckwwdlJwdkJkQ0RsR0xxaG1ZSF9FSXl1MVdrY0RrNHNuamxkdTdwNk5XbGFYSkwyRFNhUVNQMGd3a3dR?oc=5",
+          "published": "2026-10-25T15:49:51+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.863,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "경주시, 월성원자력본부 찾아 고향사랑기부제 홍보",
+          "publisher": "CBN뉴스",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOFhqTlNoLUx6dEhiVTBKVWFzaW1BZ1o0YUxCdUQzNkJRbmo0Tm92aXliSkhNTTlMWXVIekpkVXhETHNqeEdHQlRfcWw0amJ1VVhwWU5sUXhtWUJYdzJuajJqS25HWXpEMlVqTW9zc1g0OE4xM3lxYkxMVmhPZkF5bg?oc=5",
+          "published": "2026-10-25T00:07:06+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경주, 월성원자력본부 찾아 고향사랑기부제 홍보",
+          "publisher": "세명일보",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sSDlFU3U2MFVTUzNfVXlzYnNmR1dMSVcyNTgyOC1qQWJ2c2RRUUlIcHhmM3BNUDJGNU1OcFBVOVhoNlZQd3ViTGFuM0Jac0xoYkxmVQ?oc=5",
+          "published": "2026-10-25T00:08:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경주시, 월성원자력본부 찾아 고향사랑기부제 홍보",
+          "publisher": "신경북뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FcFlLREFudW1TMWJKUXRpalIwZnpvaG1QNDRLS3FSenBEdUJVaTBhMXR0UGxDRHM2clFKbENJTXJyZXAwdl9QeFBsVFZ4X3pFOWlHd2FXYlM?oc=5",
+          "published": "2026-10-25T09:10:31+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경주시, 월성원자력본부서 고향사랑기부제 홍보 부스 운영",
+          "publisher": "웹이코노미",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96N0tXdngxbmtydG1iX21sTTJpSzZtVEtQYU0xc1pXa1hPXzBVVjFlTTdjOEd6Z3BzX19XLXdxcWhIdXExX2R2Tmh3TXRIenZUYnk0WE1xa2txQkFYTmtfaHVBZVVaU2VmdzU3R25wX0d5dw?oc=5",
+          "published": "2026-10-25T10:36:52+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.646,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "경주 ‘NES 2026’ 27일 개막, 17개 국 바이어 참여 원전 수출상담회",
+          "publisher": "세명일보",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yNE1SODBpUjJrNnNOLVJGUkpzSW5nckhud1d0X2duc2R0R2JSUF9reWd1ZmIwQ3pxbV9IUVR1dWlKUjJTQ2U5WERsd2pwUnlMQXc4SA?oc=5",
+          "published": "2026-10-25T00:23:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경주서 ‘NES 2026’ 27일 개막…17개국 바이어 참여 원전 수출상담",
+          "publisher": "아시아투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBueXVLdE9OaTVIdXZLWmhDSWVkcGFvNkFrcGFVcWNWdk1CV2ZrMzgxczg5Yk9VZ3dyaThkZFhGZzk2RTk1Y1hSVTgzRXFBTXYzUWNtaTF6OUZNcWJCZUVUTExlQzc0RnNQdXdkNUJ3?oc=5",
+          "published": "2026-10-25T02:11:01+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경주서 ‘NES 2026’ 27일 개막… 17개국 바이어 집결로 원전 수출 판로 ‘활짝’",
+          "publisher": "이투데이",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CbFI1TnNrVnlYZFBoeGMwM3M2NDlJdTRURFBYVWZyUjhWYnBsVHotaC15dS0yRmpHOUZaYTVWR1NZRHB2ME41V0VKN1ZpWm44QUpERTZlMFhxRGotX2lUSHctOGl3akxDYmhYeVlZbTBKWTFy?oc=5",
+          "published": "2026-10-25T03:19:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경주서 ‘NES 2026’ 개막…17개국 바이어 참여 원전 수출상담회",
+          "publisher": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jeEM0TWZjOXRuZnkwOWNKeG5rQVB0WTR5RHBqRmNqWjQzdTdPQWFPMndsN3pSZEY1SXBkWVlUM3o5a0o2ZmtJV1Nwemp6OGpUVTh6R3VZQ1dTQmFFRnp4R2NKQUE?oc=5",
+          "published": "2026-10-25T06:01:36+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경주서 NES 2026 개막…17개국 바이어 참여 원전 수출상담회",
+          "publisher": "웹이코노미",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QSjFjTU1qSnQxc1hfbVlPWF92NTZ2cnJfbFJyakg3cUREMXladEUtZEU2TDFqWmhLN0ltUWNGN3BHMldKWWQ2cGM4VW41SGpCWnBJYk1haXBUdVZfeDQzdVczUzFrdGJSS2lyNFc3RHpZUQ?oc=5",
+          "published": "2026-10-25T10:36:12+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.646,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "BREAKING NEWS: Japan, U.S., S. Korea mull next-gen nuclear reactor export to Indonesia",
+          "publisher": "Japan Wire by Kyodo News",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MSlR2cFhOY2pYdmV1bXZzUm1feTkta3F3RU9ZMmJoMHhIMUhrM0ItZGFuN2w2UzgxT2pxdG5XenVoOXhSS050cGREczJRVUlWN2R6ZlZFYUZmdw?oc=5",
+          "published": "2026-10-25T10:30:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Japan, US, S. Korea Explore Nuclear Reactor Exports to Indonesia",
+          "publisher": "Tempo.co English",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON0Y2MmFzdFlyVUpfNk9JMmFjMGp5dzVnWXUtVWhIck13dXBycjdLWUpoQURZbldPQS1CbnRUakgxaWpLMGJNZy1hX01zV0I5TVR6eUhDZzRhYzJyY3pHdzl1eUNndGNFX2U1UTU4NzhCaUw1QUhNZTFMQ0lNV1drWEpjVUtQelp0WUUyZE02MGFxS2x4c3N2Rmt3?oc=5",
+          "published": "2026-10-25T16:01:43+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.872,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "NES 2026 개최…원전 글로벌 공급망 협력·미 진출 모색",
+          "publisher": "에너지경제신문",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PM2JzcERMTWRYMXJPSk93Q0s1MGRJU2FYeGxrdkhqVmNHaGhpWVJiUk9fd2prSTZuSGJCaGQyZC1Jd0pxVFo5VGwzN0hfVDUtSUk3RXdPOVhSZ3c?oc=5",
+          "published": "2026-10-25T00:00:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한미 원전 기대품은 ‘NES 2026’ 개막…“글로벌 공급망 협력 모색”",
+          "publisher": "인사이트N파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHZHU1Wk1EX0J6LUNRX1d1U0xoTXd0SF9jLVBvcFVOT0MyUUNGRzd0Nlk5cXRxYXNzOXhZc3N1bllzVEVvOFZlNmhtSDB2al84ZlNQZl8zU0NRZE9zV1I0ZWpaUnFfZw?oc=5",
+          "published": "2026-10-25T12:31:12+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.726,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Russia denies plans to evacuate staff working at Iran's Bushehr nuclear plant",
+          "publisher": "Middle East Eye",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSmxTR0Vnbkt5Y29FRmt6NHl0Nk56SnpNSEdWLVI4OU9fQ0JsVy1sMmV1YkFYaEFyTm5RY3JBLXpyUkdoandJWnF4RUo0Sk95SmtBNDRkNFc5MzhfS3BCV0RHaE9QMmhHT0loZ0VRMC1RWElXVlk3dUduOTI3Tmx1LTJGUGs3OGVaVF9Zb3N5SlpmVUpkeEI1YUQ2eFFJbkFFbi1POC14eEx5dU9aNkJiVWROVG41STFTNThHZjd3aFFzcnBfb0E?oc=5",
+          "published": "2026-10-25T05:50:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Russia denies evacuating diplomatic staff, nuclear specialists from Iran",
+          "publisher": "Hiru News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb0pLMUVOUjEzaTZUeHM0X1VmNm96UmJTbEN2dkp6M0VYVUpGYnRDcVZtbF9HMkxkeEJZNENHSkppOEZ5VmFfOWpjVXlhc1VRbVk1dXA0SFQ3aVJXN1RXZ0o5RXQ5WUpBMS1ySi13VzMwYkZfZUNOZDlPcnV4ZG5neGNBckNxY0hxTDVzejZYY0djMjBDRUlpSU1DT1NWT1gwaHdYaVFPS2RBUQ?oc=5",
+          "published": "2026-10-25T11:47:50+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.695,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Nuclear power could more than triple by 2060",
+          "publisher": "Hamro Patro",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeVZLYkdhTjJMOXdZOXdnSmZBLXd1NTFhb1dlN19zMmxlT3BadHdTdjJobEFVT2hSX185VjR1UmJJZ19ic2dYRlEyYk1SY0dSRGM5RW1yOUtIc1M3cHFOdHd5djlVSHNsb2tGY3NGYkFyQmhLSnZ0SFUwUjNydXlEa0EtUHdvcm9ydGduX3NzemU0bTJIcVpXQVFaVURjVjVvYlNMdlNB?oc=5",
+          "published": "2026-10-25T04:45:45+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Nuclear power could more than triple by 2060",
+          "publisher": "The Rising Nepal",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE11VVRWcXp3ZTFWNXF1OTY2anl1WWFDeWVYbUViMHVBRVhoR3o0ZHVOc2c1M2Vsa2NWM1o5dGNTNE9jcmRXRWlIbHdjZE9QR2d1?oc=5",
+          "published": "2026-10-25T04:47:41+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.404,
+      "id": 6
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원노조·시민단체 “신규원전 지연 책임져야”…김성환 장관 경질 촉구",
+          "publisher": "에너지경제신문",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mNkkwZkVHMUFoOU5IWDBmU3hnSFlfT1RjQ3otV0ZYZWtsYVNqTnRVdFUtOG9IVERrOHo0Vk03WkRCOGdWdlAtMUZ5czR2Q1dZdEhGUGNUelllV0ExMEJuTDJn?oc=5",
+          "published": "2026-10-25T00:19:28+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원노조·시민단체 “신규원전 지연 책임져야”…김성환 장관 경질 촉구",
+          "publisher": "에너지경제신문",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40UVZ4OVJMMkVCWGxNX2RoRFdPRVZPRkkxVDlhX0Eta2VGU3kyMWRQSmVSbW4ydjVZejUzc3pOMThZQnM3clpLeElsZlIxY3E0U0x1RDRaLTVmWXFWTkE1dDZtZw?oc=5",
+          "published": "2026-10-25T00:19:28+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.217,
+      "id": 7
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "\"원전 1기만 빼줘도 국민부담 연 3,800억 뛴다\" > 뉴스",
+          "publisher": "대구경북일보",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fd01ndzdBMlg2TDl3RHJZcnQ0YnAxd0FFcENPeFpON0tjNFVhRU44Z0lVbHFyLXJIbGcwYko2cFRWdnNydEEtTVBOVU9rMFpQMkpfSUs4WU9OU1RRa1hqZ3NJOHlOcWdFMzRvXzNraHk?oc=5",
+          "published": "2026-10-25T17:55:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.95,
+      "id": 8
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "미국 켄터키에 AP1000 원전 6기 추진…6.6GW 초대형 원전단지 건설 시동",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VaUtXa2h3M3Mzd0UtTFJjWXZQOUpYUkRidzJZak1CWm5GcHNIS29FU0lvTHFtNExGUThqeHFwN19iSjcxTGtPWmNLWWtDeWlPSk1ZQnNjLVkxeGlXQnBjalRFQ2U?oc=5",
+          "published": "2026-10-25T17:36:49+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.938,
+      "id": 9
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "신규 원전 후보지 넉 달 만에…영덕군, 원전·재생에너지 연계 성장전략 첫 공개",
+          "publisher": "투어코리아",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XQWZrUTZ1bkpKV09DbEVUc0dmbmNCVVNCQ1dHaElkODNwdlo4ZzEzYlpZY1RkY1ZFUkxBcDgtaGhYeS0tUUZYeFJXUGNfNVhGQ2V3NzF6UFRPejEzZ0xmTGFJN3hhQnozNDRwVmlR?oc=5",
+          "published": "2026-10-25T17:24:22+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.929,
+      "id": 10
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "美 버몬트양키 원전 폐쇄 12년…해체 부지에 ‘SMR 귀환론’ 부상",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNNE1SUHYtb2N4ZERyelpVcWZFY0lodFhzcEx2bXM5R2FodlM0eTZVUXJHX3M0NVoxS1k0aDRJYWk4U1RJTFI5U1lOX21CMy1pbkNzSnp0aG9RMVVUeUtMekNDS1I?oc=5",
+          "published": "2026-10-25T17:23:12+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.928,
+      "id": 11
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "호주 원전 금지 논쟁 재점화…국민 63% “원자력발전 검토해야”",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOQlpvNU9HUXhQY21acEc4VWY2dTdzRWd6czhSd0VMa2h5bTN3T2c0Sk9vNjJQeWhaRTZaMEkwSV9YSDZnQXcxYkZ1M3kxU25GSl9DVkN3ZmdMVWdVbDNQZ1VKVmU?oc=5",
+          "published": "2026-10-25T16:52:57+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.907,
+      "id": 12
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원전 해체도 로봇 시대… 영국, 방사성폐기물 절단·처리 기술 혁신 가속",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fQmpfQmdzNmlXY0RTSmw3MHA4QUJIQWF5ZW5Hb0FCLU5RbUdwLWIzai1nMTJXSGtoUjl6YnI0emNnSWZranJpTldWR1IxRkk5T2tGSFl4OF9ORW9LVklTRmIxR18?oc=5",
+          "published": "2026-10-25T16:33:06+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.894,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Singhar backs Rewa villagers’ protest against nuclear plant",
+          "publisher": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZmdjZjdIelRFYkt3eE9WLTZmYXRCOWdGVnZHQXZEbHYydFR0eF9WRFg4RndKQnR6NkdVNjZ3YnMwYmk2c3hKY3pMVllPbGlRSko3VkhSd3NmU2d4TGlPcmJ3c1NvUTBMcnJ2bVlYVVFEQTVjeklZbVdHODR6TGdNU29qWUNGWFRiQjlFUGdfZUxpNVUwVVVTaDJoOWlZZGU1bV9EbnRxVlpEZV9BaFZyWVpNOWRlWUxLakt2MWpQQVg5OXZrdkk2OW1SREzSAdIBQVVfeXFMTmY4UUphcGFMNUJUWGtNX0NzbHgzTVZLTnhobGdBSEM0VVhaNVNGR1NsenF5Y2hGbENmUnVRc0Y4UzYyZGN3bXZ3YkQ0Tk1XdWl4anZiT0hlVVFIMGYyVXQwSGE0b2NyV25lR3pVTEdTSXgtSURYWHY0YlZTYU1iNVFQSlNOeUtwdzlfZDN5TDFjYlR2STJ4NzVNeVhuWjJOSlVVZmlZU3ZWeUtnTzB2YU5OY3NmTngxX1RjbjRkd1JRdzFDTzB6WVhvcjZfaHFnd09B?oc=5",
+          "published": "2026-10-25T15:19:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.842,
+      "id": 14
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원자력환경공단, 이사회 윤리·청렴 실천서약식 개최",
+          "publisher": "경주시민신문",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWWxmQTZQOHQ3eTdDUUlfT2w2N3JLSE5nZVJLV0ZzMkxRTDRMRjBnRGg0eFF3Um56RkdNQ1ZndFc1ZGVYZF9NZlg2VjBGOGFXcW9SZ2RaaUpKa01tMEFYRGhwaHZtckJFMjNobnVyRUhwN2cxNG5LR25hbVJyR0tMNmFlV3I?oc=5",
+          "published": "2026-10-25T15:00:36+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.829,
+      "id": 15
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[2026 국감] ‘SNS 막말ㆍ회의 언행’ 논란 박종운 원안위원, 국감서 조건부 사과",
+          "publisher": "인사이트N파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GVm8zZDhnRXk5MUNJTWZpVTE4NXZMODNlZzc2aE4wbERNRkdISkJTLTdZZmlSYWw1NjlPNGpOT3hfVlhyeUJhSUI1UElta3RsNVljdE55dWlmeFZDVFlpZ2JfZ3N0QQ?oc=5",
+          "published": "2026-10-25T14:23:06+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 0.803,
+      "id": 16
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "US Navy Selects Radiant's Microreactor for Deployment at NWS Crane",
+          "publisher": "Israel Defense",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pNC0yckctT1lidDhtVmRGYUtoWUxMTGJqWkYxZ0ItLUV4MzdfRXh1bnhOZlc0R1o2LWhEQ2lTdTFTMTZUdW1jX3VBREtKUUJsYXNTZ0RaUFY?oc=5",
+          "published": "2026-10-25T13:59:01+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.787,
+      "id": 17
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한전 \"원전 구입단가 4년 새 79%↑\"…소비자 부담도 증가",
+          "publisher": "www.sejongmedia.com",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkRkZJb2ZYWHdaQVFMeTdGNjlCMXZmTVoxbEtiY0ZZWVFwZXlkWGNGMzRlTE1zMW8xbm9RZGxaMUY4c21mWU9xc3ptSVJPbTZtT2wwM0R5Zy1IOEZzSWQtVkRub2tJam40aUlvYU93?oc=5",
+          "published": "2026-10-25T13:06:49+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.75,
+      "id": 18
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "\"원전 6기 필요하다\" 호남 반도체 클러스터 최대 수혜 전력주 '이 기업' 전망",
+          "publisher": "나남뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05VFpkd2ZyTExiWENmN1J2YmZRU09VVzhETUZqcWdIX19rbWdsWklSWHVuT1M1aGJKWEx2RFl1WXc1WVU3eHk5czRZb0pvUTZLUWRsV0o2Ni1DVDR2M3FwY29HeUh3SVBZMy02bA?oc=5",
+          "published": "2026-10-25T12:46:12+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.736,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "메가특구 특혜 어디까지..노동 유연화 이어 원전 PPA도 논란",
+          "publisher": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TWHd6UlFYbUNlNF9zSVVFaVN5UnA5TVRNSVMwOEw1eEZpV1l0c3F5V1JEb1Byc1VCMGNyRzI3TG0tMkFIMkdiS0tzLXkydndhNDJZdFpheWQ5dw?oc=5",
+          "published": "2026-10-25T12:06:09+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.708,
+      "id": 20
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "How Far Will Mega Special Zone Privileges Go? Nuclear PPAs Also Spark Controversy After Labor-Market Flexibility",
+          "publisher": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wME44cHRCOHdkS2ZtWGYzbGtNU3lNWEtkWVgyeDdzbU5pTzVuM0FMVmZ1SkZsOG8wY01GdGw2ZHQ1cFJaVTZwdFFIeUk5eUdpVFhBTGZTV2U?oc=5",
+          "published": "2026-10-25T12:06:09+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.708,
+      "id": 21
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Bluecore secures a U.S.-held supply of low-enriched uranium, locking in a critical piece of fuel for its maritime nuclear power system",
+          "publisher": "Energies Media",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GM3VhWnZ1Uy13YWw2X2Nvb2lJRTItMndmOW1KWW44NWZLTG1LdlFKRGc3bnBIVmZXalp0d1BQNDduOXVmVzdyVGhWYlRwckZwM1V4Wlkwbzl5VUFZc0JJSGFwVmVialFWUG5GaUllVGVXQnYxVjh0TEt2ODUyUQ?oc=5",
+          "published": "2026-10-25T11:30:14+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.683,
+      "id": 22
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Rosatom chief briefs Uzbek president on progress of country's first nuclear power plant",
+          "publisher": "The Bangladesh Monitor",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeXdIendYT0VwYUhWdEZ4a0JJb2pMYjVKQ1ZBLUdMWTJRem1SelFVSEZNU1ZIal9hZU02a3VZdi1HVllvVWFDRGpSdUpYX1ZRUFI0eTlfQzV6eDltQzdNSlRCbEVpUDNMVVNzTkZCT3Y0UndsSEdKT0t3Rkh2SWRxWmh6bkJqbjF6NXZ4b0I2d3lRUmUtWXFoQURnMWwtY2k2X2xHaU5Ha1NwV21TSFhiSA?oc=5",
+          "published": "2026-10-25T10:33:03+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.643,
+      "id": 23
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Climate scientists and campaigners round on English Greens over nuclear U-turn",
+          "publisher": "inkl",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdUVuckpiZk9SLW1xYm1lNDlpMzlfZGRMLVVMN01IUmUxWXU0cG5OLVNOZ2VESGF2ZFlsRG5HSy1taDFWb3VPbm1sWDExWmJQekpNS2RBSnptd0ZhX19UNmpidF9qR0Vldm5oWE83cU9ab1FMRlY2WDVOdmp0MGQ1OXNINlFRdFVFVC0wSWRkTEw1SjBFdDY4TlhQVFFhU3huTld3dkdsMA?oc=5",
+          "published": "2026-10-25T05:00:21+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.412,
+      "id": 24
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Is nuclear power back on the table for Singapore?",
+          "publisher": "The Business Times",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc25FbUxhNElJYUd5M19Eb09Qd1dBN2g3Y2xGQ1dQQjBTZ3l4ak0yQ1NacFhLYTd6NjUxSnFnbUtmYjNPNzN4dTNZa0hKbE83SmFzZ2xFUDNkdmxqQW5MTUJnejNJVVk0bk9WOXRWS3JyN2F1ak85enRBaUx5VVp4c1hzWTVDQ3J3VDJWVw?oc=5",
+          "published": "2026-10-25T04:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.371,
+      "id": 25
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Proposal could create largest U.S. nuclear campus in eastern Kentucky",
+          "publisher": "FOX 56 News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYXY0Nm5UNUhXaE9lMHYwX3RBdmtPeFhzYkgwUjF1NWktN0RiM1gtRzRFRElpOG9PQ3dtcUFIYno5VGpHUlVhM3ktendoWm4wd3NSelR5ajR6ZGFTeXlJaF9iYmhWTzNXTmNDR1Z3SlIzVDQxZFJveG14VjhUek9YOFl2cVBnR0MwdUI4WDRGakNCTDJXamNJanNTNUhJT2V2eThFMk8zUGPSAa4BQVVfeXFMTVVZZW1qN3pZZi1KZlN6clNFOEg0Wlhma2FqeEpId0FnU1BCTnNVbVNiaEdHM25Ib0lDV1gyaVp6b2ltRGJwSXp5TFJYZ2JaUFgzX3VnWk90MUF4QlBnS011d19LT2pIcUFvbmdUNEViMjZTbE9vTUFNbUZTZExjSll5VVZyX1JBVjhVNW9UcmpZSE1rRHNyVHl3SXpyY0VMOTQ5MXNpTGhxbU9Dd2pB?oc=5",
+          "published": "2026-10-25T03:58:21+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.369,
+      "id": 26
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "‘Start that conversation’: Saskatchewan Science Centre aiming to educate public on nuclear power",
+          "publisher": "CTV News",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUmNfN2NzRFc2YmVRMEFqN3BuU2xDcXhDdlZabjRQQ2N6cHNYdU02T1ByaWN6T3ZHT2RsZDBFM1d3bDZGWFZoWk92amkyQ1FsbEZLQXlDN1pseHVGXzY0T2E4dnFNaHpFMHdTMlJrR185bW52Ry12V0dIbFNLMGllOGRFV3RHc0NDYjZVeEo2Rjlvb19TUEtTQnQ2dldqamJIZXljTzgzdjEyR21JY1JURWd1enh0d0VrdVg4WENnanlmRmpidndSd2V1Yng?oc=5",
+          "published": "2026-10-25T01:32:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.268,
+      "id": 27
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Nelson Mandela Bay Mayor welcomes progress on proposed Thyspunt Nuclear Plant",
+          "publisher": "Green Building Africa",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb2tJbFRNRHYtYXFXWUJ5bkIwQU0tek5oZkFTdWhlTDNnSEtiN25teDYyMEpaUUxYYWp4Y256dmZkWkFtLTkzMGZlRk1lbFQ0UC0zaEppTDRyb29SSmE5N01wUkZwN2JMZUxlejhVN2owY3JTTG84YXpxY295dHV0M1FPZ2FRZWFpcFIycEdlZEdTYWNONWpCYS1fcUdrRkxBWWF0WndSOFR5WUdxdUh5SXFZc21TZlk?oc=5",
+          "published": "2026-10-25T00:11:51+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.212,
+      "id": 28
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "St. Joseph County resident, officials react to proposed Amazon, AEP nuclear plant",
+          "publisher": "nwitimes.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZzR1Ui1jcS1uNEt5YUxYY25mOVpQRnh4RGFQd3I3UVpISWFJRGMtRFZyNjBqZWNFOHV1Y2xTc1QtQXQwdUlMdjJjRG5hd0tlRHFMMVpQMFF6SWFIc1NiUlhZY0dRUGhFUy1PclVnTm8yVXZRektjOGJadVVGNWtJZTluVHFndmtaR2RkRktaREV3WktM?oc=5",
+          "published": "2026-10-24T22:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.121,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 61,
+      "kept": 54
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 16,
+      "kept": 2
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 27,
+      "kept": 23
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 46,
+      "kept": 0
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    }
+  }
+}
