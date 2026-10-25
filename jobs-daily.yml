@@ -1,9 +1,10 @@
-name: Daily nuclear jobs
+name: Weekly nuclear jobs
 
 on:
   schedule:
-    # 22:37 UTC = 07:37 KST (GitHub usually starts scheduled runs 1–3 hours late).
-    - cron: "37 22 * * *"
+    # Sunday 23:37 UTC = Monday 08:37 KST, after the 07:00 KST weekly paper run
+    # (GitHub usually starts scheduled runs 1–3 hours late; both share the site-publish queue).
+    - cron: "37 23 * * 0"
   workflow_dispatch:
     inputs:
       backfill:

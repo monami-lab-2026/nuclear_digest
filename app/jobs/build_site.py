@@ -136,7 +136,7 @@ def job_card(record, today):
     if record.get("count"):
         meta.insert(0, f'{record["count"]}명')
     src = f' · <a class="link-underline" href="{esc(record["src"])}" target="_blank" rel="noopener">기관 공고</a>' if record.get("src", "").startswith("http") else ""
-    new = '<span class="new">NEW</span>' if (record.get("first_seen") or "") >= (today - timedelta(days=3)).isoformat() else ""
+    new = '<span class="new">NEW</span>' if (record.get("first_seen") or "") >= (today - timedelta(days=7)).isoformat() else ""
     text = " ".join([record["inst"], record["title"], hire, record.get("kind", ""), region]).lower()
     return (f'<article class="job" data-group="{esc(record["group"])}" data-hire="{esc(hire)}" data-end="{esc(record.get("end") or "")}" '
             f'data-text="{esc(text)}"><div class="dday"><b>&nbsp;</b><small>{esc(short(record.get("end")) or "-")}</small></div>'
@@ -222,7 +222,7 @@ def trend_section(history, today):
         blocks.append(f'<div class="chart-block"><h3>분야별 공고 (최근 90일)</h3>{bars(by_group)}</div>')
     if by_hire:
         blocks.append(f'<div class="chart-block"><h3>고용 형태 (최근 90일, 공고 하나에 여러 형태 가능)</h3>{bars(by_hire)}</div>')
-    note = f"매일 수집한 기록이 쌓일수록 정확해집니다. 기록 시작: {esc(first)}." if first else ""
+    note = f"매주 수집한 기록이 쌓일수록 정확해집니다. 기록 시작: {esc(first)}." if first else ""
     return ('<section class="section" id="trend"><div class="sec-grid"><div class="sec-side"><p class="eyebrow eyebrow-mark">Trend</p>'
             f'<h2>채용 동향</h2><p class="note">원자력 공공기관 공고 수의 흐름입니다. 상·하반기 공채 시즌(대개 3~5월, 8~10월)에 몰립니다. {note}</p></div>'
             f'<div class="sec-body">{"".join(blocks)}</div></div></section>')
@@ -264,7 +264,7 @@ def build_site(today=None):
     history, news, status = load()
     s = summary(history, today)
     updated = status.get("run_date") or today.isoformat()
-    lead = ("원자력 공공기관 공고는 매일 아침 잡알리오(공공데이터포털)에서 자동으로 모으고, "
+    lead = ("원자력 공공기관 공고는 매주 월요일 아침 잡알리오(공공데이터포털)에서 자동으로 모으고, "
             "민간 기업·해외·대학원·박사후 정보는 바로 가기로 정리했습니다. "
             f"<b>마지막 갱신 {esc(updated)}</b>")
     stats = ('<div class="stats four">'

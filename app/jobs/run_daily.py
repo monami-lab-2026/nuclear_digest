@@ -1,4 +1,4 @@
-"""Daily jobs run: public-institution postings + hiring news -> data/jobs -> docs/jobs (+ home page).
+"""Weekly jobs run (every Monday): public-institution postings + hiring news -> data/jobs -> docs/jobs (+ home page).
 
 python -m app.jobs.run_daily                 # collect and render
 python -m app.jobs.run_daily --render-only   # rebuild pages from data/jobs only
@@ -29,10 +29,12 @@ def run(backfill=False):
 
     try:
         key = service_key()
-        if backfill or not history:
-            past, scanned = collect_alio(key, ongoing=False, max_pages=SETTINGS["alio"]["backfill_pages"])
-            history = merge(history, past, today)
-            status["backfill"] = {"scanned": scanned, "nuclear": len(past)}
+        # Weekly runs also read the newest postings (open or not) so that a posting that opened and
+        # closed between two runs still counts in the trend charts. First run / --backfill reads further back.
+        pages = SETTINGS["alio"]["backfill_pages"] if backfill or not history else SETTINGS["alio"]["recent_pages"]
+        past, scanned = collect_alio(key, ongoing=False, max_pages=pages)
+        history = merge(history, past, today)
+        status["recent"] = {"pages": pages, "scanned": scanned, "nuclear": len(past)}
         current, scanned = collect_alio(key, ongoing=True)
         history = merge(history, current, today, open_ids={r["id"] for r in current})
         write_json(HISTORY_PATH, dict(sorted(history.items(), key=lambda kv: kv[0], reverse=True)))

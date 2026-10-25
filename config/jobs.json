@@ -1,13 +1,14 @@
 {
-  "_comment": "원자력 취업 페이지 설정. 공공기관 공고는 공공데이터포털 '공공기관 채용정보 조회서비스'(잡알리오)에서 매일 자동 수집합니다. 인증키는 GitHub Secret DATA_GO_KR_KEY.",
+  "_comment": "원자력 취업 페이지 설정. 공공기관 공고는 공공데이터포털 '공공기관 채용정보 조회서비스'(잡알리오)에서 매주 월요일 자동 수집합니다. 인증키는 GitHub Secret DATA_GO_KR_KEY.",
 
   "alio": {
     "endpoint": "https://apis.data.go.kr/1051000/recruitment/list",
     "view_url": "https://job.alio.go.kr/recruitview.do?idx={sn}",
     "max_pages": 15,
+    "recent_pages": 10,
     "backfill_pages": 40
   },
-  "_alio": "max_pages = 매일 '접수 중' 공고를 몇 쪽(쪽당 100건)까지 읽을지. backfill_pages = 기록이 비어 있을 때 첫 실행에서 지난 공고를 몇 쪽까지 읽어 통계를 채울지.",
+  "_alio": "max_pages = 매주 '접수 중' 공고를 몇 쪽(쪽당 100건)까지 읽을지. recent_pages = 매주 최근 공고를 몇 쪽까지 더 읽을지(한 주 사이에 열렸다 닫힌 공고도 통계에 넣기 위해). backfill_pages = 기록이 비어 있을 때 첫 실행에서 지난 공고를 몇 쪽까지 읽어 통계를 채울지.",
 
   "institutions": [
     {"group": "원전 운영·설계·정비", "names": ["한국수력원자력", "한국전력기술", "한전KPS", "한전원자력연료"]},
