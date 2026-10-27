@@ -9,7 +9,12 @@ so the same menu works from any depth.
 """
 import html
 
-from .config import SITE
+from .config import ROOT, SITE
+
+
+def jobs_ready():
+    """Jobs section is shown as 준비중 until the first posting collection lands."""
+    return (ROOT / "data" / "jobs" / "postings.json").exists()
 
 THEME_STORAGE_KEY = "nuclear-digest-theme"
 
@@ -209,7 +214,7 @@ def install_button(active, root):
 
 def site_header(active, root="./"):
     items = "".join(
-        f'<a class="item" href="{root}{href}"{" aria-current=page" if key == active else ""}>{label}</a>'
+        f'<a class="item" href="{root}{href}"{" aria-current=page" if key == active else ""}>{label}{"" if key != "jobs" or jobs_ready() else " (준비중)"}</a>'
         for key, label, href in NAV
     )
     return f"""<header class="site-header"><div class="container-page site-bar">

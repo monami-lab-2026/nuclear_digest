@@ -156,8 +156,8 @@ def open_section(history, today, status):
     notice = ""
     alio = status.get("alio")
     if alio == "no_key" and not history:
-        notice = ('<p class="notice">공공기관 공고 자동 수집은 <b>공공데이터포털 인증키</b>를 저장소에 등록하면 시작됩니다 '
-                  '(<code>DATA_GO_KR_KEY</code>). 그 전까지는 <a class="link-underline" href="https://job.alio.go.kr" target="_blank" rel="noopener">잡알리오</a>에서 직접 확인하세요.</p>')
+        notice = ('<p class="notice"><b>준비중</b> · 공공기관 채용 공고 자동 수집을 준비하고 있습니다. '
+                  '그 전까지는 <a class="link-underline" href="https://job.alio.go.kr" target="_blank" rel="noopener">잡알리오</a>와 아래 기관별 채용 링크에서 직접 확인하세요.</p>')
     elif alio == "error":
         notice = f'<p class="notice">오늘 공고 수집에 실패해 마지막으로 받은 목록({esc(status.get("alio_date", ""))})을 보여 줍니다.</p>'
     groups = Counter(r["group"] for r in opened)
@@ -292,7 +292,8 @@ def home_panel(today=None):
     head_html = ('<article class="panel"><p class="eyebrow eyebrow-mark eyebrow-accent">Careers · Jobs</p>'
                  '<h2>원자력 취업</h2>')
     if not history:
-        return (head_html + '<p class="notice">공공기관 공고 자동 수집을 준비하고 있습니다. 기관별 채용 링크는 바로 볼 수 있습니다.</p>'
+        return (head_html.replace('<h2>원자력 취업</h2>', '<h2>원자력 취업 (준비중)</h2>')
+                + '<p class="notice"><b>준비중</b> · 공공기관 채용 공고 자동 수집을 준비하고 있습니다. 기관별 채용 링크는 바로 볼 수 있습니다.</p>'
                 '<div class="more"><a class="primary" href="jobs/index.html">취업 정보 보기</a></div></article>')
     soon = s["open"][:3]
     items = "".join(
