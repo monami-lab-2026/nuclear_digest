@@ -3,8 +3,9 @@
     python -m app.papers.session_translate prompt [--limit 80]   # prints the task, or a SKIP line
     python -m app.papers.session_translate apply titles.json     # validates, saves, rebuilds paper pages + home
 
-Picks titles that only have a free machine translation (engine "mymemory"), newest first, and replaces
-them with a session translation (engine "claude-session"). The weekly Actions pipeline keeps these
+Only the latest weekly window (state/papers/latest-run.json) is handled, like the weekly digest page:
+titles there that only have a free machine translation (engine "mymemory") are replaced with a session
+translation (engine "claude-session"). Older weeks are left as they are. The weekly Actions pipeline keeps these
 because it only re-translates titles missing from the cache.
 """
 import argparse
@@ -31,10 +32,17 @@ FORMAT = """출력: 아래 형식의 JSON 하나만 파일로 저장한다(설�
 {"translations": [{"doi": "목록의 doi", "ko": "한국어 제목"}, ...]}"""
 
 
+def current_period():
+    status = read_json(STATE_DIR / "latest-run.json", {}) or {}
+    run_date = status.get("run_date")
+    return Period(date.fromisoformat(run_date)) if run_date else Period.for_date(date.today())
+
+
 def pending(limit):
     cache = translate.load_cache()
+    period = current_period()
     con = database.connect()
-    rows = con.execute("SELECT doi, title_en FROM papers ORDER BY doi_registered_date DESC, doi").fetchall()
+    rows = database.papers_between(con, period.start, period.end)
     con.close()
     todo = [(r["doi"], r["title_en"], cache[r["doi"]]["ko"]) for r in rows
             if r["doi"] in cache and cache[r["doi"]]["engine"] == "mymemory"]
@@ -44,10 +52,11 @@ def pending(limit):
 def cmd_prompt(limit):
     todo, total = pending(limit)
     if not todo:
-        print("SKIP: 다시 번역할 논문 제목이 없습니다.")
+        print(f"SKIP: 이번 주({current_period().start}~{current_period().end}) 논문 중 다시 번역할 제목이 없습니다.")
         return 0
     glossary = "\n".join(f"- {en} → {ko}" for en, ko in SETTINGS["translation_glossary"].items())
-    print(f"PENDING: {len(todo)}건 (남은 전체 {total}건)")
+    period = current_period()
+    print(f"PENDING: 이번 주({period.start}~{period.end}) 논문 {len(todo)}건 (남은 {total}건)")
     print(RULES)
     print(glossary)
     print()
@@ -61,9 +70,7 @@ def cmd_prompt(limit):
 
 def rebuild():
     from .run_weekly import build_outputs  # heavy imports only when needed
-    status = read_json(STATE_DIR / "latest-run.json", {}) or {}
-    run_date = status.get("run_date")
-    period = Period(date.fromisoformat(run_date)) if run_date else Period.for_date(date.today())
+    period = current_period()
     con = database.connect()
     database.sync_titles(con, translate.load_cache())
     build_outputs(con, period)
@@ -80,7 +87,7 @@ def cmd_apply(path, limit):
         print(f"ERROR: JSON을 읽지 못했습니다: {error}")
         return 1
     cache = translate.load_cache()
-    allowed = {doi for doi, entry in cache.items() if entry["engine"] == "mymemory"}
+    allowed = {doi for doi, _, _ in pending(10**6)[0]}
     errors, accepted = [], {}
     for i, item in enumerate(items):
         doi, ko = (item or {}).get("doi", ""), " ".join(str((item or {}).get("ko", "")).split())
@@ -104,7 +111,7 @@ def cmd_apply(path, limit):
     write_json(TRANSLATIONS_PATH, dict(sorted(raw.items())))
     rebuild()
     _, left = pending(limit)
-    print(f"OK: 논문 제목 {len(accepted)}건 반영, 논문 페이지·홈 갱신 완료 (남은 기계번역 {left}건)")
+    print(f"OK: 논문 제목 {len(accepted)}건 반영, 논문 페이지·홈 갱신 완료 (이번 주 남은 기계번역 {left}건)")
     return 0
 
 
