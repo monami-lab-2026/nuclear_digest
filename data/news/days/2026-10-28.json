@@ -1,0 +1,931 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-27T20:45:12+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA’s Grossi Calls for Progress in Deploying Nuclear Power as Ministerial Conference Opens",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/news/iaeas-grossi-calls-for-progress-in-deploying-nuclear-power-as-ministerial-conference-opens",
+          "published": "2026-10-27T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        },
+        {
+          "title": "IAEA Ministerial Conference on Nuclear Power Opens in Incheon, Linking Korea’s Nuclear Capacity to Global New Reactor Demand",
+          "publisher": "DongA Science",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4aVBRb2RER003YTJxRENkVlExaVpVTmcyS2xMS1ZiQTEzZ1ZXYjEyMzl2bkZFNzlCeWd2ZkF6Yi1scWVPeno2VFkwZkE4bURrSkJiRw?oc=5",
+          "published": "2026-10-27T02:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Int'l ministerial conference on nuclear power",
+          "publisher": "Yonhap News Agency",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zT1pBYVVwdm12OU53TE11QXFsUlhEdjJJR05tbU15a3RQX1lTWmp5Mko3QTZXa0NBV3hEV2syMkpnckF2eHNKMTNqZ080ckdCanVRM3JJUTR0c1BjYkljdGZnVkJncWRUcWYzRjFKaFE2TFZKbmxB?oc=5",
+          "published": "2026-10-27T02:23:24+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "IAEA’s Grossi Calls for Progress in Deploying Nuclear Power as Ministerial Conference Opens",
+          "publisher": "International Atomic Energy Agency",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOVFmRUMxX1ZCYkRtYXNyMnFoY0M1cDBGODYzWHlwNGZ2Tk5GMDBQUkRXeEJmSTQ5VkItVnBMaFV1RW5udnZFRWNHS211dTdLczFsYUx4YWtCMmdTakFENkV6ZkRfY01Yc1BienpTeWNyOFg2UHJPNmdGeFUwd0JiQnh1c09tMW8waGJoTnRfamZuRy1zZGF6MXhhR1REMUc3Ym9nY2puVEoyYlpVamFCLWQ5cm9ON0lWc0dXRGRDWnFLMk1neWc?oc=5",
+          "published": "2026-10-27T08:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 5.469,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[2보] 고리 원전 3·4호기 계속운전 허가…설계수명 10년 연장",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5la05TYl83eEU0TXNzR2lyRHZVT0w2Q0drcmxWZ2llUXVrY25lS2xwMGF3N1FpTVRfTWJvRUVLOTB2ZDg3dllPdzRwb25yZEpUdWF6a3UxTkVkRFXSAWBBVV95cUxNX2dDZDltcFZjdjhuVzA1b0Y4Rm5GWW1DQ3BxbVhWNklBa3ZsR3pSUUw1X1VuVzllZHk3cTdGYWVCeW4yeDNiaFVrd1ZSM3FCeWtuQjFPdllabk1qMXlVVmw?oc=5",
+          "published": "2026-10-27T07:28:31+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[2보] 고리 원전 3·4호기 계속운전 허가…설계수명 10년 연장",
+          "publisher": "연합뉴스 한민족센터",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KeW9IbWxXNXFibjJRMThCSXBRSzh2X1Z6azNYU2w3aWJWaWQtRGRPM0EzcHF4RFhIcHZiejlvSFlXMm5aVFFrTkRKTVF0VUtfWFBWcnpTeW1VYkh6LTNzWFB2YjJKdTdZcGpjOWFHSm02VlBl?oc=5",
+          "published": "2026-10-27T07:28:31+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "고리 원전 3·4호기 계속운전 허가‥설계수명 10년 연장",
+          "publisher": "MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zUHR6SEMxNGZLYjVrZXVtWkZaYm5qMzBpdDZhZk5TSllzaklnS0w5WmR5NUg2Z3RfWUNrUUtPN3RieHQwbU9lU0l0bWtYTDZReEZUa29hNkg4dkZDOUotbkphbDVjU2FpakduUTZ4NUhsbzZx0gF0QVVfeXFMUEVrNW51Z0xQOG9PeWZ2YmM3YU9kSVdRSmp2V1dheC1IaW9Yc0ZKMWJYdEtoQjAtLXdQb0tBRFpQNm5aZGZwWGZBcHdTRGdNUDRLaDlLcVY0eG5ibUFsSWRZcDNSVFVDb3h4UDZrTnNDdnNyam8?oc=5",
+          "published": "2026-10-27T07:33:23+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "고리 원전 3·4호기 계속운전 허가…10년 더 생산",
+          "publisher": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90MGdDcnZHYnJ3aHVGdl93WTYwclZlRHZCelA4WXY1UzJma1V1S0F4QlNreGM2cE9PRF9nOW9CcXhGTFNtS05fTk5jVkNmVjlPQTlsdkZPbVRXbHJTUUpjbURmNUh2bGs?oc=5",
+          "published": "2026-10-27T07:34:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원안위, 고리 3·4호기 계속운전 허가···수명 10년 연장",
+          "publisher": "인사이트에너지뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UUUpjd2JzUllpUnJJU0U2TGZSSnZNdjlDYVAwOHdqaFloZFRIdFdNd1ZqUEduU1V2YTk1a1l0d0lubzdLSnVsbXp1LTY0RTBFY0s2X09fQ081bWE3a0xyVDgxbktnMEnSAWtBVV95cUxOeDBKS0VqcURlelZLbEZtdG11aVY5LW9CWEdiOGFCTWZ2SW8wX3hCaW9TMmRhcFdHbXhENEl3MzFXOTZpcERETEZYamFTZHRILUhRa1dIMUdGRS1hWTljSDc1dTFtOV9ZczhKQQ?oc=5",
+          "published": "2026-10-27T07:49:45+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "고리 원전 3·4호기 10년 더 운전 허가",
+          "publisher": "신아일보",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tdGZCVzZobVVvcXFkYy00U1VualJoN1ZPZkJWdXk1Wk14U28walRQWnpIbFU2T1pxUWRic0VLZzI3QnhUQkphN0xxd1hldV91eGMyUHNhX3ZVQW5KV0dHQXk3c3dOcFFZVklqTG9tUkI?oc=5",
+          "published": "2026-10-27T08:10:32+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "고리 원전 3*4호기 계속 운전 허가",
+          "publisher": "부산경남대표방송 KNN 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KeXRzam85NmlMMmJCcS1IaUZzZW5oaENydjZQYkpQelcwMzU3MW15UTVTeHFqVXY0bVhOUnRDVGFkVE9YVkpNYzdITzhvTHVmUnFheg?oc=5",
+          "published": "2026-10-27T11:52:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "고리 원전 3·4호기 수명 10년 연장… 내년 재가동",
+          "publisher": "동아일보",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QMEZIdnJXQUdHc2FaS2x1NTlwWElQRHkzaDFJWTgyWnFGZUNfRTNUeU9WWlVKbDFaNi0xTUlScjh4YWo5V1Ewc2o0UzJvNFF1Ml9HM25BSTJuMENFY2E4cU9Bc3hHQdIBZkFVX3lxTE9QMEZIdnJXQUdHc2FaS2x1NTlwWElQRHkzaDFJWTgyWnFGZUNfRTNUeU9WWlVKbDFaNi0xTUlScjh4YWo5V1Ewc2o0UzJvNFF1Ml9HM25BSTJuMENFY2E4cU9Bc3hHQQ?oc=5",
+          "published": "2026-10-27T19:30:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "고리 원전 3·4호기 계속운전 허가…설계수명 10년 연장",
+          "publisher": "이슈밸리",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56R2NYcGlvQkFraVVraGp3cVNWTmRrX0FPdmIxdkxoNHEyNDBrcjMwOHRUMjQtc0dVUWpuNnZpN1FwZTZsZ2EwaEhwNjZGbVZNN0ZvcVczQ3lxcDNtVTI5dXlmZ3hhR2RNWDBFd193?oc=5",
+          "published": "2026-10-27T20:25:20+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.986,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Wisconsin, Vermont eye SMRs at former nuclear plant sites",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-27/article-8522/wisconsin-vermont-eye-smrs-at-former-nuclear-plant-sites/",
+          "published": "2026-10-27T17:48:08+00:00",
+          "feed": "ans",
+          "region": "해외"
+        },
+        {
+          "title": "Wisconsin, Vermont eye SMRs at former nuclear plant sites -- ANS / Nuclear Newswire",
+          "publisher": "American Nuclear Society",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPclZVX0Zrc0tlZG5iWkZjd3dZblJnZ2Q0Um1PRkVNVHlSampCUHZkSndETEN5bEZGNGNiRDNRSXJTNW5UWEpyeFBwaGdYcGJKR0ZQN3VQdnM4SWdJdHY0TWxyTmN0TW1CS2RlakhnRGdtNVV4NjYxZDJ1YmR0LTN2aVE4SElsYzY1MGZ2YV9jQnQtZlU3YW1Nakw2Zw?oc=5",
+          "published": "2026-10-27T18:26:03+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.903,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 고리 3·4호기 '계속운전 및 운영변경허가' 동시 승인",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rWXZPRWlrYWRxdUZweGE3elFkX3NtdkNfS3haQlhuTFZObUl1cDBoTU01NDZGUGFFZl9WWjdibjJfbm8xX3FxWVdLQjAzdV8ySUpjTHZSZGZCcVhBQVZnNzVKekhwSjFRQmdlQW1UWXYzUQ?oc=5",
+          "published": "2026-10-27T08:14:55+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 고리 3·4호기 안전성 심사 통과...계속운전 운영변경허가 동시 승인",
+          "publisher": "팝콘뉴스",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKQ3dHVGZ2TVJJZUd4azV2SWRudlVOLXJwb2lSSE92R2lLYTRaT3FhSXVHQkVTZ09OVFdxNGJ4cmYxZDI4Uy1ZYnVlbXZWVnJVY0FmcmNLRGZtUTg4YTNCYm9kR3diWk1fbWRDMnA1MNIBckFVX3lxTE9rZ3JWLWZ3OWpfa19ISWdROHNqdlRvUjA4S3FWajJtd2g3ZjZnYUR2UGY2N3hEdmlfNy1uc3luRFptaTZMMktXQUNvQ043R0J5WlhpQV9Oay0ycjlqWjBZVHhDaU84Z21rZ1lWTEpFcnB1UQ?oc=5",
+          "published": "2026-10-27T08:29:11+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력, 고리3·4호기 계속운전 운영변경허가 동시 승인",
+          "publisher": "부산일보",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtM2FHbWhwMkhCMFM5VlRNNktrb0Y5RmN5M1hXNjEwbUl5dE8xZEUtZjlLSFhpVC00LTBOWG5ZdlFDYVdFbV9NVTkxSUhXaUNMeWdnVVN2MC00SW1MU2tSMklIdHRBZUlPYmdVblZZRVFNVzFHZkc1Nw?oc=5",
+          "published": "2026-10-27T08:33:43+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 고리 3·4호기 계속운전 운영변경허가 동시 승인",
+          "publisher": "인사이트에너지뉴스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XZFdZazlVLVZyVVh5RWhVMmduaFVlem1VRkxlbkxqUXN4bDBta01XX290TkFXWWRHYUNjaGFYem80ekV1bnZmWUhzNE1IZGpTeGZhaTU5YXNGMzFLTDF5cDJ5bFZvUmljdUFF0gFrQVVfeXFMTVdkV1lrOVUtVnJVWHlFaFUyZ25oVWV6bVVGTGVuTGpRc3hsMG1rTVdfb3ROQVdZZEdhQ2NoYVh6bzR6RXVudmZZSHM0TUhkalN4ZmFpNTlhc0YzMUtMMXlwMnlsVm9SaWN1QUU?oc=5",
+          "published": "2026-10-27T09:15:08+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "고리 3·4호기 2027년 재가동…원안위, 계속운전 운영변경허가 동시 승인",
+          "publisher": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzaEZ5Q2UzdWt4c0lEcGw0RUd0TThZUDg5MzMxRk55RHZ5RHJYRjNqN0R5b0E4bDZmSEIxaGNTUnM3eEc1cWVITzdCc1lIcy1KX3VPMEtR?oc=5",
+          "published": "2026-10-27T09:19:34+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 고리3·4호기 계속운전 운영변경허가 승인",
+          "publisher": "로이슈",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XSnE2TjRGSWFwVWJ4RW5Md1YyRkNvT08ya3lxaF9tYld0S3UwOE5xYU9tRUVPR0FYMER3cEt6end3VW5WcXRZWEZmWTk1RktaVkxlNFUxOHM1YUVka3RsUTIxWDlYb25TQkhhMzVDS3pPUkNtWGJ2bG5n?oc=5",
+          "published": "2026-10-27T14:01:48+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.72,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원 \"고리3·4호기, 내년 상반기 순차 재가동…안전 최우선\"",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZbDFZb3JmNXhXM2FDVjA0RGxQVUlQT29jbndBSTN5TDhVeWdmS2RHVWRKdGtlNUZQaDJVWVhoby1TNU1sUTliNzI1anMyMjd4QzYzTF9nUGNhM0nSAWBBVV95cUxPQlY4QW94czdlZnhjdWZMV3hYakwyNF81Ujg1ZjRlNnlxSVZyanJwQ3pPNnFfZGZYV29hUUVZUTRSNGNsc0JTWWNkWkQ0Z3R1V1RpcjRsMTVWZ21Cb28wNnk?oc=5",
+          "published": "2026-10-27T08:55:48+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 “고리3·4호기, 내년 상반기 재가동 목표…반도체·AI 대응”",
+          "publisher": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sU1lOZHByeVhaeGhKa2hoZUVCVVpqT2I3QkpUa3R6NWM1RDI3dzcwRDI2ZkV4eDU2MV9OZHdlOGFIQnBQOXBSdUhzOUsyNEpadGpUT1pQQXQ3WDA?oc=5",
+          "published": "2026-10-27T09:04:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 \"고리 3·4호기 내년 상반기 순차 가동\"",
+          "publisher": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uRVdxNnRKSk5BdHJBYnRFWjFHa1dOV2czb2FnbllZekNzNE9yWU5CVlFYZ0Njb1QzcnBlQzFzbWRIanJRRUtNVllWRlhWZkRkMXFJbDdpbVE4WG5EeGFXYXFMUlpjNmVXaWJ4dnREclBHOVFReWc?oc=5",
+          "published": "2026-10-27T09:23:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 “고리3·4호기, 내년 상반기 재가동 목표…안전 최우선”",
+          "publisher": "헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GcFM5OTlVWkxFNExkWkRHM2g3SzNyTG9seUdIRklMdWVrUHlYbkNfTTRFalpWdUo5LURxcUwyWHd0QmU0ZEt5MHk4blJvc0JodzJONjdR?oc=5",
+          "published": "2026-10-27T12:52:09+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.672,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Prime minister De Wever threatens forced nationalisation of nuclear power plants",
+          "publisher": "Belga Share",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcjBBNFBhOWxoT0N2NjgtVGdLZ19LUjdrazZ4YU9BX3VNdDAzRTRVT1ptejBMTmJSQzhRdGFDS2xoanlTOF84dXhZMGZUX3dwWVJMeVdoU1U5d0xDWjgyVUlPM3h3NER1R3kxYTNERFFVMWFjbDctbHpoUHlRQlRMbkxNc3cyTXk2WjZHbE9HMFhPYjM1Mkt2WHA4eHh3SVJ4Q194bGl1U1ZsQkhsVThaa0UwV2NJQTRuMlJGVHJyNXEyR2JKV0gzM1V2bUVTNDhSMTJv?oc=5",
+          "published": "2026-10-27T04:35:23+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Bart De Wever threatens to force nationalisation of Belgium's nuclear power plants",
+          "publisher": "The Brussels Times",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS2JDSzFVTUFzR0trM1NzekhTcnJtWDgzSTNQYWxWUWtzc0hYS3I0b0Z3MzVIS2doNGFCbFczbmoyX2t5bVBYXzRvU3dEcTNnZUV1VmVTUGJIMzd2c3FKNFVwQjlnWFgzblhiRmt3TDNhYUxQQ2ctcDd3VXA1ckZRbUoydG8xMVFDVFhqMEc0cEtONVItRWdYQ1dXRHM2QUFvMlE1TGxCZ3pZSVZ6Nmh4UnpRVkVKVUx2Qm1v?oc=5",
+          "published": "2026-10-27T10:07:30+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Belgian government “considering nationalisation of nuclear power stations”",
+          "publisher": "VRT",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdENGd052Wk9rVnlHNGhjNEREMzBfZzB4RDV6TEJNdFNjLVVFMzdfQVdpcVZoOUtNaG5TQ0k3LUkxYVlaUEUxMzB0UGFPRUlMUC1tejFRMnN3eWhEQTJkaHpUWWR1T0diNlFTckM1dUV2TGdxNkI5YWlVOHFXZmZCLW1XZU41RWoxdjAwTmx4Z3piUGc2Tm9yZl9OX2xJWW02SGtNS3ZxOA?oc=5",
+          "published": "2026-10-27T11:54:28+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Prime minister De Wever threatens forced nationalisation of Belgium’s nuclear power plants",
+          "publisher": "EUalive",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYlBQUmoySUxFY2xKVzVwRzRuUUZmMGNmUGwzVDA1bWw3WWZjZkp0SmxFbHVSbjFuTWlGS0tCUGZfdXV0U3JjZE5oTzJwNlFrWXhlRTlWYnpyeGQzbHQ3V21Kckh2ZWhnemlqMDZhUkdTakVKZmxrc0owcEpuNmxrd1FPNFRTZ0NEUXFkaF9zUlRJeXV5MzUzTmQtOHROSTNGc2pxVXg1dXBUc1M5MmF3?oc=5",
+          "published": "2026-10-27T12:29:21+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.656,
+      "id": 5
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "고리원전 3·4호기 계속운전 승인…한수원 \"내년 상반기 순차 재가동\"",
+          "publisher": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93dEVObjQzWkx1TUZaNmlQdEttQmVYX25ib01hU0JPQ1FXSVNHckJ6S3AyVGtURWZwY0V6X0hwXzUyZVd5RFpfNDBsT0RoQnM2V0hja21HUU84U28?oc=5",
+          "published": "2026-10-27T08:05:58+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "고리 3·4호기 ‘계속운전 허가’…한수원, 2027년 상반기 순차 재가동 목표",
+          "publisher": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdHdESkNGMUZSa0VMcTBCX3BaUGZOZHFhSk5LMG9KUFR3TVlQS2NvWW1Dd1lrdHkweHg1UmhwT2FqVERCVDhkaG1ETVRkWGFvdFRMS0NIdXByTmlUNmh3OEUtaUtyazI5RGdjOTItSWdvMDlKZ21pdlNLYkVxSnk4R2xFUEPSAZgBQVVfeXFMTUFYWmhyZUVOaER5Wl9vN0NWeGJBVldGSXhIa3Awb0dBTU5BOHVOV1dWbW8tbmdEeVFDbkdjbEl2TU9zcjZhNmdpcTlKMXdnSU1GWkhrOTNFd2FkWEhnbS1ab2JzWG9HVklMczhRZHU5NUZFWEFpWkE3MTlMZHZBT2Z1aUhISEFCVDJHeUVTWGlNM0Etc3NHMWk?oc=5",
+          "published": "2026-10-27T08:06:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 \"고리원전 3·4호기 계속운전 승인…안전한 재가동에 최선\"",
+          "publisher": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MYmh3bXJRa2xBamQzdGROTlc0MjdITUpqMDdMdkp2cm5laUM2d2xzaDVvT29pR3JSYS05Q3JrUlpZV2p6TjEzZ2d3MFhrQWp2QTlvNG91RWJiT0df?oc=5",
+          "published": "2026-10-27T08:17:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "고리원전 3·4호기 계속운전 승인…2027년 상반기 순차 재가동 - 머니투데이",
+          "publisher": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LZHBmTHM5OTU5dW5XYlk0elFlcldteV9HV3RDa3ZPSEtRazM4LXhIc0stdnZqS3NqcHdlRVl6NGJ2RVVLNlNfanM4OUtBaGl2MmhINndldXhySmROWGp0aDV2Qkc4aW15MHV4THpsWDPSAXBBVV95cUxPS2RwZkxzOTk1OXVuV2JZNHpRZXJXbXlfR1d0Q2t2T0hLUWszOC14SHNLLXZ2aktzanB3ZUVZejRidkVVSzZTX2pzODlLQWhpdjJoSDZ3ZXV4ckpkTlhqdGg1dkJHOGlteTB1eEx6bFgz?oc=5",
+          "published": "2026-10-27T08:28:12+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "고리원전 #3·4 계속운전 허가…내년 상반기 순차 재가동",
+          "publisher": "에너지타임즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LTzQtWkxhMFRaU1FSYm9CTWY1b2JQQU01RDZqY1l3UjZfeXlRUmRRaWljbUVhM09sS0Vlay1xejRjbi01OTdpQ3REVHdFTUNsZjlpX1RucTBhS1U5aHVDbmtZNGR1cmI1cTRLdw?oc=5",
+          "published": "2026-10-27T09:57:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.55,
+      "id": 6
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "IAEA 원자력 장관회의 한국서 첫 개최… 정부, SMR 개발·실증 추진",
+          "publisher": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbE1jcG9xUGhtSzN3cmVHU2xOUDVUbW1XcHc5Zm1lRWRwNVZTOWNxSVpudGthcHhVeXloUlhOVVFLenVFUVd4RFo5WHBEel9nY1JFTkJpZDhpYXhOcl9wWWlReWZ6N2MyWVA0ejhQQUFIU1FfMlpTRUF4SGRielQwUWpkVzBMQUQ3ZnE2MNIBoAFBVV95cUxPdUZDd084SjFfMlJtMHllb21XZGRmUWRsQ3NBbmFZQmRwZjliTVk1NUZBOHM3S1RuSVB5WG1JeHRtdlVlalVFYWZXSDYyTU5lZzN2UkVrci1lS2tmNXZxWUZpSmJMemxudHZEU3RSZnBCbjFZaHloSGxCWEdyTmV0c2hhTnZoemd0Tno4QzA1QXYyY1ZoYzRrbGlKeXdPWjZ6?oc=5",
+          "published": "2026-10-27T06:23:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한국서 첫 IAEA 원자력 장관회의 개막…\"SMR 안전개발·실증 추진\"",
+          "publisher": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5adWt2b3JMcjJFVU1MYzFGMmNoaG5IaFAzaDgwQk1VUGR6dlFNVTJCLUJ6WG1ndDlFMzlPT1NMUGF4ZTduZmdlMzllSGpBZ3RMckU4Z3ZfbEdQOXRZY1FZbFhFMlJzeVk?oc=5",
+          "published": "2026-10-27T07:21:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한국서 첫 IAEA 원자력 장관회의…SMR 안전개발·실증 논의",
+          "publisher": "더팩트",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wbC16cWR3Y2gySmJLQ0JncGF0d0RJXzdlT1JsRjJucTF6QmZhcnZtV3lUUEdhMTRsMGxuZU1EaXpVZ0dEWXNERGZkTVlZWm1uZXVjOdIBVEFVX3lxTE8wbC16cWR3Y2gySmJLQ0JncGF0d0RJXzdlT1JsRjJucTF6QmZhcnZtV3lUUEdhMTRsMGxuZU1EaXpVZ0dEWXNERGZkTVlZWm1uZXVjOQ?oc=5",
+          "published": "2026-10-27T07:24:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "'IAEA 원자력 장관회의' 한국 첫 개최…배경훈 \"SMR 실증 준비\"",
+          "publisher": "신아일보",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41WTlfd1BnM3NNVnVHWW92OE9WWGNKZ1NZXzNTYjdNT1FnV0dwR2Q1RHNSZTlDMmNHSWpFVjBqSnAtODRrNHZSdk94S1lxS3U0UXY5RmFhb01xZ1RJZ2ZTMmt5QzVodlFMOXZfbUdmMVg?oc=5",
+          "published": "2026-10-27T08:10:54+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.476,
+      "id": 7
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원자력안전위원회, 고리 3·4호기 계속운전 심사...‘내년 재가동 전망’ 촉각",
+          "publisher": "CWN",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEYUlBYlFBTFlJaVN5bHA1MC0yZm9keWphaTZjeHFDQVJIVHJidmtiQmdRdjdnNkpHSTY2SG05YWh1Qzd4UzhIMVRVaHNLRzJncFN1eTZTU2tJcFNkdmFBazZ3?oc=5",
+          "published": "2026-10-27T00:40:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "[1보] 원자력안전위원회, 고리 원전 3·4호기 계속운전 허가",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFeGxPaHZUU2xXQlBuQ2hUNjM0dGhsT0NuVFE1ejdhbTJyYklfZUZuWGhHV2lnMXY2TFgzeS1kckhocDRVUDVLQkp2eWFsN3ZEVzBDSnVZTDNXclXSAWBBVV95cUxPcFRmeWwtckU1bW0tQ25wVXA0dkdta2FieXVuQ3NpR2o4ZlpKaGlzQjJZdlBxZVpocFk1UzF5N3FQcXM2bUtEaXU0dHItLS02RGNXLUtVcjRzN1VHUnVzeDQ?oc=5",
+          "published": "2026-10-27T07:24:04+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[1보] 원자력안전위원회, 고리 원전 3·4호기 계속운전 허가",
+          "publisher": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oRElacFdxaW5jRmVoeVJlSWh2amJXMGViVmxaZDB2U2czNEtFMFNHSFhMNU5RMjByNHB4NXFhQUhlR05YM1czZnpGUHdrT3FFLUE?oc=5",
+          "published": "2026-10-27T07:24:04+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "[1보] 원자력안전위원회, 고리 원전 3·4호기 계속운전 허가",
+          "publisher": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ya2hES19adW9lanJIdkRqaHRQcFlXWFJ5Y24taW1VQ1dyLVNpQ1FHWGI4aW82WUNfd1BoMzUtWUJRdElWODRoTGxKTWlDUGRZQ0Q3WUkzUllwZw?oc=5",
+          "published": "2026-10-27T07:24:36+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "[속보] 원자력안전위원회, 고리 원전 3·4호기 계속운전 허가",
+          "publisher": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CM04tQ3dhcVpiRjJoSkhKdDFVOEcwdThSckk3QVZwbURrcVRJYkdNMlJGYW1mUDNpWDNDTFhZdlZRZ1J2UVJKdDNjTVM2b1BENlk3VGlrMjV1WGstZjEyLTA1ZzB6MHc?oc=5",
+          "published": "2026-10-27T07:26:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[속보] 원자력안전위원회, 고리 원전 3·4호기 계속운전 허가",
+          "publisher": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13RzlselJqSUxfVGozXzhtbUZaOG1YbEtmNmhHb201M2pjWG50MmxZTUhYWmlGS2wwZllIMksxeF93cmdBVHkzZ0I0b2o0OXRZbkVaWQ?oc=5",
+          "published": "2026-10-27T07:28:01+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "[속보] 원자력안전위원회, 고리 원전 3·4호기 계속운전 허가",
+          "publisher": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1na3pRd284cnFRdTJFUjBTMGU2clAzeVZHM2hKX2FJQnBsZ3ctY2pWQmpJbHAzX3N6dG82dFJBRER4U3FTbGgzVTEwNUtEYTgybkFWcDVFRVhPMG94dElV0gFfQVVfeXFMTWdrelF3bzhycVF1MkVSMFMwZTZyUDN5VkczaEpfYUlCcGxndy1jalZCaklscDNfc3p0bzZ0UkFERHhTcVNsaDNVMTA1S0RhODJuQVZwNUVFWE8wb3h0SVU?oc=5",
+          "published": "2026-10-27T07:29:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[속보] 원자력안전위원회, 고리 원전 3·4호기 계속운전 허가",
+          "publisher": "중앙일보",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UVFVIT0NRU1ZCY2hIOFphbmFxMlBNUmM5NjJ2TnB1ZS1KOVI5MU9EaGx6Ukh6c18wR29FdEZ0Y2FaVU9wNFhpNFR5MjhaNXZ6LW9IUWRn?oc=5",
+          "published": "2026-10-27T07:29:25+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[속보] 원자력안전위원회, 고리 원전 3·4호기 계속운전 허가",
+          "publisher": "스페셜타임스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwOVNEcUI2Q1FhbGRYVEd1WnhSZThvRlVEeS1OZDJ3V0FuZmF0OVdGX3I4MzMxd3lpQ0xpZmc2OC1TZUhIWU92dFJORmdRNVZKODhOaVFrUWNZV0o0TFVzdEtfYUlOaGlSNldscmszNjA5cEk?oc=5",
+          "published": "2026-10-27T07:31:19+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.449,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "GLE and Silex announce final EIS for Paducah enrichment facility",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-27/article-8521/gle-and-silex-announce-final-eis-for-paducah-enrichment-facility/",
+          "published": "2026-10-27T14:36:39+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.744,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Korea's Kori 3 and 4 set for restarts in 2027",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/koreas-kori-3-and-4-get-go-ahead-to-restart",
+          "published": "2026-10-27T14:18:24+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.731,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Legacy cleanup supports modernization and economic development in Oak Ridge",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-27/article-8426/legacy-cleanup-supports-modernization-and-economic-development-in-oak-ridge/",
+          "published": "2026-10-27T12:19:37+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.649,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NVIDIA to consider data centres at former German nuclear sites",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/nvidia-to-consider-data-centres-at-former-german-nuclear-sites",
+          "published": "2026-10-27T12:14:46+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.646,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Singapore looks to develop nuclear energy expertise",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/singapore-looks-to-develop-nuclear-energy-workforce",
+          "published": "2026-10-27T11:54:37+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.632,
+      "id": 13
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 고리 3·4호기 원전 수명 연장 승인…2027년 상반기 재가동 추진",
+          "publisher": "메가경제",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43cmF0WXlqNUVWWmFxLTNHTl91bTBacm1yUDRwNy1NbGRtSVFWa2JzUHd0a2tha2JVRGRzTVNtdWt2VUNHX1RDUXY5QWF5TTREZWd5MktQek1ZTWZVX2dmcXkzdjBBX0ROMGVmRFZJYmRCUdIBckFVX3lxTE43cmF0WXlqNUVWWmFxLTNHTl91bTBacm1yUDRwNy1NbGRtSVFWa2JzUHd0a2tha2JVRGRzTVNtdWt2VUNHX1RDUXY5QWF5TTREZWd5MktQek1ZTWZVX2dmcXkzdjBBX0ROMGVmRFZJYmRCUQ?oc=5",
+          "published": "2026-10-27T08:19:57+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 고리 3·4호기 계속운전 허가 획득 … 2027년 상반기 재가동 추진",
+          "publisher": "워크투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZbUdUVkFqUlhHQjVrVHIwOWl4emdPd2tIWEdjZVpNY0F2ZTFsNzV2QjVsQ2NwNjdqekdUbkNxaVNBeHQza2tBRTFJZG5sTHd3VHpkVFBDWS1lV0pJOUtKQWl1UVQxWTNweGNBdQ?oc=5",
+          "published": "2026-10-27T08:55:28+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 고리3·4호기 계속운전 허가...2027년 상반기 재가동 추진",
+          "publisher": "소비자가 만드는 신문",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nd0ZnaDBvT29uUklkRjdTeDFjV3ZhMmJ5cm9FcTFXWUtCbTY2QndjbWpJd0hodFo0V1Fvdzhhei1iQ04tUjZacERlYUwzNVQxRGs5dGVNTjZoNW5wR3l2SF9lUlRwQ2s0TG1FRUk3OWZua1k?oc=5",
+          "published": "2026-10-27T09:05:34+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 2.514,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Cross-party interest in Australian nuclear future, poll suggests",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/cross-party-interest-in-australian-nuclear-future-poll-suggests",
+          "published": "2026-10-27T08:59:46+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.51,
+      "id": 15
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원안위, 고리 3·4호기 10년 수명 연장 허가…전력 확보 '숨통'(종합)",
+          "publisher": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWFZ3REtYSm5Kcy1ueUhCaVJVZlB3RnFGYzlxckJOUGNIUEktNG15TllBV3VEQmx2YmdNQ25Yd3RwZ2tZSXNjclY3VUZvYkNZY1ZLTVFwRWlnMzd2eWdUcjk4TEpyX0Nyb2ZDSUNfcGs3QzJUODFHTVVCRkpOUHQyTmhR?oc=5",
+          "published": "2026-10-27T07:42:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "원안위, 고리 3·4호기 10년 수명 연장…전력 확보 '숨통'(종합)",
+          "publisher": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sMDFVMklNNXZtLWc0NEMwWmZoWG84QkppS0JLeG14ZXdSN1ByTGY3S3Awc3R4MGtOMjlsLXNMRUtQeFg2czdxcUFNTFBQU19sRlAyOE9GXzlvc2JXOVpqM3ZQbzFtTURBbVVkNHlHNHZQUHEt?oc=5",
+          "published": "2026-10-27T08:12:11+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "원안위, 원전 고리 3·4호기 10년 수명 연장 허가",
+          "publisher": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HZmQxYXVDTnVrc1VaNmd1R3IyUFBRa0NDa1VlNW42ZURaNXlzcmVIR19Zc2E0NWtuUk9UYy1vY3NBUGp4Qjl1dFhVRjdzanRhd2N1dkNDTXR6Vm1XbVpaNzZXVlF4blJaT05weWcyZw?oc=5",
+          "published": "2026-10-27T08:13:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.478,
+      "id": 16
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Tritium Level Far Below Japan’s Operational Limit in 25th Batch of ALPS Treated Water, IAEA Confirms",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/pressreleases/tritium-level-far-below-japans-operational-limit-in-25th-batch-of-alps-treated-water-iaea-confirms",
+          "published": "2026-10-27T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        }
+      ],
+      "score": 2.135,
+      "id": 17
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Constellation gets conditional $5 billion US DOE loan commitment for nuclear plant upgrades",
+          "publisher": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZVlaLXhIQUVtUE5SYTczajJFSVBhR21Tc00ycTk3ZGR0THpwOVJwUXhJV3Ytd2RTX3JFbHdUbWFqbFd3c1lnTVRrRUszeHNNY1pyZjhSWUtWMmdDWmhSYlUxaEE1V3RWOEd1ZlBFMDFDWW80clc3ZFNwSnBfdmdVMEl0YlFVeTBZb21tdDk2ekVBWGhrYlc1di0yc2piLVhSb2dydHdublhKdVpkZlNWYktDRElNVDhCdWVuWW9uWEc5RmJGdUo1NnBFVFdTNVdqRFVfQ3lIeEFoeFp5ckNRcnh4c09YRkFmajJLR0xLRzQ1dw?oc=5",
+          "published": "2026-10-27T17:55:29+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Constellation gets conditional $5 billion US DOE loan commitment for nuclear plant upgrades",
+          "publisher": "Mining.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcnJ2UzIwRE8xVXNkMkhuUGVBLUdMbkRwWDZPa3pTZjQtcEpTcVFhOWh4TEJpNV9WM0g5dF9qZFpaMUx0ejY2Z1pqWk9BQzZBNEtIMk1VSGV3UHJoZWdaOWptNFdpN1ZHcjlHR1ktbnE1M09UZ21tQUgxdzlDaGZ4d2xlejYyWmp3ZF93N1plZG5UVXNyYzhQcUlac09RSXRKS3ZjT21zc1dvUGJabW9mZDhSQUxucFEtMGc?oc=5",
+          "published": "2026-10-27T20:25:52+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.987,
+      "id": 18
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Akkuyu nuclear power station, 90km from Cyprus, to be operational ‘next year’",
+          "publisher": "Cyprus Mail",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObTJKWDNpYXdjbTV4bS1TZjNwSnRoSGoxMV8wWFB1RjdwZjJHVDIya2RjUUhNbzQ3NkxNd1drT19SdXBoSXc5czlQZTg4cDhNQ280NW9MNzJPX3ZqOHR3TC0xSUVRZEF0em02MVNNRUoxSWNxMlpwZ1B2dFM0RW5NZnVxZElBS3pTd2RMd25FZ2MzNWNtVFl4S2lWeG1hLVpKUVRHN2hCU0lBdlJ6?oc=5",
+          "published": "2026-10-27T17:17:27+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Turkey’s Akkuyu nuclear plant, 90 km from Cyprus, to be operational next year, minister says",
+          "publisher": "Cyprus Inform",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUUV4Z256WWtyRGVkSHQxckNTUmpuOG5SblNVQV9VU0FuOThsdVZVYWhUOUxScWo2V1hhenlrdk1kb0ZjdTRyVEhPcGlyRjViVkJXRjIwQjBCNjBHR3N2NkZTR3l5eGZoUjRZYTNZYmg2d0hHa19qQjBvbWJQeGxnUk95UmZqOUNrU1VRa09KUi1EcWFxOVcta2RzMTc5MVkzSXZYUU9WcDJlZzVkWWNCY0NCbTZ2elB3YS1oWHRfc3lfZw?oc=5",
+          "published": "2026-10-27T17:26:26+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.862,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "노후 원전 고리 3·4호기 내년 재가동...\"안전성 우려\"",
+          "publisher": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92VDBPUTRIcmtESFNiUWZLNWxiZUdOa2E2eXNsODdwUDFDZ2c1RWxjTzhtaTJuNS1ENWZPemhtY2s5T0lIWEZ2OVpPUjZkZTMwQ1hHRlROUTlsZlZhMndZNEVPaTF6ZG4zTURjWk1KWmJSbzRTQ0E?oc=5",
+          "published": "2026-10-27T11:17:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "노후 원전 고리 3·4호기 내년 재가동...\"안전성 우려\"",
+          "publisher": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uVGc4cHVJS3hpYVYwT3dzeTUxNzhHbjN4TlZ6dkd2S0JHcUlXMV9rQ21Pd3lrTmM1eWgxSVdnVno5Z0hQZnRTb25rZFVnMkhRNjRiR2FqcHc3Qjg2TGc?oc=5",
+          "published": "2026-10-27T13:57:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.717,
+      "id": 20
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원안위, 고리 3·4호기 10년 연장 허가…“계속운전 심의 형해화”",
+          "publisher": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OTV9PNmF5N013RE8xamNFb05hUkF2cEY3VHFGdmgzLXJJWVZyRF9TUldQS3RCbnNFbXNwYzJieGVWV3hsaGxaVE5kM1Jyd3RzSmFUN1MxT3hPT0I5WWc40gFfQVVfeXFMTU5NX082YXk3TXdETzFqY0VvTmFSQXZwRjdUcUZ2aDMtcklZVnJEX1NSV1BLdEJuc0Vtc3BjMmJ4ZVZXeGxobFpUTmQzUnJ3dHNKYVQ3UzFPeE9PQjlZZzg?oc=5",
+          "published": "2026-10-27T12:32:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "고리 3·4호기, 10년 연장 운전 허가…원안위 오늘 심의·의결",
+          "publisher": "https://www.newfilenews.com/",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfT3BRNUp3UmprQ1BGSEQyRUd0VzJmaEthQjhweFRBTnBXdDBSQ0xLeG1meDRMZWxaRENwVThucVRZazNCVGo5Zm41OG5mODdZVnNPX1drS0VXdzd4UjhVTlFUTkd2TzNZWGpzWEtn?oc=5",
+          "published": "2026-10-27T13:45:39+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.709,
+      "id": 21
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "News: Russia, Ethiopia advance nuclear power talks, discuss expanded flights and visa facilitation",
+          "publisher": "Addis Standard",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYXJoMWJWeEdadHkwdG1jT0ZNRFNRenRUUzVyNWRRMVRfbUtmUGRFQ29pcU1jUXpJWFNpc0lkYi1RVkRQRXNZeXc5X1cxaTVwdVVtUDlGYlZKNDNjdVBvY203d2lNNUdXOGtCVHM2dWhqYTY4b3hQemliSHJiNWp1b3ljWXFFT3ZzVGxzcnpBVzJONnlMN2RfOGpGemk0b2hfeDRIck9qQk42RkN0VGZsTktiMmZyN0dU?oc=5",
+          "published": "2026-10-27T12:20:50+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "News: #Russia, #Ethiopia advance nuclear power talks, discuss expanded flights and visa facilitation Addis Abeba — Russia and Ethiopia are coordinating a draft agreement on a #nuclear power plant project while discussing expanded air connections and fu",
+          "publisher": "Facebook",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONEFmaHpzTzBTMkcySHhmLW1OaFZVenFZTS14aDRyVWRMWGdzNzNvTFpvZ0lJUnFmLXkyY3ZjU0hNMnczMWw4R3d4b3c1RGxSNkYzYURKVERmNU1lLUZycGVGMzZNTnBzNkZhdGsyNFJsdThvV2QwSUlXQ0xHaWZKanV2SDlTWHUxdmxMcENJYW1PM2VCZHpnUmZYV3kxQlY3d2cydjlpUEJGbkdzRlNoWlVpc1I2UVl2TlQxc2lnMFBXZFB6Z1lUYllsWTk4bUllZWRRcmVQX016MU5Wb21F?oc=5",
+          "published": "2026-10-27T13:30:01+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.698,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "고리 원전 3·4호기 10년 더 쓴다…내년 상반기 재가동 목표",
+          "publisher": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCX0k0OUc4WmExN1lNLTQ4bm84ZW1oQ0xpWlBvVldRTkFUanhuYXcyOXBWRFJtMXFjd0xFbkI3dGtaSDkwcnlhc3JfQjFTVGxtV0pNWkZ3aHE2M3R2WmNfUjcyUk9tbERVcmFqV0JBX3c?oc=5",
+          "published": "2026-10-27T08:01:53+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 고리3·4호기 내년 상반기 재가동 목표",
+          "publisher": "비즈트리뷴",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HYjBVa004TllwQ2FTVUhFNHpuMHVHalI4OUFoekZGNzFlc1N4cXgzY2d4UTlIVlRxQVVzSmNhSEp1TVFhQ09neV8tZUhOeHRLQ1c5WmMtSmJVLV9kcUpLaVQwdldmSVNQTVd0M01kTmE?oc=5",
+          "published": "2026-10-27T11:42:09+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.623,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "과기정통부, IAEA 원자력 장관회의 한국 첫 개최",
+          "publisher": "헬로티",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GU1VIMXpZS1dEVllVRzdRbTJpTFJaeFcwYklSYUoyV3ByTXoyd1FJVHUzNUoyWnl6cG9KX2k5eFlCNjJ5S3dCQ2lTNEo2aVlTMHZOR3dBTFU4Yjd4QkVn?oc=5",
+          "published": "2026-10-27T07:26:52+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "'IAEA 원자력 장관회의' 한국서 첫 개최…\"글로벌 생산 거점 도약\"",
+          "publisher": "대한민국 정책브리핑",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWVpGWmRsU0xZVllkSE5YYmVpVFN2WnhDLWJmYkkzNUdqOUh0Wm1Id3ppQTU2R3VGaHJxNmNXUzc4QXpfZ2RwTHZMTzRjbjFma01pd0lWb3RMV1IwU3NKVm1JTU1WM3o5bjNpQVJTbTA2eE9lUkpzRkhNcDloTHBFYTN5TFBaTXl3c0E?oc=5",
+          "published": "2026-10-27T08:45:28+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.5,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "경남 SMR 기업 5곳에 원전 성장펀드 330억 투자…사업 확대 지원",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80LVJobXBpczRSSHNOb1d0ZFdVVlRWM3EzeVhSWnBWdDkwV0NWamNlUmN0WUNUcXo5a1UzeUVwaFhLTTY3SzhDeS1KamJDMTlHcnE5THRtMHpTRHg2SWlqbtIBYEFVX3lxTE80LVJobXBpczRSSHNOb1d0ZFdVVlRWM3EzeVhSWnBWdDkwV0NWamNlUmN0WUNUcXo5a1UzeUVwaFhLTTY3SzhDeS1KamJDMTlHcnE5THRtMHpTRHg2SWlqbg?oc=5",
+          "published": "2026-10-27T06:21:28+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "박완수 경남지사 \"SMR 기업 5곳에 성장펀드 330억 투자\"",
+          "publisher": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qd3ZNd1lfU01MRXpHcVdBX0JDV0laQjlYWmQ3eU9ybnhZZkRJYkdmU3RKeHVoSE5wMHI5cXhtSGlNbFRxQWo4dnF0WG8zemg5dC14Mlo1TkFieGhw?oc=5",
+          "published": "2026-10-27T08:36:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.494,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 고리 3·4호기 계속운전 허가 획득…2035년까지 가동 가능",
+          "publisher": "데일리한국",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wMHlVRVdoUzNibXRQZHI1UHI4NGFXV0U3MUViZ1NwTUFJcVZ3NFdJYzlidjdlbUZNOHpPeXFhYmlOeHpJeWx1WTZOWnBrcGVaTS1menVNV2lYelhPNlR6M21PZDJfRmxyODh6bTZpNNIBc0FVX3lxTFBUOElycFRILS1sdW1walZzSHdXV2p6MXRRY01ZekVIOWVpWWV6eEx2Vmo3RllDUWxta0V2VC1YS0h2R0NtTXBGeXFaLTBKSWlOalRvU2YySExBYnVjOGtlc3ROLVN4U0pCQnoxYVRDZ2d1eDg?oc=5",
+          "published": "2026-10-27T08:20:52+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 고리 3·4호기 계속운전 허가 획득…재가동 준비 돌입",
+          "publisher": "뉴스투데이",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ONHB6aF9qN3E2NTlJY25KT183VHVFekhYOEFIeEZVWWxWWmQyTXVDalJYZjl6QU1VWGVSMFk0cHJNdnEwU0FUNFcxQjZJU1dUVENkZ2xBU2hXVDdBWFE?oc=5",
+          "published": "2026-10-27T08:37:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.494,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원안위, 고리 3·4호기 계속운전 승인…원전 재가동 길 열려",
+          "publisher": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tR3ZKeDNXQmdYS3QxNHdldkZmczFWVGlZbmRoSFZSem12Zm8zSUhzV1dqc2tjUXBsRGt5MDItVzhHVGM3SHFxVWU5MnpSQzVDOWo0bndpemJNdVFf?oc=5",
+          "published": "2026-10-27T07:40:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[종합] 원안위, 고리 원전 3·4호기 계속운전 허가…원전 재가동 길 열려",
+          "publisher": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5cmY2aWF1NUpRMXNEZkVMeFllVGxaX0hKZG9TTlFUZXJnNTZ3QTg1bkNuQkRMMFBDcnlzMnY1VkhJQVlKdE1xUHNpd0JUQ255TTZ3YVF4REZESEZf?oc=5",
+          "published": "2026-10-27T08:20:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.483,
+      "id": 27
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Nuclear Safety and Security Commission grants continued operation permit for Kori Nuclear Power Plant Units 3 and 4 - Yonhap",
+          "publisher": "CGTN",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5cFhXY3NXbEZabGhYd0pqb2RhZlJwQkllSl9DZ2cwVFd2eHFWc0RDcEdWa0o0Y1lXc0RpbUk3Y2t1UmRRdzZmcW41Q2JuX1ozQzM2WlZyNFF2S1VVV185ZWpuOEtuYnV3NjZlQmRR?oc=5",
+          "published": "2026-10-27T07:25:41+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Busan Gijang Gori Nuclear Power Plant Units 3 and 4 were allowed to continue operation, increasing t..",
+          "publisher": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91S1o5R3VJRjdFU0gzYmtFdzFLaXJvVFFraEotSGhTNjQ4ckNZY3N6VE8zU3JtNXowcWQ2UTdaZUhYemNFeDJYVHROMDl2VmMyTmc?oc=5",
+          "published": "2026-10-27T07:28:01+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.446,
+      "id": 28
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "3rd uranium consignment arrives at Rooppur nuclear plant",
+          "publisher": "Jagonews24",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPLTNlaEtNcXRBVnFQbWxJVUdMc2I3NHRCU21VdTk4U29aV1FvMW5PSzFValZxbzdpNXdnRmFabC1zdE1QYTJnZlhJdDFOM2UwS2VlMFFvQWZsS09XT2c?oc=5",
+          "published": "2026-10-27T05:37:22+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "New Uranium Fuel Shipment Arrives at Rooppur Nuclear Plant",
+          "publisher": "https://www.businesstimes-bd.com/",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nOUNPdzRkbXcwUVpLbjdMYnBLNmE2T2YxaTJwbjBaYTRBOU1hWktjMFl4RnVKbFREcnVjOEhKYXFiNHdJSFh2NC1OQmlvTkVSdmkzcEVfSEl3YTJBMFE?oc=5",
+          "published": "2026-10-27T06:23:17+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.401,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 93
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 69,
+      "kept": 40
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 90,
+      "kept": 80
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 45,
+      "kept": 4
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 2
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 3
+    }
+  }
+}
