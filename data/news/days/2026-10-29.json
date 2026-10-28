@@ -1,0 +1,739 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-28T21:09:29+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Putin: Turkish investors ready to take stake in Akkuyu nuclear plant",
+          "publisher": "eKathimerini.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNnZLX1lBeHBUSXZJUVJJS1dLUGlsNnVTaVpWbURpd1RSVkg1bnF2VTd0ZmFLdHZnMGpPOGNoYWZSelRLazdYbTR6RTY3Y2hoeXI4TDFUMlNhYW9VaEg5RjlQTEhKaGp2QWNyYmRCRmIwVUg5WEx1ZnRRM2x3QTdwRGdVZFR4SDlXM01zTnlJRGZ4bVRVbGJhRW1WQ05JNGdGbUo4X2pWeUp2U3lGTDBGeDJPaw?oc=5",
+          "published": "2026-10-28T14:21:47+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Putin says Turkish investors eye Akkuyu nuclear plant stake - Ifx",
+          "publisher": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb3c2aF9CMFNqZ05UaEdfSEtHTXRsOUgtX3lHdEhVVU02TkNKMmZTY1BkU2ctZy1YTUk1X0F2dXhIbU5jOXJEaFJWSnJISGdzZk1jd0daNU1PcWxfTlpxSk5nUHUtWmpCUkR0cVdxdzZwMngta2tBZVdIcVFZUzZSWnlZOTk4UFFhcWRXM29mbmV5M3Fjcm9BWkJ4Ty1oZUlLaDZCMVdxVThiMzRvemxialFydTlrRHc?oc=5",
+          "published": "2026-10-28T16:08:41+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Turkish investors ready to buy stake in $25B Akkuyu nuclear plant: Putin",
+          "publisher": "TRT World",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XeDJnSnFKRjNhVjliUkdPZGRoUXh2bFF5YkpVQVR2czYzc0xoeFVvNjZKSTRoQzg2UGhHUkVDMGtJeTZBY01PWmNia253c0tsTHRSTVF1b0Q?oc=5",
+          "published": "2026-10-28T16:52:03+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Putin says Turkish investors are ready to take stake in Akkuyu nuclear plant",
+          "publisher": "www.marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeGphVGJaS2xpNHc4ZUEwd2lLZjc0Y0lHRUkxYVYtQXhodEJlWUp5X1NfaG1OM3RpVnBvbHhvMm9OVkoxV2cxQmhVQ3pNWENBMzU5RHRRNFc2NE8zMElHbUc4OFBxVFZqLUZfczFHNEN4X2JCRVFVMFAwTk1GUGtjU3ByTU1Wb3VoZjl0WnJYaEdlZWNfcXA0dTVXbTIxbXFDblE5bjlSZjJQSGlmYVhma2g2cHlDMnhIVXhkY0x3WjJhWU00TjlsWA?oc=5",
+          "published": "2026-10-28T17:42:30+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.856,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "日법원 \"도쿄전력, 후쿠시마 원전 피해주민 212명에 5억원 배상\"",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4R1NBdzJYNWgtMkZYTUd2SGpVZ1J1ZlRnQ0ZoY01LVDdJQlY4SFdkNkFXVkhySUZJVnAxWUI5ajlKbzdtUGZEOFc0SV9SUGZhRjBsaTl5QWZ0cHBSR3RSb9IBYEFVX3lxTFA4R1NBdzJYNWgtMkZYTUd2SGpVZ1J1ZlRnQ0ZoY01LVDdJQlY4SFdkNkFXVkhySUZJVnAxWUI5ajlKbzdtUGZEOFc0SV9SUGZhRjBsaTl5QWZ0cHBSR3RSbw?oc=5",
+          "published": "2026-10-28T07:22:40+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "일본 법원 \"도쿄전력, 후쿠시마 원전 피해주민들에게 5억 배상\"",
+          "publisher": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHYmtmM0RQdTAxYXVzTFZKRnZBZFh2ZHUwSUV6V1hNYXA2T1ZtdlBKWHdrOUFjZEF5emZ4VnZjcnItOGNUNmhpNVl4SHpDR3NBNTBVYy1kQl9QRll3SkxMUzdEZmVXc0E?oc=5",
+          "published": "2026-10-28T07:48:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "日 법원 \"도쿄전력, 후쿠시마 원전사고 피해 주민에 5억여 원 배상\" 판결",
+          "publisher": "MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tNTNaRGgyd2RjWUg4M0Z6ZmUtQkRTUnRqejQzYlZvU2dRVHFPRXc0SlBfenY2ekdLclFOZ2hwUWlETkZSQWk3MXlhdEE3eFlyYlR2UW1wMkpqOUZtNmNLWXRFM21mQ1BLRjVpdlJQNXRxSmxV0gF0QVVfeXFMT0MyWUJib3VUN3cxSUpSd3M0VDdyTnRjMFJoY09Qa1RoQmtoY2dONjc4ZVhfOGZPRHBoUFhwUFQ2RFphWXM0T2tZZGdOVFo2WVNmYzF4SXRWc3d3ektXV0E4d1dzYlBBVFF4QURKblVIVkliZlU?oc=5",
+          "published": "2026-10-28T08:00:23+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "일 법원 \"도쿄전력, 후쿠시마 원전 피해 주민 212명에 5억 원 배상\"",
+          "publisher": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sSzcwVXZDcldJajFrZFBjaGllekNuR04wMVdnSHdVZFRfa25faC1jY2FWQnQxNmZBdUNFQWtxd0x0UVVBRGtmSm14b0RQQ2thSkpxRi1tUHpTZmtXanc?oc=5",
+          "published": "2026-10-28T09:23:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "日 법원 \"도쿄전력, 후쿠시마 원전 피해주민 212명에 5억3000만원 배상\"",
+          "publisher": "국제신문",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNR0FxZkNTNlBhUHVUd1pRODFoSHVjSFZYSE5UaVFFU2JtNWV3Q2h1bXlLZWxCTEpyX0ZFWHlDV090MXpNU2ZMZGhPZ1h3bEFkVHJaUHo2TXNQYVBiMXpOZ2NmcmRtd0FFSnFhTVZRdkpUa3Q4blV5cWZaZy1ZeXBXRmlYUHNwZFFEUHpkZUdVWTJnTms?oc=5",
+          "published": "2026-10-28T09:31:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.515,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "고리 3·4호기 계속운전 허가…한수원, 내년 상반기 재가동 추진",
+          "publisher": "글로벌이코노믹",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZXJaNTJlZENhbUFlUHU1alVBbnA4eDJEY1VQbDV5UG9qaGFDclNJb1BMVVM4X3pMYS1XRl9UZFIza3FaYlVJbHMyR1pQTkNxeGJWdVNlWW5tdzBGZkoxbDRObVdNRTF4dC16ZVNhaDVxNlc0S2VzMmlSTUw5SVJjYmJhMmk2Y05QdUE?oc=5",
+          "published": "2026-10-27T22:05:17+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "고리 3·4호기 계속운전 길 열렸다…한수원, 2027년 상반기 재가동 추진",
+          "publisher": "중도일보",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TZkZmZnUtMWdnT0QzSjBxYngxS0MyR2lOTHlUc1phSkx6WFo4SGhRX29fMWRjazJsazFDMWZUcGQ2cUNaa3JnWHdDOTlLa0JmLTVwRzVvWVd1Nk45dGItbVBBZ1JFN1lPaldjUw?oc=5",
+          "published": "2026-10-27T22:22:23+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 고리3·4호기 계속운전 허가 동시 획득… 2027년 상반기 재가동 박차",
+          "publisher": "지이코노미",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzbWxlMUhXbW1WMnZWN2F6d1VzVEFSV2dHQmNOQ08xWjgtYllyU25DRFlwMjZxck1XM2ltRzZ4bEdCOWZuT2t1eG9LSXJpY3hodlFmdGJGN2dja29vMGZFRThnbUE?oc=5",
+          "published": "2026-10-27T23:23:34+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 고리 3·4호기 계속운전 승인…내년 상반기 재가동 추진",
+          "publisher": "CNB뉴스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OaEhNbUFjdXRMQ01QX0FFVUx5Ums2clFZOU1JSzNvTkJsRFhpNEt2WGdwWWVPTG1JY3RRVUQySHdVcVJaNGFPWU1ZV1pEZjJYaF82TzJqNjVGTXdGOTF6b3N4bFlIQ0pUUGxn?oc=5",
+          "published": "2026-10-28T01:31:10+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 고리3·4호기 계속운전 운영변경허가 동시 획득… 2027년 상반기 재가동 목표",
+          "publisher": "펜앤마이크",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yTEh1U3EzUDhuTnJLU1F2MzVBdU81eDVoLUJINEVBSWhpenhlRUljZ1pBX3M1UlA0cjlEQzZmaVZacWNRTE5KQm1jTk9qLUpacW80YXpJNW5xbE9XOGtpdGZCMVFDZFFRVC1BVGMtRdIBb0FVX3lxTE9yTEh1U3EzUDhuTnJLU1F2MzVBdU81eDVoLUJINEVBSWhpenhlRUljZ1pBX3M1UlA0cjlEQzZmaVZacWNRTE5KQm1jTk9qLUpacW80YXpJNW5xbE9XOGtpdGZCMVFDZFFRVC1BVGMtRQ?oc=5",
+          "published": "2026-10-28T03:07:28+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.249,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Constellation to get up to $5B DOE loan for planned uprates",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-27/article-8523/constellation-to-get-up-to-5b-doe-loan-for-planned-uprates/",
+          "published": "2026-10-28T00:02:00+00:00",
+          "feed": "ans",
+          "region": "해외"
+        },
+        {
+          "title": "Constellation gets conditional loan up to $5 billion for US nuclear plant upgrades",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMWEtV1EtWTRJdl90TURkRG9EaUtXck5vT2lWYnpFTEtNaUZ4QzFwQmhJOWJtNUxGaThqM0RSenZ0dnM3UlNxYUNYMVhDVkhPSmNRdjhIaUwyV1g0ZzJwUlh6V29nclNRano0TGVWeTFwTFBPU19JN0NZUXdRNE1fZUVSX254YTFVNGQ0eVN3QkVnYmtUMVlhYmtVVGxRSUNTNUhZbzBPV3hqMDdKb3h4czBnNzFDRjFxQTRabzk5YUlxZHRKV3ZNMw?oc=5",
+          "published": "2026-10-27T23:05:27+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.12,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Fusion companies sign LOIs for federal R&D awards",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-28/article-8526/fusion-companies-sign-lois-for-federal-rd-awards/",
+          "published": "2026-10-28T20:37:42+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.978,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "New technology deployed as Fukushima cleanup progresses",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-28/article-8527/new-technology-deployed-as-fukushima-cleanup-progresses/",
+          "published": "2026-10-28T17:22:22+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.842,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Study finds silicon in unirradiated TRISO particles",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-28/article-8525/study-finds-silicon-in-unirradiated-triso-particles/",
+          "published": "2026-10-28T15:32:26+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.766,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Rosatom plans to increase workforce at Iran’s Bushehr nuclear plant to 700",
+          "publisher": "Latest news from Azerbaijan",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaVlWbDBCQnRUdzR0aFYwQWZEMUllQ3hMR0xzcWlxM1dJVFRWOGZxR0ZOZzZlUU1NaTVKUmNJRW11bUxIektIMUZYaE81Zkc4ZGxia3BaYU5KTzhyLWluTGVWZENLS3Q2TDRYZkltLVRWWFc3ODM3Ymh2YV82Q1FIZGtsRTlIMWNhSndqV0J5LWNxUk1VLUNmcU53?oc=5",
+          "published": "2026-10-28T07:40:58+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Russia's Rosatom says it will increase staff at Iran's Bushehr nuclear plant in November",
+          "publisher": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSkNRTWtiQS1qOVlTNkhBM1k0aWNvVXJkTE1rYS1wZ09WS3FvclBmYWVUTERUZERua0NITDFUV1MtcTRxN0dXNGp5UGRFVW44SUY4YnplSFh1R2ZvM3piZ2twZFEwYVFXVnU2TkZkOHM0NGM1SlhEcTJrZFl2VF96TXA2OGlfQnBPa1V6di1qN2xJdXZPdmljMEF5Y1B1d1JSOTlqQXotYzA0NXRoSWY3XzhZeUhhTFFNLURpRTVhTEsyd0N1dlhUYkxqWWlHVUs3eTJhS3dlNXE?oc=5",
+          "published": "2026-10-28T13:00:07+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rosatom chief says they plan to increase number of their construction workers at Iran's Bushehr nuclear plant to 200",
+          "publisher": "NEWS.am",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1XRnQwZVpxVXFqRHgwRGljYXBlbDIxa2pwR1ptcEVJZ3czSmpqYVhCVkVuc29tRklkRGk1X1ZkT25YNXJFYXc?oc=5",
+          "published": "2026-10-28T13:41:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.689,
+      "id": 7
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한전원자력연료 '2026 공공기관 AI 혁신 챌린지'에서 AI 혁신상 수상",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EcFpUT1dsdWNhXzlVd21ocW0wNTNVdmNNYThkaXowbGpzVllQMGlLRFlXU0tBdUJzOGN2Sm8yZFl3TktqUm1nN0h1c3d1bXNQV3RxWFdCSURNQnI0RjlCekFvc0o?oc=5",
+          "published": "2026-10-28T06:53:51+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한전원자력연료, ‘2026 공공기관 AI 혁신 챌린지’에서 AI 혁신상 수상",
+          "publisher": "에너지타임뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4MDVaVG5VNDhkN0tyaVpwZklZWFJhaVlIbHNfck05NldodGVIU1RfOWZoeVRWN2VaWTdMYklOaHl5bHRyMUFZbExiU2psaElwUmFKZXV2YUZVM203MVVtZmF4U1VreHVHUTc5ZF9PUGFzQdIBdkFVX3lxTFBWN1FIVFNqalRkSjlJUzN5WThzNDg3V3hOOG1XRVZwY3dCTDAwWG1iUEM4TWU0eEhmZUgwNTBzSnduSFU0Skd5dUk3Y0R1ak5FbHU2VE55SDRObnpTN0daTk01eEQ4MW40UGt1OW4ydW1TMWtXOEE?oc=5",
+          "published": "2026-10-28T12:32:40+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "공공기관 AI 혁신 챌린지…한전원자력연료, AI 혁신상 수상",
+          "publisher": "에너지타임즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsdHFSZDZCemI1bkJiUjVDczlsUktnanBOMXNkREdKNXgwSUFiQjJYUU4yVlJNSHJOamRJbWlGQ3V6dmFYREpuRWxUcC1MNXhQMFAzWVo4NFViZGxQUzBxN1hPMGJNUVc3U1E3Mw?oc=5",
+          "published": "2026-10-28T13:18:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.673,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Nuclear fuel delivered for Bangladesh’s second unit",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/nuclear-fuel-delivered-for-bangladeshs-second-unit",
+          "published": "2026-10-28T13:17:56+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.673,
+      "id": 9
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "경북도 ‘2026 국제 원자력 수출 및 안전 콘펙스 개막",
+          "publisher": "경북매일",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPRVBwZXhpY0hmQzV3SGEtaWZNSl9aLVF0enZ2cHZqX3FQU3J2WTFVQm9zQklQNDhIeE1Cd09yVGtlZy1zYXNPSEpreUw2QmRLa2djcTU5akJjdw?oc=5",
+          "published": "2026-10-28T07:08:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경북도, 경주서 ‘2026 국제원자력수출 및 안전콘펙스’ 개막...SMR과 차세대 원전 기술 논의",
+          "publisher": "이로운넷",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56X1dVQ1o2T2FycklyMXZBaGc5Y09hVGtMWEtaWEZVY2Z6WnR6S2xmdUNuaW1jaUNIRVBZYVA1UktQRmNDcXRDazdGS2VZdDdkaExCa2Y0ZThCdVM0T3ozdXZDM0VQUQ?oc=5",
+          "published": "2026-10-28T07:14:12+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경주서 '2026 국제원자력수출 및 안전콘펙스' 개막...SMR·차세대 원전 협력 모색",
+          "publisher": "BBS불교방송",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aZkNYQzFOQ2Y0NEVaVlNuQl9PZjJWUklBRzJCaUEyYUNaNzZPYjhmQlFZUm80QkVHVFhJcGhsS01oa0NQUEpIQl8yVVRWdVl0T09kMkxTa0ZjME5CakFhTGZPazV0VUYyTnZn?oc=5",
+          "published": "2026-10-28T13:00:50+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.661,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Hyundai Engineering agrees to cooperate with US SMR developers",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/hyundai-engineering-agrees-to-cooperate-with-us-smr-developers",
+          "published": "2026-10-28T12:52:40+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.655,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Deep Fission signs Kansas power agreement following market woes",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-28/article-8524/deep-fission-signs-kansas-power-agreement-following-market-woes/",
+          "published": "2026-10-28T12:15:16+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.629,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "US government loan to support Constellation uprates",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/us-government-loan-to-support-constellation-uprates",
+          "published": "2026-10-28T12:08:41+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.624,
+      "id": 13
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "경상북도 ˝K-원전 글로벌 협력 기반 넓힌다˝",
+          "publisher": "CBN뉴스",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbFNRX2Rqci1qbjlWcW00UzZ5aGc1LW5BRm90YkNrQW8tX3FZTk9seWRxdzVmWlgxRG41eThUWUEzWTV2aDFHRnByeWJ5eVNLa1VPbS1FZzk1NUN6ZUJNOEtheE5MaGpwSFRZRXlBTEJkbW5vc2J0ek5BcmFaTUllYg?oc=5",
+          "published": "2026-10-28T05:12:31+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경북도, K-원전 글로벌 협력 기반 넓힌다",
+          "publisher": "누리일보",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VeXpaN1k4MEsyRjU3X2Z5a0E4aUljUl9qMTNVRjQ1ZG5KMmR6R1RNNDV6aDVYZXdPTVgyR3llMWJVNm9mY3BiR1JJeDg1OEhKWmxqRGZ4aFRrZjVsemk0?oc=5",
+          "published": "2026-10-28T06:30:07+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경북도, K-원전 글로벌 협력 기반 넓힌다",
+          "publisher": "다경뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZZFhrZ3VMMlNPOV9pbW5QdHFBaFVEdkZ5blk4cmU2dUZRRkluVF9TV2M4dmxsMG9zWDhEeUtOZU9Ld3VZdC1zMm9ubnlOS2FPX19odS1mQjBSYWFyUmc?oc=5",
+          "published": "2026-10-28T11:41:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.605,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Kazakhstan could start Balkhash nuclear plant construction in 2027 - Tokayev",
+          "publisher": "Trend News Agency",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GTkt6dWViTDdGQXlhaUx0elBudlhBWDJ5SXpOVUFPcEJWSHdfbENuSEhiLTl4X0NRZ2hsX1hidTFtT2p6ZXZ5MXhDWFUwbDQxRjlYc3JrZms1TC1zTXhV?oc=5",
+          "published": "2026-10-28T07:15:12+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Kazakhstan considers starting construction of second nuclear power plant in 2027",
+          "publisher": "Azərtac",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc3JmTGdmLTJmZTdkZ19ZTmF0eDhMYWtGRTc4QlpoTENvRkNWNWdNQ1NlR1lfdDFjTGRFSEtLSkphbTFXdkxuRzdLc0tMSnJ2dTVsU1d3SVZvb201b2h4U0ZlbzV3Vmg1Y1l5U1BVYVV2SWxXNDRHMDRLcHZsdGVhdWhkN1Z6Rm5BN3JoT3lwdWNic2pXdHlGS2R6WmV0bU4xSDJCZml6NmxSeDl2ZHpkWVhOYVNiS1k?oc=5",
+          "published": "2026-10-28T10:52:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Kazakhstan May Start Building Balkhash Nuclear Plant In 2027, Tokayev Says",
+          "publisher": "UrduPoint",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc1NJSm9jemRNdUhYOGd6T25nUjJJWG5XYUxYRFBIOS1ydXpHTERJSE42YnVQSUhKUmFpUjRNNkE2aW5Ja2hyR2FjMF9hX3hCaGpLT3NoZEZOcF9KWXBRcWZxLWQ4OTlWT0o3MW5OLUJaQmliYzNPdnBRTURmXzBlemlZRzR2czFOUmRYOWE2dEtIUGtiVUVQYw?oc=5",
+          "published": "2026-10-28T11:35:43+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.602,
+      "id": 15
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Nuclear is Ethiopia's next chapter, PM says",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/nuclear-is-ethiopias-next-chapter-pm-says",
+          "published": "2026-10-28T10:29:34+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.556,
+      "id": 16
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Togo signs nuclear energy MoU with Rosatom",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/togo-signs-nuclear-energy-mou-with-rosatom",
+          "published": "2026-10-28T08:33:48+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.475,
+      "id": 17
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "\"AI·반도체 전력 수요 대응\" 한수원, 고리3,4호기 계속운전 운영변경허가 동시 승인",
+          "publisher": "컨슈머타임스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rWGFiMzFNNVpOZlZGYnZsc2ZjMHdGM1BDWDdJbWw4V05ZS2Y2WUs0cWttUzlHMzZZcEQ0ZmQ1ZFctUWc0MVRjSXJfM3dnX0NQRUNkZ2xhTFVtc2VMcDFTYTZ4a01jcjMwLUE?oc=5",
+          "published": "2026-10-27T22:20:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 고리3·4호기 계속운전 운영변경허가 동시 획득",
+          "publisher": "일간투데이",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xV0JoQnd6UzViZWJfNXNlc2Z5Ym1sbHpFd1I5cTlQZDVzS0FXN1p1UXFvajZ2ZjZ0SUVBN2czRTN1NElqQTB0bnVnNEZCZEY4Tmh6UmRtRVlXSXliN2RzZFFIa0dlbE9pVmtz?oc=5",
+          "published": "2026-10-28T02:11:02+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 고리3,4호기 계속운전 운영변경허가 동시 승인…2027년 상반기 순차 재가동",
+          "publisher": "ER 이코노믹리뷰",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxajJBUWVxOVRqY3hsRGRJcDFoT25XMTBWMEhRdG0tb2dza0U3SXkxenZIYlRJMTBkYW53RGczWmk0ZXEzRldOd3N4SU5jVXBDc29hSHNzZlBTTWpiN0ZuRGRvN1Nsa1JXbGRUZw?oc=5",
+          "published": "2026-10-28T08:22:27+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 2.467,
+      "id": 18
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA and International Laboratories Confirm Japanese Marine Monitoring Data for ALPS-Treated Water Discharge under Additional Measures",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/pressreleases/iaea-and-international-laboratories-confirm-japanese-marine-monitoring-data-for-alps-treated-water-discharge-under-additional-measures",
+          "published": "2026-10-28T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        }
+      ],
+      "score": 2.118,
+      "id": 19
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Iran, Russia Plan Joint Construction of SMRs: Nuclear Official",
+          "publisher": "تسنیم",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORWczLXl2ZTdndmlkdFRsZXhwd1FmRXFUbjhVMTVpZHNoSHJBZXlBUVpPVlY5Q3EyUTlmSVVGcFpOcHZzVFZ0S1hpcmdwRVd3c2ttYlZCNGJmMFlNVDdWNHVjUENsNmF2ZDdHaEJHdU9BaDJ0TFhmM0RlMjBXLXhwWG9sYjIwSDl5Tk85ZVBubjltc0tKeDZMRzN2dGVDQjVfWTV6ekM0NUZibnJGOFd4Q2NhUdIBuAFBVV95cUxQcTJiSTYyOGJpM0NzQVF0YmhmTjNXMllTamZhVjM3RGNDMVE5Q2xKbi00bmdxQlFRNUhYVWJtZE03VjlhRG1aNFZNbmNyMVVUbEhlTFp2VXV4aGFKaHdYSEtvSkFWZGZWZ25TcExzbHdPMmRiclZhakRoRk9jWjIzMzNtS296akZwZ3RSNVA0RWQxNmxHcDYzMThtMUJNeVU2ZUw2VkZyZDVzTjVfVjFYZ242eVZIdy1R?oc=5",
+          "published": "2026-10-28T13:16:49+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Iran, Russia move toward joint construction of small modular nuclear reactors",
+          "publisher": "Tehran Times",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeDNWTkxDVndTUVlrZGVzSDM3QXk3WFZJYWJ0cFUtd1pNeDRWa285eTVyUFhfMHNMenpidEg2Y0c1LWpTNDlzOHlaeXRtNmpVdVNsOFZfNDdicGNmSk1XMmlnZ0JzTHpqOEJHYklaZmVqbVlFNEMtYWpjUDF0RzJ4WkRENnhMXzFrMzBrYlRsSUdVVzY2SWZ2eXZiMVV5RVBCSEE?oc=5",
+          "published": "2026-10-28T19:57:38+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.95,
+      "id": 20
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[사설]세계는 원전 확산 흐름, 한국도 속도 내야 - 머니투데이",
+          "publisher": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16OFVuQjNmT3QtSEpPWnJiajQweERJZTRQMmhLd3dqOFlES1N1Y0Q4M2w2dFBzdWhuOWNDcmQ2UmI2elBFUENEQVUyVGxHNTVWVnBpNF8tMXlQUnZiaDdCNDc2N0t1ZXJNSnh30gFwQVVfeXFMTVZCdWw4VG1CUFRVcDF5Ti1SSkEzbGNkQTQ2eGRiYllfYnFuNExMSjlEVUdjaURPN3lKdWQ2SWg2a201c1NEcG9nc1ROVnFrbGtBc2ZoelFNWUdHYUpKU3pKcW5qcEpfVVVZbm5LQkR5Zw?oc=5",
+          "published": "2026-10-28T19:05:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[사설]세계는 원전 확산 흐름, 한국도 속도 내야 - 머니투데이",
+          "publisher": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WQnVsOFRtQlBUVXAxeU4tUkpBM2xjZEE0NnhkYmJZX2JxbjRMTEo5RFVHY2lETzd5SnVkNkloNmttNXNTRHBvZ3NUTlZxa2xrQXNmaHpRTVlHR2FKSlN6SnFuanBKX1VVWW5uS0JEeWfSAXBBVV95cUxNVkJ1bDhUbUJQVFVwMXlOLVJKQTNsY2RBNDZ4ZGJiWV9icW40TExKOURVR2NpRE83eUp1ZDZJaDZrbTVzU0Rwb2dzVE5WcWtsa0FzZmh6UU1ZR0dhSkpTekpxbmpwSl9VVVlubktCRHln?oc=5",
+          "published": "2026-10-28T19:05:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.914,
+      "id": 21
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "유승렬 인천경찰청장, ‘IAEA 원자력 장관회의’ 경비·대테러 현장 점검",
+          "publisher": "우리일보",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAzdXBXZnpRUEZlLUh4bERVUVR0LWowMmlqYWFhTURiMUtXa2RKam5rV0dhSjhlbVF5SkZ6WlV2dkdibjFzc2EwdkoydXBJcVZOZlJER1JIUHdJVXczQXZpMDNKYw?oc=5",
+          "published": "2026-10-28T12:31:25+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "인천경찰청, IAEA 원자력 장관회의 대비 경비태세 점검",
+          "publisher": "경기도민일보 미디어",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DdktZa3F5aEE2eGF2a3o5QnN1QjUtbjFmbTJrNjJISm9YTXNJR2J2ekJFVkhlaHprVGxZYnB2TWRzZ2RwcGRSNU5aUHVvT3pyN21WRjBEUko0UVpicno2a1Y2UUZ5NVhZSHc?oc=5",
+          "published": "2026-10-28T14:59:30+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.743,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "현대엔지니어링, 글로벌 SMR 시장 진출 본격화",
+          "publisher": "국토일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45cjdrc09aZEJVbGtyeVVvMFFOWVRkeW93ZnNTdUNiVVkwcW9BeGlGM3AzNXowU0lEUExzZ2VHZ2VFNHBTWXJ3c3gySGNwUVZ0VTBndkFSZDlRZnJHcEM3ZXRDSHo?oc=5",
+          "published": "2026-10-28T08:47:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대엔지니어링, 독보적 원자력 설계 역량 기반 글로벌 SMR 시장 진출 본격화",
+          "publisher": "부동산신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4UjlIWmRjVV9UeVZvY29DZzBybUNtc3I5RVJlV1RQT1NZalYtMGhub2JZZFByaDlmaEg3a0ZEY0VfS2FEcFlLcTFHRlNCZUh3VEktZFV4dDNNWU1Jck5kQkNmZk5tT3dF?oc=5",
+          "published": "2026-10-28T10:39:58+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.563,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원자력연, 육군 에너지 자립 지원···SMR·원자력전지 기술 협력",
+          "publisher": "헬로디디",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MX3VLbF9iZzNUNllvZlRfeWtSWUNlME8tRGlfRkxESTVnSEJ1aElpTkFRZkF6QTBHTjFwbjJVR01jaDNCamtlZXZ4TXppOHFVNGIweGJsR3NBcWZhZ0tsLUF2Y29jSlpNdWc?oc=5",
+          "published": "2026-10-28T08:00:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "육군 에너지원 다변화에 SMR·원자력전지 기술 협력",
+          "publisher": "에너지신문",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3WnI4d0llaE9DNFd3VG1qQ1UwTVp2dUVfRUdMcG5aZVdQMXBtTmh1bm5BTTFJWjI1S3dCOTNQN0dsMFdoWWs5RmZtN1hSZlJHbnFMR2NCRmItQjFvekVpdlNMNVV6ejhySWJ6akJOMlg0Zw?oc=5",
+          "published": "2026-10-28T09:47:02+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.526,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "“한국은 美 원전사업 최고 파트너…역량 문서화가 우선”",
+          "publisher": "에너지경제신문",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aRHlIRURxSGNKNnJqd1FiVldETm1wY0Q0d2Y5OHFRZ3ZpQWUxSXpkbWpjZTBHV0ZHTzhJSVVJMWN1Sy1UNWtpZEw1Uk41ZEhlNmhEd3lQOVdTWW9JNmc1czV3?oc=5",
+          "published": "2026-10-28T03:33:35+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "“한국은 美 원전사업 최고 파트너…역량 문서화가 우선”",
+          "publisher": "기후에너지데이터뱅크",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82U3pnR1dBU3E1blY5YUk4RksxYzBvZTVwN3FjZVI2VDlHMFZwRjk1ZnVZa0xBejhrckNjZXdKZng2Sm1Cd0hHejNkUGpPczQyYmtlNjVhVHF5M2RocFE?oc=5",
+          "published": "2026-10-28T04:10:03+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.292,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "해양물류 탈탄소화 앞장···2035년 첫 SMR 선박 건조 착수 승부수",
+          "publisher": "이데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVnE0TlM2R3ZxWGlmV0FMQlk3U2V6cU5WT21jblBMNzZxRHNTY1BRY3UwZ2J0Qk9xSjl6TGpLTmpYZE5QRUZCVEthTmpsYWdUYWxhUDdvYXFaYW9YX0h5anBya1ltMWdSRlUzamlOTFJkQmNLNXVGYWVNd3RvYllHdA?oc=5",
+          "published": "2026-10-28T21:02:02+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.995,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[데스크 시각] 원전 공론화, 골든타임이 흐른다",
+          "publisher": "이투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iVEFheVZlSmk2cmJXSmo0Zjd4LU1NT0RUNzVTVUl3R1hEd253bmRzNk1oOTN2LUlhSjVicWNjWVpCWjVPZ2cxMHZaWWhCeWRjeGNHaFp4eGdIX3I3TzVnaFRIZ04ySmQxQmNGeG1B?oc=5",
+          "published": "2026-10-28T21:00:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.993,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "영국 NRS, 던지니스 A 원전 해체 사업자로 오레오스 선정…1억 9천만 파운드 투입",
+          "publisher": "https://www.2news.co.kr/",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WcHZtRDd0eUVKUTBLdWF6T245ZWZNQnpmaktQWEVXNEZOUEw1eWU4OHRubk83OXBPbTF3M0NYRmp3UGc4ejZOYzJVWkE1RHZUbWxhZUt0dTBSSVlld3dyS1RJY1A2Zksz?oc=5",
+          "published": "2026-10-28T20:34:16+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.976,
+      "id": 28
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "후쿠시마 바다 방사능 검증…IAEA “대체로 일치”, 러시아 삼중수소 수치는 34배",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5pQUQxYlNWZUpUcDhIUEdJVW1IWkxVMEVkTFdYOU9BSHdsQTJZd3dOa2s1VklBLXRaMXpoZVVKSmlvUGhUc0t6dmFhaEFXQXRmQjFXdVFoWGVwazJtNEVCUmV1elk?oc=5",
+          "published": "2026-10-28T20:33:16+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.975,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 98
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 41,
+      "kept": 24
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 97,
+      "kept": 89
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 45,
+      "kept": 5
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 1
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 5
+    }
+  }
+}
