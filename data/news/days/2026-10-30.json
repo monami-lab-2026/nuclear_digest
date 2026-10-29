@@ -1,0 +1,947 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-29T21:12:52+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "KHNP ends negotiations with construction consortium for Czech units",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/khnp-ends-negotiations-with-construction-consortium-czech-units",
+          "published": "2026-10-29T16:15:47+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        },
+        {
+          "title": "KHNP ends talks with consortium on Czech nuclear plant construction contract",
+          "publisher": "Yonhap News Agency",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wbnIzVml5T2hLWXZNTTJhYW1hY0RhZ0VXNUpqSktITkVObXE1Q19MVkxMUzh5YzU2S2tGZXc2bTRPNVotRHVDWkloN1NFVDdkMkNIYUdhc1Bydw?oc=5",
+          "published": "2026-10-29T01:37:23+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "KHNP ends talks with consortium on Czech nuclear plant construction contract",
+          "publisher": "The Korea Times",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeTc4b3NzSklqVFRwVC1ZZWZjRnVZNWR6TjdIRkpsNC1CU3hubjROU3NPeFF1WFBzY2lYQWRLVFp0LUpnYlF5ckpndkVwU1N5ZEpWdnktRnhlaGNzUmE0YmYxdEJJRU9TZi1LQVIteHZTSWJ6eGF1MkVZeHp4NnZfTGhlNEkzODJ2MFRGUFNES2Q3Njk2OWxNbGZfRHVqekF1aS14aVJ1UkZiSC10OEVBazItTGdDcnNQUmh5eUdjUjI0S0tMN1HSAcYBQVVfeXFMT3k3OG9zc0pJalRUcFQtWWVmY0Z1WTVkek43SEZKbDQtQlN4bm40TlNzT3hRdVhQc2NpWEFkS1RadC1KZ2JReXJKZ3ZFcFNTeWRKVnZ5LUZ4ZWhjc1JhNGJmMXRCSUVPU2YtS0FSLXh2U0lienhhdTJFWXh6eDZ2X0xoZTRJMzgydjBURlBTREtkNzY5NjlsTWxmX0R1anpBdWkteGlSdVJGYkgtdDhFQWsyLUxnQ3JzUFJoeXlHY1IyNEtLTDdR?oc=5",
+          "published": "2026-10-29T01:51:04+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 4.794,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 공공기관 AI 혁신성과 대회 ‘AI혁신상’",
+          "publisher": "경북매일",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Pa3FYM1VkRVI0cFNkYW5hSG9HU3lza2JoaVh0bDZmdWdiRXBtOUl2Ym9nS201XzVUS2M3NGptaGFCUmRrYXItQlQ2M3E2Q0NveVVsN1lYeW95UQ?oc=5",
+          "published": "2026-10-29T04:33:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력, 공공기관 AI 혁신성과 대회 ʻAI혁신상ʼ 수상",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BUmVYekNidE9IeUpPWGtXVUJlTGprS1pEYmlyTUNOUlJ6bUhkY0dNSGc1cWoyQUU1T09jNV9lUXFfTmxaUWQwUnJ0SXVoWkdBNWE3NlU3MVVPd094a2NkMzdCNDA?oc=5",
+          "published": "2026-10-29T07:15:23+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 공공기관 AI 혁신성과 대회 ʻAI혁신상ʼ 수상",
+          "publisher": "ER 이코노믹리뷰",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6TkJ4SGdBLWdfY2hwd3ptQzF6SE9uVk1YRW1OZ2JxRzUtbl9UeTg1NnpkTml4N3luVEMzWGxPR0xOekFvV3Q3d1Z1UEhmcUNSSy03WVpDN1NDcVhOcVFFSzZUVXdDQ1dPeU5TRA?oc=5",
+          "published": "2026-10-29T07:55:55+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, '공공기관 AI 혁신성과 대회' AI혁신상 수상",
+          "publisher": "뉴스포스트",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90WWQ3dTlpY0lUZmxuWHFXcklncnJ3ZjJJTVdyelRxMWhReWZQQzFNV29Qdms3NTF6dHFKbzdRbVh3a3ZubDhlUnVRa2JYV2JCWlpka1puY3o4d2drdjRKUWZxQmctUkJRTnc?oc=5",
+          "published": "2026-10-29T08:03:04+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 공공기관 AI 혁신성과 대회 'AI혁신상' 수상",
+          "publisher": "국제뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfWTFULUhtQzhfdTh3OGQwWFl0S19MRXI2dHZTN3k5ZjMzWHJZNzAxQV9Oa1FzQ0VTcnc1WEpZV3BqLUVEaXNVSUpzeVhlZzY0Y3pBSXlVbENPdUtCLXloMUExLXl0b0pWMDZtNi1n?oc=5",
+          "published": "2026-10-29T12:07:24+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 원전 전문 생성형 AI로 '공공기관 AI 혁신성과 대회' AI혁신상 수상",
+          "publisher": "컨슈머타임스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wOFpjSnROVzI5SUpwVDJHaHNwMHAzVVZLWDVSY25nVFdjQjJtWGZzQ0ZKZ2NzUUZUZ01iWlBpSW80SHZfOEQ3VkxmeW5Wa0tsQWpPMWo5WmRzemZzMU9Ickl6YlVzYVJtSkE?oc=5",
+          "published": "2026-10-29T17:02:32+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.826,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "두산에너빌리티, 美 SMR 첫 원자로 제작 계약…상용화 본격화",
+          "publisher": "인사이트N파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xNkM0WHp0VXNaZWpscnhUX2xqeDIwajEtdWFXUUlKd0xKODN6bktIMmRYeVpuT3pfWFRzM3c0Q3lyLXotUURYNVZKeVh5UGZaZFFuR19qYW1rcmhHb3BLb3h4X2JPdw?oc=5",
+          "published": "2026-10-29T05:17:31+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "두산에너빌, 미 뉴스케일 SMR 첫 원자로 제작 계약",
+          "publisher": "뉴스토마토",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53cmVOU2REbGRtLW1VcGpScmpKZlh1VkU5TU12V0tYZUZHWTU3YXlLQkc0c0g0VVpvNXY4MXF3MWwwNVZ4YjJOa2lXZl8tS0JwUkZhSzFyY0ppVTkzLVU0ag?oc=5",
+          "published": "2026-10-29T05:27:53+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "두산에너빌리티, 美 뉴스케일파워 SMR 첫 원자로 제작 계약 체결",
+          "publisher": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVHVIbmRiOWZRNm9zUzI4bFpURE5TM3JzSTcyNlU4U0lmTl9pQzdHZHZGNk5yRlhWRGVmbGVVZkNQd3RGV1dBWF9qcVpSNERtaDFBUmlCNHd2OEZjLTRuUlFEZ2NNb2xXRkI5X2habmZYOWJRUlVJQ1NzbkVMQklYRk9wUUPSAZgBQVVfeXFMTXFjNURFM0NlanpDQ0UxM1I3cmZqeGNNS1hGR1M2UVhaUV9PeWZMMk0yTDdhTTdYbE11M3ZFTFdyUEVkdDlkLTU5RUJydDZWaWRLWVc0TXE2Sk9iNV91OVgxUVVoUzhyc1diejJKaGtmaW02WldhcnEwQi1aa3ZyZ0IyZDB6SlhTR3VPMkFjWXpkUGNjRktkWXc?oc=5",
+          "published": "2026-10-29T05:34:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "두산에너빌리티, 美서 SMR 첫 원자로 제작 계약 체결",
+          "publisher": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ha281RkJiWXRsUXY1dUNUbVlYTHE0Wm1WWk5udC1wa3ZrZjVET2t0NjZqYVBzWlFDQmtPUURoSWtpd1pxY0xKU19QWWJiNkVVUkxJMUZaQWhKZW1UTWlpWGlFSzQ?oc=5",
+          "published": "2026-10-29T08:04:52+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "두산에너빌리티, 美 뉴스케일파워 SMR 첫 원자로 제작 계약 체결",
+          "publisher": "경남일보",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fRDhqSDNmRFlBOHNTWUJrU2tELWtraDJhTk00RHh2U05qb3hUN1lwT3E3QU1nUUZkdWxLaVJTQlZQTE9hU0xTV09GLTZja0tLTWdtSzl3WFN4MU1RY1EzbEFnOXdvSkQwZC1R?oc=5",
+          "published": "2026-10-29T09:45:16+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "두산에너빌리티, 美 뉴스케일 SMR 첫 원자로 제작 맡아",
+          "publisher": "에너지타임즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wYW44RzVvNXhZLXhlSzJHcWZfcjR5eTM4SUVRc3FVdEEwemdDSjh3QThpUW5BRGlHRE1Id0paNHk0VmUwdVZta18yN1M4QUFLTHRrMFh3WTZPeVFlOWRjWjRUN3QyNEFoNHRTRQ?oc=5",
+          "published": "2026-10-29T13:45:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "두산에너빌리티, 美 뉴스케일파워 SMR 첫 원자로 제작 계약 체결",
+          "publisher": "로이슈",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCVG1BTXhNbExDTDVsU1hmSjBFYjBQNm4zMFgwYWFneUJFSkNEMjA2R3kwa1BuN1RiWHRLdkp6RVMyNUx0YS0yMlBMRldNeERRTkd5eWxhZ3A4QWdLVDZHUmd5c053UzVBakhVckxPSV9TcVlTbEN5YTlR?oc=5",
+          "published": "2026-10-29T14:21:59+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.715,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "두산에너빌리티, 미국 뉴스케일파워 SMR 원자로 제작 수주",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YLWRwa2tHUTN2VnVRYWZCaFNYd0hVNElyMlB2bkk0WFVZSEp6REdvdW5kV083dXJmWm9GTjg0OG1QbHZyNWVlalFhdG9WNlZwN1BiNnJ2VlJVUlXSAWBBVV95cUxOdXVZd2RWZEZDYjNLNHlwNFFKSUs3bXV3YVBsS1hWc20zNTQyTS1CT3hnVDgxdGFPRV80dUlBWDY5c2pXSGNWaU9vdldfZjNMVmZ4RzZDMW10SkN5Z1lsNmI?oc=5",
+          "published": "2026-10-29T05:28:16+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "두산에너빌리티, 뉴스케일파워 SMR 원자로 제작",
+          "publisher": "디일렉",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NSmtJV3BKVEJIcHdGd05lRTlJQTdzRmxUaGtDSFBGRHBxeDVRcmNtd0dscFd3ajB2UnZvV0UwcmI1czgtbUE1ZURjNUpzVmlXbHYxS05yNGZ3STJvUzJhSGpnaE5Edw?oc=5",
+          "published": "2026-10-29T05:48:35+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "두산에너빌리티, 美 뉴스케일파워 SMR 상부 원자로 모듈 공급",
+          "publisher": "글로벌이코노믹",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWmxqUTI0Vy1SZ09OZmdlanNSVWlfdjU4amJWd0NycF9GX1pxdmxWczA5MUFXMHVvTHNSU1FkQ1V0N0g4M3FzeVEyM3E5VDMzMUlmRGctRmNEOWc3bHN2QzZFRGJBNHpIbUhJcU1lbGRrZndyVW8zWGFNNXBzaTFMVmRGYzJDQQ?oc=5",
+          "published": "2026-10-29T06:27:31+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "두산에너빌리티, 미국 최대 SMR 원자로 제작한다",
+          "publisher": "경남도민일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qaDB1d0I4RUZOU0hYd0xEZ25GOXBuX01rRUw4alJNaUs2NTA2eEZtdEI0V3JHcUVXajVVY3B5SlZ6dkxvTnlnbHVMU1ZvX0ZEWXlxaER5dGJLX0xiN1N6STY2X1VtWFpLamc?oc=5",
+          "published": "2026-10-29T07:49:03+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "두산에너빌리티, 美 SMR 상용화 시대 여나?...뉴스케일파워 SMR 원자로 제작 착수",
+          "publisher": "산경e뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55R0s3Rm9DYlBxRnVyYzhuVWxFUXVWVktzMTVlYzZEeGdlb1drVExweEc2a1ZqeGFNU3FOOHNaWDZGTkVfLW16QTZycGdPeXQ1YlIxckRTakdRanJXdk5rNThxMGZUQWc?oc=5",
+          "published": "2026-10-29T08:08:42+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "두산에너빌리티, 美 뉴스케일파워 SMR 원자로 제작 수주",
+          "publisher": "디지털데일리",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxam85bnROTzNWb2sxRXg0OF80R0pzZk41LXUtT0lJcXJSeW0zUnVCUUVxa3g3V29JUDZmYnl1UTFmeFhXM2F5bG9zZzg4N0puQVVaS2xEeklEX2ZGOG9JR1BFXzk?oc=5",
+          "published": "2026-10-29T08:27:15+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "美 뉴스케일파워 SMR 첫 원자로 두산에너빌리티가 만든다",
+          "publisher": "한국일보",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTcUhrNVd5VmFka1hQTFdCVjNZZzdmR1Fib1o5YjV2UnhJRWRkTWR3Q2tVaGFlZ25EbWhvYk9Yd3ppZXJpaGtPU2hUN01OLTB5dTRIMklHb0E0SGZMSUUwdFFUV0VZV2xVU2dZbEpKU3dzVzDSAXNBVV95cUxQU3FIazVXeVZhZGtYUExXQlYzWWc3ZkdRYm9aOWI1dlJ4SUVkZE1kd0NrVWhhZWduRG1ob2JPWHd6aWVyaWhrT1NoVDdNTi0weXU0SDJJR29BNEhmTElFMHRRVFdFWVdsVVNnWWxKSlN3c1cw?oc=5",
+          "published": "2026-10-29T09:04:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "두산에너빌리티, 美 뉴스케일파워 첫 SMR 원자로 제작",
+          "publisher": "경남신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LQWt5Z1VIR1VzQXloOFZfN1VUTmE3bTY5dk1kdnotTGJTdFdMYkRKZGFvaXp5cl9CSWh4N0I5Z192cEl1YmJMandrQlNnVlk1T09MSTh0b0hDUQ?oc=5",
+          "published": "2026-10-29T09:46:31+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "두산에너빌리티, 뉴스케일파워와 SMR 원자로 제작 계약…상업용 기자재 생산 본격화",
+          "publisher": "팝콘뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE16dFFEMHRkbnNLM2pRV25XQXZ5MmcyNFVCTTR6c1B3WTJHVDVFQl96NFJiV2FDV29vQnRyNlVHenMwanNBbmlvQ3lJV1BZRl9ZTEJhMkpQdTZ0YTJxRWNsdWpBM05iblJoQ3hDRE9Tc2FzZ9IBckFVX3lxTE16dFFEMHRkbnNLM2pRV25XQXZ5MmcyNFVCTTR6c1B3WTJHVDVFQl96NFJiV2FDV29vQnRyNlVHenMwanNBbmlvQ3lJV1BZRl9ZTEJhMkpQdTZ0YTJxRWNsdWpBM05iblJoQ3hDRE9Tc2FzZw?oc=5",
+          "published": "2026-10-29T13:45:08+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.689,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원·대우건설 컨소, 체코 두코바니 원전 시공계약 협상 결렬",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VbnJpZk9TTWFlMnBqbXBVTURFclpCY2h1Z0IwaWpJSEd0RzFHQzZFZjRoZlFDUXFSeTBtOVMxWldObHVyN3U4YlhBNGx0U0cyWmZCVl9JWWdoTFnSAWBBVV95cUxPQnBBcmlXR1JPUFRqSkV6b3Q2LU1qTlJuNTZqanZiQlZGSlBORFVndlFjU0tKUHhscTQ3VGtIYVhKWG5yT25IR25rWmRHZmlIU05SMUFySl9MU1pkcnpnUlY?oc=5",
+          "published": "2026-10-29T00:21:34+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[특징주] 대우건설, 한수원 체코 원전 시공계약 협상 결렬에 하락",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OWlFlbW5YSWhDNHU4LWM4NmdPWGpLazVkdWdhd2JWb01YUTQ0SVNSM3pmUmVsMlhnbUY0VGluSV9xcDFwMXZjLVk3cTFwSUZnem1jbWNEREpyTlXSAWBBVV95cUxOaWhWM1FDRUxsYUhFSlhGSkNvb3NTUmpKZnB1OWJ0bkNDV1NvNG1rcEhfTllVU2RsTk8xd3ZPZXpvMWQ5czE2MU9rYWd0ajFON1hubWJ6ektsSERCS3NIeHo?oc=5",
+          "published": "2026-10-29T00:38:03+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 두코바니 원전 시공계약 협상 결렬",
+          "publisher": "MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QSFh2bC0zdm1uamJvalRCcmhLZjVocnZIZkIySXhKUUpHZDlCa21VX0k5Nm9FcE9kaldnbG9iam56ZFhnb0V1QURJZXhmT2t3WGJZMXo1WktGWnZ4dG1fUTJpendTZlk2TVAwbGJXaENhQU5D0gF0QVVfeXFMUEZhd1dwYVJLcUdyNVFCT3BnT3JMTmVPd29FRjNXTlRoVktYaEtjdFhWREYzQzdmM1FYOWpDY0VjS3FZNG0ydFB1OTdKaXN1bm13cVcyYlk3bHBVaW9vS1hXQUVNdEhONXZ4WTJPcXRKeDFQeFc?oc=5",
+          "published": "2026-10-29T00:42:38+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원·대우건설 컨소시엄, 체코 두코바니 원전 시공계약 협상 결렬",
+          "publisher": "에너지경제신문",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEcUpvTVRSbTVxelVfOTJnMzNSZG1NSl9NWDlCU283elIyQWpidERMMEp5SEIzMlRYRTRZMTNUY0ZVNDdKS1BLTGI2UzhQYnh6M29wQXpqQ09FaGM?oc=5",
+          "published": "2026-10-29T01:25:53+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원·대우건설 컨소, 체코 두코바니 원전 시공계약 협상 결렬(종합)",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JSWZ4aWhod0Q4MExIbURON0VLVDlhUVg2T1MzWGRVcDdyUWJYRUxIWHFocTI0TDVwRFZJNU9sd2lObGlpeF9DTHpkQ25fTXZqdGpWRXMyb1lHZTTSAWBBVV95cUxOc0pfSHY2XzRXdzhabzM3TjVJZGF4R3A0RDV5RnRBeEFtME1RUkRUTXl0YlhtSlpIQ3dndTdXUjhnUlRmVE8xOFBvdWQ1MGJ3LWIxVHR4dHZXY2JaeVZZQW4?oc=5",
+          "published": "2026-10-29T02:04:24+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원-대우건설 컨소, '체코 원전' 시공협상 결렬…새 시공사 선정 추진",
+          "publisher": "전기신문",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83NmRTWERXenR0UXlXTDJOR1gtQUhDblFkOE9PdGNiczlYNTJkTHVKUlEtUnJ1eGxkVW5WdlAtOG5xLWQwMG9HR0dWM1FpSXhqRDA1S3VXM3FaZlk2RTlPM2M3TURfUUVtQS1GSldGdlLSAXBBVV95cUxPNzZkU1hEV3p0dFF5V0wyTkdYLUFIQ25RZDhPT3RjYnM5WDUyZEx1SlJRLVJydXhsZFVuVnZQLThucS1kMDBvR0dHVjNRaUl4akQwNUt1VzNxWmZZNkU5TzNjN01EX1FFbUEtRkpXRnZS?oc=5",
+          "published": "2026-10-29T03:55:10+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "[특징주] 대우건설, 한수원 체코 원전 시공계약 협상 결렬에 18%↓(종합)",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LOUhFRjhFR1JnZC0wZUhicERaeVVpdENGZkRvMk9RUXJ0dUl6d09MU2p0X0VRRkVtM3hXdnJxME52QUNOOUVONV95NFJIaGwxMHZ6QmFvZ3FfNkQ4SFJDTtIBYEFVX3lxTE5LOUhFRjhFR1JnZC0wZUhicERaeVVpdENGZkRvMk9RUXJ0dUl6d09MU2p0X0VRRkVtM3hXdnJxME52QUNOOUVONV95NFJIaGwxMHZ6QmFvZ3FfNkQ4SFJDTg?oc=5",
+          "published": "2026-10-29T06:55:55+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "[특징주] 대우건설, 한수원 체코 원전 시공계약 협상 결렬에 18%↓(종합)",
+          "publisher": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUenZrTnBGaGRJWmZ0VWxXU3dpSmh2NEplREZ1ZE4xRDZEWVl5NXZUTS1IOW90SzNud2pGSGhaZnJ5ZjNtaWMyMWpXWVI4RDFwbUE?oc=5",
+          "published": "2026-10-29T06:55:55+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원-대우건설 컨소시엄, 체코 두코바니 원전 시공계약 협상 결렬",
+          "publisher": "IT조선",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2Mnd0elg5MV93cmJISVItLUJ1SjBIVC1wTG5fYnZGYkRpVzhoQ1JjV0hXOTZCVFJHSk5UUGJaSS1kc21MMUNpSXBCN2FNYmVKZDg0X09BeDZ0cHgyVjNGNXhGampxMkFNSk5FQkpOTHlfQnVL0gF0QVVfeXFMUHYyd3R6WDkxX3dyYkhJUi0tQnVKMEhULXBMbl9idkZiRGlXOGhDUmNXSFc5NkJUUkdKTlRQYlpJLWRzbUwxQ2lJcEI3YU1iZUpkODRfT0F4NnRweDJWM0Y1eEZqanEyQU1KTkVCSk5MeV9CdUs?oc=5",
+          "published": "2026-10-29T07:17:58+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "체코 두코바니 원전 시공계약 결렬…한수원·대우건설 책임 공방 격화",
+          "publisher": "아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8xQXZtR25ocWxUZjZ1RHUzcHhHd1BGY2FlT09POFhFV1Y1d0tTTXhMUGhoalJnZDVjaHc3WVZnY2FHcGlkdWZEWUxkM2UyNFRzME11NWNXSDPSAVhBVV95cUxPMUF2bUduaHFsVGY2dUR1M3B4R3dQRmNhZU9PTzhYRVdWNXdLU014TFBoaGpSZ2Q1Y2h3N1lWZ2NhR3BpZHVmRFlMZDNlMjRUczBNdTVjV0gz?oc=5",
+          "published": "2026-10-29T08:27:52+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "체코 원전 시공계약 협상 ‘결렬’ 파장…한수원·대우건설 '충돌'(종합)",
+          "publisher": "남도일보",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wcGV5ZEo3THpEUGNZbmw5cjcyUVBBc0M4bzdNWjZoRmUwNThUMVBRVUc4Z2o3UUhmdC1KSXpxcF83QVNvMVg0SVRSdUlnZ1llN1FidHRaMS1qM1pHbzZoUkR0WThJS1BfTzNJVmloNEPSAXBBVV95cUxPcHBleWRKN0x6RFBjWW5sOXI3MlFQQXNDOG83TVo2aEZlMDU4VDFQUVVHOGdqN1FIZnQtSkl6cXBfN0FTbzFYNElUUnVJZ2dZZTdRYnR0WjEtajNaR282aFJEdFk4SUtQX08zSVZpaDRD?oc=5",
+          "published": "2026-10-29T09:17:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.503,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Walsh, industry reps discuss “American energy hub” at Oak Ridge cleanup site",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-29/article-8531/walsh-industry-reps-discuss-american-energy-hub-at-oak-ridge-cleanup-site/",
+          "published": "2026-10-29T17:36:32+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.85,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "New nuclear builds, SMR developments in Canada, Turkey, Philippines, Thailand",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-29/article-8529/new-nuclear-builds-smr-developments-in-canada-turkey-philippines-thailand/",
+          "published": "2026-10-29T15:50:25+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.776,
+      "id": 6
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "체코 원전 시공계약 결렬···한수원·대우건설 ‘공사비 갈등’",
+          "publisher": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aeUxXVlJiNFNyNmxndWc5T00zV3phQ3g2Y0hoNzIzNFh0Q01zYVBJOXRkbFpvaVBDZ2N1V1o4NWRWT2pyM0ZacTZiWFlXZktTVkxRV19MclMxd9IBX0FVX3lxTE5ZUE9ZR29LTVlpYVNWT2FXeWZlSW9kSUtaNlFGVDFOdVltYXM3WTNkTUNWRDRTRlpTcDN1YXRMR2U2ODhyVFBYRDFGZHhoclZ3SUlHT0pzQ0YyeFJQWVZN?oc=5",
+          "published": "2026-10-29T08:24:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "체코 원전 시공계약 결렬 후폭풍… 한수원·대우건설 정면충돌",
+          "publisher": "천지일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11S3ZCa0VNLXoyd3ZiMzRpV2FieGtLQ1VnXy12bkwyU2dDbVVSbVJaUnBVcUVmQWtJODdUQUVNNEZua2RvZTlyV0tvWmVTN0o5RVdmbVRuWV84T1ZQLXFmZE44QzRPVnhxanc?oc=5",
+          "published": "2026-10-29T11:12:46+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "체코 원전 시공계약 결국 결렬…한수원-대우 ‘책임공방戰’",
+          "publisher": "인사이트N파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4LW82T3Zwb2pyQ3U4UkV4TjBKcFRnVTFueVdXUnIzaW9vbEdHTXVRYWhMUG5Ca1VxR09HU1BFMFlyNjVPYkJyQUtmUFVBZFFKemRIMFJfYlN5MnVTM2xCNE9Qbm93QQ?oc=5",
+          "published": "2026-10-29T13:44:52+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.689,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Rooppur Nuclear Plant Gets Approval to Begin First Unit’s Power Generation Process",
+          "publisher": "https://www.businesstimes-bd.com/",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfc0tmTXEzZzFycFk3VzE4d2tJU1JpN0FHTnVrbXd2N2xuWE9fanI1V1lQWXE1VEN0UElsQ3hIN0hUblZYMlJBby1XTjgzazZLQXd4UVpGekgxY2s?oc=5",
+          "published": "2026-10-29T12:54:55+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rooppur nuclear plant gets clearance for power generation",
+          "publisher": "The Daily Star",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaGZRS1Zaenp2QWJqSGJYaFhNYWZDYmt3NlNKRFZoUVZUOUhvTnVYeWN3NHc3b2g0WXgzdnFkY0ZhSlNmbzdFbzZwS0JkSkcxcC1OUVY4V3RDZTVtSkdfUnpYUk12T0tpRkg4VDhia0ZqVmUteDZ1Q0xITVlKWVJMUDBMRjd5VHhMQ1h0YXh6cXVEQWctR2ZzWW1WOVVnanhza1RZbmFtQ05iUjJvOE1teUcteENtUTEw?oc=5",
+          "published": "2026-10-29T12:55:59+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rooppur nuclear plant gets approval for power startup",
+          "publisher": "Daily Observer",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBWdXpmWDJ1OUhfcE4tbmd3eDJHaWZLYm5Ncmc2aV9takdnR21rZzlQVDhqTkV5V3k0cnJ6WndXZDkwUGZUT19pa0hn?oc=5",
+          "published": "2026-10-29T13:39:59+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.686,
+      "id": 8
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "26조 체코 원전 ‘팀코리아’ 시공협상 결렬…한수원, 새 시공사 선정 추진",
+          "publisher": "중앙일보",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0wSVZQdXlvcUVYUEE5V19mNU9lT2NSbXlLYXhodzlrdlpDdEZiNGlEQl9MQjZSM19WcnVjaEZWaWJuZnByWXdWNVZHV2JLVUlNWng1WWFn?oc=5",
+          "published": "2026-10-29T02:04:05+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "체코 원전 시공협상 결렬…한수원, 새 시공사 찾는다",
+          "publisher": "매일신문",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91MnVxcjBhYUVGU04xanZNRHNnVGdfS3ptOGYwZjNFZVQ5OFRGUkZrU0FVTDhqX1RjVnhYVUxHa0dRdndwcUpSZnltX1dCMHN3RFN3OTg0SGFLX0ZmdjVHNmd3?oc=5",
+          "published": "2026-10-29T07:19:38+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "체코 원전 ‘팀코리아’ 시공 체제 흔들…한수원, 새 시공사 선정 착수",
+          "publisher": "https://www.sisaworld.kr/",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzM2dDZENQUDZUa012eU04V1M0X2p5SkJHcTRLZkVtMmZ1OWhwbC1IVzcwOW42aGp2NldOMGhPUGxKdEJvOGltSHNWZUhqM294b2Y5Y1ZGcTU0R0FhU3dDMk9ENDVfZ2xPTUE?oc=5",
+          "published": "2026-10-29T13:02:43+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.66,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Germany narrows search for radioactive waste repository location",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/germany-narrows-search-for-radioactive-waste-repository-location",
+          "published": "2026-10-29T12:37:59+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.642,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Daewoo E&C and Doosan Enerbility plunge as Czech nuclear deal talks end",
+          "publisher": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZk9oM29ybHdTbDVldmVuMmhydDkxc19iZWV6Ynhma18wNGFkaC1LbEZCWXN2ZXNDVDZrcTc1bm1ZLTBMQjd2Rl92V0N1bkhqU01Zel92MGNQaHRWZWlIem41bGp1SXpJVW5zZ1U1ampvNVZVVDdOZUwwdkhxMHl3UNIBlAFBVV95cUxNdzVZc2IyUHlwSVU5WG10eHdrNjAyeFp4ZnhveURPa0FXTi0yYkUybXlBUmN1aEhrR2NLRnRucGpPdDR3UVVBeWhPSXlfck1xTWxqZnVpZzZ3T3RZYi1NRzZQLTRKcmZHQnNERkVOSHpwY2hTU2lGU0RJYlo1ZFMtY29CQU1OZlZha19KNEIzLTllUDdJ?oc=5",
+          "published": "2026-10-29T00:56:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Doosan Enerbility affirms Czech nuclear supply deal as KHNP ends EPC talks",
+          "publisher": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRUYxZ3g4RjVhWVVMNVM2NEluRkFVOHM3Mkxnd3VuTEw1ZUxveHhWOXd2RjBxU01BaU1LZERTbFpnNlVfR0ZGTHhDc25TalpjQ3B4emE0dW1HUlNpNDJCWXNoYnVuMGItd3Q1NXBFUWUweTRZdEZySzlYVWpTWUxkVGZn0gGWAUFVX3lxTFBReUFsbVZSME5HU0lNSTZVS3E1cnd0V3RpVmRNQWhVVElNWGtDRW13aVBhSElTQXlsbl9mcWFZOXhtMXFqdG9LLVdEZjJEVnRaYWh1eHF6dG56c1NMUmx3cFpxenk4YXRhdnU2QmdDRnVHRzJmZVBLU3Iwbm02UU9DM0FPZXNrc3ZzTUdUNS1TNlJGV252Zw?oc=5",
+          "published": "2026-10-29T06:58:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Doosan Enerbility Keeps Czech Nuclear Supply Deal Despite Talks Collapse",
+          "publisher": "THE ELEC, Korea Electronics Industry Media",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14OVhxZ1dvRkwtYjBIZ2V3ZVhEckJURUJuSWVrazdYTXhKM2lOczJLNXlvd3RtdW9tSm5CRkxudkZHRThwZ3ZDQjlXaW5JU0lNQmc4RmU0eldwVWg4bVBYcE9VNTZsSjA?oc=5",
+          "published": "2026-10-29T12:37:52+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.642,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Antares, BWXT in TRISO fuel procurement deal",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/antares-bwxt-in-triso-procurement-deal",
+          "published": "2026-10-29T12:17:55+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.629,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NN asks: What is the role of online monitoring in plant maintenance?",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-29/article-8408/what-is-the-role-of-online-monitoring-in-plant-maintenance/",
+          "published": "2026-10-29T12:12:59+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.625,
+      "id": 13
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원-대우건설·두산에너빌리티, 체코 원전 건설 시공계약 최종 불발 - 머니투데이",
+          "publisher": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03STFHaF8tQmRjM2lxcFJDZ19xTGVQNGhEVWhyd1dsRUNSNGU2RG42Znlia2ZFVV9VSXliM2ZyVFBYTVg2NnlNZTUxanpabzl0bUctSjNzbVFWSVI2dEpId1k2bHZ6cGZPeU1z0gFwQVVfeXFMT1JITE12bUJxYmEzOEEtQk81Q0JmYVhHX01tMDB6M0hUOTFHZEdQRmNqWXNPZjRMa0hpNHk5T2hCTnZGMFZtUUtiRmxKYjFVVUpoVG82U1owbldYQWp2dkEwQzNaNG1YekVTSXF5UnBDTA?oc=5",
+          "published": "2026-10-29T00:20:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[특징주] 대우건설·두산에너빌리티, 체코 원전 시공계약 무산 여파에 10%대 급락",
+          "publisher": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1JUOTdFcGdxUFdmc0Ftb3ROcElDZE13REc1YnpYZzBjdjYwcHUydU9UbXN0WUU4QXVpWWUzeDdxVTQydTN6eEZMQXd5d1RpZGZZbm1IVERPY3JHeXZaYks1UmlNcFMzaS1Wem5IcndCVTUzRHlfTEdIREtSSGpJT3YzY0FZVk5Q0gGcAUFVX3lxTE1BdTdza3VNQ0F2QmlkUXJmVEhQRFFPNXJFbmU4cTVDZkRCOVBiWS0xT0RPRjJiTk82TWI1X2g5SGtFX3NkaFFZaExJX293dkY3cWxyMEZScDBMMTNOSjdPRmMzSzR5S09SdE9TWDE1cWtEY2twOEpRd0dMZks3c1ZyWXpqTjBGSUFtNjZxeXAxc2V1amNyMXhsVmxoRQ?oc=5",
+          "published": "2026-10-29T00:55:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 대우건설과 체코원전 건설 시공계약 협상 불발",
+          "publisher": "에너지타임뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xODFPY1E1YjJDUWZBc0tUNEV2dEowTUZWSnlWZ2QwdEVodklVVVhXYURhd1l5ZDg2WnhHbTc2MHpVa3pqREwxMGVSZFAxOUdIeThGZ1lQaVdpUVp1MFh3LV9MeWk3WjQzQTNleUl5RTBaUdIBdkFVX3lxTE5ybW9RQUFLdTNKdjZWRzRZdzRXSmdkUVA2ZnBjNDhxLXBmNEdjdGV1aHZzVWdBM1RxemNpVkxZdjZIdDNjUEdDWHI2elJNbjFyaWJ2YlFWYnJKUjhOZ19PQlZYQTJPUXZJWVVFaHhwQUZqZUxZX0E?oc=5",
+          "published": "2026-10-29T12:08:27+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 2.622,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Westinghouse to conduct key study for AP1000 in Slovakia",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/westinghouse-to-conduct-key-study-to-prepare-for-ap1000-in-slovakia",
+          "published": "2026-10-29T12:08:00+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.622,
+      "id": 15
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Sisi, Rosatom chief discuss progress at Egypt’s El Dabaa nuclear plant",
+          "publisher": "Egyptian Gazette",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR0hqZS1KYUwtbGVSQU1xWXVwbFNvd29aZGo1aER2WFYtT3ZGLXh3emlzeENjUk5LUzhUeVJrUEQxUVJXakpjZk14ZXNYcGNpUlpvVzhCXzc4UVpkZEluYy1pUGFPQ1IxSjNaR3ZPY0tWc1pIVXZneVoteEl3WEVTSVozejRESW9hSnhURUVxX25uSFdZQU0tMFJNd2I5U3JoT1A3c1VEYw?oc=5",
+          "published": "2026-10-29T07:49:54+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "El-Sisi reviews El Dabaa nuclear plant progress with Rosatom chief in Moscow",
+          "publisher": "Egypt Today",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbFZqQVFSN01NYWZzbDVwcGt6bkowbDdldVRBNkJIYUpjOHoxdnA0M3hRSVlBcnExX3phTnFOc2VsZUZqQ1g0YUFTR2NHd0FpbHNHVE5LYjJkeExXeXU2U0o1ZHRyb2Z0aEN5N0hPOElqdjU5VFo1Q0poZjR2SFZPN0RHT1VMVmczVEYzaTdaQzhSbEpFYWtpenRxc3NuWFo2Ml92OHlrRQ?oc=5",
+          "published": "2026-10-29T10:46:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "El-Sisi, Rosatom Director Review El Dabaa Nuclear Plant Progress",
+          "publisher": "Egypt Oil & Gas",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWk1EZTRGSFpwc2JSMmVLRGwzampSc2prOHV2MVJMQVB0cF82dHlCWnFFT0FlazJ6V0ExR3l5S1ptY2lpWHoyNEJxZkhRdTdoVXpmcFliUEpjZUxHZkppTHpwRm9JMEYzVUc1WUp3TEtlVHdWcHludEV4akFtUDFjYUdfamh1Y0VvWmtkYnd3QkpEV3dXWWExUE9B?oc=5",
+          "published": "2026-10-29T11:56:47+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.614,
+      "id": 16
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Turkish oil refiner to consider SMR deployment",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/turkish-oil-refiner-to-consider-smr-deployment",
+          "published": "2026-10-29T10:45:43+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.565,
+      "id": 17
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "[Breaking] KHNP, Czech Nuclear Plant Construction Contract Talks Finally Collapse",
+          "publisher": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtUWJWeFFDaEJialNGSlhKYndoU3Z0NmU4TWhYQXlNQVJXUkMtbnVZbmptT3d5VVc4NWJzYWg3RUpwQ1hBdXRRUFZHQnVzVDhlWlpZNkVpcjJmLUVFOVl5eFhSTEQ?oc=5",
+          "published": "2026-10-29T00:29:48+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "\"'27 Trillion Won' Czech Nuclear Plant Construction Contract Talks Collapse; KHNP Parts Ways with Daewoo-Doosan Consortium (Roundup)\"",
+          "publisher": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFQkVDczlmemprNFVEMzYxdEw1NEtfcU9LZ0FSbnZrRWppQlVBX3AzbF9qNHFHX3JwdzFEOURBR0RJYVJ0Rzg3SEhWcWdpUWgtR0ktaVlzVzJhTTB4bDVfOTFaZDM?oc=5",
+          "published": "2026-10-29T01:11:37+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "KHNP: \"Dukovany Nuclear Plant Construction Contract Talks Collapse\"; Contractors: \"Unacceptable\" (Comprehensive)",
+          "publisher": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wYnppQTczek1aWDNyMnpvWlBwUEFSaF9rZnl4RzZvbmJnb0ZFbFo2bzlKallBX2ZMa1hOMWFrSldHUzdPSzlrdGVWYktXbkdReURVdG4tZDduQXFaenRKT1NoSU5rdGdqY3BVZ3VLeXFIWF9iSC1JZ1h6NA?oc=5",
+          "published": "2026-10-29T06:12:14+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.375,
+      "id": 18
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "S N Nuclearelectrica S A : The Cernavodă Nuclear Power Plant remains, currently, safely shut down – against a backdrop of forecasts that are still volatile and unsustainable",
+          "publisher": "www.marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdEpMUHhKZUNOeUh3WDBCZTNWSUZKRm5JQVVsUEhJSF82V3FuRmhpbUxGemtETWY1Y0FsbWlOQTRIdjdqeGxhaWI0eHptYXVMb1NIUGp0cVJPOXZPNnA2UWM3S0d3U0ZzOHBNR2FDNWExaU0wbk1SNTJINGQ4TDJiVmZJaC0xWkxreXNOSlZzUXpVY1lUN1hfZFQ5LXpqTnZYZkRCRS1jQ09sTEpNYVVHLVluSjZ6WkZxd1g3My1aZV9COTAtT0dCX2J4bGIza3ZBd3JQbVFwOXdfMlh4VlJudU9R?oc=5",
+          "published": "2026-10-29T15:53:10+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "The Cernavodă nuclear power plant remains shut down / The reactors cannot be restarted because of the Danube’s low flow rate",
+          "publisher": "Informat.ro",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQjdZQ1Y4ZjdBY1kzNTRkMHcyUkJrWm5WQVB6RXgzbkpiTllBMDFXOGFoeHN0U1FSb3R3eEF4ZUh2OTlwZ0VDWnlFUTJrZ2lWUUJoZ1Z4LVdZMVZ1azd6cUt3Qkk3Vk00WlV3and4LXJidUVqTXZMejAyQXZTR25wQkpmVWZLUFloTUs3U21XNEJZTjR6elU1X1I4WGI5Sy1neFRxdDcyQVcxVnZ6clFF?oc=5",
+          "published": "2026-10-29T16:01:39+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.784,
+      "id": 19
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Ghana, Rosatom start talks on country’s first nuclear power station",
+          "publisher": "Ghana News Agency",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOenllMHJKSGN1MTE2S3lxWi1EZDU5MW5ZVG1ZUUVnMkh1enFxUjlSMlJKdGdwSy1sWVpvRUNzblE3RDBMd194U09aX0dyRFRCSGxmN3JvUzU1dmdpR3hmMG9HcmF6LUlPeEx4RDZhcS05S09lTXBobTNnRUNaOGN3NDBzTkpzNGpfYjFFcDIwSWN2d0dFcktudQ?oc=5",
+          "published": "2026-10-29T13:46:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Mahama announces talks with Rosatom to establish Ghana’s first nuclear power station",
+          "publisher": "Modern Ghana",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcDJvX3dha2YyNkNmVC1paS02Y2dRY2RnZXB5TEZjVjk5TFZoX18xLTVoQjhmXzBUQXBDTG5TX1F5QUFGcVNxazd2RmNERFJKSF9QRWtHOWhPR3Z3ZjFtMHBSdENDLWhGZVZzMXZETEN3WGp0bGlMYWg1Mzl2aHhybF9NWUsteFd5aFlKdUdoajhELWpWSVBpNGpR0gGYAUFVX3lxTE95Vl9kNVZRTFBybm9ENjdEa0JPdnNWX3ExWm5RRzBndzlBRUZCaE1WNzJjMHFuVXZaMm5EUTBkWXF3RXVKdkJiRzkzbkJlcHdaWlFSVUlYRVdFNldxa3dPdW9CWWhINXBWUUtCYnR2U0c3RTd6U1F2NjlDV2hqQUN0MGluM0d0RVRtS1k4eVk1YkxQeXBVdXFp?oc=5",
+          "published": "2026-10-29T14:42:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.729,
+      "id": 20
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "후쿠시마 원전 주변 어업 자제 해역 축소…반경 10㎞→7㎞",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oR284RC1ObHh0aDJUUXptaDBqYm9Balk5X2wwQXY5SWcxaldLemFjTzA0VFVnU2djelpoTGNfdkNKVnk1WTFHUVI5b0JybjFPVkVXS0FXamJBR0XSAWBBVV95cUxPUFFqbFpVQUQ2YmlndDN0Smo3ZDNXQVNpX21MRElkLXZhbXhxdU01YnNJOHJmNFpBZmdnd3pkNHc0WDdQRGZ1QVlxczJXc3ZyYWxlWENmVldlNzhnRUgyZE4?oc=5",
+          "published": "2026-10-29T13:19:46+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "후쿠시마 원전 주변 어업 자제 해역 축소‥반경 10㎞→7㎞",
+          "publisher": "MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UYUhRZG1uSFZmTW5fZkpSNmY5VEJhLVNzajZFRzR1c3BCbjI4dGRNb1hnbGd2cDY4MlBTU3VQUGloejBzUFpLWXRjbHYzTk1HOXl1Zl9XMUpaWXVMMGVpYnQ4TFFuei16U1l3a05ESTZ1dDNp0gF0QVVfeXFMUDNlaldKcmh6Q1ZSN1Y3eV9tOVAyU01UcHprSFZqeFY4QlJvckhUYzBod0diSmdKNFNlUzQ1WnZod0hHWW9YdnFGRUswWlUxRzVFQmQwUzNUTHFHWXN4djRVMjNKS2thdVZxY2lxRGphMUNFNmk?oc=5",
+          "published": "2026-10-29T13:33:34+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.681,
+      "id": 21
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "K원전 ‘원팀’ 깨졌다… 유럽 첫 수출 시험대",
+          "publisher": "서울신문",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fc1paVGFOYWJWVXFxQTFINzZtYXdyN194dThfNzVzLWVqVlg0SjMtUm5QNm5xU094cFR2WWR3RG9qU2wtOUlCOWtNdlZoeE83dFFiaUlkXzNFcGdRX1NiOXRtTXBSY0liZXN4aFhXZw?oc=5",
+          "published": "2026-10-29T09:10:53+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "K원전 ‘원팀’ 깨졌다… 유럽 첫 수출 시험대",
+          "publisher": "서울신문",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Qcng5WWNIRmdzS2d2ejl3S2FSeVI2MWFsSDR4VlQwcjREVGFnTU04UTlQaEpXU2o1RFRXeHMxYTlNbXNnVFYyQ3RGcmN3bjlqV1NOZmhPYXgtT3duNXJOckFNT0x0aHFldjgwMk1Caw?oc=5",
+          "published": "2026-10-29T13:05:48+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.662,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "김회천 한수원 사장, 중앙연구원 실험실 안전관리 점검",
+          "publisher": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PUmVRS3l2cHVqVC10SjBKaE9FU1lWSUdEOXVCVVJ0ZWdsQkVyWXozMWpOLUZyakhJWC0wa29qNlhEa0thSjZYUThpUDBJeHFObU9wU3Q2ZXEzeTFKWEVHVU96MDA1elFXemh3Mm9fZG5JXzdQSks00gF3QVVfeXFMTk9SZVFLeXZwdWpULXRKMEpoT0VTWVZJR0Q5dUJVUnRlZ2xCRXJZejMxak4tRnJqSElYLTBrb2o2WERrS2FKNlhROGlQMEl4cU5tT3BTdDZlcTN5MUpYRUdVT3owMDV6UVd6aHcyb19kbklfN1BKSzQ?oc=5",
+          "published": "2026-10-29T10:26:09+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "김회천 한수원 사장, 중앙연구원 안전점검…\"기본·원칙 준수\"",
+          "publisher": "국제뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01d3NubjlFMmxCWkdyYjJveDhZVDlqSWJ4Q3hJRkpkZW9LRkI4ek5UeUcxSGNEbkhHZUZLZFl1aS1XOFQ1dUtHRy00Tk5QZVUyTlY5TEVtdlNBLUw5Q3pwcGhXZWh4VHJveVVfY0J3?oc=5",
+          "published": "2026-10-29T12:19:09+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.629,
+      "id": 23
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Daewoo-Doosan Push Back on Czech Nuclear Talks",
+          "publisher": "Businesskorea",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ybllKNU5ISjUxWXZJN3FVX19XV1gwajU0QUcyNWpUbFhsbldISmdiWm5zX1ZmLVZVLWZ5bFUtTE5MTlJ1UllMc1U0V2dYLWNQanBTcmpyV0lTWE83NHdDQzdZRFNITUx6dW5LNjEweWZ0M3gy?oc=5",
+          "published": "2026-10-29T03:54:12+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "KHNP ends Daewoo-Doosan talks on $18.7 billion Czech nuclear plant",
+          "publisher": "Korea JoongAng Daily",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMjEtdFExTFBVSVd0WFZNZWwyU0x4S0dlMmRseDA2MmlZWDduUk9VNFJPR0tBTEhFenhGZmt3Xzh4aHgxNVJsOTJxcU95cmZiVXpQbV9DMkhlbWtZWmlBaVdfcUdheTBtMmpKUTRLdnZpTURsanR3N0ZUZDFvRmtVNmJEbzhYSFhVZUpZS25lNFlWTmwzOGFNRXZEUi14T0VBVzFyV1JDSWFmWE9hYVE4dEV3bGhvMmc?oc=5",
+          "published": "2026-10-29T12:11:25+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.624,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[일문일답] 한수원 \"체코 원전 시공사 교체 큰 영향 없을 것\"",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4UFNsSXZEaFhLdzBVd19wc2RZblE5T2g2OXFkNWVHbTU3d2JBUzdwYXpPcENSS00yaDM0ci0teGU2RWgyVGRBcjVrSmZ6MXlpeGY1Uk1CRXc5UElmLUFKTNIBYEFVX3lxTFB4UFNsSXZEaFhLdzBVd19wc2RZblE5T2g2OXFkNWVHbTU3d2JBUzdwYXpPcENSS00yaDM0ci0teGU2RWgyVGRBcjVrSmZ6MXlpeGY1Uk1CRXc5UElmLUFKTA?oc=5",
+          "published": "2026-10-29T10:51:03+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[일문일답] 한수원 \"체코 원전 시공사 교체 큰 영향 없을 것\"",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oQ09rM1RKQ3doeTVGNmZTY2F3ZE4xcF85N2NRQjdBSXFMdU8wV042U0FQU2NEd1lvLXQ1TDlDcWlLTlF5RGpvVzhIODBRRVMzRjJxdnp2OFRfNGs?oc=5",
+          "published": "2026-10-29T10:51:03+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.568,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "62개국 모인 IAEA 원자력 장관회의 폐막…SMR 상용화·재원 조달 논의",
+          "publisher": "문화일보",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TR2ZRcTZRN1R1MU9xVjF3NU1JbWVrSEpTWkxseldzUTRJN1VJRUY1ZG9uVldiRUhteVdsWlQ4RzJIWUU4MW03M3F6eHNWb0Vz?oc=5",
+          "published": "2026-10-29T07:31:30+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "IAEA 원자력 장관회의 폐막…62개국, SMR 상용화·안전 규제 협력 논의",
+          "publisher": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DbWZacmxsQVllN25TZTVadWlNQUFTbVA3bzV4OElKUWx6b0s4dGk4Q2h0WVEtQ0V3bXc3RnRfUnpzYlh4eEF4MjZMMHhGbFRKR1lpenlWX3JGVlE?oc=5",
+          "published": "2026-10-29T09:41:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.52,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "깊어지는 체코 원전 갈등…대우건설, \"한수원, 조단위 추가공사비 40%만 반영\"",
+          "publisher": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DampzOExQNU1aOE9TdUJlV3UxdXI3RklQY2l0UFI0amRKWk1ERzZtSjFHMzFHeUdJQWJ1bVQ5ZnF1XzNucmdKR0lLSHE5N2hXWmFHTkY3R1V6Q1JsX0RKSmdfSDcwRlFtTWt6cDlTbmI?oc=5",
+          "published": "2026-10-29T09:24:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "깊어지는 체코 원전 갈등…대우건설, \"한수원, 조단위 추가공사비 40%만 반영\"",
+          "publisher": "KB Think",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tYV9vcTg1amNPdkVZM0hTZll0RXV2M1UxNm5oaUNXQTM1TTdMR045TVdpSzJRQTN6ZFJlQk9FbTZrdDQtakcwY3c2TkhLMFktY3Y1a2RWMXJvZzk1UEc0aXNHbWt2aUo5TVprVVh5c09uUQ?oc=5",
+          "published": "2026-10-29T09:24:25+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.508,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "예고된 '한수원·대우·두산' 결별…26조 체코 원전 '차질'",
+          "publisher": "뉴스토마토",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wNUxRWkdBRkRKQU1iWmZ5a3RsTEJDUEJxWm1LdFhaQm50VWEzM1dqX05rSjdwVU5sNnBpY2ZQQVM1QWdZRmstcTlNcFlhUFpPZUZhandyQldvbzF2VG9kQw?oc=5",
+          "published": "2026-10-29T09:13:06+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "예고된 '한수원·대우·두산' 결별…26조 체코 원전 '차질'",
+          "publisher": "뉴스토마토",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02U0FTM3pQR1hSUlBpSm9TNFpqbENJNVQyb1YxOGIwZm9LOWw4Vm1xOGRjc0pkTm80NVRSMEhVMGx3REhOTE13SEZLYWF1R1dnOVpUdUlJUnNMS0FoN2V2SA?oc=5",
+          "published": "2026-10-29T09:13:06+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.5,
+      "id": 28
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한울원전 4호기, 방사능방재 전체훈련 실시",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE56QlBNY2FCRDAxaGNtdi1oZVRCLWw1UDhWTy1TSXFZYTBhMDBrNTFqRThNeUgtb1NLdTVydG5wRF9hXzc5cWk5NHBVRVFFREM5eTlrRXNnUjF6Qlh4UWpESUZydkdLcGVyMF9fekhuZGNnZw?oc=5",
+          "published": "2026-10-29T07:17:51+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원(주) 한울원자력본부, 한울4호기 방사능방재 전체훈련 실시",
+          "publisher": "경북도민일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wRk1EQUpSQWtkaW9OMUpxWXR1dWhQUnVOb3lfWFZsaGtJZDZZWVJXSVhtUHRwOFF5eTlJSUI1TWxzZ1BRMDJ3dzgwamhCNHRxV0lUMlVyZ2tlbVkxdGhJcFVnYmFIWTFtQWc?oc=5",
+          "published": "2026-10-29T08:38:04+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.476,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 99
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 100,
+      "kept": 80
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 100,
+      "kept": 90
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 45,
+      "kept": 5
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 3
+    }
+  }
+}
