@@ -1,0 +1,611 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-10-31T20:02:19+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Russia considering floating nuclear reactors for African countries",
+          "publisher": "Al-Bawaba",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTnJfODE4NjFiVGpJUjZuRjlfSWlZZ1lscUQ2ZHJPbHlpb3UxQmw5SjlfSTZxLXdJd21MZXZiSG9HODRXMERfSEFVdHI3MmNNd3p5UlhwWDB4MlkwM1o0dXJ6QndNR3k5UENYQml3RlcxSUJLMTRYcGM1WDhlOUJpWTVHcw?oc=5",
+          "published": "2026-10-30T20:26:49+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Russia discussing floating nuclear power stations for four African states",
+          "publisher": "Arab News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTEJWNkZ4NnM2NDNaUDU1S3VwNzRtYXJqODdlSy1uWjZYVFNFTmZYQU05ZDZ4Vk9yVkUteUxNa0NiQ3hoamNBdmxweEVzbXprS2c5c1FBZmlLVnVLaEw3OTVXRHRxTEVrSW5UaWd3S0pQNjdEUUFWQ2kybk5jc1lLNC1GRnhfQlI3anE4dF81bmdDeGhWYU1LeS1RR3Y5QkZZaExtdjZhUXJ0ckR2ejJXbzZR?oc=5",
+          "published": "2026-10-30T22:37:07+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Russia’s Rosatom Eyes Floating Nuclear Power Projects in Four African Countries",
+          "publisher": "caspiannews.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdVF3VDFpcENETXRtNU5HbUlGbnM3UnVlVHJKLS1hSmZqQTdkTXBtOUlGeUE3NjBKcTNob2NkMDRlQ0oyd3ZCMUZ2V2szY25VUDk2LTdiTDVaeXBWU3VmNXNOT0JGX01OUWc3STI0azU5ZHhLdE1jVjZUMEc3SnhlRGFUbVZFQndValZrLVFaSHA5WkhIbzhPVVVaWi1VSDNQWk1hWU96eDNKZzdUcHdDejJhZTVfcWFYX1puYlU3YUVnYjVJal9KSw?oc=5",
+          "published": "2026-10-31T18:58:56+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.956,
+      "id": 0
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Ghana in talks with Russia over large nuclear power plant project",
+          "publisher": "GhanaWeb",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRUR4aGVRbTIwNXBxeXYyV0JCa2ItTUJyMnJMbVQ5LXRyazlONVVMdlplQkxQdk9nZ19iTWtyaWlpN1A3SjRmS2V2SGc3QUJHVGFMYTNmZjBFcS1nU1VmcThNWkxDWHRYQ3loZ3dkTURka09qUUgweFlpSUxWWklZRFo3R29CY2hxOVpUbzJGcnBDN2xWWGd3S3ljVmxDX0ZtRnI5WXZHU0NmYkcta2JTNmROV2VUd3JoVXRoSHpVWlNrdENlamF2ZG5VSQ?oc=5",
+          "published": "2026-10-31T02:40:01+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Ghana in talks with Russia for first nuclear power plant",
+          "publisher": "Africanews",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX1dPZVRVWWJCZjZIMnlrNUl0aHYyRkRJWmRBdE15Mzk3TEJtWDY3ZFlSbWZpTFEyVzRJbzBpY1UxMHRCZ0ZnWjVQaGE3S0tza25yQjNUczFuaVlXT0RjQUNWQ0MybUxwMjJhUXBGcDRmMFFHVUd3YnpYLWM1bFRxblNIMk01LVRoemt3dWRWblJydXNyRGJCUUJYRGFidEdv0gGgAUFVX3lxTE1fV09lVFVZYkJmNkgyeWs1SXRodjJGRElaZEF0TXkzOTdMQm1YNjdkWVJtZmlMUTJXNElvMGljVTEwdEJnRmdaNVBoYTdLS3NrbnJCM1RzMW5pWVdPRGNBQ1ZDQzJtTHAyMmFRcEZwNGYwUUdVR3dielgtYzVsVHFuU0gyTTUtVGh6a3d1ZFZuUnJ1c3JEYkJRQlhEYWJ0R28?oc=5",
+          "published": "2026-10-31T07:35:14+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Tanzania among African countries in talks with Russia over nuclear power projects",
+          "publisher": "The Citizen",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNM0JjNWYxa3FSRElCLWFmZzkydU1BVUY1OEtVNnh6ZVdFeUpuMWE2VWJxdzMyekQ5SVA0cWdoaWJ6U2hCc3ZOZkFzRUZpQTh1VHBxZjIxZnFCMXFiSXpKTWFzSmJOUGdNMXNsMXJ1VHpveW5COHdQSlRwYWdwQmVsbjAxc0ZZYXpqNHVkYjE3Ym1wU1NZWTNjNjhzbzVZdGdtM1dSMndIM0sxMlhRdW1DWHpKWk5IaHh6aS1lZHVRb1dSb0lIVk15c3FPWktrUEhzQXlmSC16LWdRV1JPZDdj?oc=5",
+          "published": "2026-10-31T15:53:52+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.827,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한울원자력본부-15해안감시기동대, 대드론 원전방호 ‘실전 연습’",
+          "publisher": "한국원자력신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3ejd6UmliSTRDZGJUNExHQzJaRDdDbGRSZWxHd0ZqeG9tV213UEtLS3pLemdzWENhNnlCdzRRblRfRHhRLTJXOXZCLWZwR19Hc3FEMEM4eTFCRklLYllBb0VMUG5VTWR5MnQw0gFrQVVfeXFMUDd6N3pSaWJJNENkYlQ0TEdDMlpEN0NsZFJlbEd3Rmp4b21XbXdQS0tLekt6Z3NYQ2E2eUJ3NFFuVF9EeFEtMlc5dkItZnBHX0dzcUQwQzh5MUJGSUtiWUFvRUxQblVNZHkydDA?oc=5",
+          "published": "2026-10-31T02:23:48+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한울원자력본부, 15해안감시기동대대와 원전 방호태세 강화 업무협약 체결",
+          "publisher": "경북매일",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41RGlYUUFJc3BibU9vYks2NGhlNWZOSXhkWEpXZEFzSFR3aHlhMjljRndzSVRqSUxlX1pIZ0NzRDZNbksxRXBPbDBoOUtzNll5Q1dJYkF4MjZLdw?oc=5",
+          "published": "2026-10-31T04:39:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한울원자력본부·15해안감시기동대대, 원전 방호태세 발전 위한 업무협약 체결",
+          "publisher": "헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uaUxrWnAzVWtDZmR1Yk1LNE0yaE9YVU1FMGdET25FZHZ4TG9iQnNkdXBPenhaa3dqTmNNME9KYWsxenBtelZoSkM2WkR2OVd1RklnakR3?oc=5",
+          "published": "2026-10-31T05:29:31+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.394,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "How D.C. Cook built a culture of excellence and continuous improvement",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-30/article-8414/how-dc-cook-built-a-culture-of-excellence-and-continuous-improvement/",
+          "published": "2026-10-30T22:01:36+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.083,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NRC finalizes rule setting time limits for contested hearings",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-10-30/article-8546/nrc-finalizes-rule-setting-time-limits-for-contested-hearings/",
+          "published": "2026-10-30T21:00:21+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.04,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Ghana says Russia to back 2,000 MW nuclear plant, deepen ties",
+          "publisher": "Internazionale",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUDB2ZmVXU29ZOWRhb3B2QXRvb3hNdXZzQ1g3X3ZzODVqd0xCdkJGa0JDSHVTODlyUWpLejBELVpoN0I4bmZCWXNob1NlWHFvU2hRQmxMc1NFc3dDVGdQTGhYMlRPME5UaHp0RWw5TnJhajBHUldOSGFqN0pFSXZBRzNIZGhoUEFpMjBHU1ZYTmNtQjA4U191aUpqZHpENEhkZjlzWkliQTFCdlNLUzNqMHBkMjRMczRvSlNPd1RkX3RUQQ?oc=5",
+          "published": "2026-10-31T19:44:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Ghana says Russia to back 2,000 MW nuclear plant, deepen ties",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVEU1TzJ6c1lISFlURGdCYlJscFltNmo3ay1SblgxNEtKU1lwcEhEcHZpMjg3TWE0VkVrdEtwSFF0dzhxRExVdUQtZTlkU2pENWpTRkdER3FHWEk1RzNRdFA2QlFVcmdzWWNSZ044MjNBejRPeFFNX3dwRUItTXRndW1UaXJxdHJkcThxUUtsVFo2d19MdFZVbVJFM245bW9iSEZwZENCQWk?oc=5",
+          "published": "2026-10-31T19:45:43+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.989,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Ghana: Discussions with Rosatom for First Nuclear Power Plant",
+          "publisher": "Bénin Web TV",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSEdaZWdFS0hSSER5blBNNlp4OWxjVFlsYnVSZVZyQVd3YmJfeEpvWVFiUzV5V1lYOVpKakFKLW4xeWtNbENtTVcyZDdXZmtqOElYMHVNX1Nhc01qUVg1R194dk5NbkdQTk0wQXNvdmNpTVBKaFpOSUFiNEh4ZUIweUtaRUxEOW02SWROdm94Yw?oc=5",
+          "published": "2026-10-31T14:18:25+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Ghana: Mahama announces discussions with Rosatom for a first nuclear power plant",
+          "publisher": "beninwebtv.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT1lOZFRsTVhTMVh6bTMxSzJMNE1NbTJKUjYwcm43TEFYMmFvQVlSYk5FNEs1QndzQm9LaWJ1OC1SMnNjelBVZzlrZUcyZlVxNXdKZGFZSmhPdTBkdU1PdGI2Um5fZGRnTGdGc1NrbGpuWDVrVWhsLVVFRGJSX3Nxd2JXdXFPV3ppNFBYRnN6X29sUldNMHI2RTIwZWo5OEI1Z1FRWjU0VWQxdw?oc=5",
+          "published": "2026-10-31T15:18:53+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.803,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Rosatom in talks with Africa on floating nuclear power plants",
+          "publisher": "Around Prague",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObGJDM3pmY3J1VDBxaDlUTzZxTDNqM19sZ0RzMm1GdkJUMjZ4NDZaMVY0VjBhMEtoZzJTLWdERFBadWtwQ2U3NTJIcE8zWWJsdU5faFpMU20tODQxQ1ZLME1hZWUxOFkzUW0tTnd4Vkc1WExIU1ZNVng1bkptdW4tRDQ1bVVyMjhKN0hJM0wwTm9uX0JxVzFjZkNUTzFMNUNWc1htUmZ2a2JvVDFycjE4?oc=5",
+          "published": "2026-10-31T02:05:13+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Russia in talks with four African states on large nuclear power plants",
+          "publisher": "TRT Afrika",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aeVV0VU9iOU9oSG1wSk9FVDJhNkdBUUZSOHBMR1NZMUVqbGVzOFFxc0F5X2laeUNPckNFS1Z3ZE96b0pQcjdTWFM3UmVxYzZMeUxzQnNvelpDUQ?oc=5",
+          "published": "2026-10-31T13:22:59+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.723,
+      "id": 7
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[속보] 두산에너빌리티 “체코 원전 시공계약 협상 종료 통보…기자재 공급계약은 정상 유지”",
+          "publisher": "CBC뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Od0JvdS1LWnBZSzdGOElES0RQYWpqZDR2ZFV3eGZLeGx4TWhQVkNGUjY3ODc5b2g5czJKSjAzUy0xUm1VeEVIYzNYM2ZoS0hNSFdIc0p3OWhwRU52VWFwT0RpSkhyQXZa?oc=5",
+          "published": "2026-10-30T23:10:32+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "두산에너빌리티, 체코 원전 시공계약 협상 종료에 해명…주기기 공급계약은 정상 유지",
+          "publisher": "CBC뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfVmprTVdpTFhuSFFPV1dfNWI0M2FnbWJBbzJfM1Vqb0t6MlRUTHNHSTQwYUYzM2Z2Y2xic2tYR2hLQXg4R0VHWklZSnBaVHJubHBSVG5iWm8wc2tvREl5SmFMTFJHdUZs?oc=5",
+          "published": "2026-10-31T05:40:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.401,
+      "id": 8
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "체코 원전 '팀코리아' 결국 균열…한수원, 대우건설·두산에너빌리티와 협상 결렬",
+          "publisher": "CBC뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84cTJ3REFMMU8xcjdFV1NMY29BNWtnNUs2aHJTYi1RQ2ZIV3kwWjZaZXl0bDItU2VMbjIxWDVzT2xXYXVyQURDRnpRY1hjSDZjeWVIYlJ5YVBXcGVzRnp3TUxJNnhOc3NO?oc=5",
+          "published": "2026-10-30T22:18:47+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "체코 원전 '팀코리아' 균열… 한수원, 대우건설 컨소시엄과 시공협상 결렬",
+          "publisher": "더퍼블릭",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5DaWRaa2FuS3BKLTUyQ2tMbmY0S1pTWWVBSUx1RGRoMGgzcUtCVzRfaWpSUVF6dW4xRkI5RU9MT1ZUSnIzUnBLdk5SdUZiTjNIbE5kSlN5UnFrVWhTbW04REtuQ0xscUs4dU9IMF9Pb9IBb0FVX3lxTE5DaWRaa2FuS3BKLTUyQ2tMbmY0S1pTWWVBSUx1RGRoMGgzcUtCVzRfaWpSUVF6dW4xRkI5RU9MT1ZUSnIzUnBLdk5SdUZiTjNIbE5kSlN5UnFrVWhTbW04REtuQ0xscUs4dU9IMF9Pbw?oc=5",
+          "published": "2026-10-31T00:50:51+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.2,
+      "id": 9
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "\"노후 원전 수명 연장은 재앙\"… 고도화되는 핵폐기물 경고에도 강행하는 한수원 규탄",
+          "publisher": "얼리어답터뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1MOTdsNmNCdzVTTVNlX0ZaOHNpSFBIeTZpbURLVDQ2X3VPd1pFWGZjWWU1WFBRSEZtVFJyWFZocmlBejgyRWlab0tB?oc=5",
+          "published": "2026-10-31T00:50:22+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "\"노후 원전 수명 연장은 재앙\"… 고도화되는 핵폐기물 경고에도 강행하는 한수원 규탄",
+          "publisher": "대한청년일보",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DbFFObjhkTlRMc2JFbWwxdlIyemMtMzdGUUhyaHBNLXN2V2lWNTZOd3pHREFhcW1ObVFIUXQ0d2xOcGtyU0Jld1pjcjJFaGtHeTlWY3FR?oc=5",
+          "published": "2026-10-31T00:50:22+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.2,
+      "id": 10
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "체코 시공사 갈등에 출렁인 원전주…‘AI 전력난·美 18기’에 밸류에이션 르네상스",
+          "publisher": "이투데이",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDMnFmekt5V0Rjak5RMzBGVGZnOHNiRGpQckdXdzBfQV9odzlOWUtGMVlPSms5dzA1Uk96d3IwaWtUbXZDdGxqM3ZrT1dmQmU0S2lEQw?oc=5",
+          "published": "2026-10-30T22:00:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "체코 시공사 갈등에 출렁인 원전주…‘AI 전력난·美 18기’에 밸류에이션 르네상스",
+          "publisher": "서플 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Mc1dqREdwVlcteGozekt3azlxcXFLbWhmOWJtenFObzZncHJZekRWLTBrWk9qS2M3LXc2X1Fzc3U4Y0IxN1BKbEhIYnVqRDBYWS1BZ1hZcjRoMzZr?oc=5",
+          "published": "2026-10-30T22:00:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.082,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Data breach hits nuclear power plant operator in South Texas",
+          "publisher": "San Antonio Express-News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWThQX2RiUnRWMU9iQlpVTTB3MFhmMGdNaUNHWEh0UkJaT1FuX3FpV0dlRkdudVU2OHFncmJ2ejBGakc3bE5tdEFyekMtS2lJVVJETDJWNjBSTUlOMlYwNGtDUlVTcWJFV09aUWpiR0JLVzVwSmZGUUV6Q2Y1dGdaLXV5cm1LZTBpSElUYmM2NnU5LUJiV2VDZEJ0b3hBU1Q3MjdZSWF3?oc=5",
+          "published": "2026-10-30T21:04:42+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Data Breach Hits Operator of South Texas Nuclear Power Plant",
+          "publisher": "GovTech",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZzhwUkZYX3BBMzBvVFluQmJ6bW9yRVpUS05KUnJ2WjNyRENNcTJoUWdpWkpoMDB4d0k3aWVacVBiSmhyZmlEUjhRU2lyeDBteEx0ZUdoYXNDeC1oVm1Dcmp5MjZ4ZHVtdklia25IMlVoekNPSlBzTTZBMUVjSklCeWVGUXowSl93amJ6QkZBWHpjckh3Y2l1Zw?oc=5",
+          "published": "2026-10-30T21:32:30+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.063,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Russia agrees to support Ghana's 2,000 MW nuclear power project",
+          "publisher": "Latest news from Azerbaijan",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa3FJa3hyUm8xU0JTWlItT2p3VHFtX0ZUdWNkeF9YcTRMcGt3THlZdFJXUWUtQzhlc240WmdLci1ORHlBSEVrbzR3LXZEM2dOd0FGTmZneXRCbk5Qa2xGZ1pnZGZoS01USFEwQWI2elpNTVZhQlMwMkdmTEV3RGZUZDdScU5YMlpJOWFOUA?oc=5",
+          "published": "2026-10-31T19:53:29+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.994,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "AI Nuclear Power Push: $4.6B Raised, 2 Reactors [2026]",
+          "publisher": "shattered.io",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb0pTNTlJUmJtd1lUX0tzRXg5T19VNWd2V01wdkpXcVdZZi1oMTZPdXJ4eWZmQlpITDNMWFVBNEtxR09pNVpfRFh4clFkMEpoUTZneHlGekpZVHpNSjhEcFpra0ZBaXllWDduR2JsSlFIUDVnRF9FM2hWQjhLNzVvTTRJSkFWWkpuNnZ2SE5yQnVkOTVQ?oc=5",
+          "published": "2026-10-31T18:46:01+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.947,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "All nine nuclear power plant units already operating in Ukraine's power grid - former Energy Minister Buslavets",
+          "publisher": "Ukrainian News Agency",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPa3hkejZkVEw4WWRGaU9fa0RzR0hoU2RTdTFCRmpfeTFKRnJFcmo0T1lfR1FaaEE4UGZJLWF1Y1BTWFZ6bkliWWwwZ2ttbEZPLS1EUVNjOGRfX1diQXYxall4Q1UxNFIzMWtqaHRaNG9HRlNTazdsM0NjbE5MNG1SSEZBUEVSWHN6ZlNibnNCU3FxamRiQV9abkZpUDJ3b3VNSUQtWVNoWFgybE93aHZObTh2SVZ1LWhZRWdIdmJHd21sM0NLWWM1MjBn0gHPAUFVX3lxTE0zZmFKcEozQlZWZGRFLTh1aXVxTllaSUcyN050WE9VVWEwUDYtUFNFbTdialBXeWdRWnlmcC13VU14MUYyaVZRZ3lOYk1pNUJkblY3Rmk0OGRXMUI3MkZiUlUyQ0VHVnZGWXdKOHVxRVQ5aXFuZ2pmQ3lLbzc3bnNzM2NFSmJ1NTlsWWxnNzdxeTRNSlg1eXl2SkZaOC1ucmFjZnNuQVFUT0w4OU02ZzdmNkEyTVBGdGZMWllJM0tLLVJKWHljRGdnT0I1bHJjQQ?oc=5",
+          "published": "2026-10-31T18:21:01+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.93,
+      "id": 15
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Rwanda, Russia Sign Agreement to Build Nuclear Reactor and Science Centre",
+          "publisher": "UG Diplomat",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcjVuU1N5NkVxVmNmdUNjUFJGOTVsU1NraVhZbFJKbnA1aHp5blJGVFFhNnBQaDd5VEZKS0YyMjNFR3B2emRIeFVwei1hM084QlNJVFh2cnlVejBsZGp1bG5tRWFQamhSMHNaYm0xYkpUVWVpUnFDaV9tLWtvbDVVdzFhQXdtNG92VEJOdl93VUJSNkwyUHJxRk9YTVU?oc=5",
+          "published": "2026-10-31T15:17:02+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.802,
+      "id": 16
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한국수력원자력, 사회적 가치경영 대상…새만금 조력발전 공동개발도 추진",
+          "publisher": "웹이코노미",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyQ0hlcnkwVG1lWnZrckRtXzQ0VEZpbE1EQ3ZOTk16SjB5dnNmSHNDZDVkMkNMNjhrUW5nV2F5VGgzTHJEZ01Sd2xDQnJGVC13OHRQNDJXZTFJbzZYWlJteHBHTFNTWkdPSUtzYllnZzBrUQ?oc=5",
+          "published": "2026-10-31T14:55:02+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.787,
+      "id": 17
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "협력사 중대재해 제로·글로벌 원전 개척...한수원, 사회적 가치경영 대상 영예",
+          "publisher": "에너지코리아뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94a3d3djBxMEtUWkI4dzc1dzJhZUJlX2RLeUpMMmViNG1uWjA0U29QTy1jY1p1SF8tdE1OZm1rSk9hYmZ2T20tSTdkYUtCeFp1ZW9heHgyRmJYTU0zLWp0WE9nSWE2TFVhX0ZzWGduQ3Q?oc=5",
+          "published": "2026-10-31T14:39:29+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.776,
+      "id": 18
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Rosatom discusses nuclear power projects with Uganda, Ghana, Ethiopia and Egypt",
+          "publisher": "IntelliNews",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSDNKNUpfQXUxN0JxOU5ZZ1JuRmNDeGZUUFJVNVRSUWJvbTlUb0xwOWRxVHI2MGZqYXBBQWtRTU5iMG1XNm1wY3NxeHNWUmtwaThfb3dxeTZBQ1hZNVZKRVhVdGxIVUVhLUVSS3dBZXpqa09zcld3bVZmMlpiOTVVZE8xWGlvTWF4UWxFZm82ZGwxdHJPV2NfTkNON2pvM0ZtY3o5Y3dzRERpQWk0TnBvWDJfRG1fMnRDLTE2YUlSYTREZWFI?oc=5",
+          "published": "2026-10-31T13:41:27+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.736,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "대한방사선종양학회 학술대회 우수연구상",
+          "publisher": "부산일보",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoVjJ1ZVphVjVqdzg1TVdfcDVnaEJiajlPWDZLMEE5ZjhaNDk0TlBrQWlYallGc21ZaUlhSDAyRFI4dW9xM2piaUNSVXFTb0pCMmltTnVsTGFxbzlQRG1BTXpZZHhHejdTRHdiY3Q3SFRhZkVDeU5QcEhpdkI?oc=5",
+          "published": "2026-10-31T12:59:31+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.706,
+      "id": 20
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "R]영덕 원전 예정지와 겹친 산불 피해 마을 '특별재생' 백지화..주민 '막막'",
+          "publisher": "안동MBC",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SeHVDYzBLVEh6Z1QyVjdxYUEtc2JQczlYbVh3TTNKdnQwYV9VdTBxSDlpWHN2elB1bkxfX3RFQ2ZQc2V5RzNZcUJHM2wtX1ZMM1ZjRFJqRjZKYkhja3lIOVk3MF9saWY2MGVMY21ra2JMY2RQVmc?oc=5",
+          "published": "2026-10-31T12:05:50+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.669,
+      "id": 21
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "All nine nuclear power plant reactors are back online – former energy minister",
+          "publisher": "Mezha.net",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KbEJEVmRrbU9URWhPUm9ic2xPWE1jWHpnVGZ2QUhtOGxPeHp4RHdFcTJWb1B5dU9RXzZUSEpWZFRfRGgyYlpfb2hsSUlaeE5NcWFJdTBTVXN1M2Z6bVNGQ09Qal9kZGNrWEE?oc=5",
+          "published": "2026-10-31T11:59:14+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.665,
+      "id": 22
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Another uranium shipment reaches Rooppur amid tight security",
+          "publisher": "Daily Sun",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ2tZWVI3aE1VYTZhbjVpQ0dPcUR6RG52eU5pOG10Rm9kc19GT3hPQ1p1TGt3OFZyU3FnNlVQWWF1WktJN2RSaHR3S3ViMzZFZjZCSU9abmpGOXMtRDMxVjRJbm9PSHIwOWdjRFV6R0pkV0RBWm9ZU3NFVG9sOW9ueUZVcTV1VHVJTzZGSUtGeUdjTm5JYWdNSzdTeGJ2YWl2ZEt3S3JIOU0?oc=5",
+          "published": "2026-10-31T11:54:25+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.661,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "학제 간 인적 자원 생태계를 구축하고 원자력 기술의 적용 범위를 확대합니다.",
+          "publisher": "Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQjc0akpTS1JwV1BpMjZtem9ydjFOS3NjVmZEQXhKekl5V3d1MHRGWFM5RVlBZmZYcHJYbk42VDNDTzVOMWtzNGJDMXRHTWtTbmE3aFduUFZsWWJXMWloeDh2dTFyQl83UVhTeW43ZUd1RW40TjNKeUpBM1NwNFo0aVhNc05HSzNKNnNqUEp4ZURmMkVnYWNYUkF2QkV1NXNDaHAwaGJB?oc=5",
+          "published": "2026-10-31T11:51:21+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.659,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, ‘국가생산성대상’ 대통령표창 수상…발전설비 안정적 운영·경영혁신 인정",
+          "publisher": "부산일보",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9EOUFVaEpWYUhTMnlFbzRMWVc5UHFrVXpNNGNMbGpUMHhpdmpfNXdBdm1ZWGJHSEZQVl9zM3NzcW42bm1MUVFmU01WWXBDMnFnNGNvU25Qb1I4OWJNcWpUWDdjMloxdTBrZlBpcmVRNW9OY0xLYW02aUhmU3c?oc=5",
+          "published": "2026-10-31T10:51:08+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 0.617,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원한울본부, 15해안감시기동대대와 방호태세 강화 업무협약 체결",
+          "publisher": "경북도민일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92UmdmRlF3QWdoZHdxaUUtSVZza1BjaGsxV3dFdFpUdTdHMGllcC1Pd2RJSlN1VzlWOVVRM0tKUUNsbDdCdGRVd2FlRVZTVjFMTkFVZU1NaGtlQW9XNEZhSHh2a3R0RXprSnc?oc=5",
+          "published": "2026-10-31T10:25:54+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.6,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원(주) 한울원자력본부, 흥부대박축제 이동홍보관 운영",
+          "publisher": "경북도민일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WTU9RUXczOWdYUW4xT2hiMGlYalRtU01PLWFvYklfS05OLVZyelJjMnVfU1JQaUNoeUZuS2s3WGROTzREUFRDSmVSQTdZU3JJSlVwREJqMUl5WHJZNEl5bW1jX2FQeUxEWUE?oc=5",
+          "published": "2026-10-31T10:25:55+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.6,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원·농어촌공사·수자원공사, 새만금 조력발전 공동개발 협약",
+          "publisher": "한국원자력신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmYUloV1JSOTFqUk1rTDZkTEtwN3ltYm90QWdqckFOWmJUVkt0ZFRoeWhwWnlNLVktNXlpeWdaVDg5NDc0d2Z3WFFfdEVXYS0zU2hZNUt3cEljeGxLcndhTjlLMkR5dUlGS2g00gFrQVVfeXFMUGZhSWhXUlI5MWpSTWtMNmRMS3A3eW1ib3RBZ2pyQU5aYlRWS3RkVGh5aHBaeU0tWS01eWl5Z1pUODk0NzR3ZndYUV90RVdhLTNTaFk1S3dwSWN4bEtyd2FOOUsyRHl1SUZLaDQ?oc=5",
+          "published": "2026-10-31T09:05:46+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 0.544,
+      "id": 28
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "울진 한울원전, 군과 대드론 방호체계 강화",
+          "publisher": "경북신문",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vdERNNGNXbzFzTXZhT2VycHRUdzk1M2V4SEd1aTZHVmRIT1A2V2pOZlB3eXQzWlJLYmVCa1ZHS0pZT3ZleVF4MmIzS21jeHBUTlpRUlZNaGY?oc=5",
+          "published": "2026-10-31T08:50:28+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.533,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 55,
+      "kept": 55
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 25,
+      "kept": 5
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 53,
+      "kept": 47
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 46,
+      "kept": 0
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 2
+    }
+  }
+}
