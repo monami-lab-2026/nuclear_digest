@@ -1,0 +1,715 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-01T20:34:00+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "경주, NES 2026서 SMR 국가산단 투자 유치전",
+          "publisher": "경북매일",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04Y0U0d2ZIWDM0b2J5UEZac1V5el9NNl83U1hDMkxSUEUwYzBIUTdUV1doVkpUck9RZF9iNi16TmJjME9zNWxNM0dKYVYtRDUzR3VkTEFLczk3dw?oc=5",
+          "published": "2026-11-01T01:10:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경주시, NES 2026 연계 SMR 국가산단 투자유치 설명회 성료",
+          "publisher": "웹이코노미",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BemZmenRBVUQ3bThCczFhZDBZOXJPdm1vdkFTR0NPdFRtYWJIUktPWUZMVC01eFJEaW5YOGdKa2M4aDFENHVGTElMNU51NmZQNWxGdXBwYk9nOF9vNkdxZDM4TW5lb0UzTjMyaXNXZ1hWUQ?oc=5",
+          "published": "2026-11-01T07:42:03+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경주시, NES 2026 연계 `SMR 국가산단 투자유치 설명회` 개최",
+          "publisher": "CBN뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DTEc1NTZuUFVneF8xZTRZNk5qOER1Mlk4akFtVDRCZGJ3cnQ3WVNJMm1UdmY5ZXdGYTI5empQanRsdXp4d2k2VEhKb2lOalEwYUJN?oc=5",
+          "published": "2026-11-01T10:30:50+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경주시, NES 2026 연계 SMR 국가산단 투자유치 본격화",
+          "publisher": "국제뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14QUpySnlNOS16WC0tUk1KOVJ0VDJHNGNmLWlUNWdnSU11X2R4UkxJQ1F5eVpKS0NFYm1aekx6dHNfRVYxeUxRQWhOMmw4bFoyaU5BVEpLRk03SjZsR0gydjlqT2o0ckNKaGFJU3Fn?oc=5",
+          "published": "2026-11-01T13:53:14+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.722,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "신규 원전 공론화 시민참여단 뽑는다…국민 1만5000명 전화조사",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xTC1fbm1XU0FxUWxzOU96TXJKNHJTTzVMWHpYSUxTaHdmZmFPdWcxbWZueUQ3V1RBU3pETE10NjdOY2xuenZDY21abUUzRDVrTG9qbU9WMGFLeEd0cjh3bVRlMzFXTXM0a0YxZTNJOTdJdjRCTWEyS9IBeEFVX3lxTE4xTC1fbm1XU0FxUWxzOU96TXJKNHJTTzVMWHpYSUxTaHdmZmFPdWcxbWZueUQ3V1RBU3pETE10NjdOY2xuenZDY21abUUzRDVrTG9qbU9WMGFLeEd0cjh3bVRlMzFXTXM0a0YxZTNJOTdJdjRCTWEySw?oc=5",
+          "published": "2026-11-01T02:00:40+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "정부, 원전 공론화 시민참여단 선정 착수…국민 1만5000명 조사",
+          "publisher": "서울경제TV",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtZUFBWWJ0d3YzQUxuZjVuYXpLd3hqTHlfQWltdGQ1OGxFY3hnb0MyRTBtT0s4blV0Sl96VUtWWHl2RkZLZzNNWTNCbzFlRXMzcXJGeXFBWFVCTkppSkNaT2NaUWY?oc=5",
+          "published": "2026-11-01T02:17:55+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원전공론화 시민참여단 300명 뽑는다…대국민 전화조사",
+          "publisher": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxXzFVdjRzZkRyNzZYZU4tcUdwMGNOY2VBWDAwdklvOGUyMldtZ01XOU9CVW8zNzc3TnRNQ1NnbGhCMUtHZG0zRExpYkN4V1JiRkt2TWdsYmxrTmxaSFF2NQ?oc=5",
+          "published": "2026-11-01T02:35:02+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "‘원전 공론화’ 시민참여단 300명 뽑는다… 국민 1만5천명 전화 조사",
+          "publisher": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hMnVoQ00zakN1dnB1MmMzNjhQX1dxUDl6Y2RKZXg0eXkyWGR1VTNjS0JzOWZ0VWNYOHkxdktPT2R5THRWOVh4cWIzTk9CV1NvRV9mcElUYkx3YkxOSk5SYWlIXzhFd2RseU11YQ?oc=5",
+          "published": "2026-11-01T06:05:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원전 공론화 시민참여단 구성 착수…국민 1만5000명 기초조사",
+          "publisher": "전기신문",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNamFkV0ozeEpGYW1lNnBaNGh0YXpjQnNKeWVCbE5GY2pFU2t2VDNTUGF0eExlaUxQUXF6Yy11V2tIUTZUQjQ2R2M3VWF0VHQtRDhVb2N2U1NzejJ1STRHUUZreVpRemhUek94YtIBcEFVX3lxTFBZUEpVRVd4UHktT2YyMmYyeHZvbGFzakdZVTFlT0FsTm0wVV83N0pYV1IybUFIX3Y0WjFIS3ZycHpaWVJaa010TldydldXUEtnQkRTV0pUYm9pa3kyXzhaTVc0RFR4THR4MEFhYl9UeHI?oc=5",
+          "published": "2026-11-01T13:50:46+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.72,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "경북 에너지 융복합단지, 풍력→원자력·수소 등으로 확대",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByQ3pYbXNKUVgxVjdyeUNxd0tpV0t5S0ZSUkZ3RmhlNmVROFh3NVhhelFHUElOZXg3X0xLcnNZRlFpaFpaMGd0Z2J5aF9EMjZwYTlfeG9wRUQ5LTJNV0p3M9IBYEFVX3lxTFByQ3pYbXNKUVgxVjdyeUNxd0tpV0t5S0ZSUkZ3RmhlNmVROFh3NVhhelFHUElOZXg3X0xLcnNZRlFpaFpaMGd0Z2J5aF9EMjZwYTlfeG9wRUQ5LTJNV0p3Mw?oc=5",
+          "published": "2026-11-01T00:06:54+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경북 에너지 융복합단지, 풍력→원자력·수소 등으로 확대",
+          "publisher": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54SGdXUC04NGJ5aERjTjFnX3RQcmk1aEhQS1lraVYza0JZSlhUbzUxbVZtSHI1NjY1dkFYUUhVd0hYSzdFSEVGYlhZb0VhSUtPNHc?oc=5",
+          "published": "2026-11-01T00:06:54+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경북 에너지융복합단지, 풍력 중심서 원자력·수소로 확대 추진",
+          "publisher": "M이코노미뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBuMldfYzhBYVVsUFBKbFRkNkZFMS11YWwtTjRPdFNzcEwxYmFuaWVDMHpDZ0s1S3N0WURicDhtWFlSbDdua2U1SWF1dEVfUk1TT0V5Y040WEFJc3lVNXpSd3hLbDJodzQ?oc=5",
+          "published": "2026-11-01T00:50:16+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경북 에너지융복합단지, 원자력·수소로 영토 확장",
+          "publisher": "https://www.2news.co.kr/",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WU2tFQVdqS0FMQlA2bkxhTU9xRG9uN0FWbUVHNWNaTXlVT1ZoMm5hRFFLdV9qWEEtUHp3U1djNlJpd1Z3cXhDME5FNFlmQlVUNUNpS3NtajFrc3N0SzZsQnRvNTg0b0o3?oc=5",
+          "published": "2026-11-01T07:37:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.46,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "수자원공사-농어촌공사-한수원, 새만금 조력발전 추진 맞손",
+          "publisher": "충남일보",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1VVVKTnU5ZklMQk1ld2VoUUZGZTd1UDU5MXE1dExuR29HSDRXWkxUQUx2N0hQdm9UZzdEQlVyd19qbWxCR19IeDhaVGd3WWhqZEJGaDA3LUZpQXRLVjZkY0Q4NU5GM2kxSzhhR3lBVmVBTnM?oc=5",
+          "published": "2026-11-01T00:52:47+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원·농어촌공사·수자원공사, 새만금 조력발전 공동개발 나선다",
+          "publisher": "경북매일",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14emd6a0hWY2o2Rk1IenBqRGJhMVd3c1ZYU1pNNzBUZDk3NW12UEVJN0RvcVBaYXZYcnhrUWVsdm1uN09BNV94QVlUanlVVGNvVHVmaVEtTFljdw?oc=5",
+          "published": "2026-11-01T01:15:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원·농어촌공사·수자원공사, 새만금 조력발전사업 밑그림 그린다",
+          "publisher": "www.hidomin.com",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KOGJzNzVweHpqSU1OYUktWGppT19IZXFpRVVlcHZNTU5Eaml1cE1uVDdvVUNVWUJreEF5WjloVTA0VmRTbG5reXN4QThQSEpIdGVZS18wQnZYb09xQ1lBRzFzeU5lSEZadlE?oc=5",
+          "published": "2026-11-01T04:37:37+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국수자원공사·농어촌공사·한수원, 새만금 조력발전 공동 개발 나선다",
+          "publisher": "충청매일",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QVDRIclJPQ1ZqdTFFeW41VU1lTkNLc0ktUlF3dEZ2RXJQRFkwY3hqOGo4aWFLM0dLNDRRU19pbjdfOHpKOXZyZm4wOUZheHlpaktTN2trQnpCM2dqVG5yazhLNXl2RkU3T1E?oc=5",
+          "published": "2026-11-01T05:55:07+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.39,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "李, 3일 튀르키예 대통령과 정상회담…교역·원전·방산협력 논의",
+          "publisher": "더팩트",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wdlZHbC05WS1oaGhqOU9oRWFQd3dkOUlRVnpmYzZkeC1qaWlKY2RGaWNDWVhzQzVUNUNtT25nN2dubDVoNXRoWmFuTFV1amRiWG930gFTQVVfeXFMTXB2VkdsLTlZLWhoaGo5T2hFYVB3d2Q5SVFWemZjNmR4LWppaUpjZEZpY0NZWHNDNVQ1Q21Pbmc3Z25sNWg1dGhaYW5MVXVqZGJYb3c?oc=5",
+          "published": "2026-11-01T09:31:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "이 대통령, 모레 에르도안 튀르키예 대통령과 정상회담…“원전·방산 협력”",
+          "publisher": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZeWFMOHhPVkw4eGpxMF83YkZ4c25qR3A1b1B4WWZGbFBRWmQ4VkxSQlc1bGNIa3Znel95eGJieFF6Q2FNTk8zZ3p4OG5DUE00SWJWVWcwSWIza28?oc=5",
+          "published": "2026-11-01T09:38:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "李대통령 3일 튀르키예 대통령과 정상회담…원전·방산 협력 논의",
+          "publisher": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhZ1hyeHE2M3RiV1lXeVJfc3JyT3lFeGF5QzNmbDJJY2s3d0NRSUZnUDR1X1lEVHdFVFFvVmtEMGd3eHl5c1FQVVNfZ2h4NnFrZ1U5bkp3Z09Pb1k?oc=5",
+          "published": "2026-11-01T10:33:26+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.583,
+      "id": 4
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "경북도, 풍력 중심 에너지복합단지→원자력·수소로 전환",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YOExtb05ZakhIdVQ3MEE1aFRzdGZncFhIeERtSHFhbW9OZGRHSzVTek9McWVzcV9iX3hnY2RLS3ZIblFrcFV4THl1bTV2VGtWcWIxUE05LWFZaExxc2RnSXUyUFpJLXRUZHRJcklieU1oSzYteEhCNdIBeEFVX3lxTE5YOExtb05ZakhIdVQ3MEE1aFRzdGZncFhIeERtSHFhbW9OZGRHSzVTek9McWVzcV9iX3hnY2RLS3ZIblFrcFV4THl1bTV2VGtWcWIxUE05LWFZaExxc2RnSXUyUFpJLXRUZHRJcklieU1oSzYteEhCNQ?oc=5",
+          "published": "2026-11-01T01:09:28+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경북도, 풍력 중심 에너지산업 원자력·수소로 확대 추진",
+          "publisher": "경북매일",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mdEVNOG9XS1RfeUNzOWZHSmNKVWMtMGZ2MUhOcGZhaVVKajh6eUVYUV95cEFRTzEyR2daZWJVT281OHNCdmlCS0l5VkZCOTUtY215MUpsQkp4UQ?oc=5",
+          "published": "2026-11-01T06:25:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경북도, 풍력 중심 에너지산업 원자력·수소로 확대 추진",
+          "publisher": "경북매일",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOa1V4a2FfYzBWMWtNZnZzaE1LSWhSR0NmN3ZHY3dpY3hNLVpQbWdGTGtQRDlRSmt2SVJUVm5VbC1KYWJTSk1Vc0lTdzdaLVJHbURYYlRnbzcxcjVudTNJTDI0blQ3enRhUHhaQXZjSHM4cUJLQnBYYw?oc=5",
+          "published": "2026-11-01T06:25:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.41,
+      "id": 5
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "정부, 신규 원전 공론화 착수…시민참여단 300명 선정",
+          "publisher": "팩트인뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DLWpDdVh0c1R3a3VUZGtHTmRBY1AyeWZTUHNOalJmSG5zbFlSWmlNT0ZOanRFMDBtaDcwcmh6b2lxa3VGZU9IRkZsX0xSUVZyTDRnc0JabEVnUy0xcHpTSDNrYnRtNl9sOHJkNW5xakrSAXRBVV95cUxPUGpsYjIyNGRyX0Z5Mzd4cTRIMWlCZm10Yi1mNm94RDZWN3pqSGFyeVlTZjlmQXZjOS01c2FFNkIzTjRKUjdENnNRbVhXdEMtWnVtWlVVaEFTQU5EeXlsV1Z3bFhaV3ZSQnkyMGxKR1ZaTWhFUw?oc=5",
+          "published": "2026-11-01T04:35:40+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원전 공론화위, 시민참여단 300명 선정 절차 착수",
+          "publisher": "메트로신문",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JQndSY2tWQ29DY1JWRE92NjlCNmlCbVFnSm1wV180d3I5TVV3V2dTUFBXbzJZdkJjRWVPaEJiaERFU2VIMm9HdWJlSldzN2Y4dTlYREtYbmlVSHZVN0k0Mw?oc=5",
+          "published": "2026-11-01T04:37:28+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원전 공론화 시민참여단 300명 선정한다... 대국민 전화조사",
+          "publisher": "브릿지경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00NkZNNVlSUWJhX3BjR29XeGhWZmVxTDRiQUdESWhRb2tILXJBeHoyZnVxa0lGU1FhbjNLZmhQUHFoY0Z6NjFlcHRZNkEwc0RDaTgxcGJSWGYtZw?oc=5",
+          "published": "2026-11-01T04:58:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.35,
+      "id": 6
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "“고준위방폐물 관리시설 부적합지역 배제기준 마련됐다”",
+          "publisher": "한국원자력신문",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83Wmlic1FEZjhCUnY0T05KbXZNbEliRmtHX2QySVE4WjJzTDl4MHVxMzJuQ1pQbFRxdWo0M2xZS1pQSUpvcFc2N2JsRlJwRUNYMEhLOEI2OVFfTENpZXplVkxLMk15cHPSAWtBVV95cUxOY0FaWWdaMFlZS2IxN1FOckozZ0dadmlMczYydlo1cUdna0JEYUZpSTVxWlZPU2pTVDNwQm5TSWx2WVlEX29nSkJkX3p1STEwd092OVctQ0dSMkh4WW12Z2Fib0pwcXoxU0hZQQ?oc=5",
+          "published": "2026-11-01T02:11:24+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "고준위방폐물 관리시설 부적합지역 배제기준, 고준위委 의결",
+          "publisher": "에너지타임뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wVkRHeU1PMUZsUzFzcnBjMVNTdjZ1cHduRzdKcUZQcFBNcXBUekQ3U0hzcTBVaFdCWDdGenlVa3EzM3JzTUJ1T2dYamxvcWlieVNpdzNwUWxkRV9nS0FxeVdJY0djLUlPZ2F2ckgtS0IwUdIBdkFVX3lxTE5fVTVGSm8wX0hteVY4WlRYTndIaktkNUtMVXQyWXFSVlZwRE9mWWRhQlRvOFZoX2hyY3NkT0ZUUGFkaWFHbVI1TWJOTHlPb1dUdnpscFFwMmlJX1pURDkyc2dhQmRNZzJsOXEya3ZyV09fbDYwS3c?oc=5",
+          "published": "2026-11-01T13:53:38+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.722,
+      "id": 7
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "李대통령, 튀르키예·동티모르 연쇄 정상회담…원전·방산 수출 협력 넓힌다",
+          "publisher": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VcGxicDhRaUZ3bEhrdTUxbF9Nc184WUt4NlFsTXdLeXVYSU93WDVJNkN1UFlYcjF2bkp4cVlPTDlqeGt3bk1ramtBWmZDdDFlSzJ0X2FTWHU0VnpYaUw4TUpMQ1ZZUEgwb1hFQXJpc2s?oc=5",
+          "published": "2026-11-01T09:30:15+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "이 대통령, 튀르키예•동티모르 정상과 연쇄 정상회담... 원전•방산 논의",
+          "publisher": "한스경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXaDRiSm5EZ0NJc1JXWkF4QTU3TUQ1UFJPT3UyY0Zrc1lVNFJiNjgwdkQ1WmQ4cC1kR095WEJIQmRGcGhJYks1WC04em43eTRUTm5QdFBoYWNOYnNjYXd6TjJEQTExUll1MDVoWdIBb0FVX3lxTFB1V3hOb1BIQnUwOEp0SjBVaXZ3THNOeGRFU0pOSGNGQ1VhTlZ0OU1HZWdLdEtxZm1HYXVObU1iMlQ2aldnVE0tU1h4VFdvR01qNlhoeXQyVldGVjgtb3VoT05ybGtfekhYSVA1Smxsaw?oc=5",
+          "published": "2026-11-01T12:15:02+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.654,
+      "id": 8
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "체코원전 시공협상 결렬에 김정관, “한수원이 더 큰 리더십 보여야”",
+          "publisher": "국민일보",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wM21oQ0dNSk9YTXpXenhxS25hVWJibWxET2FMdkhzOWQtZk5IV3JwQkNtQkZoZnNWeXFIc3hJYlNGN3A1VmFQM0pKSEpSY0k2enF4bldzc3E?oc=5",
+          "published": "2026-11-01T06:01:47+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "김정관, 체코 원전 시공협상 결렬에 쓴소리 … \"한수원, 리더십 보여야\"",
+          "publisher": "뉴데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOFIySEpsWkxPREJWWVY0S3hsMzRaRUxaektyMlJ6QlZscFFhUEhsbW1JbEczUjMtY2dZWl9vaUZFQ2l2TEJfa3dpdTJwMGRMaVlMUGxMMjRtTnZSU21zSHEyNGFlM2p0VWMzTnk3OW9xaURiV2pFd0pMRWs0TzN1VNIBgAFBVV95cUxPOFIySEpsWkxPREJWWVY0S3hsMzRaRUxaektyMlJ6QlZscFFhUEhsbW1JbEczUjMtY2dZWl9vaUZFQ2l2TEJfa3dpdTJwMGRMaVlMUGxMMjRtTnZSU21zSHEyNGFlM2p0VWMzTnk3OW9xaURiV2pFd0pMRWs0TzN1VA?oc=5",
+          "published": "2026-11-01T12:12:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.651,
+      "id": 9
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원·농어촌공사·수자원공사, '새만금 조력발전 공동개발' MOU 체결",
+          "publisher": "컨슈머타임스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EZU5fRXJ5SkpOZENNLTh2aEw2ekQzMkpNM1psZ2RKdmVoajB4VmpBVkVHcU5ZS1gyWTJQUVEwNHNBUmpZQ3NtSmpqZFhjWkdZU1BpRHA3Q1QxREZWMnljRHFLSHB0Q1d0TVE?oc=5",
+          "published": "2026-11-01T07:28:10+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "K-water·농어촌공사·한수원, 새만금 조력발전 공동개발 MOU 체결",
+          "publisher": "국제뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xd0Nfb2Frd2F2QTVOaVZEWlBta0owODNQb0RscWxzdDNTMHB1Yzd0TzRiMW9vUnB0cDFaOUZwWnd6NVV4WlRCZ0ZHWFM3OV93bkNmeGFTUUdaRVVWMHdYbFBsXzhfOXdDNFZtbU93?oc=5",
+          "published": "2026-11-01T11:32:20+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.624,
+      "id": 10
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "김정관 산업장관 “체코 원전 차질 없이 완수”…한수원에 “더 큰 책임·리더십 보여야”",
+          "publisher": "기후에너지데이터뱅크",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1qN1NFY0NSRUZ2MTNmbGFqRUZNeEdBSVBOc0FKaFlKbkZFU3pobGI5ZERnMXgtd21aUm5UcmIzUE1QNnJZNDFrX1VxNjdGbjdGcXhETFp4MEluNGZUa1E?oc=5",
+          "published": "2026-11-01T06:10:03+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "김정관 산업장관 “체코 원전 차질 없이 완수…한수원, 책임과 리더십 보여야”",
+          "publisher": "세계일보",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EcUR2ZC02SmJtTDNWbUh5SFRvNzFJa205WjRqU3hkdmZIWjd1UHVrUWd1MWk1VzJPQktVazhGVXh2UHk4cWpoUGpPWVg0bzVra282Y2ZlaWrSAVRBVV95cUxPT0hldFcwUTVvcmw4SUtpZ3BMcy1JTkUxQ2FDdngxUS05V0RsR3dvTGVvLU83bVBzcXY2V2VSOVYxZmh0MTBkTnFsNm1LMXZrWFhOdzU?oc=5",
+          "published": "2026-11-01T10:43:42+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.59,
+      "id": 11
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원자력환경公 '고준위 방폐장 부지' 활성단층 등 부적합 기준 확정",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoRjRLLWpkbE1vM0dnTklwTW5yRGt2VFJLU1kwUWRmM2tWQV9VTUhVTE84SDJ5R0d1YXBoSFZZVWVHM0NDelFGZ2NodTBQQ3RkdDl6cno3RHByamVIRkVFcmUzUzRuVGd4a0dLZTBBc3NYM1hZUExmedIBeEFVX3lxTFBoRjRLLWpkbE1vM0dnTklwTW5yRGt2VFJLU1kwUWRmM2tWQV9VTUhVTE84SDJ5R0d1YXBoSFZZVWVHM0NDelFGZ2NodTBQQ3RkdDl6cno3RHByamVIRkVFcmUzUzRuVGd4a0dLZTBBc3NYM1hZUExmeQ?oc=5",
+          "published": "2026-11-01T06:36:57+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한국원자력환경공단 '고준위 방폐장 부지' 활성단층 등 부적합 기준 확정",
+          "publisher": "세계일보",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkVmVIV1FlNk5xdmNCck9oQUZOdmczdVZJNzFrbHBLZk5MWUpMQ2Y1a01HdXpDN2RkM2VyY1NjenNYZGlBaTZldG5IRXI4SlhTLW5lVDhSdnLSAVRBVV95cUxPN0hCdTkxVGpEUVhNX3k0bEowVlh2RzItOGJUYUJkTHplY3ZpeUczMDdkSXJKVzJfSVlRNWdpelh1dl8zeHlYd3NGVVNuUW1LZExIMEY?oc=5",
+          "published": "2026-11-01T09:28:51+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.538,
+      "id": 12
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 국가생산성대상 대통령표창",
+          "publisher": "경북매일",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xU05qOS1XMXFOdnVFNW13Y2tnUXFDODJESXBLbmUwcFVIY1UwYTduWW10Wm90TDVhWGFyU0Y2Z3NuTG5aYW9FOVBrZUl1WnU5YlduakFwbHNqUQ?oc=5",
+          "published": "2026-11-01T01:14:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 국가생산성대상 '대통령표창'·사회적 가치경영 '대상' 동시 수상",
+          "publisher": "컨슈머타임스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zZ0RJZ1RVeUNKdDFiRER2ajY1dFFrakpLUnBPSXFsT2xKR0l3RVc1WEwyNzRNY3dwWEtoRnVHNFJJd0xKNXZqcWNYWG82VnZuN0dSejhVMFNJYVV1Qi01YXZYazJyX05JaGc?oc=5",
+          "published": "2026-11-01T07:22:40+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.451,
+      "id": 13
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "시공사 재선정 돌발 변수 맞은 체코 원전 ‘팀코리아’…순항할 수 있나",
+          "publisher": "데일리한국",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLdlVfQnNsNXFHZFhOZTVvdDdjb0JEQU1ZdnROVldGT2dENjJYNEhzQmZFYm1WV0l0N00tOU9ncGd1a19LcEN1SUYyMXlvOXo2Rzh2eFBRMVNuSFZxRmJWWmhBb1c1aWtYU2pFRlp2NNIBc0FVX3lxTE9TeWhPV0tTQmFheG9aZ0YyckxHeEw5Sl9JOXducWJLVmNrWlZJWFRQQlhhNWl6ZGY1cVpkM2VnQjY0MnpJYWh2RkdrMW5XN3JRWXU4amxZSVRfMlRGN2hXNWNUTDRJMWJsSjhIOUdvYmJldHc?oc=5",
+          "published": "2026-11-01T07:00:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "시공사 재선정 돌발 변수 맞은 체코 원전 ‘팀코리아’…순항할 수 있나",
+          "publisher": "한국아이닷컴",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42Z3gxYmRvaUp5Ri1WNUhubTZSMU1zSE5YNGxNVXAta0gtX1U4azFUVnNEQ01tRW1Wb242UjlkLVRyUjE5QjhmZlFIcmNYLVBEdmtXNlFSNUJYVTlNSUVrREMyc2RzWHZSeDJib1J4SdIBb0FVX3lxTE42Z3gxYmRvaUp5Ri1WNUhubTZSMU1zSE5YNGxNVXAta0gtX1U4azFUVnNEQ01tRW1Wb242UjlkLVRyUjE5QjhmZlFIcmNYLVBEdmtXNlFSNUJYVTlNSUVrREMyc2RzWHZSeDJib1J4SQ?oc=5",
+          "published": "2026-11-01T07:17:06+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.447,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Nuclear reactors under construction rise to 79 globally on AI demand",
+          "publisher": "Nikkei Asia",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2JVTTFfUUJUbzN1Q0s0dG9LV3pZMjdJbGpQRUJJdW1sVTlPOWcwN0dMTldCRzJhQWdYNmZzeHhmbWRVRXdodFRUWHJNTV82SHhyaXM5eVFKV255WjJNaDlTRXBFQnpEN2dWOTE2YlRmeU0wSllXWTVfZnJ4NjQ2ZHVsbU1WcE13aGx3VXBkSFk4OFp5S0dWdjBQU3Z6OURpT1FlT05rSzFETnhX?oc=5",
+          "published": "2026-11-01T16:20:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.824,
+      "id": 15
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Czech Nuclear Project: 'Team Korea' Shaken, Swift Contractor Needed",
+          "publisher": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY0hERFNYb2xqQ3hwcXY3NDF5V053MmQ1THVQeEVybURFd0RCSjhGR3FHRlhMUUxBSkZvUkZVXzJidDVLemxwOFRPMlprS1AyTmdBaFVkN0hqUWhmdHhjMi13UmZZR1B0NGNqNEZXdllscFV1bDEyZ0NXVHpHbk01emN4YUlmY0E?oc=5",
+          "published": "2026-11-01T14:37:21+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.752,
+      "id": 16
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Russia re-enters Ghana’s nuclear race with 2,000MW pledge",
+          "publisher": "News Ghana",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMHpOUERrR2ZrOE1Ua1NxWHhGb21OU05rN0o1VHNuUTROZEU3SHhsTzlPZ1RpZnptN1diNjRuWXdCeUllc3VTRUNpN2pJSDBvZS1YQ3Izb2NHR1VOUFJyLWVvaFhmbDQ5cU5nblFMOHZnNlpHQ2xJWFZBZ2J3dDFIRHB3MkFuR00x?oc=5",
+          "published": "2026-11-01T12:38:53+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.67,
+      "id": 17
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "A data center owned by Amazon Web Services under construction next to the Susquehanna nuclear power plant in Berwick, Pa.",
+          "publisher": "WFMZ.com",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZ09YN0JnbDJMZ041NjluNW5VcWxSZlhiMEJPb0Z2VGctWEZFVWRfY0pNdTA3cEhSUEdLWXRFUlk5bzB5aDRfWWF3dEpXYS1wc19GQTFhQjdhdHo2c21wWWJialI4RWtyd0dhaEg0U1h4cHY2azltV3RldHVZQ0ZKbkFCS0poekZvbTZ3OTdsR05XUFpEU2hkMmFPcjIyQVRONTNZTXA4VkF6dXJscTJqREtWdVZtNnI3eGFnNF9ONk53WEhvMnBFMExnbVhWb1FqM0pjMmlNb0Z1aFpHbms1cVNxSHJ0eTFkQ0ttNXFBd0RGQUpC?oc=5",
+          "published": "2026-11-01T12:30:52+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.665,
+      "id": 18
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Mahama returns from Russia-Africa Summit after proposing nuclear power plant, deeper bilateral ties",
+          "publisher": "Modern Ghana",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVFNraVVfT0g5NGFua0k1bk03dGpGdjVoN2FocXB5bTQyS1JvNXdtYlBHTHEzQWdvaHIwdlpLWktoR1JPb01KTEN0M3ZfR1ZIbVJlVHdXSmdabzZEbUhBWUp6Ri1iZFhJQzZ3eXVJbURuUTJqeDkxSEVNaGFFSGZ1Sk0tOW5BeERVeWNGcHllcFR3cnlMdlZj0gGWAUFVX3lxTFBZSllhUmVUdGd3VHI0MGgtaEdIMnl6N0pfRk5LVlZIN3hKSVBwcUFGbmxpVnUzaXVFWXhDZ18wT25Mb0lfaG1QdDR4dEE1V0FnTXl1NG1yb0RLRXgtN1ZOQmkycVU0ekU5MEpYbGNLbWNxeld1OEx4T0dTLURkbkdRZjlDd3lVYmNVTHFjNUs4Ym5nVXpXUQ?oc=5",
+          "published": "2026-11-01T12:25:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.66,
+      "id": 19
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Russia to build 2GW nuclear power plant in Ghana, Reuters reports",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdFluSjYzRHYtcl82dWdpdEk3S2xxbDVVQjVZekNYVzRQSG54am9GaE1yY2xKRUZKMHBhOFotUkprakVSczdUcFNlaDdNcmwtXy1oLTN1X0drb2syYnIyZXpNYnViVkh0Y2FDeUxFQUtfdkp2OXk1V2VCVVZKbTRRT1JHUjcyQlRscWpEeTFzSXo?oc=5",
+          "published": "2026-11-01T11:16:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.613,
+      "id": 20
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "South Korea's Industry Minister Kim Jung-kwan Publicly Rebukes Korea Hydro & Nuclear Power Over Collapsed Czech Nuclear Plant Construction Talks: \"Must Show Greater Responsibility\"",
+          "publisher": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LYzhydmVlN2xtWU5zNlI2MnM0UGIyU3R2QnJibXloYlc3OUIzRU5xQ3duZkhHQk9QQjdYeUo1dFhEUVJueTBxN3lzZGxNTDEzNUhnYnd0VVlyMzRmc2M3T1NwUzNqUFZrSmFORkhxZGVhY0FtR2c?oc=5",
+          "published": "2026-11-01T10:55:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.598,
+      "id": 21
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Ghana and Russia announce plan to pursue 2,000MW nuclear plant",
+          "publisher": "London Daily News",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTjgyb1ZGRmk0RHJzU25MZ3RjVlNOak9fcXF2Y1lJRWk3M1g2MWpwUlNHQ2tIdWxZS0lLZUdvY1RhUm0ya0tzNEZwMm1PMzVXMXJ6WVVaNkNYSEx1LUhfRm9WREhwaTlVeVUwZjE0anMyZlFyMko2SGs4Y2Q3RDdxYjZSNHd1NnNHbnVkLXdIM3ZUdzNkanc?oc=5",
+          "published": "2026-11-01T10:33:18+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.583,
+      "id": 22
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Limerick Nuclear Plant Included in $5 Billion Federal Loan Plan",
+          "publisher": "MyChesCo",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUzllR3BIbW4tRFdUZjl1N2hnWU01TnlrY2ZYZVR1XzVDX0NIbDFFemlYaUZxNjJKSFdQb1U0eVZIdTF3VmVwSFY4RDI4M29kdHE5ZEZvZkdFSldxaDlQTWlBUE0tMVdhLTJheFNMR3ZyUW14aDgxSEJ3QmkxUVNrMHcybDlmVTNEdXJqNEhObjJPMndCMUdDSUYzQUN0d2cydWNvTk9XUQ?oc=5",
+          "published": "2026-11-01T10:23:54+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.576,
+      "id": 23
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Nuclear plant, defence pact, scholarships: Here are 6 key commitments Mahama secured from Putin at Russia-Africa Summit",
+          "publisher": "Pulse Ghana",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc0xBZkV0MjZhU1RxeDdIRzRpQTk3X1Y2VkNnRGVjZEJaREZaTzFzamhkNVF4OVg4SVhkNTVpVEpkVjFCVWN4alBEYlJTRFh0U3piRDM3ZV8xVjk4U2ZSWlV1ZlhnV2c4dTlKbzY4S1YzcVp2LW8zMFY2dTIzNkVXVW9tb2RGRG9VYUxpSnZjckJsSzdQd3BaSTVnSmY?oc=5",
+          "published": "2026-11-01T10:04:17+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.563,
+      "id": 24
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Russia partners Ghana to establish a 2,000 megawatts nuclear power plant in Ghana",
+          "publisher": "Pulse Ghana",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN1BrMXVPZDNHaE8zX1dMdmdIbnpFb2VzXzUyYTBUUUNkSGRESEdZSDRmeXlyY1owdGlWbjBDTjBLX2NfTW5PUUFQdnNPMHQ4MWQ2Mi1YN2hSNW9FSXAxaW4tNFUtX0M4ZnJ3dE5NOXdxdjVsSHVIZ3RrUWtvU3doeE45bFlLRXgzaVc1UGFwOWstWmlr?oc=5",
+          "published": "2026-11-01T09:44:17+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.549,
+      "id": 25
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Plans to establish nuclear plant in Kenya continues to draw mixed reactions",
+          "publisher": "Daily Nation",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdUN1cERKYWNZY3FNV251QnBENkhYeFhTa2pwOG42bFpNN3YwN2ZwWDR3RlZtcUVvUExzU2RKSXBHMU9qNFBIQzJZeTBTYW16alc1SW5maV8yRDdkZWx5T0FyaUgybEdta3J2aktqWXN1V3JzRV9HdUdFMXZUTmstQVVmYmN5aVhvYWFmc3RxeVgteWptY19OQ0lIMHV3ZUxPUVB3d1hmdWNUUDFaVjNtMnNnMThoMnhRWU5B?oc=5",
+          "published": "2026-11-01T08:44:50+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.508,
+      "id": 26
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Germany's long search for a nuclear waste dump",
+          "publisher": "DW.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaQnFkM0ZEQ1pBT2twZkt0ekV4SWczU1lfVkZSTDlfcERhTUJvU2pHU1JnUUhUOXBfMk5CX3k0YldXZnZIdjdPZnFKM0RyUjFQU2g0Z21Sak42dWwxTng3c0RXRXFIWU9MODdMMmVWb0MxZHVWM0Zzb21OckFHQdIBfkFVX3lxTE5USUg5RUdQMUNLLW1GR3hGb3NRRFVzRVM1Y09FbnNpY2NwLWlMUVhBd0ZmVjBfR1kxdHk4U2VjVlhxNDJxSkY3b1lMVTJyV0JFbnJCUEN0LWlHeHNRdno5X0U5SVRKU0VXWndILVRCTy13NGkwbHE5TVBUVjV0QQ?oc=5",
+          "published": "2026-11-01T08:11:55+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.485,
+      "id": 27
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "President Mahama, Putin agree on 2,000MW nuclear power plant",
+          "publisher": "GhanaWeb",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQWkzcVVNSzg2Z0Z3bjJ0QnFsSnQ5WS0tNkRrcENjdXA0ZXFKWU43M1Y2MTJORWZkWms2MkV6UFhaSVI1bEhPWmZqdklYMkJOMWs1aGJGQldiN1pQV0Y4REttaEVVTlNpeURYTEsyWW9zU05pclAzNURrdkxZVnc0UU9WdE10MnluWGVCcGtBcHJiWlhxSkc3dTFkY2JGR2JNcEZpT2VWUE5pcVFCM3NNUkJKcXdJQQ?oc=5",
+          "published": "2026-11-01T07:57:56+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.475,
+      "id": 28
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Ghana says Russia will support 2,000 MW nuclear plant project",
+          "publisher": "Operativ Məlumat Mərkəzi",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQlBoNUVEQlR2dWtzWFBLY2VvejVrXzZFRDFUdzJVMEloNFhqY1pyNkE0bDFEWEZRNnZMYnpyQTgxZ0Vma0pzTXlEMEoxbEMyTndhZXV1cTZfMFVCajYxS1BuRzRBX3lEMHBmM05YUjVILUNSMVdraEhGVlhMODhlRzNzbko4R0JyWVd6TDNZNTFxclllSlR2Ny1jZHQ?oc=5",
+          "published": "2026-11-01T07:39:21+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.462,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 91
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 28,
+      "kept": 16
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 43,
+      "kept": 32
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 46,
+      "kept": 0
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    }
+  }
+}
