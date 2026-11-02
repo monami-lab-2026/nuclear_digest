@@ -120,6 +120,9 @@ def relevant_group(inst, title):
     keep = _any_word(title, SETTINGS.get("keep_title_keywords", []))
     if not keep and any(re.search(p, title) for p in SETTINGS.get("exclude_title_patterns", [])):
         return None
+    if _any_word(title, SETTINGS.get("temp_title_keywords", [])) and not _any_word(
+            title, SETTINGS.get("temp_keep_keywords", [])):
+        return None
     if _any_word(inst, SETTINGS.get("medical_institutions", [])) and not _any_word(
             title, SETTINGS.get("medical_keep_keywords", [])):
         return None

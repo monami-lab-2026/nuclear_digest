@@ -35,7 +35,10 @@ class JobsTest(unittest.TestCase):
         self.assertIsNone(g(item(19, "한국전력기술주식회사", "2026년도 하반기 장애인 체험형 인턴 채용")))
         self.assertIsNone(g(item(20, "한국전력기술주식회사", "2026년도 하반기 자립준비청년 체험형 인턴 채용")))
         self.assertEqual(g(item(21, "한국전력기술주식회사", "2026년도 하반기 청년 체험형 인턴 채용 공고")), "원전 운영·설계·정비")
-        self.assertEqual(g(item(18, "한국원자력환경공단", "정기채용(공무직, 휴직대체근로자, 체험형 청년인턴)")), "방사성폐기물")
+        self.assertIsNone(g(item(22, "한국전력공사", "2026년도 제2차 체험형 청년인턴 채용")))
+        self.assertIsNone(g(item(23, "한국수력원자력(주)", "2026년 제1차 새울원자력본부 기간제근로자 채용")))
+        self.assertEqual(g(item(24, "한전원자력연료주식회사", "기간제근로자 직원 채용 공고(위촉연구원)")), "원전 운영·설계·정비")
+        self.assertEqual(g(item(18, "한국원자력환경공단", "정기채용(일반직 신입 5급(가), 연구직 신입 5급(가))")), "방사성폐기물")
 
     def test_collect_merge_and_close(self):
         pages = [([item(1, "한국수력원자력(주)", "신입 채용"), item(4, "한국도로공사", "행정직")], 150),

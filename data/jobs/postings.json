@@ -1,25 +1,4 @@
 {
- "306549": {
-  "id": "306549",
-  "inst": "한국전력공사",
-  "group": "전력(관련)",
-  "title": "건설분야 기간제 근로자 채용공고 [HVDC건설본부]",
-  "start": "2026-11-02",
-  "end": "2026-11-16",
-  "hire": [
-   "비정규직"
-  ],
-  "kind": "신입",
-  "region": [
-   "경기"
-  ],
-  "count": 1,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=306549",
-  "src": "http://recruit.kepco.co.kr/sangsi/",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": true
- },
  "306418": {
   "id": "306418",
   "inst": "동남권원자력의학원",
@@ -83,73 +62,6 @@
   "last_seen": "2026-11-02",
   "open": true
  },
- "306259": {
-  "id": "306259",
-  "inst": "한국전력공사",
-  "group": "전력(관련)",
-  "title": "2026년도 제2차 체험형 청년인턴 채용",
-  "start": "2026-10-22",
-  "end": "2026-11-05",
-  "hire": [
-   "청년인턴(체험형)"
-  ],
-  "kind": "신입",
-  "region": [
-   "서울",
-   "부산",
-   "대구",
-   "인천",
-   "대전",
-   "울산",
-   "세종",
-   "경기",
-   "강원",
-   "충북",
-   "충남",
-   "전북",
-   "전남광주",
-   "경북",
-   "경남",
-   "제주"
-  ],
-  "count": 450,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=306259",
-  "src": "http://recruit.kepco.co.kr",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": true
- },
- "306219": {
-  "id": "306219",
-  "inst": "한전KPS(주)",
-  "group": "원전 운영·설계·정비",
-  "title": "[한전KPS(주)] 2026년도 하반기 계약근로자 채용공고",
-  "start": "2026-10-21",
-  "end": "2026-11-06",
-  "hire": [
-   "비정규직"
-  ],
-  "kind": "신입",
-  "region": [
-   "부산",
-   "인천",
-   "울산",
-   "경기",
-   "강원",
-   "충북",
-   "충남",
-   "전남광주",
-   "경북",
-   "경남",
-   "제주"
-  ],
-  "count": 24,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=306219",
-  "src": "https://www.kps.co.kr",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": true
- },
  "306214": {
   "id": "306214",
   "inst": "한국전력기술주식회사",
@@ -169,48 +81,6 @@
   "count": 100,
   "url": "https://job.alio.go.kr/recruitview.do?idx=306214",
   "src": "https://kepco-enc-jobs.cairos.co.kr/kepco-enc-jobs",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": true
- },
- "306190": {
-  "id": "306190",
-  "inst": "한국전력기술주식회사",
-  "group": "원전 운영·설계·정비",
-  "title": "[재공고] 2026년 개방형 직위 채용공고",
-  "start": "2026-10-21",
-  "end": "2026-11-05",
-  "hire": [
-   "비정규직"
-  ],
-  "kind": "경력",
-  "region": [
-   "경북"
-  ],
-  "count": 11,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=306190",
-  "src": "https://kepco-enc.cairos.co.kr/kepco-enc-jobs",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": true
- },
- "306175": {
-  "id": "306175",
-  "inst": "한국수력원자력(주)",
-  "group": "원전 운영·설계·정비",
-  "title": "2026년 제1차 새울원자력본부 기간제근로자 채용",
-  "start": "2026-10-22",
-  "end": "2026-11-06",
-  "hire": [
-   "비정규직"
-  ],
-  "kind": "경력",
-  "region": [
-   "울산"
-  ],
-  "count": 2,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=306175",
-  "src": "www.khnp.co.kr/recruit_te",
   "first_seen": "2026-11-02",
   "last_seen": "2026-11-02",
   "open": true
@@ -330,28 +200,6 @@
   "last_seen": "2026-11-02",
   "open": false
  },
- "305874": {
-  "id": "305874",
-  "inst": "한국전력공사",
-  "group": "전력(관련)",
-  "title": "2026년 하반기 한전 전력연구원 위촉연구원 채용공고",
-  "start": "2026-10-12",
-  "end": "2026-10-27",
-  "hire": [
-   "비정규직"
-  ],
-  "kind": "신입+경력",
-  "region": [
-   "대전",
-   "전남광주"
-  ],
-  "count": 29,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=305874",
-  "src": "https://kepri.saramin.co.kr",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
  "305733": {
   "id": "305733",
   "inst": "한국수력원자력(주)",
@@ -424,48 +272,6 @@
   "last_seen": "2026-11-02",
   "open": false
  },
- "305519": {
-  "id": "305519",
-  "inst": "한국전력국제원자력대학원대학교",
-  "group": "기타 관련",
-  "title": "[한국전력국제원자력대학원대학교] 기간제근로자(휴직대체) 채용",
-  "start": "2026-03-16",
-  "end": "2026-04-06",
-  "hire": [
-   "비정규직"
-  ],
-  "kind": "신입",
-  "region": [
-   "울산"
-  ],
-  "count": 1,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=305519",
-  "src": "https://www.kings.ac.kr/cop/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000000245&nttId=5125",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
- "305499": {
-  "id": "305499",
-  "inst": "한국수력원자력(주)",
-  "group": "원전 운영·설계·정비",
-  "title": "2026년도 제7차 경력사원(전문계약직) 선발",
-  "start": "2026-07-28",
-  "end": "2026-08-12",
-  "hire": [
-   "비정규직"
-  ],
-  "kind": "신입+경력",
-  "region": [
-   "전남광주"
-  ],
-  "count": 1,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=305499",
-  "src": "https://khnp.co.kr/recruit",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
  "305498": {
   "id": "305498",
   "inst": "한국수력원자력(주)",
@@ -485,51 +291,6 @@
   ],
   "count": 6,
   "url": "https://job.alio.go.kr/recruitview.do?idx=305498",
-  "src": "https://khnp.co.kr/recruit",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
- "305496": {
-  "id": "305496",
-  "inst": "한국수력원자력(주)",
-  "group": "원전 운영·설계·정비",
-  "title": "2026년도 제4차 경력사원(전문계약직) 선발",
-  "start": "2026-06-23",
-  "end": "2026-07-08",
-  "hire": [
-   "비정규직"
-  ],
-  "kind": "신입+경력",
-  "region": [
-   "울산",
-   "전남"
-  ],
-  "count": 2,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=305496",
-  "src": "https://khnp.co.kr/recruit",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
- "305495": {
-  "id": "305495",
-  "inst": "한국수력원자력(주)",
-  "group": "원전 운영·설계·정비",
-  "title": "2026년도 제3차 경력사원(전문계약직) 선발",
-  "start": "2026-03-05",
-  "end": "2026-03-20",
-  "hire": [
-   "비정규직"
-  ],
-  "kind": "신입+경력",
-  "region": [
-   "서울",
-   "경북",
-   "전남"
-  ],
-  "count": 2,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=305495",
   "src": "https://khnp.co.kr/recruit",
   "first_seen": "2026-11-02",
   "last_seen": "2026-11-02",
@@ -620,104 +381,6 @@
   "last_seen": "2026-11-02",
   "open": false
  },
- "305458": {
-  "id": "305458",
-  "inst": "한국수력원자력(주)",
-  "group": "원전 운영·설계·정비",
-  "title": "2025년도 제5차 신입사원(고졸수준) 선발",
-  "start": "2025-11-05",
-  "end": "2025-11-20",
-  "hire": [
-   "정규직"
-  ],
-  "kind": "신입",
-  "region": [
-   "부산",
-   "울산",
-   "경기",
-   "강원",
-   "충북",
-   "전북",
-   "경북",
-   "경남",
-   "전남"
-  ],
-  "count": 35,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=305458",
-  "src": "https://www.khnp.co.kr/recruit",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
- "305451": {
-  "id": "305451",
-  "inst": "한국수력원자력(주)",
-  "group": "원전 운영·설계·정비",
-  "title": "2026년도 제1차 경력사원(5(을)직급·공무직근로자) 선발",
-  "start": "2026-03-03",
-  "end": "2026-03-18",
-  "hire": [
-   "정규직",
-   "무기계약직"
-  ],
-  "kind": "경력",
-  "region": [
-   "대전",
-   "울산",
-   "강원",
-   "충북",
-   "경북",
-   "전남"
-  ],
-  "count": 16,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=305451",
-  "src": "https://www.khnp.co.kr/recruit",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
- "305378": {
-  "id": "305378",
-  "inst": "한국수력원자력(주)",
-  "group": "원전 운영·설계·정비",
-  "title": "2026년도 제9차 경력사원(고위직) 선발",
-  "start": "2026-09-28",
-  "end": "2026-10-14",
-  "hire": [
-   "비정규직"
-  ],
-  "kind": "경력",
-  "region": [
-   "경북"
-  ],
-  "count": 1,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=305378",
-  "src": "https://khnp.co.kr/recruit",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
- "305333": {
-  "id": "305333",
-  "inst": "한국전력공사",
-  "group": "전력(관련)",
-  "title": "2026년 제4차 기간제 근로자 채용 공고[경북본부]",
-  "start": "2026-09-23",
-  "end": "2026-10-07",
-  "hire": [
-   "비정규직"
-  ],
-  "kind": "신입",
-  "region": [
-   "경북"
-  ],
-  "count": 5,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=305333",
-  "src": "http://recruit.kepco.co.kr/sangsi",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
  "305320": {
   "id": "305320",
   "inst": "한국원자력안전기술원",
@@ -735,73 +398,6 @@
   "count": 1,
   "url": "https://job.alio.go.kr/recruitview.do?idx=305320",
   "src": "https://kins.recruiter.co.kr",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
- "305259": {
-  "id": "305259",
-  "inst": "한국전력공사",
-  "group": "전력(관련)",
-  "title": "2026년도 제2차 4(나)직급 전문인력 채용공고",
-  "start": "2026-09-22",
-  "end": "2026-10-06",
-  "hire": [
-   "정규직"
-  ],
-  "kind": "경력",
-  "region": [
-   "세종",
-   "충북",
-   "전북",
-   "전남광주"
-  ],
-  "count": 7,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=305259",
-  "src": "http://recruit.kepco.co.kr",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
- "305220": {
-  "id": "305220",
-  "inst": "한전KDN",
-  "group": "기타 관련",
-  "title": "한전KDN(주) 원전인프라부 프로젝트계약근로자 채용공고",
-  "start": "2026-09-22",
-  "end": "2026-10-02",
-  "hire": [
-   "비정규직"
-  ],
-  "kind": "신입+경력",
-  "region": [
-   "대전",
-   "경북"
-  ],
-  "count": 2,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=305220",
-  "src": ".",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
- "305218": {
-  "id": "305218",
-  "inst": "한국전력공사",
-  "group": "전력(관련)",
-  "title": "2026년 제2차 기간제 근로자 채용공고 [경인건설본부]",
-  "start": "2026-09-22",
-  "end": "2026-10-07",
-  "hire": [
-   "비정규직"
-  ],
-  "kind": "경력",
-  "region": [
-   "서울"
-  ],
-  "count": 1,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=305218",
-  "src": "http://recruit.kepco.co.kr/sangsi/",
   "first_seen": "2026-11-02",
   "last_seen": "2026-11-02",
   "open": false
@@ -848,52 +444,6 @@
   "last_seen": "2026-11-02",
   "open": false
  },
- "304768": {
-  "id": "304768",
-  "inst": "한국전력공사",
-  "group": "전력(관련)",
-  "title": "2026년도 제4차 전문직원 채용공고",
-  "start": "2026-09-08",
-  "end": "2026-09-22",
-  "hire": [
-   "정규직"
-  ],
-  "kind": "신입+경력",
-  "region": [
-   "서울",
-   "대전",
-   "전남광주"
-  ],
-  "count": 4,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=304768",
-  "src": "http://recruit.kepco.co.kr",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
- "304757": {
-  "id": "304757",
-  "inst": "한국전력공사",
-  "group": "전력(관련)",
-  "title": "2026년도 하반기 기간제 근로자 채용공고[중부건설본부]",
-  "start": "2026-09-08",
-  "end": "2026-09-22",
-  "hire": [
-   "비정규직"
-  ],
-  "kind": "경력",
-  "region": [
-   "세종",
-   "충북",
-   "전남광주"
-  ],
-  "count": 9,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=304757",
-  "src": "http://recruit.kepco.co.kr/sangsi",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
  "304717": {
   "id": "304717",
   "inst": "한국전력기술주식회사",
@@ -911,33 +461,6 @@
   "count": 109,
   "url": "https://job.alio.go.kr/recruitview.do?idx=304717",
   "src": "https://kepco-enc.cairos.co.kr/kepco-enc/",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
- "304678": {
-  "id": "304678",
-  "inst": "한국수력원자력(주)",
-  "group": "원전 운영·설계·정비",
-  "title": "2026년도 제8차 경력사원(5(을)직급·공무직근로자) 선발",
-  "start": "2026-09-07",
-  "end": "2026-09-22",
-  "hire": [
-   "정규직",
-   "무기계약직"
-  ],
-  "kind": "경력",
-  "region": [
-   "부산",
-   "울산",
-   "경기",
-   "강원",
-   "전남광주",
-   "경북"
-  ],
-  "count": 13,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=304678",
-  "src": "https://www.khnp.co.kr/recruit",
   "first_seen": "2026-11-02",
   "last_seen": "2026-11-02",
   "open": false
@@ -963,66 +486,6 @@
   "last_seen": "2026-11-02",
   "open": false
  },
- "304639": {
-  "id": "304639",
-  "inst": "한국전력기술주식회사",
-  "group": "원전 운영·설계·정비",
-  "title": "2026년도 비정규직(프로젝트) 채용공고",
-  "start": "2026-08-03",
-  "end": "2026-08-18",
-  "hire": [
-   "비정규직"
-  ],
-  "kind": "신입+경력",
-  "region": [
-   "대전",
-   "경기",
-   "경북",
-   "해외"
-  ],
-  "count": 98,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=304639",
-  "src": "https://kepco-enc-jobs.cairos.co.kr/kepco-enc-jobs",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
- "304551": {
-  "id": "304551",
-  "inst": "한국전력공사",
-  "group": "전력(관련)",
-  "title": "2026년도 하반기 4직급 대졸수준 신입사원 채용공고",
-  "start": "2026-09-02",
-  "end": "2026-09-16",
-  "hire": [
-   "정규직"
-  ],
-  "kind": "신입",
-  "region": [
-   "서울",
-   "부산",
-   "대구",
-   "인천",
-   "대전",
-   "울산",
-   "세종",
-   "경기",
-   "강원",
-   "충북",
-   "충남",
-   "전북",
-   "전남광주",
-   "경북",
-   "경남",
-   "제주"
-  ],
-  "count": 490,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=304551",
-  "src": "http://recruit.kepco.co.kr",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
  "304499": {
   "id": "304499",
   "inst": "전남대학교병원",
@@ -1040,98 +503,6 @@
   "count": 1,
   "url": "https://job.alio.go.kr/recruitview.do?idx=304499",
   "src": "https://cnuh.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=262153",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
- "304429": {
-  "id": "304429",
-  "inst": "한국전력공사",
-  "group": "전력(관련)",
-  "title": "2026년도 1차 연구직 채용공고",
-  "start": "2026-08-31",
-  "end": "2026-09-14",
-  "hire": [
-   "정규직"
-  ],
-  "kind": "신입+경력",
-  "region": [
-   "대전",
-   "전남광주"
-  ],
-  "count": 30,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=304429",
-  "src": "http://recruit.kepco.co.kr",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
- "304332": {
-  "id": "304332",
-  "inst": "한국전력공사",
-  "group": "전력(관련)",
-  "title": "2026년도 제1차 전문·사무직원 채용공고",
-  "start": "2026-08-27",
-  "end": "2026-09-10",
-  "hire": [
-   "정규직"
-  ],
-  "kind": "신입+경력",
-  "region": [
-   "서울",
-   "대전",
-   "강원",
-   "충북",
-   "전남광주",
-   "경북"
-  ],
-  "count": 11,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=304332",
-  "src": "http://recruit.kepco.co.kr",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
- "304179": {
-  "id": "304179",
-  "inst": "한전KDN",
-  "group": "기타 관련",
-  "title": "한전KDN(주) 원전인프라부 프로젝트계약근로자 채용공고",
-  "start": "2026-08-24",
-  "end": "2026-09-07",
-  "hire": [
-   "비정규직"
-  ],
-  "kind": "신입+경력",
-  "region": [
-   "대전",
-   "경북"
-  ],
-  "count": 3,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=304179",
-  "src": ".",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
- "304138": {
-  "id": "304138",
-  "inst": "한국원자력통제기술원",
-  "group": "연구·안전·규제",
-  "title": "2026년 제3차 한국원자력통제기술원 비정규직 채용",
-  "start": "2026-07-16",
-  "end": "2026-07-30",
-  "hire": [
-   "비정규직",
-   "청년인턴(체험형)"
-  ],
-  "kind": "신입",
-  "region": [
-   "대전"
-  ],
-  "count": 13,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=304138",
-  "src": "https://kinac.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=260351",
   "first_seen": "2026-11-02",
   "last_seen": "2026-11-02",
   "open": false
@@ -1174,49 +545,6 @@
   "count": 1,
   "url": "https://job.alio.go.kr/recruitview.do?idx=303840",
   "src": "https://diramsjob.recruiter.co.kr/career/home",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
- "303747": {
-  "id": "303747",
-  "inst": "한국전력공사",
-  "group": "전력(관련)",
-  "title": "2026년도 제3차 전문직원 채용",
-  "start": "2026-08-11",
-  "end": "2026-08-25",
-  "hire": [
-   "정규직"
-  ],
-  "kind": "경력",
-  "region": [
-   "서울",
-   "전남광주"
-  ],
-  "count": 1,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=303747",
-  "src": "http://recruit.kepco.co.kr",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
- "303701": {
-  "id": "303701",
-  "inst": "한국전력기술주식회사",
-  "group": "원전 운영·설계·정비",
-  "title": "2026년도 개방형 직위 채용공고",
-  "start": "2026-08-10",
-  "end": "2026-08-25",
-  "hire": [
-   "비정규직"
-  ],
-  "kind": "경력",
-  "region": [
-   "경북"
-  ],
-  "count": 4,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=303701",
-  "src": "https://kepco-enc.cairos.co.kr/kepco-enc-jobs",
   "first_seen": "2026-11-02",
   "last_seen": "2026-11-02",
   "open": false
@@ -1264,29 +592,6 @@
   "last_seen": "2026-11-02",
   "open": false
  },
- "303600": {
-  "id": "303600",
-  "inst": "한국원자력환경공단",
-  "group": "방사성폐기물",
-  "title": "한국원자력환경공단 2026년도 정기채용(공무직, 휴직대체근로자, 체험형 청년인턴(장애인))",
-  "start": "2026-08-10",
-  "end": "2026-08-25",
-  "hire": [
-   "무기계약직",
-   "비정규직",
-   "청년인턴(체험형)"
-  ],
-  "kind": "신입",
-  "region": [
-   "경북"
-  ],
-  "count": 8,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=303600",
-  "src": "https://korad.scout.co.kr",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
  "303198": {
   "id": "303198",
   "inst": "동남권원자력의학원",
@@ -1304,27 +609,6 @@
   "count": 1,
   "url": "https://job.alio.go.kr/recruitview.do?idx=303198",
   "src": "https://diramsjob.recruiter.co.kr/career/home",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
- "303105": {
-  "id": "303105",
-  "inst": "한국전력국제원자력대학원대학교",
-  "group": "기타 관련",
-  "title": "[한국전력국제원자력대학원대학교] 기간제근로자(사무행정) 채용",
-  "start": "2026-07-27",
-  "end": "2026-08-17",
-  "hire": [
-   "비정규직"
-  ],
-  "kind": "신입",
-  "region": [
-   "울산"
-  ],
-  "count": 2,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=303105",
-  "src": "https://kings.ac.kr/cop/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000000245&nttId=5263",
   "first_seen": "2026-11-02",
   "last_seen": "2026-11-02",
   "open": false
@@ -1367,88 +651,6 @@
   "count": 6,
   "url": "https://job.alio.go.kr/recruitview.do?idx=303063",
   "src": "https://kins.recruiter.co.kr",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
- "303025": {
-  "id": "303025",
-  "inst": "한국전력공사",
-  "group": "전력(관련)",
-  "title": "2026년도 NDIS데이터관리원 채용공고",
-  "start": "2026-07-23",
-  "end": "2026-08-06",
-  "hire": [
-   "정규직"
-  ],
-  "kind": "신입",
-  "region": [
-   "강원",
-   "충북",
-   "경북",
-   "경남"
-  ],
-  "count": 4,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=303025",
-  "src": "http://recruit.kepco.co.kr",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
- "302994": {
-  "id": "302994",
-  "inst": "한국수력원자력(주)",
-  "group": "원전 운영·설계·정비",
-  "title": "2026년도 제4차 신입사원(고졸수준 일반전형) 선발",
-  "start": "2026-07-23",
-  "end": "2026-08-07",
-  "hire": [
-   "정규직"
-  ],
-  "kind": "신입",
-  "region": [
-   "부산",
-   "울산",
-   "경기",
-   "강원",
-   "충북",
-   "전북",
-   "전남광주",
-   "경북",
-   "경남"
-  ],
-  "count": 32,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=302994",
-  "src": "https://www.khnp.co.kr/recruit",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
- "302991": {
-  "id": "302991",
-  "inst": "한전KPS(주)",
-  "group": "원전 운영·설계·정비",
-  "title": "[한전KPS(주)] 2026년도 상반기 계약근로자 채용공고",
-  "start": "2026-05-08",
-  "end": "2026-05-26",
-  "hire": [
-   "비정규직"
-  ],
-  "kind": "신입+경력",
-  "region": [
-   "인천",
-   "울산",
-   "경기",
-   "강원",
-   "경북",
-   "경남",
-   "제주",
-   "해외",
-   "전남"
-  ],
-  "count": 58,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=302991",
-  "src": "https://kps1.saramin.co.kr",
   "first_seen": "2026-11-02",
   "last_seen": "2026-11-02",
   "open": false
