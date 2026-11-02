@@ -1,0 +1,867 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-02T23:36:47+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "대우건설, 체코 원전 계약 재협상 요청…\"산업부 중재해달라\"",
+          "publisher": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xOTZRWEFmdE9tSWRsbVdldkRlZXhaU094cS1sRElESEtLeFRFOGVTSERCVUozdjlSbWlldDFLblhfbWxPYU4ycXNtT01KT2FwZXZNVDNPR21NV3YwazlGV04wODhobW92ZkZoRDdJejE?oc=5",
+          "published": "2026-11-02T04:38:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "대우건설 \"체코 원전 시공계약 재협상 요청…산업부 중재해달라\"",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xc2NRQzFzOW05b3JKQnhHcncwcmE5WHJWb05zVnpqTFlBNFZnaW9TSjhqMWYwYmo1ZVZlc0NYdmdwbm1tSEh2NzdYMi1nb1l2TFdJcjRiWnRFalZKNGZoY9IBYEFVX3lxTE1xc2NRQzFzOW05b3JKQnhHcncwcmE5WHJWb05zVnpqTFlBNFZnaW9TSjhqMWYwYmo1ZVZlc0NYdmdwbm1tSEh2NzdYMi1nb1l2TFdJcjRiWnRFalZKNGZoYw?oc=5",
+          "published": "2026-11-02T04:40:57+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "대우건설 \"체코 원전 시공계약 재협상 요청…산업부 중재해달라\"",
+          "publisher": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlZnpzcUNRM0tiLWdUMV9RTHExLVA4NEJsUkZMX2JsMk5RZE03UXhabEx3R0xiRlJpRzI0RG95M2RiNHlKVzdmdlE4ZU0yNDc4bGc?oc=5",
+          "published": "2026-11-02T04:40:57+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "대우건설 \"체코 원전 계약 재협상해야\"…산업부에 중재 요청",
+          "publisher": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Pb2NiRDhEc3BnbFlDSkxJSUI3eXl2dkxaQUJnTm8wbGhSLWpJaWptY2JfdlJIOXdlSk9lNFdMSkxrSUhSdHhidzAzbHBkYW04LXY4NE9vMGR5aW9qV3p2ZHhmLThkMWM?oc=5",
+          "published": "2026-11-02T05:37:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "대우건설, 체코 원전 시공계약 재협상 요청… “산업부 중재 나서야”",
+          "publisher": "브릿지경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxMlNGck9nS3hCWHVkWmlQUThEcGFiejR2MWYwVG5NU3BxRXZ5Q2VMWXppSUpYVVdYV2NONXhaWVQ2M0RqMG94dDFLQzJnZDQzeV9Pc29URzJ1QQ?oc=5",
+          "published": "2026-11-02T05:54:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "대우건설, 체코 원전 시공계약 재협상 요청…\"산업부 중재 필요\"",
+          "publisher": "오피니언뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRR3hSRWtURUFKbHpHYmV1ZWpLYm45YVdWNkV0aWxvcFNLM0MtZzFuMmliQzVwbndaZzBub1BrN0V4Rk9DaDJ5Y3g2cy1CTTdZRlJaVF84M0dQSkFTcEltZkpoQ1RZLWxlRWNWNlF3THU?oc=5",
+          "published": "2026-11-02T06:33:31+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "대우건설, 체코 원전 건설계약 재협상 중재 요청…산업부 \"법적 권한 없어\"(종합)",
+          "publisher": "남도일보",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hZmdpMExwODQtRE94ZlBkMnhVdnJZLUVVU3ltd0Q4ME9OVmN0a1AydmZTYUpVWFRudjZNRVRLemk1ZGtSVXhVeFpwX1dHb3AyVW5WelB0VEVHQkdSM2x2emsxN2U3RHN2ZmJvVElwRWfSAXBBVV95cUxPYWZnaTBMcDg0LURPeGZQZDJ4VXZyWS1FVVN5bXdEODBPTlZjdGtQMnZmU2FKVVhUbnY2TUVUS3ppNWRrUlV4VXhacF9XR29wMlVuVnpQdFRFR0JHUjNsdnprMTdlN0RzdmZib1RJcEVn?oc=5",
+          "published": "2026-11-02T07:43:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "대우건설 \"체코원전 재협상해야\"…산업부 중재 요청",
+          "publisher": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UZ3pCMkgwcksyeHpFbHpqSGhlbUFNcy1qblhRaTdoQjM4cmZpNHZndU5KMmd5a2VfQXVhTlRQZEx2RDJleXpBRzRKeGxSeEE3WkxZQUlxb0p0YXotS3lTY1ZNVGZLQzg?oc=5",
+          "published": "2026-11-02T20:36:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.874,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원 '지역 상생 분산형 연료전지' 정부혁신 최고 사례 선정",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mMkhEejNxWDBaY2NoaHNQVGhwUm1zd0duZ09na1VfdU5lWkdSMGo3Mjk4NmZtUU0xbGFNUlU5Z2dTWk1QTWVrUFM3V2Rfblo1ZDUzc3JhVDlxT2lGeDZobmlfdWhYSUdURk5Pc2dEVWVKLXk5NFBsedIBeEFVX3lxTE5mMkhEejNxWDBaY2NoaHNQVGhwUm1zd0duZ09na1VfdU5lWkdSMGo3Mjk4NmZtUU0xbGFNUlU5Z2dTWk1QTWVrUFM3V2Rfblo1ZDUzc3JhVDlxT2lGeDZobmlfdWhYSUdURk5Pc2dEVWVKLXk5NFBseQ?oc=5",
+          "published": "2026-11-02T06:30:04+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 분산형 연료전지 사업... 정부혁신 국내 최고 사례 선정",
+          "publisher": "BBS불교방송",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yWjg4YS1PcjMyT0NKellFS1Q0QWF5LXFfYzZpVzcxbDlnbU1NYTVzZ1NKVWhvNnlWRnpxT1hsdklIbzVtamFmZVdSN1lsM0p1bHFPU01LQ3UxWjBhV2t4VVNtUkFHeDdrSW1j?oc=5",
+          "published": "2026-11-02T06:48:24+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, '지역 상생 분산형 연료전지' 정부혁신 최고 사례 선정",
+          "publisher": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQSmFZWFdlbHBmV24tc29LcmQtXzVuVUJDekE0OWtCWERaV2xKWm9fVFpGcHNXU2R5eGRKc3hucW9tdTRzQTF5QWVfMHRpRmlicWJ2WFBVUGtvUzNCREVrU1JVYnpsRHpXZ1BLTWZ6NTl5N1Z5VUw1c0pQSElPdWRvN05IazdUbEVvOFMxYS1oNEFWRkZmQ2xvVDdUVlNiRFdzcHVhVUtxU3p2NGZ3TVpnMEY3Tmg1eHFNUUlDRzZuNkJYcG9DNlhoMC1OZ3daXzBVM2RPN0R6VUxEQTB6NzFDZm4tWll5WFRZNGpqOGV1bHdDZnB4T1RwRkhtN2pvWGxYUUtNVWdidi01RkpFQWhoY1Bma2R5YVVl?oc=5",
+          "published": "2026-11-02T07:03:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 지역 상생 분산형 연료전지 정부혁신 최고 사례 선정",
+          "publisher": "인사이트에너지뉴스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DYTFnNlVKajRqRElLdWtwX0hnUWxlY1B0bXhGZmlENWttLXZhd0lKRm9LOVNtQzM3SVZsbVlEWVNFcjZGcHM0WFZZRWp3U0tKVUdZM3pibUc0eXdvSnJoOFdKU2xHcVhxenhN0gFrQVVfeXFMTUNhMWc2VUpqNGpESUt1a3BfSGdRbGVjUHRteEZmaUQ1a20tdmF3SUpGb0s5U21DMzdJVmxtWURZU0VyNkZwczRYVllFandTS0pVR1kzemJtRzR5d29Kcmg4V0pTbEdxWHF6eE0?oc=5",
+          "published": "2026-11-02T07:12:39+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 방치된 땅을 발전소로…분산형 연료전지 정부혁신 최고 사례 선정",
+          "publisher": "메가경제",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3UElDeEZfVkFIUi1pZV9SeU9aWjBTOVM1eDB5MTVTR0tWa2tOTXRDOFptRkJUS3UzeUlzeDc5U1dQMmRYOGp2R0JXTlFXX3dXMFdzOTdNQmJMb1JoRHpJcHNva29TMVlRbEhsVE1ySU1ZUdIBckFVX3lxTFB3UElDeEZfVkFIUi1pZV9SeU9aWjBTOVM1eDB5MTVTR0tWa2tOTXRDOFptRkJUS3UzeUlzeDc5U1dQMmRYOGp2R0JXTlFXX3dXMFdzOTdNQmJMb1JoRHpJcHNva29TMVlRbEhsVE1ySU1ZUQ?oc=5",
+          "published": "2026-11-02T07:21:56+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 ‘지역 상생 분산형 연료전지 사업’, 정부혁신 최고 사례 선정",
+          "publisher": "브레이크뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1WWExsbjFMNTlFcXNwSEhEVUM1T2phR0tQbXNZUWVra2RTQkYxZk82bUlIM0JXbktCUnVscFEtaU9Bdw?oc=5",
+          "published": "2026-11-02T08:06:55+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 분산형 연료전지 사업 정부혁신 최초·최고 사례 선정",
+          "publisher": "뉴스투데이",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jWTdnRTVGT1VCSE90elRPdzA4dERGQm56bUhYVm8yMUpldFI3MHQ1RGpuT1BRTWJwdW9ZMkVnekVjd1owdjdhejhUSUR5X1pZQlhhNHVzSlBDeHNZN1E?oc=5",
+          "published": "2026-11-02T08:23:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 분산형 연료전지 사업 정부혁신 사례 선정",
+          "publisher": "로이슈",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81TV9HUl90SE9TTTU1M3dPNjBNRjRLLXU4cFY3R3BvWmxXMThLNTBrSHNqcGtKVUg4MGFaZHpXM2xrVzVHNnNLY3dESFduT1NfN182cGJydzhab2hvb0cweHFmeXFRbkNENmlSVno0TzFfQkNaWnNQMnVn?oc=5",
+          "published": "2026-11-02T08:56:14+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 '지역 상생 분산형 연료전지 사업', 행안부 '정부혁신 최초·최고' 최고 사례 선정",
+          "publisher": "에너지코리아뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnRkVKSzd4SXR1TGh4Z1FWOFRRLUZKTTZHNUVUSWI3SVBOLWlFU2ZXRndQdmhIYVNfWElPYzVEUWdZNFZYY3BpdDRxR2RuWlJIUHZITXd1NkotOGJOd1VMV3BUZmNCLXZkREpicGVfMGY?oc=5",
+          "published": "2026-11-02T10:04:41+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, ‘지역상생 분산형 연료전지’ 정부혁신 인정",
+          "publisher": "비즈트리뷴",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sRENnQXVPVVFhcFJMSW1GZS1CUllUUVhoZ0lVTmhmejVaUHlyWmgyTjZKQmJpQ0w1RG5fOHpGZFVndnRlQk8yY21iRDM3YkxuS0psdUV4bEUzTjNLNTF5RFJhdlNlOEpiRTgzV1BwTzI?oc=5",
+          "published": "2026-11-02T11:14:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원의 ‘지역 상생형 연료전지 구축사업’, 혁신 최고 사례 선정",
+          "publisher": "에너지플랫폼뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoQWJ1ZkVOOUd4LXkwWExNZWZRV2VaNm12WW1RSTFsY2dXZnZvNkprYkRZdWVLQUVWRk5XSmI0dXl5RWZ3TUhPb1RDR2xxVVIwbEFod0p3alpZQ3BFaDRsaXpWc1V0NnlKM1pqNTJLNFbSAXBBVV95cUxQaEFidWZFTjlHeC15MFhMTWVmUVdlWjZtdlltUUkxbGNnV2Z2bzZKa2JEWXVlS0FFVkZOV0piNHV5eUVmd01IT29UQ0dscVVSMGxBaHdKd2paWUNwRWg0bGl6VnNVdDZ5SjNaajUySzRW?oc=5",
+          "published": "2026-11-02T11:45:49+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력 ʻ지역 상생 분산형 연료전지ʼ 정부혁신 최고 사례 선정",
+          "publisher": "CBN뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZb2RXUEhoWHdmUVNIOV91TjJqQWw5bXZfU0RFN3V0TTZkX0N1Tl9Gd0JzXzFrQ2JZd2ZNNUZPQ0JyVmZPa0hPVFdvdmxobXlfcXRF?oc=5",
+          "published": "2026-11-02T18:11:15+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, '지역 상생 분산형 연료전지' 정부혁신 최고 사례 선정",
+          "publisher": "컨슈머타임스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1venRLeUlRT1RQUlFxOW50eW51eGZ0RGNmVHRnekdTQ2Y3TjFIX3BjeFdBdlJwM0ZPaExycWtSd0xXVFM5ZGNnc0s0WXdHNEp1RXVVMDloNmxOcjczRHJHQV9Ud1gyaVRuZFE?oc=5",
+          "published": "2026-11-02T18:25:08+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.784,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "PEJ applies for early works permit for nuclear power plant",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/pej-applies-for-early-works-permit-for-nuclear-power-plant",
+          "published": "2026-11-02T15:37:01+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        },
+        {
+          "title": "PEJ applies for early works permit for nuclear power plant",
+          "publisher": "World Nuclear News",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVU5aeTVyczYycXdDUkp0WndOUmhTV3FnVFRYUkRvV1JvbDFyNWxvLWlXcjJmeWl6RW0yb0I0eGFxLVd6OTYyeUZULUVyRWwteU1CcGl1Sm9sbVJkcGs0VjZiVzM3Y3BCMm43Zy1EY3VlcE83RHdmSmF5WDYtRVNzZElIMzNoOXhwVUxhaEhZQWNjTTBzblk1MjRzMkhkOEhzNk9Faw?oc=5",
+          "published": "2026-11-02T16:26:42+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.701,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "대우건설, 산업부에 체코 원전 협상 중재 요청…“한수원 재협상 나서야”",
+          "publisher": "글로벌이코노믹",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNemtwNjFyOXhDUnFMenZ5VTVtUEZacE9wdzlIOE1XYUl2RU9ZekdPNS1HZThkUFlfVzZib1RJT3NCMEdVT1ZvNGt0TzduRThCRmtyYnJCQTNqZ0pJaEFJVGJxSDh0TjV1Nzgwd0RBenZTX0h2VElGWUljZEI5MWlITXNVQkRSQ0MyQVE?oc=5",
+          "published": "2026-11-02T04:11:30+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "대우건설, 산업부에 체코 원전 건설계약 재협상 중재 요청",
+          "publisher": "남도일보",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zeVFOUFliMC1uTWx0UU9lZG9lVmp0OHFGVHltR2RJNGVLNmhBUHJkSUJWNlFSQkduVXNHX1NLLWt3emlULUJNT0E5NVRRZ1ZsOUV1ZDJxYWdPUkhERTE1Vy1LdlZONWhQcVpuTE1saGHSAXBBVV95cUxNM3lRTlBZYjAtbk1sdFFPZWRvZVZqdDhxRlR5bUdkSTRlSzZoQVByZElCVjZRUkJHblVzR19TSy1rd3ppVC1CTU9BOTVUUWdWbDlFdWQycWFnT1JIREUxNVctS3ZWTjVoUHFabkxNbGhh?oc=5",
+          "published": "2026-11-02T04:49:18+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "대우건설, 산업부 중재 요청…“체코 원전건설 재협상 필요”",
+          "publisher": "아시아투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5elJfQnZmbXBuQWxuLVhuVWZWR2QwWXM5YnNYNnBFMExCdmVmVkdFRElEVGFZbVBKX1l4ZFFraGlJSGY0eVVUcFFlTTNCUjlEN1EzQ1pwYktFNW0yVUY2WG9BVXhvR0VZRTI4UElB?oc=5",
+          "published": "2026-11-02T06:17:48+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "“체코 원전 시공 재협상 하자”… 대우건설, 산업부에 중재 요청",
+          "publisher": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXb2M1cHRITF9RQi1jZ0U4WmJvVnViMzZEamxIQVM5UGJtbWc3NVNTdkpXZ3g1U3pjdkItMjUzQjR5N01Od252Z04zWjkxeXpFLTg40gFTQVVfeXFMUFdvYzVwdEhMX1FCLWNnRThaYm9WdWIzNkRqbEhBUzlQYm1tZzc1U1N2SldneDVTemN2Qi0yNTNCNHk3TU53bnZnTjNaOTF5ekUtODg?oc=5",
+          "published": "2026-11-02T07:19:34+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.321,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "이 대통령, 에르도안 튀르키예 대통령과 정상회담…원전·방산협력 강화",
+          "publisher": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EQ2ltcWp0ZEhzRGJMd2ZYbzVaUUt2eThjRGtxMWFLdmNac0dDbzVvUGoyM1h6RmFlcUtsdXlhNXVIdDVPQ2pMcWVYU0hQTy1uOWdHWkh4NlFoTkU?oc=5",
+          "published": "2026-11-02T16:02:25+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "李대통령, 오늘 튀르키예 대통령과 정상회담…원전·방산 협력 기대",
+          "publisher": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHaThSZ3lYbFdpMjJNWHFEQzhWSVJGNHJwUENJdWdUX3RLTzJ2cHNmc0VCdVd4d0dtSldWaVZ0cjJnYTdGTWZMN015REkzOGk1MDBwTVF4WHJCdkk?oc=5",
+          "published": "2026-11-02T20:05:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "李대통령, 오늘 튀르키예 대통령과 정상회담…원전·방산 협력 확대 논의",
+          "publisher": "쿠키뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02US1aTTFEczQ1aW1XdmxPeWJGT21VV0FKNHhueHNLdFU0MFN0WnZwdm0zZDNKY2hGY3JiYTh6NmxySDZmc2tEYmVVOFM4S09UaEo3N2pOdUhFSzRWOW8xeUFCRQ?oc=5",
+          "published": "2026-11-02T21:54:23+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.929,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Antares, Last Energy, and Radiant hit DOE authorization milestones",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-02/article-8549/antares-last-energy-and-radiant-hit-doe-authorization-milestones/",
+          "published": "2026-11-02T21:25:30+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.909,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Centrus sends first new centrifuge built at Oak Ridge to Piketon plant",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-02/article-8548/centrus-sends-first-new-centrifuge-built-at-oak-ridge-to-piketon-plant/",
+          "published": "2026-11-02T18:17:44+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.778,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "UW-Madison breaks ground on new radioisotope cyclotron facility",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-02/article-8547/uwmadison-breaks-ground-on-new-radioisotope-cyclotron-facility/",
+          "published": "2026-11-02T15:34:16+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.665,
+      "id": 7
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "대우건설 '체코 원전' 중재 요청…산업부 \"법적 권한 없어\"(종합)",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwclQ4Y1NZcHdrSGFtcHdSR1BGOW9OVkNCc3QzWkJsN3BvdzE5TTR0QUlLTENtMGtSQ2Z1RjczWktFZUJVOHkwMXU5Nk9jZ2k0MkExR3JnVmZfcUxmOXdfT3VobUsyZ1lXWjh1dzIybkVNdzhZb1VlN9IBeEFVX3lxTFAwclQ4Y1NZcHdrSGFtcHdSR1BGOW9OVkNCc3QzWkJsN3BvdzE5TTR0QUlLTENtMGtSQ2Z1RjczWktFZUJVOHkwMXU5Nk9jZ2k0MkExR3JnVmZfcUxmOXdfT3VobUsyZ1lXWjh1dzIybkVNdzhZb1VlNw?oc=5",
+          "published": "2026-11-02T07:33:18+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "“수천억 손해 봐도 체코 원전 참여” 대우건설, 중재 요청…산업부 “법적 권한 없어”",
+          "publisher": "서울신문",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EU1ZoZWZ1aEpZdFA5bVVkLWtpRVNENGM1dVBSazl1bnRyY0xDT1c0VG1SNzhhSGxhYUdyaTBKMDlqU2hGVHgzTVVSaGk2bnVKM2t6U3Z5a3UtRzdqSWhzbzhZdlpZdXU0bG9KdzFxSQ?oc=5",
+          "published": "2026-11-02T10:37:19+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "대우건설 ‘체코 원전 SOS’에… 산업부 “법적 권한 없다”",
+          "publisher": "동아일보",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TY2Y1enpCazNFNjEyMWdfaVYtZnZseVdvYzN2aE42U2l0dE5EN3BYeG1MUlRFeTZKZE1mT3hQek5yc3lDb0dHOUZLV09ybDdhc25CcW1hYmkyMVI2TFZlMExRazNJTEREZENxeWRrSTVmN3BTRFHSAWZBVV95cUxPOFdEQmVCX1JWOU9JSG5TUWMxU3dGOUt2RUloZ0ZhempBVlV0dktoYV9vZXBoWDA4UnV1WlY4NFA5NWhHY0hNclU1Smp2RlNxQjBaQkFwRGR2aXlab0N2czRUVldQaGc?oc=5",
+          "published": "2026-11-02T15:30:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.662,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "First concrete poured for unit 5 at Haiyang plant",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/first-concrete-poured-unit-5-haiyang-plant",
+          "published": "2026-11-02T14:37:39+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.626,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Texas SMR plant moves to final permitting stage",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/texas-smr-plant-moves-to-final-permitting-stage",
+          "published": "2026-11-02T14:18:54+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.613,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Next-generation fuel projects get US federal funding",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/next-generation-fuel-projects-get-us-federal-funding",
+          "published": "2026-11-02T13:11:04+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.566,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Ghana, Russia to pursue 2,000MW nuclear power plant",
+          "publisher": "GBC Ghana Online",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPek8wSUJSU2NFekd4c04zTDhtQ3lRdG9XMm1TRnVZdXVtWXFrRTVNbm9nUXZZeTNoQjBkNXppVEhJQXV3ZExQS0tHNWY5cDJaMWdfYms1eDRRUmNOcnV0eHh5S3RqQk1CZVRkWkZRNjRRSExHWG5QZTh0VE9UNkozampaUWh3dWNhM1IxcEhQU2dxa011V3lEdWdB?oc=5",
+          "published": "2026-11-02T04:25:19+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Russia to help Ghana build 2,000MW nuclear power plant – Ablakwa",
+          "publisher": "3News",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQW9YeFBDUG1nUFhMLUJnNHVXS1VBMkxEeS1XYkpNX09ZbnJjMUlYaGhQZS1tcmE4cU1lZXRpWk9oUldNdnR3anVObTNGWDUzbDNzTmZENlRLRFNKUEMwTm1wM1BXektvdk5sYXduVzEyQUt0ZWNMRjYxVTNESnlJR0ZIWUZaREEzNXFGWE5n?oc=5",
+          "published": "2026-11-02T06:14:46+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Ghana, Russia agree on 2,000MW nuclear power plant and new defence pact",
+          "publisher": "Modern Ghana",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNamRidnZJa1ZBQlczbUViS19BS200QndRYnBuS1c1b212ZW9EZ1NiTV9wZGx1TGJqUTQtdmNYWURjWmc3bVU2RWZjaTdRUW93TXlZcU5kNHVvNG9KRE13R2lGb1VuUVFuYlVoSk16enRWWEJLZWlvdDRnLU1FVTJiWDJkV1lkNURIOWZvWFM5djFOUWhVVy1lQ0R30gGYAUFVX3lxTE1wWXhPTktMRWNhWndkYVgwZVV6UTBxRXRQMUlYN0czdDFpWThTZGpNYU9TUFNvcWxERl9qelczX29adU5lQU5DT1NKQVlzeUk1MU5Ec1JnLTZDNTFERGtSazJfb1N4dTd4cV9ERFhIWXhjUUJoN1NxNlhjQm56ckgxNDlockhsVWFBTDBoU2xYX1hJTmRJdEps?oc=5",
+          "published": "2026-11-02T13:12:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.566,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Uganda and Russia look to move ahead with nuclear project",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/russia-and-uganda-look-to-move-head-with-nuclear-project",
+          "published": "2026-11-02T13:03:13+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.56,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NN announces the 2026 40 Under 40 honorees",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-02/article-8544/inni-announces-the-2026-40-under-40-honorees/",
+          "published": "2026-11-02T12:49:55+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.551,
+      "id": 14
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "대우건설 “수백억 선투입했는데” 체코 원전 재협상 중재 요청에…산업부 “권한 없어”",
+          "publisher": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UUEtCUWJZdzV0R2RuYjZETE5hSTdSd2RQWHR3M1k0Z3lFUVhUZ1ZqT2VsbEo3Nm1zSk9yX19VM1pJQW4yNi1saTVJMzMyVWJreENpMEJFejRvd9IBX0FVX3lxTFBMVnhMZFhiVW5ibkFCVklkX3BQTlNiZmhjNnNQd2dVUzh2UGtfQnZaX3d1MzkzX0xuRkRXV3dFQW9hclQxTW10NmRKa1dJeHFDa0RWZzdjOEJKNkpGbXpN?oc=5",
+          "published": "2026-11-02T07:07:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "산업부, 체코 원전 재협상 중재 요청에 \"법적 권한 없어\"",
+          "publisher": "코리아리포트",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYMEVzYzRWOWtfdF83YlZOYTIyMHZTN3ZCeGNyTjN4NHRrWWFFeW5tMy14Z1F0ZUFrdWdBTF9jbzU5Sk9QWnRQRTBUUDdUcnpBNWx6SGZ0RGxYc2tqai1CVjl3Y3VmUzc5MjJyQ0x0bC0?oc=5",
+          "published": "2026-11-02T09:38:11+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "대우건설 ‘체코 원전’ 협상 중재 요청에…산업부 “권한 없다”",
+          "publisher": "시사저널",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4TUFYRGQtZ19rSjRDNTZBWm9HdXVEdHUteHFXWTBvTUVxSkN4REZuTnFvUzctdFYtQUlIbzlWLVJrZThlRkpQUUd5U2s3d0ozOTdaalcxVEQ0dVg1NEMzSjZuSjFlZW5UMGdqZTUzel92UEHSAXNBVV95cUxQOE1BWERkLWdfa0o0QzU2QVpvR3V1RHR1LXhxV1kwb01FcUpDeERGbk5xb1M3LXRWLUFJSG85Vi1Sa2U4ZUZKUFFHeVNrN3dKMzk3WmpXMVRENHVYNTRDM0o2bkoxZWVuVDBnamU1M3pfdlBB?oc=5",
+          "published": "2026-11-02T09:46:50+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.424,
+      "id": 15
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "에이치시티, 원자력 성능검증 인증 확대…한수원 유자격공급자 등록",
+          "publisher": "프라임경제",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GVW9JdHBqbHhxeC1kUVc0Z1ppQVRfbm1UcnhTTnNBLTlseWlNU094MWkwMlktdnIzdHpPQVlkVDU4RFE4RXA4S3BjQVdMOEpWeTRFT0VWSkFNdHRDUHF2OWlsMkd3aVJiY3UyZDNyV1k4Zw?oc=5",
+          "published": "2026-11-02T00:05:42+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "에이치시티, 원자력 검증 역량 확대…한수원 공급자 등록",
+          "publisher": "이데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYTNSTE9LNnlHU3pXeTJYLW5KeV9ZaFkyaUl6ejhBeXl1eEQ2Z3cyS0ZMbkFlTFNyWkM2ZDhnMUhObVNOamJPbUlkUXVPV0Y4cWVYY2NaRTNLVm1BYWRPU0JRdEt4OG5JSExzSGVMblZETjVoUEg3bFladk9hN2Qycg?oc=5",
+          "published": "2026-11-02T01:38:16+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "에이치시티, 원자력 안전기기 성능검증 확대 및 한수원 CGID 공급자 등록 완료",
+          "publisher": "전기신문",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BLWdySkhtTEZHRFN6YURmbG44aEZ1NXNxTE1YOEdzbEFNSWRuRHhJc2ZfSGRWcUtNSXVNQjRicjBSN1QtdWNUbU1DMUdobEhuM19ZdXY2THpKQTZiVnlVLWcyV0Q2SlV2UE00QWJTTEnSAXBBVV95cUxPQS1nckpIbUxGR0RTemFEZmxuOGhGdTVzcUxNWDhHc2xBTUlkbkR4SXNmX0hkVnFLTUl1TUI0YnIwUjdULXVjVG1NQzFHaGxIbjNfWXV2Nkx6SkE2YlZ5VS1nMldENkpVdlBNNEFiU0xJ?oc=5",
+          "published": "2026-11-02T05:13:07+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.234,
+      "id": 16
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "이 대통령, 오늘 한-튀르키예 정상회담…원전·방산 협력 확대 논의",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OVzU4bkstNWcwb0V4QmZwSzJJZDBoaUFtSzM1T3dyaVNQTkg3ZTJES0psNzRtR3pGX0JsTDV0eEVOUE15ZV9Jd0JxNUE5UE90czZ2VzF4MEVLNS1jV3RoT9IBeEFVX3lxTE15bWV2UFB5VDlfVU5jLTFRQ05ZeHZDcnlVS2RGOUtJU2RFMVhiLVBOR3otUlJCVTJWYUpVTV9XQ3pzVGpsUm1LRnJTUl9TRFZnQUFrOVhzRHJuXzRFTnZ0NU9NT1pMOVVocmd1MnJMTENUMDhIYnZuSQ?oc=5",
+          "published": "2026-11-02T20:00:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[AM-PM] 한·튀르키예 정상회담…원전·방산 협력 논의 外",
+          "publisher": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84OXNDc0Vud00tVUJyTTl3WTlhZDZOUk9qWFJHWnk3RjZ3T0dvWHlDaWh3eXgxZ2tybFh4a0hMZzZ1bzJQc09TdFVVYzJhZmxyNUd4ZVJ5Rko4VzRWOVRPUlZUUUIwbmc?oc=5",
+          "published": "2026-11-02T21:53:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.928,
+      "id": 17
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "체코 원전 엎어지고, 가덕신공항 꼬이고… 대우건설 미래일감 흔들",
+          "publisher": "IT조선",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zZFBlTkNrX3lxMnV0SW5QT0RiSUR5VGdHelJIRjZNU1F3TjJmLWFHcmtMeVljM0czTElVeFZ2TFZId1VYOHc1RWZkbWVTQi03WWw2N21SYlBqZUZwTDFpc2ZXUE92U0VNMFJrZGh6aW7SAXRBVV95cUxQZWYtV2p1RXRRTDAxM0hOdUtBdWRLd2hGbHJpeU1Pa29WY0FGV0FuWHdRVWVnWlhXV0tOLW5meFEwNkJheWtLT1NmaWQ4dlM4c3NrWTRLTFVqbVNkclNsUURvejhNQmNnNkI3NWVmb25oOHdJRQ?oc=5",
+          "published": "2026-11-02T21:30:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "체코 원전 엎어지고, 가덕신공항 꼬이고… 대우건설 미래일감 흔들",
+          "publisher": "IT조선",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlZi1XanVFdFFMMDEzSE51S0F1ZEt3aEZscml5TU9rb1ZjQUZXQW5Yd1FVZWdaWFdXS04tbmZ4UTA2QmF5a0tPU2ZpZDh2Uzhzc2tZNEtMVWptU2RyU2xRRG96OE1CY2c2Qjc1ZWZvbmg4d0lF0gF0QVVfeXFMUGVmLVdqdUV0UUwwMTNITnVLQXVkS3doRmxyaXlNT2tvVmNBRldBblh3UVVlZ1pYV1dLTi1uZnhRMDZCYXlrS09TZmlkOHZTOHNza1k0S0xVam1TZHJTbFFEb3o4TUJjZzZCNzVlZm9uaDh3SUU?oc=5",
+          "published": "2026-11-02T21:30:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.912,
+      "id": 18
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "대우건설, 체코 원전 일방적 협상 종료에 반발 … \"산업부 중재 나서야\"",
+          "publisher": "뉴데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX2RGTmJvcFlzaGFmNWdBdlNHQmYyMHlKaVNHZ2lVSXNERnlYcUdYWUZseXd0OGdycDlKSTUwbFVqdThTb294Qkp6Z0t6QUthdHhVZGIxajdZX204Tm9ISUxENXhRR3NnQnBvLWVJTXR3M2RNSXlNbm9wU0ZxN2ZKcNIBgAFBVV95cUxPX2RGTmJvcFlzaGFmNWdBdlNHQmYyMHlKaVNHZ2lVSXNERnlYcUdYWUZseXd0OGdycDlKSTUwbFVqdThTb294Qkp6Z0t6QUthdHhVZGIxajdZX204Tm9ISUxENXhRR3NnQnBvLWVJTXR3M2RNSXlNbm9wU0ZxN2ZKcA?oc=5",
+          "published": "2026-11-02T05:04:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "대우건설, 체코 원전 일방적 협상 종료에 “심각한 유감”…산업부에 재협상 중재 요청",
+          "publisher": "팍스경제TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TbkdLVUhsNGdRMnNfb1o0NGlER05oU08wYVJ6RjZMQ2lwM1l6RjNYdGNJck0ydDhYbHVIeXRVbzlRcXlNVE4yVEpQajhRLXBoSFc3RUNva2d3ZDZnSC1QemNINVZnNWM?oc=5",
+          "published": "2026-11-02T09:36:10+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.416,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "대우건설 \"체코 원전, 정부가 재협상 중재 나서달라\"… 산업부 \"권한 없어\"",
+          "publisher": "한국일보",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VeTQ5cThLWnk4MHlMb0V0MzRjUk5zX1V5TnNDWDlLQlRTZjVmbHhBVXRjUzhEWWV1eXJPc2F3Q1Ruamd1dWFlWVp6MjNURTJieHdaelFfQzlUN2Y4aDNYNVlSUXZNeS02WUNhWTdMTEF6NFnSAXNBVV95cUxNVXk0OXE4S1p5ODB5TG9FdDM0Y1JOc19VeU5zQ1g5S0JUU2Y1Zmx4QVV0Y1M4RFlldXlyT3Nhd0NUbmpndXVhZVlaejIzVEUyYnh3WnpRX0M5VDdmOGgzWDVZUlF2TXktNllDYVk3TExBejRZ?oc=5",
+          "published": "2026-11-02T09:13:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "대우건설 \"정부가 체코원전 재협상 중재 나서달라\"",
+          "publisher": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0weU5tMVBOdEJ6TVllcXlnb3pUUG96QV9HQml2M0xrUDhnbjNmbWxXLThIVXRsTnRuRWVKeVJuTDBNQkJPUTRkZEZ0bW5NSmdvUC1uby03d1VNZw?oc=5",
+          "published": "2026-11-02T09:29:46+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.412,
+      "id": 20
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 유휴 공간 연료전지 사업 혁신 사례 선정…국내 최고 평가",
+          "publisher": "뉴스퀘스트",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mNXV1NklLWWdHVTRQOVhxRmFBU0FqZ1JCMnhhYlpWOEU1N1F6Ql9wejdEcmJYSFZmcHVjZkJxSHQxMEdTTTVpeC1zSDktcnd6blRRVzdCcFRfa3pyR0NJMXpTRUhTdml0TWlTRmEzTQ?oc=5",
+          "published": "2026-11-02T06:14:54+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 '지역 상생 분산형 연료전지 사업', 유휴 공간 재생 국내 최고 혁신 사례 선정",
+          "publisher": "소비자가 만드는 신문",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwNl9QTU5sMWZrMU9FZjRkamc4NlRWaGQ2SGNkZThUUXFRakppZVBUR05LLWtHTTEzY1JRVzR0aW91LWlBdjR3LUtxWDBMMWl2WFE3LWpVbjZLa2NsTUpaQ2d6MGFCTTdnem93WHk1TmhJZ28?oc=5",
+          "published": "2026-11-02T09:17:54+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.404,
+      "id": 21
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 창원 유휴 부지 발전소로 활용…정부혁신 '최고' 선정",
+          "publisher": "월요신문",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JZWxMWUw3WE91Q0U4Q3hzOWt3R2lkcDhuVE5EdmJuNUV4c0FGdzJjUFpFUG83a1ViWFdRNU1UV3Q1NmROWmJ1dzJVRVRFLUJ3VTJWaDNYeTFDcFZPTjlURHpfUGd6eGU5T3c?oc=5",
+          "published": "2026-11-02T06:32:05+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 창원 유휴 부지 활용 연료전지 사업 '정부혁신 최고 사례' 선정",
+          "publisher": "웹이코노미",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EaG9raVZEdDVrLUJGM1IzSHFCaXY3MjJkVFAyVUd2cWV4X3YzR0d1QlFFY0ZJWVpGYkw4M0psUXdnRWlmcDlBZnFiOXliQjBEbVhoRTJPRkxuMTJGck9nMUkySnktNy1BU0Rka3ZRUXlYUQ?oc=5",
+          "published": "2026-11-02T09:14:52+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.401,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "대우건설 \"산업부가 원전 중재해야\" 요청에 산업부 \"권한 없다\"(종합)",
+          "publisher": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WRkNBMEdtRHQ3WndPaDEtU0d5cU5uNTJnZDdsVmtxVkJiZmN3UmhhbHd6a2s1bUZYNmZwMlJCMlN6azRxcy1neWp6UTlFNnhDSkE?oc=5",
+          "published": "2026-11-02T07:51:11+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "대우건설 \"산업부가 원전 중재해야\" 요청에 산업부 \"권한 없다\"",
+          "publisher": "MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nS1JtcU5RQXZwU0JzQmRlYlJEVTl0V2N6cm4zM1JmS2o5TEZtOWFYOGpTRWZrUE1GY21IUGM1VHoxd1lURDVXbDMycm5vNnpBRkE1OGVKaExxZVY1NTFiSHRnQ01zVnVMcGtjdmgtVDVBMGNf0gF0QVVfeXFMUFFjWFc3NDlLelFXbjEzMlRMYVVSOWdaNFBvOEl3dVdRUUJyTEhpdzduNHdCOFRaTm5UVzI0ZUM2aXFMX00zS3d6aHJ4OFVidGJ5LWxqTnV2Zi1GYzBTUERENTNzeEJSRG4tNlhndG96SFd1WUQ?oc=5",
+          "published": "2026-11-02T09:00:19+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.391,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "현대건설, 美 차세대 SMR 설계부터 참여…시공 수주 포석",
+          "publisher": "전기신문",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sbnYtRUVCRWhnYVliUXF3eTNGM0NYUTN1Z3hrQ2JJU0Y2bHF0d05mQ0ZWVWNKV1ZmNS1jR2VZRnNFUlZYWkRiNUlyUFlLcTlQWDltYzJycXdlOUZOSl9hcThmSTFjbVRYdWY4MUluRWfSAXBBVV95cUxNbG52LUVFQkVoZ2FZYlFxd3kzRjNDWFEzdWd4a0NiSVNGNmxxdHdOZkNGVlVjSldWZjUtY0dlWUZzRVJWWFpEYjVJclBZS3E5UFg5bWMycnF3ZTlGTkpfYXE4ZkkxY21UWHVmODFJbkVn?oc=5",
+          "published": "2026-11-02T02:24:54+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "현대건설, 美 차세대 SMR 설계부터 참여···원전 EPC 수주 포석",
+          "publisher": "스마트비즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KVFVqQ2NfN1czR2F5SGNkMGZLUk9yd1Z2UGxjZlBaMk9ib0RsTzhoOHh1bFkwODNMaW9LRmRPWGhIV0RhWUVNd1RrRS1IYi1sbVFjTHljUnZqUDJLdXRlNXhjWVRldkwzNlBMOQ?oc=5",
+          "published": "2026-11-02T08:14:49+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.36,
+      "id": 24
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Erdogan: South Korea May Join Development of Sinop Nuclear Power Plant in Turkey",
+          "publisher": "Daily Beirut",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTUE4am1iMjVkektnVEZTbU96ZVVqU3ROX2lFVEtyb2VKM3V0cTBvVFIydTZNQU9HQXJnMU5vd0VuM2Fua1NmVFQtUnZXWTJwbFozMHRfSDdXVl9peG5JQldoQV9KSHNhMnc4azRPdnRQdFVXN3hraFhudDMzUE5OX2wydjBaR3RjeU5uVW5qYkxCbk5WbHQzOWpWUkNFY050eHNORGRScHdrNzFFblNuRHlJUQ?oc=5",
+          "published": "2026-11-02T05:34:09+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Erdogan says South Korea could join Turkey’s planned nuclear power project",
+          "publisher": "eKathimerini.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNamhlZDM4SDZtamxSSGtYaDlvdHVfbW5ZaHVmd0RtT0s5R3ZaSW9FU2ZvZEhJMExvTGc5VXdYZ2pOUzlaTjdIX3RpUWdSblJWNll6RmJWVmtobFJTeWdDS2RfeGRaWl84YUdJY24zc1IzNGk2eTRFODc1aTJQYmpYQ1J4OG9IS090TFJtVVFGa2J1QUlJM1hWeTR1aVVzWndhUGN5Z1AtT1U1UUhfWVRGMmVwWEc4a3J4aTVCdE1mdWxXT2ot?oc=5",
+          "published": "2026-11-02T06:58:36+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.307,
+      "id": 25
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Seoul moves to rescue Czech nuclear project",
+          "publisher": "Korea JoongAng Daily",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYXpqa2hoSzF3WHNxQXlycmZ4bmVMdUc1MHNsbDFkcVZOdElYWlNGam9FdlEwdDM4MnA1ZDhrSVZPTVhwWlcxeXNja1BjTjV2VlVkeUJPUE1KcXNkbWY5ZC1CMlhRbGZUaWVpUWxQeExPdnByLWVVaGxHYkdsNUp5NmRUaXVwVG9PXzhHTzlhMFNkN3cxb3NyTA?oc=5",
+          "published": "2026-11-01T23:43:57+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "South Korea Moves to Prevent Delays in $17.5bn Czech Nuclear Project",
+          "publisher": "The Nation (Pakistan )",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFVwUUJOZEptY0QtTm9CQjdMaV9nNWtLdzl3ZTNxdVlRR1FqNERFam9fYlFEc0x5Uk1oMGNMUlZ3ZkNNZnhTSVZQLXpzVHdCVjZ3dTFTeTB0el9UbHVxRWRYa3AtR21vTWw4ZGFMRmJMQlRtVlFrSTd0NUJ5RVJoaUY3ajlvUEtRcXVzSmREcmE2TFdnc1E4bXQyM2tMRGlzMG1tbllfdWZmRmIzNVBMcG0tRW44SVhKZEE?oc=5",
+          "published": "2026-11-02T06:55:13+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.304,
+      "id": 26
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Who will build the Czech nuclear power plant? Daewoo Engineering & Construction formally asks the government to mediate renegotiations",
+          "publisher": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50c0E5QzFVYWcwdHNQTzNzcWx3TXdveU5ZVzFiOWRLY2VoUW15VnVUU1E1SDhOYTZEaTV6bnlEVEN0TTBtaXBtdFVhZXdTWWVWSFQxbVNYMVY?oc=5",
+          "published": "2026-11-02T04:57:33+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Daewoo E&C Asks Trade Ministry to Mediate Renegotiation of Czech Nuclear Plant Construction Contract",
+          "publisher": "news.sbs.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84eEpxQmhVOUdaSUNVVUxLRmpaRkc2MWkyeS1xNUplLUhVczBfbHRqNUtTY01ialUxRkRpVmlwUFlNYWNYaEJXamphMDZDTnNLMmYyUFFtMnZrTDZhbG5hUnRMbWhMcXZZSS1EOHFR?oc=5",
+          "published": "2026-11-02T05:02:59+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.227,
+      "id": 27
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "AI Power Demand, Energy Crisis Push Global Nuclear Construction to 40-Year High",
+          "publisher": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Pc2hKRjJDbV9sYks2aDFaT1hxTFFDUWhDVnEtd1JaSjRYelA4TnliLUNzMkU5UVdlTTdOU0tfSkU2c3VIRU1LNVB3OWhDY3pWT200cHoyYlZqMzhtdXhRNU1LNWo?oc=5",
+          "published": "2026-11-02T01:17:16+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Global reactor construction hits 40-year high as AI power demand surges",
+          "publisher": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00YUhkU1g2Q2VFU2p2dVZUQk8waS1lNGNkaDJiaTRBWklTRHJ0eG9TQzVZdTBjNnZuOWNoeGJsSkNUVFlQX1FpTnJ1UVpNX3VXZC1YT1FMck4?oc=5",
+          "published": "2026-11-02T04:52:09+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.219,
+      "id": 28
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Ministry of Trade, Industry and Energy Activates Direct Oversight System for Czech Nuclear Power Project",
+          "publisher": "news.sbs.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XQllJd2xfR2tEVjB5Nlhvc1NoMXgxOWRKVEhjaGpwLTBrc3lNNDJUay1VSnk0QVhQX2l6TUVPaDJBVS1xTTRLblA2SWg2OGRicDlTREk0QTFRczNMV3RodlhWVnhidw?oc=5",
+          "published": "2026-11-02T00:20:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Czech nuclear power plant construction contract falls through…Ministry of Industry activates emergency management system",
+          "publisher": "뉴스웍스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DVTZQNEYtbE1jMG4wTzF3S19VQU5waDNpNEZ4STNidHN1elBfelpONlIzWmg2Vi01VWhyVU9feDI0bVQyXzJucF9YU0xuaHE5dnpOMTg2bkttaUpscTRVY0FlSFhtSGlONFdhMA?oc=5",
+          "published": "2026-11-02T04:33:52+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.206,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 97
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 100,
+      "kept": 85
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 71,
+      "kept": 64
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 47,
+      "kept": 5
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 4
+    }
+  }
+}
