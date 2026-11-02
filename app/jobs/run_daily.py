@@ -15,7 +15,7 @@ from zoneinfo import ZoneInfo
 from ..build_home import build_home
 from .build_site import build_site
 from .collect import (HISTORY_PATH, LATEST_RUN_PATH, NEWS_PATH, SETTINGS, NoKey, collect_alio, collect_news,
-                      merge, read_json, service_key, write_json)
+                      merge, read_json, refilter, service_key, write_json)
 
 KST = ZoneInfo("Asia/Seoul")
 
@@ -25,7 +25,8 @@ def run(backfill=False):
     today = now.date()
     status = read_json(LATEST_RUN_PATH, {}) or {}
     status.update(run_date=today.isoformat(), started_at=now.isoformat(timespec="seconds"))
-    history = read_json(HISTORY_PATH, {}) or {}
+    history = refilter(read_json(HISTORY_PATH, {}) or {})
+    write_json(HISTORY_PATH, dict(sorted(history.items(), key=lambda kv: kv[0], reverse=True)))
 
     try:
         key = service_key()

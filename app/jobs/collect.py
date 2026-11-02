@@ -106,16 +106,42 @@ def fetch_page(key, page, ongoing=True):
     raise last
 
 
+def _any_word(text, words):
+    low = text.lower()
+    return any(w.lower() in low for w in words)
+
+
 def group_for(item):
-    """Institution group for a nuclear posting, or None if the posting is not nuclear-related."""
-    inst = str(item.get("instNm") or "")
+    """Institution group for a nuclear posting, or None if it is not relevant to a nuclear/radiation engineering major."""
+    return relevant_group(str(item.get("instNm") or ""), str(item.get("recrutPbancTtl") or ""))
+
+
+def relevant_group(inst, title):
+    keep = _any_word(title, SETTINGS.get("keep_title_keywords", []))
+    if not keep and any(re.search(p, title) for p in SETTINGS.get("exclude_title_patterns", [])):
+        return None
+    if _any_word(inst, SETTINGS.get("medical_institutions", [])) and not _any_word(
+            title, SETTINGS.get("medical_keep_keywords", [])):
+        return None
     for entry in SETTINGS["institutions"]:
         if any(name in inst for name in entry["names"]):
             return entry["group"]
-    title = str(item.get("recrutPbancTtl") or "")
-    if any(word.lower() in title.lower() for word in SETTINGS["title_keywords"]):
+    cleaned = title
+    for fragment in SETTINGS.get("title_keyword_false_hits", []):
+        cleaned = cleaned.replace(fragment, " ")
+    if _any_word(cleaned, SETTINGS["title_keywords"]):
         return OTHER_GROUP
     return None
+
+
+def refilter(history):
+    """Re-apply the current filter to stored postings (drops ones a stricter filter no longer accepts)."""
+    kept = {}
+    for pid, record in history.items():
+        group = relevant_group(record.get("inst", ""), record.get("title", ""))
+        if group:
+            kept[pid] = {**record, "group": group}
+    return kept
 
 
 def split_list(value):

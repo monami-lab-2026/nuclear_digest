@@ -23,6 +23,17 @@ class JobsTest(unittest.TestCase):
         # 한국전력공사 must not swallow 한국전력기술
         self.assertEqual(collect.group_for(item(5, "한국전력기술(주)", "기계 경력직")), "원전 운영·설계·정비")
 
+    def test_filter_drops_unrelated(self):
+        g = collect.group_for
+        self.assertIsNone(g(item(11, "국립암센터", "부속병원 입원전담전문의(내과) 초빙 공고")))
+        self.assertIsNone(g(item(12, "국립공원공단", "[지리산전남] 지리산국립공원전남사무소 기간제 채용")))
+        self.assertIsNone(g(item(13, "제주대학교병원", "계약직(간호사, 방사선사) 모집공고")))
+        self.assertIsNone(g(item(14, "한국원자력의학원", "2027년도 전임의사 초빙 공고")))
+        self.assertIsNone(g(item(15, "한전KPS(주)", "한빛2호기 O/H공사 단기노무원 채용공고")))
+        self.assertEqual(g(item(16, "전남대학교병원", "직원(방사선취급감독자) 상시 공개채용")), collect.OTHER_GROUP)
+        self.assertEqual(g(item(17, "동남권원자력의학원", "박사후 연수연구원(첨단방사선AI융합연구팀) 채용")), collect.OTHER_GROUP)
+        self.assertEqual(g(item(18, "한국원자력환경공단", "정기채용(공무직, 휴직대체근로자, 체험형 청년인턴)")), "방사성폐기물")
+
     def test_collect_merge_and_close(self):
         pages = [([item(1, "한국수력원자력(주)", "신입 채용"), item(4, "한국도로공사", "행정직")], 150),
                  ([item(2, "한전KPS(주)", "청년인턴", hire="청년인턴(체험형),비정규직")], 150)]
