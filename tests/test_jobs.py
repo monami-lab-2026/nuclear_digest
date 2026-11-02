@@ -32,6 +32,9 @@ class JobsTest(unittest.TestCase):
         self.assertIsNone(g(item(15, "한전KPS(주)", "한빛2호기 O/H공사 단기노무원 채용공고")))
         self.assertEqual(g(item(16, "전남대학교병원", "직원(방사선취급감독자) 상시 공개채용")), collect.OTHER_GROUP)
         self.assertEqual(g(item(17, "동남권원자력의학원", "박사후 연수연구원(첨단방사선AI융합연구팀) 채용")), collect.OTHER_GROUP)
+        self.assertIsNone(g(item(19, "한국전력기술주식회사", "2026년도 하반기 장애인 체험형 인턴 채용")))
+        self.assertIsNone(g(item(20, "한국전력기술주식회사", "2026년도 하반기 자립준비청년 체험형 인턴 채용")))
+        self.assertEqual(g(item(21, "한국전력기술주식회사", "2026년도 하반기 청년 체험형 인턴 채용 공고")), "원전 운영·설계·정비")
         self.assertEqual(g(item(18, "한국원자력환경공단", "정기채용(공무직, 휴직대체근로자, 체험형 청년인턴)")), "방사성폐기물")
 
     def test_collect_merge_and_close(self):

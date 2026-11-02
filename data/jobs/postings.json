@@ -119,48 +119,6 @@
   "last_seen": "2026-11-02",
   "open": true
  },
- "306223": {
-  "id": "306223",
-  "inst": "한국전력기술주식회사",
-  "group": "원전 운영·설계·정비",
-  "title": "2026년도 하반기 자립준비청년 체험형 인턴 채용",
-  "start": "2026-10-21",
-  "end": "2026-11-05",
-  "hire": [
-   "청년인턴(체험형)"
-  ],
-  "kind": "신입",
-  "region": [
-   "경북"
-  ],
-  "count": 5,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=306223",
-  "src": "https://kepco-enc-jobs.cairos.co.kr/kepco-enc-jobs",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": true
- },
- "306220": {
-  "id": "306220",
-  "inst": "한전KPS(주)",
-  "group": "원전 운영·설계·정비",
-  "title": "[한전KPS(주)] 2026년도 체험형 인턴(자립준비청년) 채용공고",
-  "start": "2026-10-21",
-  "end": "2026-11-06",
-  "hire": [
-   "청년인턴(체험형)"
-  ],
-  "kind": "신입",
-  "region": [
-   "전남광주"
-  ],
-  "count": 10,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=306220",
-  "src": "https://www.kps.co.kr",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": true
- },
  "306219": {
   "id": "306219",
   "inst": "한전KPS(주)",
@@ -188,27 +146,6 @@
   "count": 24,
   "url": "https://job.alio.go.kr/recruitview.do?idx=306219",
   "src": "https://www.kps.co.kr",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": true
- },
- "306216": {
-  "id": "306216",
-  "inst": "한국전력기술주식회사",
-  "group": "원전 운영·설계·정비",
-  "title": "2026년도 하반기 장애인 체험형 인턴 채용",
-  "start": "2026-10-21",
-  "end": "2026-11-05",
-  "hire": [
-   "청년인턴(체험형)"
-  ],
-  "kind": "신입",
-  "region": [
-   "경북"
-  ],
-  "count": 15,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=306216",
-  "src": "https://kepco-enc-jobs.cairos.co.kr/kepco-enc-jobs",
   "first_seen": "2026-11-02",
   "last_seen": "2026-11-02",
   "open": true
@@ -278,28 +215,6 @@
   "last_seen": "2026-11-02",
   "open": true
  },
- "306159": {
-  "id": "306159",
-  "inst": "한국전력공사",
-  "group": "전력(관련)",
-  "title": "2026년 제3차 장애인 체험형 인턴 채용공고 [대구본부]",
-  "start": "2026-10-20",
-  "end": "2026-11-03",
-  "hire": [
-   "청년인턴(체험형)"
-  ],
-  "kind": "신입",
-  "region": [
-   "대구",
-   "경북"
-  ],
-  "count": 7,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=306159",
-  "src": "http://recruit.kepco.co.kr/sangsi",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": true
- },
  "305975": {
   "id": "305975",
   "inst": "한전KPS(주)",
@@ -331,43 +246,6 @@
   ],
   "count": 23,
   "url": "https://job.alio.go.kr/recruitview.do?idx=305975",
-  "src": "https://kps.saramin.co.kr",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
- "305974": {
-  "id": "305974",
-  "inst": "한전KPS(주)",
-  "group": "원전 운영·설계·정비",
-  "title": "[한전KPS(주)]2026년도 하반기 신입사원(보훈) 채용공고",
-  "start": "2026-10-13",
-  "end": "2026-10-28",
-  "hire": [
-   "정규직"
-  ],
-  "kind": "신입",
-  "region": [
-   "서울",
-   "부산",
-   "대구",
-   "인천",
-   "대전",
-   "울산",
-   "세종",
-   "경기",
-   "강원",
-   "충북",
-   "충남",
-   "전북",
-   "전남광주",
-   "경북",
-   "경남",
-   "제주",
-   "해외"
-  ],
-  "count": 2,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=305974",
   "src": "https://kps.saramin.co.kr",
   "first_seen": "2026-11-02",
   "last_seen": "2026-11-02",
@@ -885,42 +763,6 @@
   "last_seen": "2026-11-02",
   "open": false
  },
- "305239": {
-  "id": "305239",
-  "inst": "한국전력공사",
-  "group": "전력(관련)",
-  "title": "2026년도 하반기 보훈 채용공고",
-  "start": "2026-09-22",
-  "end": "2026-10-06",
-  "hire": [
-   "정규직"
-  ],
-  "kind": "신입",
-  "region": [
-   "서울",
-   "부산",
-   "대구",
-   "인천",
-   "대전",
-   "울산",
-   "세종",
-   "경기",
-   "강원",
-   "충북",
-   "충남",
-   "전북",
-   "전남광주",
-   "경북",
-   "경남",
-   "제주"
-  ],
-  "count": 20,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=305239",
-  "src": "http://recruit.kepco.co.kr",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
  "305220": {
   "id": "305220",
   "inst": "한전KDN",
@@ -981,49 +823,6 @@
   "count": 6,
   "url": "https://job.alio.go.kr/recruitview.do?idx=305085",
   "src": "https://www.khnp.co.kr/recruit_te",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
- "305075": {
-  "id": "305075",
-  "inst": "한국전력공사",
-  "group": "전력(관련)",
-  "title": "2026년 제2차 장애인 체험형 인턴 채용공고 [대구본부]",
-  "start": "2026-09-17",
-  "end": "2026-10-01",
-  "hire": [
-   "청년인턴(체험형)"
-  ],
-  "kind": "신입",
-  "region": [
-   "대구",
-   "경북"
-  ],
-  "count": 10,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=305075",
-  "src": "http://recruit.kepco.co.kr/sangsi",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
- "304988": {
-  "id": "304988",
-  "inst": "한국전력공사",
-  "group": "전력(관련)",
-  "title": "2026년 제1차 장애인 체험형 인턴 모집공고[서울본부]",
-  "start": "2026-09-15",
-  "end": "2026-09-29",
-  "hire": [
-   "청년인턴(체험형)"
-  ],
-  "kind": "신입",
-  "region": [
-   "서울"
-  ],
-  "count": 14,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=304988",
-  "src": "http://recruit.kepco.co.kr/sangsi",
   "first_seen": "2026-11-02",
   "last_seen": "2026-11-02",
   "open": false
@@ -1267,27 +1066,6 @@
   "last_seen": "2026-11-02",
   "open": false
  },
- "304416": {
-  "id": "304416",
-  "inst": "한국전력기술주식회사",
-  "group": "원전 운영·설계·정비",
-  "title": "2026년도 장애인 별도직무(DDCC 문서관리) 기간제 근로자 채용공고",
-  "start": "2026-08-31",
-  "end": "2026-09-15",
-  "hire": [
-   "비정규직"
-  ],
-  "kind": "신입",
-  "region": [
-   "경북"
-  ],
-  "count": 2,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=304416",
-  "src": "https://kepco-enc-jobs.cairos.co.kr/kepco-enc-jobs",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
  "304332": {
   "id": "304332",
   "inst": "한국전력공사",
@@ -1310,27 +1088,6 @@
   "count": 11,
   "url": "https://job.alio.go.kr/recruitview.do?idx=304332",
   "src": "http://recruit.kepco.co.kr",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
- "304225": {
-  "id": "304225",
-  "inst": "한국전력공사",
-  "group": "전력(관련)",
-  "title": "2026년 제3차 장애인 체험형 인턴 채용공고 [경기북부본부]",
-  "start": "2026-08-25",
-  "end": "2026-09-09",
-  "hire": [
-   "청년인턴(체험형)"
-  ],
-  "kind": "신입",
-  "region": [
-   "경기"
-  ],
-  "count": 7,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=304225",
-  "src": "http://recruit.kepco.co.kr/sangsi",
   "first_seen": "2026-11-02",
   "last_seen": "2026-11-02",
   "open": false
@@ -1379,27 +1136,6 @@
   "last_seen": "2026-11-02",
   "open": false
  },
- "304074": {
-  "id": "304074",
-  "inst": "한국원자력안전기술원",
-  "group": "연구·안전·규제",
-  "title": "한국원자력안전기술원 2026년 5차 청년인턴(장애) 공개채용 공고",
-  "start": "2026-08-20",
-  "end": "2026-09-04",
-  "hire": [
-   "청년인턴(체험형)"
-  ],
-  "kind": "신입",
-  "region": [
-   "대전"
-  ],
-  "count": 6,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=304074",
-  "src": "https://kins.recruiter.co.kr",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
  "304073": {
   "id": "304073",
   "inst": "한국원자력안전기술원",
@@ -1421,49 +1157,6 @@
   "last_seen": "2026-11-02",
   "open": false
  },
- "303969": {
-  "id": "303969",
-  "inst": "한국전력공사",
-  "group": "전력(관련)",
-  "title": "2026년 제2차 장애인 체험형 인턴 채용공고 [인천본부]",
-  "start": "2026-08-18",
-  "end": "2026-09-01",
-  "hire": [
-   "청년인턴(체험형)"
-  ],
-  "kind": "신입",
-  "region": [
-   "인천",
-   "경기"
-  ],
-  "count": 8,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=303969",
-  "src": "http://recruit.kepco.co.kr/sangsi",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
- "303896": {
-  "id": "303896",
-  "inst": "한국전력공사",
-  "group": "전력(관련)",
-  "title": "2026년 제3차 장애인 체험형인턴 채용 [경남본부]",
-  "start": "2026-08-14",
-  "end": "2026-08-28",
-  "hire": [
-   "청년인턴(체험형)"
-  ],
-  "kind": "신입",
-  "region": [
-   "경남"
-  ],
-  "count": 6,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=303896",
-  "src": "http://recruit.kepco.co.kr/sangsi",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
  "303840": {
   "id": "303840",
   "inst": "동남권원자력의학원",
@@ -1481,28 +1174,6 @@
   "count": 1,
   "url": "https://job.alio.go.kr/recruitview.do?idx=303840",
   "src": "https://diramsjob.recruiter.co.kr/career/home",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
- "303771": {
-  "id": "303771",
-  "inst": "한국전력공사",
-  "group": "전력(관련)",
-  "title": "2026년 4차 장애인 체험형인턴 채용공고 [대전세종충남본부]",
-  "start": "2026-08-12",
-  "end": "2026-08-26",
-  "hire": [
-   "청년인턴(체험형)"
-  ],
-  "kind": "신입",
-  "region": [
-   "대전",
-   "충남"
-  ],
-  "count": 8,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=303771",
-  "src": "http://recruit.kepco.co.kr/sangsi",
   "first_seen": "2026-11-02",
   "last_seen": "2026-11-02",
   "open": false
@@ -1724,27 +1395,6 @@
   "last_seen": "2026-11-02",
   "open": false
  },
- "303020": {
-  "id": "303020",
-  "inst": "한국전력공사",
-  "group": "전력(관련)",
-  "title": "2026년 제2차 장애인 체험형 인턴 모집공고[경북본부]",
-  "start": "2026-07-23",
-  "end": "2026-08-06",
-  "hire": [
-   "청년인턴(체험형)"
-  ],
-  "kind": "신입",
-  "region": [
-   "경북"
-  ],
-  "count": 10,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=303020",
-  "src": "http://recruit.kepco.co.kr/sangsi",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
  "302994": {
   "id": "302994",
   "inst": "한국수력원자력(주)",
@@ -1891,48 +1541,6 @@
   "count": 1,
   "url": "https://job.alio.go.kr/recruitview.do?idx=302826",
   "src": "https://recruit.keei.re.kr:10443/ext/rec/rec_1010.jsp?SCH_ANNC_NM=&SCH_SUPT_FLD_NM=&SUPT_FLD_CD=001&NCS_YN=B",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
- "302478": {
-  "id": "302478",
-  "inst": "한국전력공사",
-  "group": "전력(관련)",
-  "title": "2026년 제3차 장애인 체험형인턴 채용공고 [강원본부]",
-  "start": "2026-07-08",
-  "end": "2026-07-23",
-  "hire": [
-   "청년인턴(체험형)"
-  ],
-  "kind": "신입",
-  "region": [
-   "강원"
-  ],
-  "count": 2,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=302478",
-  "src": "http://recruit.kepco.co.kr/sangsi",
-  "first_seen": "2026-11-02",
-  "last_seen": "2026-11-02",
-  "open": false
- },
- "302474": {
-  "id": "302474",
-  "inst": "한국전력공사",
-  "group": "전력(관련)",
-  "title": "2026년 제2차 장애인 체험형 인턴 채용공고[남서울본부]",
-  "start": "2026-07-08",
-  "end": "2026-07-30",
-  "hire": [
-   "청년인턴(체험형)"
-  ],
-  "kind": "신입",
-  "region": [
-   "서울"
-  ],
-  "count": 27,
-  "url": "https://job.alio.go.kr/recruitview.do?idx=302474",
-  "src": "http://recruit.kepco.co.kr/sangsi",
   "first_seen": "2026-11-02",
   "last_seen": "2026-11-02",
   "open": false
