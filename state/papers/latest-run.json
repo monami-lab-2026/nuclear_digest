@@ -1,13 +1,13 @@
 {
-  "run_date": "2026-10-26",
-  "period_start": "2026-10-19",
-  "period_end": "2026-10-25",
-  "started_at": "2026-10-26T08:45:53+09:00",
+  "run_date": "2026-11-02",
+  "period_start": "2026-10-26",
+  "period_end": "2026-11-01",
+  "started_at": "2026-11-02T10:12:41+09:00",
   "status": "success",
-  "article_count": 57,
-  "previous_count": 63,
-  "total_papers": 745,
-  "total_runs": 10,
+  "article_count": 67,
+  "previous_count": 57,
+  "total_papers": 812,
+  "total_runs": 11,
   "integrity": "ok",
   "email": "skipped: SMTP_USER/SMTP_PASSWORD not configured",
   "newsletter": "skipped: newsletter turned off (config/site.json newsletter.enabled)",
@@ -15,7 +15,7 @@
     "yhs0365@snu.ac.kr"
   ],
   "dashboard_url": "https://monami-lab-2026.github.io/nuclear_digest/papers/",
-  "email_path": "papers/email-2026-10-26.html",
+  "email_path": "papers/email-2026-11-02.html",
   "excel_path": "papers/nuclear-literature-database.xlsx",
-  "finished_at": "2026-10-26T08:48:29+09:00"
+  "finished_at": "2026-11-02T10:15:24+09:00"
 }
