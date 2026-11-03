@@ -1,0 +1,915 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-03T21:49:17+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Turkey and South Korea explore nuclear financing cooperation",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/turkey-and-south-korea-agree-on-nuclear-financing-cooperation",
+          "published": "2026-11-03T12:10:39+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        },
+        {
+          "title": "Türkiye, South Korea sign deal on cooperation in financing nuclear power plants",
+          "publisher": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZXNFRlgyU1llVU5zWjExem9PWjhiZER1eXZRdEQ4cWZDcXo5em1tenFmUXVjb1YtSlZBWmU0eU9QUWx2RFZiWDlfS2xpUTMtMnF2NUlfY1dYSFhPam5hMWNyc2VEdThBSVFQanpOLW1zRzh1dm1Hdm5BY1EwMHlCSlNVUENKYk9kY0M2NDQ4b0RiWXV3VzgydDZ1VEVyei1WV2FkMlB1MXo3cjR3alVaOVU2NkwyVS01aENlemE3YU9TZw?oc=5",
+          "published": "2026-11-03T09:49:54+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Türkiye, South Korea sign deal on cooperation in financing nuclear power plants",
+          "publisher": "A News",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV2hIcW9DNUQ5YzVYOHVWQXpTcnhkOGZ0dTJuellrZXZUdW50TWpkUlNNN0hBQW9zVUxqV0VSTnNwZ2pLdTNFb2NoeWZtbUlOdkVzcXJ6MXpWeXF2c1ZzbzdEcTZvQ2tnYzlINnZMcnFwUENCWnc0WFFxVnUwWjJGcGZJLWpwYldIOUtMQ2lMUDYtby1uY0JyV0ZzaUJqUnoteTlTYnZ3ZW1MNFRoZlFBTktjZHp0MU8zcWtGSy1Lb1c0Z9IBwgFBVV95cUxNV2hIcW9DNUQ5YzVYOHVWQXpTcnhkOGZ0dTJuellrZXZUdW50TWpkUlNNN0hBQW9zVUxqV0VSTnNwZ2pLdTNFb2NoeWZtbUlOdkVzcXJ6MXpWeXF2c1ZzbzdEcTZvQ2tnYzlINnZMcnFwUENCWnc0WFFxVnUwWjJGcGZJLWpwYldIOUtMQ2lMUDYtby1uY0JyV0ZzaUJqUnoteTlTYnZ3ZW1MNFRoZlFBTktjZHp0MU8zcWtGSy1Lb1c0Zw?oc=5",
+          "published": "2026-11-03T10:07:36+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "South Korea, Turkey Expand Nuclear, Energy Cooperation with MOUs",
+          "publisher": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZVR6NVA0NkJoTHJreXg5aF8tU0k3YWRhcWJIVjRUeXFKSk5YNXNHU3FLbTF3M0JneDBXazJ3X0JOWEFJWVRIZUJHRjgxSGVFcWJyQng2UzFaLWdPdThONkV2cXBYamN2VGUzTGcwU1FKMTRUSU5odjR4VHZ4RGU1RU83SVZOTmRy?oc=5",
+          "published": "2026-11-03T10:36:07+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Türkiye, South Korea sign deal on cooperation in financing nuclear power plants",
+          "publisher": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMXJjd1VMTVBSTlgySEk3TDBYZG55WUNfaGlEelJveHEySFNmTkVFNWgzWkJNQ0Y2WV9hcVJtY2tfY2tadUMwYTU2MF80bnB0Y18wd2xLdWlnZTZMV1dxam5wbER4LWdmU0czTW9pTzZZWHUweVZBWkd0REgtcDdJeWFCMnZMeEVRcmM4OV9HNGNvMXo4QVJXdTlPTjhRRUlnOHdYT09ZUjlmOEU5cjhwNlJoaGVBRlpRS1pUVm9jUEJJVXdEblE?oc=5",
+          "published": "2026-11-03T11:53:15+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 5.598,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "UNIST-한수원, '에너지×AI 융합 연구혁신센터' 가동",
+          "publisher": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DMVBDcjhvOVU4REpaeTFyTU01T2JHeFRNUDcxT3lhS01YeDZOQVVPT25ZdlVjWGNLYmNreUFnNWdiY3lNMi1jOG81eTBVUQ?oc=5",
+          "published": "2026-11-03T05:08:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "UNIST·한수원, ‘에너지×AI 융합 연구혁신센터’ 현판식 개최",
+          "publisher": "기계신문",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rRzd6aGo4dE9YRGp0TzJXU3lmZm1CUXlJdVpZWWg5ZjZjczBHenpMNnBuM09VMXdXSjdsSUF0TThnSUQ4OGZISzh5cVlMS25zZnpkTVd3ZmlVZWpZamJJLXhHVzlpZ1E?oc=5",
+          "published": "2026-11-03T05:32:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "UNIST-한국수력원자력, ‘에너지×AI 융합 연구혁신센터’ 현판식 개최",
+          "publisher": "울산종합일보",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9weXU1NzdlVUJPYXp5ZWdYQ2lkWnRHSXhIekJUeG41TkhxUXhOZ2Nrclg3NjNNX2pQMnVyanR6ODdzNzZGOUF2aW9yYmhzdlZBSWZvd2JzNXBvQV85Z0cwd0ZBUTRHRzBrVF9mOVFB?oc=5",
+          "published": "2026-11-03T06:10:54+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "UNIST·한수원, 에너지·AI 융합연구 본격화…원전 안전·운영 혁신 맞손",
+          "publisher": "정보통신신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5ZlpCMkt6a0VSNHBIam1pMEphYnRuMGtSeU41MklvVTVoX3E1NUwzN2YyRHNqWmp0UUtpOEo2YktUU1RjMDUwdnNfMnZMWThTY29TMTZLdnVVMndiMktMcHpEWXlUZ3ls0gFsQVVfeXFMT3BOa3lWc3Y0T1V1Vkx5M3hrMi1Nb3daVEJKTE1CR2FIUEwtZThIakxMSmVtMGY5bFhuZ2hSSzFqWTBWX2tTdi01WnNPbjFianVwc2dlbkYxMWVrWldpX0ltVHJKNTNpOTdmRkFI?oc=5",
+          "published": "2026-11-03T08:43:16+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "UNIST-한수원, ′에너지·AI 융합 연구혁신센터′ 현판식",
+          "publisher": "KPI뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZcEloWERWbk9CUFh5TkpRVnh2MDFJbDlxenRKRTROMGQ3elBCU1ltTXM5YW5TZVlqTmh4aGdKQ3ZTNVBuRnJMVWw3dVM4WlZOTUsw0gFTQVVfeXFMTVlwSWhYRFZuT0JQWHlOSlFWeHYwMUlsOXF6dEpFNE4wZDd6UEJTWW1NczlhblNlWWpOaHhoZ0pDdlM1UG5GckxVbDd1UzhaVk5NSzA?oc=5",
+          "published": "2026-11-03T11:32:31+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "UNIST·한수원 ‘에너지×AI 융합 연구혁신센터’ 개소",
+          "publisher": "경상일보",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9INFRseEE0TlU2V3NXelF5UmM3TzdHVjJkUnBvOWtpVXJmZGJOaFRqSUZjZXVsdF8tOWdnQUFGYXhkVG1Md1R5QUxsZEp6SVJWWTR4cUFUVEo0Z2F2Z3JUMU1GSDVobTBjLVZkaw?oc=5",
+          "published": "2026-11-03T15:00:02+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "UNIST·한수원 '에너지×AI 융합 연구혁신센터' 문 열어… 원전 운영에 AI 본격 접목",
+          "publisher": "투어코리아",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vVFZzZzhtM3hDS2xWM1prdTZscHdxaVFkS203Mmlkd2lHYTdlZXJXc2dLWGpuVHNUOU9pM3NXUjVtOWtYWWZnN0ZYaUdsUTVxQ1EwZlBaZzRyaVJMeTNzZWV3bm5pNG90Z3NrSDZB?oc=5",
+          "published": "2026-11-03T20:19:10+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.937,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Russia directed three drones at a substation critical to the stable operation of the Khmelnytskyi Nuclear Power Plant — Shmyhal",
+          "publisher": "Українські Національні Новини (УНН)",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTDJUVTJQWWZ0S2huMXRabDdGdGZxbFhTRDY0WU5kUk9IZU9BTElFeE1scU1RLWttYlp1SktST1lxZVlWaWdTMUNJWFNmTmw5ckd6NjFNWkk2UHJ6R2twZWNMLTlDZDd4cjkzZVpGczJab3FZU2hSdFFtNWx1c2cyeWNwZHgwRHl5LVZHSHRiRmZMYzduZjl1UVExUVNlTXhiRG02eUdxS2c2RFo2OC1wNzl5dVFzem1HYlZTcGg4TWhGV3dTaXExWVNxQUh1YTJISzVWX2pEaXYwcF9EMGRTVm1OZzdEZVHSAecBQVVfeXFMT0wyVFUyUFlmdEtobjF0Wmw3RnRmcWxYU0Q2NFlOZFJPSGVPQUxJRXhNbHFNUS1rbWJadUpLUk9ZcWVZVmlnUzFDSVhTZk5sOXJHejYxTVpJNlByekdrcGVjTC05Q2Q3eHI5M2VaRnMyWm9xWVNoUnRRbTVsdXNnMnljcGR4MER5eS1WR0h0YkZmTGM3bmY5dVFRMVFTZU14YkRtNnlHcUtnNkRaNjgtcDc5eXVRc3ptR2JWU3BoOE1oRld3U2lxMVlTcUFIdWEySEs1Vl9qRGl2MHBfRDBkU1ZtTmc3RGVR?oc=5",
+          "published": "2026-11-03T18:43:31+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Russian strike on the Khmelnitsky Nuclear Power Plant's substation poses a threat to Europe's nuclear safety, says Shmyhal",
+          "publisher": "shelter.in.ua",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZUlidVU5MzhsVzk2cUpIUHZuYVVRaTdtWWNzVENKNzg1b25QclJpTXNLZjhHb2RPZnktREVmTzROakpJTEE1LU0tQV9TMzZRVlBQMURYMGdtLVU2UkJkR3Y0Z01fUm9GYnd4d3pWOXVUREQ4YnhOczlfbmlqUWdYTU1Zd1dzRWY5Wmlhay1zS0U5Ri1OSlNXNVVHeFJqaHZkNlRhZWFkQ1lyNkptdGE2MlpxX1NZU3daLTY4UG1ReENCVGVEUkRERXFmNTVkTms?oc=5",
+          "published": "2026-11-03T19:25:23+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Russia has launched an attack on critical infrastructure at the Khmelnytskyi Nuclear Power Plant — Shmyhal",
+          "publisher": "UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMHNRaUI2ZHhEZndpMGZoM1Qtc1RQaWtBRWVEM2dTNTQwdTMxVHVWMURrTHlIQm0tRWt0UHF1b0s0MmVmTUJ2Y1MwREhSSTRDamNKbERURUMtQ3p5WDc1TzVac2t6MWlBU1J5UC1tS2hTbkszYkZnOXNrQ2hBYm95dXBnTjhCci1GWUdBek5FR0Y0RTB1enRWQ09zRlAyUXpmNFlBanRGd0JZanppOC1JTVVR?oc=5",
+          "published": "2026-11-03T19:34:40+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "A hair’s breadth from disaster: Russia sent three drones towards a substation at the Khmelnytskyi Nuclear Power Station",
+          "publisher": "UkrMedia News",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41NERyenlZb05xZ2Jjc2k2OE1oalhaQUNzaFQ0SWtaelkzYWJIcU1hRDc3T0xZZ2VJX2ZzTlQ1alpmbGh4dWhZUVQ4UG1MZXhfY0k4Q1pMRGhBNGUxWGdUUnpIYXRwcTc2Znp4U3VsUU9MOU4zbWc?oc=5",
+          "published": "2026-11-03T19:37:07+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Russia directed three drones at critical substation serving Khmelnytskyi nuclear power plant, Shmyhal says",
+          "publisher": "LIGA.net",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSGNQcklBc3ZkSHFfamJ2SHZ0bFQ0NnZfcVU4SEJWT1BuTjl1N0lZNGJ2SXFjRWVpc3JKMGVrMjhZMG9IaVRiWlhyVkRZSWJNNHlSVThXMU1TcHlmck9uNXB5V2V5elZzYndtNkFzUHhWTlJHcFNfSnF2QVJJWFdJTUhJeEZmajdLNnRfMkczbmlLWDZPSkpmYlRVZEFteDJXMnRaSy1jaVhxTmxYLU5XMU15OWtEUFZDSUpVNE5nZGxYZVhIRnBtV0FXOFRjczlLTWdOYjVlaW5uZGpx0gHiAUFVX3lxTE0xcUpHRFd6by0wengxbTRkdE82cW9OUExKdHpaVXRCMGwwU09SSkowUEc5Sk9XZ0lpRGwtbVJmTm9aN2tlcW4xaDhmSWpHNWF3UzkzeVNnZ19lUVlNRWZkRUJ6V2Z3XzFjOUJxRV9lSFpfWDUxQ19aR2p6OW5FNkJoMElIeTNvV2dBQ01lU2tkOTNldmZuaHpkczc4V0hsb2JFTVk3LVNwcy1yN1Y5MThqSVpNUy1qN0o2Wkp6cTZtekhKTUtzNmd1WG5vdlNnZkhxUkVUN3lqZG1sT0dLbWpVSFE?oc=5",
+          "published": "2026-11-03T19:38:16+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.909,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "(LEAD) Lee, Erdogan agree to strengthen cooperation in nuclear power plants, defense industry",
+          "publisher": "Yonhap News Agency",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sZ0kzMnBlUW1xMjdabVBqWmxCZ2tNRnYzX0hNMVdWMk9kekJzd3UyY2Rlb0lVX1ZIUW1oOVVxVEdKSS1vYW05XzVBd0VCOUxpZjhkOEIyTnhrdw?oc=5",
+          "published": "2026-11-03T09:35:09+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "(LEAD) Lee, Erdogan agree to strengthen cooperation in nuclear power plants, defense industry",
+          "publisher": "K-VIBE",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IcUF0eHgybTRVRUxSbHZrMG9LMm1nZ1Fhd3dXZ0liRjc2dGJIaE5WVEF2cl9VQkYwVzJybVVvT2swUkhmczFzTWlyOG91VS1CTDdJb3dB0gFWQVVfeXFMT0hxQXR4eDJtNFVFTFJsdmswb0sybWdnUWF3d1dnSWJGNzZ0YkhoTlZUQXZyX1VCRjBXMnJtVW9PazBSSGZzMXNNaXI4b3VVLUJMN0lvd0E?oc=5",
+          "published": "2026-11-03T09:35:09+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Erdogan in Seoul is focusing on nuclear power to strengthen energy cooperation",
+          "publisher": "Il Sole 24 ORE",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNDNoQ2JPcEdtNVVua1RyWVFhQkRPeEZ1NTBITE5FeGprVEJtQV9kSnZEclEzbFJTY25BZTFyTnV6SUdlR2V6S3hyLXVnS3JCaFY0THlndndKZjQxSmtKd3NnX2Z0U1l2c0l1QlllRDF1d3gxcE5ZNzdxQ1NPdW83SXFiRDc4WGpTOXRtbzdCQXFXQ0YwLTZnX1lKNFVYZ2kzbU9MWW9B?oc=5",
+          "published": "2026-11-03T15:45:44+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "South Korea and Türkiye agree to strengthen nuclear power and defense industry.",
+          "publisher": "Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYkJnTEZqSDJKMjZLUVZBcGNmX1dYdnVaRlM3R3otMFFaRmhvNG42OVVwOUxkR25fX3plb2VaRFZabDRCTnJ0TDJ1LTVnbXl6MktId2w2eGZrbVRraWRndVkxNThuU2RicF9qRk9iWjJERXRRZG45dkpuNXJwNFRJLUhOZjIwYWI0c1RRWVg1OHpUa3hNSHJIS0RPNjRxZmdJOVV5eW42MDM?oc=5",
+          "published": "2026-11-03T16:28:16+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.777,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한·튀르키예 정상, ‘원전·방산 협력 내실화’ 합의",
+          "publisher": "통일뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TYkJzam1reVVVVzlQVlluUkYyeGZmd296VHBUMUlGVTRQVDc1eUR2ZkhCUmdyakgxUFFqdG5oV0RKYmVpR2lCdmpHMHV5Tjg1LUliekx4VEtVYnF4elNnMmdtWW9NYnpBREVYcVp3?oc=5",
+          "published": "2026-11-03T10:40:43+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한·튀르키예 “원전·방산 등 전략 분야 협력 내실화”",
+          "publisher": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zcVNkb3FPT2MtVzM2WElpV0Y3WXZNY0NadGstOUh6bzBnZlRoYk4tLVhoQzZ5anZHVHZZTVdoMkZKSDQ2YjhnSzhDdHpoSEJpRTdxV1NwVW5nVmttQXpR0gFfQVVfeXFMTjNxU2RvcU9PYy1XMzZYSWlXRjdZdk1jQ1p0ay05SHpvMGdmVGhiTi0tWGhDNnlqdkdUdllNV2gyRkpINDZiOGdLOEN0emhIQmlFN3FXU3BVbmdWa21BelE?oc=5",
+          "published": "2026-11-03T12:35:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한·튀르키예 “원전·방산 등 전략 분야 협력 내실화”",
+          "publisher": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLWZoX2o1VHNnMVpHVlBUSTJCMDAzREZLcEx3dHFILUpnckQ2RVRFMFZWd1M0ZTluVXFoNGVxLWFMWFoyOEtZbHZjYTRyZHRhMkYzSDJEb09BRDNoQnlOLTNWeEZWZDh2UTdjVGRjX3Rmd0E1TXdCdUdlQTFlcVBFd3hNcG84a0RmcnYzajdTMVJFblpoOXk3VkZ6dVhHRzNVUkoxUGNvUkdRQk16?oc=5",
+          "published": "2026-11-03T12:35:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한-튀르키예 정상회담…李대통령 \"원전·방산 등 협력 내실화\"",
+          "publisher": "신아일보",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NekxHdWhTY1VQblVLdGp4a2JzSGZWNFVoSDF3cEl4RUNnN0FZbjdFYk1RVlRldDZpWHhkQnMtZHQyX3RuWk5oODl0V0JJamJhRlBBUFVHV05lWExuYldNbGxlTGdvX3RjQ2lfT0NsMkI?oc=5",
+          "published": "2026-11-03T14:26:35+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.693,
+      "id": 4
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "李대통령 \"튀르키예, 피를 나눈 형제…원전·방산 협력 심화\"",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SUEw5Z2xaeVM3Uk9hcFdfWFRQWFM0SGVhTXVfYlpkWm55ajE0cG5RUUowdEVNbVhXNmR3cnkxMU14NURaQXZhbEJ1akVVVFFWVVdfRVQ2OTEtXzN0SGdydNIBYEFVX3lxTE9SUEw5Z2xaeVM3Uk9hcFdfWFRQWFM0SGVhTXVfYlpkWm55ajE0cG5RUUowdEVNbVhXNmR3cnkxMU14NURaQXZhbEJ1akVVVFFWVVdfRVQ2OTEtXzN0SGdydA?oc=5",
+          "published": "2026-11-03T09:19:21+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "이 대통령 “튀르키예는 피를 나눈 형제”…원전·방산 협력 대폭 확대",
+          "publisher": "강원도민일보",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUNGpBVDViLUdUU25oNzRWYXp0VGpMX2tuam5uM1AtV3hjQ0M4eVEycEw2S2Zzc0U2Y1hEc2JVaHJnZHJwR0ZSM0NFY2xKZktVNTNCUm92N3VFc2JLQkpobjZyV0EyV1k?oc=5",
+          "published": "2026-11-03T09:27:27+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "이 대통령 “튀르키예, 피를 나눈 형제”…원전·방산 등 협력 확대",
+          "publisher": "브릿지경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XSXhjUWlrcXVnUFhjT2JMREd1U01RZGlKZjc5NEYxTFZzeENSZjlZZW5pS3hDMVJHMzRtZVJOX1JlaXNsOHY1cm53ZmtQYTJ6RjJhVTREeDZTUQ?oc=5",
+          "published": "2026-11-03T10:33:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "李대통령, 튀르키예와 '원전·방산' 협력 밀착…\"피를 나눈 형제\"(종합)",
+          "publisher": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqaS1jMlNuTWktc1kyeFAxM2FFUGhiZ0l1OWxLYmxwcE56bkNDYzlRTkxwRGMtWmFFemR2RUdnbzFFMDlLdDU4aTExLUhRZXdhc3d0ME5ZbVNQc2M?oc=5",
+          "published": "2026-11-03T11:18:57+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "李대통령 \"튀르키예는 피를 나눈 형제, 원전·방산 공동번영 청사진\"",
+          "publisher": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EV0R2bEZMRnZEYU1zRmthZHpwcDhDaUhFRV9uMkdJUFZBWUlKOWkyOGxlV216ckdrbWlHOXhOSTZ6cjh6VUVKR21YT01pNVQ4UjhrZ0dsOWlCUjBlZHZ5Tg?oc=5",
+          "published": "2026-11-03T11:58:47+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "李대통령 \"튀르키예는 피 나눈 형제…원전·방산협력 내실화\"",
+          "publisher": "프레시안",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55MHF4QU1EaUliX0JpZjZGcjhFVHM2cnVkeFc2d24zNFE1MzBoMTNhQk9NNm9xWFZuM2lHVXA1Vm1SZ1c3aDQzQ1dQVndLdDU5eWh5UWdiOFI4VUZVU0VyWmdYdkJ5MnE1bVo0?oc=5",
+          "published": "2026-11-03T13:01:19+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.633,
+      "id": 5
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원-TUV 라인란드, 유럽 원전 디지털 기기 인증기술 협력한다",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LcHhObkdlT0hLVWVDc21CY1lMZmpaV1JXOGU5QXVMMlJGV1V3QzhtZ25pVjhkTVRnT19DTmZrY0NRbE5hTl9GcmFvUG5xY2pnZUpzaEhRa1Z0WjlVVHdDQVVtUEhOZUE3YlZPVXMxc3BOQQ?oc=5",
+          "published": "2026-11-03T08:09:48+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, TUV 라인란드와 유럽 원전 디지털 인증 협력 MOU 체결",
+          "publisher": "뉴스퀘스트",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HWDZFUEo2ZjZxbUFjTEhVZ3BlNmMwOUlOUHhZWE9JMG9OcDNSVm5zWVBZaHhBeDdncFlJYTNNbmxxZTUxaUtYajduMlRKaFNVc0tLNDUzcm1EWXE2aVVnSXFoRjhoZlBoS2hYTGktTQ?oc=5",
+          "published": "2026-11-03T08:15:26+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, TUV 라인란드와 유럽 원전 디지털 기기 인증 협력",
+          "publisher": "비즈니스플러스",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBreGlBak1RSnppcXo5UUxuemtzTWJqcGJUcWdvTk1paGFrNGY3RjFZTi04NmpudVV2Y0hGdUtfU2QyUHhaT3pvT05IWUNyWDdTTW5qcHRpZHNYcXFvd3BFS3psZ2JJTnQ2cC14c2RZSQ?oc=5",
+          "published": "2026-11-03T08:19:57+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원·TUV 라인란드, 유럽 원전 디지털 기기 인증 '맞손'",
+          "publisher": "더트래커",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tWnZBaHQ4QmhkRG5QeWhBQ0pZbEJwMU1tWkgyWDQ5eTRLTUg0MV95YmFDNG9yYnNkOHM2SjZtUk1vV0kteEVNbHhvZ1doVGM1azNrVzRvUVk?oc=5",
+          "published": "2026-11-03T08:28:48+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 유럽 원전 디지털 기기 인증 협력···TUV 라인란드와 MOU",
+          "publisher": "현대경제신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03S0FyTTZ6b3JwZV9XVTJ4SjktM2FMNmZiQldzc09BOXFzczNsR0U1UEx0cVpVYnVISnl5cU9jN2xmNW5SOXBXWmFDaG5pR2JTQ0tRNWVoTEc0OTdNRkJKX0V4bUVYMTd00gFrQVVfeXFMT0hnYWh5bHZSalppNnlyOE9IQUhUeS1mclhIMGNlcU5yQ0Q4Mk5Ba2h0dnVlUlN1ZmdvZlJQMjA2M0xLZGxzN2VLdVNGQ3NzU29fSVY5NDNIMERaV1g4MjJUQjVmQ3ByQi1GdE0?oc=5",
+          "published": "2026-11-03T08:30:34+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, TUV 라인란드와 유럽 원전 디지털 기기 인증기술 협력 양해각서",
+          "publisher": "뉴스웍스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLbzB0MzdiXzFPZFVsTUZPeDllUUZpelhIb3JrSnpUYnFPOGJBQ2JHd2hneFAwQXhWcThPbDZXb3JkOW5yMlhEd3VEcHMtbzZib3hUNzJkZ1FzSWN6MC1KeXp0UkZlVkk4NldOc0hDMl9PQm_SAXNBVV95cUxQS28wdDM3Yl8xT2RVbE1GT3g5ZVFGaXpYSG9ya0p6VGJxTzhiQUNiR3doZ3hQMEF4VnE4T2w2V29yZDlucjJYRHd1RHBzLW82Ym94VDcyZGdRc0ljejAtSnl6dFJGZVZJODZXTnNIQzJfT0Jv?oc=5",
+          "published": "2026-11-03T08:47:28+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.457,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Russia to work with Ghana on first power plant as involvement in Africa grows",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-03/article-8552/russia-to-work-with-ghana-on-first-power-plant-as-involvement-in-africa-grows/",
+          "published": "2026-11-03T19:54:13+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.92,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Russia hits substation critical for nuclear power plant in biggest mass attack on Ukraine's energy this year",
+          "publisher": "The Kyiv Independent",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWkhiNWhzd2JseVIzZXpaWWoyZ1U4eDNyc3JjS2h2THdfdGEya3A0R0xkc3E1Nnh0OUpGTzNXdi1GOTNaTXpCd09Ya1Bia0lKcmJLZVYyNjRleEFiTFRIWTg4NTllZ292OEo3cUlySG1uX2w5WVBTb3BNUHpCOHJVcUtRam5PMHdMMkt2ak1ibl84Q3kzcmd3OWk3NXQ?oc=5",
+          "published": "2026-11-03T11:06:10+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "\"Threat to nuclear safety across Europe\": Russia attacks substation critical to Khmelnytskyi Nuclear Power Plant",
+          "publisher": "Українська правда",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qQWNwTzBTRzVnM3VlSlRUdW1qNHU1QjgydHItbGNETmJHdVN5Rm5IR3FYZFRxTHRmQmNFcFJyMEFURWk4S2s3T3BtdzlqdmM0UkxSaU0zaUgtWVgyWkU4cFI4RDPSAXBBVV95cUxQY3liX2RxQVcxdmkySDNMNDlGWWlIbTNDcS1CNjBsTFpyRDdqbmlleVdtS29pcy1MclBzR3dTT25BOWpWQ0dzVVNhU1B5R2RqRzB5bjE1OER5OXhEY1lSTjQ3aWFoSUZVa0J6VXNSNFJK?oc=5",
+          "published": "2026-11-03T18:47:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Russia attacks critical substation serving Ukraine's Khmelnytskyi nuclear power plant",
+          "publisher": "Apa.az",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT0VqVEpLNVNoMDM3UVlaNnl5NUE5ZjJGQUZrSGgtbHZfMXNkRlVoZGVZZVU5YnRhU0wwald5TkFWSjVRN3R1d2dXWkRsSGwxUnp0R1VIaTlZek1QcFRRTENDZlJrT2RjUXZvQlBPSFM1X09NdlN4bEJEbGtqLVBOSmxiNUJvb1M5RXAySzZDbFB5VjVJR0thN0VjdDZrX3BQRlhmSkt4QjN4Mm1KQnZyMVd3Wk5zZFU?oc=5",
+          "published": "2026-11-03T19:45:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.914,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Ukrainian drone kills two, including station employee, Russian-held nuclear plant says",
+          "publisher": "Internazionale",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQThqU0YwM0ZYeXRQSGlCWnRycFJXaFE0ODRCSExpbXF1VUVBVjdZUlpmdC1Xa3VMLUowUHZhZXRYNU83eXRLdnFTOURXU0NfaE5VMHdoV0RkazFiU2gzdm9ON0liaFZUNHkzb19zMVZ3QUtyekxmQ0xQN3VCTXRuZUhfd19tR2VCazBZSWJONWZUc2toLXBMMDY0LUhwVDZMcmlYcmotYUFDdVBBa2llMW1KTVBpLWlOazNIdXNLdU1Bbnd1S25WX1ljT3BsM3Fzak92S0xSZ2xLQzB4NldRaTVB?oc=5",
+          "published": "2026-11-03T18:27:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Ukrainian drone kills two, including station employee, Russian-held nuclear plant says",
+          "publisher": "Apa.az",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR1VkNXRna2RVMGJWUlFwclFXNkpxamVlWHl2YjZTMFQ1Z3hqaXFtUXhhSUh2TVl0dUZOQjFfR3ktd19GdEZaTURucjBiNm1GTGR2dS1ndm5GXzZEZkRCWDhWVEgtTTVHZm1ESmhacGZnTjZmS19kMlh1UEZwaTZ4NHBENmt0dDhDV0lqVlkzcmttXzhDckI2Zk15bVFTS096cWF3NWRkNVhYMmR3clE3ekZRSklzSlU?oc=5",
+          "published": "2026-11-03T18:33:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Ukrainian drone strike kills two at Russian-held nuclear plant",
+          "publisher": "Latest news from Azerbaijan",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb3hOTVNnZHh5cjAydGpPTm51dEdLTmR1MDhDRUhTc2MwMF81MkM2enV0MkRjZmZYb3IxR1U2NXg5VDVjVms2bTVnSzYxU1lpVTJNOGgyUVRFWjlsdVFQYUNNVXM1c2dyN3NLODlXR09MaXN0X0pUN0JtRFNlaWhZbnFDcjVtMUpMRGJR?oc=5",
+          "published": "2026-11-03T19:38:26+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.909,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Riding with the changing tide",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-03/article-8534/riding-with-the-changing-tide/",
+          "published": "2026-11-03T18:36:37+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.866,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Millions of fish killed at Canadian nuclear plant",
+          "publisher": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV2o5ZE5pY3Z5aEoxaWtNTGFlVno1RzhEaVU1QWVwSXRjd2tKaDlkY3p1bHE2dWpFeWRMN0lHTlVFc0hIZkVfczZvenl0WDhJclZIb2x1UkJyemVnQThra2FieFhoT3JWVlJRWE5KUHN3UTZXbEVjWTEzd2ZZcWFWMEhjenBZeE5DaUlodUFMN18?oc=5",
+          "published": "2026-11-03T17:29:37+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Millions of fish die at Canadian nuclear plant",
+          "publisher": "Operativ Məlumat Mərkəzi",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSlNtRDlreUdVd0pYNk82RTlYWndTRTJoVktFb1dWNXZsYUtqS0s1enpnT1QyX0R1RU03MlFiOW5lb1BXVE9HdVlFVnlKMXN2LTRmT25VelI5Q1hMM3N1ZnU3SVNVNnVNSXktYUY1ZTNlV0c1T1liSDZxT2tiOXRNRnlyZzktUV9EZmc?oc=5",
+          "published": "2026-11-03T17:33:19+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Millions of fish die at Canadian nuclear plant, company charged",
+          "publisher": "Latest news from Azerbaijan",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMEJtWEpvcTFCNjU3VWlaWEY4WnF4eEpiYXVWaHRTOW0xOUZPb0l2Nmx3QVVlcFFSQ3g3d0JtT1hJY1pwZEpmcUdfck4xRVAxSUNEMVRjaUpQdE9SVDdmUmExWEd3aHkwNjdOajRsek9GNF9RZU5WOEotZlJnS2xDY0JnV252RUxydW8w?oc=5",
+          "published": "2026-11-03T17:58:17+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.84,
+      "id": 11
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "韓-튀르키예, 원전·핵심광물 등 협력 강화 MOU 4건 채택",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rb080aWNsRHdIRURkZkxBbWtkdF9xbHk3akoyMGt1cTJISF9PaHpULVhSWFRnXzF1dGx1YjJWMzNWdWJaenFoWVR5RjIxZWNEZ3JManVGNGJuQmNpSmdRbtIBYEFVX3lxTE5rb080aWNsRHdIRURkZkxBbWtkdF9xbHk3akoyMGt1cTJISF9PaHpULVhSWFRnXzF1dGx1YjJWMzNWdWJaenFoWVR5RjIxZWNEZ3JManVGNGJuQmNpSmdRbg?oc=5",
+          "published": "2026-11-03T08:59:53+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "韓-튀르키예, 원전·핵심광물 등 협력 강화 MOU 4건 채택(종합)",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TY3RuQnNRc2RoY3k0M0dzWGJxUUV4blU0V3BkWDlya2w5TU1fNkVvSENNZmxvbWhjUUpTeEloRG45WFhGVThQQTNmSWNRVkN3cHVCRGMtZDdYSmfSAWBBVV95cUxPc1F5Wi14aUlSRTFRUzRTZ0ZWVnd2YlVPXzdVLTQ5Mk1yNHF4X2I1SWVPRElQWXpPMVQ5UzVFRnAtdHItcEJaakhNNmJUWlltSWluSmVFbjZYOGRFT3kzTjc?oc=5",
+          "published": "2026-11-03T12:06:26+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한-튀르키예, 원전·핵심광물 등 협력 강화 MOU 4건 체결",
+          "publisher": "대한민국 정책브리핑",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCak41ejMweHpqaU4wQjJmdGZlbXJOR0RkdlBhTzZNcjVzZ2RaWWU4TEVVbk9UdVBvcm5JOUV1VHRMaVVSMm01RW1vSENHb2FGcms3TmQwU1R5TEQ2N2E0Nnp3cDg0aDB0UFFZMQ?oc=5",
+          "published": "2026-11-03T17:26:15+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.817,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Bruce unit 5 refurbishment begins",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/bruce-unit-5-refurbishment-begins",
+          "published": "2026-11-03T15:44:35+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.747,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "S. Korea, Turkey sign nuclear power project financing MOU; Lee vows 'preemptive support'",
+          "publisher": "헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XNGprSncyX1JmQ1J4SmpNVUxoSzE3end2WFdEUUxSMWF0NkRTSk9KTGtvdFluMlZvcVg0Q245RGtUSmIyYjBJOVY1WFhSUUllTG0ySnR4NA?oc=5",
+          "published": "2026-11-03T09:38:26+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "South Korea and Turkey sign financing pact for nuclear power projects",
+          "publisher": "Euronews.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWlJmY0d3Vk5PSGZuNVp3RTFMUTBFU0x0N2pob1FCZW0xUnNtSjc3YmRGX29BZ3ZJdTRUVzg3cHFxYUdYNWVMRXNWMVlTMTRDTEdVVm9zZWhCZVh2SkU3UXRUWHlvSGphRXNuYXdrUHp5ak93MThqcGJybDlxT3h6SGtrMm44eGwtTVltWGhMNFllMFh2WHQxRlBPTVJyTm84cFhVY1oyRzNqeWdvWkRRYnIzMVljUnJ2UGU0TXByYk5HcU9Y?oc=5",
+          "published": "2026-11-03T15:21:21+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Video. South Korea and Turkey sign financing pact for nuclear power projects",
+          "publisher": "Euronews.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQendndlREUURLbWZmc3g1MUZvMFN6QlBxaW55dUdFd19sbnhuV3UyaFNlc3BLV2xwMWhtWTVKRFllQ1A3YkJTTHVHeE02WjBCblBaQ2lEVkJjTjh1RVE2MVpJem53N294OW5fZUdZejZGWndCWjN2eHVUVEItZmVtaEFtTFpkeWw4Z1dIY3Q0UUpsbE5EaFoxT2p6SG9NVTlHYXpCQlRVT3NxR3JNeUdaZlBJX0h3YTB0TzJlTjh1WHBsYmNDNU0xM2xtZFI?oc=5",
+          "published": "2026-11-03T15:21:21+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.731,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Wyoming signs MOU for expedited permitting under FAST-41",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-03/article-8551/wyoming-signs-mou-for-expedited-permitting-under-fast41/",
+          "published": "2026-11-03T15:19:12+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.729,
+      "id": 15
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Urenco USA marks first commercial LEU+ production",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/urenco-usa-marks-first-commercial-leu-production",
+          "published": "2026-11-03T14:21:44+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.689,
+      "id": 16
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Saltfoss targets US licensing for floating power plant",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/saltfoss-targets-us-licensing-for-floating-power-plant",
+          "published": "2026-11-03T14:01:18+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.675,
+      "id": 17
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Fusion companies sign agreements during Japan-Germany meeting",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-03/article-8550/fusion-companies-sign-agreements-during-japangermany-meeting/",
+          "published": "2026-11-03T13:53:36+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.67,
+      "id": 18
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "李 “튀르키예와 원전·방산 협력 확대“…전략적 동반자 관계 심화",
+          "publisher": "아시아투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00RkUzM2FwcV94VW5FaHRsaXhZMm9HTHZtTVBrc0ZTWVVndUFpa2d0dWNjTzBWMlcwRENJc3ZEcGIxbHZMam9Dcm9ZcjE5YmFMWHFTLWZzTTQ0cmE4anZuaTFHT0tlUjJFdzd5R09R?oc=5",
+          "published": "2026-11-03T10:30:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "이 대통령 \"한·튀르키예 전략적 동반자 관계 심화…원전·방산 협력 확대\"",
+          "publisher": "한국방송뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0RldCX1dzb29rSl9jTUFkU1BsQVRUTW9jRDF2R25QQ0xIMDJLaE1kZFR5TE43cjFUWmZKYTF5NVZtSm4tT2ExaEpIaHJHdDI1MHc2ejdXTkVDMVRC?oc=5",
+          "published": "2026-11-03T12:01:46+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "이 대통령 \"한·튀르키예 전략적 동반자 관계 심화…원전·방산 협력 확대\"",
+          "publisher": "대한민국 정책브리핑",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jekYxRTlnTk4zWHJsdXctLVdaMUJ4eU1IeXJ6c0NIYlgzNVF5THZCWW5iUWNfbWVEOEprSFYxbEppVEtwZkNtc3o3TWdXSUY3YjEyRnNsRVktY0gtVE00eU1yMldRWlFLb2FyYg?oc=5",
+          "published": "2026-11-03T12:39:58+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.619,
+      "id": 19
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Singapore enlists Finnish help in bolstering nuclear expertise",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/singapore-enlists-finnish-help-in-bolstering-nuclear-expertise",
+          "published": "2026-11-03T10:23:42+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.524,
+      "id": 20
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "李대통령 \"튀르키예 신규 원전, 韓기업 선제 지원\"…방산 제3국 공동 진출 모색",
+          "publisher": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50ZDV6TVdLaXRzcDF5UjZjQzVHeF82bHY0ZnJMM0hEWTlNNTZkOXRNa2xUWXBlYjVXNnBnUEFRTjBEVHh4MHFMa2QycGU4UjBWUWdVVDBBSU5FV2dMV09laQ?oc=5",
+          "published": "2026-11-03T09:18:48+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "李대통령 \"튀르키예 원전 수주 선제 지원…방산 제3국 공동진출 추진\"",
+          "publisher": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LSVdxUmdZdTBIeTR4QmY4UzNuY0RqSXViZlpTdjRsRmlPakZVUWthamZoV3ZMMi1zTVM2dmx6RkJOUWZTR28yQ1BzRXlqNXpsX25Qdm1JNEJoUlUzY0NrY1VHVVlfV0dRSEtpNVFoSUo?oc=5",
+          "published": "2026-11-03T09:32:12+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "李 \"튀르키예 신규 원전, 韓기업 선제 지원…방산 제3국 공동 진출\"",
+          "publisher": "아이뉴스24",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1vSW9xLXpZUUNtdGtKcWtUdVpjNHZRSzBfZWRqdTJVb1hUTmxWd3l6RFA2a1JrMmxJeFh6T2I5QjJSeGphQXdURnY4bw?oc=5",
+          "published": "2026-11-03T09:56:21+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.505,
+      "id": 21
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 유럽 원전 수출 최대 관문 넘는다...글로벌 인증기관 TÜV 라인란드와 손잡고 ‘디지털 영토 확장’",
+          "publisher": "산경e뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45Qkp2eFJPUlJNdmJZSFg4bjdmVEV3a1JIbUNicHhQZG1jcGFDTFRnNnhEOUhNMXYzb1ZNMU9rcGNoSmUzYXlvY3c1UHZyd2tna0oxWEpNc1Y4enZ6cjVzZUxSVlF4VnM?oc=5",
+          "published": "2026-11-03T09:59:33+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 글로벌 인증기관 TUV 라인란드와 손잡고 '유럽 원전 디지털 기기' 수출 길 닦는다",
+          "publisher": "메트로신문",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5dEFITFpMSk91dFNtd2ZfSXVQWmRUUVVfdkRoeHQtOVhieWZHeHUxOXRIWXc0cFZqU1p0S19VZ2lpcDNVN0VjZDZ6Y0p6bXpDdWpUUDNJZzBnVVA5aWcteg?oc=5",
+          "published": "2026-11-03T21:05:18+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.969,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "韓·튀르키예 정상회담… \"원전·AI·자원 협력 강화\"",
+          "publisher": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFR5RzlWMXdEWURzbXZ6ZFFRbVpoQi1UbDFLNTZ1dTUwRHd4bzNyRlZSVWU0RkFWVHppWEMzbktLT2lRYnJQTUlMdEhsaFdlNnc3b0tJNC14VERvQnFyS2VIZlQydlhBbEpDd2l6ZHJzaWZGaUcwQXlnbnZodXg2ejdwMFBySTdBNmFRWllCa18?oc=5",
+          "published": "2026-11-03T15:48:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한국-튀르키예 정상회담...\"원전·방산 협력 강화\"",
+          "publisher": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OM2xWQUtZTmFYcU5KcDlreDVxbjlTZHl5TXhNUS1VRWtMX1BQLVFuY05qb21IU1hZUzVpWUZFWDA0X3JoN0JfSlM1RkM3Y3V0azhKM3pvVml6Z0RWWUE?oc=5",
+          "published": "2026-11-03T19:35:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.907,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "튀르키예, '형제의 나라'에서 '원전 파트너'로…李대통령 \"피로 맺은 우정으로 협력\"",
+          "publisher": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CcTJXSGxRdU9xLWdvU2Nkb2FaanEwRkcySFNWTXBoYnNtOVJPUWRsRkZPd3Z0R1FJbXVnUHZ4eXNkYWRqUEpJbEdyRW1YSlJhaEpMM0dIbFBWbUJQ?oc=5",
+          "published": "2026-11-03T10:03:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "튀르키예, '형제의 나라'에서 '원전 파트너'로…李대통령 \"피로 맺은 우정으로 협력\"",
+          "publisher": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rSTFXZXc3MUhHSWdLaURISnN5czZ0ekFjVzBOZjA2MUo2M1gtMnROQmpNYmxIdmpDbEthTHhiQjdfM2RIM0J3UkpUa05GWnh4WXNma1NyWVBUa0t5?oc=5",
+          "published": "2026-11-03T15:57:11+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.756,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "이 대통령 “튀르키예 원전, 한국기업 선제 지원”",
+          "publisher": "중앙일보",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpT2tGZ0NEcUk4a3hRVGJBR0V2UlJiSjdvVWhqQTc0cjYtWVJVeHFja19FU1hsa3N1M3ZTWHFYV0RObU5xQ0xBVWxzQzUtZ2FSTWZ5elhn?oc=5",
+          "published": "2026-11-03T15:01:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "이 대통령 “튀르키예 원전, 한국기업 선제 지원”",
+          "publisher": "미주중앙일보",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ibWZqdXZpb2I3WWZUWl9hX2RDY2ZlWVRMcFBqTUppaUhIMG9UdDRrbVRzZExSRzloTTBHMDYxeFl3cDBLZEppdFc2dnV1d0twaWFLUkZqV3dlRXhPVFdZTjZB?oc=5",
+          "published": "2026-11-03T15:01:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.717,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "이 대통령, 튀르키예 에르도안과 정상회담... 원전·방산 협력 확대키로",
+          "publisher": "한국일보",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhQXFOUzN5akRTMWQ0eWo1a0pVWjlMVldaTlhlZy1uSF84bWtVYVBGcWVLaHVFck9Jb1A0RTNVQ0FUUWprZDRqa2d0NTZwU19JekJnLS1ITlRnOVlvZ055SjV4LVpNR1o2M0ZOY0tsVDk4NVHSAXNBVV95cUxQYUFxTlMzeWpEUzFkNHlqNWtKVVo5TFZXWk5YZWctbkhfOG1rVWFQRnFlS2h1RXJPSW9QNEUzVUNBVFFqa2Q0amtndDU2cFNfSXpCZy0tSE5UZzlZb2dOeUo1eC1aTUdaNjNGTmNLbFQ5ODVR?oc=5",
+          "published": "2026-11-03T09:46:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "李대통령, 튀르키예 에르도안과 회담…“원전·방산·에너지 협력 넓히기로\"",
+          "publisher": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeUtDOHNGR3NSNVRUYVF1YTBlNWpNNTMwOGo0dWhBZE9oLUhWazVRNFAwcEVzU2NBYm9lcUstakp1MUE1bDUxMlNycHNLZUZMOVI2MTRtSEZHcDZUUEFkQnpwRGk2dkVBY3FwTnF3Ynd5WV9Lbk5IS3l3ZU9TRzF1Z3lJc25LaFl6S2fSAZ4BQVVfeXFMTUZDQTFnSC04MW9OVkhISUs2WndtWEdqM3FBNmVxLVFoQTc0SkNsM0gzRnc4QXJvVjhrWEt0QzBVck03clRwb05SSzlPUlJaMDhrM2JNakljck9KVWlJNWF0Zm5ocGZDYUEtcktaYzJTSjNZVUVHZDNzR2Q4TmRZVzNvVjY2aXFsMXhxRnlVenpTSDR1VVFOclBYajRnMEE?oc=5",
+          "published": "2026-11-03T11:51:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.585,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한ㆍ튀르키예, 원전 프로젝트 금융 협력 양해각서 서명",
+          "publisher": "연합뉴스 한민족센터",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hMTRROHRubFYzTWg0eU95Slp0MWh5NW0ySXNRcURoZkZRU01XOXFFWWw5N2hmQjhTRkgtYmtHRlpIallmSzZoSDNINUVDdDFveUtaRnR4VjJTcXo3Rkhwbzg1eUFQYTZlUU04Yl8yVW5rMHkt?oc=5",
+          "published": "2026-11-03T09:01:15+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "韓-튀르키예, ‘원전 프로젝트 금융협력 MOU’ 체결",
+          "publisher": "주간한국",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HbXZLd1ZsZDMzVGNQdHhJbkJIVElQSUVuTVRPNzBoX0xlVGZJc1o3dDNGd2pWanBuUl9MZUlFMG1kOEFqNWEyNjVyeFlCWG9uaXRFZ1dnakc2TFRCeHFZeU14cmpCbkotUEI5Y2FNWHY3a1Zn0gF0QVVfeXFMT0dtdkt3VmxkMzNUY1B0eEluQkhUSVBJRW5NVE83MGhfTGVUZklzWjd0M0Z3alZqcG5SX0xlSUUwbWQ4QWo1YTI2NXJ4WUJYb25pdEVnV2dqRzZMVEJ4cVl5TXhyakJuSi1QQjljYU1YdjdrVmc?oc=5",
+          "published": "2026-11-03T11:49:52+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.584,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한국원자력의학원, 아ㆍ태 13개국 대상 방사선비상 대응 교육 개최 外",
+          "publisher": "의약뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDaTdNM1RKQndUY0M0XzNEbF96UjV3cHJ2bVdBN3NGUmhpYXF0M3d1UkhnRGxMU3lkMjlNbnJ1T0R5SzloYUxhWlFrSjdvSzdrekpCNDRtemFNNHJyUkNhVWM3QXV4LWRw?oc=5",
+          "published": "2026-11-03T10:26:21+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원자력의학원, 아·태 13개국에 방사선비상 대응 노하우 전수",
+          "publisher": "병원신문",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00VXJJVVJlbGxEcmUyRFV5TGxqdFE3d3RaTl9lRU9aOHhqaDhOWHR6OWVkQXhIcHE3aWJ2cG9sZDZTY0Vka25QME5aNFRlMlRsYXFKdlNkaVdUN1pJWG40MHV5Y0d3TkVpRmc?oc=5",
+          "published": "2026-11-03T11:19:59+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.563,
+      "id": 28
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한국원자력연구원, SMR 도입국 지원 ‘IAEA SMR 스쿨’ 개최",
+          "publisher": "에너지코리아뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15Q0Y0ZVh5NF9zSGRUTTZ6QUU3RVV5Y210cjJBcFROMEs0aDBqc2JIYlBHMVoyc0EwX3RzS29MZi1PSEV0TkRsel93ZDkzaFgzaGZfWHNWMHFxaG9RY2hUR1luc19KcW11X1FzZkF0UDQ?oc=5",
+          "published": "2026-11-03T02:18:02+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "원자력硏, ‘IAEA SMR 스쿨’ 개최",
+          "publisher": "발전산업신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MZVBHM3dtX2NJejdIRFlWa0p2c2pNZWNTSGhTbjdPd3pqU3lHbVIydmhEV2NQRXpNVmh6Szc4TEo1Z3BzTHhtbWpnR0ZQWW1rRDBXVk1QVkJES1pzdUZfZzNiYmQwSDE5?oc=5",
+          "published": "2026-11-03T11:04:03+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.552,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 99
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 55,
+      "kept": 44
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 100,
+      "kept": 96
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 49,
+      "kept": 6
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 1
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 4
+    }
+  }
+}
