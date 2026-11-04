@@ -1,0 +1,189 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-04T21:56:52+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Heat raised for UK's MAST Upgrade fusion machine",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/twelve-tonne-component-raises-uk-fusion-machines-heat",
+          "published": "2026-11-04T10:56:34+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.541,
+      "id": 0
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Amentum, Kyoto Fusioneering agree fusion collaboration",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/amentum-kyoto-fusioneering-target-fusion-commercialisation",
+          "published": "2026-11-04T09:13:01+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.47,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Trump Media Group Sees Merger with Foothill Ranch-Based TAE Technologies Late ‘26",
+          "publisher": "Orange County Business Journal",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNakVXSWk1OFdKSVM3b3d6cXR4aWZPcG5rMjczeXNLbEVmaXpXblZCZFJwVmVJS1l2LXdLdjdqNlRHZHJiU1ZQV0NrX2ZEdjA5dXhGQU9FTlNqdk5MRWE4bWtvOW4tRFVub2hQZGluVF9fcDd1X3UxU0g0LWJpcFVhV1poX19rZFFx?oc=5",
+          "published": "2026-11-04T20:56:13+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.958,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "The science will melt your mind but UK leads race for £12TRILLION nuclear fusion prize",
+          "publisher": "Daily Express",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOVE3clptdkJNUkprVmJrUlc5WDRZRE5FSDRHMUZRSUE2cUstSHpEZXZ5aXpuMm1VWnM3UUlCaldXTnVVSE1ybHJGU0JqQkxUUEhTOEtJdDd5a1JxbzNfcTFuajdGQmRzaGlvVkFlTU0xTlZMaE81eVEtNnhKTWFlajdpSmJjdzRKTlE3UtIBjAFBVV95cUxPOVE3clptdkJNUkprVmJrUlc5WDRZRE5FSDRHMUZRSUE2cUstSHpEZXZ5aXpuMm1VWnM3UUlCaldXTnVVSE1ybHJGU0JqQkxUUEhTOEtJdDd5a1JxbzNfcTFuajdGQmRzaGlvVkFlTU0xTlZMaE81eVEtNnhKTWFlajdpSmJjdzRKTlE3Ug?oc=5",
+          "published": "2026-11-04T16:35:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.776,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "The AI Boom Needs More Power. Could Nuclear Fusion Be the Answer?",
+          "publisher": "www.cheddar.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb0loVElNX2QtcXphZ2VFanZmNEFlQWZsUDUwaWs1M1QwZV96aE5uNnFhS2F0ZHZSVFFVWkNxakRXeXNWNk9zUEV0V1M4bUFteEdYZG5DcWV5N3gtcHJwT2JBYWJBa01VeVFoZmZsLTJ0bmZjNGRoVGd6aHRWb2dfcFMwZndFRzBhOTNmWVJZMHNqaVQzZlpZaG1R?oc=5",
+          "published": "2026-11-04T16:17:47+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.765,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Nuclear fusion reactor gets massive 13-ton beam box to achieve 108 million °F",
+          "publisher": "Interesting Engineering",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObFhveW1kLThRdUVhV2RJcXE2cEd6N05RUEV4TWFuY2FYRnR0TkZ2MGZxVHhxNzM4ZTNNUm5XRXdMOTRWbmFYdklLTEJueExlWTlIWlB4Y3FhZnhQQkdJbHpFdXdUQVF5NzY1MGF4cDNkcXBiOFZsTGJuME12YUFyd0x5LXU?oc=5",
+          "published": "2026-11-04T15:27:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.729,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Nuclear Fusion Market Size to Hit USD 49.73 billion by 2034, Growing at 13.49 % CAGR",
+          "publisher": "openPR.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTXNaZ3hsNDZVZGVYWU1QSElXYVBXa1JGWG0tVExsZHdIUDJzZEZxZWhmR1NmOWRUUUlHM2tTNGdsZS0ybVlhSmxha1NVMkhENXZVOTFISEpOYndVWjdYNS1FVDduUjdsczBNa3BHQ09TZHdWZlBhZUhRZFZybE9jb3VSRkJKd1VWQWZ3N1dCTG5idzBNZkVNMkppMA?oc=5",
+          "published": "2026-11-04T12:47:34+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.619,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "ITER's giant superconducting coil passes key tests",
+          "publisher": "finway.com.ua",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85dkNEUEtub1dnREdjc3ByQmJMNGkzMWNfNHdLZ0lmT19ldHlhYUlocVRMQVV2d0k2X2dabVpzVzQ5SG9vWXRsSjB0VW52ZGo5cjNIMmgyUjk0QnRaRHREYw?oc=5",
+          "published": "2026-11-04T08:09:15+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.425,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Pranos Fusion: PRAGYA and PRANIK – India’s Private Nuclear Fusion Initiative",
+          "publisher": "StudyIQ",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNMFhjZU1BRWlfWXJRdnlkMUc1dkpHbkdMZUVLWnRmSWU4a2RhTVlDeGdvaHQ3RXhZNXE0aDRaSG90RzZ6ODlUUVJneUFkYVF5MDFRMVV1cjhXOXM?oc=5",
+          "published": "2026-11-04T05:36:52+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.319,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "World’s largest fusion reactor tests 330-tonne magnet built to control superhot plasma",
+          "publisher": "Interesting Engineering",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc3MxZmhpb0gtQ1EwVHFPcTc0c1E2SVVlM1JiNEZ4WXZBX0dvQTlreUs2eXVObk05RXJ0a1c0bXVxeFZ0QTFEclNzMnp4RlU1M0RMTktDTHROSVJLQkVvTjNpMC1FRmFyOXdhRGR0ekM4ZlNJaG1PZFhfcGVoVFNqZWVLMm9jcGhOSE1ONXlXdw?oc=5",
+          "published": "2026-11-04T00:51:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.121,
+      "id": 9
+    }
+  ],
+  "feeds": {
+    "gnews-ko-fusion": {
+      "ok": true,
+      "entries": 6,
+      "kept": 0
+    },
+    "gnews-en-fusion": {
+      "ok": true,
+      "entries": 17,
+      "kept": 8
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 50,
+      "kept": 2
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    }
+  }
+}

@@ -1,0 +1,899 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-04T21:56:50+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 원전 안전 지키는 '최고의 운전실력' 선보이다",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKVC0yMmZSZjdGNFBzU1pMSFFOYlk1WGwyVFNGZ3lVNHYtMmMxcTZ4d2x6M0gwQ1RKV1d4X2R1MEVlZTJ4Z0JFTXRyQzV6WEliTmhTRFB5ZnRaSjJ4WlZDXzY5eXRmaDZLTk5saEY3MmVDdw?oc=5",
+          "published": "2026-11-04T08:29:49+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 원전 안전 책임지는 ʻ최고의 운전실력ʼ 선보여",
+          "publisher": "부산일보",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mTHh0ay10VFlOX2k3Uk5pZ0hvZGtPS1lRNk55MXR0d0JEeERPWEpwVUJUT016YU5pZzRLR21STU11anp4bG1UaEItSVBEc3I2WUdMS3pXa0pOam4zcDlXcFg2Yk1iWVFwZm9UXzBfaUhuY0w1UktRMEZTZHU?oc=5",
+          "published": "2026-11-04T12:48:50+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 원전 안전 지키는 ʻ최고의 운전실력ʼ 선보이다",
+          "publisher": "에너지타임뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40MUVtQXpPdkdYQWdPUDdhdENZMHZMd1pXc0djdDEtUGtqVXBQbDdvblNDQ2tONnRHemROWUJPS29OOFNBZE9WTWxvYk1fYll1T21TMDNURGxFN0pLYXFXUVprQ2Y2U3gwT2dhQ05CbWRhQdIBdkFVX3lxTFBiM2k1MXQ4bzZTNHJIOEliMW4xSUNQQ1FPbV9Nb3kyeWpQOGV2V0M5MnVEQWtYb3NIMUJuR3hMRW9yV3hieGF0OW1WeFR0MEJuNkt0cDU4bUUtWWJPb3p0VEdDUDNEa2N5QkNJaXh3NHZVbHF6SWc?oc=5",
+          "published": "2026-11-04T13:50:49+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력, 원전 안전 지키는 '최고의 운전실력' 선보이다",
+          "publisher": "시사코리아저널",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sS0R2Qk1ua2VCb19zWVJhcTl0bHNZM25iT1ZuSE5SMEJzQW9XN3FoWGZkWDhmTHdQTkVhejBKTnhJajdBay0xbzJhdnhjSUV6em5xWHNVN0t5TWlRQnVNRHhzNGRHSDVw?oc=5",
+          "published": "2026-11-04T18:33:39+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.859,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 美 EPRI와 청정수소·에너지저장 기술 공동개발",
+          "publisher": "뉴스퀘스트",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4bzhUREFYMTBJSng4aUR0RUFka0hVd3dVTjFYWURPVkJfNVNTdzhqQ0pXSmd4cGh0RmRaNnVsbGdTS0FXMi1OODdubjBpNXdIUk83ampDemgtTDZKMFBkNUlPck9MSjJsdjFhMnpvaw?oc=5",
+          "published": "2026-11-04T02:30:21+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원-EPRI, 청정수소·에너지저장 기술 공동연구",
+          "publisher": "에너지신문",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xOVVHalNrTGc3R1RWZFRtemhOa2VrQy1HNkFBVE5Ba1JPYjFNRUVzQjd6M2hnZkpGcWRpX0tCQWVjOERSZy1fcGZobUtVejJoYmE5YUtUd3VteC1kTnR1UkwzS2NuWGNrcUlHLV9OcklKdw?oc=5",
+          "published": "2026-11-04T02:44:38+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 美 EPRI와 청정수소·에너지저장 기술 공동연구",
+          "publisher": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Ub05qYWhQbnhJaGlVVXhfclpqNjJZVXNXOWZmNC1FZDMzZ2FlV0w5d1ZSU29aTHRZbVYxVmlnZHg2ZHZtU3pNLUV3a1VIQQ?oc=5",
+          "published": "2026-11-04T05:48:39+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 美 EPRI와 청정수소·에너지저장 기술 개발",
+          "publisher": "전기신문",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vcklLSXE2WWlFM01lTVJTQVdnWWFvRDk0NlBEUEZfc0dSSDBZMC04NXhrZ0V2LVg2TlFHR1hweTRKbTJyQy1RMkNoQWJCa3k1aW9RQjFlRW9xSllJMi10UFh4cjd2V0IzNXMzNi05cEnSAXBBVV95cUxOb3JJS0lxNllpRTNNZU1SU0FXZ1lhb0Q5NDZQRFBGX3NHUkgwWTAtODV4a2dFdi1YNk5RR0dYcHk0Sm0yckMtUTJDaEFiQmt5NWlvUUIxZUVvcUpZSTItdFBYeHI3dldCMzVzMzYtOXBJ?oc=5",
+          "published": "2026-11-04T05:53:36+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 美 EPRI와 손잡고 청정수소·에너지저장 기술 공동개발",
+          "publisher": "스마트비즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pamVheTZNTmNRcFhZYlBIUFZPOGdTYkxlbk1KWnNPODBGLV9rZVpwMkpKcVJqbGVVbmF1dHR6b1Nhb0pqNHVseGJ4eUViWXI0aFBCRzM2NXAwUllYZVJSZWE1WnpFUXZTWndpMA?oc=5",
+          "published": "2026-11-04T06:44:44+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 美 EPRI와 저탄소 에너지 기술 공동개발",
+          "publisher": "Korea IT Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0TFN6eGh4TzN6cFdWNEdaaEtGLVBxbnNJdzhHdHRJNHZpazlteENkbVFmLU96RHdzMUNwRjlienNWYUFQdGQzOFFWQmxySkpDLUd4ZVdYUVNhNFAtdDdpTHFrS0xwQl9EdmxZdTFHRHQ?oc=5",
+          "published": "2026-11-04T07:00:38+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 美 EPRI와 청정수소·에너지저장 기술 공동개발 나선다",
+          "publisher": "워크투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBURk9qUDJMU1ZlSHhxNU56N2RwOVBKcmZEX2JYM2ExeVRobnFEeV9tbm01YjdURnlEOW1kejNORFdsN3MtZ2FuemYtNkprclBZQW9SZjZieWhDbGFaTGZGUU1wLTJ2SXhUejNuVg?oc=5",
+          "published": "2026-11-04T07:27:10+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원+美 EPRI, 청정수소·에너지저장 기술 개발 \"맞손\"",
+          "publisher": "넷제로뉴스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01R1UxdG91UlA2ZjVVWjUtbUp3NlUtbExNMy04QU9uOW5UbHRMakNWMWcyRGVsUURfSldwN2hjT1VUMHFEYzRmRFNkQ2owWGZRQi13T0VIcjdheU1ScElvUlR2b284OHNSb2Yw?oc=5",
+          "published": "2026-11-04T07:50:20+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 美 EPRI와 청정수소·저탄소 에너지 기술 개발 맞손",
+          "publisher": "이뉴스투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UbEY1UkVvWjZqWVVIdWlDZWZDT0l5eTZ2SVJ5Uy1sdHZWeVRROXlJMTBKdm9jTEd4QUluRXl3SzZWNmVXdWtMamN6UWFSUVpzQjRzY3JUVDk0VnZwU0RlV0dHSmtxN2pDTmNuUDNXcHnSAXRBVV95cUxNNkJSdjFMZWxyRWF2eGY2R045bUE0bkh6MDVzanp2WWhiVzFmQW9HYk9XWjhwSlpGNy04YmFfV1N3cWF2dDd0NXotVThhN043VklNTHdqcEw1Rm56bUl4dXhXTk9PMldOVDRVMXlyVmVNOERHRw?oc=5",
+          "published": "2026-11-04T14:45:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.7,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 원자로 조종사 경진대회 최우수 부서 시연회 개최",
+          "publisher": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNc3NWMDZBRUhpaS01YTVIUVhyR0h0WUlfenVYSl9ONjFSeUtsOWlvMWlmZlVNNFhDUktqRmZmSUNQYTRJREE5UTM2NF81NHhYaGNFSU9nSmRGOFNnYzh3N3IyU2JEMmlxZ0R1OXhFUkFrZ1JBZVRxT2xPbi1EemhVTFBWaUw0ZE56dVFyOXk5cXZOSDhzZGZ3YU9GOWNOUjcxa1AxUEhXMko4MDNvaWE5LXJBU0IyVFNuSFVKRVcxZzhwb3ZSeklEZ0QtODhaTGJIYkpnT1U3TmJLcEJMMHp2Ty04QWJIcW9vLWM4MFlRUnJCaTU3RFZJU0FJVGRfUUpUbGUtZjdBdDRFUWtZdHM4OHo0RUVhaFd2TGJfYVh0ejhmSGM?oc=5",
+          "published": "2026-11-04T08:18:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 원자로 조종사 위기 대응 능력 점검…최우수 부서 시연",
+          "publisher": "팝콘뉴스",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TY0diU2JpQTZiMUVSazVtZk1hLXpQLXd3dkxrWnBQbzk5TkFiMlpRd2doR09wNUN3U1NsUjVoU2xGV3BZV3h1aGxDU1F0c0VITEJ3Rk5OWVo2a0piRVgtLTU5OE4xQ21ZUkZGMmpsONIBckFVX3lxTE1FVTdmSkpYbmpoUWphX1NSLTZURWFFTEltUFhycDROaTBZQy1EX2VNODdqczVYM25nZ2NKUlJ6azJGeGItazNOSDlNTkZOVU03NlZjSTlEOHBXUzhiQWdpMlR0OF9QWmhiUjVoaDdmUkx4dw?oc=5",
+          "published": "2026-11-04T08:35:01+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 원자로 조종사 경진대회 최우수 부서 시연…원전 비상대응 역량 입증",
+          "publisher": "드림저널",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5WX3ExWWxZNms3UzRKYWZCY0tTNGFyZ3F2Z25XbGtTWjNvX0E0UmhFTjZKek1EdG03dEwyOTJ6VlJOdzAzN1E?oc=5",
+          "published": "2026-11-04T08:48:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 새울원자력본부서 원자로 조종사 경진대회 최우수 부서 시연회 열어",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LRl9RNm1WX0lXMjVfVHZVT2ZwZ3hjQWZWd3p2VVFaekx1aEJIX0xEVmhSbDg1NmYzZlJmZWlrRUdfMm9icGdYcFVXVzF5anRFYUVEMTVudTU5Mm51R1dib0VBUDY?oc=5",
+          "published": "2026-11-04T09:50:26+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.496,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 美 전력연구원과 청정수소 공동연구·기술협력 MOU",
+          "publisher": "BBS불교방송",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85bmxzMmVYUEY0MDFBYmZGaGNOSFIwUC1aWmdaeHYxTHI2LWlHWWVkOG1mS0FGeXFmV1V2WHlOMjlLclN6WWNGUTVqZFI1WFk4MVhHbnRIUy1LOGxTeS0wZFVZQmFvZVd6NDcw?oc=5",
+          "published": "2026-11-04T02:17:17+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 美 전력연구원과 청정수소·에너지 저장 기술 공동연구 추진",
+          "publisher": "글로벌이코노믹",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdDJXcWRSWEl3bmNOalRiSWxobEJ5YjJhd290SXh0RlN4cFlxV0Nnbl9rUzFZQ1BZdVF3U2UyZW5abU42b09rUTZYUFZiSnRwQU1aaXljSFowa0RZYlAwV05jS2E0N3BSQ3R6djd0X1FsdXBabzR0b01DaHNrNTE2ZnBsRzB2Wlc1ZGc?oc=5",
+          "published": "2026-11-04T03:51:52+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 미 전력연구원과 청정수소·저탄소 에너지 기술 협력",
+          "publisher": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXQUYtY3UyRjRVNzhKV1dJMThsY1RpVm9MeGhneVp3SHZoeTlDMmhkdXRUU1JLcnIyblpYQzZ1djdteWpCejRtd1VEUmNtY2c5U3dHcVFXSTJucUw2WW9fTklfZldXck0?oc=5",
+          "published": "2026-11-04T04:41:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 美 전력연구원과 청정수소·저탄소 에너지 기술협력 업무협약",
+          "publisher": "일간투데이",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RVlJUVk5hbjB4WEJCdmsyV0Y3OVFDYUpMRkZ3d2tkaUJ5N2Z2eGJKSGM3TUdRdTNjQnpWVjZROGRqQWZDcE1tQU0yRnVCQkZub3owSTFCWnE2Ml9kOUVmaGxWOXRMXy1VbkFz?oc=5",
+          "published": "2026-11-04T04:44:50+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 美 전력연구원과 청정수소·저탄소 에너지 기술협력 MOU 체결",
+          "publisher": "팝콘뉴스",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5N0RKY2RxVl9xMU9UTTRzZkUwRDZGNDhCSklLY3JKdVVwRmZpOVlzZEU5YmQ3a3FsUnNCUnJMMXF3SEVDT0pvVVZOQnZwNlFFV0NDZ2JTMU5LclRweU5IVnhyYVBtbmtiSm1vNF90TQ?oc=5",
+          "published": "2026-11-04T05:16:03+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 美 전력연구원과 청정수소 저탄소 에너지 기술협력",
+          "publisher": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81S001WGRvdXI3bWZmX3dMVGZ3OHZOMk84REFKb2YwTmprWHliODJheDB0UDVVczRrUllCMVlxd080MWQ2bWRLb0NJYzZ1UXdJaW16TEdR?oc=5",
+          "published": "2026-11-04T07:46:43+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 미국 전력연구원과 청정수소 공동연구 맞손",
+          "publisher": "데일리한국",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ySkwxdEFVNjZSTmdaWWVkY1Vndm9OdExKdHFxM1lKRElXRWRJdHZIRjJxX0s2RzMxWWh6VWRYSVBFcV9UaXF1dGlKYjRhdm5XV2diQm1vbno1SVVGQmZibm00X3FvMEFmUlRaQjRKSTZ6Qk3SAXNBVV95cUxNckpMMXRBVTY2Uk5nWlllZGNVZ3ZvTnRMSnRxcTNZSkRJV0VkSXR2SEYycV9LNkczMVloelVkWElQRXFfVGlxdXRpSmI0YXZuV1dnYkJtb256NUlVRkJmYm5tNF9xbzBBZlJUWkI0Skk2ekJN?oc=5",
+          "published": "2026-11-04T08:40:22+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.447,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한국수력원자력, 美 전력연구원(EPRI)과 청정수소 저탄소 에너지 기술협력",
+          "publisher": "다경뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBqNmhvUGNQT1hmbjMtMW9FS3RmN1pqOEk5czE2OWJOUDJXZnZOYzV0bFdpWlhpNzZEaE5PQmpFZG5OQmcy?oc=5",
+          "published": "2026-11-04T02:22:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원·美 전력연구원, 청정수소 저탄소 에너지 기술협력",
+          "publisher": "더트래커",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MaV9XYXY5MVpQT1BWaWdRVmpFMVUwVEFIMGRZR1h5bFpTdkRIODRxcU1aTHdRU3pGNTRlTElZZ2p1TjVFYnBsTjVfeWRrX3lyQUxCOUhiTmI?oc=5",
+          "published": "2026-11-04T02:36:45+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 미국 전력연구원과 청정수소·저탄소 에너지 기술협력",
+          "publisher": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HYWZ5N1lKdmJkd0E2R1lTbnpYdUpZRTdDbkVJaURoRlVQRVpYZHVSazBJYnlvOU9xM3NlSldYTXlTal9jazNXS3RKUGJ5dGtKc1puUURCTnZiUQ?oc=5",
+          "published": "2026-11-04T02:57:02+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 美 EPRI와 청정수소 저탄소 에너지 기술협력",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KUWlTa2IwM3dQM3hxbWdBdTBtTU5ZcHU1Sk5XV25vdFlmLUdhRjJ3bnIyWHFSaGwtY2ZzR2hPTmVRZ3pGa05EWGNjcUFjc1loRmZUM1YtTC1vU3VSOGRGRTVfTjRUa1RkVENSRUpRM200QjNVQjZwMNIBeEFVX3lxTE5KUWlTa2IwM3dQM3hxbWdBdTBtTU5ZcHU1Sk5XV25vdFlmLUdhRjJ3bnIyWHFSaGwtY2ZzR2hPTmVRZ3pGa05EWGNjcUFjc1loRmZUM1YtTC1vU3VSOGRGRTVfTjRUa1RkVENSRUpRM200QjNVQjZwMA?oc=5",
+          "published": "2026-11-04T04:18:20+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력, 美 전력연구원(EPRI)과 청정수소 저탄소 에너지 기술협력",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yUFBkWVZlT3d2am56OWFlUjVSSTJsdVUyMWNxRHctSW4wNENUTjlNWmhHRG93RlpRdGpFaFlaNG53dFRZaGp1MUlwWHdTU09VOXNTbldOekhNX2d2aGwyRWNuRWQ?oc=5",
+          "published": "2026-11-04T04:30:27+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 미국 전력연구원과 청정수소·저탄소 에너지 기술협력 확대",
+          "publisher": "미디어파인",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lSTB3bWJLbWRsb2Y5akc2blJhd2FTVmwzcUpBUUtBTlFpdHFjYjFGeFgtVjNYSUZaTlV4Q01weXBZMWpOd3Z3RTdaN2R1NUFyQzQ1RU1oSnVGNm1WUk5KQ2t1WGtnbVpPMjVsS1ZR?oc=5",
+          "published": "2026-11-04T05:08:01+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 美 EPRI와 청정수소 저탄소 에너지 기술협력",
+          "publisher": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNVUyTF9faHcweDhVQWxZZWRrODktTFl0NXhUZTNmd1hoLVpHRzg1T2tLbFIwVGo3bTQ2OVNucGR2TmZIZHBycXRJeFBUdmlwREJfU1hTZTNjMTExWW5pZEt1TTNValRkaHVPTTZseG90RXpjbnV3aEs4aENzT3c1Q01pLUNaYUV5R3lMWDV3LWczdEI0Tl9KMzFrZ1kzY0JCcVJZaS0zVTVrOFlqV1ZseDVmWW5ocHp5M2FSbnlhUDJURTAxbDdBcFotN1dhUkNkWm1vN3VNNjZuTFhQOEVicTUwV0ppSGtDRElrcw?oc=5",
+          "published": "2026-11-04T06:07:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력, 美 전력연구원과 손잡고 청정수소·저탄소 기술 협력 강화",
+          "publisher": "에너지코리아뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YcnJid05pTTROM0tCYVhGRkgxSWo5c0lNYUNKamFLT0lwY0wtQW5yODJabDg1YkkwODJLNnV5N1BQNlR4Ry01aWdoQ1RZVmpjMVdrd1BwMmJMVGN5X1A4SW5NNU9FaUFqR0Exb2tRLWI?oc=5",
+          "published": "2026-11-04T07:58:55+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.418,
+      "id": 4
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "기보-한국원자력환경공단, 원자력 환경산업 육성 맞손",
+          "publisher": "부산일보",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BNkZtUUROV2NpbG9Od1l0aTNnX1M4RDJFWnVPN3RYakFHdFVxeUgwMEZTd29ZVWVVVFV6MEJCdFpSUTR4cExhRHlEaElNMjlOb1RFQ3llbThjYjBDYUxnUmhuQXJDOXdqODBpNkFic1RnV1Z2?oc=5",
+          "published": "2026-11-04T04:45:09+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "기보·원자력환경공단, 원자력 환경산업 육성 협력",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwSlZ3SkFuenM4TXBPZEVUNmhJMVNxUlJtVzNtNmlZd2NpQ0J4NFVkZFNNUU5oYklSZG9scktkUjZsOWZwM3ZOZ3hsdmJnYm5UZm1Xc2FhQkQyUy0xZDh5UdIBYEFVX3lxTFBwSlZ3SkFuenM4TXBPZEVUNmhJMVNxUlJtVzNtNmlZd2NpQ0J4NFVkZFNNUU5oYklSZG9scktkUjZsOWZwM3ZOZ3hsdmJnYm5UZm1Xc2FhQkQyUy0xZDh5UQ?oc=5",
+          "published": "2026-11-04T05:10:46+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "기보·한국원자력환경공단, 원자력 환경산업 육성 협력 '맞손'",
+          "publisher": "글로벌이코노믹",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0haMEkxc3dFNlV1Tk0xYTRXaW9YVGZ2RXJXa243dkJUNmtKTWMzU2xiR3pIWUZDaWQ5RGlFY0t6bUUxY2ZDVjJEQlVmOHA4Z3V1dmtOTnB6dmVUNFRvTXp3S2Qyd1RTRlZlbi1GcWtWY0hlaFpXUzVGSUFWYUlFTjlaVkY?oc=5",
+          "published": "2026-11-04T05:38:07+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "기보, 한국원자력환경공단과 원자력 환경산업 육성 나서",
+          "publisher": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtb0x5NzNVYTItcXI0c1pUVk1MVTMzSkRFR2VhS2VRSGJtMzlUeEdLN2w4MFVCQ2x6S3VXUkZPQnJlT0xRajVVc3EydWE5RVJvMjhCVXFCZUZhbzViVmJkYl9aQlU?oc=5",
+          "published": "2026-11-04T05:55:23+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.332,
+      "id": 5
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "수출입은행, 튀르키예 원전 수주전 힘보탠다",
+          "publisher": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9uQV9SbUpZSXdSRXlnNTNNd19WWnN6bkJRSHNNbDZjeXp3Nzhic0VxVXRnVWZXdDhmb05pNF9lZWstRjdXaEZZbFZBSWpFQXJBZ29JYmtjYkRlWEpU?oc=5",
+          "published": "2026-11-04T00:51:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "수출입은행, 튀르키예 원전 수주전 'K-금융'으로 힘 보탠다",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvMTNtdUU0WnBUNnRXRmxoQWtlbVppQlFxdHV3X2RsOWZsVWtVQ25uT1FkYVIxUlRjaGFDa0dzenpqbDcwQ1p6SWRYT3hVNTNxby10bllfZUpzdUE?oc=5",
+          "published": "2026-11-04T01:25:37+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "수출입은행, 튀르키예 원전 수주전 ‘K-금융‘ 힘 보탠다",
+          "publisher": "대한경제",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54S2RleUZBc3R2M3lUSi14akpGbkpyN0loeUxRQ1VvMWdkQmthNFFodWlZOUtXbDlEVXdMcmx6WlIwVlVCSDh2c3dmYXczTU9MQUFuQVFsRXlZaWpVcXBmbWxHUzhWNlZKVlBjUl91LXlid0U?oc=5",
+          "published": "2026-11-04T01:42:10+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "수출입은행, 튀르키예 원전 수주 금융지원 나선다",
+          "publisher": "DealSite경제TV",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WcGtjb0RuMGpVY0liNEtSc0NBSkh1RVRLWDVLc1hWcjg1NFFQOVU1YjAzVjhtbHJFckRnMmJFbS1LYVpTc3RVTS1vU2pkRWdpeE5rSndB?oc=5",
+          "published": "2026-11-04T03:58:23+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.251,
+      "id": 6
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, TUV 라인란드와 '유럽 원전 디지털 기기 인증기술' 협력",
+          "publisher": "컨슈머타임스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpSWlHanUtSy1ndjRIUUhYbWVSZS1YcEg2UTI4OWFQRzFXczNCZU9RSHBoZHVaSEJabXJNMmpUcmNOU2M2b25YN0pRQXYzQldaLUhJODJ3VlpuNHRkXzdhTEs2SldBTmRHenc?oc=5",
+          "published": "2026-11-03T22:00:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력, TUV 라인란드와 유럽 원전 디지털 기기 인증기술 협력 양해각서 체결",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5YmM5dWFaS2ZDRkdQeDZfQWFCUk5pRXFhSjdrdUdMUGV2Wk5mZ2NHWGZpbng5X3ZQWG9Eb2pGMzYyQVJ6Qm5DamtRX29oTzBmSTk1R0xQZnNiajd4WVFMZnR3Wi0?oc=5",
+          "published": "2026-11-03T23:33:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, TUV 라인란드와 유럽 원전 디지털 기기 인증기술 협력 양해각서 체결",
+          "publisher": "데일리대구경북뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5haWhURFk3T2ZvZWVscm1JY1FVSHQzN0xNLTBzeFRXVXZCY3dMc1Q0VVVFbFpjbUNLdHNOTEJ2TWp4LVhxNFlxUXpvNEVPaUg4YXV2eGRzMm1hc3U3a0NmZlZHemFQUQ?oc=5",
+          "published": "2026-11-03T23:55:41+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, TUV 라인란드와 유럽 원전 디지털 기기 인증 협약 체결",
+          "publisher": "일간투데이",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rb2hHRzlnc093LUFEbnVwWkJEcGpKbFpzenV3WGNlX2tMRl9LeHFzcGhJQzctWTVvY0h1ampORk5FWTFZTUtQRG8xTEJlMmR3VnBLeTBaVHB6S1JEVi1sVEVuY3FpTUtvMExV?oc=5",
+          "published": "2026-11-04T00:49:38+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 유럽 원전 디지털 설비 인증 협력… TUV 라인란드와 맞손",
+          "publisher": "Korea IT Times",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KSGdjMzFhOWxZWldveGVsLUU5QUFyVTYydFhuRm5xVThkX1hnQjZsYk9TWkpxU1o5a1hNT3FFVE5zU2NtV2lWR2Rkbnc4c0dic1BndkpZZkJOd3VLTlhyMkMyYURMZTlORWQtbjJrYw?oc=5",
+          "published": "2026-11-04T01:58:14+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, TÜV 라인란드와 유럽 원전 디지털 기기 인증 협력",
+          "publisher": "한국원자력신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UN21aTGJ1MXlLYXRCTlhLaDhSWGxwRklWaHlfWkdiQ0xqMDdEOC1LV0pnUF9HYm9XM1VBb3owOXUzcTZ5TmQxdC1Idy13WVlDOUYtbndSeVlFajZzRlV3eDNETzlyam94cE530gFrQVVfeXFMTlQ3bVpMYnUxeUthdEJOWEtoOFJYbHBGSVZoeV9aR2JDTGowN0Q4LUtXSmdQX0dib1czVUFvejA5dTNxNnlOZDF0LUh3LXdZWUM5Ri1ud1J5WUVqNnNGVXd4M0RPOXJqb3hwTnc?oc=5",
+          "published": "2026-11-04T03:23:01+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.227,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Kazakhstan plans to complete first two nuclear power plants by 2035",
+          "publisher": "КазТАГ",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeDBBUDN6MzBycHdrUFpqR1NXLWl4ZHd0N2o1VmVTLVllUGFjb2hjU1B1N1VzSzhmU1lMYk1UNVM1Y1lIUWdKdGVWdGlVSHhEMHZVNFFfWm42QmdSa0ZCWDFKWXE4V29Eell4aUxRZ1RSeFFhMGNfMkhITnBwTjFGR1RHUmhCS3poMERlOWdWYnJfaUplYU9FOA?oc=5",
+          "published": "2026-11-04T10:42:52+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Kazakhstan Eyes 2035 Completion for First Two Nuclear Power Plants",
+          "publisher": "The Astana Times",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ284NkhmZmxzQ3VIM2Z1cng4Z1lDd0s2dk9YeWEwYkpVM250eHNqT0pWUVZwSUVHYzg4RTdYYXhEZFc3X0pvRlRPOE1MUHo1YzNHczZBNERMVTEtRGxyTGc0dXhvSW83YmNFZkJaRE1Hdk92S2VqMVJqRE1GaUt5NVpwSEEwSVBNdXVoSGpWcnhyRjhVaHRiUDZXQjY1TGt2?oc=5",
+          "published": "2026-11-04T10:59:53+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "First and Second Kazakhstan Nuclear Power Plants Target 2035 Completion",
+          "publisher": "Construction Review",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSVBGX1h5cTlrVXNFbVNKNDhKdXEtc3hJeVI0Q2J5TUxEVmFFLV9WOFVnSlBOV0F0b0dVVFl0VWVNbFNQYUlSLUs2aFZ3Tk1QQmJEcV8zclFobmItZ1BMTDQtMXlTZTZaV2ZZYVA1amUxREJXY1o2Q3B5VlVJOHRjdU81U0VQRWdkN2VvOE9Ib3dXWFlDc0NzTXNJeVpiRDM4bWwxOWN5enhhRURKY1E?oc=5",
+          "published": "2026-11-04T21:20:32+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.975,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Urenco touts first cylinder of LEU+ for commercial use",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-04/article-8556/urenco-touts-first-cylinder-of-leu-for-commercial-use/",
+          "published": "2026-11-04T18:41:55+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.865,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NSUF awards 18 Super Rapid Turnaround Experiments",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-04/article-8555/nsuf-awards-18-super-rapid-turnaround-experiments/",
+          "published": "2026-11-04T15:46:03+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.743,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "PNNL is developing a new approach for creating alloys",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-04/article-8554/pnnl-is-developing-a-new-approach-for-creating-alloys/",
+          "published": "2026-11-04T14:01:21+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.67,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Initial fuel loading completed at second San'ao unit",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/initial-fuel-loading-completed-at-second-sanao-unit",
+          "published": "2026-11-04T13:24:03+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.644,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Unleash Your Organizational Superpower Through Talent Development",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-04/article-8499/unleash-your-organizational-superpower-through-talent-development/",
+          "published": "2026-11-04T13:14:20+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.637,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Kazakhstan aims for 100-year uranium reserve",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/kazakhstan-aims-for-100-year-uranium-reserve",
+          "published": "2026-11-04T11:45:59+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.576,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "FANCO expands cooperation with Hyundai E&C on EAGL-1",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/fanco-expands-cooperation-with-hyundai-ec-on-eagl-1",
+          "published": "2026-11-04T11:41:40+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.573,
+      "id": 15
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "심평원 부산본부, 동남권원자력의학원과 공공의료 협약 체결",
+          "publisher": "메드월드뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NR2lZd212cUttR2NmNm5aWk5XXzRvZEdjWUl5UElLQlNPbURaOTZucmN1UFlLbXpzMmhPN1E1a2N2X2JQU2hlTEFTbFV0Wm5Qb1VoNnlwWFM0Ty1NWVdjSXJPQWxvT0FwSm41cw?oc=5",
+          "published": "2026-11-04T08:37:27+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "심평원 부산본부, 동남권원자력의학원과 공공의료 맞손",
+          "publisher": "병원신문",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBENWd5VnZLNU1PV2hSM1BHM2RVbXIwWHZ4d3F4ZlZfZXhaRkJ4U2RZMVkxQVNOTUlPZ1lXamUzVjN2UEk2cmNTeGRtWTFNc1l2OGhLTlN3eFdBaTBOZDVsb09jazZwZ01aR3c?oc=5",
+          "published": "2026-11-04T08:45:42+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "심평원 부산본부, 동남권원자력의학원과 지역 공공의료 협력",
+          "publisher": "글로벌뉴스통신GNA",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05ckZqZElCX0lXQlprdnFyV3ZJcW1nRTM5ODRaV3prdnRMMVBrZThRTWhvV3pMR2VhUHFRNG9sNVlPZnJER1hTc1hRdFpGR1BvazVZNUFuam1Ebm9tUWdoZ1l0TGFHSlNEblZXaFNuQ1VGc3hh?oc=5",
+          "published": "2026-11-04T11:01:19+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.545,
+      "id": 16
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Heat raised for UK's MAST Upgrade fusion machine",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/twelve-tonne-component-raises-uk-fusion-machines-heat",
+          "published": "2026-11-04T10:56:34+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.542,
+      "id": 17
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Amentum, Kyoto Fusioneering agree fusion collaboration",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/amentum-kyoto-fusioneering-target-fusion-commercialisation",
+          "published": "2026-11-04T09:13:01+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.47,
+      "id": 18
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA Report Confirms Japanese Monitoring Data of ALPS-Treated Water Prior to Discharge under Additional Measures",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/pressreleases/iaea-report-confirms-japanese-monitoring-data-of-alps-treated-water-prior-to-discharge-under-additional-measures",
+          "published": "2026-11-04T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        }
+      ],
+      "score": 2.086,
+      "id": 19
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "The Lise Meitner Programme Explores the Nuclear Fuel Cycle in France and IAEA HQ",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/news/the-lise-meitner-programme-explores-the-nuclear-fuel-cycle-in-france-and-iaea-hq",
+          "published": "2026-11-04T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        }
+      ],
+      "score": 2.086,
+      "id": 20
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "DOE selects 28 projects for INFUSE awards",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-03/article-8553/doe-selects-28-projects-for-infuse-awards/",
+          "published": "2026-11-03T22:13:57+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.012,
+      "id": 21
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Environmental Coalition Pushes for Nuclear-Free Zone in Pangasinan to Block Proposed Power Plant",
+          "publisher": "Daily Tribune",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNekZ4NjR4M0Q0N25sV0pfXzRKX2c4XzJNLVZ2VXVlazZSZmRDaHIxamp1V1JrQTh3dHNvTF9oUDhfWlpfRDNQY1g4eEZGVEdQWXJIY3Q3bHh2RUQ0aVNZQzJmWjZadTNSN0liNnFNc0VHbzMzR0o3blF4My04dlByVDM5UV93YkU4amFyazI3T3JuVERsaTVJSFh3WnNlQQ?oc=5",
+          "published": "2026-11-04T05:28:14+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Environmental group opposes proposed Pangasinan nuclear plant",
+          "publisher": "Daily Tribune",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2p3Z3FBZnJVTVpTS0pmS0QwZ09LY0hHWWdGUGkzZ3J6VENCMk9JMWRLbkJEZmVXN0FKbDhpcWZZT09KT0RvUXdjTTBHTGcteXh4dFgyZFhjenN2dXI1YUY5d0hYUS1pQWlUa0JOQ01HZ2ZQYmFEWWduZVdtY2J6cEJVUXBPUTc3Mi1SOTRLOU1EcGt5TVdNd2R0aw?oc=5",
+          "published": "2026-11-04T18:16:48+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.847,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "HVDC·AI 전력망·SMR 첨단 기술력 뽐냈다",
+          "publisher": "서울신문",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVN0hieC1vSWQ1ckxxY2wyRndkRjVGR2p5ZkIzWVFZNlNrUFdUVFdXM085c241c29HXzBrNUdOalRWMGZaOTlOQlVpWHMwT1pNOVRqaEtBa0tzTk9FNWRuOWlLSTJCNzJwdllleHIyX2ZtS3U0c1Z5eU1hbw?oc=5",
+          "published": "2026-11-04T14:20:22+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "HVDC·AI 전력망·SMR 첨단 기술력 뽐냈다",
+          "publisher": "서울신문",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxM3ZIdzhVQ3pPT2t0OHl2dWtRMU5QaGZ0Nldjclc0YU1HQnhSOUJPLW90NnNUNGdUYUdYU0VFMmoxbnlneG9EOVlzNWNNR3VrSkJyZDV6RWZJNFk4bUtRVFdEZFdIZTVLeUdSQ2pZaUV2RGd6QVdNWA?oc=5",
+          "published": "2026-11-04T14:20:22+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.683,
+      "id": 23
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Sabah should host Malaysia’s first nuclear power plant, says backbenchers chief",
+          "publisher": "The Star",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNGhCNVFpZmxnNUR3OFpMUzBQbFRqdUo4ZzdFbnhqSWNyRFlDMU5QUTdzdmFpNHpkVFI3cUxpemQ0dWtLRjhiU1N1SWwxUzk1Q1gxeEw1Mi14TDlQb3ZrMXB0U1VGWDN0TjljSDd4Tk9xa0pqWjZKSXNBY2MtU1o3MnBuR0pOTC0xT0tXYVdCVGUzV21rZnFZYWRGcC16YU1va2N1ZWJNRXB3dGFKWHZJS1dvWVBTTXFacWMxX21PZDhFWnJkSVE?oc=5",
+          "published": "2026-11-04T03:27:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Sabah can become Malaysia’s first floating nuclear power hub, says backbenchers club chief",
+          "publisher": "Borneo Post",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU29sUGNTM2owN25uZm9iX0R1MkN2Q19ucUdCWUtVQmpvdzRXS2dzMU1hdkg0NHpuQ2thSno0M0NZNHhibzNIYmVGZXNaMjZfR0x5bXdfVjNBSUxuSTRuQ0pvRHBNY1JaWmFqQWgtRFQ4UGx1dWhzRXlpRENZZkxJUG9SU3V1RWFWZURCUWRHcmVWRm5VOFJRMlBJV3g0VFJXMVFuT3A5MWRlejdkYnZ2Rm0tMUQyVHdEVEFWN1YyTGhkakNnOFZZTWtn?oc=5",
+          "published": "2026-11-04T13:49:21+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.661,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한빛 원전 현장 안전점검 - 사진 | 멀티미디어",
+          "publisher": "대한민국 정책브리핑",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKVExBLVU1UHFZRkFzSkpmcFR1WVdpaF9za1VScE5saWlhWjNTNzFOLWp4TjEtdS1WOVBJbmNwZWRIUklfSDFoSzh6OEdpdm96OTNtUUxjdlZvM0FhYkUtRnI0S2czM1RjQWdXdG95U1p3akRJSnU1NF9B?oc=5",
+          "published": "2026-11-04T07:13:35+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한빛 원전 현장 안전점검 - 사진 | 멀티미디어",
+          "publisher": "대한민국 정책브리핑",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtdlR6Zlo2b2FlaGpHVU1oV1dJNEswQ0tybnJCYk5OQy1BR0k4Z1JzaUJXVTJpMlBLeWdVWEJGOHo3bXdHZzl2V2gxb3ladWxPeDMwdUhYX21YTkIxeE9jMnMxOEllUnNU?oc=5",
+          "published": "2026-11-04T09:22:30+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.476,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 美 EPRI와 청정수소 및 저탄소 에너지 협력 확대한다",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RUnlWRjMyLVIyUUsyNExNQWVfMUdfSXBHSUNpOE50N3N0QlBBeXh6WTlscnhnM2VmV004TnVvVnpUMFFGSlNYUUF3WlhHLVFuNGtDUnM1cVRONlpILW1XZWFVNkNqb2hoUkxLOURPaEt3Zw?oc=5",
+          "published": "2026-11-04T02:58:12+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 美 EPRI와 저탄소 에너지 협력 확대",
+          "publisher": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YcFRGMlY0SVdjVkRNOXlKTmdTMkhVRzRRNUVCX2M0cGpUMVlPSmtKX2xQRFBJUVRkaTFNeGZhNDJPRmNzV1ZiQ0luOXVzUHdHN1lkV2I0VVQxZVJjcVdOdVhSLWlwZm1PQlYzU0hnSnRrUDDSAXdBVV95cUxNanNncGpJNEt6QjUzaFRuYmkycG8wM0Z2Q2F4SWZpWm1nUzItQS0wTWFwcTlIcDNaYUpkXzE0dm11Nm01aV8wdE9EN0hyMTQzQ0pZVVctNTNleUJ4YUR2SUJsWGJ6aUhQZEotNVJJanZ1T3RkdEZqRQ?oc=5",
+          "published": "2026-11-04T06:46:55+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.368,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "수출입은행, 튀르키예 원자력공사와 원전 금융협력 MOU",
+          "publisher": "파이낸셜신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKMk0zT2stRXBTdXp3eURYNFB3YjZKVm05LTNrMkZJWWRha1NtT2FLa3V2ODBXMG01aXA5WmZwNjFINFlYZlBHcFNXeXpBTTZWdmtoNXpZSGFzN0FzNTRRR0NrQV9XV0FILUdF?oc=5",
+          "published": "2026-11-04T01:57:45+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한국수출입은행, 튀르키예 원자력공사와 MOU…시놉 원전 금융 지원 '팀코리아' 가세",
+          "publisher": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OUWpPOFQxQU8zQVpucEk1NTNjWmdMcXdMd2Z4ZURkOUZJWXRMU3JaNTdaZ1Q0WGpHYnNWVFZkQzU1aDJBdkR1OE55QURUUQ?oc=5",
+          "published": "2026-11-04T06:00:10+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.336,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "청정수소·에너지저장 기술…한수원, 美 전력연구원과 공동연구 추진",
+          "publisher": "에너지타임즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ua3JOWUlld1MyQzZHRzJkN3pkbkphRDZrTkRnTEoxYU1DSFhGTFhNVm55RTd1SUVISnpkVFgzYW1MRl81ZmlpQ3VmdVpIN2JEbkRDaXRtT0ZIeExVV2JWZ0JCQjBCT3pkZ0ozTA?oc=5",
+          "published": "2026-11-04T03:39:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원·미 전력연구원, 청정수소·에너지 저장 기술협력",
+          "publisher": "아시아투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBraW1ocXJJZEdRX2lzYjRsUGRKOGt6NE5sbGZqeXlLSjBiY1AtMnlxU2NIc0Q0QXlLSnZwRmZzZVZaV1J1UmZmVG0xRTFpc0phTnZtLW5iVGZubklqTi1XU1hxM2lzZWtwdml4X2Vn?oc=5",
+          "published": "2026-11-04T05:15:32+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.305,
+      "id": 28
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "수은, 튀르키예 시놉 원전 수주 지원…자금조달 방안 검토",
+          "publisher": "이투데이",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BOWthVVZkdWdlUUxrVHdKYkRXcWhTYWFocGNFYWMyQjk2cVhKVFhQaEhaTmtPZ0V5ODM3c2pXWC1nNGZwUlhlOGdka3dfX2ZzNW5CVQ?oc=5",
+          "published": "2026-11-04T03:09:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "수은, 튀르키예 시놉 원전 수주 지원…현지 원자력공사와 금융협력",
+          "publisher": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UX01DTlRrOHl2SzN4MEFJQWRaNkdsQlV0dFY3UGhwNEhWY0tLU0psTkhZa3YtMGxpSUxJQjdPR3V2OThUcUNYVEJHd0tPWFo0OXNETEdvSTBSblJqYkZXbA?oc=5",
+          "published": "2026-11-04T04:48:16+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.286,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 94
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 73,
+      "kept": 48
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 75,
+      "kept": 68
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 50,
+      "kept": 5
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 2
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 5
+    }
+  }
+}
