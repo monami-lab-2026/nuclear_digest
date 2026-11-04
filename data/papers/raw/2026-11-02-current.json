@@ -20,11 +20,14 @@
     "publisher_url": "https://doi.org/10.1016/j.pnucene.2026.106578",
     "pii": "",
     "cover_date": "",
-    "countries": [],
-    "primary_country": "",
-    "country_source": "OpenAlex: country unavailable",
-    "open_access": false,
-    "title_ko": "Rascal ATDM을 사용하여 주요 AP1000 격리 릴리스에 대한 오프사이트 방사선 선량 및 EPZ 크기 추정"
+    "countries": [
+      "CN",
+      "NG"
+    ],
+    "primary_country": "CN",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": true,
+    "title_ko": "RASCAL ATDM을 이용한 AP1000 격납건물 주요 방출에 대한 소외 방사선량 및 EPZ 크기 추정"
   },
   {
     "journal": "Progress in Nuclear Energy",
@@ -49,11 +52,14 @@
     "publisher_url": "https://doi.org/10.1016/j.pnucene.2026.106670",
     "pii": "",
     "cover_date": "",
-    "countries": [],
-    "primary_country": "",
-    "country_source": "OpenAlex: country unavailable",
+    "countries": [
+      "GB",
+      "CA"
+    ],
+    "primary_country": "GB",
+    "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "부식된 마그녹스 슬러지에 존재하는 브루사이트의 탄산: 셀라필드 부지에서의 중간 보관 및 위험 감소에 대한 시사점"
+    "title_ko": "부식된 Magnox 슬러지 내 브루사이트의 탄산화: Sellafield 부지의 중간저장 및 위험 저감에 대한 시사점"
   },
   {
     "journal": "Annals of Nuclear Energy",
@@ -79,11 +85,14 @@
     "publisher_url": "https://doi.org/10.1016/j.anucene.2026.112962",
     "pii": "",
     "cover_date": "",
-    "countries": [],
-    "primary_country": "",
-    "country_source": "OpenAlex: country unavailable",
+    "countries": [
+      "FR",
+      "US"
+    ],
+    "primary_country": "FR",
+    "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "6 × 6 핵연료봉 번들에서의 3차원 유량 측정"
+    "title_ko": "6×6 핵연료봉 다발 내 3차원 유동 측정"
   },
   {
     "journal": "Progress in Nuclear Energy",
@@ -109,11 +118,13 @@
     "publisher_url": "https://doi.org/10.1016/j.pnucene.2026.106661",
     "pii": "",
     "cover_date": "",
-    "countries": [],
-    "primary_country": "",
-    "country_source": "OpenAlex: country unavailable",
-    "open_access": false,
-    "title_ko": "수동 냉각을 위한 천공 원형 지느러미 튜브의 열전달 향상에 대한 수치 조사"
+    "countries": [
+      "CN"
+    ],
+    "primary_country": "CN",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": true,
+    "title_ko": "피동 냉각용 천공 원형 핀 튜브의 열전달 향상에 관한 수치적 연구"
   },
   {
     "journal": "Nuclear Science and Techniques",
@@ -148,7 +159,157 @@
     "primary_country": "CN",
     "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "1.3GHz 3셀 초전도 캐비티의 디튜닝 분석 및 설계 최적화"
+    "title_ko": "1.3 GHz 3셀 초전도 공동의 디튜닝 해석 및 설계 최적화"
+  },
+  {
+    "journal": "Nuclear Materials and Energy",
+    "issn": "2352-1791",
+    "title": "Erosion and screening of tungsten in the JET divertor during inter/intra-ELM periods in D-T Ne-seeded plasma",
+    "authors": [
+      "A. Huber",
+      "G. Sergienko",
+      "C. Giroud",
+      "S. Brezinsek",
+      "A. Chankin",
+      "D. Tskhakaya",
+      "J. Romazanov",
+      "A. Meigs",
+      "I. Borodkina",
+      "I.S. Carvalho",
+      "P. Carvalho",
+      "D. Douai",
+      "V. Huber",
+      "I. Ivanova-Stanik",
+      "V. Kachkanov",
+      "D. Keeling",
+      "D.B. King",
+      "A. Kirschner",
+      "H. Kumpulainen",
+      "K. Lawson",
+      "E. Lerche",
+      "Ch. Linsmeier",
+      "E. Litherland-Smith",
+      "C.F. Maggi",
+      "J. Mailloux",
+      "S. Menmuir",
+      "Ph. Mertens",
+      "E. Pawelec",
+      "S. Silburn",
+      "G. Telesca",
+      "N. Vianello",
+      "B. Labit",
+      "K.D. Zastrow"
+    ],
+    "doi": "10.1016/j.nme.2026.102247",
+    "doi_url": "https://doi.org/10.1016/j.nme.2026.102247",
+    "registered_date": "2026-10-31",
+    "published_online": "",
+    "published_print": "2026-10",
+    "issued": "2026-10",
+    "abstract": "Tungsten ( W ), selected as the plasma-facing material for ITER, offers high thermal robustness and low tritium retention but its erosion and penetration into the plasma core can degrade the confinement through dilution and radiation. The net W content depends on the balance between erosion, divertor screening and core transport, all of which vary with plasma species and impurity composition. To elucidate these dependencies, we investigate tungsten sources in deuterium tritium ( D-T ) plasmas at JET-ILW using optical emission spectroscopy, with particular focus on intra ELM erosion and the impact of impurity seeding. The identification of W atomic sources in D-T plasmas has been significantly improved by high resolution optical diagnostics. Intra ELM tungsten erosion is found to dominate the total W gross source in D-T H-mode plasmas. The sputtering yield (Y w ) is approximately twice as large in neon seeded pulses as in unseeded plasmas, due to the combined effects of additional sputtering from Ne ions and higher pedestal temperatures that increase the ion impact energy. Although the sputtering yield is lower at the inner divertor compared with the outer divertor, the total W erosion source remains dominated by the inner target. The reduced inner target Y w during ELMs is consistent with free streaming model (Moulton et al., 2013) predictions. In unseeded plasmas, tritium ions are primarily responsible for W sputtering during ELMs, whereas in Ne -seeded plasmas deuterium, tritium, and neon ions all contribute significantly to intra-ELM erosion. Tungsten self-sputtering remains a minor contribution to overall W erosion, accounting for approximately 8–9 %, based on a simple estimation using the fraction of promptly redeposited W ions returning in the same charge state from the Particle-In-Cell Monte-Carlo (PIC MC) code BIT1 and Monte Carlo simulations accounting for multiple ionization processes and electric fields in the magnetic pre-sheath (MPS). Ne -seeded plasmas exhibit a larger overall W gross erosion source compared with unseeded D-T reference plasmas. However, they simultaneously show a lower W density in the confined region at the pedestal, indicating substantially improved divertor screening. Neoclassical (NEO) simulations confirm that pedestal neoclassical drifts do not reverse in Ne -seeded plasmas and tungsten convection in the pedestal remains inward. The enhanced screening instead arises mainly from SOL and divertor physics, specifically the cold, dense divertor plasma and strong main ion parallel flows, where collisional drag enhances momentum transfer and efficiently returns sputtered W to the divertor targets. These results strengthen the basis for predicting tungsten behaviour in ITER, showing that self sputtering avalanches can be excluded as a significant risk and that impurity seeding plays a central role in controlling tungsten sources and maintaining low core W levels in D-T operation. PACS: 52.70.Kz, 52.25.Vy, 52.40.Hf, 52.55.Fa, 52.25.Fi",
+    "abstract_source": "OpenAlex",
+    "publisher_url": "https://doi.org/10.1016/j.nme.2026.102247",
+    "pii": "",
+    "cover_date": "",
+    "countries": [],
+    "primary_country": "",
+    "country_source": "OpenAlex: country unavailable",
+    "open_access": true,
+    "title_ko": "DT 네온 시드 플라즈마에서 ELM 발생 사이/발생 중 JET 다이버터의 텅스텐 침식 및 차폐 현상"
+  },
+  {
+    "journal": "Journal of Fusion Energy",
+    "issn": "0164-0313",
+    "title": "Effects of Radial Electric Fields on Alpha Particle Confinement in the CAT-1 Levitated Dipole Device",
+    "authors": [
+      "Yunhui Liu",
+      "Zhao Wang",
+      "Teng Liu",
+      "Guoshu Zhang"
+    ],
+    "doi": "10.1007/s10894-026-00608-5",
+    "doi_url": "https://doi.org/10.1007/s10894-026-00608-5",
+    "registered_date": "2026-10-31",
+    "published_online": "2026-10-31",
+    "published_print": "",
+    "issued": "2026-10-31",
+    "abstract": "Abstract Radial electric fields are known to arise from non-ambipolar transport in dipole-confined plasmas, yet their effects on high-energy alpha particle confinement remain systematically unexplored for compact levitated devices. This study employs test-particle simulations based on the parameters of the China Astro-Torus 1 (CAT-1) levitated dipole experiment to investigate how such fields influence alpha particle trajectories, losses, and slowing-down confinement. The key result is that a moderate radial electric field can increase the confined fraction of alphas by up to 40% within the ion slowing-down time, a substantial improvement for heating the background plasma. Furthermore, the confinement fraction varies systematically with the strength of the inner field ( E in ) and the ratio of outer-to-inner field ( κ), with high E in and κ > 1 yielding optimal results. These findings suggest that tailoring the radial electric field profile offers a novel, knob-like handle for controlling alpha particle heating in dipole fusion concepts.",
+    "abstract_source": "OpenAlex",
+    "publisher_url": "https://doi.org/10.1007/s10894-026-00608-5",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "CN"
+    ],
+    "primary_country": "CN",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": true,
+    "title_ko": "CAT-1 부유 쌍극자 장치에서 방사형 전기장이 알파 입자 가둠에 미치는 영향"
+  },
+  {
+    "journal": "Fusion Engineering and Design",
+    "issn": "0920-3796",
+    "title": "Design and development of the image rejection filter for fusion millimeter-wave diagnostics",
+    "authors": [
+      "Khadija Rahman",
+      "Xiaoliang Li",
+      "Pengjun Sun",
+      "Logan Himes",
+      "Calvin Domier",
+      "Hsiangying Lai",
+      "Xinhang Xu",
+      "Baron Li",
+      "Yilun Zhu"
+    ],
+    "doi": "10.1016/j.fusengdes.2026.116132",
+    "doi_url": "https://doi.org/10.1016/j.fusengdes.2026.116132",
+    "registered_date": "2026-10-31",
+    "published_online": "",
+    "published_print": "2027-01",
+    "issued": "2027-01",
+    "abstract": "",
+    "abstract_source": "",
+    "publisher_url": "https://doi.org/10.1016/j.fusengdes.2026.116132",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "US",
+      "CN",
+      "TW"
+    ],
+    "primary_country": "US",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": false,
+    "title_ko": "융합 밀리미터파 진단을 위한 이미지 거부 필터 설계 및 개발"
+  },
+  {
+    "journal": "Fusion Engineering and Design",
+    "issn": "0920-3796",
+    "title": "Data analysis and processing framework for the CHD",
+    "authors": [
+      "Masahiko Emoto",
+      "Hideya Nakanishi",
+      "Kenichi Nagaoka",
+      "Ryuichi Sakamoto"
+    ],
+    "doi": "10.1016/j.fusengdes.2026.116128",
+    "doi_url": "https://doi.org/10.1016/j.fusengdes.2026.116128",
+    "registered_date": "2026-10-31",
+    "published_online": "",
+    "published_print": "2027-01",
+    "issued": "2027-01",
+    "abstract": "The Compact Helical Device (CHD) experiment is scheduled to begin early in 2027 as the successor to the Large Helical Device (LHD). To support efficient experimental operation, a robust and maintainable data analysis framework must be established before experimental operation begins. Based on operational experience gained from LHD, we analyzed the limitations of the existing LHD workflow and identified requirements for the next-generation analysis system. After evaluating several existing workflow management systems, we designed a lightweight event-driven framework centered on a custom job management system. The proposed framework integrates Python, a database, and Kubernetes to provide centralized workflow management, improved maintainability, and scalable execution. This paper describes the system requirements, design concept, and current implementation status.",
+    "abstract_source": "OpenAlex",
+    "publisher_url": "https://doi.org/10.1016/j.fusengdes.2026.116128",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "JP"
+    ],
+    "primary_country": "JP",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": true,
+    "title_ko": "CHD 데이터 분석 및 처리 프레임워크"
   },
   {
     "journal": "Annals of Nuclear Energy",
@@ -180,7 +341,7 @@
     "primary_country": "CN",
     "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "이동식 가스 냉각 초소형원자로 가스 터빈 시스템을 위한 과도 전력 조절 전략"
+    "title_ko": "이동형 가스냉각 초소형원자로 가스터빈 시스템의 과도 출력 제어 전략"
   },
   {
     "journal": "Annals of Nuclear Energy",
@@ -203,11 +364,13 @@
     "publisher_url": "https://doi.org/10.1016/j.anucene.2026.112979",
     "pii": "",
     "cover_date": "",
-    "countries": [],
-    "primary_country": "",
-    "country_source": "OpenAlex: country unavailable",
+    "countries": [
+      "CN"
+    ],
+    "primary_country": "CN",
+    "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "무작위로 포장된 구형 핵흑연의 산화 거동 시뮬레이션"
+    "title_ko": "무작위 충전된 구형 핵흑연의 산화 거동 모사"
   },
   {
     "journal": "Annals of Nuclear Energy",
@@ -230,11 +393,13 @@
     "publisher_url": "https://doi.org/10.1016/j.anucene.2026.112961",
     "pii": "",
     "cover_date": "",
-    "countries": [],
-    "primary_country": "",
-    "country_source": "OpenAlex: country unavailable",
+    "countries": [
+      "CN"
+    ],
+    "primary_country": "CN",
+    "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "납 냉각 고속 원자로용 와이어로 감싼 7-로드 번들에서의 열수력 특성에 대한 수치 조사"
+    "title_ko": "납냉각고속로용 와이어 감김 7봉 다발 내 열수력 특성에 관한 수치적 연구"
   },
   {
     "journal": "Annals of Nuclear Energy",
@@ -264,8 +429,8 @@
     ],
     "primary_country": "CN",
     "country_source": "OpenAlex authorship institutions",
-    "open_access": false,
-    "title_ko": "생물학적 차폐 콘크리트의 장기적인 기계적 특성 진화와 중수 연구용 원자로의 안전한 해체에 미치는 영향"
+    "open_access": true,
+    "title_ko": "생체차폐 콘크리트의 장기 기계적 특성 변화와 중수 연구로의 안전한 해체에 대한 시사점"
   },
   {
     "journal": "Annals of Nuclear Energy",
@@ -296,7 +461,7 @@
     "primary_country": "CN",
     "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "차액계약 (CFD) 및 대용 모델 기반의 원자력 발전소 내 이형 차단 밸브의 동적 특성 및 유동 필드 분석"
+    "title_ko": "CFD 및 대리모델 기반 원전 방출 격리밸브의 동적 특성 및 유동장 해석"
   },
   {
     "journal": "Progress in Nuclear Energy",
@@ -332,7 +497,7 @@
     "primary_country": "CN",
     "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "고성능 방사성 핵종 폐기를 향해: 흡착, 오염 제거 및 반응성 물질 검토"
+    "title_ko": "고성능 방사성핵종 처분을 향하여: 흡착, 제염 및 반응성 소재에 대한 리뷰"
   },
   {
     "journal": "Progress in Nuclear Energy",
@@ -360,7 +525,118 @@
     "primary_country": "ID",
     "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "사고 영역 전반에 걸친 PWR 재홍수 중 열화학 피드백 및 수소 발생: 메커니즘, 모델링 과제 및 연구 관점"
+    "title_ko": "사고 영역 전반에서 PWR 재관수 중 열화학적 되먹임과 수소 발생: 메커니즘, 모델링 과제 및 연구 전망"
+  },
+  {
+    "journal": "Plasma Physics and Controlled Fusion",
+    "issn": "0741-3335",
+    "title": "Modelling space weather plasma physics",
+    "authors": [
+      "Stefaan Poedts"
+    ],
+    "doi": "10.1088/1361-6587/aebbf2",
+    "doi_url": "https://doi.org/10.1088/1361-6587/aebbf2",
+    "registered_date": "2026-10-30",
+    "published_online": "2026-10-30",
+    "published_print": "",
+    "issued": "2026-10-30",
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We start with a brief introduction to the many faces of the Sun, the dynamic star that is the main source of space weather. We explain the need for spacecraft observations, the structure of the solar atmosphere, and the Sun's magnetic cycle. Next, we focus on the Sun's influence on Earth, define what 'space weather' means, and briefly discuss its effects on our technology and their related socio-economic impact. Then, we present data-driven, physics-based simulation models with predictive capabilities that enable forecasting and mitigation. We focus on the models developed by my team at KU Leuven and the results and predictions obtained with them: the heliospheric wind and CME evolution models EUHFORIA and ICARUS, the global solar corona model COCONUT, and the solar energetic particle acceleration and transport model PARADISE. We end with a few take-home messages.</jats:p>",
+    "abstract_source": "Crossref",
+    "publisher_url": "https://doi.org/10.1088/1361-6587/aebbf2",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "BE"
+    ],
+    "primary_country": "BE",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": true,
+    "title_ko": "우주 날씨 플라즈마 물리학 모델링"
+  },
+  {
+    "journal": "Nuclear Fusion",
+    "issn": "0029-5515",
+    "title": "Radial transport of electric current by electromagnetic microturbulence in tokamaks",
+    "authors": [
+      "Haomin Sun",
+      "Toby Adkins",
+      "Justin Ball",
+      "Yann Camenen"
+    ],
+    "doi": "10.1088/1741-4326/aebbd0",
+    "doi_url": "https://doi.org/10.1088/1741-4326/aebbd0",
+    "registered_date": "2026-10-30",
+    "published_online": "2026-10-30",
+    "published_print": "",
+    "issued": "2026-10-30",
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The turbulent transport of toroidal angular momentum helps determine the rotation profiles of tokamak plasmas, and thereby their confinement and stability. The electron contribution therein has an additional consequence: even a modest electron momentum flux can correspond to a substantial turbulent flux of toroidal current, whose divergence could in principle modify the safety-factor profile. Here, using nonlinear gyrokinetic simulations, we show that electromagnetic fluctuations qualitatively alter turbulent momentum transport. In microtearing-mode-driven turbulence, the total momentum transport is inefficient relative to that of heat, yet an electron contribution associated with the turbulent Maxwell stress dominates the momentum flux. We show that this contribution exceeds an estimated scale required for turbulent current redistribution to compete with the collisional processes maintaining the bootstrap current. In the case of kinetic-ballooning-mode-driven turbulence considered, the momentum transport is found to be stronger and remains dominated by the electrostatic ion contribution; nevertheless, retaining the Maxwell stress is essential for the electron momentum flux to exceed this bootstrap-based reference scale. To enable this study, we independently implemented complete electromagnetic momentum-flux diagnostics in the gyrokinetic codes GENE and CGYRO, and verified them through linear and nonlinear cross-code benchmarks. Taken together, these results suggest that electromagnetic momentum transport may potentially be important for the coupled evolution of the rotation, current, and safety-factor profiles in high-beta tokamak plasmas.</jats:p>",
+    "abstract_source": "Crossref",
+    "publisher_url": "https://doi.org/10.1088/1741-4326/aebbd0",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "CH",
+      "US",
+      "FR"
+    ],
+    "primary_country": "CH",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": true,
+    "title_ko": "토카막에서 전자기 미세난류에 의한 전류의 방사형 수송"
+  },
+  {
+    "journal": "Nuclear Fusion",
+    "issn": "0029-5515",
+    "title": "Pellet induced transition from low to high confinement in separatrix phase spaces of ASDEX Upgrade",
+    "authors": [
+      "Peter Manz",
+      "Thomas Eich"
+    ],
+    "doi": "10.1088/1741-4326/aebbcf",
+    "doi_url": "https://doi.org/10.1088/1741-4326/aebbcf",
+    "registered_date": "2026-10-30",
+    "published_online": "2026-10-30",
+    "published_print": "",
+    "issued": "2026-10-30",
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The Separatrix Operational Space (SepOS) concept [T. Eich and P. Manz Nucl. Fusion 61, 086017 (2021)] describes the operational space of tokamaks with respect to MHD, density limits and the L-H transition in terms of density and temperature at the separatrix. It has been inspired by the phase space developed by Rogers, Drake, and Zeiler [Phys. Rev. Lett. 81,  4396 (1998)] (RDZ). Their idea was contested by pellet-induced L-H transitions [P. Gohil et al. Phys. Rev. Lett. 86, 644 (2001)] evaluated inside the pedestal and subsequently this theory was widely dismissed. Whether the SepOS concept face similar challenges when applied to a pellet-induced L-H transition is studied. On the low-density branch of the L-H transition, the separatrix density is temporarily increased by pellet injection, thereby lowering the L-H power threshold in agreement with the SepOS model. The results will also be discussed in RDZ's phase space. We conclude that the basic idea of the plasma edge phase space proposed by RDZ, more precisely that an increase in plasma beta at low collisionalities has a beneficial effect on confinement and at high collisionalities has a detrimental effect on confinement, was discarded unjustly.</jats:p>",
+    "abstract_source": "Crossref",
+    "publisher_url": "https://doi.org/10.1088/1741-4326/aebbcf",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "DE",
+      "US"
+    ],
+    "primary_country": "DE",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": true,
+    "title_ko": "ASDEX 업그레이드의 분리 경계면 공간에서 펠릿에 의한 저밀도에서 고밀도 구속으로의 전이"
+  },
+  {
+    "journal": "Nuclear Fusion",
+    "issn": "0029-5515",
+    "title": "A simple model for evaporation-driven migration of liquid metal between plasma pulses in a fusion reactor with liquid metal plasma-facing components",
+    "authors": [
+      "Matthew S Parsons"
+    ],
+    "doi": "10.1088/1741-4326/aebbce",
+    "doi_url": "https://doi.org/10.1088/1741-4326/aebbce",
+    "registered_date": "2026-10-30",
+    "published_online": "2026-10-30",
+    "published_print": "",
+    "issued": "2026-10-30",
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Liquid metal plasma-facing components are being considered for a variety of fusion power plant designs, and careful control of the liquid metal inventory will be essential in these systems to mitigate challenges with liquid metal corrosion and hydrogen fuel retention. Since many power plant designs and existing test facilities rely on pulsed plasma sources, it is critical to understand how liquid metal evaporation leads to material migration within a reactor over the periods of time when no plasma is present. This work addresses this question by developing a simple particle balance model to efficiently calculate liquid metal vapor transport patterns over indefinitely long time periods, using a particle redistribution matrix to capture the vapor transport details. After developing the mathematical model, characteristics of a future Liquid Metal Core-Edge (LMCE) research facility with liquid lithium divertors are used as a reference to demonstrate how the particle balance model can be used. Examples of lithium migration during the cooldown period between plasma pulses show that the pattern of lithium deposition depends primarily on the system geometry. An important secondary effect in these scenarios is the relative cooldown rate of the lithium divertor with respect to other PFCs in the device. Examples are also provided to demonstrate how the particle balance model can be used to optimize the design of a cold finger to collect liquid metal condensation for extraction and reprocessing, with the results showing that a future LMCE facility may be capable of collecting all of the lithium evaporated between plasma pulses if the main chamber walls can be maintained above 350 C during operation.</jats:p>",
+    "abstract_source": "Crossref",
+    "publisher_url": "https://doi.org/10.1088/1741-4326/aebbce",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "US"
+    ],
+    "primary_country": "US",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": true,
+    "title_ko": "액체 금속 플라즈마 접촉 부품을 갖는 핵융합로에서 플라즈마 펄스 사이 액체 금속의 증발 구동 이동에 대한 간단한 모델"
   },
   {
     "journal": "Nuclear Engineering and Technology",
@@ -391,7 +667,7 @@
     "primary_country": "IN",
     "country_source": "OpenAlex authorship institutions",
     "open_access": true,
-    "title_ko": "빠른 원자로 연료 재처리에서 희박한 용매 정화 중에 생성된 방사성 탄산염 폐기물로부터 수산화소듐 매개 악티나이드 회수"
+    "title_ko": "고속로 핵연료 재처리 중 희박 용매 정제에서 발생한 방사성 탄산염 폐기물로부터 수산화나트륨을 이용한 악티늄족 회수"
   },
   {
     "journal": "Nuclear Engineering and Technology",
@@ -427,7 +703,7 @@
     "primary_country": "CN",
     "country_source": "OpenAlex authorship institutions",
     "open_access": true,
-    "title_ko": "트랜지션 엣지 센서의 마이크로파 멀티플렉싱 판독을 위한 실내 온도 판독 시스템 프로토타입"
+    "title_ko": "전이단 센서의 마이크로파 다중화 판독을 위한 상온 판독 시스템 시제품"
   },
   {
     "journal": "Nuclear Engineering and Technology",
@@ -461,7 +737,7 @@
     "primary_country": "CN",
     "country_source": "OpenAlex authorship institutions",
     "open_access": true,
-    "title_ko": "중국의 잠재적 석탄-원자력 전환을 위한 다기준 부지 선정 프레임워크"
+    "title_ko": "중국의 석탄발전 원자력 전환 후보를 위한 다기준 부지선정 프레임워크"
   },
   {
     "journal": "Nuclear Engineering and Technology",
@@ -495,7 +771,7 @@
     "primary_country": "IT",
     "country_source": "OpenAlex authorship institutions",
     "open_access": true,
-    "title_ko": "소비된 이온 교환 수지의 폐기 전 관리를 위한 iRE-SOLVE 공정의 수명 주기 평가"
+    "title_ko": "폐이온교환수지의 처분 전 관리를 위한 iRE-SOLVE 공정의 전과정평가"
   },
   {
     "journal": "Nuclear Engineering and Technology",
@@ -527,7 +803,7 @@
     "primary_country": "MY",
     "country_source": "OpenAlex authorship institutions",
     "open_access": true,
-    "title_ko": "말레이시아의 핵 법의학 능력 평가: 국가 성숙도 기반 평가 및 개발 우선 순위"
+    "title_ko": "말레이시아의 핵감식 역량 평가: 국가 성숙도 기반 평가 및 개발 우선순위"
   },
   {
     "journal": "Nuclear Engineering and Design",
@@ -555,7 +831,7 @@
     "primary_country": "FI",
     "country_source": "OpenAlex authorship institutions",
     "open_access": true,
-    "title_ko": "안전하고 신뢰할 수 있는 운영을 위한 선도적인 원자력 시운전: Olkiluoto 3에서 배운 조직적 교훈"
+    "title_ko": "안전하고 신뢰성 있는 운전을 위한 원전 시운전 주도: Olkiluoto 3에서 얻은 조직적 교훈"
   },
   {
     "journal": "Nuclear Engineering and Design",
@@ -588,7 +864,7 @@
     "primary_country": "VN",
     "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "몬테카를로법을 이용한 DNRR 연구용 원자로에 대한 운동 파라미터 평가 및 βeff의 핵 데이터 유발 불확실성 분석"
+    "title_ko": "몬테카를로 방법을 이용한 DNRR 연구로의 동특성 인자 평가 및 βeff의 핵데이터 기인 불확도 분석"
   },
   {
     "journal": "Nuclear Engineering and Design",
@@ -615,8 +891,8 @@
     ],
     "primary_country": "CN",
     "country_source": "OpenAlex authorship institutions",
-    "open_access": false,
-    "title_ko": "원자력 구성 관리를 위한 디지털 변환 전략 및 아키텍처"
+    "open_access": true,
+    "title_ko": "원전 형상관리를 위한 디지털 전환 전략 및 아키텍처"
   },
   {
     "journal": "Nuclear Engineering and Design",
@@ -648,7 +924,39 @@
     "primary_country": "MX",
     "country_source": "OpenAlex authorship institutions",
     "open_access": true,
-    "title_ko": "Corrigendum to “자연 순환 SMR 분석을 위한 외부 중성자-열수력 커플링 프레임워크의 개발 및 구현” [Nucl. Eng. Design. 453 (2026) 114916]"
+    "title_ko": "정정: 「자연순환 SMR 해석을 위한 외부 중성자 해석-열수력 연계 프레임워크의 개발 및 구현」 [Nucl. Eng. Design. 453 (2026) 114916]"
+  },
+  {
+    "journal": "Fusion Engineering and Design",
+    "issn": "0920-3796",
+    "title": "Real-time vertical instability growth rate formulation and proximity controller application in the TCV tokamak",
+    "authors": [
+      "Stefano Marchioni",
+      "Federico Felici",
+      "Olivier Sauter",
+      "Cristian Galperti",
+      "Antoine Merle",
+      "Alessandro Pau",
+      "Francesco Carpanese"
+    ],
+    "doi": "10.1016/j.fusengdes.2026.116119",
+    "doi_url": "https://doi.org/10.1016/j.fusengdes.2026.116119",
+    "registered_date": "2026-10-30",
+    "published_online": "",
+    "published_print": "2027-01",
+    "issued": "2027-01",
+    "abstract": "Vertical instability is a major cause of disruptions in elongated tokamak plasmas. To prevent Vertical Displacement Events (VDEs), advanced control strategies, such as proximity controllers, have been developed. These controllers help avoid regimes where traditional systems fail to maintain stability and have been tested in tokamaks such as DIII-D and EAST. Proximity control relies on real-time monitoring of vertical instability indicators, notably the growth rate. In this paper, a new real-time formula for the growth rate is derived. The proposed metric was implemented on the TCV tokamak and used to develop a proximity controller for vertical stability. The controller was tested on TCV discharges, and its performance, efficiency, and limitations are analyzed and discussed in detail.",
+    "abstract_source": "OpenAlex",
+    "publisher_url": "https://doi.org/10.1016/j.fusengdes.2026.116119",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "CH"
+    ],
+    "primary_country": "CH",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": true,
+    "title_ko": "TCV 토카막에서 실시간 수직 불안정성 성장 속도 배합 및 근접 제어기 적용"
   },
   {
     "journal": "Annals of Nuclear Energy",
@@ -676,7 +984,7 @@
     "primary_country": "IN",
     "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "정상 상태 흐름의 이론적 모델링 및 초임계 자연 순환 루프의 불안정성 분석"
+    "title_ko": "초임계 자연순환 루프의 정상상태 유동 이론 모델링 및 불안정성 해석"
   },
   {
     "journal": "Annals of Nuclear Energy",
@@ -704,7 +1012,7 @@
     "primary_country": "IT",
     "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "교차 흐름 열교환기의 열전달 및 압력 강하 상관 관계에 대한 수치 평가"
+    "title_ko": "직교류 열교환기의 열전달 및 압력강하 상관식에 대한 수치적 평가"
   },
   {
     "journal": "Annals of Nuclear Energy",
@@ -731,7 +1039,7 @@
     "primary_country": "IR",
     "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "유전자 발현 프로그래밍을 사용한 가스 원심 분리기 분리 성능에 대한 기계 학습 중심 상관 관계 모델"
+    "title_ko": "유전자 발현 프로그래밍을 이용한 기체 원심분리기 분리 성능의 머신러닝 기반 상관식"
   },
   {
     "journal": "Annals of Nuclear Energy",
@@ -763,8 +1071,8 @@
     ],
     "primary_country": "CN",
     "country_source": "OpenAlex authorship institutions",
-    "open_access": false,
-    "title_ko": "설명 가능한 적응형 물리학 - 핵 사고의 선원항 반전을 위한 정보에 입각한 신경망"
+    "open_access": true,
+    "title_ko": "원자력 사고 선원항 역추정을 위한 설명가능 적응형 물리정보신경망"
   },
   {
     "journal": "Annals of Nuclear Energy",
@@ -793,7 +1101,7 @@
     "primary_country": "CN",
     "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "운영 및 유지 보수 분석을 위한 자동 마르코프 상태 다이어그램 생성을 위한 프레임워크: 칭화 고유속 원자로에 적용"
+    "title_ko": "운전 및 정비 분석을 위한 마르코프 상태도 자동 생성 프레임워크: Tsinghua High Flux Reactor 적용"
   },
   {
     "journal": "Progress in Nuclear Energy",
@@ -820,7 +1128,103 @@
     "primary_country": "HK",
     "country_source": "OpenAlex authorship institutions",
     "open_access": true,
-    "title_ko": "Corrigendum to “Effect of channel geometry on the onset of significant void and void fraction profiles of vertical upward boiling flows” [Prog. Nucl. Energy 194 (2026), 106256]"
+    "title_ko": "정정: 「Effect of channel geometry on the onset of significant void and void fraction profiles of vertical upward boiling flows」 [Prog. Nucl. Energy 194 (2026), 106256]"
+  },
+  {
+    "journal": "Plasma Physics and Controlled Fusion",
+    "issn": "0741-3335",
+    "title": "The diocotron instability in the trapped electrons experiment T-REX and its relevance to electron clouds in gyrotron guns",
+    "authors": [
+      "Francesco Romano",
+      "Pierrick Giroud-Garampon",
+      "Joaquim Loizu",
+      "Giulia Scimone",
+      "Jean-Philippe Hogge"
+    ],
+    "doi": "10.1088/1361-6587/aebb61",
+    "doi_url": "https://doi.org/10.1088/1361-6587/aebb61",
+    "registered_date": "2026-10-29",
+    "published_online": "2026-10-29",
+    "published_print": "",
+    "issued": "2026-10-29",
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Efficient operation of gyrotrons is crucial for electron cyclotron resonance heating (ECRH) in fusion reactors. Electron clouds trapped within the magnetron injection gun (MIG) region of high-power gyrotrons can induce disruptive leakage currents that degrade operational stability. While previous investigations utilizing the TRapped Electrons eXperiment (T-REX) established the foundational mechanics of cloud formation in the $\\SI{}{\\kilo\\hertz}$ regime~\\cite{Romano2024}, the high-frequency non-linear dynamics governing cloud saturation and cross-field transport remain uncharacterized. This work focuses on characterizing the underlying diocotron instability responsible for this transport and the resulting bursty plasma behavior within a Penning-Malmberg-like configuration. To resolve the high-frequency evolution, we present time-resolved current measurements on key experimental components—specifically the outer electrode and the top flange—complemented by a newly developed fast current probe array installed at the top flange to capture multi-mode azimuthal structures. To address early discrepancies between experiments and low-frequency models, the Particle-in-Cell (PIC) code FENNECS was upgraded to 3D~\\cite{guilPoP,guilPoP2,guilth,FENNECS,Pierrick}, enabling the self-consistent simulation of the space-charge fields. The experimental measurements highlight rotating structures in the electron cloud and a periodic collapse and reformation driven by the instability. The 3D PIC simulations show remarkable agreement with these experimental findings, accurately reproducing the cloud build-up and collapse frequencies, as well as the rotation frequency and direction of the diocotron modes. These results significantly advance the understanding of non-neutral plasma dynamics in environments mimicking gyrotron MIGs, providing a predictive framework to mitigate parasitic currents and improve gyrotron reliability in fusion energy systems.</jats:p>",
+    "abstract_source": "Crossref",
+    "publisher_url": "https://doi.org/10.1088/1361-6587/aebb61",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "CH"
+    ],
+    "primary_country": "CH",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": true,
+    "title_ko": "T-REX 포획 전자 실험에서의 디오코트론 불안정성과 자이로트론 총의 전자 ​​구름과의 관련성"
+  },
+  {
+    "journal": "Plasma Physics and Controlled Fusion",
+    "issn": "0741-3335",
+    "title": "Strategic framework for the simulation of explosive graphite failure under runaway electron incidence",
+    "authors": [
+      "Antonios Kavroulakis",
+      "Tommaso Rizzi",
+      "Panagiotis Tolias",
+      "Svetlana Ratynskaia",
+      "Eric Matthias Hollmann",
+      "Michael Tatarakis",
+      "Evaggelos Kaselouris",
+      "Vasilis Menelaos Dimitriou"
+    ],
+    "doi": "10.1088/1361-6587/aebb62",
+    "doi_url": "https://doi.org/10.1088/1361-6587/aebb62",
+    "registered_date": "2026-10-29",
+    "published_online": "2026-10-29",
+    "published_print": "",
+    "issued": "2026-10-29",
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Runaway electron (RE) incidence poses a rather critical threat to the integrity of plasma facing components (PFCs) in tokamaks due to the volumetric nature of energy deposition at relativistic speeds, which leads to steep internal temperature gradients that trigger explosive material failure. A computational framework is presented for the modeling of RE-induced explosive damage in graphite PFCs, benchmarked against a controlled RE impact experiment performed at the DIII-D tokamak. Reconstructed volumetric energy deposition profiles are integrated with high-fidelity three-dimensional thermomechanical simulations based on the finite element method (FEM). It is demonstrated that RE-induced damage in graphite is governed by a degraded subsurface layer formed due to intense volumetric heating, which undermines the structural integrity of the surface and leads to inertial detachment. Continuum thermo-elastic FEM approaches reliably predict the total volume that is liable to detach during failure, while continuum damage-based FEM approaches capture the irreversible subsurface degradation. In contrast to element erosion FEM approaches, a hybrid FEM-to-smoothed-particle-hydrodynamics (SPH) framework provides physical fidelity, successfully reproducing the experimental blown-off volume and estimating debris kinematics.</jats:p>",
+    "abstract_source": "Crossref",
+    "publisher_url": "https://doi.org/10.1088/1361-6587/aebb62",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "GR",
+      "SE",
+      "US"
+    ],
+    "primary_country": "GR",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": true,
+    "title_ko": "폭주 전자 입사 조건에서 폭발성 흑연 파손 시뮬레이션을 위한 전략적 프레임워크"
+  },
+  {
+    "journal": "Plasma Physics and Controlled Fusion",
+    "issn": "0741-3335",
+    "title": "Scaling laws of laser ponderomotive electron acceleration for characterizing ultra-intense laser focal parameters",
+    "authors": [
+      "Zhimeng Zhang",
+      "Tian-Yue Li",
+      "Yu-Xiao He",
+      "Jia-Xing Wen",
+      "Yue Yang",
+      "W M Zhou"
+    ],
+    "doi": "10.1088/1361-6587/aebb60",
+    "doi_url": "https://doi.org/10.1088/1361-6587/aebb60",
+    "registered_date": "2026-10-29",
+    "published_online": "2026-10-29",
+    "published_print": "",
+    "issued": "2026-10-29",
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Electron scattering offers a promising approach for directly characterizing the focal parameters of ultrashort high-intensity laser pulses. Nevertheless, a robust quantitative correlation between the quality of the scattered electrons and the laser parameters has yet to be established. Here we study the scaling laws of electron scattering driven by a relativistic Gaussian laser both with ponderomotive theory and multiparametric test-particle simulations. It is shown that the electron exhibits three typical kinds of scattering trajectories under different ratios of cτ 0 /w 0 , each associated with a distinct scaling relation. The electron scattering angle θ c dependence on three laser parameters, i.e., peak amplitude a 0 , spot size w 0 , and pulse duration τ 0 , thus degenerates to a dependence on only two parameters, a 0 and cτ 0 /w 0 . These theoretic predictions are confirmed by the multiparametric test-particle simulations. Based on theoretically derived formulas combined with numerical fitting, a robust scaling relation of the electron scattering angle with respect to three critical laser focal parameters is obtained. This scaling relation is validated by comparing with previous experiment results and it is shown to be applicable over a wide range of laser parameters. This scaling relation can provide a sound theoretical basis for electron scattering to characterize laser focal parameters at full power.</jats:p>",
+    "abstract_source": "Crossref",
+    "publisher_url": "https://doi.org/10.1088/1361-6587/aebb60",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "CN"
+    ],
+    "primary_country": "CN",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": false,
+    "title_ko": "초고강도 레이저 초점 매개변수 특성화를 위한 레이저 폰더모티브 전자 가속의 스케일링 법칙"
   },
   {
     "journal": "Nuclear Technology",
@@ -851,7 +1255,7 @@
     "primary_country": "CN",
     "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "원자력 안전 수준 디지털 제어 장비의 지진 응답 특성에 대한 실험 및 수치 분석"
+    "title_ko": "원자력 안전등급 디지털 제어설비의 지진 응답 특성에 대한 실험 및 수치 해석"
   },
   {
     "journal": "Nuclear Technology",
@@ -878,7 +1282,7 @@
     "primary_country": "ID",
     "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "PHITS를 이용한 방사성 동위원소 생성 시뮬레이션의 개념적 통합 및 연구 동향: 체계적인 문헌 검토"
+    "title_ko": "PHITS를 이용한 방사성동위원소 생산 모사의 개념적 통합과 연구 동향: 체계적 문헌고찰"
   },
   {
     "journal": "Nuclear Technology",
@@ -889,7 +1293,7 @@
       "Md. Ashik Reza",
       "Mohammad Shafiqul Alam",
       "Mohammad Khan",
-      "Ashikur Rahman",
+      "Md. Ashikur Rahman",
       "M. A. Mottalib Sarkar",
       "Md. Bazlar Rashid",
       "Nazneen Sultana",
@@ -916,7 +1320,7 @@
     "primary_country": "BD",
     "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "방글라데시 루푸르 원자력 발전소 주변 파드마강 퇴적물의 기준 방사능 및 관련 건강 위험"
+    "title_ko": "방글라데시 Rooppur 원전 주변 Padma 강 퇴적물의 기저 방사능 및 관련 건강 위해도"
   },
   {
     "journal": "Nuclear Science and Techniques",
@@ -945,7 +1349,7 @@
     "primary_country": "CN",
     "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "신경망을 사용하여 핵 반경 및 $ $\\ alpha $ $ -붕괴 반감기를 예측하기 위한 다중 작업 학습"
+    "title_ko": "신경망을 이용한 원자핵 반경 및 α붕괴 반감기 예측을 위한 다중작업 학습"
   },
   {
     "journal": "Nuclear Science and Techniques",
@@ -975,7 +1379,175 @@
     "primary_country": "CN",
     "country_source": "OpenAlex authorship institutions",
     "open_access": true,
-    "title_ko": "확장된 양자 분자 역학 모델 내에서 기포 유사 핵에 대한 통일된 분류-정량화 프레임워크"
+    "title_ko": "확장 양자분자동역학 모델에서 기포형 원자핵의 통합 분류-정량화 프레임워크"
+  },
+  {
+    "journal": "Nuclear Materials and Energy",
+    "issn": "2352-1791",
+    "title": "Remote in-situ online LIBS diagnostic development for fuel retention monitoring on HL-3 tokamak first wall",
+    "authors": [
+      "Yaxiong He",
+      "Qifan Wen",
+      "Xingrui Huangfu",
+      "Jiwei Lai",
+      "Kunqi Liu",
+      "Zhonglin He",
+      "Liang Gao",
+      "Dongye Zhao",
+      "Laizhong Cai",
+      "Yong Zhao"
+    ],
+    "doi": "10.1016/j.nme.2026.102244",
+    "doi_url": "https://doi.org/10.1016/j.nme.2026.102244",
+    "registered_date": "2026-10-29",
+    "published_online": "",
+    "published_print": "2026-12",
+    "issued": "2026-12",
+    "abstract": "Fuel retention on the first wall of the tokamak vacuum chamber is a critical issue hindering the realization of fusion power generation in tokamaks, necessitating monitoring of fuel retention on the inner wall during tokamak operation. Due to its ability to analyze samples without any pretreatment, laser-induced breakdown spectroscopy (LIBS) is regarded by the International Thermonuclear Experimental Reactor (ITER) as the preferred diagnostic technique for the tokamak first wall. To address the demand for online diagnosis of first wall fuel retention in China’s HL-3 tokamak, this study designed a remote, in-situ, online LIBS diagnostic system (RIO-LIBS) capable of hydrogen isotope analysis. The RIO-LIBS system was optimized by simulating the operational conditions of HL-3. At a distance of approximately 3 m, through a 100 mm diagnostic window, the system enables mapping-LIBS analysis over an area of 200 × 200 mm. In May 2025, during the HL-3 operation cycle, the RIO-LIBS system was successfully deployed at the HL-3 tokamak site, enabling real-time remote, online, and non-contact diagnosis of first wall fuel retention during HL-3 operation. The RSD values of the characteristic spectral lines of carbon from the first wall substrate measured by the RIO-LIBS system remain at a low level (<4%), demonstrating favorable long-term stability of the system. For the first time, in-situ and online LIBS diagnostic results of fuel retention on the HL-3 first wall were obtained. This research provides essential engineering and technical support for fuel retention diagnosis in the upcoming burning plasma experiments of the HL-3 tokamak",
+    "abstract_source": "OpenAlex",
+    "publisher_url": "https://doi.org/10.1016/j.nme.2026.102244",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "CN"
+    ],
+    "primary_country": "CN",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": true,
+    "title_ko": "HL-3 토카막 제1벽의 연료 잔류량 모니터링을 위한 원격 현장 온라인 LIBS 진단법 개발"
+  },
+  {
+    "journal": "Nuclear Fusion",
+    "issn": "0029-5515",
+    "title": "Tritium release and defect evolution in neutron-irradiated Li\n                    <sub>2</sub>\n                    Pb\n                    <sub>x</sub>\n                    Ti\n                    <sub>1-x</sub>\n                    O\n                    <sub>3</sub>\n                    ceramic pebbles",
+    "authors": [
+      "Xuelei Xie",
+      "Yiming Pu",
+      "Wei Zheng",
+      "Ziyi Zhang",
+      "Jing Wang",
+      "Yifan Zhang",
+      "Wei Lu",
+      "Chang Chen",
+      "Shouxi Gu",
+      "Qiang Qi",
+      "Qilai Zhou",
+      "Yasuhisa Oya"
+    ],
+    "doi": "10.1088/1741-4326/aebb48",
+    "doi_url": "https://doi.org/10.1088/1741-4326/aebb48",
+    "registered_date": "2026-10-29",
+    "published_online": "2026-10-29",
+    "published_print": "",
+    "issued": "2026-10-29",
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Achieving tritium self-sufficiency remains a key challenge for future fusion reactors, creating a strong need for breeder materials with efficient tritium release. In this study, neutron-irradiated Li2PbxTi1-xO3 (x=0, 0.05, and 0.1) ceramic pebbles were investigated by tritium thermal desorption spectroscopy (T-TDS) and electron spin resonance (ESR). Tritium release was examined at different heating rates and under isothermal conditions, and the corresponding kinetic parameters were determined. All samples exhibited a single tritium desorption peak that shifted to higher temperatures with increasing heating rate, confirming a thermally activated release process. Pb introduction broadened the desorption peak and lowered the apparent activation energy for tritium release. Under isothermal heating, the tritium diffusion activation energy (Ed) and pre-exponential factor (D0) increased simultaneously, following the compensation effect and suggesting multiple migration pathways. ESR isochronal and isothermal annealing showed that irradiation-defect annihilation occurs in two stages: a fast stage associated with electron migration and a slower stage governed by oxygen diffusion. The defect-annihilation range overlaps strongly with the main tritium-release range, indicating that tritium release is jointly controlled by diffusion and defect evolution. Pb addition accelerates defect annihilation and broadens the defect-recovery temperature range, thereby regulating tritium migration and release through changes in defect stability.</jats:p>",
+    "abstract_source": "Crossref",
+    "publisher_url": "https://doi.org/10.1088/1741-4326/aebb48",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "CN",
+      "JP"
+    ],
+    "primary_country": "CN",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": true,
+    "title_ko": "중성자 조사된 리튬에서 삼중수소 방출 및 결함 진화&#10; <sub>2</sub>&#10; 납&#10; <sub>엑스</sub>&#10; 티&#10; <sub>1-x</sub>&#10; 영형&#10; <sub>3</sub>&#10; 세라믹 조약돌"
+  },
+  {
+    "journal": "Nuclear Fusion",
+    "issn": "0029-5515",
+    "title": "Investigation of the Inverse Plasma Sheath via BIT1 PIC modelling",
+    "authors": [
+      "Šimon Vrba",
+      "David Tskhakaya",
+      "Michael Komm"
+    ],
+    "doi": "10.1088/1741-4326/aebb4b",
+    "doi_url": "https://doi.org/10.1088/1741-4326/aebb4b",
+    "registered_date": "2026-10-29",
+    "published_online": "2026-10-29",
+    "published_print": "",
+    "issued": "2026-10-29",
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>In a classical plasma sheath, the potential decreases from the upstream towards the wall. The absolute value of the potential drop depends on a number of parameters, such as the electron temperature and the flux of electrons emitted from the surface. The question then is whether the wall potential can ever exceed the plasma potential -- whether there is a realistic access to the so-called inverse sheath in tokamaks. We start our investigation from the work of Campanell and Umansky, reproduce their regime, and determine whether it is applicable to fusion-relevant conditions. Afterwards, we explore the theoretical conditions for accessing the inverse sheath.</jats:p>",
+    "abstract_source": "Crossref",
+    "publisher_url": "https://doi.org/10.1088/1741-4326/aebb4b",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "CZ"
+    ],
+    "primary_country": "CZ",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": true,
+    "title_ko": "BIT1 PIC 모델링을 통한 역 플라즈마 쉬스 연구"
+  },
+  {
+    "journal": "Nuclear Fusion",
+    "issn": "0029-5515",
+    "title": "Cross-machine profile prediction and differentiable optimization by learning multi-tokamak databases",
+    "authors": [
+      "Jaemin Seo"
+    ],
+    "doi": "10.1088/1741-4326/aebb4a",
+    "doi_url": "https://doi.org/10.1088/1741-4326/aebb4a",
+    "registered_date": "2026-10-29",
+    "published_online": "2026-10-29",
+    "published_print": "",
+    "issued": "2026-10-29",
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The development of high-performance plasma regimes is becoming increasingly important for tokamak operation and scenario design. Conventional operation-space exploration relies on computationally expensive iterative simulations and experimental trial and error. Although machine-learning methods have recently been applied to this problem, many optimization approaches treat the predictive model as a black box. They can therefore require a large number of model evaluations and must be retrained when the objective or operational constraints change. In this work, we develop a neural-network surrogate for multi-tokamak profile prediction using public databases. Device-dependent dimensional input and output variables are transformed into appropriate normalized quantities. These normalizations of input and output variables enable the prediction model to be applied to new devices such as ITER. The surrogate forms a fully differentiable mapping from engineering parameters to plasma profiles and derived performance metrics. Automatic differentiation provides the exact Jacobian of this mapping and enables gradient-based optimization without treating the model as a black box. Under identical objectives and bounds, the proposed method requires substantially fewer model evaluations than other machine-learning approaches. The proposed framework offers an efficient route from multi-machine data to interpretable plasma optimization and reactor scenario design.</jats:p>",
+    "abstract_source": "Crossref",
+    "publisher_url": "https://doi.org/10.1088/1741-4326/aebb4a",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "KR"
+    ],
+    "primary_country": "KR",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": true,
+    "title_ko": "다중 토카막 데이터베이스 학습을 통한 기계 간 프로파일 예측 및 미분 가능한 최적화"
+  },
+  {
+    "journal": "Nuclear Fusion",
+    "issn": "0029-5515",
+    "title": "CarMa0NL modelling of COMPASS halo currents",
+    "authors": [
+      "Vadim Yanovskiy",
+      "Andrea Casolari",
+      "Josef Havlicek",
+      "Antonio Iaiunese",
+      "Nicola Isernia",
+      "Ekaterina Matveeva",
+      "Roberto Paccagnella",
+      "V D Pustovitov",
+      "Alberto Loarte",
+      "David Tskhakaya",
+      "Fabio Villone",
+      "Matteo Zuin"
+    ],
+    "doi": "10.1088/1741-4326/aebb49",
+    "doi_url": "https://doi.org/10.1088/1741-4326/aebb49",
+    "registered_date": "2026-10-29",
+    "published_online": "2026-10-29",
+    "published_print": "",
+    "issued": "2026-10-29",
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>A vertical displacement event in the COMPASS tokamak is modelled using the CarMa0NL code, with the halo-current width treated as a free parameter. The simulations that best reproduce the experimental evolution are those in which the resulting safety factor at the last closed flux surface remains above unity. This result is consistent with the possibility that the interaction of the \\(m/n=1/1\\) mode with higher harmonics, and the associated formation of a stochastic magnetic field-line structure, may contribute to setting the halo-current width. The potential relevance of this observation to scrape-off-layer widening and divertor heat-load mitigation during normal operation is discussed.</jats:p>",
+    "abstract_source": "Crossref",
+    "publisher_url": "https://doi.org/10.1088/1741-4326/aebb49",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "CZ",
+      "IT",
+      "RU",
+      "FR",
+      "AT"
+    ],
+    "primary_country": "CZ",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": true,
+    "title_ko": "COMPASS 헤일로 전류의 CarMa0NL 모델링"
   },
   {
     "journal": "Nuclear Engineering and Technology",
@@ -1011,7 +1583,7 @@
     "primary_country": "CN",
     "country_source": "OpenAlex authorship institutions",
     "open_access": true,
-    "title_ko": "Tikhonov 정규화된 DFT를 기반으로 최적화된 닫힌 궤도 피드백 알고리즘에 대한 시뮬레이션"
+    "title_ko": "Tikhonov 정규화 DFT 기반 최적화 폐궤도 되먹임 알고리즘 모사"
   },
   {
     "journal": "Nuclear Engineering and Technology",
@@ -1043,7 +1615,7 @@
     "primary_country": "IN",
     "country_source": "OpenAlex authorship institutions",
     "open_access": true,
-    "title_ko": "방사선 레이서를 이용한 산업용 태양광 유리 생산 장치의 유동 특성 분석 및 공정 개선을 위한 체류 시간 분포 연구"
+    "title_ko": "방사성추적자를 이용한 산업용 태양광 유리 생산설비의 유동 특성 파악 및 공정 개선을 위한 체류시간분포 연구"
   },
   {
     "journal": "Nuclear Engineering and Technology",
@@ -1071,7 +1643,7 @@
     "primary_country": "US",
     "country_source": "OpenAlex authorship institutions",
     "open_access": true,
-    "title_ko": "신선한 고분석 저농축 우라늄 첨단 원자로 연료의 측정을 보호하기 위한 중성자 일치 칼라의 성능 평가"
+    "title_ko": "고순도저농축우라늄(HALEU) 신형로 신연료의 안전조치 측정을 위한 중성자 동시계수 칼라 성능 평가"
   },
   {
     "journal": "Nuclear Engineering and Technology",
@@ -1102,7 +1674,7 @@
     "primary_country": "EG",
     "country_source": "OpenAlex authorship institutions",
     "open_access": true,
-    "title_ko": "침전법에 의해 제조된 나노-알루미나에 대한 99Mo 흡착의 운동학적 및 열역학적 매개변수"
+    "title_ko": "침전법으로 제조한 나노 알루미나에 대한 99Mo 흡착의 동역학 및 열역학 인자"
   },
   {
     "journal": "Nuclear Engineering and Design",
@@ -1132,7 +1704,35 @@
     "primary_country": "JP",
     "country_source": "OpenAlex authorship institutions",
     "open_access": true,
-    "title_ko": "비상 계획 구역 거리를 알리기 위한 선량-거리 곡선에 대한 일반화된 공식"
+    "title_ko": "비상계획구역 거리 설정을 위한 선량-거리 곡선의 일반화 공식"
+  },
+  {
+    "journal": "Fusion Engineering and Design",
+    "issn": "0920-3796",
+    "title": "Revisiting normalized fusion-gain metrics for evaluation of KSTAR operation scenarios",
+    "authors": [
+      "Donghyeon Yu",
+      "Sangjin Park",
+      "Yong-Su Na"
+    ],
+    "doi": "10.1016/j.fusengdes.2026.116120",
+    "doi_url": "https://doi.org/10.1016/j.fusengdes.2026.116120",
+    "registered_date": "2026-10-29",
+    "published_online": "",
+    "published_print": "2027-01",
+    "issued": "2027-01",
+    "abstract": "",
+    "abstract_source": "",
+    "publisher_url": "https://doi.org/10.1016/j.fusengdes.2026.116120",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "KR"
+    ],
+    "primary_country": "KR",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": true,
+    "title_ko": "KSTAR 운용 시나리오 평가를 위한 정규화된 핵융합 이득 지표 재검토"
   },
   {
     "journal": "Annals of Nuclear Energy",
@@ -1160,7 +1760,7 @@
     "primary_country": "FR",
     "country_source": "OpenAlex authorship institutions",
     "open_access": true,
-    "title_ko": "Pratic SMR 시작 코어 벤치마크의 SERPENT2 및 CMS5 연소 모델링"
+    "title_ko": "PRATIC SMR 초기노심 벤치마크의 SERPENT2 및 CMS5 연소 모델링"
   },
   {
     "journal": "Annals of Nuclear Energy",
@@ -1197,7 +1797,7 @@
     "primary_country": "CN",
     "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "230 MeV 전도 냉각 초전도 사이클로트론에서 열 안정성 최적화를 위한 완전 결합 빔 대 열 다중물리 프레임워크 개발"
+    "title_ko": "230 MeV 전도냉각 초전도 사이클로트론의 열안정성 최적화를 위한 빔-열 완전연계 다중물리 프레임워크 개발"
   },
   {
     "journal": "Progress in Nuclear Energy",
@@ -1227,8 +1827,76 @@
     ],
     "primary_country": "CN",
     "country_source": "OpenAlex authorship institutions",
-    "open_access": false,
-    "title_ko": "납-비스무트 냉각수에서 고체 산소 제어를 위한 납 산화물의 용해 모델 및 실험 검증"
+    "open_access": true,
+    "title_ko": "납-비스무트 냉각재의 고체 산소 제어를 위한 산화납 용해 모델 및 실험적 검증"
+  },
+  {
+    "journal": "Plasma Physics and Controlled Fusion",
+    "issn": "0741-3335",
+    "title": "Predictive full radius integrated modelling of plasma current impact on WEST L-mode confinement",
+    "authors": [
+      "Enzo Vergnaud",
+      "Clarisse Bourdelle",
+      "Yann Camenen",
+      "Theo Fonghetti",
+      "Pierre Manas",
+      "Jean-Francois Artaud",
+      "Francis J Casson",
+      "Nathan Cummings",
+      "Florian Koechl",
+      "Patrick Maget",
+      "Samuele Mazzi",
+      "J Morales"
+    ],
+    "doi": "10.1088/1361-6587/aebabc",
+    "doi_url": "https://doi.org/10.1088/1361-6587/aebabc",
+    "registered_date": "2026-10-28",
+    "published_online": "2026-10-28",
+    "published_print": "",
+    "issued": "2026-10-28",
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Integrated modelling simulations with the High Fidelity Pulse Simulator (HFPS) are carried out to address the strong correlation of the plasma current on the energy confinement time observed experimentally in tokamak plasmas and reported in scaling laws. The simulations are performed for eight WEST electron-heated L-mode plasmas, with Lower Hybrid current drive, covering a range of plasma current from 0.26 MA to 0.5 MA at comparable injected power and line-average density. The input parameters for the HFPS simulations are the engineering parameters, as for scaling laws, together with the separatrix quantities and the radiative fraction. The eight full-radius simulations performed with the physics based quasilinear code TGLFsat2 and including tungsten and nitrogen impurities reproduce the experimental energy content within 8%, better than the 24% obtained from the ITERL96 scaling law. The predicted profiles are compared to experimental measurements using synthetic diagnostics for ECE, interferometry, bolometry and the neutron rate. The agreement improves when heat and particle transport are predicted self-consistently, from 20-40% with heat flux prediction only down to 10-20% when particle transport prediction is included. TGLFsat2 is verified stand-alone against the higher fidelity gyrokinetic code GKW revealing a TEM dominated regime in the core and a transition towards resistive modes closer to the edge. Finally, a virtual IP scan applied to one pulse between 0.2 and 0.8 MA shows a dependence of the confinement time on plasma current with an exponent of 0.42, much weaker than the ITER-L96 one (αIP = 0.96). To go further, an HFPS-based scaling law is derived from a database of 25 simulations spanning the plasma current, the electron density and the power, yielding the same weak αIP. This exponent remains compatible with the experimental data, since constraining the experimental regression to this value increases the RMSE by only 3% (from 12% to 15%).&amp;#xD;</jats:p>",
+    "abstract_source": "Crossref",
+    "publisher_url": "https://doi.org/10.1088/1361-6587/aebabc",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "FR",
+      "GB"
+    ],
+    "primary_country": "FR",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": true,
+    "title_ko": "WEST L-모드 플라즈마 가둠에 대한 플라즈마 전류 영향의 예측적 전체 반경 통합 모델링"
+  },
+  {
+    "journal": "Plasma Physics and Controlled Fusion",
+    "issn": "0741-3335",
+    "title": "Numerical sensitivity analysis of facility effects on CO₂ Hall thruster performance",
+    "authors": [
+      "Haku Suzuki",
+      "Shinatora Cho",
+      "Hiroki Watanabe",
+      "Kiyoshi Kinefuchi",
+      "Makoto Matsui"
+    ],
+    "doi": "10.1088/1361-6587/aebabb",
+    "doi_url": "https://doi.org/10.1088/1361-6587/aebabb",
+    "registered_date": "2026-10-28",
+    "published_online": "2026-10-28",
+    "published_print": "",
+    "issued": "2026-10-28",
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>CO₂ is a promising propellant candidate for Hall thrusters due to its cost, storability, and potential for in-situ resource utilization (ISRU). In this study, fully kinetic particle-in-cell (Full-PIC) simulations were conducted to elucidate the influence of background pressure in ground test facilities, known as the facility effect, on the performance of a CO₂ Hall thruster. Comparing a no-backpressure condition with dynamic backflow conditions from the chamber demonstrated that utilizing a dynamic inflow model with velocities ranging from tens to hundreds of m/s reasonably reproduces the increasing trend of thrust performance observed in experiments. The resulting thrust increments significantly exceeded theoretical values on the assumption that the background gas acts merely as an additional propellant, suggesting that the ingested background gas chain-reactively promotes the ionization of the main propellant via dissociation and multi-step ionization processes. Furthermore, comparisons with simulations where an equivalent gas flow rate was added from upstream indicated that the disproportionate increase in wall ion flux relative to the thrust increment under high backpressure is not unique to downstream backflow. Conversely, structural changes unique to backpressure inflow were indicated. Specifically, the main ionization region is essentially fixed due to the competing ionization effects of the gas inside and outside the channel, and the high background gas density accumulating in the plume region enhances electron mobility from the channel exit to the cathode, relaxing the axial potential gradient. Although the inclusion of dissociation reactions successfully reproduced the decreasing trend in the CO₂⁺ fraction with increasing backpressure, the underestimation of certain ion beam currents suggests that further model refinement is required. In particular, incorporating charge-exchange (CEX) collisions and the backflow of dissociation products (CO and O), together with future experiments using varied probe installation distances to evaluate long-path collision effects, will be essential for improving predictive accuracy and validating the model.</jats:p>",
+    "abstract_source": "Crossref",
+    "publisher_url": "https://doi.org/10.1088/1361-6587/aebabb",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "JP"
+    ],
+    "primary_country": "JP",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": true,
+    "title_ko": "CO₂ 홀 스러스터 성능에 대한 설비 효과의 수치적 민감도 분석"
   },
   {
     "journal": "Nuclear Technology",
@@ -1254,7 +1922,7 @@
     "primary_country": "US",
     "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "SAS4A/SASSYS-1 코드를 사용한 NACIE 벤치마크 테스트 시뮬레이션"
+    "title_ko": "SAS4A/SASSYS-1 코드를 이용한 NACIE 벤치마크 실험 모사"
   },
   {
     "journal": "Nuclear Technology",
@@ -1287,7 +1955,7 @@
     "primary_country": "TR",
     "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "다양한 후처리 조건에서 L-PBF 18Ni-300 마징강의 미세구조적 특성, 경도, 마모 거동 및 방사선 차폐 특성"
+    "title_ko": "후처리 조건에 따른 L-PBF 18Ni-300 마레이징강의 미세조직, 경도, 마모 거동 및 방사선 차폐 특성"
   },
   {
     "journal": "Nuclear Technology",
@@ -1313,7 +1981,7 @@
     "primary_country": "NG",
     "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "부하 추종 작업에서 원자력 원자로 전력 레벨 제어를 위한 동적 표면 기반 교란 관찰자 제어 법칙 설계"
+    "title_ko": "부하추종운전 시 원자로 출력 제어를 위한 동적 표면 기반 외란관측기 제어법칙 설계"
   },
   {
     "journal": "Nuclear Technology",
@@ -1339,7 +2007,134 @@
     "primary_country": "HU",
     "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "소형 모듈러 원자로 배치의 경제적 평가를 위한 톱니 학습 곡선"
+    "title_ko": "소형모듈원자로(SMR) 보급의 경제성 평가를 위한 톱니형 학습곡선"
+  },
+  {
+    "journal": "Nuclear Fusion",
+    "issn": "0029-5515",
+    "title": "Numerical investigation of helium leakage and transport from in-vessel cooling-circuit in fusion reactor using DSMC method",
+    "authors": [
+      "Jinfeng Xiong",
+      "Zhaoxi Chen",
+      "Qingxi Yang",
+      "Chengxi Zhao",
+      "Changhao Wen",
+      "Chenxi Meng",
+      "Rui Hu"
+    ],
+    "doi": "10.1088/1741-4326/aeba9b",
+    "doi_url": "https://doi.org/10.1088/1741-4326/aeba9b",
+    "registered_date": "2026-10-28",
+    "published_online": "2026-10-28",
+    "published_print": "",
+    "issued": "2026-10-28",
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Early detection of micro-leaks is essential for fusion reactors because such leaks precede a large-break loss-of-coolant accident (LOCA), which can seriously threaten vacuum-vessel structural integrity and reactor safety. In high-vacuum vessels, micro-leak identification depends on the transport characteristics of the plume released from the leak, making plume simulation and feature analysis important for leak detection. However, micro-leak plumes evolve across transitional and free-molecular regimes, where conventional continuum methods become limited. The direct simulation Monte Carlo (DSMC) method provides a promising approach for resolving cross-regime rarefied plume transport. In this work, DSMC is used to investigate helium leak plumes in the CFEDR vacuum vessel. Representative leak locations at the inboard blanket, outboard blanket and lower divertor, together with different leak intensities, are analyzed in terms of plume morphology, pressure distribution, affected volume and probe response. The results show that the plume evolves within 1-100 ms from a directional jet into a vessel-scale diffusive field, while pressure decays by approximately two to three orders of magnitude across the chamber. The pressure responses differ among the three representative leak locations, indicating that poloidally distributed probes can provide location-dependent signal features for the future development of leak-localization methods. At a leak intensity of  5 × 10^(-5)  kg/s, representative window probes reach the 10^(-4)  Pa threshold within 4.35-8.50 ms, whereas lower-intensity leaks remain confined near the source and require more sensitive or cumulative detection. These findings provide preliminary guidance for multi-probe, multi-threshold monitoring strategies for early in-vessel LOCA warning in fusion reactors.</jats:p>",
+    "abstract_source": "Crossref",
+    "publisher_url": "https://doi.org/10.1088/1741-4326/aeba9b",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "CN"
+    ],
+    "primary_country": "CN",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": true,
+    "title_ko": "DSMC 방법을 이용한 핵융합로 내부 냉각 회로에서의 헬륨 누출 및 이동에 대한 수치적 연구"
+  },
+  {
+    "journal": "Nuclear Fusion",
+    "issn": "0029-5515",
+    "title": "Neutronics characterisation of the radiation environment for the qualification of magnetic sensors on DEMO",
+    "authors": [
+      "Raul Luís",
+      "Antonio Quercia"
+    ],
+    "doi": "10.1088/1741-4326/aeba9a",
+    "doi_url": "https://doi.org/10.1088/1741-4326/aeba9a",
+    "registered_date": "2026-10-28",
+    "published_online": "2026-10-28",
+    "published_print": "",
+    "issued": "2026-10-28",
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Magnetic sensors are a primary diagnostic tool for plasma control on DEMO, required to measure the local distribution of magnetic fields at multiple positions. As these sensors must be located between the Breeding Blanket (BB) and the Vacuum Vessel (VV), they will be exposed to a harsh radiation environment, with neutron fluences expected to exceed those of ITER by up to an order of magnitude. This paper presents a comprehensive assessment of the radiation environment at the expected locations of magnetic sensors in DEMO, for both the Helium-Cooled Pebble Bed (HCPB) and Water-Cooled Lithium Lead (WCLL) BB configurations. MCNP simulations were performed using heterogeneous reference models of both blankets. Neutron and gamma fluxes, nuclear heat loads, dose rates and displacements per atom were estimated at 60 in-vessel and 60 ex-vessel positions, distributed poloidally around the plasma. The HCPB configuration produces a maximum in-vessel neutron flux of 3.6×10\n                    <jats:sup>13</jats:sup>\n                    n cm\n                    <jats:sup>-2</jats:sup>\n                    s\n                    <jats:sup>-1</jats:sup>\n                    at the equatorial inboard positions, a factor 18 higher than the WCLL value at the same location. The WCLL maximum in-vessel neutron flux is 8.6×10\n                    <jats:sup>12</jats:sup>\n                    n cm\n                    <jats:sup>-2</jats:sup>\n                    s\n                    <jats:sup>-1</jats:sup>\n                    , found below the divertor, where the shielding is less effective. The impact of the Magnetic Strip (MS) – a modular structure proposed to integrate the sensors while ensuring compatibility with Remote Maintenance (RM) – was also assessed, through a parametric study in which the radial thickness of the MS envelope was varied between 5 and 11 cm. Overall, the results presented in this paper establish the boundaries of the radiation environment that must be sustained by the magnetic diagnostic front-end components over the plant lifetime, and provide the quantitative neutronics basis for the irradiation testing and qualification program required to advance the Technology Readiness Level (TRL) of the DEMO magnetic sensors from the proof-of-concept stage to full validation in a fusion-relevant environment.\n                  </jats:p>",
+    "abstract_source": "Crossref",
+    "publisher_url": "https://doi.org/10.1088/1741-4326/aeba9a",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "PT",
+      "IT"
+    ],
+    "primary_country": "PT",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": true,
+    "title_ko": "DEMO에서 자기 센서 검증을 위한 방사선 환경의 중성자 특성 분석"
+  },
+  {
+    "journal": "Nuclear Fusion",
+    "issn": "0029-5515",
+    "title": "Kinetic modifications to parallel transport in a low recycling scrape-off layer: A one dimensional gyrokinetic study",
+    "authors": [
+      "Anurag Maan",
+      "Elizabeth Perez",
+      "Manaure Francisquez",
+      "Mikhail Dorf",
+      "Dennis P Boyle",
+      "Richard P Majeski",
+      "Ammar Hakim",
+      "Gregory W Hammett"
+    ],
+    "doi": "10.1088/1741-4326/aeba9c",
+    "doi_url": "https://doi.org/10.1088/1741-4326/aeba9c",
+    "registered_date": "2026-10-28",
+    "published_online": "2026-10-28",
+    "published_print": "",
+    "issued": "2026-10-28",
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>A liquid lithium boundary offers a route to improved energy confinement via reduced recycling, but the resulting low-density, high-temperature edge can become sufficiently collisionless that standard fluid models are no longer applicable. Experimental measurements of scrape-off-layer (SOL) parameters, including density decay length estimates presented here, can be used for simple analytic estimates of kinetic effects, but more complete models are needed. We present 1-D, two-velocity-space gyrokinetic simulations of low and higher-recycling LTX-beta SOL conditions using Gkeyll, an open-source continuum gyrokinetic code. The simulations follow a single open field line from the low-field-side midplane to the high-field-side limiter, evolving kinetic ion and electron distribution functions, electrostatic potential, collisions, sources, and sheath losses with experimentally constrained mid-plane parameters. The low-recycling case develops a hotter SOL, a larger electrostatic potential variation along the field line, and a density response not recovered with an adiabatic Boltzmann-electron closure. This indicates that kinetic-electron dynamics and the associated ambipolar potential are important for maintaining quasi-neutrality and reducing electron end loss. Collisionality scans show that as the ion neoclassical collisionality drops below unity, the ion distribution develops a stronger non-Maxwellian structure. The corresponding SOL particle and energy confinement times increase at low collisionality, especially for low recycling, because ions become mirror trapped and electron transport is suppressed by the ambipolar potential. These results suggest that low recycling lithium walls in LTX-beta access a SOL regime where mirror trapping and electrostatic modifications alter field-line residence times relative to fluid expectations, effects expected to amplify in larger, hotter tokamaks.</jats:p>",
+    "abstract_source": "Crossref",
+    "publisher_url": "https://doi.org/10.1088/1741-4326/aeba9c",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "US"
+    ],
+    "primary_country": "US",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": true,
+    "title_ko": "재활용률이 낮은 스크랩오프 층에서의 평행 수송에 대한 운동학적 변화: 1차원 자이로운동학 연구"
+  },
+  {
+    "journal": "Nuclear Fusion",
+    "issn": "0029-5515",
+    "title": "Hybrid magnetic diagnostics on DEMO: general concept and integration studies",
+    "authors": [
+      "Raul Luís",
+      "Yohanes Nietiadi",
+      "Alberto Vale",
+      "António Silva",
+      "A Malaquias",
+      "Bruno Gonçalves",
+      "Flavio Lucca",
+      "Antonio Quercia"
+    ],
+    "doi": "10.1088/1741-4326/aeba9d",
+    "doi_url": "https://doi.org/10.1088/1741-4326/aeba9d",
+    "registered_date": "2026-10-28",
+    "published_online": "2026-10-28",
+    "published_print": "",
+    "issued": "2026-10-28",
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>As tokamaks advance towards steady-state fusion operation, most plasma diagnostics will have elements exposed to increasing nuclear and thermomechanical loads over the lifetime of the facilities. Since diagnostic failure due to neutron exposure is expected to occur in such environments, the approach on DEMO has been to develop a set of diagnostics with robust front-end components compatible with remote handling. This paper outlines a general concept of a magnetic diagnostic system for long plasma-duration operation, developed for DEMO but applicable to future full-scale fusion power plants and intermediate machines like the VNS. This is achieved by employing resilient enabling technologies, hybrid magnetic diagnostic chains and data fusion estimators. Following a detailed overview of the diagnostic subsystems under development, and the characterization of the radiation environment at the most exposed front-end locations, the main interfaces with other reactor systems are described and a remote handling classification scheme is developed, based on the one adopted on ITER. An in-depth discussion of the integration possibilities for in-vessel probes and cables on DEMO is then provided. To address the constraints identified in these studies, the Magnetic Strip concept is proposed, a modular structure conceived to house all the in-vessel magnetic probes and part of the cable looms that carry the signals to the vacuum vessel feedthroughs. The Magnetic Strip is designed to be attached to the inner surface of the vacuum vessel, anchored on the fixation bosses developed for ITER diagnostics, behind the breeding blanket. Integration with the remote maintenance procedures of the blanket is demonstrated through the development of a remote handling tool concept to manipulate the structure. Preliminary analyses underline the advantages of the Magnetic Strip concept, which allows the replacement of the front-end components and cabling in single remote handling operations while keeping temperatures and thermal gradients within the operating limits.</jats:p>",
+    "abstract_source": "Crossref",
+    "publisher_url": "https://doi.org/10.1088/1741-4326/aeba9d",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "PT",
+      "IT"
+    ],
+    "primary_country": "PT",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": true,
+    "title_ko": "DEMO에 적용된 하이브리드 자기 진단: 일반 개념 및 통합 연구"
   },
   {
     "journal": "Nuclear Engineering and Technology",
@@ -1373,12 +2168,12 @@
     "primary_country": "US",
     "country_source": "OpenAlex authorship institutions",
     "open_access": true,
-    "title_ko": "구조적 인과모형을 통한 모형검증"
+    "title_ko": "구조적 인과모형을 통한 모델 검증"
   },
   {
     "journal": "Nuclear Engineering and Technology",
     "issn": "1738-5733",
-    "title": "Discharge Characteristics of HPPX Device under Different Nonuniform Magnetic-Field Configurations",
+    "title": "Discharge characteristics of HPPX device under different nonuniform magnetic-field configurations",
     "authors": [
       "Lanlan Ping",
       "Xinjun Zhang",
@@ -1389,8 +2184,8 @@
     "doi_url": "https://doi.org/10.1016/j.net.2026.104814",
     "registered_date": "2026-10-28",
     "published_online": "",
-    "published_print": "2026-10",
-    "issued": "2026-10",
+    "published_print": "2027-03",
+    "issued": "2027-03",
     "abstract": "To elucidate how nonuniform magnetic configurations affect helicon plasma discharge and power deposition, a 3D model is built for the HPPX device. Four practical magnetic-field configurations are compared to explore the influences of RF power, magnetic field and gas pressure. The symmetric magnetic-mirror case (Case C) concentrates strong magnetic field around the antenna. It achieves the highest peak and volume-averaged electron densities of 8.21×10 18 m -3 and 6.059×10 17 m -3 among four cases, yet its total power deposition is lower than the asymmetric magnetic-mirror configuration (Case D), proving electron density is not linearly proportional to power deposition. Power scans show Case C enters fast-density-growth regime at 30-50 W, while Case D starts this regime at 60-80 W, with stronger RF absorption efficiency growth at medium and high power. The asymmetry of magnetic mirror strongly modulates electron density distribution but weakly changes total power deposition. Equal upstream and downstream magnetic peaks broaden high-density plasma axially and reduce local density peaks. Within 5-20 mTorr, volume-averaged electron density and power deposition rise nonlinearly with pressure for all configurations. This work reveals that nonuniform magnetic fields control plasma spatial features and RF power utilization, offering theoretical support for optimizing HPPX coil setup and operating parameters.",
     "abstract_source": "OpenAlex",
     "publisher_url": "https://doi.org/10.1016/j.net.2026.104814",
@@ -1402,7 +2197,7 @@
     "primary_country": "CN",
     "country_source": "OpenAlex authorship institutions",
     "open_access": true,
-    "title_ko": "다른 불균일 자기장 구성에서 HPPX 장치의 방전 특성"
+    "title_ko": "불균일 자기장 형상 변화에 따른 HPPX 장치의 방전 특성"
   },
   {
     "journal": "Nuclear Engineering and Technology",
@@ -1433,7 +2228,7 @@
     "primary_country": "CN",
     "country_source": "OpenAlex authorship institutions",
     "open_access": true,
-    "title_ko": "AP1000 어셈블리에 적용된 나선형 늑골 핵연료봉의 중성자 효과 분석"
+    "title_ko": "AP1000 집합체에 적용한 나선 리브 핵연료봉의 중성자 해석적 효과 분석"
   },
   {
     "journal": "Nuclear Engineering and Design",
@@ -1466,7 +2261,7 @@
     "primary_country": "CN",
     "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "압력 소용돌이 노즐의 광부하 분무화 특성 및 예비 파라미터 스크리닝"
+    "title_ko": "압력선회 노즐의 광범위 부하 분무 특성 및 예비 변수 선별"
   },
   {
     "journal": "Nuclear Engineering and Design",
@@ -1494,8 +2289,8 @@
     ],
     "primary_country": "FR",
     "country_source": "OpenAlex authorship institutions",
-    "open_access": false,
-    "title_ko": "글러브 박스 화재의 여러 유입구 불꽃 모델링"
+    "open_access": true,
+    "title_ko": "글러브박스 화재의 다중 유입구 화염편 모델링"
   },
   {
     "journal": "Nuclear Engineering and Design",
@@ -1525,7 +2320,35 @@
     "primary_country": "CN",
     "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "측정된 데이터를 기반으로 벤츄리 튜브의 배출 계수를 보정하는 방법"
+    "title_ko": "측정 데이터 기반 벤투리관 유량계수 보정 방법"
+  },
+  {
+    "journal": "Fusion Engineering and Design",
+    "issn": "0920-3796",
+    "title": "Sloshing modelling in a pressure vessel belonging to a fusion reactor subsystem",
+    "authors": [
+      "Antonietta Lo Conte",
+      "Chiara Mariani",
+      "Massimo Fossati"
+    ],
+    "doi": "10.1016/j.fusengdes.2026.116122",
+    "doi_url": "https://doi.org/10.1016/j.fusengdes.2026.116122",
+    "registered_date": "2026-10-28",
+    "published_online": "",
+    "published_print": "2027-01",
+    "issued": "2027-01",
+    "abstract": "",
+    "abstract_source": "",
+    "publisher_url": "https://doi.org/10.1016/j.fusengdes.2026.116122",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "IT"
+    ],
+    "primary_country": "IT",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": true,
+    "title_ko": "핵융합로 하위 시스템에 속하는 압력 용기에서의 슬로싱 모델링"
   },
   {
     "journal": "Annals of Nuclear Energy",
@@ -1553,7 +2376,7 @@
     "primary_country": "IR",
     "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "동위원소 분리 응용을 위한 분자 펌프의 3차원 직접 시뮬레이션 몬테카를로 분석: 마찰력 계산을 위한 비교 연구"
+    "title_ko": "동위원소 분리용 분자펌프의 3차원 직접모사 몬테카를로 해석: 마찰 동력 계산 비교 연구"
   },
   {
     "journal": "Annals of Nuclear Energy",
@@ -1583,7 +2406,7 @@
     "primary_country": "TR",
     "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "TALYS 핵반응 계산을 기반으로 한 이트륨-90의 생산경로 비교 분석"
+    "title_ko": "TALYS 핵반응 계산에 기반한 이트륨-90 생산 경로 비교 분석"
   },
   {
     "journal": "Annals of Nuclear Energy",
@@ -1612,8 +2435,8 @@
     ],
     "primary_country": "KR",
     "country_source": "OpenAlex authorship institutions",
-    "open_access": false,
-    "title_ko": "소듐 냉각 고속 원자로의 이중 벽 파이프에 대한 분산 온도 센싱을 사용하는 고급 누출 감지 기술"
+    "open_access": true,
+    "title_ko": "소듐냉각고속로(SFR) 이중벽 배관에 대한 분포형 온도 센싱 기반 고도화 누설 감지 기법"
   },
   {
     "journal": "Annals of Nuclear Energy",
@@ -1642,7 +2465,37 @@
     "primary_country": "IN",
     "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "고요한 비혼화성 액체에 담근 상부 및 하부 침수 노즐에서의 낙하 형성에 대한 이론적 평가: 우라늄 베어링 스트림을 사용한 사례 연구"
+    "title_ko": "정지된 비혼화성 액체에 잠긴 상부 및 하부 노즐에서의 액적 형성에 대한 이론적 평가: 우라늄 함유 흐름 사례 연구"
+  },
+  {
+    "journal": "Plasma Physics and Controlled Fusion",
+    "issn": "0741-3335",
+    "title": "Density and RF-drive scalings of an idealized one-dimensional RF sheath model and implications for impurity sputtering",
+    "authors": [
+      "J Ou",
+      "Yunxin Cheng",
+      "Jiuyang Li",
+      "Ning Yan",
+      "Aobin Liu"
+    ],
+    "doi": "10.1088/1361-6587/aeba15",
+    "doi_url": "https://doi.org/10.1088/1361-6587/aeba15",
+    "registered_date": "2026-10-27",
+    "published_online": "2026-10-27",
+    "published_print": "",
+    "issued": "2026-10-27",
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Radio frequency (RF) sheath formation at the plasma edge is a critical factor for impurity generation during ion cyclotron range of frequency (ICRF) heating. Motivated by EAST observations that correlate core impurity contamination with edge plasma density and ICRF power, this paper presents a parametric study of RF sheath characteristics using an idealized one-dimensional model. The model couples a hydrodynamic sheath description with an equivalent circuit framework, with the RF driving current prescribed through an RF-drive parameter P_RF via a fixed empirical mapping and without antenna-loading feedback. Within the scanned parameter space (edge plasma density n_0=0.5×10^18 to 1.0×10^18 m^(-3)and P_RF=1 to 5 MW), spanning the evanescent regime relevant to typical ICRF conditions, the nonlinear balance between displacement and conduction currents yields well-defined scaling laws. The results indicate that, within the scanned density interval, the time-averaged sheath potential scales inversely with the square of the plasma density (n_0^(-2)). With respect to P_RF, the sheath potential exhibits a stronger-than-classical scaling (P_RF^(b_fit )) where the exponent b_fit decreases monotonically from approximately 1.10 at low densities to 0.76 at high densities, approaching the classical P_RF^(1/2) limit. Total Harmonic Distortion (THD) analysis provides a physical interpretation of these scaling behaviors in terms of the density-dependent suppression and P_RF-driven enhancement of the displacement current. The implications of these scalings for impurity sputtering are assessed by estimating the physical sputtering yields of metallic impurities (Fe, Cu) under the computed sheath potentials. The physical sputtering yields are shown to be highly sensitive to both parameters. Such results establish the intrinsic parametric dependence of sheath formation within the idealized model, providing theoretical insights into the nonlinear RF sheath effects that can help interpret impurity behaviors in high-power ICRF-heated plasmas.</jats:p>",
+    "abstract_source": "Crossref",
+    "publisher_url": "https://doi.org/10.1088/1361-6587/aeba15",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "CN"
+    ],
+    "primary_country": "CN",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": true,
+    "title_ko": "이상화된 1차원 RF 쉬스 모델의 밀도 및 RF 구동 스케일링과 불순물 스퍼터링에 대한 함의"
   },
   {
     "journal": "Nuclear Science and Techniques",
@@ -1677,7 +2530,7 @@
     "primary_country": "CN",
     "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "대면적 배열형 우주선 뮤온 방사선 검출기 μ Sight-1"
+    "title_ko": "대면적 배열형 우주선 뮤온 투과영상 검출기 μ Sight-1"
   },
   {
     "journal": "Nuclear Engineering and Technology",
@@ -1712,7 +2565,7 @@
     "primary_country": "KR",
     "country_source": "OpenAlex authorship institutions",
     "open_access": true,
-    "title_ko": "밀도파 발진-제2부: 응용 및 분석 하에 소형 모듈형 원자로에서 나선형으로 감긴 1회 증기발생기 튜브의 구조 분석"
+    "title_ko": "밀도파 진동 하 소형모듈원자로(SMR) 나선형 관류식 증기발생기 전열관의 구조 해석, 제2부: 적용 및 분석"
   },
   {
     "journal": "Nuclear Engineering and Design",
@@ -1743,7 +2596,7 @@
     "primary_country": "CN",
     "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "루트 로커스 방법에 기반한 마이크로 가스 냉각 고속 원자로의 안정성 분석 및 검증"
+    "title_ko": "근궤적법에 기반한 초소형 가스냉각고속로의 안정성 해석 및 검증"
   },
   {
     "journal": "Nuclear Engineering and Design",
@@ -1774,7 +2627,102 @@
     "primary_country": "CN",
     "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "실시간 RPV 중성자 선량 측정을 위한 보조 검출기 응답 기능 방법"
+    "title_ko": "실시간 RPV 중성자 선량측정을 위한 수반 검출기 응답함수 방법"
+  },
+  {
+    "journal": "Journal of Fusion Energy",
+    "issn": "0164-0313",
+    "title": "Fuel-Driven Neutron Spectral Softening and Its Impact on Tritium Breeding in Inertial Fusion Energy Systems",
+    "authors": [
+      "Yu Li",
+      "Minxiang Shu",
+      "Shenghan Cheng",
+      "Yang Yang",
+      "Wenxiang Jiang",
+      "Zhilin Chen"
+    ],
+    "doi": "10.1007/s10894-026-00610-x",
+    "doi_url": "https://doi.org/10.1007/s10894-026-00610-x",
+    "registered_date": "2026-10-27",
+    "published_online": "2026-10-27",
+    "published_print": "",
+    "issued": "2026-10-27",
+    "abstract": "",
+    "abstract_source": "",
+    "publisher_url": "https://doi.org/10.1007/s10894-026-00610-x",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "CN"
+    ],
+    "primary_country": "CN",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": false,
+    "title_ko": "연료 구동에 의한 중성자 스펙트럼 연화 및 관성 핵융합 에너지 시스템에서 삼중수소 생성에 미치는 영향"
+  },
+  {
+    "journal": "Fusion Engineering and Design",
+    "issn": "0920-3796",
+    "title": "Wetting of stainless steel with lithium at 200-300°C after mechanical grinding and plasma sputtering",
+    "authors": [
+      "А.А. Pisarev",
+      "G.M. Tarasyuk",
+      "N.A. Suvorov",
+      "T.V. Stepanova",
+      "V.A. Stepanov"
+    ],
+    "doi": "10.1016/j.fusengdes.2026.116104",
+    "doi_url": "https://doi.org/10.1016/j.fusengdes.2026.116104",
+    "registered_date": "2026-10-27",
+    "published_online": "",
+    "published_print": "2027-01",
+    "issued": "2027-01",
+    "abstract": "",
+    "abstract_source": "",
+    "publisher_url": "https://doi.org/10.1016/j.fusengdes.2026.116104",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "RU"
+    ],
+    "primary_country": "RU",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": true,
+    "title_ko": "기계적 그라인딩 및 플라즈마 스퍼터링 후 200 ~ 300°C에서 리튬으로 스테인레스 스틸 습윤"
+  },
+  {
+    "journal": "Fusion Engineering and Design",
+    "issn": "0920-3796",
+    "title": "Noise-robust position and shape reconstruction and development of a magnetic diagnostic system: Observation of the world’s largest tokamak plasma in the first operational phase of JT-60SA",
+    "authors": [
+      "S. Inoue",
+      "Y. Miyata",
+      "M. Takechi",
+      "T. Totsuka",
+      "M. Sueoka",
+      "S. Sakamoto",
+      "T. Wakatsuki",
+      "M. Yoshida",
+      "H. Urano"
+    ],
+    "doi": "10.1016/j.fusengdes.2026.116102",
+    "doi_url": "https://doi.org/10.1016/j.fusengdes.2026.116102",
+    "registered_date": "2026-10-27",
+    "published_online": "",
+    "published_print": "2027-01",
+    "issued": "2027-01",
+    "abstract": "",
+    "abstract_source": "",
+    "publisher_url": "https://doi.org/10.1016/j.fusengdes.2026.116102",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "JP"
+    ],
+    "primary_country": "JP",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": false,
+    "title_ko": "잡음에 강한 위치 및 형상 재구성 및 자기 진단 시스템 개발: JT-60SA 최초 운전 단계에서 세계 최대 토카막 플라즈마 관측"
   },
   {
     "journal": "Annals of Nuclear Energy",
@@ -1802,7 +2750,7 @@
     "primary_country": "KR",
     "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "GPU 가속 완전 명시적 이동 입자법을 이용한 용융염 확산 및 고형화 거동 수치해석"
+    "title_ko": "GPU 가속 완전 양해법 입자이동법을 이용한 용융염 퍼짐 및 고화 거동 수치해석"
   },
   {
     "journal": "Annals of Nuclear Energy",
@@ -1831,8 +2779,8 @@
     ],
     "primary_country": "CN",
     "country_source": "OpenAlex authorship institutions",
-    "open_access": false,
-    "title_ko": "3D 풀코어 커플링 중성자/열수력 시뮬레이션을 위한 저비용 교육을 갖춘 확장 가능한 어셈블리 기반 감소 순서 모델"
+    "open_access": true,
+    "title_ko": "3차원 전노심 중성자 해석/열수력 연계 해석을 위한 저비용 학습의 확장 가능한 집합체 기반 축소모델"
   },
   {
     "journal": "Annals of Nuclear Energy",
@@ -1861,7 +2809,7 @@
     "primary_country": "CN",
     "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "3D 전체 코어 핀별 중성자 해석 계산을 위한 동적으로 예약된 거친 메쉬 재균형 가속"
+    "title_ko": "3차원 전노심 봉단위 중성자 해석을 위한 동적 스케줄링 조대격자 재균형 가속"
   },
   {
     "journal": "Progress in Nuclear Energy",
@@ -1889,7 +2837,7 @@
     "primary_country": "CA",
     "country_source": "OpenAlex authorship institutions",
     "open_access": true,
-    "title_ko": "원자력 르네상스 인력 배치: 캐나다의 2050년 원자력 확장을 위한 국가 인력 요건에 대한 통합 모델링 평가"
+    "title_ko": "원자력 르네상스를 위한 인력 확보: 캐나다 2050 원자력 확대에 필요한 국가 인력 수요의 통합 모델링 평가"
   },
   {
     "journal": "Progress in Nuclear Energy",
@@ -1918,8 +2866,8 @@
     ],
     "primary_country": "CN",
     "country_source": "OpenAlex authorship institutions",
-    "open_access": false,
-    "title_ko": "연속-에너지 핵 데이터 동화 방법 및 중국 실험용 고속 원자로 (CEFR) 에 대한 연구"
+    "open_access": true,
+    "title_ko": "연속에너지 핵데이터 동화 방법 연구 및 중국실험고속로(CEFR) 적용"
   },
   {
     "journal": "Progress in Nuclear Energy",
@@ -1949,7 +2897,7 @@
     "primary_country": "US",
     "country_source": "OpenAlex authorship institutions",
     "open_access": false,
-    "title_ko": "프리즘 HTGR의 수동 안전: 열수력, 자연 순환 및 열전달 메커니즘에 대한 포괄적인 검토"
+    "title_ko": "각주형 HTGR의 피동안전: 열수력, 자연순환 및 열전달 메커니즘에 대한 종합 리뷰"
   },
   {
     "journal": "Progress in Nuclear Energy",
@@ -1977,7 +2925,208 @@
     "primary_country": "KR",
     "country_source": "OpenAlex authorship institutions",
     "open_access": true,
-    "title_ko": "레벨 3 PSA에서 ICRP 26, ICRP 60 및 ICRP 103 프레임워크를 기반으로 한 오프사이트 결과 비교 분석"
+    "title_ko": "Level 3 PSA에서 ICRP 26, ICRP 60, ICRP 103 체계에 따른 소외 결과 비교 분석"
+  },
+  {
+    "journal": "Plasma Physics and Controlled Fusion",
+    "issn": "0741-3335",
+    "title": "Study of impacts of island resonance and location on detachment transition in W7-X using EMC3-EIRENE",
+    "authors": [
+      "Satoshi Togo",
+      "Gakushi Kawamura",
+      "Masahiro Kobayashi",
+      "Victoria Winters",
+      "Yuhe Feng",
+      "Felix Reimold",
+      "Heinke Frerichs",
+      "Byron Jay Peterson",
+      "Hiroyuki Takahashi"
+    ],
+    "doi": "10.1088/1361-6587/aeb977",
+    "doi_url": "https://doi.org/10.1088/1361-6587/aeb977",
+    "registered_date": "2026-10-26",
+    "published_online": "2026-10-26",
+    "published_print": "",
+    "issued": "2026-10-26",
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    A numerical survey was conducted using EMC3-EIRENE to investigate the impact of island resonance and location on detachment characteristics during density ramp-up in Wendelstein 7-X (W7-X), prior to corresponding experiments. The radial position of the islands in the scrape-off layer (SOL) was modulated by varying the planar-coil current I\n                    <jats:sub>PC</jats:sub>\n                    within the range −1.5 kA ≤ I\n                    <jats:sub>PC</jats:sub>\n                    ≤ 1.5 kA, while keeping the non-planar-coil current fixed in the standard configuration (SDC). Detachment characteristics — including detachment onset density, impurity radiation patterns, total target heat load, and divertor neutral pressure — depend strongly on the values of I\n                    <jats:sub>PC</jats:sub>\n                    : an inward-shifted island with I\n                    <jats:sub>PC</jats:sub>\n                    = −1.5 kA and an outward-shifted island with I\n                    <jats:sub>PC</jats:sub>\n                    = +1.5 kA produce markedly different behavior. The detachment onset occurs at lower density for negative I\n                    <jats:sub>PC</jats:sub>\n                    (inward-shifted island) and at higher density for positive I\n                    <jats:sub>PC</jats:sub>\n                    (outward-shifted island) relative to the reference SDC. In all configurations, the divertor recycling rollover coincides with a radiation fraction of ≈ 0.5–0.6, indicating that power starvation plays a dominant role in the detachment transition. Impurity radiation peaks near the island O‑point for negative I\n                    <jats:sub>PC</jats:sub>\n                    , whereas it peaks near the X‑point in the reference SDC and for positive I\n                    <jats:sub>PC</jats:sub>\n                    . Regarding the power and particle control, a clear trade-off is observed: negative I\n                    <jats:sub>PC</jats:sub>\n                    configurations are most effective for reducing the total target heat load, whereas the reference SDC shows the highest divertor neutral compression for efficient pumping. These results demonstrate that edge magnetic geometry — specifically the positional relationship between the divertor plate and the island O-point, the strike‑line location relative to the island X‑ or O‑point, and the connection length L\n                    <jats:sub>c</jats:sub>\n                    in the island SOL, all of which change with I\n                    <jats:sub>PC</jats:sub>\n                    — strongly impact detachment operation in W7‑X and can be potential levers for its control.\n                  </jats:p>",
+    "abstract_source": "Crossref",
+    "publisher_url": "https://doi.org/10.1088/1361-6587/aeb977",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "JP",
+      "DE",
+      "US"
+    ],
+    "primary_country": "JP",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": false,
+    "title_ko": "EMC3-EIRENE를 이용한 W7-X에서의 섬 공명 및 위치가 분리 전이 과정에 미치는 영향 연구"
+  },
+  {
+    "journal": "Plasma Physics and Controlled Fusion",
+    "issn": "0741-3335",
+    "title": "Platform for high repetition rate proton stopping power measurements in Warm Dense Matter",
+    "authors": [
+      "Sophia Malko",
+      "Sophia Malko",
+      "Krish Bhutwala",
+      "Xavier Vaisseau",
+      "Valeria Ospina",
+      "Ryan Nedbailo",
+      "Jesse Griff-McMahon",
+      "Witold Cayzac",
+      "Jon Apiñaniz",
+      "M Ehret",
+      "Alejandro Huerta",
+      "Diego de Luis",
+      "Mathieu Bailly-Grandvaux",
+      "Joao Jorge Santos",
+      "Joe Adrian Vargas",
+      "Christopher S McGuffey",
+      "Anna Tauschwitz",
+      "Vicente Valenzuela-Villaseca",
+      "Reed Hollinger",
+      "Shoujun Wang",
+      "Ghassan Zeraouli",
+      "Sina Anaraki",
+      "James King",
+      "Courtney Johnson",
+      "Ashraf I Essa",
+      "Marine Huault",
+      "Samia Khetari",
+      "Stefano Atzeni",
+      "Luca Volpe",
+      "Kirill Lezhnin",
+      "Frances Kraus",
+      "Will Fox",
+      "Robert Fedosejevs",
+      "Jorge J Rocca",
+      "Farhat N Beg",
+      "Paul Neumayer",
+      "Giancarlo Gatti",
+      "Jose Antonio Perez-Hernandez"
+    ],
+    "doi": "10.1088/1361-6587/aeb978",
+    "doi_url": "https://doi.org/10.1088/1361-6587/aeb978",
+    "registered_date": "2026-10-26",
+    "published_online": "2026-10-26",
+    "published_print": "",
+    "issued": "2026-10-26",
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We present a high-repetition-rate experimental platform for proton stopping-power measurements in warm dense matter in a regime where the projectile velocity approaches the electron thermal velocity and theoretical predictions remain highly uncertain. The platform combines laser-driven proton generation via target normal sheath acceleration with a compact magnetic energy selector to produce quasi-monoenergetic proton beams in the 0.3–0.6 MeV range with energy bandwidths of tens of keV and sub-nanosecond duration. Warm dense matter is generated by femtosecond laser heating of thin carbon foils and characterized using streaked optical pyrometry and x-ray pinhole grating spectroscopy, supported by radiation-hydrodynamic simulations. We further investigate the present limitations of the approach, including uncertainties in sample conditions, finite proton bunch duration, and proton scattering, and discuss pathways toward improved measurements. The results demonstrate a versatile and scalable approach for systematic, high-statistics studies of ion stopping power in warm dense matter relevant to inertial confinement fusion and charged-particle transport in high-energy-density plasmas.</jats:p>",
+    "abstract_source": "Crossref",
+    "publisher_url": "https://doi.org/10.1088/1361-6587/aeb978",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "US",
+      "FR",
+      "ES",
+      "CZ",
+      "DE",
+      "CA"
+    ],
+    "primary_country": "US",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": true,
+    "title_ko": "고온 고밀도 물질에서 높은 반복률로 양성자 저지력을 측정할 수 있는 플랫폼"
+  },
+  {
+    "journal": "Plasma Physics and Controlled Fusion",
+    "issn": "0741-3335",
+    "title": "K-epsilon modelling of turbulent transport in the edge-SOL boundary layer",
+    "authors": [
+      "Hugo Georges Bufferand",
+      "Guido Ciraolo",
+      "Guilhem Dif-Pradalier",
+      "Xavier Garbet",
+      "Philippe Ghendrih",
+      "Virginie Grandgirard",
+      "Ivan Kudashev",
+      "Yakumo Kunimoto",
+      "Anna Glasser",
+      "Olivier Panico",
+      "Yanick Sarazin",
+      "Eric Serre"
+    ],
+    "doi": "10.1088/1361-6587/aeb979",
+    "doi_url": "https://doi.org/10.1088/1361-6587/aeb979",
+    "registered_date": "2026-10-26",
+    "published_online": "2026-10-26",
+    "published_print": "",
+    "issued": "2026-10-26",
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>In the K-epsilon framework, a predator-prey like model determines the plasma turbulent transport. It depends on the underlying plasma turbulence via the growth rate chosen for the turbulent energy, the prey K, and its predator epsilon. Compared to our previous work [1], we propose in this paper modifications of the model to be tested in future simulations. A more appropriate expression of the growth rate is proposed by taking into account the fast dynamics of the parallel electron transport. The stabilising terms that are introduced allow for negative values of the growth rate of interchange coupled to drift wave turbulence. Changes to the K-epsilon model are made to adapt it to handle close to marginal states, then allowing one to address a Landau like bifurcation from negative growth rates, without turbulence, to positive growth rates, with turbulence. The closure using the multi-machine SOL width scaling law is revisited to allow the K-epsilon turbulent transport to depend on the growth rate. This is mandatory in the present model to yield increasing turbulent transport towards the edge and enhanced SOL transport governed by the sheath resistivity. Usual predator-prey limit cycles can be achieved whenever the growth rate of the predator is smaller than that of the prey. The growth rates are determined by a simplified 2D turbulence model taking into account magnetic field inhomogeneity and parallel losses, mostly of electrons. These are computed in Fourier space and must be adapted to plasma coarse grained simulations, in particular for edge-SOL-divertor simulations. A growth rate maximisation procedure then determines the wave vector in terms of the plasma parameters. Although the maximisation results are different for drift wave and interchange instabilities, their spectral properties are not discernable and the two instabilities are shown to be difficult to disentangle. Both facets of turbulence are therefore accounted for in the analytical expressions that are obtained for the growth rates, which are to be implemented in K-epsilon simulations of plasma-wall interaction with consistent turbulent transport.</jats:p>",
+    "abstract_source": "Crossref",
+    "publisher_url": "https://doi.org/10.1088/1361-6587/aeb979",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "FR"
+    ],
+    "primary_country": "FR",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": true,
+    "title_ko": "경계층-SOL에서의 난류 수송에 대한 K-엡실론 모델링"
+  },
+  {
+    "journal": "Plasma Physics and Controlled Fusion",
+    "issn": "0741-3335",
+    "title": "Extended-MHD dynamics of a wide pedestal quiescent-H mode DIII-D plasma",
+    "authors": [
+      "J J Dominguez-Palacios Duran",
+      "J R King",
+      "V A Izzo",
+      "X Chen",
+      "F Ebrahimi",
+      "A Y Pankin"
+    ],
+    "doi": "10.1088/1361-6587/aeb97a",
+    "doi_url": "https://doi.org/10.1088/1361-6587/aeb97a",
+    "registered_date": "2026-10-26",
+    "published_online": "2026-11-04",
+    "published_print": "2026-11-01",
+    "issued": "2026-11-01",
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    We present nonlinear simulations of a Wide Pedestal QH (WPQH)-mode DIII-D plasma with the NIMROD code. We use a full extended-MHD model that retains shear Alfvén and magnetoacoustic waves and includes two-fluid, ion gyroviscosity, cross heat flux, electron inertia, and ion multispecies collisional effects. The steady-state transport calculations use novel-to-MHD local relaxation sources. First, we perform a nonlinear simulation without the fluctuation-induced transport to understand the role of our local relaxation sources. In these simulations, the sources constrain the profiles in the outboard midplane and they remain close to the experimental fits. Second, a nonlinear simulation including the fluctuation-induced transport is carried out. The\n                    <jats:inline-formula>\n                      <jats:tex-math>\n                        \n                      </jats:tex-math>\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" overflow=\"scroll\">\n                        <mml:mrow>\n                          <mml:mi>n</mml:mi>\n                          <mml:mo>≠</mml:mo>\n                          <mml:mn>0</mml:mn>\n                        </mml:mrow>\n                      </mml:math>\n                    </jats:inline-formula>\n                    modes flatten the pedestal gradient profiles, however they approximately remain within the experimental error bars. The global dynamics are mediated by both low-\n                    <jats:inline-formula>\n                      <jats:tex-math>\n                        \n                      </jats:tex-math>\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" overflow=\"scroll\">\n                        <mml:mrow>\n                          <mml:mi>n</mml:mi>\n                        </mml:mrow>\n                      </mml:math>\n                    </jats:inline-formula>\n                    and intermediate-\n                    <jats:inline-formula>\n                      <jats:tex-math>\n                        \n                      </jats:tex-math>\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" overflow=\"scroll\">\n                        <mml:mrow>\n                          <mml:mi>n</mml:mi>\n                        </mml:mrow>\n                      </mml:math>\n                    </jats:inline-formula>\n                    mode numbers. The local dynamics, though, are much more complicated. The largest-amplitude mode numbers depend on both the MHD-field examined and the spatial location. At the pedestal top, the modes rotate in the\n                    <jats:inline-formula>\n                      <jats:tex-math>\n                        \n                      </jats:tex-math>\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" overflow=\"scroll\">\n                        <mml:mrow>\n                          <mml:mi>E</mml:mi>\n                          <mml:mo>×</mml:mo>\n                          <mml:mi>B</mml:mi>\n                        </mml:mrow>\n                      </mml:math>\n                    </jats:inline-formula>\n                    /electron diamagnetic drift direction, whereas at both the pedestal bottom and scrape-off layer, the modes rotate in the ion diamagnetic drift direction. The simulation qualitatively agrees with electron cyclotron emission imaging and beam emission spectroscopy measurements. Examination of the convective cross phase indicates that, in WPQH-mode plasmas, energy and particle transport can be mediated by non-ideal, extended-MHD intermediate-\n                    <jats:inline-formula>\n                      <jats:tex-math>\n                        \n                      </jats:tex-math>\n                      <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" overflow=\"scroll\">\n                        <mml:mrow>\n                          <mml:mi>n</mml:mi>\n                        </mml:mrow>\n                      </mml:math>\n                    </jats:inline-formula>\n                    modes, highlighting the critical role of extended-MHD dynamics in pedestal transport.\n                  </jats:p>",
+    "abstract_source": "Crossref",
+    "publisher_url": "https://doi.org/10.1088/1361-6587/aeb97a",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "US"
+    ],
+    "primary_country": "US",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": true,
+    "title_ko": "넓은 페데스탈을 갖는 정지 H 모드 DIII-D 플라즈마의 확장된 MHD 동역학"
+  },
+  {
+    "journal": "Nuclear Materials and Energy",
+    "issn": "2352-1791",
+    "title": "A generalized spectral algorithm for fission gas diffusion: Implementation and verification in SCIANTIX",
+    "authors": [
+      "Aya Zayat",
+      "Giovanni Zullo",
+      "Lelio Luzzi",
+      "Davide Pizzocri"
+    ],
+    "doi": "10.1016/j.nme.2026.102243",
+    "doi_url": "https://doi.org/10.1016/j.nme.2026.102243",
+    "registered_date": "2026-10-26",
+    "published_online": "",
+    "published_print": "2026-10",
+    "issued": "2026-10",
+    "abstract": "Fission gas release and swelling in nuclear fuel are governed by the transport of gas atoms from within the grain to the grain boundaries, typically described by diffusion, trapping, and resolution. Under the quasi-stationary approximation, these mechanisms are represented by a diffusion equation with an effective diffusion coefficient, which maintains physical accuracy while reducing computational complexity. While existing spectral solvers typically assume spatially uniform source terms and initial conditions, such simplifications limit the representation of localized phenomena. This work presents a generalized spectral diffusion algorithm implemented in SCIANTIX, an open-source 0D meso -scale code designed to describe fission gas behaviour in nuclear oxide fuel. The algorithm extends the conventional framework of spectral solvers to encompass spatially varying source profiles and non-uniform initial conditions. By accommodating more realistic intra-granular distributions, the solver captures sub-grain-scale effects and enables the exploration of a broader range of physical scenarios such as grain boundary resolution. The implementation is verified using the Method of Manufactured Solutions and demonstrated through case studies. Results show that spatial source heterogeneity influences intragranular retention and gas release kinetics, even with constant volume-averaged gas production. This new framework extends the physical applicability of SCIANTIX to phenomena inherently unrepresentable under uniform-source assumptions.",
+    "abstract_source": "OpenAlex",
+    "publisher_url": "https://doi.org/10.1016/j.nme.2026.102243",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "IT"
+    ],
+    "primary_country": "IT",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": true,
+    "title_ko": "핵핵분열기체 확산을 위한 일반화된 스펙트럼 알고리즘: SCIANTIX에서의 구현 및 검증"
   },
   {
     "journal": "Nuclear Engineering and Technology",
@@ -2006,7 +3155,66 @@
     "primary_country": "PK",
     "country_source": "OpenAlex authorship institutions",
     "open_access": true,
-    "title_ko": "파키스탄 연구 원자로의 운영 이력 의존적 몬테카를로 다중 주기 연소 분석-1"
+    "title_ko": "Pakistan Research Reactor-1의 운전이력 의존 몬테카를로 다주기 연소 해석"
+  },
+  {
+    "journal": "Fusion Science and Technology",
+    "issn": "1536-1055",
+    "title": "Fully Integrated Liquid Metal System (FILMS) for a Fusion Reactor: Conceptual Design and Scoping Engineering Analysis",
+    "authors": [
+      "Sergey Smolentsev"
+    ],
+    "doi": "10.1080/15361055.2026.2746188",
+    "doi_url": "https://doi.org/10.1080/15361055.2026.2746188",
+    "registered_date": "2026-10-26",
+    "published_online": "2026-10-26",
+    "published_print": "",
+    "issued": "2026-10-26",
+    "abstract": "Fully integrated liquid-metal (LM) plasma-facing and breeding systems offer a promising approach for future fusion reactors capable of simultaneously accommodating high heat loads, tritium breeding, and power conversion. This study introduces and evaluates for the first time the fully integrated liquid metal system (FILMS), a new concept that combines three traditionally separate subsystems into a single liquid-lithium (Li) circuit: (1) a flowing LM first wall, (2) an LM breeding blanket, and (3) an open-surface LM divertor. The Fusion Nuclear Science Facility was used as a representative testbed for integrated thermohydraulic and magnetohydrodynamic (MHD) analyses. Scoping-level analyses were performed to evaluate Li flow rates, temperatures, Reynolds and Hartmann numbers, MHD pressure drops, and pumping-power requirements for the major FILMS circuits. Two structural-material options, reduced activation ferritic martensitic (RAFM) steel and vanadium alloy, were considered together with electrically conducting and electrically insulating wall assumptions. The results demonstrate that electrically insulating configurations, representing flow-channel inserts or electrically insulating sandwich-wall concepts, substantially reduce MHD pressure drops and pumping power. For the electrically insulating vanadium-alloy case, all major circuit pressure drops remain below approximately 2 MPa and the total hydraulic pumping power remains below approximately 1% of the reactor thermal power. In contrast, the electrically insulating RAFM case remains close to the engineering pressure-drop limit and likely requires additional optimization of the inboard blanket and main-loop circuits. The study additionally demonstrates the usefulness of the electric-circuit analogy framework for evaluating coupled flow redistribution and off-design behavior of the integrated FILMS hydraulic network.",
+    "abstract_source": "OpenAlex",
+    "publisher_url": "https://doi.org/10.1080/15361055.2026.2746188",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "US"
+    ],
+    "primary_country": "US",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": false,
+    "title_ko": "핵융합로용 완전 통합형 액체 금속 시스템(FILMS): 개념 설계 및 타당성 분석"
+  },
+  {
+    "journal": "Fusion Science and Technology",
+    "issn": "1536-1055",
+    "title": "Design and Implementation of Slow Conventional Controller for the ITER MCTB Quench Protection System",
+    "authors": [
+      "Guanghong Wang",
+      "Meng Xu",
+      "Jie Zhang",
+      "Zhiquan Song",
+      "Jing Zhang",
+      "Hua Li",
+      "Qi Chen",
+      "Xuesong Xu"
+    ],
+    "doi": "10.1080/15361055.2026.2743960",
+    "doi_url": "https://doi.org/10.1080/15361055.2026.2743960",
+    "registered_date": "2026-10-26",
+    "published_online": "2026-10-26",
+    "published_print": "",
+    "issued": "2026-10-26",
+    "abstract": "The magnet cold test bench (MCTB), the key facility of the ITER project, is mainly used for performance verification of superconducting magnets before on-site installation. As an important subsystem of the MCTB, the quench protection system (QPS) utilizes high-power DC switches and commutation technology to achieve rapid current interruption.This paper presents the design and implementation of the slow conventional control system in the QPS, which performs status monitoring and logic control on the key components, including the by-pass switch, vacuum circuit breaker, counter pulse circuit, and pyro-breaker during preparation and test operation. The hardware platform of the QPS takes the Siemens S7-1200 programmable logic controller (PLC) as its core. The software program is developed with TIA Portal, and the supporting human-machine interface (HMI) is programmed via LabVIEW.Real-time full-process data exchange between the PLC and upper HMI is realized through the open platform communications unified architecture protocol. The test results verify that the proposed system integrates the comprehensive status monitoring and logic control functions, runs stably and reliably, and satisfies the engineering application requirements of the QPS.",
+    "abstract_source": "OpenAlex",
+    "publisher_url": "https://doi.org/10.1080/15361055.2026.2743960",
+    "pii": "",
+    "cover_date": "",
+    "countries": [
+      "CN"
+    ],
+    "primary_country": "CN",
+    "country_source": "OpenAlex authorship institutions",
+    "open_access": false,
+    "title_ko": "ITER MCTB 퀜칭 보호 시스템을 위한 저속 재래식 제어기의 설계 및 구현"
   },
   {
     "journal": "Annals of Nuclear Energy",
@@ -2038,7 +3246,7 @@
     ],
     "primary_country": "CN",
     "country_source": "OpenAlex authorship institutions",
-    "open_access": false,
-    "title_ko": "고온 및 고압 하에서 질소 방출 역학의 실험적 시각화"
+    "open_access": true,
+    "title_ko": "고온 고압 조건에서 질소 방출 거동의 실험적 가시화"
   }
 ]
