@@ -2,20 +2,8 @@
   "run_date": "2026-11-02",
   "period_start": "2026-10-26",
   "period_end": "2026-11-01",
-  "started_at": "2026-11-02T10:12:41+09:00",
-  "status": "success",
-  "article_count": 67,
-  "previous_count": 57,
-  "total_papers": 812,
-  "total_runs": 11,
-  "integrity": "ok",
-  "email": "skipped: SMTP_USER/SMTP_PASSWORD not configured",
-  "newsletter": "skipped: newsletter turned off (config/site.json newsletter.enabled)",
-  "recipients": [
-    "yhs0365@snu.ac.kr"
-  ],
-  "dashboard_url": "https://monami-lab-2026.github.io/nuclear_digest/papers/",
-  "email_path": "papers/email-2026-11-02.html",
-  "excel_path": "papers/nuclear-literature-database.xlsx",
-  "finished_at": "2026-11-02T10:15:24+09:00"
+  "started_at": "2026-11-04T17:53:47+09:00",
+  "status": "failed",
+  "error": "HTTPError: 404 Client Error: Not Found for url: https://api.crossref.org/journals/1873-7196/works?filter=from-created-date%3A2026-10-05%2Cuntil-created-date%3A2026-10-11&select=DOI%2Ctitle%2Cauthor%2Ccreated%2Cpublished-online%2Cpublished-print%2Cissued%2Ctype%2Cabstract%2CURL&rows=500&cursor=%2A&mailto=yhs0365%40snu.ac.kr",
+  "finished_at": "2026-11-04T17:53:50+09:00"
 }
