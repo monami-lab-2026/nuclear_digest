@@ -1,0 +1,302 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T08:31:56+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "DOE selects 28 projects for INFUSE awards",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-03/article-8553/doe-selects-28-projects-for-infuse-awards/",
+          "published": "2026-11-03T22:13:57+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.571,
+      "id": 0
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Fusion companies sign agreements during Japan-Germany meeting",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-03/article-8550/fusion-companies-sign-agreements-during-japangermany-meeting/",
+          "published": "2026-11-03T13:53:36+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.223,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Amentum and Kyoto Fusioneering sign MOU on fusion energy",
+          "publisher": "StreetInsider",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZUpRWWxHR1JSaWY2cFQxLUZ6akhycndCaHZJT3NHMzhRZUNxZFQ0SlZ6VnJLbEZIS1VpcVEzTElldXRieHJoU29ZQW4xcldjdEtjZEVBRVNpZDVaa0RtX19hRDZTbEhuMENMaV9tZWdWYlJXUWs5ZzY5LXBWaUVUVUFGSmNKRmpoS0h3VGVTaWVBQ1JVWDZRVlVHekItZ25FQkZEbU5XTWR5S0l4SmIzel9DMk1TQQ?oc=5",
+          "published": "2026-11-03T13:32:12+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        },
+        {
+          "title": "Amentum partners with Kyoto Fusioneering on fusion energy",
+          "publisher": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTjVwTWtVTWNVdXF2eno2eEt3bC10d3RGd0FHNFVSMUg3YlZZQ3VxZExEUW5WbHZ0a20tQlpPeWZOLVNRU09wN096ZHRESkV4aFp3VkI0MklmTWp1TnNESU5ILUs0RzllMmREbFFCZF9PS0pHelVITU5tTGNUcFZDNjJyLWFoUTNaRkRxZWhiWExKSnZSakNmSzNGaGQtUjQzMWplRzEtUHpZQ3VVcklnNmoyVDM?oc=5",
+          "published": "2026-11-03T14:16:24+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 1.239,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Freemelt secures ITER-related qualification project from Alsymex",
+          "publisher": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRGNzZi1pcFlJVEdrMEwtZFZRTW55cFh0Y1FpVC1tY1FQNkNDaWRpMEFiM0xtaktGUnNpeWFaMDIxOERLMzdreHlqaFdPLU9vT1FMT0wySDBub2VzeHlPYW5mLVZRYThvU2hOcVlEMkJQOTVzbTlDdmFvSDVtamNLRnp2RVNTbVZUcE1mQ1FsZnRhbVcyeFVkdmhaMkEzamw0R1QyOFNFdFlwQkcxUlczOG4waUdxejdPczRBem5ZTTZTVFN1U2JEbnRn?oc=5",
+          "published": "2026-11-04T07:18:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.949,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "인공태양 관련주에 러브콜…SFA·비츠로테크 상승에 핵융합 테마 주목",
+          "publisher": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85VUFibk5YUmpEZTZNVldYRUFIbWNFZS1CV0xhaXJEcTBfOTAtMFlJalVmQnpDMUVWMENqeEJteVpyMlE3d2lsUUNScmxVYkZhdDRmMlFsYWZLaWo4VFdkRXhNSzdKTHZ5c094UXM5Z1JQN3poTFlj0gF3QVVfeXFMTzlVQWJuTlhSakRlNk1WV1hFQUhtY0VlLUJXTGFpckRxMF85MC0wWUlqVWZCekMxRVYwQ2p4Qm15WnIyUTd3aWxRQ1JybFViRmF0NGYyUWxhZktpajhUV2RFeE1LN0pMdnlzT3hRczlnUlA3emhMWWM?oc=5",
+          "published": "2026-11-04T06:01:35+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.896,
+      "id": 4
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "윤시우 핵융합연 부원장 \"K-문샷 성공하려면 PD에 책임·권한 줘야\"",
+          "publisher": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90T3VELWpkcmZDODE0dDNJeDZVTDJXV3QzWW9la0Vsa09ZSXRXYk9lMXJXMkI1M3ZWMXM2MjNNRHFxc2hzRzZoa1hJaGpFZWtmYWlyV3VB?oc=5",
+          "published": "2026-11-04T04:27:01+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.83,
+      "id": 5
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "플라즈마 6000만도 달군다… 영국 UKAEA, 핵융합 MAST 업그레이드 12톤 빔 박스 안착",
+          "publisher": "https://www.2news.co.kr/",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBic0RQVDZjazhaVXV4TUdTV2c3VXVNWnJ4R0c0WHhEak93cWQ1UW5LRVAyamd5QnJZeDQ1MXhVZmtIYnJnVFJlOGgzR1hPLTlGN3NkNjljalRFQ0hWVWpBNE9Md3BONTgw?oc=5",
+          "published": "2026-11-04T03:05:48+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.774,
+      "id": 6
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "'1.2조 나주 인공태양' 예타 5일 발표…과기부 사업부지 조정",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyeUQwWHgwNHFJenZtUzJvbmxfOEk5V3RhTUcyNlJvbDB3c3VOMHdoQTlCVUQzTXlaZmpNNzFWYWdsVWhWOFJEaGw5Rjl6VkxkMmZJRXVtck01d3JtN3JLWkRTRlY3eVljd3oxRFBiMEdDWDdQV1g2WtIBeEFVX3lxTFAyeUQwWHgwNHFJenZtUzJvbmxfOEk5V3RhTUcyNlJvbDB3c3VOMHdoQTlCVUQzTXlaZmpNNzFWYWdsVWhWOFJEaGw5Rjl6VkxkMmZJRXVtck01d3JtN3JLWkRTRlY3eVljd3oxRFBiMEdDWDdQV1g2Wg?oc=5",
+          "published": "2026-11-04T01:35:02+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.711,
+      "id": 7
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "일본·독일, 핵융합 상용화 동맹…핵심기술·공급망 선점 나섰다",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mV2RJdGxDWXJpako2YmNqZENoa1daZ1hpOF9SSUxqaEd2Qm1fMmw4ck1XZWJaVmRLQkJ3bm1nWHpWbnd6dmFra25ZbGZkOGo0dXJlcng5NDlpMHJPSUpXZ3RUb0s?oc=5",
+          "published": "2026-11-03T23:19:42+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.617,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "DOE Announces $8.5M for Fusion Energy Public-Private Partnerships",
+          "publisher": "HPCwire",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXNTV2tmMXRweUFLcVhEVG1ZLVpEV2Zzdk1acDBxZG5LMFpwR0htQTBPV250cGdKdTFJUkdSY29vbE9ydGhaemt3Zk5Pd3J6TlJSZWtQVmE2UmhKZkhZR2NWekJKbmRiX2lyemxkX1Rza0VSQkZ6bmdJbkJabmtqWjcxNVBSYUwyOWdfYVZydGRoRkY3bUFJSmEtUmNybDZENHBCUQ?oc=5",
+          "published": "2026-11-03T21:54:20+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.557,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Nuclear fusion developing as new energy source",
+          "publisher": "Odessa American",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT0RwdG1mRjdvTlRuU1VKUDhHSWNDdkhLeXRhdmxQRk45eVBKTWJhTFBObHM1bnFpMlFYcGNHSzhSaF9LS3ZiSkhkQjk5WEF2dlFoMGFqYzVVZjg2MG5YdTdMb2phVFRUcE1RN1dfM0Y5RXVlZFRFZ3Q3dmRSalIzNGNLWks1dw?oc=5",
+          "published": "2026-11-03T17:29:50+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.374,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Fusion energy planning consultation misses the mark, says ESNZ Committee",
+          "publisher": "Wired Gov",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPekJIWE0zcW0xa2djY01fNDZIUmJDMjBTc242VHlBQkpRd3ZmNS0tWmRaN3hySUlRNFVNOU9PUklMaG5QeFI3cVhRazJaZHdyaDJYUlBfTDBRcm1SWTVHQzFmeklCZkNiRHJRQ0k5Zng5U09NU0ZFZ3pOeENOS19aaXlHSWY0ckhya2ljdkN0Vno3WEpiak5RU1pJb1Zua0QwZTVJRVUxbENybF9LLUhGWnBreEZ4R0EwMUY5WTNxOG5ITEVVNjZMV0s1Y0xUT2tTLUF2cw?oc=5",
+          "published": "2026-11-03T16:22:24+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.327,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Amentum partners with Kyoto Fusioneering on fusion energy By Investing.com",
+          "publisher": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbUZsd2NyUHNjMWd6ZG9jdkJEdjR4aDBtMEhtSnZFb0Q2UC1TUmFMNXhqY3F6RDNCZjczN3BZckRSbm5QalJ4dmtncXJZMGlEandySkI3VWFqcFVOc3BfaDBzQkhrcHdMTXFJSVAwSUlFaDMzeUxkMjdQQUplN0ljMWFpVTI1Q2lsRjdNZGk5VHN6Zmp3TDFycTl0cm1hb0pDM3ZLeWszY1lqX2EwQkJPaDJYVTZHVjlCT2c?oc=5",
+          "published": "2026-11-03T15:52:21+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.306,
+      "id": 12
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "Amentum, Kyoto Fusioneering와 핵융합 에너지 상용화 협력",
+          "publisher": "Investing.com 한국어",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kb045LUZCMjdhRzdYLVpHY1p0SEVLWms5UkR5ZG1Ec1RkdmVxb1dtMzh5VW85WFQ0cno1YzZuRnllbjBiNGhZQWZpVWwwSVM5NnEtR3c5TnBobmNBejJpTWZpQ0EyZ010dlZYdEJKRmk?oc=5",
+          "published": "2026-11-03T13:37:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.212,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "US fusion reactor could unlock 24/7 power using helicon current drive",
+          "publisher": "Interesting Engineering",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORFN5LWlZQWhDT1NwZ3UzcnNmdk95T0hYdEYtdWpHeG1wcEVvdW9aaU53dTVJZmJabnFOREZGckFnb3JYN1dHTWUzX2FYV1Z3a040ajNxeVU1eTFrazZfdDJJWGxCV25aRDIycXFRZjB3MUlhVkdLS1lIcjNxVi1mZDhRRQ?oc=5",
+          "published": "2026-11-03T13:03:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.188,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Kyoto Fusioneering and Focused Energy Join Forces to Advance Laser Fusion Power Plant Engineering Between Japan and Germany",
+          "publisher": "01net",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS20zUjdNRTZiQy0tZ1hfajl5WGNiUDNJcTJTY2IyUURxY2pNWnFKbUtHalg4YURVTHN2d3JXNV9tT2c0aF93eDUwMDZVMVRnNG91emhZSlpsMkVhZ2c1bmpobkx6bUg1cmZTYUZocGpibUotVURaZHZOc0xZM0JCdUJsT1lfX0xsenZjUkl1LWVld0FRaVlpaThRRzl3Q01qRC1IOGttejdyY3hDeFg1cUxweno3VGY3ZFdKRmdtS1I0V3hITHBWSS1LN2FVRjNqNDU1UWtEanZTekFQeVE?oc=5",
+          "published": "2026-11-03T09:00:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.02,
+      "id": 15
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "US commits $8.5m to accelerate commercial fusion energy development",
+          "publisher": "Innovation News Network",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWkJVZ3YwUFNiS3drNEdsOHpxNWdSYUEwSW9QLVQ5U1NFSUFOWmlyZDhybnE1V1JlMnhCX3NlNnV1OGdvbEhqOC1xY2xxWG5JazNoRXpQWFFiQWhqY2g4Q29xckNxYmpUOW1nZjRtbElyQ3ZNUkF4bEJNc0xGSmpGd3p6R3JxeWlXUjZUcEZLYzE3Y2ZUZVgxMGtaYWoyeGRq?oc=5",
+          "published": "2026-11-03T08:41:08+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.006,
+      "id": 16
+    }
+  ],
+  "feeds": {
+    "gnews-ko-fusion": {
+      "ok": true,
+      "entries": 6,
+      "kept": 6
+    },
+    "gnews-en-fusion": {
+      "ok": true,
+      "entries": 16,
+      "kept": 10
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 49,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 2
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    }
+  }
+}
