@@ -8,7 +8,26 @@ docs/news/dates.json           available dates (for other tools and the home pag
 import json
 from datetime import date, datetime
 
+from ..config import ROOT
 from .common import DAYS_DIR, KST, SETTINGS, SITE, SITE_DIR, TOPIC, date_label, read_json, write_json
+
+TOPICS = [("news", "원자력"), ("fusion", "핵융합")]  # sections shown as tabs on the 오늘의 뉴스 pages
+
+
+def topic_switch(root, day=None, archive=False):
+    """원자력 | 핵융합 tabs. On a day page the other tab opens the same date when that section has it."""
+    links = []
+    for key, label in TOPICS:
+        if archive:
+            href = f"{root}{key}/archive.html"
+        elif day and (ROOT / "data" / key / "days" / f"{day}.json").exists():
+            href = f"{root}{key}/days/{day}.html"
+        else:
+            href = f"{root}{key}/index.html"
+        current = ' aria-current="page"' if key == TOPIC else ""
+        links.append(f'<a href="{href}"{current}>{label}</a>')
+    return f'<nav class="topic-switch" aria-label="뉴스 분야">{"".join(links)}</nav>'
+
 from ..site_theme import esc, head, page_header, site_footer, site_header
 
 NEWS_CSS = """
@@ -26,6 +45,11 @@ NEWS_CSS = """
 .day-nav .spacer{flex:1}
 .day-msg{flex-basis:100%;margin:0;font-size:.8125rem;color:var(--color-accent)}
 .day-msg[hidden]{display:none}
+.topic-switch{display:inline-flex;margin:0 0 1.25rem;border:1px solid var(--color-line-strong)}
+.topic-switch a{padding:.6rem 1.2rem;font-size:.9375rem;font-weight:600;text-decoration:none;color:var(--color-neutral-600)}
+.topic-switch a+a{border-left:1px solid var(--color-line-strong)}
+.topic-switch a:hover{color:var(--color-accent)}
+.topic-switch a[aria-current]{background:var(--color-accent);color:#fff}
 .filters{display:flex;flex-wrap:wrap;gap:.5rem;margin:0 0 1.5rem}
 .story{padding:2rem 0;border-top:1px solid var(--color-line)}
 .story:first-of-type{border-top:1px solid var(--color-line-strong)}
@@ -206,7 +230,7 @@ def render_day(record, dates, prefix, canonical=""):
     lead = esc(record.get("overview")) if record.get("overview") else (
         SETTINGS.get("lead", "원자력공학을 배우는 학생을 위해 국내외 원자력 뉴스를 매일 아침 골라, 무슨 일이 있었는지와 공학적으로 왜 중요한지를 쉬운 말로 정리합니다.")
     )
-    body = [day_nav(record["date"], dates, prefix), engine_notice(record)]
+    body = [topic_switch(prefix + "../", record["date"]), day_nav(record["date"], dates, prefix), engine_notice(record)]
     body.append(
         '<div class="stats">'
         f'<div><strong>{len(stories)}</strong><span>오늘의 해설 뉴스</span></div>'
@@ -237,7 +261,7 @@ def render_day(record, dates, prefix, canonical=""):
     return (
         f'<!doctype html><html lang="ko"><head>{head(title, f"{SETTINGS['reader']}를 위한 국내외 {SETTINGS['label']} 뉴스 해설 " + record["date"], NEWS_CSS, root)}'
         f'{canonical_tag}</head><body>'
-        f'{site_header(TOPIC, root)}'
+        f'{site_header("news", root)}'
         f'{page_header(SETTINGS["eyebrow"] + " · " + esc(date_label(day)), f"오늘의 {SETTINGS['label']} 뉴스", lead)}'
         f'<main class="page"><div class="container-page">{"".join(body)}</div></main>{site_footer("news", root, credit=bool(canonical))}</body></html>'
     )
@@ -263,9 +287,9 @@ def render_archive(days):
     body = "".join(blocks) or '<p class="notice">아직 쌓인 브리핑이 없습니다.</p>'
     return (
         f'<!doctype html><html lang="ko"><head>{head(f"날짜별 모아보기 | {SETTINGS['label']} 뉴스 브리핑 | {SITE['title']}", f"지난 {SETTINGS['label']} 뉴스 브리핑 전체 목록", NEWS_CSS, "../")}'
-        f'</head><body>{site_header("news-archive" if TOPIC == "news" else TOPIC, "../")}'
+        f'</head><body>{site_header("news-archive", "../")}'
         f'{page_header("Archive", "날짜별 모아보기", f"지금까지 쌓인 브리핑 {len(dates)}일치입니다. 날짜를 누르면 그날의 해설로 갑니다.")}'
-        f'<main class="page"><div class="container-page">{body}</div></main>{site_footer("news", "../")}</body></html>'
+        f'<main class="page"><div class="container-page">{topic_switch("../", archive=True)}{body}</div></main>{site_footer("news", "../")}</body></html>'
     )
 
 
