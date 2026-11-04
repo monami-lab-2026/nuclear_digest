@@ -616,7 +616,20 @@
     "Monte Carlo": "몬테카를로",
     "neutronics": "중성자 해석",
     "decay heat": "붕괴열",
-    "spent fuel": "사용후핵연료"
+    "spent fuel": "사용후핵연료",
+    "tokamak": "토카막",
+    "stellarator": "스텔러레이터",
+    "divertor": "디버터",
+    "breeding blanket": "증식 블랭킷",
+    "blanket": "블랭킷",
+    "plasma-facing": "플라즈마 대향",
+    "fusion": "핵융합",
+    "edge localized mode": "경계 국재 모드(ELM)",
+    "disruption": "플라즈마 붕괴(disruption)",
+    "neutral beam injection": "중성빔 입사",
+    "first wall": "제1벽",
+    "runaway electron": "폭주 전자",
+    "gyrokinetic": "자이로운동론적"
   },
   "translation_postfix": {
     "열유압": "열수력",
@@ -746,25 +759,37 @@
     ],
     "topics": {
       "관성밀폐·레이저": [
-        "inertial",
-        "laser",
+        "inertial confinement",
+        "inertial fusion",
+        "laser fusion",
+        "laser-driven fusion",
+        "laser driven",
+        "direct drive",
+        "direct-drive",
+        "indirect drive",
+        "indirect-drive",
+        "hohlraum",
+        "capsule",
         "implosion",
         "ignition",
         "z-pinch",
-        "pinch",
         "icf"
       ],
       "자석·초전도": [
-        "magnet",
+        "magnets",
+        "magnet system",
+        "magnet coil",
         "superconduct",
         "hts",
         "rebco",
         "nb3sn",
         "quench",
         "coil",
+        "tf coil",
+        "toroidal field coil",
+        "central solenoid",
         "cryogenic",
-        "toroidal field",
-        "central solenoid"
+        "conductor"
       ],
       "가열·전류구동": [
         "heating",
@@ -789,8 +814,7 @@
         "pbli",
         "lead-lithium",
         "permeation",
-        "isotope separation",
-        "deuterium"
+        "isotope separation"
       ],
       "디버터·대향재료·재료": [
         "divertor",
@@ -807,6 +831,25 @@
         "coating",
         "hydrogen retention",
         "helium"
+      ],
+      "플라즈마 물리·밀폐": [
+        "turbulence",
+        "mhd",
+        "magnetohydrodynamic",
+        "instability",
+        "disruption",
+        "edge localized",
+        "elm",
+        "pedestal",
+        "equilibrium",
+        "runaway",
+        "gyrokinetic",
+        "plasma transport",
+        "energy confinement",
+        "confinement time",
+        "h-mode",
+        "l-h transition",
+        "scrape-off layer"
       ],
       "진단·제어·AI": [
         "diagnostic",
@@ -837,22 +880,6 @@
         "mcnp",
         "openmc",
         "licensing"
-      ],
-      "플라즈마 물리·밀폐": [
-        "confinement",
-        "turbulence",
-        "mhd",
-        "magnetohydrodynamic",
-        "instability",
-        "disruption",
-        "edge localized",
-        "elm",
-        "pedestal",
-        "equilibrium",
-        "runaway",
-        "gyrokinetic",
-        "plasma transport",
-        "energy confinement"
       ],
       "설계·원격유지보수·공학": [
         "design",
@@ -914,10 +941,11 @@
         "monte carlo"
       ],
       "자석·초전도": [
-        "magnet",
+        "magnets",
         "superconduct",
         "hts",
-        "quench"
+        "quench",
+        "coil"
       ],
       "Machine Learning·디지털트윈": [
         "machine learning",

@@ -40,7 +40,7 @@ SETTINGS = load_settings()
 #   nuclear: the nuclear-engineering journals in "journals" (everything they publish)
 #   fusion:  the journals in fusion.journals, plus papers in the nuclear journals that match fusion.terms
 # Topic rules differ per section. use_domain() swaps the section's keys into SETTINGS while a page is built.
-_DOMAIN_KEYS = ("journals", "topics", "fallback_topic", "trend_keywords", "watchlists")
+_DOMAIN_KEYS = ("journals", "topics", "fallback_topic", "trend_keywords", "watchlists", "rank_topics")
 _FUSION = SETTINGS.get("fusion", {})
 DOMAINS = {
     "nuclear": {key: SETTINGS[key] for key in _DOMAIN_KEYS if key in SETTINGS},
@@ -50,6 +50,7 @@ DOMAINS = {
         "fallback_topic": _FUSION.get("fallback_topic", "기타 핵융합"),
         "trend_keywords": _FUSION.get("trend_keywords", SETTINGS.get("trend_keywords", {})),
         "watchlists": _FUSION.get("watchlists", SETTINGS["watchlists"]),
+        "rank_topics": True,
     },
 }
 DOMAIN_LABELS = {"nuclear": "원자력", "fusion": "핵융합"}
@@ -162,6 +163,13 @@ def topics_for(record):
     if _ACTIVE["domain"] is None and record.get("journal") in FUSION_JOURNALS:
         rules = DOMAINS["fusion"]
     found = [name for name, terms in rules["topics"].items() if matches_any(text, terms)]
+    if rules.get("rank_topics") and len(found) > 1:
+        # Rank by evidence: distinct keywords in the title count 3, in the abstract 1 (ties keep config order).
+        title = (record.get("title") or record.get("title_en") or "").lower()
+        def score(name):
+            terms = rules["topics"][name]
+            return sum(3 if term_hit(title, t.lower()) else 1 for t in terms if term_hit(text, t.lower()))
+        found.sort(key=lambda name: -score(name))
     return found or [rules["fallback_topic"]]
 
 
