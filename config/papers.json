@@ -692,5 +692,371 @@
     "연료 펠릿": "핵연료 소결체",
     "단면 생성": "단면적 생성",
     "다중 그룹": "다군"
+  },
+  "new_journal_backfill_weeks": 4,
+  "_new_journal_backfill_weeks": "저널을 새로 추가하면 이미 수집한 주차 중 최근 N주만 그 저널을 다시 모읍니다(전체를 하려면 0).",
+  "fusion": {
+    "_설명": "핵융합 논문 구역. journals = 핵융합 전문 저널(전부 수집), terms = 원자력 저널 논문 중 핵융합으로도 보여 줄 키워드(제목·초록). topics·watchlists·trend_keywords 는 핵융합 화면 전용.",
+    "journals": {
+      "Fusion Engineering and Design": "0920-3796,1873-7196",
+      "Nuclear Fusion": "0029-5515,1741-4326",
+      "Fusion Science and Technology": "1536-1055,1943-7641",
+      "Journal of Fusion Energy": "0164-0313,1572-9591",
+      "Plasma Physics and Controlled Fusion": "0741-3335,1361-6587",
+      "Nuclear Materials and Energy": "2352-1791"
+    },
+    "terms": [
+      "fusion reactor",
+      "fusion reactors",
+      "fusion energy",
+      "fusion power",
+      "fusion plant",
+      "fusion device",
+      "fusion facility",
+      "fusion neutron",
+      "fusion blanket",
+      "fusion material",
+      "fusion materials",
+      "fusion system",
+      "fusion pilot",
+      "nuclear fusion",
+      "fusion-fission",
+      "fusion fission",
+      "tokamak",
+      "stellarator",
+      "iter",
+      "divertor",
+      "plasma-facing",
+      "plasma facing",
+      "breeding blanket",
+      "tritium breeding",
+      "deuterium-tritium",
+      "d-t fusion",
+      "inertial confinement",
+      "magnetic confinement",
+      "cfetr",
+      "kstar",
+      "jt-60sa",
+      "wendelstein",
+      "spherical torus",
+      "spherical tokamak",
+      "ifmif",
+      "demo reactor",
+      "eu-demo"
+    ],
+    "topics": {
+      "관성밀폐·레이저": [
+        "inertial",
+        "laser",
+        "implosion",
+        "ignition",
+        "z-pinch",
+        "pinch",
+        "icf"
+      ],
+      "자석·초전도": [
+        "magnet",
+        "superconduct",
+        "hts",
+        "rebco",
+        "nb3sn",
+        "quench",
+        "coil",
+        "cryogenic",
+        "toroidal field",
+        "central solenoid"
+      ],
+      "가열·전류구동": [
+        "heating",
+        "current drive",
+        "neutral beam",
+        "nbi",
+        "ecrh",
+        "electron cyclotron",
+        "ion cyclotron",
+        "icrf",
+        "lower hybrid",
+        "gyrotron",
+        "helicon",
+        "antenna"
+      ],
+      "블랭킷·삼중수소·연료주기": [
+        "blanket",
+        "breeding",
+        "tritium",
+        "fuel cycle",
+        "lithium",
+        "pbli",
+        "lead-lithium",
+        "permeation",
+        "isotope separation",
+        "deuterium"
+      ],
+      "디버터·대향재료·재료": [
+        "divertor",
+        "plasma-facing",
+        "first wall",
+        "tungsten",
+        "material",
+        "irradiation",
+        "damage",
+        "erosion",
+        "steel",
+        "eurofer",
+        "alloy",
+        "coating",
+        "hydrogen retention",
+        "helium"
+      ],
+      "진단·제어·AI": [
+        "diagnostic",
+        "measurement",
+        "spectroscop",
+        "interferomet",
+        "thomson",
+        "bolometer",
+        "control",
+        "machine learning",
+        "deep learning",
+        "neural",
+        "artificial intelligence",
+        "reinforcement learning",
+        "real-time"
+      ],
+      "중성자·차폐·안전": [
+        "neutron",
+        "neutronics",
+        "shielding",
+        "shield",
+        "activation",
+        "dose",
+        "safety",
+        "accident",
+        "radiation",
+        "monte carlo",
+        "mcnp",
+        "openmc",
+        "licensing"
+      ],
+      "플라즈마 물리·밀폐": [
+        "confinement",
+        "turbulence",
+        "mhd",
+        "magnetohydrodynamic",
+        "instability",
+        "disruption",
+        "edge localized",
+        "elm",
+        "pedestal",
+        "equilibrium",
+        "runaway",
+        "gyrokinetic",
+        "plasma transport",
+        "energy confinement"
+      ],
+      "설계·원격유지보수·공학": [
+        "design",
+        "remote handling",
+        "maintenance",
+        "vacuum vessel",
+        "cooling",
+        "thermal",
+        "heat flux",
+        "structural",
+        "manufactur",
+        "assembly",
+        "power plant",
+        "cost",
+        "integration"
+      ]
+    },
+    "fallback_topic": "기타 핵융합",
+    "watchlists": {
+      "열수력·냉각": [
+        "thermal",
+        "hydraulic",
+        "heat transfer",
+        "heat flux",
+        "coolant",
+        "cooling",
+        "helium cooled",
+        "water cooled",
+        "flow",
+        "two-phase",
+        "boiling"
+      ],
+      "블랭킷·삼중수소": [
+        "blanket",
+        "tritium",
+        "breeding",
+        "lithium",
+        "fuel cycle"
+      ],
+      "디버터·대향재료": [
+        "divertor",
+        "plasma-facing",
+        "first wall",
+        "tungsten"
+      ],
+      "재료·조사손상": [
+        "material",
+        "irradiation",
+        "damage",
+        "steel",
+        "alloy",
+        "embrittlement"
+      ],
+      "중성자·차폐": [
+        "neutron",
+        "neutronics",
+        "shielding",
+        "activation",
+        "monte carlo"
+      ],
+      "자석·초전도": [
+        "magnet",
+        "superconduct",
+        "hts",
+        "quench"
+      ],
+      "Machine Learning·디지털트윈": [
+        "machine learning",
+        "deep learning",
+        "neural",
+        "artificial intelligence",
+        "reinforcement learning",
+        "digital twin",
+        "physics-informed",
+        "surrogate"
+      ]
+    },
+    "trend_keywords": {
+      "토카막": {
+        "en": "Tokamak",
+        "terms": [
+          "tokamak",
+          "tokamaks"
+        ]
+      },
+      "스텔러레이터": {
+        "en": "Stellarator",
+        "terms": [
+          "stellarator",
+          "stellarators",
+          "wendelstein"
+        ]
+      },
+      "ITER": {
+        "en": "ITER",
+        "terms": [
+          "iter"
+        ]
+      },
+      "DEMO": {
+        "en": "DEMO",
+        "terms": [
+          "demo",
+          "eu-demo",
+          "cfetr",
+          "k-demo"
+        ]
+      },
+      "블랭킷": {
+        "en": "Breeding Blanket",
+        "terms": [
+          "breeding blanket",
+          "blanket",
+          "blankets"
+        ]
+      },
+      "삼중수소": {
+        "en": "Tritium",
+        "terms": [
+          "tritium"
+        ]
+      },
+      "디버터": {
+        "en": "Divertor",
+        "terms": [
+          "divertor",
+          "divertors"
+        ]
+      },
+      "텅스텐": {
+        "en": "Tungsten",
+        "terms": [
+          "tungsten"
+        ]
+      },
+      "고온초전도": {
+        "en": "HTS",
+        "terms": [
+          "hts",
+          "high-temperature superconduct",
+          "high temperature superconduct",
+          "rebco"
+        ]
+      },
+      "플라즈마 붕괴": {
+        "en": "Disruption",
+        "terms": [
+          "disruption",
+          "disruptions",
+          "runaway electron",
+          "runaway electrons"
+        ]
+      },
+      "ELM": {
+        "en": "ELM",
+        "terms": [
+          "elm",
+          "elms",
+          "edge localized mode",
+          "edge-localized mode"
+        ]
+      },
+      "중성빔": {
+        "en": "NBI",
+        "terms": [
+          "neutral beam",
+          "nbi"
+        ]
+      },
+      "전자 사이클로트론": {
+        "en": "ECRH",
+        "terms": [
+          "electron cyclotron",
+          "ecrh",
+          "eccd",
+          "gyrotron"
+        ]
+      },
+      "원격유지보수": {
+        "en": "Remote Handling",
+        "terms": [
+          "remote handling",
+          "remote maintenance"
+        ]
+      },
+      "관성밀폐": {
+        "en": "ICF",
+        "terms": [
+          "inertial confinement",
+          "icf",
+          "laser fusion",
+          "implosion"
+        ]
+      },
+      "인공지능": {
+        "en": "AI · ML",
+        "terms": [
+          "machine learning",
+          "deep learning",
+          "neural network",
+          "artificial intelligence",
+          "reinforcement learning"
+        ]
+      }
+    }
   }
 }

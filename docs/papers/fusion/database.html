@@ -1,0 +1,362 @@
+<!doctype html>
+<html lang="ko"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>핵융합 문헌 누적 데이터베이스 · 원자력 공부 노트</title><meta name="description" content="핵융합 주요 12개 저널 누적 논문 데이터베이스, 검색·필터·주간 추세">
+<link rel="manifest" href="../../manifest.webmanifest"><meta name="theme-color" content="#1b2a41"><link rel="icon" href="../../icon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="../../icons/apple-touch-icon.png"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="원자력 노트"><meta name="apple-mobile-web-app-status-bar-style" content="default"><script>if('serviceWorker' in navigator&&(location.protocol==='https:'||location.hostname==='localhost')){addEventListener('load',function(){navigator.serviceWorker.register('../../sw.js').catch(function(){});});}</script>
+<script>(function(){try{var v=localStorage.getItem('nuclear-digest-theme');var d=v==='dark'||(v!=='light'&&window.matchMedia('(prefers-color-scheme: dark)').matches);document.documentElement.dataset.theme=d?'dark':'light'}catch(e){document.documentElement.dataset.theme='light'}})();</script>
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+<style>
+:root{
+  --color-neutral-50:#f7f8fa;--color-neutral-100:#eef0f3;--color-neutral-200:#dcdfe4;--color-neutral-300:#c3c8d1;
+  --color-neutral-400:#9aa3b2;--color-neutral-500:#666d7b;--color-neutral-600:#4b5462;--color-neutral-700:#3c414b;
+  --color-neutral-800:#262b34;--color-neutral-900:#16181d;
+  --color-line:#dcdfe4;--color-line-strong:#c3c8d1;--color-surface:#f5f6f8;--color-surface-deep:#eef0f3;
+  --color-canvas:#ffffff;--color-card:#ffffff;--color-ink:#1b2a41;
+  --color-navy:#1b2a41;--color-navy-deep:#121c2b;--color-navy-mid:#2e4365;
+  --color-accent:#007a45;--color-accent-mid:#00a35c;--color-accent-soft:#d6ffed;
+  --veil-line:rgba(27,42,65,.045);
+  --chart:#2e4365;
+  --s1:#2a78d6;--s2:#eb6834;--s3:#1baf7a;--s4:#eda100;--s5:#e87ba4;--s6:#008300;--s7:#4a3aa7;--s8:#e34948;--s-other:#9aa3b2;
+  --font-sans:"Pretendard Variable",Pretendard,-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Segoe UI",Roboto,"Noto Sans KR","Malgun Gothic",sans-serif;
+  --ease:cubic-bezier(.16,1,.3,1);
+}
+:root[data-theme="dark"]{color-scheme:dark;
+  --color-neutral-50:#1a1f28;--color-neutral-100:#212734;--color-neutral-200:#2a313d;--color-neutral-300:#444e5d;
+  --color-neutral-400:#7f8a9c;--color-neutral-500:#98a2b3;--color-neutral-600:#b4bdca;--color-neutral-700:#c9d1dc;
+  --color-neutral-800:#dde3ea;--color-neutral-900:#eef1f5;
+  --color-line:#2a313d;--color-line-strong:#3a4452;--color-surface:#1b212b;--color-surface-deep:#222a35;
+  --color-canvas:#0f1319;--color-card:#161b23;--color-ink:#e9eef6;
+  --color-accent:#2ce68f;--color-accent-mid:#00c46f;--color-accent-soft:#0e2f22;
+  --veil-line:rgba(255,255,255,.05);
+  --chart:#98a2b3;
+  --s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#c98500;--s5:#d55181;--s6:#008300;--s7:#9085e9;--s8:#e66767;--s-other:#7f8a9c;
+}
+
+*{box-sizing:border-box}
+html{scroll-padding-top:5rem;-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--color-canvas);color:var(--color-neutral-900);font-family:var(--font-sans);
+  line-height:1.6;-webkit-font-smoothing:antialiased;word-break:keep-all;overflow-wrap:break-word}
+::selection{background:var(--color-navy);color:#fff}
+:focus-visible{outline:2px solid var(--color-accent);outline-offset:3px;border-radius:2px}
+a{color:inherit}
+time,.tabular{font-variant-numeric:tabular-nums}
+.container-page{width:100%;max-width:72rem;margin-inline:auto;padding-inline:1.25rem}
+@media(min-width:768px){.container-page{padding-inline:2rem}}
+@media(min-width:1280px){.container-page{padding-inline:2.5rem}}
+.eyebrow{font-size:.6875rem;line-height:1;letter-spacing:.18em;text-transform:uppercase;font-weight:500;color:var(--color-neutral-500);margin:0}
+.eyebrow-accent{color:var(--color-accent)}
+.eyebrow-mark::before{content:"";display:inline-block;width:2rem;height:3px;margin-right:.75rem;vertical-align:.2em;background:var(--color-accent)}
+.grid-veil-light{background-image:linear-gradient(to right,var(--veil-line) 1px,transparent 1px),linear-gradient(to bottom,var(--veil-line) 1px,transparent 1px);background-size:34px 34px}
+.link-underline{text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px;
+  text-decoration-color:color-mix(in srgb,var(--color-accent) 45%,transparent);transition:text-decoration-color 150ms ease}
+.link-underline:hover{text-decoration-color:var(--color-accent)}
+.link-wipe{text-decoration:none;background-image:linear-gradient(var(--color-accent),var(--color-accent));background-repeat:no-repeat;
+  background-position:0 100%;background-size:0% 1.5px;transition:background-size 320ms var(--ease)}
+.link-wipe:hover,.group:hover .link-wipe{background-size:100% 1.5px}
+
+/* site header — same geometry as the homepage (h-16 / md:h-20, sticky, 85% canvas + blur) */
+.site-header{position:sticky;top:0;z-index:50;border-bottom:1px solid var(--color-line);
+  background:color-mix(in srgb,var(--color-canvas) 85%,transparent);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px)}
+.site-bar{display:flex;align-items:center;justify-content:space-between;gap:1rem;height:4rem}
+@media(min-width:768px){.site-bar{height:5rem}}
+.wordmark{display:flex;flex-direction:column;text-decoration:none;min-width:0}
+.wordmark b{font-size:.9375rem;line-height:1;font-weight:700;letter-spacing:.02em;color:var(--color-neutral-900)}
+.wordmark span{margin-top:.375rem;font-size:.6875rem;line-height:1;color:var(--color-neutral-500);white-space:nowrap}
+.site-nav{display:flex;align-items:center;gap:1.5rem}
+.site-nav a.item{position:relative;font-size:.875rem;font-weight:500;color:var(--color-neutral-600);text-decoration:none;padding:.25rem 0;white-space:nowrap}
+.site-nav a.item:hover{color:var(--color-neutral-900)}
+.site-nav a.item[aria-current="page"]{color:var(--color-neutral-900)}
+.site-nav a.item[aria-current="page"]::after{content:"";position:absolute;left:0;right:0;bottom:-.35rem;height:2px;background:var(--color-accent)}
+.site-nav .home{font-size:.75rem;color:var(--color-neutral-500);text-decoration:none;border:1px solid var(--color-line);padding:.45rem .7rem;white-space:nowrap}
+.site-nav .home:hover{color:var(--color-neutral-900);border-color:var(--color-line-strong)}
+.site-nav a.subscribe{font-size:.8125rem;font-weight:600;color:var(--color-accent);text-decoration:none;border:1px solid var(--color-accent);padding:.45rem .75rem;white-space:nowrap}
+.site-nav a.subscribe:hover,.site-nav a.subscribe[aria-current="page"]{background:var(--color-accent-soft)}
+.theme-toggle{display:inline-flex;align-items:center;justify-content:center;width:2rem;height:2rem;border:1px solid var(--color-line);
+  background:transparent;color:var(--color-neutral-600);cursor:pointer;padding:0}
+.theme-toggle:hover{color:var(--color-neutral-900);border-color:var(--color-line-strong)}
+.theme-toggle svg{width:15px;height:15px}
+.theme-toggle .sun{display:none}:root[data-theme="dark"] .theme-toggle .sun{display:block}:root[data-theme="dark"] .theme-toggle .moon{display:none}
+@media(max-width:767px){.site-bar{height:auto;padding-block:.75rem;flex-wrap:wrap}.site-nav{gap:1rem;flex-wrap:wrap;width:100%}
+  .site-nav .home{margin-left:auto}.wordmark span{white-space:normal}}
+
+/* page header (6-5): eyebrow, title, 64x4 accent bar, veil fading to the top-right */
+.page-head{position:relative;overflow:hidden;border-bottom:1px solid var(--color-line);padding:3rem 0 2.5rem}
+@media(min-width:768px){.page-head{padding:4rem 0 3rem}}
+.page-head .veil{position:absolute;inset:0;pointer-events:none;-webkit-mask-image:radial-gradient(90% 120% at 100% 0%,#000,transparent 65%);mask-image:radial-gradient(90% 120% at 100% 0%,#000,transparent 65%)}
+.page-head .inner{position:relative}
+.page-head h1{margin:1.25rem 0 0;max-width:48rem;font-size:1.875rem;line-height:1.25;font-weight:600;letter-spacing:-.02em;color:var(--color-ink);text-wrap:balance}
+@media(min-width:768px){.page-head h1{font-size:3rem}}
+.page-head .rule{display:block;margin-top:1.5rem;width:4rem;height:4px;background:var(--color-accent)}
+.page-head .lead{margin:1.5rem 0 0;max-width:42rem;font-size:.975rem;line-height:1.9;color:var(--color-neutral-700)}
+.page-head .lead b{font-weight:600;color:var(--color-ink)}
+
+/* building blocks */
+main.page{padding:2.5rem 0 5rem}
+.section{border-top:1px solid var(--color-line);padding:2.5rem 0}
+.section:first-child{border-top:0;padding-top:0}
+.sec-grid{display:grid;gap:1.5rem;grid-template-columns:minmax(0,1fr)}
+@media(min-width:900px){.sec-grid{grid-template-columns:repeat(12,minmax(0,1fr));gap:2.5rem}.sec-grid>.sec-side{grid-column:span 4}.sec-grid>.sec-body{grid-column:span 8;min-width:0}}
+.sec-side h2{margin:1rem 0 0;font-size:1.375rem;line-height:1.3;font-weight:600;letter-spacing:-.015em;color:var(--color-ink);text-wrap:balance}
+.sec-side p.note{margin:.75rem 0 0;font-size:.875rem;line-height:1.7;color:var(--color-neutral-600)}
+.stats{display:grid;gap:1px;border:1px solid var(--color-line);background:var(--color-line);grid-template-columns:repeat(3,minmax(0,1fr))}
+.stats>div{background:var(--color-card);padding:1.25rem 1.25rem 1.1rem}
+.stats strong{display:block;font-size:1.75rem;line-height:1.1;font-weight:600;letter-spacing:-.02em;color:var(--color-ink);font-variant-numeric:tabular-nums}
+.stats span{display:block;margin-top:.5rem;font-size:.75rem;color:var(--color-neutral-500)}
+.pill{display:inline-flex;align-items:center;gap:.4rem;border:1px solid color-mix(in srgb,var(--color-accent) 25%,transparent);background:var(--color-accent-soft);
+  border-radius:999px;padding:.3rem .65rem;font-size:.75rem;line-height:1;color:var(--color-neutral-700)}
+.chip{display:inline-flex;align-items:center;gap:.45rem;border:1px solid var(--color-line);background:var(--color-card);border-radius:999px;
+  padding:.45rem .8rem;font:inherit;font-size:.8125rem;line-height:1;color:var(--color-neutral-700);cursor:pointer;transition:border-color 150ms,color 150ms}
+.chip:hover{border-color:var(--color-accent);color:var(--color-accent)}
+.chip.active,.chip[aria-pressed="true"]{background:var(--color-navy);border-color:var(--color-navy);color:#fff}
+:root[data-theme="dark"] .chip.active,:root[data-theme="dark"] .chip[aria-pressed="true"]{background:var(--color-ink);border-color:var(--color-ink);color:var(--color-canvas)}
+.chip strong{font-weight:600;font-variant-numeric:tabular-nums}
+.chip[disabled]{opacity:.45;cursor:default}.chip[disabled]:hover{border-color:var(--color-line);color:var(--color-neutral-700)}
+.btn{display:inline-flex;align-items:center;border:1px solid var(--color-line);background:var(--color-card);color:var(--color-neutral-700);
+  padding:.55rem .85rem;font:inherit;font-size:.8125rem;cursor:pointer}
+.btn:hover{border-color:var(--color-line-strong);color:var(--color-neutral-900)}
+.caption{margin:.75rem 0 0;font-size:.75rem;line-height:1.7;color:var(--color-neutral-500)}
+.chart-note{margin:.75rem 0 0;font-size:.75rem;line-height:1.7;color:var(--color-neutral-500)}
+.chart-note strong{color:var(--color-neutral-700)}
+.site-footer{border-top:1px solid var(--color-line);padding:3.5rem 0}
+.site-footer .cols{display:grid;gap:2rem}
+@media(min-width:768px){.site-footer .cols{grid-template-columns:5fr 4fr 3fr}}
+.site-footer p{margin:0;font-size:.875rem;line-height:1.7;color:var(--color-neutral-600)}
+.site-footer .name{font-weight:700;letter-spacing:.02em;color:var(--color-neutral-900);margin-bottom:.75rem}
+.site-footer .eyebrow{margin-bottom:1rem}
+.site-footer a{color:var(--color-neutral-600)}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{transition-duration:.001ms!important;animation-duration:.001ms!important}}
+@media print{.site-header,.theme-toggle,.site-footer{display:none}}
+
+.topic-switch{display:inline-flex;margin:0 0 1.5rem;border:1px solid var(--color-line-strong)}
+.topic-switch a{padding:.6rem 1.2rem;font-size:.9375rem;font-weight:600;text-decoration:none;color:var(--color-neutral-600)}
+.topic-switch a+a{border-left:1px solid var(--color-line-strong)}
+.topic-switch a:hover{color:var(--color-accent)}
+.topic-switch a[aria-current]{background:var(--color-accent);color:#fff}
+
+.filters{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:.5rem;margin-bottom:.75rem}
+@media(max-width:640px){.filters{grid-template-columns:1fr 1fr}}
+.filters input,.filters select,.filters2 input[type=date],.filters2 select{width:100%;padding:.6rem .7rem;border:1px solid var(--color-line);border-radius:0;
+  background:var(--color-card);color:var(--color-neutral-800);font:inherit;font-size:.8125rem}
+.filters2{display:flex;flex-wrap:wrap;gap:.5rem .75rem;align-items:center;font-size:.8125rem;color:var(--color-neutral-600)}
+.filters2 input[type=date]{width:auto}.filters2 select{width:auto}
+.filters2 label{display:inline-flex;gap:.35rem;align-items:center}
+.kw-label{margin:0 0 .6rem;font-size:.8125rem;color:var(--color-neutral-600)}
+.kw-chips{display:flex;flex-wrap:wrap;gap:.45rem;margin:0 0 1.25rem}
+.kw-chips .chip small{font-size:.6875rem;opacity:.75;font-variant-numeric:tabular-nums}
+.kw-help{margin:.35rem 0 1.25rem;font-size:.75rem;color:var(--color-neutral-500)}
+.kw-help[hidden]{display:none}
+.qrow{display:grid;grid-template-columns:minmax(0,1fr) auto auto;gap:.5rem;margin-bottom:.5rem}
+.qrow input,.qrow select{padding:.6rem .7rem;border:1px solid var(--color-line);border-radius:0;background:var(--color-card);color:var(--color-neutral-800);font:inherit;font-size:.875rem}
+.qrow input{font-size:.9375rem}
+@media(max-width:640px){.qrow{grid-template-columns:1fr 1fr}.qrow input{grid-column:1/-1}}
+mark{background:color-mix(in srgb,var(--color-accent) 22%,transparent);color:inherit;padding:0 .1em}
+.date-head{margin:1.5rem 0 0;padding:.5rem 0;border-bottom:1px solid var(--color-line-strong);font-size:.8125rem;font-weight:600;color:var(--color-accent);font-variant-numeric:tabular-nums}
+.date-head small{margin-left:.5rem;font-weight:400;color:var(--color-neutral-500)}
+.status{margin:1rem 0 0;padding:.7rem 1rem;background:var(--color-accent-soft);border-left:3px solid var(--color-accent);font-size:.875rem;color:var(--color-neutral-800)}
+.bars{display:flex;align-items:flex-end;gap:.4rem;height:12rem;padding-top:1.25rem;border-bottom:1px solid var(--color-line-strong)}
+.bar{flex:1;min-width:.9rem;display:flex;flex-direction:column;justify-content:flex-end;align-items:center;height:100%;cursor:pointer;border:0;background:none;padding:0;font:inherit}
+.bar i{display:block;width:100%;max-width:2.4rem;background:var(--chart);border-radius:4px 4px 0 0;min-height:2px}
+.bar b{font-size:.6875rem;font-weight:600;color:var(--color-ink);margin-bottom:.2rem;font-variant-numeric:tabular-nums}
+.bar:hover i{background:var(--color-accent-mid)}.bar.on i{background:var(--color-accent)}
+.xlabels{display:flex;gap:.4rem}.xlabels span{flex:1;min-width:.9rem;text-align:center;font-size:.625rem;color:var(--color-neutral-500);white-space:nowrap;overflow:hidden;padding-top:.3rem}
+.heat-wrap{overflow-x:auto}table.heat{border-collapse:separate;border-spacing:2px;font-size:.75rem;width:100%}
+.heat th{font-weight:500;color:var(--color-neutral-500);font-size:.6875rem;padding:.15rem .3rem;white-space:nowrap;font-variant-numeric:tabular-nums}
+.heat th.row{text-align:left;color:var(--color-neutral-700);font-size:.75rem}
+.heat td{text-align:center;padding:.4rem .15rem;cursor:pointer;min-width:2.2rem;color:var(--color-ink);font-variant-numeric:tabular-nums}
+.heat td.hi{color:var(--color-canvas)}.heat td.z{color:var(--color-neutral-400);background:var(--color-surface)}
+.heat td:hover{outline:2px solid var(--color-accent);outline-offset:-2px}
+#list{border-top:1px solid var(--color-line-strong);margin-top:1rem}
+.paper{padding:1.2rem 0;border-bottom:1px solid var(--color-line)}
+.top{display:flex;flex-wrap:wrap;gap:.6rem;font-size:.75rem;color:var(--color-neutral-500);font-variant-numeric:tabular-nums}.top .jr{color:var(--color-neutral-700);font-weight:500}
+.top .oa{color:var(--color-accent);font-weight:500}
+.paper h3{margin:.4rem 0 .2rem;font-size:1rem;line-height:1.45;font-weight:600;letter-spacing:-.01em}.paper h3 a{color:var(--color-ink)}
+.ko{color:var(--color-neutral-700);font-size:.9rem;line-height:1.6}.au{color:var(--color-neutral-500);font-size:.75rem;margin-top:.3rem;line-height:1.7}
+.tags{margin-top:.5rem;display:flex;flex-wrap:wrap;gap:.35rem}
+details{margin-top:.5rem;font-size:.875rem}summary{cursor:pointer;color:var(--color-accent);font-size:.75rem}
+details p{margin:.5rem 0 0;line-height:1.9;color:var(--color-neutral-700);max-width:48rem}
+.pager{display:flex;justify-content:center;align-items:center;gap:.75rem;margin:1.5rem 0 0;font-size:.8125rem;color:var(--color-neutral-600)}
+.btn[disabled]{opacity:.4;cursor:default}
+.archive{display:grid;grid-template-columns:repeat(auto-fill,minmax(9rem,1fr));gap:1px;border:1px solid var(--color-line);background:var(--color-line)}
+.archive a{display:block;padding:.8rem 1rem;background:var(--color-card);color:var(--color-neutral-800);text-decoration:none;font-size:.875rem;font-variant-numeric:tabular-nums}
+.archive a:hover{color:var(--color-accent)}
+@media(max-width:760px){.filters{grid-template-columns:1fr 1fr}.filters input{grid-column:1/-1}}
+</style>
+</head><body>
+<header class="site-header"><div class="container-page site-bar">
+<a class="wordmark" href="../../index.html"><b>원자력 공부 노트</b><span>Nuclear Daily · 뉴스와 논문</span></a>
+<nav class="site-nav" aria-label="사이트 메뉴"><a class="item" href="../../index.html">홈</a><a class="item" href="../../news/index.html">오늘의 뉴스</a><a class="item" href="../../news/archive.html">뉴스 모아보기</a><a class="item" href="../../papers/index.html">이번 주 논문</a><a class="item" href="../../papers/database.html" aria-current=page>논문 DB</a><a class="item" href="../../jobs/index.html">취업</a>
+<a class="subscribe" href="../../install.html">앱 설치</a>
+<button type="button" class="theme-toggle" id="theme-toggle" aria-label="밝은 화면/어두운 화면 전환"><svg class="sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg><svg class="moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg></button></nav>
+</div></header>
+<section class="page-head"><div class="veil grid-veil-light" aria-hidden="true"></div>
+<div class="container-page inner"><p class="eyebrow eyebrow-mark eyebrow-accent">Literature Database</p>
+<h1>핵융합 문헌 누적 데이터베이스</h1><span class="rule" aria-hidden="true"></span><p class="lead"><b>4개 저널 · DOI 등록일 2026-08-03 ~ 2026-10-17</b> · DOI 기준 중복 제거. 검색·필터 결과는 CSV로, 전체 DB는 Excel로 내려받을 수 있습니다.</p></div></section>
+<main class="page"><div class="container-page">
+<nav class="topic-switch" aria-label="논문 분야"><a href="../../papers/database.html">원자력</a><a href="../../papers/fusion/database.html" aria-current="page">핵융합</a></nav>
+<section class="section"><div class="stats" style="grid-template-columns:repeat(auto-fit,minmax(9rem,1fr))"><div><strong>11</strong><span>누적 논문</span></div><div><strong>11</strong><span>수집 회차</span></div><div><strong>7</strong><span>주간 (DOI 등록일 기준)</span></div><div><strong>11</strong><span>초록 보유</span></div><div><strong>11</strong><span>Open Access</span></div><div><strong>100%</strong><span>국가 정보 보유</span></div></div></section>
+
+<section class="section sec-grid"><div class="sec-side"><p class="eyebrow">01</p><h2>주간 신규 논문 수</h2>
+<p class="note">DOI 등록일이 속한 주(월요일 시작). 막대를 누르면 그 주 논문만 아래 목록에 남습니다.</p></div>
+<div class="sec-body"><div class="bars" id="bars"></div><div class="xlabels" id="xlabels"></div></div></section>
+
+<section class="section sec-grid"><div class="sec-side"><p class="eyebrow">02</p><h2>주간 토픽 분포</h2>
+<p class="note">숫자는 논문 수, 색이 진할수록 그 주 전체에서 차지하는 비중이 큽니다. 한 논문이 여러 토픽에 해당하면 각각 집계됩니다. 칸을 누르면 해당 토픽·주간으로 필터합니다.</p></div>
+<div class="sec-body"><div class="heat-wrap"><table class="heat" id="heat"></table></div></div></section>
+
+<section class="section" id="search"><p class="eyebrow eyebrow-mark eyebrow-accent">Search</p>
+<h2 style="margin:1rem 0 1.25rem;font-size:1.375rem;font-weight:600;letter-spacing:-.015em;color:var(--color-ink)">논문 검색</h2>
+<p class="kw-label">관심 분야 키워드로 찾기 <small style="color:var(--color-neutral-500)">(config/site.json의 interests · 제목·초록 기준)</small></p>
+<div class="kw-chips" id="kw" role="group" aria-label="관심 분야 키워드"></div>
+<p class="kw-help" id="kwhelp" hidden></p>
+<div class="qrow">
+<input id="q" type="search" placeholder="키워드 검색 (여러 단어는 띄어쓰기, 구절은 &quot;따옴표&quot;)" aria-label="검색어">
+<select id="qf" aria-label="검색 범위"><option value="all">전체</option><option value="title">제목(영/한)</option><option value="author">저자</option><option value="abstract">초록</option></select>
+<select id="qm" aria-label="여러 단어"><option value="and">모두 포함</option><option value="or">하나라도 포함</option></select>
+</div>
+<div class="filters">
+<select id="fj" aria-label="저널"><option value="">전체 저널</option></select>
+<select id="ft" aria-label="토픽"><option value="">전체 토픽</option></select>
+<select id="fc" aria-label="국가"><option value="">전체 국가</option></select>
+<select id="fy" aria-label="문서 유형"><option value="">전체 문서유형</option></select>
+</div>
+<div class="filters2">DOI 등록일 <input type="date" id="d1" aria-label="시작일"> ~ <input type="date" id="d2" aria-label="종료일">
+<label><input type="checkbox" id="fo"> Open Access만</label>
+<label><input type="checkbox" id="fa"> 초록 있는 논문만</label>
+<select id="sort" aria-label="정렬"><option value="new">날짜순 (최신 먼저)</option><option value="old">날짜순 (오래된 먼저)</option><option value="journal">저널순</option></select>
+<button class="btn" id="reset" type="button">필터 초기화</button>
+<button class="btn" id="csv" type="button">검색 결과 CSV</button></div>
+<div class="status" id="status" aria-live="polite"></div>
+<div id="list"></div>
+<div class="pager"><button class="btn" id="prev" type="button">이전</button><span id="page" class="tabular"></span><button class="btn" id="next" type="button">다음</button></div>
+</section>
+
+<section class="section sec-grid"><div class="sec-side"><p class="eyebrow">Archive</p><h2>회차별 동향</h2>
+<p class="note">매주 발행된 동향 페이지 원본입니다.</p></div><div class="sec-body"><div class="archive" id="archive"></div></div></section>
+</div></main>
+<footer class="site-footer"><div class="container-page cols">
+<div><p class="name">원자력 공부 노트</p><p>Nuclear Daily · 뉴스와 논문</p></div>
+<div><p class="eyebrow">수집 기준</p><p>Crossref DOI 등록일(created) 기준 주간 수집 · 국가·Open Access·초록은 OpenAlex · 토픽은 제목·초록 키워드 규칙 분류 · 한글 제목은 기계번역</p></div>
+<div><p class="eyebrow">바로 가기</p><p><a class="link-underline" href="../../news/index.html">오늘의 뉴스 (원자력·핵융합)</a><br>
+<a class="link-underline" href="../../papers/index.html">이번 주 논문</a><br>
+<a class="link-underline" href="../../jobs/index.html">원자력 취업</a><br>
+<a class="link-underline" href="../../papers/nuclear-literature-database.xlsx">논문 DB Excel</a><br><a class="link-underline" href="https://github.com/monami-lab-2026/nuclear_digest">수집 코드 (GitHub)</a></p></div>
+</div></footer><script>(function(){var b=document.getElementById('theme-toggle');if(!b)return;b.addEventListener('click',function(){var r=document.documentElement,n=r.dataset.theme==='dark'?'light':'dark';r.dataset.theme=n;try{localStorage.setItem('nuclear-digest-theme',n)}catch(e){}});})();</script>
+<script id="data" type="application/json">{"rows":[{"d":"10.1016/j.net.2026.104778","t":"A reliability data aggregation method for fusion-oriented research facilities","k":"융합형 연구시설에 대한 신뢰성 자료 집계 방법","j":"Nuclear Engineering and Technology","a":"H. Ortiz; J.E. Ruiz-Castro; C. Acal; K. Kowal; J. Chiachío; A.M. Aguilera","r":"2026-10-17","w":"2026-10-12","p":"기타 핵융합","tp":["기타 핵융합"],"c":["ES","PL"],"o":1,"y":"연구논문","ab":"This paper aims to develop a statistical method for integrating multiple incomplete data sources to improve the estimation of the failure-rate probability distribution of fusion-specific devices. The data aggregation approach proposed in this work is to support the Reliability, Availability, Maintainability, and Inspectability (RAMI) studies for fusion-oriented research facilities. This work focuses on developing a procedure for handling missing or incomplete data from multiple sources, as well as formulating a statistical framework for combining data from different sources that refer to the same equipment type and failure mode. Specifically, a Bayesian result is adopted under the assumption of a constant failure rate over time. This framework motivates the use of the Gamma distributions to model the failure-rate parameter of each device. Subsequently, two alternative procedures are introduced to approximate, using a single Gamma distribution, the weighted mixture formed by combining Gamma distributions corresponding to the same equipment type across multiple data sources. The proposed method is validated through an extensive simulation study and further illustrated by application to the accelerator systems of the IFMIF-DONES facility. Finally, the proposed algorithm has been implemented in the open-source software R to facilitate its use in the nuclear fusion community.","iw":[]},{"d":"10.1016/j.anucene.2026.112930","t":"Radiation dose analysis in the IR-IECF device: numerical analysis with geant4 simulation and experimental measurements","k":"IR-IECF 장치에서의 방사선량 분석: geant4 시뮬레이션 및 실험 측정을 통한 수치 분석","j":"Annals of Nuclear Energy","a":"Maryam Ghapanvary; Fatemeh Bakhshoodeh Pour; Morteza Sedaghat Movahed; Alireza Aslezaeem","r":"2026-10-16","w":"2026-10-12","p":"관성밀폐·레이저","tp":["관성밀폐·레이저","블랭킷·삼중수소·연료주기","진단·제어·AI","중성자·차폐·안전","플라즈마 물리·밀폐"],"c":["IR"],"o":1,"y":"연구논문","ab":"This study presents a combined experimental and Geant4-based assessment of the radiation field and shielding performance of the Iranian Inertial Electrostatic Confinement fusion device (IR-IECF) operating in deuterium–deuterium (D–D) mode and producing 2.45 MeV neutrons. A detailed Geant4 model of the IR-IECF device, its surrounding borated-polyethylene shielding, and the relevant dosimetry locations was developed to calculate neutron and gamma dose distributions. Experimental gamma doses were measured using GR-200 (LiF:Mg,Cu,P) thermoluminescent dosimeters, whereas neutron ambient dose-equivalent rates were measured using a Berthold LB6411 rem counter. In the Geant4 model, neutron dose scoring was performed using LiF-based virtual dosimeters positioned at the corresponding monitoring locations, allowing the numerical results to be compared with the experimental neutron measurements. The simulated neutron and gamma dose values showed good agreement with the corresponding experimental data, supporting the reliability of the developed Geant4 model for radiation-field characterization. In addition, a dedicated secondary-particle scoring analysis was performed to characterize the secondary radiation generated during neutron transport. Electrons, protons, and photons were the dominant recorded secondary particles, while secondary neutrons accounted for approximately 1.69% of the recorded secondary tracks. Overall, the combined experimental and numerical approach provides a practical framework for radiation-field characterization and shielding assessment of IECF-based neutron sources.","iw":["중성자·차폐"]},{"d":"10.1016/j.net.2026.104785","t":"Catalyzed deuterium fusion neutron source for the transmutation of minor actinides, production of tritium, and electrical power generation","k":"부차적인 악티늄의 핵변환, 삼중수소 생산 및 전력 발전을 위한 촉매화된 중수소 융합 중성자 공급원","j":"Nuclear Engineering and Technology","a":"John Slough","r":"2026-10-14","w":"2026-10-12","p":"블랭킷·삼중수소·연료주기","tp":["블랭킷·삼중수소·연료주기","중성자·차폐·안전","설계·원격유지보수·공학"],"c":["US"],"o":1,"y":"연구논문","ab":"The accumulated inventory of spent nuclear fuel in the United States exceeds 90,000 metric tons, with long-term radiological hazards dominated by minor actinides that require isolation for thousands of years. This study details a possible solution to these challenges that also provides significant electrical power. The method employs a fusion system operating in catalyzed deuterium (Cat-D) mode producing the high neutron flux required for this task. It is based on the Compact Field Reversed Configuration Fusion Reactor (CFR2), where the plasma is sequentially compressed to fusion conditions remote from the burn chamber and then translated into the chamber surrounded by the fission blanket. A Monte Carlo neutronics analysis of a subcritical actinide transmutation blanket and the design was optimized. The optimized blanket employs FLiNaK eutectic fluoride salt enriched to 90% 6 Li and containing 17.53 mol% transuranic fluorides as the combined coolant, moderator, and fissile medium. The design achieves keff=0.9695 with a blanket volume of 13.4 m 3 . The FRC is pulsed at 4Hz with a tritium fraction of 4%, yielding a neutron flux of 4×10 18 n/s. This fission system burns 683 kg/yr of TRU, produces 9.6 kg/yr of tritium and 1,431 MWth, requiring only 17.5 MWe to power the CFR2.","iw":["열수력·냉각","블랭킷·삼중수소","중성자·차폐"]},{"d":"10.1016/j.net.2026.104766","t":"High-efficiency 160-way cavity combiner: 170 kW CW validation for the IFMIF-DONES RF Power System","k":"고효율 160웨이 캐비티 컴바이너: IFMIF-DONES RF 전원 시스템에 대한 170kW CW 검증","j":"Nuclear Engineering and Technology","a":"C. de la Morena; D. Regidor; D. Iriarte; E. Ugarte; S. Dragaš; A.J. Martínez; J. Peral; J.A. Rama; D. Jimenez-Rey","r":"2026-10-06","w":"2026-10-05","p":"디버터·대향재료·재료","tp":["디버터·대향재료·재료","중성자·차폐·안전","설계·원격유지보수·공학"],"c":["ES"],"o":1,"y":"연구논문","ab":"Solid-state (SS) amplification has become a compelling alternative to vacuum-tube technology for mid-range radiofrequency (RF) power systems, particularly at frequencies below a few hundred megahertz. This is the case of the RF Power System of IFMIF-DONES (International Fusion Materials Irradiation Facility – DEMO (DEMOnstration power plant) Oriented Neutron Source), composed of 56 RF Stations at 175 MHz based on SS technology. IFMIF-DONES is one of the key facilities of the European roadmap towards fusion electricity, necessary for the validation and qualification of the materials capable of withstanding the harsh conditions inside future fusion reactors. Nevertheless, achieving high power with SS technology requires combining the output of many transistor-based amplifier modules. Resonant cavity combination offers a compact and highly efficient single-step alternative to conventional corporate schemes. This work presents the latest validation campaign of the 160-input 175 MHz resonant cavity combiner developed for the IFMIF-DONES prototype SS RF Station. The device has been experimentally tested in continuous-wave (CW) mode up to 170 kW, extending previous validation experiments and providing new insight into the thermal behavior, efficiency evolution, and tuning characteristics of the system. The results confirm the suitability of resonant cavity combination for high-power SS RF sources and represent a significant step toward the full-power validation required for IFMIF-DONES.","iw":["열수력·냉각","재료·조사손상","중성자·차폐"]},{"d":"10.1016/j.net.2026.104758","t":"Investigation on organic Rankine cycle technology for utilizing low-temperature waste heat sources from fusion reactors","k":"핵융합 원자로의 저온 폐열원 활용을 위한 유기 랭킨 사이클 기술 조사","j":"Nuclear Engineering and Technology","a":"Shuling Xu; Mingzhun Lei; Pinghui Zhao; Kun Lu; Chunyuan Li","r":"2026-10-01","w":"2026-09-28","p":"블랭킷·삼중수소·연료주기","tp":["블랭킷·삼중수소·연료주기","디버터·대향재료·재료","중성자·차폐·안전","설계·원격유지보수·공학"],"c":["CN"],"o":1,"y":"연구논문","ab":"Fusion energy is recognized as one of the cleanest base-load power sources with abundant fuel reserves, inherent safety and near-zero carbon emissions, which is expected to fundamentally address global fossil energy depletion and climate change. Fusion reactors generate multi-grade waste heat covering wide temperature intervals: high-temperature heat from blanket modules can be matched with steam Rankine or supercritical CO 2 Brayton cycles, while massive low-temperature cooling waste heat below 200 °C is produced from divertor cooling loops and vacuum vessel heat dissipation. Such low-grade heat cannot be efficiently recovered by conventional high-temperature power cycles, resulting in substantial energy loss and constraining the overall energy utilization efficiency of fusion facilities. To address this bottleneck, this paper establishes an Organic Rankine Cycle (ORC) thermodynamic model coupled with the REFPROP fluid property database for recovering fusion low-temperature waste heat, and systematically performs thermal performance evaluation and component-level exergy analysis on ten typical organic working fluids including alkanes, dimethyl ether and fluorinated refrigerants within the heat source range of 80-180 °C. The simulation results indicate that evaporating temperature serves as the dominant parameter governing cycle thermal efficiency, exergy efficiency and circulating mass flow rate. With the rise of evaporator outlet temperature, thermal efficiency and exergy efficiency increase rapidly, whereas the required working fluid mass flow rate decreases monotonically. Under identical operating conditions, R1234ze(E) requires the maximum circulation flow rate of 10.349 kg/s, while pentane and isopentane exhibit the lowest flow rates of 3.359 kg/s and 3.505 kg/s repectively. For full-range heat sources (80-180 °C), pentane, isopentane and R123 deliver balanced superior thermodynamic performance; R123 exhibits the maximum thermal efficiency of 16.86 % at at an evaporation temperature of 170 °C.R1234ze(E), R134a, R152a and dimethyl ether are alternative candidates exclusive to heat sources below 100 °C. R245fa owns mature industrial supporting technology but is limited by its high Global Warming Potential (GWP) and narrow applicable temperature range. Sensitivity analysis reveals that the variation of expander isentropic efficiency imposes far more significant impacts on system performance than pump efficiency. Second-law exergy decomposition indicates that evaporator and condenser are the two dominant exergy destruction sources of the whole system, while pump exergy loss remains negligible. Comprehensive comparison covering thermodynamic characteristics, environmental friendliness and operation adaptability suggests pentane and isopentane are the optimal matching working fluids for the proposed fusion waste heat ORC system, featuring low total exergy dissipation, minimal circulation flow and mild environmental hazards. This work provides quantitative reference for working fluid screening and heat exchanger structural optimization of fusion low-grade heat recovery ORC systems, and offers clear optimization priorities targeted at core irreversible loss components.","iw":["열수력·냉각","블랭킷·삼중수소","디버터·대향재료"]},{"d":"10.1016/j.pnucene.2026.106617","t":"Laser welding of critical nuclear materials: A review of mechanisms, defect control, and advanced techniques","k":"임계 핵 물질의 레이저 용접: 메커니즘, 결함 제어 및 고급 기술 검토","j":"Progress in Nuclear Energy","a":"Fajie Zhang; Peilei Zhang; Chao Fang; Maolong Zhang; Qinghua Lu; Xunzuo Su; Peixuan Lei","r":"2026-09-18","w":"2026-09-14","p":"관성밀폐·레이저","tp":["관성밀폐·레이저","블랭킷·삼중수소·연료주기","디버터·대향재료·재료","진단·제어·AI","중성자·차폐·안전","설계·원격유지보수·공학"],"c":["CN"],"o":1,"y":"리뷰·관점","ab":"Laser welding offers distinct advantages for the fabrication and repair of critical components in Pressurized Water Reactors (PWRs), future Fusion Reactors (e.g., ITER), and Generation IV systems. Its concentrated energy density, minimal thermal distortion, and rapid processing speeds make it highly suitable for joining key nuclear materials. This paper systematically reviews the application of laser welding to: austenitic stainless steels (ASSs) used for PWR primary circuit components and reactor internals; reduced-activation ferritic/martensitic (RAFM) steels, the primary candidate for fusion reactor first wall/blanket modules; and zirconium alloys, the standard material for fuel cladding and assembly grids in light-water reactors. The study focuses on welding processes, weld quality, defect control, and the effects of post-weld treatments on joint performance. To meet nuclear industry demands for in-situ repairs of reactor internals and joining of thick-walled pressure vessels, recent advances in two specialized techniques—underwater laser welding and narrow-gap laser welding (NGLW)—are reviewed. In addition, numerical simulation methods for laser welding are summarized, with emphasis on thermal-field prediction, molten-pool behavior, residual stress and strain evolution, deformation control, and process optimization for nuclear-grade materials. Looking ahead, advancements in high-power lasers, intelligent control, and advanced inspection technologies are positioning laser welding as a cornerstone technology for enhancing the safety, longevity, and efficiency of nuclear power manufacturing and maintenance operations.","iw":["열수력·냉각","블랭킷·삼중수소","디버터·대향재료","재료·조사손상","중성자·차폐"]},{"d":"10.1016/j.net.2026.104724","t":"Radiation dose analysis in the Lithium system rooms during beam-on and beam-off","k":"빔-온 및 빔-오프 중 리튬 시스템 룸의 방사선량 분석","j":"Nuclear Engineering and Technology","a":"Gediminas Stankūnas; Andrius Tidikas; Benjaminas Togobickij; Simona Breidokaite; Egidijus Urbonavicius","r":"2026-09-16","w":"2026-09-14","p":"블랭킷·삼중수소·연료주기","tp":["블랭킷·삼중수소·연료주기","디버터·대향재료·재료","중성자·차폐·안전","설계·원격유지보수·공학"],"c":["LT"],"o":1,"y":"연구논문","ab":"International Fusion Materials Irradiation Facility – DEMO-Oriented NEutron Source (IFMIF-DONES) is a d–Li neutron irradiation facility developed, which is being designed as part of the European roadmap to fusion-generated electricity. This work presents shielding analyses to support the design of the Test Cell floor and the safety assessment of lithium system rooms under beam-on and beam-off conditions. A detailed MCNP model of the Lithium Loop Cells (LLC) room, including the new Dump Tank baseline, Heat Exchanger, and electromagnetic pumps, has been developed and integrated into the main building model. The model includes the shielding barrier configuration and relevant piping. Shielding calculations are performed to estimate the required thicknesses of the cover and wall, considering space limitations in the LLC and the use of different materials, such as ordinary and heavy concrete. In addition, the radiation dose in the LLC is re-evaluated using updated Activated Corrosion Product (ACP) source terms. The results provide updated dose maps to support maintenance planning and safety assessment of the lithium systems.","iw":["블랭킷·삼중수소","재료·조사손상","중성자·차폐"]},{"d":"10.1016/j.net.2026.104704","t":"Engineering design and verification of toroidal field magnet power supply for EXL-50U spherical tokamak device","k":"EXL-50U 구형 토카막 장치의 토로이달 자장 코일 전원장치 공학설계 및 검증","j":"Nuclear Engineering and Technology","a":"Zemin Wang; Liangliang Hao; Zixuan Zhao; Peihai Zhou; Shaoxuan Liu; Wenwu Luo; Xianming Song; Dianjie Dang; Zequn Sun","r":"2026-09-11","w":"2026-09-07","p":"자석·초전도","tp":["자석·초전도","진단·제어·AI","설계·원격유지보수·공학"],"c":["CN"],"o":1,"y":"연구논문","ab":"This paper presents the systematic engineering design and verification of a megawatt-level pulsed power supply system tailored for the toroidal field (TF) magnet of the ENN Xuanlong-50 Upgrade (EXL-50U) spherical tokamak. The system is engineered to meet stringent operational demands, including a high current of 150 kA, second-scale pulse durations, and high robustness. To overcome the engineering challenges of input frequency fluctuations and complex parameter coupling inherent to pulsed generator supplies, a system-level hardware selection and parameter-matching methodology was established. This framework comprehensively integrates five core components: the pulsed generator set (PGS), phase-shifting transformer (PST), thyristor converter (TC), interphase reactor (IPR), and overvoltage protection circuit (OVPC). Furthermore, to resolve the inherent trade-off between high-precision tracking and system robustness when driving large inductive loads, a compound control strategy based on a feedforward-feedback architecture was proposed and implemented. Commissioning and experimental data demonstrate that the dynamic response and flat-top current-regulation accuracy of the power supply fully satisfy the physical experimental requirements of the EXL-50U device, thereby verifying the effectiveness and engineering applicability of the proposed design.","iw":["자석·초전도"]},{"d":"10.1016/j.anucene.2026.112734","t":"Development of a benchmark experimental method for large angle scattering cross section of 14 MeV neutrons using compound targets – Application to fluorine benchmarking using PTFE","k":"복합 표적을 이용한 14 MeV 중성자 대각도 산란 단면적 벤치마크 실험법 개발 – PTFE를 이용한 불소 벤치마킹 적용","j":"Annals of Nuclear Energy","a":"","r":"2026-08-11","w":"2026-08-10","p":"블랭킷·삼중수소·연료주기","tp":["블랭킷·삼중수소·연료주기","중성자·차폐·안전"],"c":["JP","ID"],"o":1,"y":"연구논문","ab":"In fusion reactors, large angle neutron scattering reactions significantly affect neutronics calculations, especially for the reactor blanket. Previous studies highlighted discrepancies in evaluated nuclear data, emphasizing the necessity for benchmarking large angle scattering cross sections. While the authors’ group previously developed a benchmark experimental system using the foil activation method, gaseous elements like fluorine could not be validated. This study introduces a new method that uses solid compounds containing the gaseous element to indirectly evaluate its large angle scattering cross section. Applying this method, benchmark experiments for fluorine were performed using graphite and polytetrafluoroethylene (PTFE) as the targets, and the fluorine contribution was extracted. The results were then compared with MCNP5 simulations using different nuclear data libraries and an excellent agreement was observed for ENDF/B-VIII.0 and JEFF-3.3. Future work will aim to reduce experimental uncertainties.","iw":["블랭킷·삼중수소","중성자·차폐"]},{"d":"10.1016/j.net.2026.104642","t":"Vacuum leak detection and localization based on remote handling and laser spectroscopy coupling","k":"원격취급과 레이저 분광 결합 기반 진공 누설 탐지 및 위치 추정","j":"Nuclear Engineering and Technology","a":"","r":"2026-08-10","w":"2026-08-10","p":"관성밀폐·레이저","tp":["관성밀폐·레이저","진단·제어·AI","설계·원격유지보수·공학"],"c":["CN"],"o":1,"y":"연구논문","ab":"For the leakage detection and localization in the vacuum chambers of future fusion reactors, this paper proposes a design method based on the coupling of remote operation and laser spectroscopy. By using a pulsed laser to ablate solid targets, the design excites leaked gases in the environment and generates a spectrum. Spectrometers and detectors are used to collect information on atomic spectral lines in the area, enabling leak detection. A remote-operated robot is then used to transport the spectrometer to different areas of the vacuum chamber for continuous sampling. The precise location of the leak can be determined based on the distribution trends of the leak gas concentration gradient. To fully validate the feasibility of leak location, this paper analysis the diffusion behaviour of the leaking gas under different gas types and background pressures using finite element software. The results show that the mass fraction distribution of the leaking gas within the vacuum chamber exhibits a monotonically decreasing spatial gradient along the primary direction of diffusion. This gradient exhibits a distinguishable decay pattern under various leakage gas conditions (air and water vapor) and at different background pressures, demonstrating the feasibility of using concentration gradients to locate leaks.","iw":[]},{"d":"10.1080/00295450.2026.2699518","t":"Evaluation of Neutron-Induced Radiation Generated by a Vehicle-Mounted System for Hazardous Material Detection","k":"유해물질 탐지용 차량 탑재 시스템에서 발생하는 중성자 유발 방사선 평가","j":"Nuclear Technology","a":"","r":"2026-08-03","w":"2026-08-03","p":"블랭킷·삼중수소·연료주기","tp":["블랭킷·삼중수소·연료주기","디버터·대향재료·재료","중성자·차폐·안전","설계·원격유지보수·공학"],"c":["PL"],"o":1,"y":"연구논문","ab":"Compact neutron generators enable prompt gamma neutron activation analysis as an effective technique for subsurface material identification in applications such as unexploded ordnance and land mine detection. Their integration into mobile platforms introduces complex mixed neutron-photon radiation fields that require quantitative evaluation. In this study, neutron and secondary gamma radiation transport from a compact deuterium-tritium neutron generator integrated into the optionally manned ground vehicle TAERO, a platform adapted for off-road demining operations, is investigated using Monte Carlo simulations.Spatial distributions of neutron flux and gamma dose rate are analyzed at locations corresponding to the vehicle operator and onboard electronic systems within a material-representative vehicle geometry. Neutron-induced displacement damage in silicon is additionally evaluated as a metric of radiation exposure for electronic components. The analysis focuses on the influence of distance, structural scattering, and local shielding on radiation field characteristics and on the derivation of distance-dependent dose parameterizations relevant to operational deployment.The presented approach establishes a framework for characterizing the radiation exposure associated with compact neutron-based sensing systems deployed on mobile demining platforms. These outcomes are employed to establish operational limits and safety-relevant constraints for the engineering design and integration of mobile neutron-based systems.","iw":["블랭킷·삼중수소","재료·조사손상","중성자·차폐"]}],"meta":{"weeks":["2026-08-03","2026-08-10","2026-09-07","2026-09-14","2026-09-28","2026-10-05","2026-10-12"],"topics":["관성밀폐·레이저","자석·초전도","가열·전류구동","블랭킷·삼중수소·연료주기","디버터·대향재료·재료","진단·제어·AI","중성자·차폐·안전","플라즈마 물리·밀폐","설계·원격유지보수·공학","기타 핵융합"],"journals":["Nuclear Engineering and Technology","Annals of Nuclear Energy","Progress in Nuclear Energy","Nuclear Technology"],"countries":["CN","ES","PL","IR","US","LT","JP","ID"],"countryNames":{"AE":"아랍에미리트","AU":"호주","BD":"방글라데시","BE":"벨기에","BR":"브라질","CA":"캐나다","CN":"중국","CZ":"체코","DE":"독일","EG":"이집트","ES":"스페인","FR":"프랑스","GB":"영국","GH":"가나","GR":"그리스","HK":"홍콩","HU":"헝가리","ID":"인도네시아","IN":"인도","IQ":"이라크","IR":"이란","IT":"이탈리아","JO":"요르단","JP":"일본","KR":"대한민국","LB":"레바논","LT":"리투아니아","MA":"모로코","MN":"몽골","MX":"멕시코","MY":"말레이시아","NL":"네덜란드","PE":"페루","PK":"파키스탄","PL":"폴란드","PT":"포르투갈","RO":"루마니아","RS":"세르비아","RU":"러시아","SA":"사우디아라비아","SD":"수단","SE":"스웨덴","SG":"싱가포르","SI":"슬로베니아","TR":"튀르키예","TW":"대만","UA":"우크라이나","US":"미국","VN":"베트남","YE":"예멘","ZA":"남아프리카공화국","ZM":"잠비아","EE":"에스토니아","CH":"스위스","BG":"불가리아","AT":"오스트리아","FI":"핀란드","DK":"덴마크","NO":"노르웨이","IL":"이스라엘","NZ":"뉴질랜드","AR":"아르헨티나","CL":"칠레","KZ":"카자흐스탄","TH":"태국","PH":"필리핀","NG":"나이지리아","KE":"케냐","QA":"카타르","KW":"쿠웨이트","OM":"오만","SK":"슬로바키아","HR":"크로아티아","IE":"아일랜드","BY":"벨라루스","UZ":"우즈베키스탄","LK":"스리랑카","NP":"네팔","CO":"콜롬비아","TN":"튀니지","DZ":"알제리","SY":"시리아","LY":"리비아","ET":"에티오피아","CY":"키프로스","LU":"룩셈부르크","IS":"아이슬란드","AM":"아르메니아","GE":"조지아","AZ":"아제르바이잔","BH":"바레인"},"archives":["2026-11-02"],"interests":{"열수력·냉각":["thermal","hydraulic","heat transfer","heat flux","coolant","cooling","helium cooled","water cooled","flow","two-phase","boiling"],"블랭킷·삼중수소":["blanket","tritium","breeding","lithium","fuel cycle"],"디버터·대향재료":["divertor","plasma-facing","first wall","tungsten"],"재료·조사손상":["material","irradiation","damage","steel","alloy","embrittlement"],"중성자·차폐":["neutron","neutronics","shielding","activation","monte carlo"],"자석·초전도":["magnet","superconduct","hts","quench"],"Machine Learning·디지털트윈":["machine learning","deep learning","neural","artificial intelligence","reinforcement learning","digital twin","physics-informed","surrogate"]}}}</script>
+<script>
+(() => {
+const D = JSON.parse(document.getElementById('data').textContent), R = D.rows, M = D.meta;
+const $ = id => document.getElementById(id), PER = 50;
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const cname = c => (M.countryNames[c] || c) + ' (' + c + ')';
+const endOf = w => { const d = new Date(w + 'T00:00:00Z'); d.setUTCDate(d.getUTCDate() + 6); return d.toISOString().slice(0, 10); };
+let page = 0, weekSel = '', kwSel = '';
+R.forEach(r => {
+  r.st = (r.t + ' ' + r.k).toLowerCase(); r.sa = r.a.toLowerCase(); r.sb = r.ab.toLowerCase();
+  r.s = r.st + ' ' + r.sa + ' ' + r.sb + ' ' + r.d.toLowerCase();
+});
+// Search terms: words split by spaces, "quoted phrases" kept whole.
+const terms = () => [...$('q').value.toLowerCase().matchAll(/"([^"]+)"|(\S+)/g)].map(m => (m[1] || m[2]).trim()).filter(Boolean);
+const field = r => ({title: r.st, author: r.sa, abstract: r.sb})[$('qf').value] || r.s;
+const reEsc = s => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+function hl(text, words) {
+  const safe = esc(text); if (!words.length) return safe;
+  const re = new RegExp('(' + words.map(w => reEsc(esc(w))).sort((a, b) => b.length - a.length).join('|') + ')', 'gi');
+  return safe.replace(re, '<mark>$1</mark>');
+}
+
+// Interest-area keyword chips
+const kwCount = {}; R.forEach(r => r.iw.forEach(n => kwCount[n] = (kwCount[n] || 0) + 1));
+$('kw').innerHTML = Object.keys(M.interests).map(n => `<button type="button" class="chip" aria-pressed="false" data-kw="${esc(n)}" title="${esc(M.interests[n].join(', '))}">${esc(n)} <small>${kwCount[n] || 0}</small></button>`).join('');
+$('kw').addEventListener('click', e => {
+  const b = e.target.closest('.chip'); if (!b) return;
+  kwSel = kwSel === b.dataset.kw ? '' : b.dataset.kw;
+  document.querySelectorAll('#kw .chip').forEach(x => x.setAttribute('aria-pressed', x.dataset.kw === kwSel ? 'true' : 'false'));
+  $('kwhelp').hidden = !kwSel;
+  $('kwhelp').textContent = kwSel ? `「${kwSel}」 키워드: ${M.interests[kwSel].join(', ')}` : '';
+  page = 0; draw();
+});
+
+const fill = (id, vals, label) => $(id).insertAdjacentHTML('beforeend', vals.map(v => `<option value="${esc(v)}">${esc(label ? label(v) : v)}</option>`).join(''));
+fill('fj', M.journals); fill('ft', M.topics); fill('fc', M.countries, cname);
+fill('fy', [...new Set(R.map(r => r.y))]);
+$('archive').innerHTML = M.archives.map(a => `<a href="./archive/${a}.html">${a}</a>`).join('') || '<span class="caption">아직 없음</span>';
+
+// Weekly bars (single series: no legend; value label on top, native tooltip on hover)
+const wc = {}; R.forEach(r => wc[r.w] = (wc[r.w] || 0) + 1);
+const wmax = Math.max(1, ...M.weeks.map(w => wc[w] || 0));
+$('bars').innerHTML = M.weeks.map(w => `<button class="bar" data-w="${w}" title="${w} ~ ${endOf(w)}: ${wc[w] || 0}편"><b>${wc[w] || 0}</b><i style="height:${(wc[w] || 0) / wmax * 150}px"></i></button>`).join('');
+$('xlabels').innerHTML = M.weeks.map(w => `<span>${w.slice(5)}</span>`).join('');
+$('bars').addEventListener('click', e => { const b = e.target.closest('.bar'); if (!b) return; setWeek(weekSel === b.dataset.w ? '' : b.dataset.w); });
+
+// Topic x week heatmap: one hue, lightness by within-week share; counts printed in every cell
+const tw = {}; R.forEach(r => r.tp.forEach(t => { const k = t + '|' + r.w; tw[k] = (tw[k] || 0) + 1; }));
+const shade = f => `color-mix(in srgb, var(--chart) ${Math.round((0.12 + 0.88 * f) * 100)}%, var(--color-surface))`;
+$('heat').innerHTML = '<tr><th></th>' + M.weeks.map(w => `<th>${w.slice(5)}</th>`).join('') + '<th>합계</th></tr>' +
+  M.topics.map(t => {
+    let total = 0;
+    const cells = M.weeks.map(w => {
+      const n = tw[t + '|' + w] || 0, f = n / Math.max(1, wc[w] || 0); total += n;
+      return n ? `<td data-t="${esc(t)}" data-w="${w}" class="${Math.min(1, f / 0.5) > 0.45 ? 'hi' : ''}" style="background:${shade(Math.min(1, f / 0.5))}" title="${esc(t)} · ${w}주: ${n}편 (${Math.round(f * 100)}%)">${n}</td>` : `<td class="z" data-t="${esc(t)}" data-w="${w}">·</td>`;
+    }).join('');
+    return `<tr><th class="row">${esc(t)}</th>${cells}<th>${total}</th></tr>`;
+  }).join('');
+$('heat').addEventListener('click', e => { const c = e.target.closest('td'); if (!c) return; $('ft').value = c.dataset.t; setWeek(c.dataset.w); });
+
+function setWeek(w) { weekSel = w; $('d1').value = w; $('d2').value = w ? endOf(w) : ''; page = 0; draw(); $('search').scrollIntoView({behavior: 'smooth', block: 'start'}); }
+
+function filtered() {
+  const q = terms(), any = $('qm').value === 'or';
+  const j = $('fj').value, t = $('ft').value, c = $('fc').value, y = $('fy').value, d1 = $('d1').value, d2 = $('d2').value;
+  const out = R.filter(r => (!j || r.j === j) && (!t || r.tp.includes(t)) && (!c || r.c.includes(c)) && (!y || r.y === y)
+    && (!d1 || r.r >= d1) && (!d2 || r.r <= d2) && (!$('fo').checked || r.o) && (!$('fa').checked || r.ab)
+    && (!kwSel || r.iw.includes(kwSel))
+    && (!q.length || (any ? q.some(x => field(r).includes(x)) : q.every(x => field(r).includes(x)))));
+  const s = $('sort').value;
+  out.sort((a, b) => s === 'old' ? a.r.localeCompare(b.r) : s === 'journal' ? a.j.localeCompare(b.j) || b.r.localeCompare(a.r) : b.r.localeCompare(a.r));
+  return out;
+}
+
+function draw() {
+  const rows = filtered(), pages = Math.max(1, Math.ceil(rows.length / PER));
+  page = Math.min(page, pages - 1);
+  document.querySelectorAll('.bar').forEach(b => b.classList.toggle('on', b.dataset.w === weekSel));
+  $('status').textContent = `${rows.length}편 / 전체 ${R.length}편`;
+  $('page').textContent = `${page + 1} / ${pages}`;
+  $('prev').disabled = page === 0; $('next').disabled = page >= pages - 1;
+  const q = terms(), f = $('qf').value, byDate = $('sort').value !== 'journal';
+  const words = [...q, ...(kwSel ? M.interests[kwSel] : [])];
+  const tw = f === 'all' || f === 'title' ? words : [], aw = f === 'all' || f === 'author' ? q : [], bw = f === 'all' || f === 'abstract' ? words : [];
+  const perDay = {}; rows.forEach(r => perDay[r.r] = (perDay[r.r] || 0) + 1);
+  let lastDay = null;
+  $('list').innerHTML = rows.slice(page * PER, page * PER + PER).map(r => {
+    const au = r.a.split('; ').filter(Boolean), auText = au.slice(0, 6).join(', ') + (au.length > 6 ? ' et al.' : '');
+    const head = byDate && r.r !== lastDay ? `<h3 class="date-head">${r.r || '날짜 없음'}<small>${perDay[r.r]}편</small></h3>` : '';
+    lastDay = r.r;
+    const openAbs = bw.length && q.length && r.ab && bw.some(w => r.sb.includes(w)) ? ' open' : '';
+    return `${head}<article class="paper"><div class="top"><span>${r.r}</span><span class="jr">${esc(r.j)}</span><span>${esc(r.y)}</span>${r.o ? '<span class="oa">Open Access</span>' : ''}</div>
+<h3><a class="link-wipe" href="https://doi.org/${esc(r.d)}" target="_blank" rel="noopener">${hl(r.t, tw)}</a></h3><div class="ko">${hl(r.k, tw)}</div>
+<div class="au">${hl(auText, aw)}${r.c.length ? ' · ' + r.c.map(cname).join(', ') : ''}</div>
+<div class="tags">${r.tp.map(t => `<span class="pill">${esc(t)}</span>`).join('')}${r.iw.map(n => `<span class="pill" style="background:var(--color-surface);border-color:var(--color-line)">${esc(n)}</span>`).join('')}</div>
+${r.ab ? `<details${openAbs}><summary>초록 보기</summary><p>${hl(r.ab, bw)}</p></details>` : ''}</article>`;
+  }).join('') || '<p class="caption">조건에 맞는 논문이 없습니다.</p>';
+}
+
+['q', 'qf', 'qm', 'fj', 'ft', 'fc', 'fy', 'd1', 'd2', 'fo', 'fa', 'sort'].forEach(id => $(id).addEventListener('input', () => { page = 0; if (id === 'd1' || id === 'd2') weekSel = ''; draw(); }));
+$('prev').onclick = () => { page--; draw(); $('search').scrollIntoView(); };
+$('next').onclick = () => { page++; draw(); $('search').scrollIntoView(); };
+$('reset').onclick = () => {
+  ['q', 'fj', 'ft', 'fc', 'fy', 'd1', 'd2'].forEach(id => $(id).value = ''); $('qf').value = 'all'; $('qm').value = 'and'; $('sort').value = 'new';
+  $('fo').checked = $('fa').checked = false; weekSel = ''; kwSel = ''; $('kwhelp').hidden = true;
+  document.querySelectorAll('#kw .chip').forEach(x => x.setAttribute('aria-pressed', 'false')); page = 0; draw();
+};
+$('csv').onclick = () => {
+  const cols = [['doi', 'd'], ['title_en', 't'], ['title_ko', 'k'], ['journal', 'j'], ['authors', 'a'], ['doi_registered', 'r'], ['primary_topic', 'p'], ['countries', 'c'], ['open_access', 'o'], ['abstract', 'ab']];
+  const cell = v => '"' + String(Array.isArray(v) ? v.join(';') : v ?? '').replace(/"/g, '""') + '"';
+  const text = '\ufeff' + [cols.map(c => c[0]).join(','), ...filtered().map(r => cols.map(c => cell(r[c[1]])).join(','))].join('\r\n');
+  const a = document.createElement('a'); a.href = URL.createObjectURL(new Blob([text], {type: 'text/csv;charset=utf-8'}));
+  a.download = 'nuclear-literature-filtered.csv'; a.click(); URL.revokeObjectURL(a.href);
+};
+draw();
+})();
+</script></body></html>

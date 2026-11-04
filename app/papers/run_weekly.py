@@ -19,7 +19,8 @@ import shutil
 from .. import newsletter
 from ..build_home import build_home
 from . import build_dashboard, build_database_page, build_email, build_excel, collect, database, send_email, translate
-from .common import OUTPUT_DIR, SETTINGS, SITE_DIR, STATE_DIR, Period, raw_path, read_json, write_json
+from .common import (OUTPUT_DIR, SETTINGS, SITE_DIR, STATE_DIR, Period, all_journals, in_domain, raw_path, read_json,
+                     use_domain, write_json)
 
 KST = ZoneInfo("Asia/Seoul")
 STATUS_PATH = STATE_DIR / "latest-run.json"
@@ -57,7 +58,7 @@ def backfill_new_journals(con):
     so weekly trends never compare weeks with different journal sets."""
     covered = read_json(JOURNALS_PATH, None)
     # Coverage is keyed by name + ISSNs, so adding an ISSN to an existing journal also triggers a backfill.
-    configured = [f"{name} [{issns}]" for name, issns in SETTINGS["journals"].items()]
+    configured = [f"{name} [{issns}]" for name, issns in all_journals().items()]
     if covered is None:  # first run with this feature: everything configured so far is complete
         write_json(JOURNALS_PATH, configured)
         return
@@ -66,6 +67,9 @@ def backfill_new_journals(con):
         return
     new = [key.split(" [")[0] for key in new_keys]
     runs = con.execute("SELECT run_id, period_start, period_end FROM collection_runs ORDER BY run_id").fetchall()
+    # Optionally only the most recent weeks (keeps the first run after adding many journals short).
+    if SETTINGS.get("new_journal_backfill_weeks"):
+        runs = runs[-int(SETTINGS["new_journal_backfill_weeks"]):]
     for run in runs:
         period = Period(date.fromisoformat(run["run_id"]))
         records = collect.collect(period, journals=new, start=run["period_start"], end=run["period_end"])
@@ -75,27 +79,60 @@ def backfill_new_journals(con):
     write_json(JOURNALS_PATH, [key for key in covered if key in configured] + new_keys)
 
 
-def build_outputs(con, period):
-    current = [database.as_record(r) for r in database.papers_between(con, period.start, period.end)]
-    previous = [database.as_record(r) for r in database.papers_between(con, period.previous.start, period.previous.end)]
-    payload = database.export_payload(con)
-    cumulative = [database.as_record(r) for r in payload["papers"]]
+def domain_payload(payload, name):
+    """The DB export restricted to one section, with that section's topic rules applied."""
+    from .common import topics_for
+    papers = [dict(p) for p in payload["papers"] if in_domain(database.as_record(p), name)]
+    links = []
+    with use_domain(name):
+        for p in papers:
+            areas = topics_for({"title": p["title_en"], "journal": p["journal"], "abstract": p.get("abstract") or ""})
+            p["primary_topic"] = areas[0]
+            links += [{"doi": p["doi"], "topic_ko": a, "is_primary": int(i == 0)} for i, a in enumerate(areas)]
+    return {**payload, "papers": papers, "paper_topics": links}
 
-    (SITE_DIR / "archive").mkdir(parents=True, exist_ok=True)
-    for path, prefix in [(SITE_DIR / "index.html", "./"), (SITE_DIR / "archive" / f"{period.run_id}.html", "../")]:
-        page = build_dashboard.render(period, [dict(r) for r in current], previous, cumulative, len(payload["runs"]), prefix)
+
+def build_section(name, period, all_current, all_previous, payload, run_count):
+    """Weekly dashboard + archive + DB page for one section. Nuclear lives in papers/, fusion in papers/fusion/."""
+    base = SITE_DIR if name == "nuclear" else SITE_DIR / name
+    depth = "" if name == "nuclear" else "../"
+    section = domain_payload(payload, name)
+    current = [r for r in all_current if in_domain(r, name)]
+    previous = [r for r in all_previous if in_domain(r, name)]
+    cumulative = [database.as_record(r) for r in section["papers"]]
+    (base / "archive").mkdir(parents=True, exist_ok=True)
+    for path, prefix in [(base / "index.html", "./" + depth), (base / "archive" / f"{period.run_id}.html", "../" + depth)]:
+        try:
+            page = build_dashboard.render(period, [dict(r) for r in current], [dict(r) for r in previous], cumulative,
+                                          run_count, prefix, domain=name)
+        except ValueError as error:  # e.g. no papers yet in this section for the week
+            if name == "nuclear":
+                raise
+            page = build_dashboard.render_empty(period, prefix, name, str(error))
         path.write_text(page, encoding="utf-8")
+    archives = [path.stem for path in (base / "archive").glob("*.html")]
+    with use_domain(name):
+        (base / "database.html").write_text(build_database_page.render(section, archives, domain=name), encoding="utf-8")
+    return current, previous, section
 
-    email_html = build_email.render(period, current, previous, len(payload["papers"]), len(payload["runs"]))
+
+def build_outputs(con, period):
+    all_current = [database.as_record(r) for r in database.papers_between(con, period.start, period.end)]
+    all_previous = [database.as_record(r) for r in database.papers_between(con, period.previous.start, period.previous.end)]
+    payload = database.export_payload(con)
+    run_count = len(payload["runs"])
+    fusion_current, _, _ = build_section("fusion", period, all_current, all_previous, payload, run_count)
+    current, previous, nuclear = build_section("nuclear", period, all_current, all_previous, payload, run_count)
+
+    email_html = build_email.render(period, current, previous, len(nuclear["papers"]), run_count)
     email_path = OUTPUT_DIR / f"email-{period.run_id}.html"
     email_path.parent.mkdir(parents=True, exist_ok=True)
     email_path.write_text(email_html, encoding="utf-8")
 
     excel_path = build_excel.build(payload, OUTPUT_DIR / "nuclear-literature-database.xlsx")
     shutil.copy2(excel_path, SITE_DIR / excel_path.name)
-    archives = [path.stem for path in (SITE_DIR / "archive").glob("*.html")]
-    (SITE_DIR / "database.html").write_text(build_database_page.render(payload, archives), encoding="utf-8")
-    return {"current": len(current), "previous": len(previous), "papers": len(payload["papers"]), "runs": len(payload["runs"]),
+    return {"current": len(current), "previous": len(previous), "papers": len(nuclear["papers"]), "runs": run_count,
+            "fusion_current": len(fusion_current), "all_papers": len(payload["papers"]),
             "email_html": email_html, "email_path": email_path, "excel_path": excel_path}
 
 
@@ -141,7 +178,8 @@ def main():
                 newsletter_state = f"failed: {error}"
         status.update({
             "status": "success", "article_count": result["current"], "previous_count": result["previous"],
-            "total_papers": result["papers"], "total_runs": result["runs"], "integrity": integrity,
+            "total_papers": result["papers"], "total_runs": result["runs"],
+            "fusion_article_count": result["fusion_current"], "all_papers": result["all_papers"], "integrity": integrity,
             "email": email_state, "newsletter": newsletter_state, "recipients": SETTINGS["recipients"], "dashboard_url": SETTINGS.get("dashboard_url", ""),
             "email_path": str(result["email_path"].relative_to(OUTPUT_DIR.parent)),
             "excel_path": str(result["excel_path"].relative_to(OUTPUT_DIR.parent)),

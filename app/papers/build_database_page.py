@@ -15,7 +15,10 @@ def week_of(value):
     return (day - timedelta(days=day.weekday())).isoformat()
 
 
-def render(payload, archive_ids):
+def render(payload, archive_ids, domain="nuclear"):
+    from .build_dashboard import TAB_CSS, paper_tabs
+    root = "../" if domain == "nuclear" else "../../"
+    field = "원자력공학" if domain == "nuclear" else "핵융합"
     papers = payload["papers"]
     topics_by_doi = defaultdict(list)
     for link in payload["paper_topics"]:
@@ -49,7 +52,7 @@ def render(payload, archive_ids):
     with_abstract = sum(bool(r["ab"]) for r in rows)
     with_country = sum(bool(r["c"]) for r in rows)
 
-    css = """
+    css = TAB_CSS + """
 .filters{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:.5rem;margin-bottom:.75rem}
 @media(max-width:640px){.filters{grid-template-columns:1fr 1fr}}
 .filters input,.filters select,.filters2 input[type=date],.filters2 select{width:100%;padding:.6rem .7rem;border:1px solid var(--color-line);border-radius:0;
@@ -107,12 +110,13 @@ details p{margin:.5rem 0 0;line-height:1.9;color:var(--color-neutral-700);max-wi
     )
     return f"""<!doctype html>
 <html lang="ko"><head>
-{site_theme.head("원자력공학 문헌 누적 데이터베이스 · " + site_theme.SITE["title"], f"원자력공학 주요 {len(SETTINGS['journals'])}개 저널 누적 논문 데이터베이스 — 검색, 필터, 주간 추세", css, "../")}
+{site_theme.head(field + " 문헌 누적 데이터베이스 · " + site_theme.SITE["title"], f"{field} 주요 {len(SETTINGS['journals'])}개 저널 누적 논문 데이터베이스, 검색·필터·주간 추세", css, root)}
 </head><body>
-{site_theme.site_header("database", "../")}
-{site_theme.page_header("Literature Database", "원자력공학 문헌 누적 데이터베이스",
+{site_theme.site_header("database", root)}
+{site_theme.page_header("Literature Database", field + " 문헌 누적 데이터베이스",
     f"<b>{len(journals)}개 저널 · DOI 등록일 {esc(first)} ~ {esc(last)}</b> · DOI 기준 중복 제거. 검색·필터 결과는 CSV로, 전체 DB는 Excel로 내려받을 수 있습니다.")}
 <main class="page"><div class="container-page">
+{paper_tabs(root, domain, "database.html")}
 <section class="section"><div class="stats" style="grid-template-columns:repeat(auto-fit,minmax(9rem,1fr))">{stats}</div></section>
 
 <section class="section sec-grid"><div class="sec-side"><p class="eyebrow">01</p><h2>주간 신규 논문 수</h2>
@@ -153,7 +157,7 @@ details p{margin:.5rem 0 0;line-height:1.9;color:var(--color-neutral-700);max-wi
 <section class="section sec-grid"><div class="sec-side"><p class="eyebrow">Archive</p><h2>회차별 동향</h2>
 <p class="note">매주 발행된 동향 페이지 원본입니다.</p></div><div class="sec-body"><div class="archive" id="archive"></div></div></section>
 </div></main>
-{site_theme.site_footer("papers", "../")}
+{site_theme.site_footer("papers", root)}
 <script id="data" type="application/json">{data_json}</script>
 <script>
 (() => {{

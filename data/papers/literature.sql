@@ -3693,6 +3693,16 @@ INSERT INTO "topics" VALUES(6,'방사선·계측','radiation; detector; dosim; s
 INSERT INTO "topics" VALUES(7,'핵연료주기·폐기물','waste; spent fuel; fuel cycle; pyroprocessing; decommission; disposal; incineration; storage',1);
 INSERT INTO "topics" VALUES(8,'설계·운전·경제','design; operation; maintenance; economic; cost; control room; optimization; management; policy; sociotechnical',1);
 INSERT INTO "topics" VALUES(9,'기타 원자력','',1);
+INSERT INTO "topics" VALUES(10,'관성밀폐·레이저','inertial; laser; implosion; ignition; z-pinch; pinch; icf',1);
+INSERT INTO "topics" VALUES(11,'자석·초전도','magnet; superconduct; hts; rebco; nb3sn; quench; coil; cryogenic; toroidal field; central solenoid',1);
+INSERT INTO "topics" VALUES(12,'가열·전류구동','heating; current drive; neutral beam; nbi; ecrh; electron cyclotron; ion cyclotron; icrf; lower hybrid; gyrotron; helicon; antenna',1);
+INSERT INTO "topics" VALUES(13,'블랭킷·삼중수소·연료주기','blanket; breeding; tritium; fuel cycle; lithium; pbli; lead-lithium; permeation; isotope separation; deuterium',1);
+INSERT INTO "topics" VALUES(14,'디버터·대향재료·재료','divertor; plasma-facing; first wall; tungsten; material; irradiation; damage; erosion; steel; eurofer; alloy; coating; hydrogen retention; helium',1);
+INSERT INTO "topics" VALUES(15,'진단·제어·AI','diagnostic; measurement; spectroscop; interferomet; thomson; bolometer; control; machine learning; deep learning; neural; artificial intelligence; reinforcement learning; real-time',1);
+INSERT INTO "topics" VALUES(16,'중성자·차폐·안전','neutron; neutronics; shielding; shield; activation; dose; safety; accident; radiation; monte carlo; mcnp; openmc; licensing',1);
+INSERT INTO "topics" VALUES(17,'플라즈마 물리·밀폐','confinement; turbulence; mhd; magnetohydrodynamic; instability; disruption; edge localized; elm; pedestal; equilibrium; runaway; gyrokinetic; plasma transport; energy confinement',1);
+INSERT INTO "topics" VALUES(18,'설계·원격유지보수·공학','design; remote handling; maintenance; vacuum vessel; cooling; thermal; heat flux; structural; manufactur; assembly; power plant; cost; integration',1);
+INSERT INTO "topics" VALUES(19,'기타 핵융합','',1);
 CREATE INDEX idx_papers_journal ON papers(journal);
 CREATE INDEX idx_papers_registered ON papers(doi_registered_date);
 CREATE INDEX idx_papers_topic ON papers(primary_topic);

@@ -112,7 +112,7 @@ def news_panel(days, section="news", label="원자력", eyebrow="Today · News")
 
 
 def papers_panel():
-    from .papers.common import RAW_DIR, STATE_DIR, watchlists_for
+    from .papers.common import RAW_DIR, STATE_DIR, in_domain, watchlists_for
 
     status = read_json(STATE_DIR / "latest-run.json", {}) or {}
     run = status.get("run_date")
@@ -127,6 +127,8 @@ def papers_panel():
     if not records:
         return head_html + '<p class="notice">아직 수집된 논문이 없습니다. 매주 월요일 아침에 갱신됩니다.</p></article>'
 
+    fusion_count = sum(in_domain(r, "fusion") for r in records)
+    records = [r for r in records if in_domain(r, "nuclear")]  # fusion journals have their own page
     count = len(records)
     previous = status.get("previous_count") if status.get("run_date") == run else None
     delta = ""
@@ -155,6 +157,7 @@ def papers_panel():
     if interest:
         parts.append(f'<ul class="interest">{interest}</ul>')
     parts.append('<div class="more"><a class="primary" href="papers/index.html">이번 주 동향</a>'
+                 f'<a href="papers/fusion/index.html">핵융합 논문 {fusion_count}편</a>'
                  '<a href="papers/database.html">논문 DB 검색</a></div></article>')
     return "".join(parts)
 

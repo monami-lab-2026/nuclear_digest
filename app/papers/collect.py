@@ -14,7 +14,7 @@ from urllib.parse import quote
 
 import requests
 
-from .common import HEADERS, SETTINGS, Period, raw_path, write_json
+from .common import HEADERS, SETTINGS, Period, all_journals, raw_path, write_json
 
 session = requests.Session()
 session.headers.update(HEADERS)
@@ -118,7 +118,7 @@ def collect(period: Period, journals=None, start=None, end=None):
     """journals: subset of SETTINGS["journals"] names (default all). start/end override the period window."""
     start, end = start or period.start.isoformat(), end or period.end.isoformat()
     records = {}
-    for journal, issns in SETTINGS["journals"].items():
+    for journal, issns in all_journals().items():
         if journals and journal not in journals:
             continue
         # A journal may list print and electronic ISSNs ("print,electronic"); both are queried, DOIs deduplicated.
@@ -176,7 +176,7 @@ def enrich_recent(con, since, limit=800):
     from .database import set_topics
 
     rows = con.execute(
-        "SELECT doi, title_en, abstract, countries FROM papers WHERE doi_registered_date >= ? "
+        "SELECT doi, title_en, journal, abstract, countries FROM papers WHERE doi_registered_date >= ? "
         "AND (IFNULL(abstract,'')='' OR IFNULL(countries,'')='') ORDER BY doi_registered_date DESC LIMIT ?",
         (str(since), limit),
     ).fetchall()
@@ -197,7 +197,7 @@ def enrich_recent(con, since, limit=800):
                             (";".join(countries), primary, row["doi"]))
             if (work.get("open_access") or {}).get("is_oa"):
                 con.execute("UPDATE papers SET open_access=1 WHERE doi=?", (row["doi"],))
-            primary_topic = set_topics(con, row["doi"], {"title": row["title_en"], "abstract": abstract})
+            primary_topic = set_topics(con, row["doi"], {"title": row["title_en"], "journal": row["journal"], "abstract": abstract})
             con.execute("UPDATE papers SET primary_topic=? WHERE doi=?", (primary_topic, row["doi"]))
             time.sleep(0.05)
     return filled
@@ -210,7 +210,7 @@ def main():
     period = Period.for_date(date.fromisoformat(args.run_date))
     records = collect(period)
     write_json(raw_path(period, "current"), records)
-    by_journal = {j: sum(r["journal"] == j for r in records) for j in SETTINGS["journals"]}
+    by_journal = {j: sum(r["journal"] == j for r in records) for j in all_journals()}
     print(json.dumps({"run_id": period.run_id, "start": str(period.start), "end": str(period.end), "count": len(records), "by_journal": by_journal}, ensure_ascii=False))
 
 

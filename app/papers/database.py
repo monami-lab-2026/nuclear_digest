@@ -2,7 +2,7 @@
 import sqlite3
 from datetime import datetime
 
-from .common import DB_PATH, DUMP_PATH, SETTINGS, document_type, strip_markup, topics_for
+from .common import DB_PATH, DOMAINS, DUMP_PATH, SETTINGS, document_type, strip_markup, topics_for
 
 SCHEMA = """
 CREATE TABLE IF NOT EXISTS papers (
@@ -86,7 +86,11 @@ def connect(path=DB_PATH):
 
 
 def sync_topics(con):
-    names = list(SETTINGS["topics"].items()) + [(SETTINGS["fallback_topic"], [])]
+    names = []
+    for rules in DOMAINS.values():  # nuclear and fusion topic names share one table
+        for item in list(rules["topics"].items()) + [(rules["fallback_topic"], [])]:
+            if item[0] not in dict(names):
+                names.append(item)
     with con:
         for i, (topic, terms) in enumerate(names, 1):
             con.execute(
@@ -109,13 +113,14 @@ def reclassify_all(con):
     keyword_exceptions (or to the matching rule) also fixes papers collected earlier. Returns papers changed."""
     changed = 0
     with con:
-        for row in con.execute("SELECT doi, title_en, abstract, primary_topic FROM papers").fetchall():
-            areas = topics_for({"title": row["title_en"], "abstract": row["abstract"]})
+        for row in con.execute("SELECT doi, title_en, journal, abstract, primary_topic FROM papers").fetchall():
+            record = {"title": row["title_en"], "journal": row["journal"], "abstract": row["abstract"]}
+            areas = topics_for(record)
             stored = [r["topic_ko"] for r in con.execute(
                 "SELECT topic_ko FROM paper_topics WHERE doi=? ORDER BY is_primary DESC, rowid", (row["doi"],))]
             if stored == areas and row["primary_topic"] == areas[0]:
                 continue
-            set_topics(con, row["doi"], {"title": row["title_en"], "abstract": row["abstract"]})
+            set_topics(con, row["doi"], record)
             con.execute("UPDATE papers SET primary_topic=? WHERE doi=?", (areas[0], row["doi"]))
             changed += 1
     return changed
@@ -166,8 +171,8 @@ def upsert_run(con, period, records, additive=False):
                     ";".join(r.get("countries", [])), r.get("primary_country", ""), r.get("country_source", ""),
                 ),
             )
-            row = con.execute("SELECT title_en, abstract FROM papers WHERE doi=?", (doi,)).fetchone()
-            primary = set_topics(con, doi, {"title": row["title_en"], "abstract": row["abstract"]})
+            row = con.execute("SELECT title_en, journal, abstract FROM papers WHERE doi=?", (doi,)).fetchone()
+            primary = set_topics(con, doi, {"title": row["title_en"], "journal": row["journal"], "abstract": row["abstract"]})
             con.execute("UPDATE papers SET primary_topic=? WHERE doi=?", (primary, doi))
             con.execute("INSERT OR IGNORE INTO paper_runs(doi,run_id) VALUES(?,?)", (doi, run_id))
         after = con.execute("SELECT COUNT(*) FROM papers").fetchone()[0]

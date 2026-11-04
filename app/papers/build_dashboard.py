@@ -12,7 +12,7 @@ from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 
 from .. import site_theme
 from . import wordcloud
-from .common import SETTINGS, document_type, matches_any, paper_text, topics_for
+from .common import DOMAIN_LABELS, SETTINGS, document_type, matches_any, paper_text, topics_for, use_domain
 
 from .wordcloud import split_config as _split_trends
 TRENDS, TRENDS_EN = _split_trends(SETTINGS.get("trend_keywords", {}))
@@ -55,8 +55,55 @@ def provisional_intro(title, tags):
 
 
 
-def render(period, records, previous_records, cumulative_records, run_count, nav_prefix="./"):
+PAPER_TABS = [("nuclear", "원자력", ""), ("fusion", "핵융합", "fusion/")]
+TAB_CSS = """
+.topic-switch{display:inline-flex;margin:0 0 1.5rem;border:1px solid var(--color-line-strong)}
+.topic-switch a{padding:.6rem 1.2rem;font-size:.9375rem;font-weight:600;text-decoration:none;color:var(--color-neutral-600)}
+.topic-switch a+a{border-left:1px solid var(--color-line-strong)}
+.topic-switch a:hover{color:var(--color-accent)}
+.topic-switch a[aria-current]{background:var(--color-accent);color:#fff}
+"""
+
+
+def paper_tabs(root, domain, page="index.html", run_id=None):
+    """원자력 | 핵융합 tabs. root = site root; on an archive page the other tab opens the same week if it exists."""
+    links = []
+    for key, label, sub in PAPER_TABS:
+        href = f"{root}papers/{sub}{page}"
+        if run_id:
+            href = f"{root}papers/{sub}archive/{run_id}.html"
+        current = ' aria-current="page"' if key == domain else ""
+        links.append(f'<a href="{href}"{current}>{label}</a>')
+    return f'<nav class="topic-switch" aria-label="논문 분야">{"".join(links)}</nav>'
+
+
+def render_empty(period, nav_prefix, domain, reason=""):
+    root = nav_prefix + "../"
+    label = DOMAIN_LABELS[domain]
+    return (f'<!doctype html><html lang="ko"><head>{site_theme.head(f"{label} 최근 논문 동향 · {period.run_id}", f"{label} 논문 주간 동향", site_theme.DASHBOARD_CSS + TAB_CSS, root)}</head><body>'
+            f'{site_theme.site_header("papers", root)}{site_theme.page_header(f"Weekly Literature Watch · {period.run_id}", f"{label} 최근 논문 동향")}'
+            f'<main class="page"><div class="container-page">{paper_tabs(root, domain)}'
+            f'<p class="note">{period.start} ~ {period.end} 에 이 분야로 분류된 새 논문이 아직 없습니다. 다음 주간 수집 때 다시 갱신됩니다.</p></div></main>'
+            f'{site_theme.site_footer("papers", root)}</body></html>')
+
+
+def render(period, records, previous_records, cumulative_records, run_count, nav_prefix="./", domain="nuclear"):
+    with use_domain(domain):
+        global TRENDS, TRENDS_EN, WATCHLISTS, FALLBACK_TOPIC
+        TRENDS, TRENDS_EN = _split_trends(SETTINGS.get("trend_keywords", {}))
+        WATCHLISTS, FALLBACK_TOPIC = SETTINGS["watchlists"], SETTINGS["fallback_topic"]
+        try:
+            return _render(period, records, previous_records, cumulative_records, run_count, nav_prefix, domain)
+        finally:
+            with use_domain("nuclear"):
+                TRENDS, TRENDS_EN = _split_trends(SETTINGS.get("trend_keywords", {}))
+                WATCHLISTS, FALLBACK_TOPIC = SETTINGS["watchlists"], SETTINGS["fallback_topic"]
+
+
+def _render(period, records, previous_records, cumulative_records, run_count, nav_prefix, domain):
     """records / previous_records / cumulative_records: dicts from database.as_record()."""
+    LABEL = DOMAIN_LABELS[domain]
+    FIELD = "원자력공학" if domain == "nuclear" else "핵융합"
     RUN_DATE = period.run_id
     PERIOD_START, PERIOD_END = period.start.isoformat(), period.end.isoformat()
     PREVIOUS_START, PREVIOUS_END = period.previous.start.isoformat(), period.previous.end.isoformat()
@@ -318,12 +365,13 @@ def render(period, records, previous_records, cumulative_records, run_count, nav
     </svg>
     <p class="chart-note">점 하나는 논문 한 편입니다. 가까울수록 제목에 등장하는 용어가 유사하며, 점을 가리키면 한글 제목을 확인하고 클릭하면 DOI로 이동합니다.</p>'''
 
-    head_html = site_theme.head(f"원자력공학 최근 논문 동향 · {RUN_DATE}", f"{PERIOD_START}~{PERIOD_END} 원자력공학 주요 {len(SETTINGS['journals'])}개 저널 신규 논문 동향", site_theme.DASHBOARD_CSS + wordcloud.CSS, nav_prefix + "../")
+    head_html = site_theme.head(f"{FIELD} 최근 논문 동향 · {RUN_DATE}", f"{PERIOD_START}~{PERIOD_END} {FIELD} 주요 {len(SETTINGS['journals'])}개 저널 신규 논문 동향", site_theme.DASHBOARD_CSS + wordcloud.CSS + TAB_CSS, nav_prefix + "../")
     header_html = site_theme.site_header("papers", nav_prefix + "../")
     page_head_html = site_theme.page_header(
         f"Weekly Literature Watch · {RUN_DATE}",
-        "원자력공학 최근 논문 동향",
-        f"<b>{PERIOD_START} ~ {PERIOD_END}</b> DOI 신규 등록 논문 {len(records)}편 · {len(SETTINGS['journals'])}개 원자력공학 저널. "
+        f"{FIELD} 최근 논문 동향",
+        (f"<b>{PERIOD_START} ~ {PERIOD_END}</b> DOI 신규 등록 논문 {len(records)}편 · {len(SETTINGS['journals'])}개 원자력공학 저널. " if domain == "nuclear" else
+         f"<b>{PERIOD_START} ~ {PERIOD_END}</b> 핵융합 논문 {len(records)}편 · 핵융합 전문 저널 전체와 원자력공학 저널의 핵융합 관련 논문. ") +
         f"동향 지표 일부는 누적 {len(cumulative_records)}편({run_count}회 수집)을 함께 씁니다.",
     )
     stats_html = (
@@ -341,8 +389,9 @@ def render(period, records, previous_records, cumulative_records, run_count, nav
     {header_html}
     {page_head_html}
     <main class="page"><div class="container-page">
+      {paper_tabs(nav_prefix + "../", domain, run_id=None if nav_prefix.startswith("./") else RUN_DATE)}
       <section class="section sec-grid"><div class="sec-side"><p class="eyebrow eyebrow-mark eyebrow-accent">Keywords</p><h2>이번 주 트렌드 키워드</h2>
-        <p class="note">이번 주 새 논문 {len(records)}편의 제목·초록에서 소형모듈원자로, 용융염원자로, 디지털트윈, 인공지능 같은 트렌드 키워드가 나온 논문 수입니다(영문 표기·약어도 함께 찾습니다). 글자가 클수록 많이 나왔고, 색은 그 논문들이 주로 속한 연구 영역입니다. 키워드를 누르면 해당 논문만 아래 목록에 남습니다.</p></div>
+        <p class="note">이번 주 새 논문 {len(records)}편의 제목·초록에서 {"소형모듈원자로, 용융염원자로, 디지털트윈, 인공지능" if domain == "nuclear" else "토카막, 블랭킷, 디버터, 고온초전도 자석"} 같은 트렌드 키워드가 나온 논문 수입니다(영문 표기·약어도 함께 찾습니다). 글자가 클수록 많이 나왔고, 색은 그 논문들이 주로 속한 연구 영역입니다. 키워드를 누르면 해당 논문만 아래 목록에 남습니다.</p></div>
         <div class="sec-body">{wordcloud_html}</div></section>
       <section class="section">{stats_html}</section>
       <section class="section sec-grid"><div class="sec-side"><p class="eyebrow">01</p><h2>저널 필터</h2></div><div class="sec-body"><div class="journal-filters" aria-label="저널별 논문 필터">{journal_rows}</div></div></section>

@@ -2,6 +2,7 @@
 import json
 import os
 import re
+from contextlib import contextmanager
 from dataclasses import dataclass
 from datetime import date, timedelta
 from pathlib import Path
@@ -34,6 +35,54 @@ def load_settings():
 
 
 SETTINGS = load_settings()
+
+# Two paper sections share one database and one weekly run:
+#   nuclear: the nuclear-engineering journals in "journals" (everything they publish)
+#   fusion:  the journals in fusion.journals, plus papers in the nuclear journals that match fusion.terms
+# Topic rules differ per section. use_domain() swaps the section's keys into SETTINGS while a page is built.
+_DOMAIN_KEYS = ("journals", "topics", "fallback_topic", "trend_keywords", "watchlists")
+_FUSION = SETTINGS.get("fusion", {})
+DOMAINS = {
+    "nuclear": {key: SETTINGS[key] for key in _DOMAIN_KEYS if key in SETTINGS},
+    "fusion": {
+        "journals": {**_FUSION.get("journals", {}), **SETTINGS["journals"]},
+        "topics": _FUSION.get("topics", SETTINGS["topics"]),
+        "fallback_topic": _FUSION.get("fallback_topic", "기타 핵융합"),
+        "trend_keywords": _FUSION.get("trend_keywords", SETTINGS.get("trend_keywords", {})),
+        "watchlists": _FUSION.get("watchlists", SETTINGS["watchlists"]),
+    },
+}
+DOMAIN_LABELS = {"nuclear": "원자력", "fusion": "핵융합"}
+FUSION_JOURNALS = dict(_FUSION.get("journals", {}))
+_ACTIVE = {"domain": None}
+
+
+def all_journals():
+    """Every journal the weekly run collects (nuclear + fusion)."""
+    return {**SETTINGS_BASE_JOURNALS, **FUSION_JOURNALS}
+
+
+SETTINGS_BASE_JOURNALS = dict(SETTINGS["journals"])
+
+
+@contextmanager
+def use_domain(name):
+    saved = {key: SETTINGS.get(key) for key in _DOMAIN_KEYS}
+    previous = _ACTIVE["domain"]
+    SETTINGS.update(DOMAINS[name])
+    _ACTIVE["domain"] = name
+    try:
+        yield
+    finally:
+        SETTINGS.update(saved)
+        _ACTIVE["domain"] = previous
+
+
+def in_domain(record, name):
+    journal = record.get("journal", "")
+    if name == "nuclear":
+        return journal in SETTINGS_BASE_JOURNALS
+    return journal in FUSION_JOURNALS or matches_any(record, _FUSION.get("terms", []))
 HEADERS = {"User-Agent": USER_AGENT.format(contact=SETTINGS["contact_email"])}
 
 
@@ -107,9 +156,13 @@ def matches_any(record_or_text, terms):
 
 
 def topics_for(record):
+    """Topic rules of the active section; outside use_domain(), a fusion journal's paper gets the fusion rules."""
     text = paper_text(record)
-    found = [name for name, terms in SETTINGS["topics"].items() if matches_any(text, terms)]
-    return found or [SETTINGS["fallback_topic"]]
+    rules = SETTINGS
+    if _ACTIVE["domain"] is None and record.get("journal") in FUSION_JOURNALS:
+        rules = DOMAINS["fusion"]
+    found = [name for name, terms in rules["topics"].items() if matches_any(text, terms)]
+    return found or [rules["fallback_topic"]]
 
 
 def watchlists_for(record):
