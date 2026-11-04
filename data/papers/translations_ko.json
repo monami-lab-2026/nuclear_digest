@@ -24,12 +24,12 @@
     "engine": "mymemory"
   },
   "10.1007/s10894-026-00608-5": {
-    "ko": "CAT-1 부유 쌍극자 장치에서 방사형 전기장이 알파 입자 가둠에 미치는 영향",
-    "engine": "mymemory"
+    "ko": "CAT-1 부상 쌍극자 장치에서 반경방향 전기장이 알파 입자 가둠에 미치는 영향",
+    "engine": "claude-session"
   },
   "10.1007/s10894-026-00610-x": {
-    "ko": "연료 구동에 의한 중성자 스펙트럼 연화 및 관성 핵융합 에너지 시스템에서 삼중수소 생성에 미치는 영향",
-    "engine": "mymemory"
+    "ko": "관성핵융합 에너지 시스템에서 연료에 의한 중성자 스펙트럼 연화와 삼중수소 증식에 미치는 영향",
+    "engine": "claude-session"
   },
   "10.1007/s41365-026-02003-3": {
     "ko": "China Spallation Neutron Source에서 단열 RF 중성자 스핀 플리퍼 개발",
@@ -1356,12 +1356,12 @@
     "engine": "mymemory"
   },
   "10.1016/j.fusengdes.2026.116102": {
-    "ko": "잡음에 강한 위치 및 형상 재구성 및 자기 진단 시스템 개발: JT-60SA 최초 운전 단계에서 세계 최대 토카막 플라즈마 관측",
-    "engine": "mymemory"
+    "ko": "잡음에 강건한 위치·형상 재구성과 자기 진단 시스템 개발: JT-60SA 첫 운전 단계에서 세계 최대 토카막 플라즈마 관측",
+    "engine": "claude-session"
   },
   "10.1016/j.fusengdes.2026.116104": {
-    "ko": "기계적 그라인딩 및 플라즈마 스퍼터링 후 200 ~ 300°C에서 리튬으로 스테인레스 스틸 습윤",
-    "engine": "mymemory"
+    "ko": "기계 연삭 및 플라즈마 스퍼터링 후 200~300°C에서 리튬에 의한 스테인리스강 젖음",
+    "engine": "claude-session"
   },
   "10.1016/j.fusengdes.2026.116106": {
     "ko": "“고열유속 시험용 지지 구조물의 설계 및 신뢰성 평가”에 대한 정오표 [융합공학 및 설계 233(2026) 116071]",
@@ -1384,20 +1384,20 @@
     "engine": "mymemory"
   },
   "10.1016/j.fusengdes.2026.116119": {
-    "ko": "TCV 토카막에서 실시간 수직 불안정성 성장 속도 배합 및 근접 제어기 적용",
-    "engine": "mymemory"
+    "ko": "TCV 토카막의 실시간 수직 불안정성 성장률 정식화와 근접 제어기 적용",
+    "engine": "claude-session"
   },
   "10.1016/j.fusengdes.2026.116120": {
-    "ko": "KSTAR 운용 시나리오 평가를 위한 정규화된 핵융합 이득 지표 재검토",
-    "engine": "mymemory"
+    "ko": "KSTAR 운전 시나리오 평가를 위한 정규화 핵융합 이득 지표 재검토",
+    "engine": "claude-session"
   },
   "10.1016/j.fusengdes.2026.116121": {
     "ko": "부상 쌍극자 자기장 내에서 축 방향 자석 변위의 대칭 필터링 및 무차원 응답",
     "engine": "mymemory"
   },
   "10.1016/j.fusengdes.2026.116122": {
-    "ko": "핵융합로 하위 시스템에 속하는 압력 용기에서의 슬로싱 모델링",
-    "engine": "mymemory"
+    "ko": "핵융합로 하위계통 압력용기 내 슬로싱 모델링",
+    "engine": "claude-session"
   },
   "10.1016/j.fusengdes.2026.116124": {
     "ko": "견고한 최적 전력 흐름 및 에너지 저장 장치 연동을 기반으로 한 장펄스 핵융합 발전소의 계통 연계 방안 연구",
@@ -1409,15 +1409,15 @@
   },
   "10.1016/j.fusengdes.2026.116128": {
     "ko": "CHD 데이터 분석 및 처리 프레임워크",
-    "engine": "mymemory"
+    "engine": "claude-session"
   },
   "10.1016/j.fusengdes.2026.116129": {
     "ko": "CFEDR 토로이달 필드 프로토타입 코일의 턴 절연 자동 랩핑 진행",
     "engine": "mymemory"
   },
   "10.1016/j.fusengdes.2026.116132": {
-    "ko": "융합 밀리미터파 진단을 위한 이미지 거부 필터 설계 및 개발",
-    "engine": "mymemory"
+    "ko": "핵융합 밀리미터파 진단용 이미지 제거 필터 설계 및 개발",
+    "engine": "claude-session"
   },
   "10.1016/j.net.2026.104571": {
     "ko": "252Cf 핵분열 선원을 이용한 구형 철 시료의 중성자 누설 스펙트럼 벤치마크",
@@ -2228,16 +2228,16 @@
     "engine": "mymemory"
   },
   "10.1016/j.nme.2026.102243": {
-    "ko": "핵핵분열기체 확산을 위한 일반화된 스펙트럼 알고리즘: SCIANTIX에서의 구현 및 검증",
-    "engine": "mymemory"
+    "ko": "핵분열 기체 확산을 위한 일반화 스펙트럼 알고리즘: SCIANTIX 구현 및 검증",
+    "engine": "claude-session"
   },
   "10.1016/j.nme.2026.102244": {
-    "ko": "HL-3 토카막 제1벽의 연료 잔류량 모니터링을 위한 원격 현장 온라인 LIBS 진단법 개발",
-    "engine": "mymemory"
+    "ko": "HL-3 토카막 제1벽 연료 잔류 감시를 위한 원격 현장 온라인 LIBS 진단 개발",
+    "engine": "claude-session"
   },
   "10.1016/j.nme.2026.102247": {
-    "ko": "DT 네온 시드 플라즈마에서 ELM 발생 사이/발생 중 JET 다이버터의 텅스텐 침식 및 차폐 현상",
-    "engine": "mymemory"
+    "ko": "D-T Ne 주입 플라즈마의 ELM 간 및 ELM 중 구간에서 JET 디버터 텅스텐의 침식과 차폐",
+    "engine": "claude-session"
   },
   "10.1016/j.nucengdes.2026.115103": {
     "ko": "CAPRIX 연료봉 조사시험 모의 및 실험 데이터 비교: 정확한 조사 데이터의 중요성",
@@ -3548,16 +3548,16 @@
     "engine": "mymemory"
   },
   "10.1080/15361055.2026.2743960": {
-    "ko": "ITER MCTB 퀜칭 보호 시스템을 위한 저속 재래식 제어기의 설계 및 구현",
-    "engine": "mymemory"
+    "ko": "ITER MCTB 퀜치 보호 시스템용 저속 기존 제어기 설계 및 구현",
+    "engine": "claude-session"
   },
   "10.1080/15361055.2026.2743969": {
     "ko": "OpenFOAM을 사용하여 Athena Fusion Pilot Plant의 Flibe Jet Dynamics에 대한 통합 X-Ray 에너지 증착 및 제거 시뮬레이션을 수행합니다.",
     "engine": "mymemory"
   },
   "10.1080/15361055.2026.2746188": {
-    "ko": "핵융합로용 완전 통합형 액체 금속 시스템(FILMS): 개념 설계 및 타당성 분석",
-    "engine": "mymemory"
+    "ko": "핵융합로용 완전 통합 액체금속 시스템(FILMS): 개념 설계 및 예비 공학 해석",
+    "engine": "claude-session"
   },
   "10.1080/15361055.2026.2746829": {
     "ko": "액체 내 삼중수소 농도 측정을 위한 투과 프로브의 CFD 및 삼중수소 수송 모델링 결합 연구",
@@ -3708,48 +3708,48 @@
     "engine": "mymemory"
   },
   "10.1088/1361-6587/aeb977": {
-    "ko": "EMC3-EIRENE를 이용한 W7-X에서의 섬 공명 및 위치가 분리 전이 과정에 미치는 영향 연구",
-    "engine": "mymemory"
+    "ko": "EMC3-EIRENE를 이용한 W7-X의 섬 공명 및 위치가 분리 전이에 미치는 영향 연구",
+    "engine": "claude-session"
   },
   "10.1088/1361-6587/aeb978": {
-    "ko": "고온 고밀도 물질에서 높은 반복률로 양성자 저지력을 측정할 수 있는 플랫폼",
-    "engine": "mymemory"
+    "ko": "온고밀도 물질에서 고반복률 양성자 저지능 측정 플랫폼",
+    "engine": "claude-session"
   },
   "10.1088/1361-6587/aeb979": {
-    "ko": "경계층-SOL에서의 난류 수송에 대한 K-엡실론 모델링",
-    "engine": "mymemory"
+    "ko": "경계-SOL 경계층 난류 수송의 K-epsilon 모델링",
+    "engine": "claude-session"
   },
   "10.1088/1361-6587/aeb97a": {
-    "ko": "넓은 페데스탈을 갖는 정지 H 모드 DIII-D 플라즈마의 확장된 MHD 동역학",
-    "engine": "mymemory"
+    "ko": "넓은 페데스탈 정숙 H-모드 DIII-D 플라즈마의 확장 MHD 동역학",
+    "engine": "claude-session"
   },
   "10.1088/1361-6587/aeba15": {
     "ko": "이상화된 1차원 RF 쉬스 모델의 밀도 및 RF 구동 스케일링과 불순물 스퍼터링에 대한 함의",
-    "engine": "mymemory"
+    "engine": "claude-session"
   },
   "10.1088/1361-6587/aebabb": {
-    "ko": "CO₂ 홀 스러스터 성능에 대한 설비 효과의 수치적 민감도 분석",
-    "engine": "mymemory"
+    "ko": "CO₂ 홀 추력기 성능에 대한 시설 효과의 수치적 민감도 분석",
+    "engine": "claude-session"
   },
   "10.1088/1361-6587/aebabc": {
-    "ko": "WEST L-모드 플라즈마 가둠에 대한 플라즈마 전류 영향의 예측적 전체 반경 통합 모델링",
-    "engine": "mymemory"
+    "ko": "WEST L-모드 가둠에 대한 플라즈마 전류 영향의 예측적 전반경 통합 모델링",
+    "engine": "claude-session"
   },
   "10.1088/1361-6587/aebb60": {
-    "ko": "초고강도 레이저 초점 매개변수 특성화를 위한 레이저 폰더모티브 전자 가속의 스케일링 법칙",
-    "engine": "mymemory"
+    "ko": "초고강도 레이저 초점 변수 평가를 위한 레이저 폰더로모티브 전자 가속의 스케일링 법칙",
+    "engine": "claude-session"
   },
   "10.1088/1361-6587/aebb61": {
-    "ko": "T-REX 포획 전자 실험에서의 디오코트론 불안정성과 자이로트론 총의 전자 ​​구름과의 관련성",
-    "engine": "mymemory"
+    "ko": "포획 전자 실험 T-REX의 디오코트론 불안정성과 자이로트론 전자총 전자구름에 대한 시사점",
+    "engine": "claude-session"
   },
   "10.1088/1361-6587/aebb62": {
-    "ko": "폭주 전자 입사 조건에서 폭발성 흑연 파손 시뮬레이션을 위한 전략적 프레임워크",
-    "engine": "mymemory"
+    "ko": "폭주 전자 입사 시 흑연의 폭발적 파손 모사를 위한 전략적 프레임워크",
+    "engine": "claude-session"
   },
   "10.1088/1361-6587/aebbf2": {
-    "ko": "우주 날씨 플라즈마 물리학 모델링",
-    "engine": "mymemory"
+    "ko": "우주기상 플라즈마 물리 모델링",
+    "engine": "claude-session"
   },
   "10.1088/1741-4326/aeb035": {
     "ko": "동양에서 ICRF에 의해 가열된 수소 고속 이온의 비등방성 분포 진화의 첫 번째 관찰",
@@ -3884,47 +3884,47 @@
     "engine": "mymemory"
   },
   "10.1088/1741-4326/aeba9a": {
-    "ko": "DEMO에서 자기 센서 검증을 위한 방사선 환경의 중성자 특성 분석",
-    "engine": "mymemory"
+    "ko": "DEMO 자기 센서 검증을 위한 방사선 환경의 중성자 해석적 특성 분석",
+    "engine": "claude-session"
   },
   "10.1088/1741-4326/aeba9b": {
-    "ko": "DSMC 방법을 이용한 핵융합로 내부 냉각 회로에서의 헬륨 누출 및 이동에 대한 수치적 연구",
-    "engine": "mymemory"
+    "ko": "DSMC 방법을 이용한 핵융합로 용기 내 냉각회로의 헬륨 누설 및 수송 수치해석",
+    "engine": "claude-session"
   },
   "10.1088/1741-4326/aeba9c": {
-    "ko": "재활용률이 낮은 스크랩오프 층에서의 평행 수송에 대한 운동학적 변화: 1차원 자이로운동학 연구",
-    "engine": "mymemory"
+    "ko": "저재순환 스크레이프오프층에서 평행 수송의 운동론적 수정: 1차원 자이로운동론적 연구",
+    "engine": "claude-session"
   },
   "10.1088/1741-4326/aeba9d": {
-    "ko": "DEMO에 적용된 하이브리드 자기 진단: 일반 개념 및 통합 연구",
-    "engine": "mymemory"
+    "ko": "DEMO 하이브리드 자기 진단: 일반 개념 및 통합 연구",
+    "engine": "claude-session"
   },
   "10.1088/1741-4326/aebb48": {
-    "ko": "중성자 조사된 리튬에서 삼중수소 방출 및 결함 진화&#10; <sub>2</sub>&#10; 납&#10; <sub>엑스</sub>&#10; 티&#10; <sub>1-x</sub>&#10; 영형&#10; <sub>3</sub>&#10; 세라믹 조약돌",
-    "engine": "mymemory"
+    "ko": "중성자 조사된 Li2PbxTi1-xO3 세라믹 페블의 삼중수소 방출과 결함 변화",
+    "engine": "claude-session"
   },
   "10.1088/1741-4326/aebb49": {
     "ko": "COMPASS 헤일로 전류의 CarMa0NL 모델링",
-    "engine": "mymemory"
+    "engine": "claude-session"
   },
   "10.1088/1741-4326/aebb4a": {
-    "ko": "다중 토카막 데이터베이스 학습을 통한 기계 간 프로파일 예측 및 미분 가능한 최적화",
-    "engine": "mymemory"
+    "ko": "다중 토카막 데이터베이스 학습을 통한 장치 간 분포 예측 및 미분 가능 최적화",
+    "engine": "claude-session"
   },
   "10.1088/1741-4326/aebb4b": {
     "ko": "BIT1 PIC 모델링을 통한 역 플라즈마 쉬스 연구",
-    "engine": "mymemory"
+    "engine": "claude-session"
   },
   "10.1088/1741-4326/aebbce": {
-    "ko": "액체 금속 플라즈마 접촉 부품을 갖는 핵융합로에서 플라즈마 펄스 사이 액체 금속의 증발 구동 이동에 대한 간단한 모델",
-    "engine": "mymemory"
+    "ko": "액체금속 플라즈마 대향 부품을 갖춘 핵융합로에서 플라즈마 펄스 사이 증발에 의한 액체금속 이동의 단순 모델",
+    "engine": "claude-session"
   },
   "10.1088/1741-4326/aebbcf": {
-    "ko": "ASDEX 업그레이드의 분리 경계면 공간에서 펠릿에 의한 저밀도에서 고밀도 구속으로의 전이",
-    "engine": "mymemory"
+    "ko": "ASDEX Upgrade 분리면 위상공간에서 펠릿에 의한 저가둠에서 고가둠으로의 전이",
+    "engine": "claude-session"
   },
   "10.1088/1741-4326/aebbd0": {
-    "ko": "토카막에서 전자기 미세난류에 의한 전류의 방사형 수송",
-    "engine": "mymemory"
+    "ko": "토카막에서 전자기 미세난류에 의한 전류의 반경방향 수송",
+    "engine": "claude-session"
   }
 }
