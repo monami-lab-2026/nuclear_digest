@@ -50,11 +50,13 @@ def author_name(author):
     return " ".join(filter(None, [author.get("given", ""), author.get("family", "")])).strip() or author.get("name", "")
 
 
-def crossref_items(issn, start, end):
+def crossref_items(issn, start, end, found=None):
+    """found: optional list; True is appended when Crossref knows this ISSN (a 404 just yields nothing)."""
     cursor = "*"
     while cursor:
         payload = get_json(
             f"https://api.crossref.org/journals/{issn}/works",
+            allow_404=True,
             params={
                 "filter": f"from-created-date:{start},until-created-date:{end}",
                 "select": "DOI,title,author,created,published-online,published-print,issued,type,abstract,URL",
@@ -63,6 +65,10 @@ def crossref_items(issn, start, end):
                 "mailto": SETTINGS["contact_email"],
             },
         )
+        if payload is None:  # Crossref does not list the journal under this ISSN (often the electronic one)
+            return
+        if found is not None:
+            found.append(True)
         message = payload["message"]
         items = message.get("items", [])
         yield from items
@@ -123,7 +129,10 @@ def collect(period: Period, journals=None, start=None, end=None):
             continue
         # A journal may list print and electronic ISSNs ("print,electronic"); both are queried, DOIs deduplicated.
         issn = issns.split(",")[0].strip()
-        items = [item for value in issns.split(",") for item in crossref_items(value.strip(), start, end)]
+        known = []
+        items = [item for value in issns.split(",") for item in crossref_items(value.strip(), start, end, known)]
+        if not known:
+            raise RuntimeError(f"Crossref has no journal for {journal} ISSN {issns}; check config/papers.json")
         for item in items:
             registered = (item.get("created") or {}).get("date-time", "")[:10]
             doi = (item.get("DOI") or "").lower()
