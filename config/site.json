@@ -6,7 +6,7 @@
   "app_name": "원자력 노트",
   "_app_name": "홈 화면 아이콘 아래에 보이는 짧은 이름(6~8글자 권장)",
   "owner": "",
-  "credit": {"text": "논문·뉴스 모아보기 출처: 한양대학교 THINK LAB"},
+  "credit": {"text": "출처(소스 코드): github.com/monami-lab-2026/nuclear_digest", "url": "https://github.com/monami-lab-2026/nuclear_digest"},
   "maintainer": {"text": "운영: 전북대학교 MONAMI LAB", "url": "https://monami-lab-2026.github.io/"},
   "site_url": "https://monami-lab-2026.github.io/nuclear_digest/",
   "repo_url": "https://github.com/monami-lab-2026/nuclear_digest",
