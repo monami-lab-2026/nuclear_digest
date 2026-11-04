@@ -258,7 +258,7 @@ def _linked(item):
 
 def credit_line():
     """Bottom lines on the front pages: original source (credit) and current maintainer (maintainer)."""
-    lines = [_linked(SITE[key]) for key in ("credit", "maintainer") if (SITE.get(key) or {}).get("text")]
+    lines = [_linked(SITE[key]) for key in ("credit", "based_on", "maintainer") if (SITE.get(key) or {}).get("text")]
     if not lines:
         return ""
     return (f'<style>{CREDIT_CSS}</style><div class="site-credit"><div class="container-page">'
