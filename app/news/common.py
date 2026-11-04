@@ -1,5 +1,11 @@
-"""Shared paths, settings, and small helpers for the daily news pipeline."""
+"""Shared paths, settings, and small helpers for the daily news pipeline.
+
+The same pipeline serves several news sections. NEWS_TOPIC picks one (default: nuclear news):
+    NEWS_TOPIC=news    config/news.json         data/news    state/news    docs/news
+    NEWS_TOPIC=fusion  config/news_fusion.json  data/fusion  state/fusion  docs/fusion
+"""
 import json
+import os
 import re
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -7,16 +13,23 @@ from zoneinfo import ZoneInfo
 
 from ..config import DOCS_DIR, ROOT, SITE, _load, section_url
 
-DATA_DIR = ROOT / "data" / "news"
+TOPIC = os.environ.get("NEWS_TOPIC", "news").strip() or "news"
+DATA_DIR = ROOT / "data" / TOPIC
 DAYS_DIR = DATA_DIR / "days"          # one JSON per published day (the archive)
-STATE_DIR = ROOT / "state" / "news"
+STATE_DIR = ROOT / "state" / TOPIC
 SEEN_PATH = STATE_DIR / "seen.json"   # story keys already published, so a story is not repeated the next day
 LATEST_RUN_PATH = STATE_DIR / "latest-run.json"
-SITE_DIR = DOCS_DIR / "news"
+SITE_DIR = DOCS_DIR / TOPIC
 
-SETTINGS = _load("news.json")
-SETTINGS.update(site_url=section_url("news"), contact_email=SITE["contact_email"],
-                timezone=SITE.get("timezone", "Asia/Seoul"), interests=SITE.get("interests", {}))
+SETTINGS = _load("news.json" if TOPIC == "news" else f"news_{TOPIC}.json")
+SETTINGS.update(site_url=section_url(TOPIC), contact_email=SITE["contact_email"],
+                timezone=SITE.get("timezone", "Asia/Seoul"),
+                interests=SITE.get("interests", {}) if TOPIC == "news" else {})
+# Words that differ between sections (page titles, model instructions).
+SETTINGS.setdefault("label", "원자력")
+SETTINGS.setdefault("audience", SITE.get("audience", "원자력공학을 공부하는 학생"))
+SETTINGS.setdefault("reader", "원자력공학도")
+SETTINGS.setdefault("eyebrow", "Nuclear News Brief")
 # The paper section of this same site is always available as a reference link.
 SETTINGS["reference_library"] = [r for r in SETTINGS["reference_library"] if r["id"] != "papers"] + [
     {"id": "papers", "name": "이번 주 원자력공학 논문 (이 사이트)", "url": section_url("papers"),

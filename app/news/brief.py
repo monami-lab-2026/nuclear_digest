@@ -9,11 +9,11 @@ import os
 
 from .common import SETTINGS, SITE
 
-SYSTEM = """너는 매일 아침 발행되는 개인 학습용 '원자력 뉴스 브리핑'의 해설자다.
-독자는 """ + SITE.get("audience", "원자력공학을 공부하는 학생") + """이다.
+SYSTEM = """너는 매일 아침 발행되는 개인 학습용 '""" + SETTINGS["label"] + """ 뉴스 브리핑'의 해설자다.
+독자는 """ + SETTINGS["audience"] + """이다.
 
 해야 할 일
-1. 후보 기사 목록에서 원자력공학도에게 의미 있는 뉴스를 고른다. 국내와 해외를 모두 다루고,
+1. 후보 기사 목록에서 """ + SETTINGS["reader"] + """에게 의미 있는 뉴스를 고른다. 국내와 해외를 모두 다루고,
    같은 사건은 하나로 묶는다. 단순 인사·행사·주가 기사, 핵무기·북핵 등 군사·안보 기사는 뺀다.
 2. 고른 뉴스마다 쉬운 한국어로 상황을 정리하고, 공학도 관점의 의미를 설명한다.
 
@@ -33,11 +33,11 @@ SYSTEM = """너는 매일 아침 발행되는 개인 학습용 '원자력 뉴스
 - 감탄·과장·홍보 문구를 쓰지 않는다. 문장 가운데 줄표(—)를 쓰지 않는다.
 - 분량: summary 는 후보 목록의 사실만으로 2~3문장. 해설은 넉넉히 쓴다.
   background(기술 배경) 3~5문장: 이 뉴스를 이해하는 데 필요한 원리·제도·설비를 교과서 수준으로 설명한다
-  (예: 연료 장전 절차, 계속운전 제도, 원자로 피트 구조, SMR 인허가 단계).
+  (예: """ + SETTINGS.get("background_examples", "연료 장전 절차, 계속운전 제도, 원자로 피트 구조, SMR 인허가 단계") + """).
   why_it_matters 4~6문장: 공학적 의미, 관련 설계·안전 쟁점, 앞으로 볼 점을 구체적으로 쓴다.
   concepts 는 2~4개.
 - 학생이 스스로 생각해 볼 수 있는 질문을 하나씩 붙인다(정답을 암기하는 질문이 아니라 공학적 판단을 요구하는 질문).
-- study 에는 이 뉴스를 이해하는 데 필요한 교과 개념이나 검색 키워드를 적는다(예: "붕괴열", "피동 잔열제거계통").
+- study 에는 이 뉴스를 이해하는 데 필요한 교과 개념이나 검색 키워드를 적는다(예: """ + SETTINGS.get("study_examples", '"붕괴열", "피동 잔열제거계통"') + """).
 - reference_ids 는 주어진 참고 자료 목록의 id 에서만 고른다. 없으면 빈 배열."""
 
 SCHEMA = {
@@ -106,7 +106,7 @@ def interest_line():
 def build_prompt(candidates, day_label):
     library = "\n".join(f"- {r['id']}: {r['name']} ({r['about']})" for r in SETTINGS["reference_library"])
     return (
-        f"오늘은 {day_label}이다. 아래는 지난 하루 동안 수집한 원자력 관련 기사 후보다.\n"
+        f"오늘은 {day_label}이다. 아래는 지난 하루 동안 수집한 {SETTINGS['label']} 관련 기사 후보다.\n"
         f"{SETTINGS['min_stories']}~{SETTINGS['max_stories']}개 뉴스를 골라 중요한 순서로 브리핑을 작성하라. "
         "importance 는 3이 가장 중요하다. source_ids 에는 같은 사건을 다룬 후보 번호를 모두 넣는다.\n\n"
         f"{interest_line()}"

@@ -67,25 +67,25 @@ def day_label(value):
     return f"{d.month}월 {d.day}일 ({WEEKDAYS_KO[d.weekday()]})"
 
 
-def news_days():
+def news_days(section="news"):
     days = {}
-    for path in sorted((ROOT / "data" / "news" / "days").glob("*.json")):
+    for path in sorted((ROOT / "data" / section / "days").glob("*.json")):
         record = read_json(path)
         if record:
             days[record["date"]] = record
     return days
 
 
-def news_panel(days):
+def news_panel(days, section="news", label="원자력", eyebrow="Today · News"):
     if not days:
-        return ('<article class="panel"><p class="eyebrow eyebrow-mark eyebrow-accent">Today · News</p><h2>오늘의 원자력 뉴스</h2>'
-                '<p class="notice">아직 수집된 뉴스가 없습니다. 첫 수집이 끝나면 여기에 표시됩니다.</p></article>')
+        return (f'<article class="panel"><p class="eyebrow eyebrow-mark eyebrow-accent">{eyebrow}</p><h2>오늘의 {label} 뉴스</h2>'
+                f'<p class="notice">아직 수집된 뉴스가 없습니다. 첫 수집이 끝나면 여기에 표시됩니다.</p></article>')
     latest = max(days)
     record = days[latest]
     stories = record.get("stories", [])
     engine = record.get("engine", {}).get("engine")
-    parts = [f'<article class="panel"><p class="eyebrow eyebrow-mark eyebrow-accent">Today · News</p>',
-             f'<h2>오늘의 원자력 뉴스</h2><p class="sub">{esc(day_label(latest))} · 해설 {len(stories)}건 · '
+    parts = [f'<article class="panel"><p class="eyebrow eyebrow-mark eyebrow-accent">{eyebrow}</p>',
+             f'<h2>오늘의 {label} 뉴스</h2><p class="sub">{esc(day_label(latest))} · 해설 {len(stories)}건 · '
              f'살펴본 기사 {sum(len(c["items"]) for c in record.get("sources", []))}건</p>']
     if record.get("overview"):
         parts.append(f'<p class="overview">{esc(record["overview"])}</p>')
@@ -93,7 +93,7 @@ def news_panel(days):
         parts.append('<p class="notice">해설을 준비하고 있습니다. 우선 수집한 기사 제목만 볼 수 있습니다.</p>')
     if stories:
         items = "".join(
-            f'<li><div><a href="news/index.html">{esc(s["headline"])}</a>'
+            f'<li><div><a href="{section}/index.html">{esc(s["headline"])}</a>'
             f'<small>{esc(s["region"])} · {esc(s["category"])}</small></div></li>'
             for s in stories
         )
@@ -106,8 +106,8 @@ def news_panel(days):
         )
         if items:
             parts.append(f'<ol class="heads">{items}</ol>')
-    parts.append('<div class="more"><a class="primary" href="news/index.html">해설 전체 보기</a>'
-                 '<a href="news/archive.html">지난 브리핑</a></div></article>')
+    parts.append(f'<div class="more"><a class="primary" href="{section}/index.html">해설 전체 보기</a>'
+                 f'<a href="{section}/archive.html">지난 브리핑</a></div></article>')
     return "".join(parts)
 
 
@@ -180,8 +180,10 @@ def jobs_strip():
 
 def build_home():
     days = news_days()
-    lead = "매일 아침 국내외 원자력 뉴스 해설, 매주 주요 저널에 새로 나온 논문, 원자력 채용 공고를 한곳에서 봅니다."
+    lead = "매일 아침 국내외 원자력·핵융합 뉴스 해설, 매주 주요 저널에 새로 나온 논문, 원자력 채용 공고를 한곳에서 봅니다."
     body = (f'<section class="section"><div class="home-grid">{news_panel(days)}{papers_panel()}</div></section>'
+            f'<section class="section"><div class="home-grid one">'
+            f'{news_panel(news_days("fusion"), "fusion", "핵융합", "Today · Fusion")}</div></section>'
             f'{jobs_strip()}{recent_week(days)}')
     page = (
         f'<!doctype html><html lang="ko"><head>{head(SITE["title"], lead, HOME_CSS)}'

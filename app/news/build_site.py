@@ -8,7 +8,7 @@ docs/news/dates.json           available dates (for other tools and the home pag
 import json
 from datetime import date, datetime
 
-from .common import DAYS_DIR, KST, SETTINGS, SITE, SITE_DIR, date_label, read_json, write_json
+from .common import DAYS_DIR, KST, SETTINGS, SITE, SITE_DIR, TOPIC, date_label, read_json, write_json
 from ..site_theme import esc, head, page_header, site_footer, site_header
 
 NEWS_CSS = """
@@ -204,7 +204,7 @@ def render_day(record, dates, prefix, canonical=""):
     publishers = {i["publisher"] for c in clusters for i in c["items"]}
 
     lead = esc(record.get("overview")) if record.get("overview") else (
-        "원자력공학을 배우는 학생을 위해 국내외 원자력 뉴스를 매일 아침 골라, 무슨 일이 있었는지와 공학적으로 왜 중요한지를 쉬운 말로 정리합니다."
+        SETTINGS.get("lead", "원자력공학을 배우는 학생을 위해 국내외 원자력 뉴스를 매일 아침 골라, 무슨 일이 있었는지와 공학적으로 왜 중요한지를 쉬운 말로 정리합니다.")
     )
     body = [day_nav(record["date"], dates, prefix), engine_notice(record)]
     body.append(
@@ -232,13 +232,13 @@ def render_day(record, dates, prefix, canonical=""):
         body.append('<p class="notice">이 날은 조건에 맞는 새 기사를 찾지 못했습니다.</p>')
 
     canonical_tag = f'<link rel="canonical" href="{esc(canonical)}">' if canonical else ""
-    title = f"원자력 뉴스 브리핑 {record['date']} | {SITE['title']}"
+    title = f"{SETTINGS['label']} 뉴스 브리핑 {record['date']} | {SITE['title']}"
     root = prefix + "../"
     return (
-        f'<!doctype html><html lang="ko"><head>{head(title, "원자력공학도를 위한 국내외 원자력 뉴스 해설 " + record["date"], NEWS_CSS, root)}'
+        f'<!doctype html><html lang="ko"><head>{head(title, f"{SETTINGS['reader']}를 위한 국내외 {SETTINGS['label']} 뉴스 해설 " + record["date"], NEWS_CSS, root)}'
         f'{canonical_tag}</head><body>'
-        f'{site_header("news", root)}'
-        f'{page_header("Nuclear News Brief · " + esc(date_label(day)), "오늘의 원자력 뉴스", lead)}'
+        f'{site_header(TOPIC, root)}'
+        f'{page_header(SETTINGS["eyebrow"] + " · " + esc(date_label(day)), f"오늘의 {SETTINGS['label']} 뉴스", lead)}'
         f'<main class="page"><div class="container-page">{"".join(body)}</div></main>{site_footer("news", root, credit=bool(canonical))}</body></html>'
     )
 
@@ -262,8 +262,8 @@ def render_archive(days):
         blocks.append(f'<section class="month"><h2>{int(y)}년 {int(m)}월</h2>{"".join(rows)}</section>')
     body = "".join(blocks) or '<p class="notice">아직 쌓인 브리핑이 없습니다.</p>'
     return (
-        f'<!doctype html><html lang="ko"><head>{head(f"날짜별 모아보기 | 원자력 뉴스 브리핑 | {SITE['title']}", "지난 원자력 뉴스 브리핑 전체 목록", NEWS_CSS, "../")}'
-        f'</head><body>{site_header("news-archive", "../")}'
+        f'<!doctype html><html lang="ko"><head>{head(f"날짜별 모아보기 | {SETTINGS['label']} 뉴스 브리핑 | {SITE['title']}", f"지난 {SETTINGS['label']} 뉴스 브리핑 전체 목록", NEWS_CSS, "../")}'
+        f'</head><body>{site_header("news-archive" if TOPIC == "news" else TOPIC, "../")}'
         f'{page_header("Archive", "날짜별 모아보기", f"지금까지 쌓인 브리핑 {len(dates)}일치입니다. 날짜를 누르면 그날의 해설로 갑니다.")}'
         f'<main class="page"><div class="container-page">{body}</div></main>{site_footer("news", "../")}</body></html>'
     )

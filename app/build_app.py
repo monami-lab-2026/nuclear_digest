@@ -12,7 +12,7 @@ SW_VERSION = "v1"  # bump to drop old caches if the caching rules below change
 
 SERVICE_WORKER = """// Network first for pages and data (new briefs appear immediately), cache as offline fallback.
 const CACHE = 'nuclear-digest-%(version)s';
-const CORE = ['./', './index.html', './news/index.html', './papers/index.html', './jobs/index.html', './install.html', './icon.svg', './manifest.webmanifest'];
+const CORE = ['./', './index.html', './news/index.html', './fusion/index.html', './papers/index.html', './jobs/index.html', './install.html', './icon.svg', './manifest.webmanifest'];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(CORE)).catch(() => {}).then(() => self.skipWaiting()));
 });

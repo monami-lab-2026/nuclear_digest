@@ -164,6 +164,7 @@ MOON = '<svg class="moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" 
 
 # (key, label, path from docs/). One menu for the whole site, so news and papers feel like one app.
 NAV = [("home", "홈", "index.html"), ("news", "오늘의 뉴스", "news/index.html"), ("news-archive", "뉴스 모아보기", "news/archive.html"),
+       ("fusion", "핵융합 뉴스", "fusion/index.html"),
        ("papers", "이번 주 논문", "papers/index.html"), ("database", "논문 DB", "papers/database.html"),
        ("jobs", "취업", "jobs/index.html")]
 
@@ -274,6 +275,7 @@ def site_footer(section="home", root="./", credit=False):
 <div><p class="name">{esc(SITE["title"])}</p><p>{esc(SITE.get("subtitle", ""))}{owner}</p></div>
 <div><p class="eyebrow">{eyebrow}</p><p>{note}</p></div>
 <div><p class="eyebrow">바로 가기</p><p><a class="link-underline" href="{root}news/index.html">오늘의 뉴스</a><br>
+<a class="link-underline" href="{root}fusion/index.html">핵융합 뉴스</a><br>
 <a class="link-underline" href="{root}papers/index.html">이번 주 논문</a><br>
 <a class="link-underline" href="{root}jobs/index.html">원자력 취업</a><br>
 <a class="link-underline" href="{root}papers/nuclear-literature-database.xlsx">논문 DB Excel</a>{repo_link}</p></div>

@@ -1,0 +1,105 @@
+{
+  "_comment": "핵융합 뉴스 섹션 설정. 구조는 news.json 과 같고, NEWS_TOPIC=fusion 으로 실행할 때 쓰입니다(data/fusion, docs/fusion).",
+  "label": "핵융합",
+  "reader": "핵융합·원자력공학도",
+  "audience": "핵융합과 원자력공학을 공부하는 대학(원)생",
+  "eyebrow": "Fusion News Brief",
+  "lead": "핵융합을 공부하는 학생을 위해 국내외 핵융합 뉴스를 매일 아침 골라, 무슨 일이 있었는지와 공학적으로 왜 중요한지를 쉬운 말로 정리합니다.",
+  "background_examples": "토카막 자기밀폐 원리, 로슨 조건과 삼중곱, 관성밀폐 점화, 블랭킷의 삼중수소 증식, 디버터 열부하",
+  "study_examples": "\"로슨 조건\", \"Q값(에너지 증폭률)\", \"초전도 자석\", \"삼중수소 증식비\"",
+
+  "model": "claude-opus-5",
+  "effort": "medium",
+  "max_candidates": 30,
+  "max_stories": 5,
+  "min_stories": 2,
+  "lookback_hours": 36,
+  "backfill_days": 3,
+  "seen_retention_days": 21,
+  "other_headlines_limit": 30,
+
+  "feeds": [
+    {
+      "id": "gnews-ko-fusion",
+      "name": "Google 뉴스 (국내 핵융합)",
+      "region": "국내",
+      "url": "https://news.google.com/rss/search?q=%ED%95%B5%EC%9C%B5%ED%95%A9+OR+KSTAR+OR+%EC%9D%B8%EA%B3%B5%ED%83%9C%EC%96%91+OR+%ED%95%B5%EC%9C%B5%ED%95%A9%EC%97%90%EB%84%88%EC%A7%80%EC%97%B0%EA%B5%AC%EC%9B%90+OR+ITER+when:1d&hl=ko&gl=KR&ceid=KR:ko",
+      "aggregator": true,
+      "needs_keyword": true,
+      "priority": 2
+    },
+    {
+      "id": "gnews-en-fusion",
+      "name": "Google News (international fusion)",
+      "region": "해외",
+      "url": "https://news.google.com/rss/search?q=%22fusion+energy%22+OR+%22nuclear+fusion%22+OR+%22fusion+power%22+OR+%22fusion+reactor%22+OR+tokamak+OR+stellarator+when:1d&hl=en-US&gl=US&ceid=US:en",
+      "aggregator": true,
+      "needs_keyword": true,
+      "priority": 2
+    },
+    {
+      "id": "wnn",
+      "name": "World Nuclear News",
+      "region": "해외",
+      "url": "https://www.world-nuclear-news.org/rss",
+      "aggregator": false,
+      "needs_keyword": true,
+      "priority": 1
+    },
+    {
+      "id": "ans",
+      "name": "ANS Nuclear Newswire",
+      "region": "해외",
+      "url": "https://www.ans.org/news/feed/",
+      "aggregator": false,
+      "needs_keyword": true,
+      "priority": 1
+    },
+    {
+      "id": "iaea",
+      "name": "IAEA",
+      "region": "해외",
+      "url": "https://www.iaea.org/feeds/topnews",
+      "aggregator": false,
+      "needs_keyword": true,
+      "priority": 1
+    }
+  ],
+
+  "include_keywords": [
+    "핵융합", "인공태양", "KSTAR", "케이스타", "ITER", "이터", "토카막", "스텔러레이터", "핵융합에너지연구원", "핵융합로", "플라즈마",
+    "fusion energy", "nuclear fusion", "fusion power", "fusion reactor", "fusion plant", "fusion pilot", "fusion device", "fusion startup", "fusion company",
+    "fusion industry", "fusion research", "fusion experiment", "fusion machine", "fusion fuel", "fusion ignition",
+    "tokamak", "stellarator", "Wendelstein", "JT-60SA", "EAST tokamak", "Commonwealth Fusion", "Helion", "TAE Technologies",
+    "Tokamak Energy", "General Fusion", "First Light Fusion", "Zap Energy", "Type One Energy", "Proxima Fusion", "Marvel Fusion", "Pacific Fusion",
+    "National Ignition Facility", "inertial confinement", "inertial fusion", "magnetic confinement", "STEP fusion", "EUROfusion"
+  ],
+  "exclude_keywords": [
+    "북핵", "비핵화", "핵무기", "핵실험", "핵무장", "핵우산", "핵위협", "핵도발", "핵보유", "수소폭탄",
+    "nuclear weapon", "nuclear-armed", "warhead", "nuclear arsenal", "nuclear test", "nuclear threat", "nuclear strike", "hydrogen bomb",
+    "Ford Fusion", "Fusion 360", "fusion cuisine", "fusion restaurant", "fusion protein", "fusion gene", "spinal fusion", "data fusion", "sensor fusion",
+    "플라즈마 TV", "플라즈마 치료", "플라즈마 세정", "혈장"
+  ],
+
+  "categories": [
+    "토카막·자기밀폐",
+    "관성밀폐·레이저",
+    "민간 기업·투자",
+    "ITER·국제협력",
+    "정책·규제",
+    "재료·블랭킷·연료주기",
+    "플라즈마 연구·기술"
+  ],
+
+  "reference_library": [
+    {"id": "nuclear-db", "name": "Nuclear DB (원자력 기초 개념 정리)", "url": "https://nuclear-db.vercel.app/", "about": "원자력 기초 개념·용어를 학생용으로 정리한 연구실 사이트"},
+    {"id": "iaea-fusion", "name": "IAEA 핵융합 주제 페이지", "url": "https://www.iaea.org/topics/energy/fusion", "about": "핵융합 원리와 국제 동향 개요"},
+    {"id": "iter", "name": "ITER Organization", "url": "https://www.iter.org/", "about": "국제핵융합실험로 사업의 공식 소식과 장치 설명"},
+    {"id": "kfe", "name": "한국핵융합에너지연구원(KFE)", "url": "https://www.kfe.re.kr/", "about": "KSTAR 운영, 국내 핵융합 연구개발"},
+    {"id": "doe-fes", "name": "U.S. DOE Fusion Energy Sciences", "url": "https://www.energy.gov/science/fes/fusion-energy-sciences", "about": "미국 핵융합 연구 프로그램과 정책"},
+    {"id": "eurofusion", "name": "EUROfusion", "url": "https://euro-fusion.org/", "about": "유럽 핵융합 연구 컨소시엄, 로드맵과 해설"},
+    {"id": "llnl-nif", "name": "LLNL National Ignition Facility", "url": "https://lasers.llnl.gov/", "about": "레이저 관성밀폐 핵융합 실험 시설"},
+    {"id": "fia", "name": "Fusion Industry Association", "url": "https://www.fusionindustryassociation.org/", "about": "민간 핵융합 기업 동향과 연례 산업 보고서"},
+    {"id": "nrc-fusion", "name": "U.S. NRC 핵융합 장치 규제", "url": "https://www.nrc.gov/materials/fusion-machines.html", "about": "미국의 핵융합 장치 규제 체계(부산물 물질 기반) 설명"}
+  ]
+}

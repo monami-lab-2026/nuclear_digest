@@ -63,6 +63,19 @@ jobs:
           [ "${{ inputs.force }}" = "true" ] && args="$args --force"
           python -m app.news.run_daily $args
 
+      # Same pipeline, fusion keywords (config/news_fusion.json -> data/fusion, docs/fusion).
+      # A fusion failure must not block publishing the nuclear brief.
+      - name: Run fusion pipeline
+        if: steps.guard.outputs.skip != 'true'
+        continue-on-error: true
+        env:
+          NEWS_TOPIC: fusion
+        run: |
+          args=""
+          [ -n "${{ inputs.date }}" ] && args="$args --date ${{ inputs.date }}"
+          [ "${{ inputs.force }}" = "true" ] && args="$args --force"
+          python -m app.news.run_daily $args
+
       - name: Commit data and site
         if: always() && steps.guard.outputs.skip != 'true'
         run: |
