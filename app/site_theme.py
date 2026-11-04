@@ -256,9 +256,14 @@ def _linked(item):
     return text
 
 
-def credit_line():
-    """Bottom lines on the front pages: original source (credit) and current maintainer (maintainer)."""
-    lines = [_linked(SITE[key]) for key in ("credit", "based_on", "maintainer") if (SITE.get(key) or {}).get("text")]
+BASED_ON_SECTIONS = ("news", "papers")  # the original repositories covered only the news and paper pages
+
+
+def credit_line(section="home"):
+    """Bottom lines on the front pages: source code (credit), original source (based_on, news/papers pages only)
+    and current maintainer (maintainer)."""
+    keys = ("credit", "based_on", "maintainer") if section in BASED_ON_SECTIONS else ("credit", "maintainer")
+    lines = [_linked(SITE[key]) for key in keys if (SITE.get(key) or {}).get("text")]
     if not lines:
         return ""
     return (f'<style>{CREDIT_CSS}</style><div class="site-credit"><div class="container-page">'
@@ -277,7 +282,7 @@ def site_footer(section="home", root="./", credit=False):
 <a class="link-underline" href="{root}papers/index.html">이번 주 논문</a><br>
 <a class="link-underline" href="{root}jobs/index.html">원자력 취업</a><br>
 <a class="link-underline" href="{root}papers/nuclear-literature-database.xlsx">논문 DB Excel</a>{repo_link}</p></div>
-</div>{credit_line() if credit else ""}</footer><script>{THEME_TOGGLE_JS}</script>"""
+</div>{credit_line(section) if credit else ""}</footer><script>{THEME_TOGGLE_JS}</script>"""
 
 
 DASHBOARD_CSS = """

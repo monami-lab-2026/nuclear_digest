@@ -411,7 +411,7 @@ def _render(period, records, previous_records, cumulative_records, run_count, na
         <p class="note">제목은 DOI(출판사) 페이지로 연결됩니다. 위의 그래프·표를 누르면 해당 조건의 논문만 남습니다. 날짜는 Crossref DOI 등록일이며 온라인 공개일·권호일과 다를 수 있습니다.</p></div>
         <div class="sec-body" id="papers">{''.join(cards)}</div></section>
     </div></main>
-    {site_theme.site_footer("papers", nav_prefix + "../", credit=nav_prefix == "./")}
+    {site_theme.site_footer("papers", nav_prefix + "../", credit=nav_prefix.startswith("./"))}
     <script>
     (() => {{
       const buttons = [...document.querySelectorAll('.journal-filter')];

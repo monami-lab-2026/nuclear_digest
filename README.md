@@ -40,7 +40,7 @@
 
 | 파일 | 내용 |
 |---|---|
-| `config/site.json` | 사이트 이름·주소, 하단 소스 코드(`credit`)·원본 출처(`based_on`)·운영(`maintainer`), 관심 분야(`interests`), 뉴스 해설 방식(`news_commentary`), 이메일·구독 |
+| `config/site.json` | 사이트 이름·주소, 하단 소스 코드(`credit`)·뉴스·논문 원본 출처(`based_on`, 뉴스·논문 페이지에만)·운영(`maintainer`), 관심 분야(`interests`), 뉴스 해설 방식(`news_commentary`), 이메일·구독 |
 | `config/news.json` | 원자력 뉴스: RSS 피드, 포함/제외 키워드, 분류, '더 공부하기' 링크 |
 | `config/news_fusion.json` | 핵융합 뉴스: 같은 구조 (`NEWS_TOPIC=fusion` 으로 실행할 때 사용) |
 | `config/papers.json` | 원자력 저널(`journals`)과 핵융합 구역(`fusion`: 저널·키워드·연구 영역·트렌드 키워드), 번역 용어집 |
