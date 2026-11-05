@@ -1,0 +1,673 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-05T22:05:01+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주시, 인공태양 연구시설 예타 통과…미래에너지 새로운 전환 > 뉴스",
+          "publisher": "더코리아",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKVTRGYXlzWDJfTl92ckNRcFI0NnFtSFRrUFJZTDBXcmk2TVJOWjB6Q2NtUk1XZHJYaUhwNzR5aTY0aHFxX1dDZjRMYnQ3ME84RXBqdTYzNGJBc0FSZ3MyMGNsNUtHZ2d2OTcwMGlRRTIxQQ?oc=5",
+          "published": "2026-11-05T09:14:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "나주시, 인공태양 연구시설 예타 통과 환영",
+          "publisher": "얼리어답터뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9GakFqTWRfa2xRVGFGaTBITlkyV3h3QW9uaWtkdENmTWhVYTBOVl96TXpPWWJUUXRTMktKSEpFZmhZcEJDOWhZTW9B?oc=5",
+          "published": "2026-11-05T11:26:46+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "나주시, 인공태양 연구시설 예타 통과…미래에너지 새로운 전환",
+          "publisher": "웹이코노미",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE00MUh1Yk9SVk93SFdONGpFRUwxVFBNUGhFcXlhN1cyZzNjMmR2ZGRQNTZLbmlIY200ajljbWFDT0FVdGZRbV9KRW1oaGR5U096WkNSRTB3RElUZFNucHZTUDdjWDZjbUgxR2o5RDJoVFZiZw?oc=5",
+          "published": "2026-11-05T12:39:49+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "나주시, 인공태양 연구시설 예타 통과…미래에너지 새로운 전환",
+          "publisher": "한국시민기자협회 뉴스포털1",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wTm9GOUtIdWpJWDdoRnNMYlJfZWNyTnRldUhfUEYyVHdUUWw0U1pMMS1tTFpKQlRoMkVtZHJpWE44cTNWUzZlYWFqQmdRNmh2MWV3d2prXzg4UEh0ZjROaVdVTl9JMTZfczJ3bGQzbTQ2WlXSAXdBVV95cUxPa1otRmQ4dk5ac3Vhd3EyN2Q3dy1Ia3AwWkpSUW53UGlEMmdpelktR0FkdkxMMGdaald3WXduaFdyWkRVZ0ZhclY1ek1IVUNrdXE5ejY0OUt4WUxEM0NUYkdFbENqYW9wRjNvaDh0d2Fwb0Z4VU5DNA?oc=5",
+          "published": "2026-11-05T14:03:11+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 3.665,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "'1조2000억원' 나주 인공태양 연구시설 본격화…예타 통과",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03b0UxZmY0NUs3N2YzNjk2RmFBdHoxMFR0ZG0tME9BTHhkN2Z1M1lraGVfT1l1T0ozMVVraXpZNjVGMlFTR2ZaQndqeEJMVTM2RmQyaE5zYzhkNkQtdjd5M3BYU01pTGh5bC1WcXp5STJJUlVINjZ3edIBeEFVX3lxTE03b0UxZmY0NUs3N2YzNjk2RmFBdHoxMFR0ZG0tME9BTHhkN2Z1M1lraGVfT1l1T0ozMVVraXpZNjVGMlFTR2ZaQndqeEJMVTM2RmQyaE5zYzhkNkQtdjd5M3BYU01pTGh5bC1WcXp5STJJUlVINjZ3eQ?oc=5",
+          "published": "2026-11-05T09:00:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "나주 인공태양 연구시설, 1조 2천억원 예타 통과…2036년 구축",
+          "publisher": "노컷뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xN3NQcmNXRVFUZzZwQ2JCQ3NrcHpWaW12RTktQVR6RDkwM1dFR1VKalVFNnRueVFSY0xEcHJsMGhvVUFUQUxsTi1sWm1GbEJZeFE?oc=5",
+          "published": "2026-11-05T09:00:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "1조2천억 규모, 나주 인공태양 연구시설 예타 통과",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKZE5mM3JwOWZmMTctWGZxN2NIaTJKZVd2VUJZWmxlY3dmdlQ2Z01DV3RjYk4wNVVUZEdnakNnWEhwVEVIOHppbTZfd1dnbWZJNlVVR3hJSzNQVno1a1FJRdIBYEFVX3lxTFBKZE5mM3JwOWZmMTctWGZxN2NIaTJKZVd2VUJZWmxlY3dmdlQ2Z01DV3RjYk4wNVVUZEdnakNnWEhwVEVIOHppbTZfd1dnbWZJNlVVR3hJSzNQVno1a1FJRQ?oc=5",
+          "published": "2026-11-05T09:00:02+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "나주 인공태양 연구시설 구축사업, 1조 2천억 원 예타 통과",
+          "publisher": "대한뉴스통신",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jS1BQMFdTN0FTYW1RM3VjMkxKQ3BFcnpQRGVpLTVBLWZqM3d4WnFyVVhueWJEM3otckJ0M0I0ZmsxOEp6aW5ZY0kxbXhObHFmc0lRX2dFYw?oc=5",
+          "published": "2026-11-05T09:05:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "1조2천억 나주 인공태양 연구시설 예타 통과 : 경제",
+          "publisher": "재경일보",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfRU41TTFOa2VrdzlONXByVHQ4WEl2di12bUdyTVkzRWJGRUNzMGpYamNlRkFMZGFhODExVmlkNWtRV0MyN1ZIUGY3dw?oc=5",
+          "published": "2026-11-05T09:20:36+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "나주 인공태양 연구시설 예타 통과",
+          "publisher": "중소기업신문",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SWGNXbFZEZGlQc3pqR0c5V1h3bV9JVmtpN2tZZFpwRU9jVi1kYlZNOVowWmpDMmF2VEVYYVEtZElkWk81QlhQU1Z6Qno0VEMxbG9oakUzZU9IdE05aWZyQzdjOHlSZWFLX2kzSE1R?oc=5",
+          "published": "2026-11-05T13:45:51+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 3.653,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "'1.4조 규모' 나주 인공태양 연구시설 구축 사업 '예타' 최종 통과",
+          "publisher": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lZDRDVGNmV1c4dTFSQWhtenRmckVhTUpZMGF3T1RMZk9aRm44SWhrM0VHWmF0dmxDbDdNbld5a21VRnM1c1IyalNnVzV3YzQ2Wm02dk9mZFRnVjhJM0RV?oc=5",
+          "published": "2026-11-05T09:00:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "나주 인공태양 연구시설 구축사업 예타 통과",
+          "publisher": "광주드림",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Nd3B3TlFXTlNfbnVibXF0RlVldGRDU1JMSlptWU9XdFpBQVI2aUp0OUhtMm5NWTFsZW82WDhtdHZFa0NuWTFfWDFkaVdGSTE4dEhiRmcycVlnY2FTdUt0bmtxbFJKT3U1S1E?oc=5",
+          "published": "2026-11-05T09:10:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "나주 인공태양 연구시설 구축사업, 예비타당성조사 통과",
+          "publisher": "순천독립신문",
+          "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNenhuX3hIV0dTdXFkalhrY21PblN6eVlDOGpJTWdldGRJU3Yza0lUZFR2allBejQwbUZtUXV0X25tSF93NDJ1N1U1X2NSU3dXT2JWdzFnc2ZjX1JGOG9rdDNrU1ZxVW1hblhSeENaaWVQVmthU0xTSWVQb1dISm55d1JmSFBtNTMtSlFHOXZKTW11UXhGVFg2aTFTUTdxSWc2X0FBcnE2RnY2WENULUFXZWtDejJySVA2dGZzSEpuM29ndVBPeTQ5RUxZN1NvdTZ0X3M4MnZjNEJtd1RxQkRlRDFQUzNEa0xpVVN0UEI4TjV5V19tQk5VLTlQRVRFT25OOHIzUHZKcHpISldJdnBfMzFNRTBTemJQRTVESGtrei01Q3JSUGdDLTc2LUViR0tjVkgzbE1HZi1QMy12Uk1ZZDZuelhUMVBBVUZRZG1vSzRiaVJpTDlLZDViVElHaERnVG85RG1vY3V5Smc2WTJ2MlNkUFhhUQ?oc=5",
+          "published": "2026-11-05T09:17:38+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "나주시, ‘인공태양’ 연구시설 구축사업 예타 통과",
+          "publisher": "아이뉴스24",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15TDZGamhHa3JOZXc4YWlpa21Ud0pRbWlnSHBWU1EtSW5NOWZpOHZWOGRQeGY5T3VOb3pwNmRTTUtwUHVJbjEzN0pFdHE?oc=5",
+          "published": "2026-11-05T11:24:50+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 3.555,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "1조4800억 인공태양 연구시설 나주에…예타 통과, 이제는 실행력",
+          "publisher": "쿠키뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nVE9xdnAwVW00TDkzWlVoWF9EaE5EXzBDakNWdy0tZG15N2ZJMlZuU2tlUDZDMDJtMmNZXzREeHNLN2gwU2VDYUEwdUEwTnY4X2NZQy1RWkZOZjdGTnBIS2poRQ?oc=5",
+          "published": "2026-11-05T08:53:24+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "나주 '인공태양' 연구시설 예타 통과…1조4800억 국책사업 본궤도",
+          "publisher": "프레시안",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vT0N3OTJNRlJqWm95TmN4MEhuQW84bC0xSkxaOVBNb2RUTnM3Tm0tMEJCYWZZMU84X0xvVlR0cS01RnZON3YzTERqaElLOFBITDlIaW96MW5TekVVZ3ZDZ2ZETUFvM3kxVHhn?oc=5",
+          "published": "2026-11-05T09:00:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "나주 인공태양 연구시설 예타 통과…1조 4천800억 원 규모",
+          "publisher": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5XzlCYjF2c1F3UkRLNmd3RFp1VlkxRDFPR1dkYjBjQVFGdFh0MHBaMGpBNDFHZFZ0UUFXZmxoYVlQSWZDZVVNUEsyNzBlNmJONnhqNUFKaTk1bmRtdFRBTg?oc=5",
+          "published": "2026-11-05T09:02:48+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "'1조 4,800억' 나주 인공태양 연구시설, 국책사업 예타 통과",
+          "publisher": "KBC광주방송",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1udTdjQzdNeG1kNzNxcTcwbTVfMF9WVEFZNTQtUTItN1JMT0NzREt1Ri1FcnRtbXdDNzk5WFVvMm5tc0dIU2VGaE52Ty05cS1xVXA0cXdMMkVhWVYtQjhQaw?oc=5",
+          "published": "2026-11-05T09:08:34+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "1조4800억 규모 나주 인공태양 연구시설 예타 통과",
+          "publisher": "국민일보",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iQmhMR3FNNExzMndGYnBjQ3p0Y0xsX1RIZ2pRdlpvZ2h6aDJCR1NoWThEbTZvZjMySjhOTDJZT3lKaVMzZUxRczBHb0VXaU5vS1VkUk5ubks?oc=5",
+          "published": "2026-11-05T10:13:58+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "나주 인공태양 연구시설 예타 통과…1조4800억원 국가사업 추진",
+          "publisher": "베타뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGcnZCM2tUdTlWQjZwd043UEtXYWdNUV9ER1JpVFZIODl6SWtzSGpyTGpwTGJEdXZRMktJallUUThTallhdW5mMFB1RWY5ekc2N3p5eWRzQngxV2tXVGJGYUZvVXg?oc=5",
+          "published": "2026-11-05T10:25:50+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 3.514,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "전남광주, 인공태양 연구시설 1조2천억 사업 예타 통과…2036년 나주 구축",
+          "publisher": "한국사회복지저널",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5VZTYyRXZRd1ZSaHlCSWJmSkN3bnNVMzh5Vm56S2xZNDF6SHVkZXFVVmJRQTBRR3A0Y2psSVdKTEs2LWFwTmplOHJXdFJoV2hwRlFjbW5RLTBHMWlKMGF5UUtlLXZEM0xON05Z?oc=5",
+          "published": "2026-11-05T09:20:05+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "1.5조 규모 '인공태양' 연구시설 예타 통과···2036년 나주에 구축",
+          "publisher": "헬로디디",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05aFZxRGlVdHJvbTB6cE5rSWhBclVhOG92MjdHZU9MTHk5dUlNN1FuS2dkN1Q2MFhXcmZ2bXhDaTZYUlkza05USWVSczh2R0V0NGpiaDVWTDhuN1BYS3ltaWR4eDdCMGNVR0E?oc=5",
+          "published": "2026-11-05T10:19:20+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "오는 2036년 나주에 들어설 인공태양 연구시설 구축사업 예타 통과",
+          "publisher": "문화일보",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlYU1NU1FxVk1xNmhneTdLZEFYY2poM2pMb1plY0NNbS1ERDdIb29wS056WjBtOFJkOVMybkw5ektDT0NKeTFtT1BvUHZSQUVm?oc=5",
+          "published": "2026-11-05T21:34:15+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 2.979,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "3D-printed tungsten tiles tested at DIII-D",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-05/article-8560/3dprinted-tungsten-tiles-tested-at-diiid/",
+          "published": "2026-11-05T19:49:10+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.906,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Kyoto Fusioneering to Provide Gyrotrons for Type One Energy's Infinity One Stellarator",
+          "publisher": "Business Wire",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTUQ4cDJyMnJBbE5uVGFzU2pkWXlKaVhsTUdBbUNhSGR2NEdsN2JpVmFWTU9sWnBKYjhqamFuZzhYLVBMV2VJcG5WVHhNVkFKZld6d3ZhWklEdXpZTWx4UjVmVXItWHFaWjdHcVJrcXdITnlSWDNwNmFVNGVxQm01OXh0MlhvbWR5ejd3SU5LZEtzZVlPNWo1TkQ4RWhaem1Db3dld3h4NEhiaExkOXluRzZSVV8waDg3VXE0elREUjE0ZkRSMW9ndlNlX2hDMjMtRXpsQ01FTjFmZw?oc=5",
+          "published": "2026-11-05T13:00:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        },
+        {
+          "title": "Kyoto Fusioneering to Provide Gyrotrons for Type One Energy's Infinity One Stellarator",
+          "publisher": "Eagle-Tribune",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPV1doVUV4MzVBUHRXcGxhQlZuYkFkclVnREhrbElBekhxN1B3cE43cTBqSE90VERDNnBfS3ZZY29UNDhJN2pmTTk0RGtNbWhwM0pKU3BuVzdSNzFvWEM2YmV4SHVuZ3B0SmdvLWh1NGJFVEhvLTE4Sm5LWEhNWm5aeThweHBybTUteFBXUV9pZFFMbGhndkJYS2ZxMHdXUnNtUWJZdVFDT3JzbWJXLWdjLUtqRFhpQldMVmYybmJZdkJNREVOakdfZ2hTTXhMLTA0X0M0czVQa2E5ZExNVE8yRzF1SFRQdlphQ3dnbVFTMGhsaEo3d1BZclRJcUwxWDNH?oc=5",
+          "published": "2026-11-05T13:01:13+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 1.622,
+      "id": 6
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "전남광주통합특별시 나주시, 인공태양 연구시설 예타 통과…1조 4800억 원 투입",
+          "publisher": "폴리뉴스 Polinews",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PbkM3cG5HbkN1QjdNaTNFOXpHbTZRbzlPVF9ZeEVfNERERjlrQmdhT00zWDhweE9yMzQ4cG41c1M2ZnB6SXdFb0JCWXJBNnlDemQwWU1wUE1tdi1Edm9Nck9hZFROVG1kZk8wSkp3?oc=5",
+          "published": "2026-11-05T09:15:37+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "전남광주통합특별시, 인공태양 연구시설 국책사업 예타 통과",
+          "publisher": "웹이코노미",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIaGwyZHFZMUlxRzRzazQ0MFFLWmNENEFjWjZ2RTFuSE9RQ0JwMEdWNU9Hb2ZocTV4ZFU1dlpHdUtvdVo4Tkx0c0lyNXZQalJMajZRVVh0dkJWdGZWRHA2aGlXWHJmWUIyWFQyZzFLbDQxQQ?oc=5",
+          "published": "2026-11-05T12:40:50+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 1.608,
+      "id": 7
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주 '인공태양' 연구시설 예타 통과…1조2천억 국책사업 본궤도",
+          "publisher": "진일보 | 전남일보",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Mbm5xTFp6VVRzS01oV210YnJKYmxUTnJsd215TWxVVDV6WWFoOHpoOF9SaWdmaGNLaWhudWd6djI3dnR0allHc1N3Mlk3WWpqbzVaVFpDOHdSRF8wYnRfVFU2Zk5jV3o1ZjJMMXhzRQ?oc=5",
+          "published": "2026-11-05T09:05:19+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "전남광주통합특별시 나주 인공태양 연구시설 예타 통과…1조2천억원 투입",
+          "publisher": "더쎈뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0weGZjYlVVaVBlX19XMVhiNk5CVUFNSXVCejBORU9yY1dlTUh5RE1RVFVsc3NjRnBPdE1XX2VEdU5HdVB0NEZXZ2tIY1ZLTlRMQnBBMkczdHRrd0RmT1NWdmdNVEstYmVP?oc=5",
+          "published": "2026-11-05T10:18:53+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 1.51,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Studsvik wins contract related to Novatron's fusion reactor",
+          "publisher": "www.marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLWZ2aDRwd2YzeE11RVktWEtxMTFpaWphWTlMTUM0UVdZanBydU9MbVZGWEhXT2JJd2hoOWpMdlFmdFpXZUpWOXNyN3gwbjhnQ3RZU1JJcVhNdmJmeEJzM3NfS1dTVEhLM2IwQmVMSEVKR1dFcEFKVkxNYnZ5Y3c3QXctZ3dMUk9GMGJWRjYtMmpndkxWb1lINDdldC1Ed0VvZm9IeHJ3dUFBYm1rTHlYTS1n?oc=5",
+          "published": "2026-11-05T07:34:18+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        },
+        {
+          "title": "Studsvik Wins First Major Novatron Fusion Reactor Assignment",
+          "publisher": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY2RqUlR4MFZ5ZkRzdUp6M0tPLXVrUFhkRWRKVU1fZUh6cy1RZ2RqLW5BZFhmbVF2M011UkxCN2pjOFpEazV3V3Rrd1N2aXV1eHRUSU5GcHpvM2g3SG56STVmS0hDM3BteXZmODZiQjQxS2V6TUc0NTNYLXlJa25vTk83b0NuRnI5SlZDS0xsdFVGOUFpSHpzbVpreWR6ajZvZmhubnNrZ3VLazZqQXdjc3NR?oc=5",
+          "published": "2026-11-05T10:01:08+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 1.497,
+      "id": 9
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "핵융합 실증 1조5천억·국산 원자로선박 사업 3천억원 투입한다",
+          "publisher": "라디오코리아",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMekw3R1NHTU45UXFWNm05RHRPdmMwYUo3UHE5bVNtdkZmZFVQTnFFVzQ3bGwxeVdFTW9wcTBtNUlBYmktMS16Y1lvWFBva3JVbkFBOEd3ZHFoMGR6N3RF?oc=5",
+          "published": "2026-11-05T00:05:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "핵융합 실증 1조5천억·국산 원자로선박 사업 3천억원 투입한다",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51RW9sVWtBQS16WHBUSWdjYXZ1eUxjbjhJOW03eFNGWkp1STQwd21Od25rQlRUbFdkamt1VlVvNGV5bXlVMmJrMTBtZlNreUV3dFBKR1RBcFlyYWvSAWBBVV95cUxPX0lCMmVJTml6T18yeEdzOVJqS3VhWm15SGFGcjFLSUlRY0pPOFZjSFduU3dHMWdBQ3dlalRFbUlrUDZvZzQ2VTk2OEw3RUVTelZPV2lmTkIyWG95WUh4eEs?oc=5",
+          "published": "2026-11-05T09:28:39+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 1.475,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "2D Fusion targets a 1 GW fusion power plant by 2032",
+          "publisher": "energynews.pro",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMmlNdVdwM25vWWd0Vkh3eldnUVdPdW5hOW50aUYzdlhpWlQ4d3VUNnNMamhNWEZTWEdKQVlDalF6WXJBa0hIVnJIX3VLWjlvSzdHYnJWc3pYS0p5QmRBZlotTERpVlQxeGdhT0o2N1VkWExjeWdyWFFDdW5PUmVuUnFzVQ?oc=5",
+          "published": "2026-11-05T19:02:21+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.873,
+      "id": 11
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "“1조 4,800억 원 인공태양 품은 나주”…핵융합 연구시설 국가 예타 통과",
+          "publisher": "시사의창",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OVGlIbUJ3TnZzR0ZCR1dGYXdfMEtWTlY0Vzk5V3Y3VmhMenpJLVF4MjRKVVpDWGJEX2RSN1g2bjVxTFlOU0dKSUE3RVBvZWk2Wlhtbg?oc=5",
+          "published": "2026-11-05T16:56:31+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.786,
+      "id": 12
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주, 대한민국 ‘탄소중립 미래’ 이끈다… 1조 2천억 원 규모 ‘인공태양’ 연구시설 예타 최종 통과",
+          "publisher": "브레이크뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9vbUJLMUtKbENDamdJaUNmWTdSMTlVckhoQWswcXJfejBLSVB2OHFLb2MwdjBzTjVGb2dDeVRNcExIQQ?oc=5",
+          "published": "2026-11-05T15:48:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.738,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "National labs working to tackle fusion energy challenges",
+          "publisher": "Fermilab (.gov)",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTVprSmlmRlNyTTdLYm4temF3SjB0ZEpPMy03VXpBcTJZNmFsbW0xaktZSVZvbzUySzJHTzl0WFIzN1ltdzk3QTNlY244R3I1OFlkRE56S29iSk5xVTRFWldNalNqWFJySndfcjRpa1JHTFRBQ0JHbGdkRGpfRXpvdkdQTWItNGE5OEJpZTd4SjE?oc=5",
+          "published": "2026-11-05T15:00:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.705,
+      "id": 14
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "전남광주 나주에 인공태양 연구시설 유치 본격화…1조4800억 국책사업 예타 통과",
+          "publisher": "글로벌경제신문",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QQlZnZjZodFU2SHNVS0FXM1N6Vl9FNzNZc1F3WXk1R3UyV0ZVWlh6dVpFMWFUVE82VUp0R2E5UFM0Rk1odmhXMDhqb3JCZXA3VERDMU1vSHVuLXFZdlVWUFdmTUdzLWc0VkRUUNIBcEFVX3lxTE81bGRGTHpFT3diT3hQd3RZcFM4YkdodG44TTJlVjhrSWNKdUVEZmpKTmc3akxnUjctclNybTdlbTJrWTk0N2lBNDNsYjd6anNwWHBRRE4wbDZvaGl5Rk1SRWVNR3JrMWc1dzdudUVSOWg?oc=5",
+          "published": "2026-11-05T13:17:51+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.634,
+      "id": 15
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "핵융합 실증에 1.5조 투입…3173억 들여 원자력 추진선박 개발",
+          "publisher": "이데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQai12bFVLMFc0aXZKZHhYTjUwRU90b1JKX3pzN1hzaE51WGt6b1NSQjFva0ZZU0tIQXlXX0NZZkxla2JWVTVLV1V4VmxaSVEwX3cySWxRLVpPa0RQeEZsZHhkSnF4b0V1VTNOUmM4c0J6d25zdi1BTXRQb1o1bEc3Wg?oc=5",
+          "published": "2026-11-05T12:58:06+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.62,
+      "id": 16
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "핵융합·원자로 선박에 1조88000억원 투입…차세대 에너지 기술 키운다",
+          "publisher": "직썰",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEVXFuQUdHeVFWcEt2VGVoZHRpUmRpNzBVZTBnai04dHFzWEFRcTJaVjN3cWNIVFFDYVV4MG5zazlRU0RDeTU3NEJLUXoxMXlMYUpQampzdGNDdF9FNWo3aDVmM2U0VmpJ0gFsQVVfeXFMTUtlS0ViTlNuRzZSWFZwekNIYWt3dGVqZVRLbjdjdUF1enZNX29vNWNxUTdxQ0N5aXJPUXBuZXE4M0l4c0c1NndJZEN4eGxScVowS0dmelo4UmxzdnhtUW9XUUwyTEJVVjU4ZFZV?oc=5",
+          "published": "2026-11-05T12:33:46+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.603,
+      "id": 17
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주 인공태양 연구시설 예타 통과...핵융합 기술 선도 '기대'",
+          "publisher": "KBC광주방송",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WVW1TOWJBeGc4cWlvTTMyM3hBZElxY2VpNjBjYi1fZmxoeVVZVFc1TXFHZW9Xd1BudmtFMWpvVE11aDF3MnNrU3Zmbm9FbkpYanNHV3I3QTFJa216OTd0OA?oc=5",
+          "published": "2026-11-05T12:21:13+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.595,
+      "id": 18
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주시, 인공태양 연구시설 국가사업 확정…10년간 1조4,800억 투입",
+          "publisher": "투데이광주전남",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OWW9mQ3ZXRDg0cXJFQ2FqNUhSSVlsekJ1d2tNNTg5UDVSMEJmNHVKM05GTUtwMktiVFhNd3NxSmNJR2RLRnY5TU4tdXRNOUlKNTJDUnRLaGVjOC1UZ1N0eW1tTEczQUtnc1NkZkI4N2s?oc=5",
+          "published": "2026-11-05T12:18:17+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.593,
+      "id": 19
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "US nuclear fusion reactor push to deploy advanced plasma tech, hardware in new pact",
+          "publisher": "Interesting Engineering",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0J4LWl3YnVHOXE4bURxR3k5ajBDWVJCSmRFOHhqOWZCbHNDMm1ZSUtQN3ZpUHRjRTQ3SHUybkQ3Wkttd1U2N1hOQ0tBVXVVdm5Vb2dXaklyMFFDMU92d3JwZ3hCaWtFRGRXbG1qNFVrYkEya1JhY1gxWEJwbE03WHNreVNJckpHREhvdWQxWXQ?oc=5",
+          "published": "2026-11-05T10:58:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.537,
+      "id": 20
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Korea to Launch 2.2 Trillion Won R&D Push Led by Fusion Energy",
+          "publisher": "Seoul Economic Daily",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaEhBYTM1RWxuRnpRaEI0UHB2RC10VHZMaXotSVNTMWZ2bWRNVndJQm5IQXdxVUE2RTlaYkJwTVd1dGZEdGdaNGJCYzFqemhyRmtiWWR1bU1sRmJSRFg2U1JmNkNzX3dwWjA0MjB4TFFla2dORkJTQ3FpNVNVeHc0dnVsb0dLbGlDUjRfMGJ2TVN3OG8wWnF2bnEtZ3R5WGhqVmtwSEVKWm4?oc=5",
+          "published": "2026-11-05T09:51:37+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.491,
+      "id": 21
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Swedish Company Announces Commercial Availability of Clean Nuclear Fusion Power",
+          "publisher": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTl9oNV9ZME1WZzB5Xzd6aXcybUQxTEItaDJLbkVOQ2hKbW41OV82SHJuTmdaNzF0WTRhbDlBMFVhSjFvdm5rcjFleEduTGU5MlFseDNXMjNNZG1LNktrTHhNQVZ4VG0weUZNMFdxU1ZKRG5uR05KbHlRVkswOUdRaWJEWU1mWnlTSWFHMENHYmdNUV9XbkRMc3d2Z2NLbVdncFRjZDZIb0RySWo4UVUxVGtPSmhRai02YTRzZ183Z1RCMkRQQ1R6MlNralB5dzJN?oc=5",
+          "published": "2026-11-05T09:17:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.467,
+      "id": 22
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Korea Institute of Fusion Energy launches fusion and marine MSR R&D from 2027",
+          "publisher": "DongA Science",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zRUFjdDVPUG9NZXNmYlZpNk5sTmNuY18yVGlyR2d6dVplVkQ5WDV3M1lqTDdLeklLbWEyZGVHa19VZ2haZHU1amdVc1NWR3FmYzkwVw?oc=5",
+          "published": "2026-11-05T09:10:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.462,
+      "id": 23
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "How Fusion Energy Is Connecting Talent Across State",
+          "publisher": "independentnews.com",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVFBQdXl4cFR1ZmJSZ1Y5cEVDR1FxOXRoMmIxMk5MeERRTTJHUGJPTFc1dXBvODlfMjl0WU1JOFlJN3VUQ0lyZEhkYkZqTTIzQ084X2Rpa245S2JRQUQwVzliV3BueGZSMFZCNERFQVVveGVCVEIyZEVwd1A1Z1A3TXNRSVkxZDBfaGVuVUQtOXY1V1lsOUhQemxBM2o0ZTNqNEx2VjFoX045NHRZMDZaT0RSR3R2cFFkXzZOS1R2MUFzWk0xYmJfN0pZcnA5YUVubXQ1UUgyNWFnZ1BLYnJWZTUwUFpURWtLbkE?oc=5",
+          "published": "2026-11-05T08:00:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.413,
+      "id": 24
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Novatron taps Studsvik’s nuclear expertise to guide fusion reactor design",
+          "publisher": "Cision News",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOVdEbFFJU1VjVXF4NFl6SW5Qc2UzX2J6S0VJWkdDai1haDMxWFlKYUJGa2JHTERvTEYyT3VkWDVvYjUyMEJRd0V6Q0tfUnBCRlFmNlFpYkoxbFRMdXpMbmFYNHg5QTMtb2t6dzRoQlFZRGxkVE1rRFdVWnRNQkJyVTROWkliNjlsRlRZOE5Vei1OME9MbVFOdzBMV3VQYmYxdmJBQzN2VlZGbUdsWFlrR1lFVWluVXYwdkZZRw?oc=5",
+          "published": "2026-11-05T07:00:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.372,
+      "id": 25
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Thea Energy Partners With MIT to Test Planar Stellarator Coil",
+          "publisher": "energynews.pro",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc21ERXF0SjhUQ2stSmFQZmh2Q0V5WkZPeHFKanAwNnNMSS1NcUVUVVRtdm1KZnBWNjNQd2U4ZU1yTU1OT1lOZGt6TGh3VF9NVE9CTTY4a1hCbmpWV1liOTVELTJHOWR1MkwteGl6b0lqSUs0Rm8tcVhYRmFuX01zamxoOU9SMVBoR3Jfam94OGk?oc=5",
+          "published": "2026-11-05T06:32:21+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.352,
+      "id": 26
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "MIT puts next-generation stellarator magnet through full-force test",
+          "publisher": "Interesting Engineering",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRzBReHlEQlBhX3BKVnNSQlhjZU5pLUV5MDk1TXRuMG5sbDhCVVBXUlJtUGh4ZzlQLVNCODFDNEdJc19FaUtuMjEzNVY1SHRlNjk5TjdCdkM2MXN2OXU3a2Z4eU1pSmRMY1B4dVV4d3ViSDZLVWVMQ3lxV3Fmb3h3ZXdYZWxYZ1My?oc=5",
+          "published": "2026-11-05T03:11:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.213,
+      "id": 27
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "PPPL Will Work with Private Companies on the Fusion Energy Systems of Tomorrow, Thanks to DOE Funding",
+          "publisher": "Newswise",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVWx0U1l2QjJKWFZRaUs1Z21TM1R0YVJvVGpSNHYxQUk1T1h6RHBZYkVHMkJXTnR0X2lBR0pLWW5wTkViaUI2RklLMW9MRWFqSk5SclZYcXNMRVI5OXNsQjVTaUJvYTRFRlNmRWtveGptYkVrSGVfVnAzNjJqa1U3SEhJQ2pPUmRTNm4wZUNLaXhGQkVBeFlkSVF6RkdTU0xCT2xnSGtnS25rV3U5YW84Z3hLejJHYTh3QmRqU1pNQXhrallCd0s3OG14elFGQ3RybWfSAdIBQVVfeXFMTlVsdFNZdkIySlhWUWlLNWdtUzNUdGFSb1RqUjR2MUFJNU9YekRwWWJFRzJCV050dF9pQUdKS1lucE5FYmlCNkZJSzFvTEVhakpOUnJWWHFzTEVSOTlzbEI1U2lCb2E0RUZTZkVrb3hqbWJFa0hlX1ZwMzYyamtVN0hISUNqT1JkUzZuMGVDS2l4RkJFQXhZZElRekZHU1NMQk9sZ0hrZ0tua1d1OWFvOGd4S3oyR2E4d0JkalNaTUF4a2pZQndLNzhteHpRRkN0cm1n?oc=5",
+          "published": "2026-11-04T22:35:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.021,
+      "id": 28
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "ITER lead mechanical engineer Adrien Deydier says a 330-tonne superconducting magnet, cooled to minus 269°C, carried 34,000 amperes, half its working current, before heading into the world's largest tokamak",
+          "publisher": "CPG Click Oil and Gas",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOVhtN05TVU5sMzFjSldSSFhuNjAzX2dPZmpWNDBMRHpxNFQ4S1JOQVZYZm43bmV6ZUhUOWNXYVBELVRwbndzaEhEd3NGUDRpbzh2aHQyUDFSWVE2TWVxa1U3VFZMdFoyOUpWWmVIdGNQQ3VWNjRTSFFiWUZ2di1USEhzczA0UzdOOFNGOA?oc=5",
+          "published": "2026-11-04T22:25:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.014,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko-fusion": {
+      "ok": true,
+      "entries": 59,
+      "kept": 57
+    },
+    "gnews-en-fusion": {
+      "ok": true,
+      "entries": 20,
+      "kept": 16
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 1
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    }
+  }
+}
