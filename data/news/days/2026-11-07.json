@@ -1,0 +1,843 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-06T21:34:52+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "동남권원자력의학원 강영록 박사, 방사선·원자력 분야 학술상 2관왕",
+          "publisher": "부산일보",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiNlNUOWctNkVfRzVfTkU0NFQ1bGFwSVAwel9kOGhmMXhZOUFyTkpkMHpkdkQxRk5BWjVJWmVyV3otZ1JyQ1hUOTdJRTliWU4xZDJFd1pEQWp5aTZLT0s5Um5aUnpHUy1KMEZXd3VmX2FwZUFhRjROTGJnSQ?oc=5",
+          "published": "2026-11-06T08:37:29+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "동남권원자력의학원 강영록 박사, 방사선·원자력 분야 학술상 2관왕",
+          "publisher": "프레시안",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WRTZBZ2toenNjcEIxci1XNmdZZFQ1UnVzYl9fVkM4aUY0Q2JiTlRKUm8xeEdJa0J3VDBvQzc2YTU1amVzM0x6aFZKNGJjR083VWtUVGRzTU1MdEVMVnlwYlVMbUUzUzh3RDdj?oc=5",
+          "published": "2026-11-06T08:45:24+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "강영록 동남권원자력의학원 부장, 방사선·원자력 2개 분야 학술상",
+          "publisher": "이뉴스투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFMlFndTAzeEVDamQ1SXdYNFpPSm9KME5HZ1J2Tk5JOGUwTDVsUzB4R2dXMHpUMGVEVEZKa3FzbW5KWDZQRHNtTEd1QXUteUZQanB5Ym55MlVJVWtOd1Joc1h4YWxJbGJXMGE1aXdwQmTSAXRBVV95cUxPZkVDNTMtU0VMemU0aEdvaExhTURuZXQ5U2xOQUtHMnprSU5uaWNXSUltd3FMb1BjcVpfeHZHTndjMEMwVi1QZlpGeWxsenBXRnI4azFZMk1GTHhfempNWXJPcUlYNUsxTm1za0ZXbGhqVm94bQ?oc=5",
+          "published": "2026-11-06T08:57:36+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "강영록 동남권원자력의학원 박사, 학술상 2개 수상",
+          "publisher": "메트로신문",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HQWI2amU0dDhfYVRvVC1wZzgydm9aMzJNNlZXZnFOdXNQcDUzNXhIdF9FYWFaazM2MGw5MFBTbHNLY3hiWGZKbXNjSGdicFlCd2Z4eGNSZmphaW9vczFybQ?oc=5",
+          "published": "2026-11-06T10:43:19+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "동남권원자력의학원 강영록 박사, 방사선·원자력 분야 학술상 2관왕",
+          "publisher": "메드월드뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EcHNMV25CUm8xVDhiYkxWTFJDTE5UVU1zZ2pYU0kzT3hGVWlNMHhLZWNjWERqRVMwQ0ZycUNicFFqZzB0aXhUZEdDQW9TZTUyQnFjWlRPNDVvb1V4MXlqdDIxWHdEYUt2ZlV6Nmln?oc=5",
+          "published": "2026-11-06T14:50:04+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.719,
+      "id": 0
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "X-energy selects Fluor for second Xe-100 project",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/x-energy-selects-fluor-for-second-xe-100-project",
+          "published": "2026-11-06T11:49:50+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        },
+        {
+          "title": "X-energy selects Fluor for Washington nuclear reactor project",
+          "publisher": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ0xZQWl1OEJrWHVVcXZ2QWJuLWM1S1pQV2hZRDl6a3h4a1YyWmFNcUtWMWYtaEVXYzU2aEdwMEJXSDE4dTA4alJidFMtVnpNWXdMVmtlYklhZXNWZEtiS2dsdWwzYk1sWmM0VDJkb1F0bEd1RG1jNlhvVzUzdTYwcFBiQmVuTW1ObmstTkJwdnhSSFFuQ1lmSGpqcVdNTUpnNFJaZEJGQkJ2MWM0M2pBLU1uVGRCREtj?oc=5",
+          "published": "2026-11-05T21:49:14+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.594,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원·미국 EPRI, ‘청정수소 생산기술 활성화 테크 포럼’ 성료",
+          "publisher": "에너지플랫폼뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaMDNxLVhXOExxallZWHhWMVBTQk1wOFVtS1BWRXVnTWtRX0d0dVVsSEhnd1l0LWIxY0pwQTZqcTJpbkliS2ZObmNSWGZITFVzVmhCR2x5dUJiVlQzOURIZnVoRndxRUpyLTN4M9IBcEFVX3lxTFBKRWJJQ0lBWmRrbi1NRWV6UVJfQkQwb3hJdVU3OU93bWtURkRlWktkR3hrVXJMOHd3RlNkbHZQR3NxZ2ROZXJqYURGT2phRkVxOThEQTR5N0JkNS1JVjN6Ql8xQUxGUWpDd0xXQXZwZC0?oc=5",
+          "published": "2026-11-06T04:29:43+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 美 전력연구소와 ‘청정수소 생산기술 활성화 테크 포럼’ 개최",
+          "publisher": "데일리한국",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hWmk5ZDlaSVEwU2Z5Ql9iS2duTEdxX0tBdVJfWUw4OGRSNGE5NFVQYzBSa21XbWdWV2M1UFdRUHhfRnFjTXZycldkOFFlOThxdlAxdVFjNm9PTC1ITFdhQ2xHVk1JZ2swb1ZoTzl1b9IBc0FVX3lxTE8xT0ktMld1d0d3WW9SWHh3Sk1kOFAxazV0dWJ2c0xTWWhuSU5ieG1saFhuUElTaHZfcmVScWxTQkh3UDdvRF9NOUlvbThUalIxazNGYnlfMEZadXlBOExUM0R1N01SeDZOUXVlRi15NHRIc3M?oc=5",
+          "published": "2026-11-06T06:15:38+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 美 전력연구소와 ‘청정수소 생산기술 활성화 테크 포럼’ 개최",
+          "publisher": "부산일보",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qRVU2ZEp1aDczcjJVU20xZGlmc1AySE9VcTB6dTZyM2RCUkh4dmQwcFhxb2FLU2lCeTFDeEpDSFRSdmROaTlPNUxacUF4dzRoU05HQU8tYWRXMkhIeG5KRTVRcXhOc09vTVF2eExnX0pMS01KWWNweQ?oc=5",
+          "published": "2026-11-06T08:41:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 美 ERPI와 청정수소 생산기술 활성화 테크 포럼 개최",
+          "publisher": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPQVBHb1doX1hJM2ZzQXZhbW84VUVMRjdVWjdVaTBnMnprWHlvVlppdU96dmRxNkZxMXE1cDFUdVdjN190c0ZYdnVJdVI3bU5jdnIwdmljTDN2cWJEZXB5bGoyNk5lT1RsbTJxY2stNHJQVDhTWUFxTkxZYklaZnQ2OEVTWm9PNDRtSlpUQ29udXdsVS0wZU5nT1pFTkxlUzZaSGlZR1RwY25UZ0dwanZaTUluYVlSMnl4cW5VYkZYOWVKeEVZNG85eGRoWmdaSEFDc3U2OGljRXlHNTJ5WVJTRGNVY1ZOZVBEdDdVM0JuRmVoTkFYRk90eA?oc=5",
+          "published": "2026-11-06T11:46:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.591,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 체코서 원자력 청정수소 사업화 기반 다진다… 유럽 시장 진출 본격화",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UeDlsX3RGd0h1Z2pUVDhmM0JaWkRjb0FTNUkyZk1jU0JzYmFueE9WdmVScF9PemYwMDBzM0pJUzZCaWRxYmZwdFY0N2VxYTUxb3RyZnFRbWxGbDRKWnpsR0JRRG1EMnh6VmFIcEdMU2c3dw?oc=5",
+          "published": "2026-11-06T01:13:36+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 원자력 청정수소 사업화 기반 확보",
+          "publisher": "시사코리아",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1LU0hXMHQ0Z2Fla3FJeWFydk8ybmJ0QUxwbGk3SV9lZ1NQTGJ3aWJoQWNub1RIYmp2LWRrdVhRYVRwQk90WEE?oc=5",
+          "published": "2026-11-06T01:37:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코와 원자력 청정수소 사업화 협력 확대…유럽 시장 진출 기반 강화",
+          "publisher": "브레이크뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE02MGcyZU14UFNuT1VGeFhwX05xRjhvdHhqNEZiaDVCUGptRXFzU2ZfNUxTLUcxZ0FVVUxuV19jYVVMdw?oc=5",
+          "published": "2026-11-06T02:43:32+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코서 원자력 청정수소 사업화 모색 … 유럽 시장 진출 교두보 확보",
+          "publisher": "워크투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yTlFjOHBMT2tBS2pDc2pfaUNjTmxUbjMxeF93UWJWaU5UN3R2SzJFVmFGS1pQS1JDSzRsNnc3anQzR0xmZVNKc2RxaWRDV1J4LWctaDVLV1Q3aWd2bXBjZHgtQWZMbDJHZUJ4aQ?oc=5",
+          "published": "2026-11-06T02:53:38+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코서 원자력 기반 청정수소 사업 확대…유럽 시장 공략",
+          "publisher": "메가경제",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mal9qamJBT0ZnQlFQMWl0b1dJM3RycUxvVHlOVFN3ZUdsQks1MUdVcmxOTjNQbEcyN3d6RjRqVnk0SklBV2lMQm0zbk9sV1g5anV1SWVvRlQ4bUFKR05pUXdMZGpmWTV4UEo4REV3Rm5kQ2FS0gFyQVVfeXFMTXFLN1F0UVRiZ3pNWms3M0k3X1JuQmRmV0hyWkVZbnU5Z1EzanJ2T3lVamJhZ1lVa3o4YkpUbldYU2IxdXZBRjdqc1VKd0lCWklDWHVvbXNoWW9IcjFLdm9nMmp4SDhFdlhrT21JdUFta0V3?oc=5",
+          "published": "2026-11-06T06:32:04+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 원자력 청정수소 사업화 기반 확보",
+          "publisher": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPenQ0Mjl4Qm4xRTJqOW5MT2xDMVpHc1kzbS1IRmpHWHRQczZSb2dybHk0MXg3bEZ0bFVJRUozUTBWQWNTVi1YWDU1czJSazlpMFNhUjVuRk5VMGFWZ3IzUnc2MVNKallWcGFuYVl4TU1PVzQwT256TzJLYmRtWkh4Q1o2SnlWcHhJaE9uWkVGS2QtZ3V0Si1vODlhUWZvTzFIT20yNVBnMHZScU1OSURVZUo3UmZ2TURUQ3lOVE85V0hfalYzQ0dpVXBUNFQzd2lBejN0UjZlY0dLeVZoZlRjTGxnWF9MWkhWNWctcW53Um95Wk5nTXJDS3JqMWZ4QlN2bU5VOTlhT084Q3BRVWkyUFZWZ1JJelk?oc=5",
+          "published": "2026-11-06T11:35:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.583,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 한국콘크리트학회 기술상 수상…로봇·드론 원전 점검 성과",
+          "publisher": "폴리뉴스 Polinews",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VU0dMQUVWVEtXQm1QV24yRFRRbS1aV2lha1haNVRlVGNaN2d0V3ZoclFfZmRZV0o2X3VjbmE0WXI2M3ZEcTlXWWNSZUt4U1FPNkRQVFVUcy1fRjNJaDA1MFZBUEhfYUY3MHVJelhB?oc=5",
+          "published": "2026-11-06T00:34:01+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 로봇·드론 활용 구조물 점검기술로 한국콘크리트학회 기술상 수상",
+          "publisher": "더트래커",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVNkh1QlZkS1g0amNvVTlsMnB1aWtEaVZkSEEwTjJES0MzazE5NWJuMnVjTlJHMzBrNFpvR2Q3LVJoMXFGNmRmcDdqdkpWWlZHSkVPeFpuTlM?oc=5",
+          "published": "2026-11-06T00:52:55+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 로봇·드론 원전 점검 기술상 수상",
+          "publisher": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44MkVXUm9ZS3h6aEdCamlKQUl6ZDhxVWV1WEJQUmxRdTBkZjVfeWoxcGhORllZUjVIb2dWeGhMSzgxOEltWUlpOVJyUTJtdTRJX3VRdzdoaWFUR19iallFbmZncGxWTU9TZGRmemRXWndJU2VjNDQ40gF3QVVfeXFMTjgyRVdSb1lLeHpoR0JqaUpBSXpkOHFVZXVYQlBSbFF1MGRmNV95ajFwaE5GWVlSNUhvZ1Z4aExLODE4SW1ZSWk5UnJRMm11NElfdVF3N2hpYVRHX2JqWUVuZmdwbFZNT1NkZGZ6ZFdad0lTZWM0NDg?oc=5",
+          "published": "2026-11-06T01:38:54+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "로봇·드론으로 원전 점검…한수원, 콘크리트학회 기술상",
+          "publisher": "전기신문",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SeHQxZDBROHBPVmxmVTl4cElXQzlhRHUzcDh6bzBjMUxFVnpWbmpwR212NlowTnk3Y2pDLWlWTzViRG14aVBTdDRNcnpaVGszV1YzZ0t3TGxsSHlzbjliOHFhOG5IY056S2hUWWhyWFPSAXBBVV95cUxOUnh0MWQwUThwT1ZsZlU5eHBJV0M5YUR1M3A4em8wYzFMRVZ6Vm5qcEdtdjZaME55N2NqQy1pVk81YkRteGlQU3Q0TXJ6WlRrM1dWM2dLd0xsbEh5c245YjhxYThuSGNOektoVFloclhT?oc=5",
+          "published": "2026-11-06T02:09:18+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 로봇·드론 활용 원전 점검 기술로 한국콘크리트학회 기술상",
+          "publisher": "한스경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nX2M5a3RUR2dZVTJ2Q3BhY3dGVE9pTjQxa2EzaHVLODVxaHFFdEptU2hmYktMX2M3YzZpZWZXUDZ1dzZRZ1hjV3c0S3pwcW51ck5jaTVxWkgxbXpUdExLSldnd1pVOUkweFgwaNIBb0FVX3lxTFA4Si1yV1djeldCa2NZTHZJZFdKV3YyWE9nSTlIblYyaF9IdUFVMTFpdTZwWW5qUjV1RUt1cnl0SFdpazNvUkVNd0VvTTNFbERLbnVJX0h3TWZ2UXJQSEd4Rlp2aGI1ZGZQVG1kRlJ1WQ?oc=5",
+          "published": "2026-11-06T04:17:34+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 한국콘크리트학회 ‘기술상’ 수상",
+          "publisher": "부산일보",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2cWhaZUhodlhFU0Z6OTlEZkpOV0ctSTZvNGlHeHZNSU1oWS1uMEpGSjZEblE2b2IxWk1kcVFiODNtOTJMbnpWWWxKV3ppWlJMM09veWF3RlhLczJwUlFmb3JHU1c0S0hEVnJtMkNrbG1Fakdqc19wWg?oc=5",
+          "published": "2026-11-06T08:59:03+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 한국콘크리트학회 ‘기술상’ 수상",
+          "publisher": "부산일보",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8zZzhjSUwyYm9OdGx4Z0wwQ1lWUkpaLVp5NFBDTW9Gc1B0YWFZaFNlZktHRDZzTGIzOGtKWEFvQUxySDR6V2FIRHJ5NnhEWUVSTGt2V0hwNS13TVJxSklNaDdVOXlvUS1abUR6WEJ3b2ZNN3VWZDIwci1CMA?oc=5",
+          "published": "2026-11-06T08:59:03+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 한국콘크리트학회 '기술상' 수상",
+          "publisher": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxObjBnRmZnWHNDR3V5N3dTa1Jia0RTalRubWkybUg4dGNNOHNucVVzWEJoV3RLcmJpV3YzWEg5YlJoNUlwTlg0ZnNhQkZhZWlJVVltalNEOE9TMU9CeURrdHJmZF9BYUVGYlhzYlZpdXRqOGNzcUM5ejAzMlBUZ1ZYaVZ4aWVObnJ0SHFXampoVVkzMGZKOXFIeFlhamJqdmRsYmtocV9jNjZLM1k4Y2wtaWNxQ0ZLWElyNWtYOVpJRkxfRTZocHdfZ1ZOOHRSc0wzMG5GTGR4OFpKeUVSaWlXQkZzM0ljWlNEeHRRbFZmUnpmU1BncUVCUHNhZVFSUzI1OGZKRVYxeWlMR0lCVDdibndxcHBfZnZBdDdOdlVhS05tQQ?oc=5",
+          "published": "2026-11-06T11:29:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.579,
+      "id": 4
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 체코 원자력 수소시장 공략…정부·업계와 협력 논의",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0Y0RIYnVnR2VUVnlrVzRJMDNXU0VIdXhZLWVKYkZyNHQ3bjdua2duVWlYMEFUendhWUF2M3o1MVZkU2ZuYjVGQWFUQTZ3enVTVk9GdG5uNFhodWFvdHRrbNIBYEFVX3lxTFA0Y0RIYnVnR2VUVnlrVzRJMDNXU0VIdXhZLWVKYkZyNHQ3bjdua2duVWlYMEFUendhWUF2M3o1MVZkU2ZuYjVGQWFUQTZ3enVTVk9GdG5uNFhodWFvdHRrbA?oc=5",
+          "published": "2026-11-06T01:41:24+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 원자력 수소시장 공략…정부·업계와 협력 논의",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSaEtWSkdnYm5FLURNZHh0dkx6bzlqd25UeE5oaDZXSW5rSlNWU1BsemFteWhTbUtpZVBwZmxvRnJqd2xrNFdTeHlUYUE4R1dvUmtoNndYVHdvMlnSAWBBVV95cUxQNGNESGJ1Z0dlVFZ5a1c0STAzV1NFSHV4WS1lSmJGcjR0N243bmtnblVpWDBBVHp3YVlBdjN6NTFWZFNmbmI1RkFhVEE2d3p1U1ZPRnRubjRYaHVhb3R0a2w?oc=5",
+          "published": "2026-11-06T01:41:24+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 원자력 수소 시장 공략…정부·업계와 협력 모색",
+          "publisher": "부산일보",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5NXhkN29CbmVwQTI0bGdKTEIwQU9PaFMtZlNzMDN1eHJ0VlJWOFBwRk1KOEt2TnJ3V2lvaldzS1hNdEZTSkZPOENGenRYSGtDU21RRWdobkdxQlFIZDZIaGpYVl9VNEtaYXVsOTFNOGx2bGZZQ0h0MEN0b2E?oc=5",
+          "published": "2026-11-06T08:56:09+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 원자력 수소 시장 공략…정부·업계와 협력 모색",
+          "publisher": "부산일보",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xcmlYWm9tSWdLWHhIYzZaWHhvTWtKMGtaQjVuakNFVWJ1Q0VsQ3I2NmxCYjR0dC1XUjQ0Ni1naHo4VkMwZmNERWJpZjZLZmJpd3VVSWtNbDNqNVhISkNuWFc3NzM2ZEVGbHVseDZTMHNZbmh2aUlXcjlmcw?oc=5",
+          "published": "2026-11-06T08:56:09+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.473,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "BREAKING NEWS: Chubu Electric ordered to improve operations after nuclear plant data fraud",
+          "publisher": "Japan Wire by Kyodo News",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TQVc0RUdaZk1rTnFUMjVDQzZuN2Z5Mlg2dW14OC1JT0NtVlNmZDZDd3BVaVlmX3R5bWVIblVhS05OZEdLUnROV0YyYnZ6dEZaaUZXcGF6b0tWdw?oc=5",
+          "published": "2026-11-05T23:27:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Chubu Electric ordered to improve operations after nuclear plant data fraud",
+          "publisher": "Japan Wire by Kyodo News",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvWEdWTS1Gak9mRTBrMlNwRkRROFhxbDlnMjRqUk1DQ1RoSnJhSjhCQ1NOb2YzN00xdGlhSjZ6ZTJRN3JHZE1fOUloaEt6WW1RbFhFMEp6czM0UQ?oc=5",
+          "published": "2026-11-06T01:27:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Japan nuclear plant operator Chubu Electric ordered to improve operations after data fraud",
+          "publisher": "The Straits Times",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVlJRQTlYcF9xU3l5MTh2R200ZzhRRERpbkFmbW1sdGNBb3oxZF91NVo1LWtxV1Y5OVdNRU5yWV9SallyYlNmQjVLNTNUeVVWNEJvdW1vX2haVmQ4WGh0WjNJLWMtcmZ2UmxNLUk2ZmIzLWdjYTdUX3EzVjRYWFJHT1V2Q1ExMTYzNTVyY3ZZZ204aHNiSEdCVE9KZXdtamVTQTltR2ozZ25JOFpqeWd5Z3N0dE5DM2hnY0lUelliZ0QxRmFJaHYzZVY3STZTeHM?oc=5",
+          "published": "2026-11-06T02:52:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Nuclear Plant Operator Chubu Electric Ordered to Improve in Wake of Data Fraud",
+          "publisher": "The Japan News",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQd3BzaU44bWc5RXAxV2xDRHowT3UydjdZdGRybzZhbTVES1Z2Rzd4RWJ4SG1oSUcwUUxfMW9fUFBTX3kwMXdfRHh6NHJWMFVSREVNaVIxMjBLY05hbGJQWnY3Z3BrMXF1aVZydFAwbEcyeWJ5ZlpvSUFlX01ZTmFfaUpkdw?oc=5",
+          "published": "2026-11-06T07:35:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.417,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA launches network to monitor isotopes in lakes",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-06/article-8565/iaea-launches-network-to-monitor-isotopes-in-lakes/",
+          "published": "2026-11-06T21:28:09+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.995,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Unit 1 of the Cernavodă Nuclear Power Plant has been restarted",
+          "publisher": "Informat.ro",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQnRvZDBiQnJLZHhCTXpFalJsZEtCN0NkYUIzaTB6N2l1bHZodlJBM3BvUDBUUFR0Nk1tUWp4OVEyeW5NLWZqT0pLOGZ1enlRT0ZGQUR6RGRhMnMycGkwYzYyaF84N2ZoVHFfeU03SFFIMHBCbGZkWXl2NHd2LU05WUFLamwyVkNQck9PaEZzVzA5TGFIS1h5emQ1TDBnUTZIaEV2OA?oc=5",
+          "published": "2026-11-06T12:47:21+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Romania restarting Cernavodă nuclear power plant after summer drought",
+          "publisher": "Balkan Green Energy News",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSXduVC1OUVRSV1BQeUxRTTVHVWpuQThWemdZemdIbVMzM3o1OWhMUkdwc2xNNWUtMklJd0RBcXVOWU1QM1J6dVROVmpDQTdiSkFzMVUxQTU5T2lZb0hBa3hEWlVqa2FWazJWLVl5Vkh0dVMwMmgwa1E4VmE2SEE1dDZMSmRtbmxvWDF4amlxX21nN3REUTBYcUJra2NBY0l1R21SS0FxNA?oc=5",
+          "published": "2026-11-06T14:49:44+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Romania Restarts Unit 1 at Cernavoda Nuclear Power Plant",
+          "publisher": "BGNES",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTm1hOW1NUlJPblBGdnNaVllpSS1xVEtfZER0ODNveDFoNmNiRjZ2S094d3JzU2ZsMmhiR3V2NzFmYVpQT1RvUG1hR2NQSUx0Q2JwbXcxODVVUS1obUlMQ3o3akU1U0FyS08tQ1gyNzI1bFgtbEZtSmxfa3ljRWdlbEFZT1VvUnBpRVA5TENFdw?oc=5",
+          "published": "2026-11-06T20:45:06+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.965,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "U.K. energy bill proposes changes to waste transport regulation",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-06/article-8564/uk-energy-bill-proposes-changes-to-waste-transport-regulation/",
+          "published": "2026-11-06T18:11:54+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.859,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "The mothballed nuclear power plant",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/the-mothballed-nuclear-power-plant",
+          "published": "2026-11-06T16:27:01+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.786,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Thea Energy, MIT collaborate on testing stellarator magnet technology",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-06/article-8563/thea-energy-mit-collaborate-on-testing-stellarator-magnet-technology/",
+          "published": "2026-11-06T16:13:04+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.777,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Korean companies partner with U.S. start-ups",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-06/article-8562/korean-companies-partner-with-us-startups/",
+          "published": "2026-11-06T13:18:42+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.655,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Construction of Chinese HTGR begins",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/construction-of-chinese-htgr-begins",
+          "published": "2026-11-06T12:47:01+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.633,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Calogena awarded EU funding for SMR deployment",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/calogena-awarded-eu-funding-for-smr-deployment",
+          "published": "2026-11-06T12:31:41+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.623,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NAC to supply used fuel storage solution for Norway",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/nac-to-supply-used-fuel-storage-solution-for-norway",
+          "published": "2026-11-06T12:00:05+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.601,
+      "id": 15
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Reactor components completed for El Dabaa 1",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/reactor-components-completed-for-el-dabaa-1",
+          "published": "2026-11-06T11:35:39+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.584,
+      "id": 16
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, EPRI와 청정수소 생산기술 협력 강화… 원자력 기반 수소산업 국산화 속도",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzSzhtWXpwUGgtakJJZWo3RWRCUWp2MFQwaHBuWUtjTTdVbE5kQ1hLcFhyUjRPejlyNmhJNnhNR2hrWV9lREh6VlJtejNRdmpmVnlDNEJDeUp3bjNjRHRYSDZieldQZ0xNYnlybHZIcENBdw?oc=5",
+          "published": "2026-11-06T02:20:45+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 美 EPRI와 청정수소 생산기술 협력 확대…국산화 방안 모색",
+          "publisher": "비즈니스플러스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wOF9acF81Tm5XSU1GbWJjbkhPdnNFdDRNaUVxdURqR056NnRYcFdUWTdyaERfVnEzNWY3RjgwMlZjZGduWWZxbi0zeV9qXzNLWFBCeTJDdDdRb0QtcWNRWk5uUVpIQ2ctNmpWaWFB?oc=5",
+          "published": "2026-11-06T06:34:48+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 美 EPRI와 청정수소 생산기술 실증·국산화 협력",
+          "publisher": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5uNnpBWjN1NHYzTTlSemljNUk3cHNqS0lxRC1NbUR6ODR3b01ZVlRTcnBneXhGYTFFb2dqUGdITEx5a1VDSFlGTFhLckFWZw?oc=5",
+          "published": "2026-11-06T07:22:24+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 2.408,
+      "id": 17
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 체코와 원자력 청정수소 생산 협력 확대",
+          "publisher": "BBS불교방송",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SRWs3cUNaa2puT25RUVJVM1dWMEQwZUx6Sjk1Q0lZM3FpUjdnLWZfUXVnczZ0RkMxaDJIeC1qVUVCSjRYazdyT2FRM0hUc2ZpOGxubWo4eWMzRFZsR05mNWpmOXV2Q293MGJR?oc=5",
+          "published": "2026-11-06T02:33:41+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원·美 전력연구소, 원자력 청정수소 생산기술 협력 확대",
+          "publisher": "한스경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhOWNNeGZua3JFVGtwdTFWQlVXX0JRa0tZWTZpdWwzbTJiZ0RNSmx5V1ZBTHB5UnpZZlNmZWNGNURocGdveHRzbUk2ZXNNTGtfbndLZ0J4N01ZZWM0N2dfS3M4UWVEa3JwOWpHddIBb0FVX3lxTFBCdEwyODczcDljYjUxTzNPNk5SNUxsa3lPcDhQclVNd09zUk1Na3RrSndpZDhldjJ6bEZLV2dGc0E4bWZETVhMdW1lOWtVQkN1M0VESzhuLXpNcTlaMXM3NDVCNjE5OHU2VFBFd2tCOA?oc=5",
+          "published": "2026-11-06T04:20:54+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코와 원자력 청정수소 협력 강화...생산 실증·사업화 모색",
+          "publisher": "중앙이코노미뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EYndQWmJFTEFUUEdkSmVvUFhiYkstU05VdnZ4QzdsbmpiR3FEb2oyMzhWd2FPR1FPdC03bFVzd1hLZVBNRnhURzdPbGFZa0FGb3dFU2RVOXpTMHVYWFJFNzJGSEduZ2tzaGJzTEZqWHFydw?oc=5",
+          "published": "2026-11-06T06:35:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 2.375,
+      "id": 18
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 에너지공기업 최초 한국콘크리트학회 ‘기술상’ 수상",
+          "publisher": "에너지코리아뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sclhPcTVBcXNreTlUa2lTbHdaUWRvaFpRVzdOMmZEUUpDejFvaTZmaWE5ZEJvSk1zRC1sSVlWcWtYa215OGtieHBRRzk0T19KZkhqcERDTlBiS3FGQm5aaVZXbzdLRGZGLWN4eXdSX00?oc=5",
+          "published": "2026-11-06T00:55:16+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 에너지공기업 최초 한국콘크리트학회 기술상 수상",
+          "publisher": "시사캐스트",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nMjZrcjU4cVU4NmRsQ1lLS1oyNWl1Vm1lYlkySG9sR05vMk9UNnZkUFV6dGlNT1U5ckpxb3FDY0tyU0llam4yN3FQc09rUzlHTTJxN0V1d0xMRExWajhkWTBTU2JRemVj?oc=5",
+          "published": "2026-11-06T02:24:41+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 에너지 공기업 최초 콘크리트학회 기술상 수상",
+          "publisher": "데일리한국",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yclM1MFlkcnBRYkhHNG9TSXd3Q2pxLTBzSXpWamdtTmFYdWtLRTRXRl9jZ1hGdE5SY0djQm9BMl84cFJBczR4bjZJSnBSY0FfSzFCZkl1MkU0RTktNnNVZy1YUWtnTnlJc2NUbUtmaHRXVDDSAXNBVV95cUxOcnJTNTBZZHJwUWJIRzRvU0l3d0NqcS0wc0l6VmpnbU5hWHVrS0U0V0ZfY2dYRnROUmNHY0JvQTJfOHBSQXM0eG42SUpwUmNBX0sxQmZJdTJFNEU5LTZzVWctWFFrZ055SXNjVG1LZmh0V1Qw?oc=5",
+          "published": "2026-11-06T05:54:42+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 2.347,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 유럽 수소시장 진출 기반 다진다..체코와 원자력 청정수소 연구 성과 공유",
+          "publisher": "한국정경신문",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0TE5MS3A4RlZIWVF5LWlUZFNGbndKX2VieWNjWEZtQmFnd1pSN3pDLUxTcVJ2NXV5WHQ3OVV1Y2xDRVRWM2tDMlJwYjRnM25OaFE?oc=5",
+          "published": "2026-11-06T01:16:12+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코서 원자력 청정수소 연구 성과 공유",
+          "publisher": "투데이에너지",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10c1ZXaXpjdTh1S1NxUHVGOE4xdVphaEdVLUlfel9PemR3ZGNGQTI2d3hsNlNIOEx4el9FSUtCNVcxc1NPVm1EcXVIU0FoT3NMY043eVQ4bmxqb0FVWkNtSGJXM25KNWtIbm5HZFpn?oc=5",
+          "published": "2026-11-06T05:16:57+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코서 원자력 청정수소 연구 성과 공유",
+          "publisher": "데일리한국",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MQnlONWVlWmoycS1zUVFwNFJESGNNRU9iSEJmeU9pNkxTREN4T0licG8xU0ZiMUNQZ2NRX0IwRFBoRGxpcU1UNGFQS2VXakoyMUkxTU1UbEJJU1B0cjdydGFOdHU1Tl83bXUxYXNRSdIBc0FVX3lxTE90Q0VaSWtDNlNKNTVpam5DMUtDZWF5SXRUSmZQbURibzJoR1g4RE9fZEg5SHFxQWJpTlgyU1dnT3J3RXdhR29LbThFa2xDM09JSUJtdDl6a3dhTWdIcG1ELUVXczd0bFRaOVZoeWI2VElrSVk?oc=5",
+          "published": "2026-11-06T05:51:49+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 2.345,
+      "id": 20
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Update 374 – IAEA Director General Statement on Situation in Ukraine",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/pressreleases/update-374-iaea-director-general-statement-on-situation-in-ukraine",
+          "published": "2026-11-06T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        }
+      ],
+      "score": 2.101,
+      "id": 21
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA Mission Reviews the Russian Federation’s Regulatory Framework for Nuclear and Radiation Safety",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/pressreleases/iaea-mission-reviews-the-russian-federations-regulatory-framework-for-nuclear-and-radiation-safety",
+          "published": "2026-11-06T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        }
+      ],
+      "score": 2.101,
+      "id": 22
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Vietnam and Indonesia trailblazers in Asean Nuclear Power Programme — Sheriffah Noor Khamseah Al-Idid Syed Ahmad Idid",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLVpwZnl6X0liLXFSVHBUVTNyblFYZEV2UHo1RlVUOWNJV2JJUU9TRC1vU2NEclNRZVJvMlVRbFRsZ0l5YkNYS1pzeXJlZmx4ZERCaW9iSXZTSWh6MWpDQU9LUjgtSTdUT0Nnb2pvNEJZcU5yTnRmY1Nveng3Q2F2aTRmX0pRZHo3OW5Md3V5b3BiMmtxeVE?oc=5",
+          "published": "2026-11-06T08:52:58+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Vietnam and Indonesia Trailblazers in ASEAN Nuclear Plans",
+          "publisher": "JournalArta",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLXFKcG4xcF9renR6dkIwdEtEVXFxOFYwc0NhUURidmNQbmNodE50TWJ4dnFqM1lTUHhkV1RMOTNqNGNIVm9VSlBLQkVZNmZQTDdaS3g5TEt3eHFMeDlZSkMya0JLeUxWRWFqUFpRNGplU3ZCUDdYc1REN29qTnlMd1djWkYwZmhVVnl0Y05LVGgyQXM?oc=5",
+          "published": "2026-11-06T15:25:46+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.744,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 합천양수발전소 건설 앞두고 주민 소통 강화",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MSlJ3Q1hYM0lYcUY5Y0xWY3VfVWRldmMzal9vcDVGNk12OWwzMy1hcGJzQVdYbUNENVR2QmpnRVlVMktETlQ0N2ZvUDctZzBCOHo1WDRGVUFCYzJ5NEJacEl4T2tQZ0ZuNnhZQXpEbGZvdw?oc=5",
+          "published": "2026-11-06T04:41:54+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 합천양수발전소 건설 앞두고 주민 소통 강화",
+          "publisher": "천지일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51N2lvSTRyYzJkbVAyTkcyd0tWZDdKMnpyMHlra21Sb0N5LXdSRDViTHhuT3lNdFlIZ1ZLQ3d0bzV2SzVfazBkVURDM3c2dGFZYngtZFlJOG1BeV85Qy1zeDE0c0RpaUQwWEE?oc=5",
+          "published": "2026-11-06T14:43:30+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.714,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 체코 원자력 청정수소 사업화 모색으로 유럽 시장 공략 확대",
+          "publisher": "Traders Union",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQzhoTjJtYm9KZ3VBSG82VlVGT1dWVWk5TmtjTTNGQjBUbVRBeVZ0UlpFTXJaUmNMc0FKM1JtdHlkM2dYY05hTjRXMElPbXhKWVFRYUhNb0dsRnktZm5WVFNUZDBVeVZRNU1Pb09jemgzRnptWnJKUlNRSlF2UXE5MF9ybkpoX1d6ajIxbGxHQi1HQ1I0?oc=5",
+          "published": "2026-11-06T02:41:39+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 원자력 청정수소 사업화 구축 …유럽 수소 시장 정조준",
+          "publisher": "한국원자력신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9McUQyVm43RHRoMjQtcm1mX0dBdG5ZMnJNeUtKNW1vSTJES2FSUXEyUHVmYW9pcGItTFY0dm9ENjlzMkVXanItSlFYZXBLTTdROC1RcFUxN2Jic3pWempZNFQ0UFVhUTNzdk400gFrQVVfeXFMT0xxRDJWbjdEdGgyNC1ybWZfR0F0blkyck15S0o1bW9JMkRLYVJRcTJQdWZhb2lwYi1MVjR2b0Q2OXMyRVdqci1KUVhlcEtNN1E4LVFwVTE3YmJzelZ6alk0VDRQVWFRM3N2TjQ?oc=5",
+          "published": "2026-11-06T11:21:18+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.574,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 美 EPRI와 원자력 청정수소 기술 국산화 나선다",
+          "publisher": "뉴스퀘스트",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pbEpfRmc5RXF5Y2Q3TDEtQXhxZHR5eVo4R1lMa3p5VmM3dHNlTHI1UjV4RjZJV0Vnck03MlhXb1NxSGFrUUNTalowQnBkb3pXSHJyMGpCX1JYTFMxdXhLX1FBVFdXblBhdE8tb2x4Zw?oc=5",
+          "published": "2026-11-06T04:26:05+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 美 EPRI와 '원자력 청정수소' 기술 포럼… 수전해 국산화 속도",
+          "publisher": "투어코리아",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50WjBBVVRhMlJ3WHJVamM3dVlHczNobmNzQXAxeERpOXlFYjk2Y2cyR2Q4WFFYVXk0M3N5QjV2R0N3WlpDVEtsdUtIa2pGcGV6V2RITUxUYnIxQmxGbE15WWJ2dm9tZzVMeFU3TWhR?oc=5",
+          "published": "2026-11-06T09:57:30+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.516,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 체코서 원전 활용 청정수소 생산 사업화 검토",
+          "publisher": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyckZfekE4R0FYZU5LZktZa0lqQ20tVmE0dVBFZ3pZUXlGRnFOSDZQMEh5aEo5TGlTaDJwa2xES2JkVkNOTjRjbVA4VU11MWtxejNYRkI5ZmU0ZTZjc0RaRTFFY2tTbHdRdl91a0JvQjlXTURtZ0JN0gF3QVVfeXFMUDJyRl96QThHQVhlTktmS1lrSWpDbS1WYTR1UEVnellReUZGcU5INlAwSHloSjlMaVNoMnBrbERLYmRWQ05ONGNtUDhVTXUxa3F6M1hGQjlmZTRlNmNzRFpFMUVja1Nsd1F2X3VrQm9COVdNRG1nQk0?oc=5",
+          "published": "2026-11-06T01:46:58+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코서 원전 활용 청정수소 사업화 모색",
+          "publisher": "이뉴스투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TSWZ6Q05nRk1oTE40RHV0dmI3eEd6R1FqMm12NXNZb3poaXNDMHp4Vm01MG1NSG51b2dOeUZlZ244ckpucVl5MjJ6QlZjcnZiemFzT2x3Tk9tZ0dvLVN0TnZSVTZ0ZUVnOWUtS0xqMnLSAXRBVV95cUxNcXRZU1ZUbTMyb2lJVWJ2Wm8ySW8xWkdQTWFWQ2tfYy1GOVRXOGtFZ2dKWmphR3ZmNTlleS1kU0VaUFFueEhVU2ptMkl5RURMNHdtYVU3MVhyNTc5OTVRbGVldzI4U3NhNTJwcjZiazhVZ2NDRw?oc=5",
+          "published": "2026-11-06T08:05:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.438,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "미 상·하원 '블루웨이브' 현실화…한국 자동차·조선·원전 영향은?",
+          "publisher": "매일경제TV",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4YmNoelY5QjVoMUxmdm1tdU5INjU0TUhrcWE1ZUVWbnR2cmx4ZUxyeVVxUFdUQmhFUXQyWlVIUm1aSmVKY1RtOHNiYS1NLXUwU0tjZHhfXzdqZGhOSC1QTl9xZVNjeGxj?oc=5",
+          "published": "2026-11-06T06:01:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "미 상·하원 '블루웨이브' 현실화…한국 자동차·조선·원전 영향은?",
+          "publisher": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94RHlMZmhLNzZqdEtlTGNZbnMybjVLWkZfNkxSdXNKSVlCbU5DWFY2amlXdzRsdFBRUDVVdUdQeXkwMTFwSzdTR3ZxbHYwVDFFQUE?oc=5",
+          "published": "2026-11-06T07:54:32+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.43,
+      "id": 28
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 합천양수 건설지역 주민 대상 ‘현장견학’ 행사 가져",
+          "publisher": "KNS뉴스통신",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wdWxPRW9fUHlGcFNWeFBMS1hzNXpmZXNGbENQMWJqNHppOUZoWmRBNXB5RmxNWnJyV2tBWW9rT3hscG92ajNRei1SQVdHZGZyV1ZGYXY4andEQmJxZ2pnMkZ4NHU?oc=5",
+          "published": "2026-11-06T04:35:28+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 합천양수 건설지역 주민 대상 현장견학 시행",
+          "publisher": "투데이에너지",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxUWNxRmd3U2FzdXBYYy1ILWhaYkh4U0FsSFZ1d0ROOFRqeHBaWDNZTFprZVh2NjJTa01hRDBSY1U2bWtsNHI5Vldxdl9pb1p1dEg3ZXJXTlFSWDZSbjY5enI5X1ZGZi1WUjVIZQ?oc=5",
+          "published": "2026-11-06T07:10:40+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.4,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 91
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 78,
+      "kept": 46
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 50,
+      "kept": 44
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 52,
+      "kept": 6
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 2
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 4
+    }
+  }
+}
