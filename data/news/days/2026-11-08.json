@@ -1,0 +1,603 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-07T20:17:32+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Russia has attacked the substations connecting Ukrainian nuclear power stations to Kyiv — Zelenskyy",
+          "publisher": "UkrMedia News",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb3ZQbGZVUUJVdUk3Z2kxTHJqOWJONVFvYmdVN0NzY3JSUE1oR1pLX3R6R09rNkNmellVeEdZLWg1OHVWWEFxNm1GZFYwUWxyX1BBV19ScWpWQTVuS195SUxRSTFnVnBVaDVyVW5SanQyeVZKeG93WkVNV3RxaWdxNDY1TDVfeEVyam1SeEEwNjg?oc=5",
+          "published": "2026-11-07T08:38:30+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Zelenskyy: Russia launched 36 ballistic missiles, striking substations connecting Kyiv to nuclear power plants",
+          "publisher": "Українські Національні Новини (УНН)",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONjBielBxSEc3V3dKQXV2RWhqSS1QZmhKdi1mOW9sX0FkdnZsd2RON2RtZktQYmVXNGk1NVRTRVYzZFVLY3NOdFJWNTdBbVZxb3lfU2dVcUFIRXp2Wl9GX0NZakZEaUNKYjlWTHF1Ym5DQ25xNFh5bXZLb0NzdmUzQmVNLXE3VVJkejNua3lpN1djUWNjNFBfTDVKLUktb3l5NFVXLVJYZmZZTkxlUF9ISVQxRmJORjRDcTF6UjZNYXdXa2VmdDVrREdFUdIBygFBVV95cUxOOFUwQXRXdFhmZnJQaW51UlVHZVBrdHJXZW0tREc4VGxCRDR2T1paRUc2V1JRZ1NrX2FhWW4yMGVhamFwcWdmUXZBZlZsVUUyUWk2LTBXR2tyUEZlUnBFckROdFRfUjJuRmpWSHBacGc1NEdkSkZ0eUxhUFhhdmh5MVVsY0MxblYwczZ1Wi1CX1l6bkt6NjZ6QWNsSk45M2JtU1oyR013UWZsWGJlSnAtbFdVNkNoVEtMdUZib1daZ0pnX3VGMlhENy1B?oc=5",
+          "published": "2026-11-07T08:41:50+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Russia attacks substations connecting Kyiv to nuclear power plants and infrastructure overnight – Zelenskyy",
+          "publisher": "Українська правда",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yV2k3UmV5T3pnTjVIbGRVVk5HTUc4Y09veWg4dW9IXzJNN3FmMUVkYks5TnB6ZEVIU2RMUE9BMVZUTTlERmU3U3dzbnAyTjhJNXRwbHYzcHliLUJtX0puQW9ZT0rSAXBBVV95cUxPQmNZaklEcDhvN0pqR0JkMUFodFlQSEJsQTJ0NjFJYXZQVTFKZEFQSXZNZDRNVWdXZFFuZDJfdXRFOWZjYWNOYy1RM2pVc2F1OEZMSjJWeEF1dHZmU1B0TF83Ykc1SmpEU3E1cW5UbTF5?oc=5",
+          "published": "2026-11-07T08:54:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Video: Zelenskyy reported that the Russians had struck substations connecting the Rivne and Khmelnytskyi nuclear power plants to Kyiv",
+          "publisher": "UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYnZsc25CRnBNQkpaMlBpMlphRHRmb0xpdHVnNUtoZHhNOEViTlY4SlVlWWdLQTYzME9UVUhteTQ0cldnY3BGNWh0MWdVejM3WllMeDBVSEhOVDByNnBlaks3NjJDQkR4Y3prV0hUN21JVXJIMnRfWGFXcXBCeXliWEtkZnhHaGhXbWJvWDZkZzJ4R0NlM3JpWDVIV3BXQXFEcEQzNThzVDlGYmpyRVlOUE5PTmI2bzV1R3EtbWU5aF9PNlB4M1ZCOE5XeXp0am5uMGdSdGJhd0ZveTJo?oc=5",
+          "published": "2026-11-07T09:22:10+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Russian attacks kill 2, injure 37 across Ukraine over past day, hit substations connecting nuclear power plants to Kyiv",
+          "publisher": "The Kyiv Independent",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbWtoY1JnN2xyNU5vWlY0cTBPakVZLUQxX1R2Z3VZaURqQkRVbW5BMVc2M3pTZGEwajBVWnRqQ3cyXzdwbTZHT1FkT0Jkdllma0phR21JRzlDUmNTS3dPQi1ZMWZJMHZlRjlBdEZOaWtOZnFxWTZhelpfXy1sbHgyTVd0MDY5MmoyWmVoNGJjTVl4TVdyam1KR0RnV3hQUG95RTZ3cUZ6VEFTUGRpV2Q3Q1I4TloxMkxuYlAxMlhGd1FIc1RfYVA2MUZ3R2l6M0xjNlFRVWw4T1pXT3FpUTlV?oc=5",
+          "published": "2026-11-07T10:50:06+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Russia hits substations connecting two nuclear plants to Kyiv, Zelenskyy says",
+          "publisher": "RBC-Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQjJOa3c1NE5ZOVBIejdndWpKNURPSGM2WmdDa1d0eF93OTRlSVA4QU4xVy1UOEJyaUpLMVFHUnJBdDNEN2FhQVpYSVhkSzY0N2QtejBBYkJOZW1NdWdSc2pnREV1aUJLbnk0MkNaZEU0SXhZZkJkeEdoNjlzYjl3dXZUNTlROFMyVHdlS3Y5RjN1M0FuRXhQa2N3?oc=5",
+          "published": "2026-11-07T11:08:32+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Kyiv lacks generators for its homes as Russia hits substations carrying Ukraine's nuclear power",
+          "publisher": "IntelliNews",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUjJWNWtkUkNoN3NheE94U2RFZm5sc0NXNnVaeDJSODlCdkNXbEljNTRObl91cDl0OFAwZE85V1JISUZXVkVQQ3lHU3hNVmpkeUlUNlg2NXdESFpvQThRSXlsYmVOUVg5OVM4Mnc5eG56eUtBZEMwSXZqY0RhejJCSExrQ1ZLWHlfN19yNk5IYUNsUGYycWRsSl9YeGRBQUpaazhFTG5icVh3NXkwTlVCTVlWRDJBWVAzeF9Id3RZU1RXaDVEeWVVU0tGWQ?oc=5",
+          "published": "2026-11-07T16:46:23+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.853,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 체코와 원자력 청정수소 사업 협력 확대",
+          "publisher": "글로벌뉴스통신GNA",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yVS0tOXpubFlLNXZSYWRJb3ZQaGhJNWdvd0dlMVZGYVMtRHI2ZDN3TzBzSndNNzc2M0RnUTMzNU80empNR3VoTC1lX2tXTUh1WTd5NDBaNXhoeXlkSGZvOEJVcEFkUDkyOHRwU2hTRE9FUkI2?oc=5",
+          "published": "2026-11-06T21:39:20+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코와 원자력 청정수소 사업화 협력 확대한다",
+          "publisher": "경북신문",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PLVQzVnBIaGhDQ2tWaWlqNlpoZFVXTzFGZ0xYNzVnQlNCTExlSGk0MDBVQUQ3cVdoaUxOd2F6Nm9aZlRlU0t5anhTUnBvNjFjR3YzMmd2YjE?oc=5",
+          "published": "2026-11-07T09:40:50+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 원자력 청정수소 사업화 모색",
+          "publisher": "에너지타임즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WZzlxNWNNY19IaUJMbXhxWHRfOXNJdTlMeXVfSlJ0Y29RQ09jOXdmTVlBS1R2WEgzLVJRaXRXd0RWNE90TGYwQlF5SUpRZ0JLQV90dnhULURfd2dRM0gxZF9OSnEtRElHUzZjaA?oc=5",
+          "published": "2026-11-07T13:37:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.722,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Nuclear News 40 under 40 2026: Supporting deployment",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-06/article-8541/inuclear-newsi-40-under-40-2026-supporting-deployment/",
+          "published": "2026-11-06T22:34:33+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.095,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "A massive Russian strike damaged transmission networks from nuclear power plants, with significant consequences in the capital region",
+          "publisher": "Українські Національні Новини (УНН)",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQ1Fha2hfZUFRUDcwWFJYUkdSek1CSWQ4ajZOaTdhYTdkUHRrR3JTVEFwVG5Zbi1ST011U3R3WVoya1hWRDVPSHZnSkNVeEdXNWFfQWRjY2l3RXJIaDJKczdjMUJQYkN1ZDFIeGJ2Z3FBYXdndGRzS0psUC15dENNQk56WktLWEx5TllUNDBzNUV2ekhGZTRtQlVzVkxMZW52MFNWVHBxYjZ1WU1rbF9ISldZb1VZWDJjQXVuazY3VWQzbGFBUi1Rek9FUmtfcFBOTnhPWmRkeWJDVnNfSXV1ZWJfeWZIQS1teUHSAeoBQVVfeXFMTUNRYWtoX2VBUVA3MFhSWFJHUnpNQklkOGo2Tmk3YWE3ZFB0a0dyU1RBcFRuWW4tUk9NdVN0d1laMmtYVkQ1T0h2Z0pDVXhHVzVhX0FkY2Npd0VySGgySnM3YzFCUGJDdWQxSHhidmdxQWF3Z3Rkc0tKbFAteXRDTUJOelpLS1hMeU5ZVDQwczVFdnpIRmU0bUJVc1ZMTGVudjBTVlRwcWI2dVlNa2xfSEpXWW9VWVgyY0F1bms2N1VkM2xhQVItUXpPRVJrX3BQTk54T1pkZHliQ1ZzX0l1dWViX3lmSEEtbXlB?oc=5",
+          "published": "2026-11-07T09:50:04+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Russia attacks power transmission networks carrying electricity from nuclear power plants to Kyiv and central",
+          "publisher": "Ukrinform",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQWjgwQlVlYVJUSGtBUmNxS08tYnVpQTVxM2NXS2NaOE1iTmVRNHdkREQxYklULU8yVGZ3MDFxNnV0UHNrTVBTdlpNRW1sMFFrQm5saEM0TlNtUm9PaVVxeHpEekZQdW9GWHFJYlFEbUZJdk9jRkFFWC14S2pmM2JFRmhEajhQNk1Ra2NOTWxWOHVONm45RmpxaThPX3RRNXVBUC1LVG5CSFBZbncxSnFLVzFQVC0tUmNiVzIxSmVDOXdCanZQX1ZQb1l5dmd3Rkx2eFRQdmVoZ2YwOE1GQXpIX2k3Zlg0ZDZ2R2M2NzZ6ajNxdjVkaUVYZTByMWVaamVwYXRxbWtR0gGGAkFVX3lxTFBaODBCVWVhUlRIa0FSY3FLTy1idWlBNXEzY1dLY1o4TWJOZVE0d2RERDFiSVQtTzJUZncwMXE2dXRQc2tNUFN2Wk1FbWwwUWtCbmxoQzROU21Sb09pVXF4ekR6RlB1b0ZYcUliUURtRkl2T2NGQUVYLXhLamYzYkVGaERqOFA2TVFrY05NbFY4dU42bjlGanFpOE9fdFE1dUFQLUtUbkJIUFludzFKcUtXMVBULS1SY2JXMjFKZUM5d0JqdlBfVlBvWXl2Z3dGTHZ4VFB2ZWhnZjA4TUZBekhfaTdmWDRkNnZHYzY3NnpqM3F2NWRpRVhlMHIxZVpqZXBhdHFta1E?oc=5",
+          "published": "2026-11-07T11:41:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.641,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Estonia narrows nuclear plant search to three sites in Viru-Nigula",
+          "publisher": "ERR",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNblRpNzFYOTN2Z2FWOGcyaGh2R1pjZy0zem1jQVJybTEwclZhMHlBbFd4OWxBMEtEUnUySWszZUNOYzAzNUNJTTl3WHpBdjhXR01EUW9ETnZZMXFWVkt0MURzUjJMeUN0LTRiNTNwVFgxd3Q1QmEwYmF4dHFMMEdPYk9mZkZ0N1hVdkJ2enduWWlrcUhZZW4ycjUtSWJ3dw?oc=5",
+          "published": "2026-11-07T09:36:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Estonia cuts number of nuclear power plant sites to three — ERR News",
+          "publisher": "UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM0F1VEZRRTRPdFN2eHRGODQ5eE1HN1BfeU1teFA1LURWcmRlRmtaalNwVzFaeU5qeEExUnEyQzZrV0g1NTBnQmtiMmQ0cjFNR1diN2hoRU81a3kyWkhCWW5xdlVLMVU0LU95aTJxNF81bzVTdFZQb2c0QVo5Y0g2TC1RcUJ0VURRX1REem1nYWl3ZE1mbmVxS1lWelB5blc1?oc=5",
+          "published": "2026-11-07T10:10:23+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.578,
+      "id": 4
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한국수력원자력. TUV 라인란드 `유럽 원전 디지털 기기 인증기술 협력` 양해각서 체결",
+          "publisher": "CBN뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KS0NlaU4yUDVpMncxT2dQLUZOVUFoV2htc1Z6S0VuRWNuMlZpaG1sT1FJblJMUUpHUlNUVUZjRzdDQmktN0FDOW1QZVk4S1dReW9R?oc=5",
+          "published": "2026-11-07T02:30:23+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력. TUV 라인란드 `유럽 원전 디지털 기기 인증기술 협력` 양해각서 체결",
+          "publisher": "CBN뉴스",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTXBtR3NiaWZPS01lUUR6Z3JfUlpqN2s4b0w4T0w1TUpqcVE2dVlOSmdMWlFCdzFBYkdxbG1HQ2g5cl9HNXI2M29DQmJnSFVLbHkwbFU3NTVrN2dvMXBWcC1uRlhFbnp0STVGZkUtc1NHZnVvdWVpV3J4aW9FNHdwcw?oc=5",
+          "published": "2026-11-07T02:30:46+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.259,
+      "id": 5
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "美 중간선거 후폭풍에 원전 투자 불확실성 커져…100억달러 선지급 논란",
+          "publisher": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WNGlsYURaWG1BdDl3YmE0aGk2U3JvRlFjZm9nVFMwb3FFd1ZFOVdwbnlCcmRZcjA1UXhrYUo0ajNuNmFOLU1QMENDbU1sbnFwamR6bXdMT2lRZw?oc=5",
+          "published": "2026-11-06T23:40:14+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "美 민주당 승리에 원전 투자 불확실성… 100억 달러 선지급 논란",
+          "publisher": "천지일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91U0ZFWWtYQkZfN3RvcjRNVUxfNjYxVEM3RFlpdW80ZU5pX1NvQmlLMS1JeEdHenFvTTFJdGVGQ1Ffd0wxM25CWFVsQURCLWhXamZLY3FBQktPUG1SNm4yOUxib2p2S2VLdFE?oc=5",
+          "published": "2026-11-07T02:00:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.238,
+      "id": 6
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "26조 체코원전 수주 파탄... 프랑스가 버린 ‘독소 조항’ 묏자리였나?",
+          "publisher": "최보식의언론",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvUEhRZ21MRVRkWWpMMjF4VTM0RS1PRG14V2xIOVZSejBJT2NCTWRGVVR2VzVTaWliX09ISUx5Ui1abmJtYWVDakRZY1hyQlAzWk90dVFlU0ZzeVNnUVVMOHRFUEfSAWhBVV95cUxPSWRTRGF3c2tvdFk0d0dpdWExdnVoTllnNldjQXFmMEp1eEJIb0ZCaFlDa2JQa090dmlKNzZPLVVQd1oyQXN6aXA0cHloemhBelVfeFVDR0dBdmJibEl4UWNEbkJETFlTNw?oc=5",
+          "published": "2026-11-06T23:02:44+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "26조 체코원전 수주 파탄... 프랑스가 버린 ‘독소 조항’ 묏자리였나?",
+          "publisher": "최보식의언론",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JZFNEYXdza290WTR3R2l1YTF2dWhOWWc2V2NBcWYwSnV4QkhvRkJoWUNrYlBrT3R2aUo3Nk8tVVB3WjJBc3ppcDRweWh6aEF6VV94VUNHR0F2YmJsSXhRY0RuQkRMWVM30gFoQVVfeXFMT0lkU0Rhd3Nrb3RZNHdHaXVhMXZ1aE5ZZzZXY0FxZjBKdXhCSG9GQmhZQ2tiUGtPdHZpSjc2Ty1VUHdaMkFzemlwNHB5aHpoQXpVX3hVQ0dHQXZiYmxJeFFjRG5CRExZUzc?oc=5",
+          "published": "2026-11-06T23:26:54+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.132,
+      "id": 7
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[국제·에너지] 탈원전 폐기한 벨기에, 원전 7기 통째로 국가 소유 추진… 앙지와 인수협상 또 연장",
+          "publisher": "독립신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ONlRPajYtM0ZURHgzeGR6Q1VYWnd0Z1BXUmFsU2JHc2tNam1jRnFBRHRwb3VIeC1OWFRGUjcyaHFvWXhwci1XZTc3Uks3VElNR2xfTm5RVDZiYlpFOGhDTDNvWVVULWdab0pv?oc=5",
+          "published": "2026-11-07T17:57:11+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.903,
+      "id": 8
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "‘탈원전 성지’의 대반전… 美 버몬트주, 폐로 원전 부지에 SMR 재도입 검토",
+          "publisher": "독립신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wVEh2Z2ZrZFR4NzJITWNsa3JuTGhmVmhDcnFibVBTLWFYVkV6WXc0MGtOTWUwSTZudDJFd0JoMWQ2UU4zaGY4cDkwcDdoeGVWd1FjenNUYTlKdlZySk16RjhXV3h5cVpXZ1l3?oc=5",
+          "published": "2026-11-07T17:57:32+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.903,
+      "id": 9
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "'가격 눌러놓기'의 역풍… 원전 경쟁력 외면한 에너지 정책이 전기요금 참사 불렀다",
+          "publisher": "독립신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qbmdNWkc2aFBtTDc3cXpOWkgxZ0U3cWZCWUtQejZwUjBTRFVSaWZGaHJIRFhDNXo4ZDBlRC1DdE4tdzZHbmQ4TmNfU2VHY0FzMWJWS0s2dVY4aHJYUlA5Q2FNVDVrcG1JcFJN?oc=5",
+          "published": "2026-11-07T17:57:35+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.903,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "A 4,500-acre stretch of Ohio River bottomland that a Kentucky utility bought for a coal plant it never built is lined up for six of the reactors running at Georgia’s Vogtle plant, 6.6 gigawatts, more than any nuclear plant in America makes today",
+          "publisher": "Autonocion.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQ2pCNHBpYW4waGlFeFM1cGk0UnU3WWwwLWNaSHozMkRGMzVrV0hwTjUyZU93cTd1TW5jY0dhU09seGd6eHpWcXM4QTJ4LVpidGNtZnVDSEtBMkwwcEZVNlNrNUtOR1JPZjBjV3NVUzVsbWIwb0c3SGp5eTZKdkhndHBGb2JJOG1rXzJxekRGb1A?oc=5",
+          "published": "2026-11-07T16:59:38+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.863,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "BREAKING NEWS: No abnormality detected at Hamaoka nuclear power station: operator",
+          "publisher": "Japan Wire by Kyodo News",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NRE0weU9rRUNwRHc2R1VtVERQWlRXUjhDNUxfRnlOcUxHRU5FQXZZcXEzRXZTQWZtbW9uaGZKSzdtOEFaY2xuYXBUTWdwSEJQZXNhTXJPaFVBZw?oc=5",
+          "published": "2026-11-07T16:53:07+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.858,
+      "id": 12
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "50억 달러 규모의 원전 확장 계획이 실적을 뒷받침하고 있는 상황에서, 콘스텔레이션 에너지(CEG)는 저평가되어 있는가?",
+          "publisher": "Simply Wall St",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa0RtOEMzSkdHZ2ZVcnBPY0lSQTg5c2cyREYyaWxqYWxuaVdaalAxMEJ3UFJTTnk2SDJ3eU93TjJ3aXlTbFRRQU90MXpJeExLenJnTzEyajNNejlyaHJ2SWVFN09fRUNRUjZySWgwWUJDeThqbVVwTk9LLW5fTU92Slk4ekxaSVFSNy1tZGJoVFlURHlEak9BTDZxNUlBTm_SAaQBQVVfeXFMUFdHWWI2bWJ6eXp2Q0VON21UN1FJREtscDdUY3dYbzRwNVEzR3pfS2FxLTNwNFpDcVg0QzFGZWJzRFlqbF9uazBvQTFEak94akpDc0dCenI3UEpMS0JpYkR6Q3BQQm5kOUFDVlN4Nk9SVG5tdExodkU2ZFl6Z3R6SERPektuSi1ZV0d1UGZRVVdxWTdXaUZXWFcweFN4MFpYVk1jY0s?oc=5",
+          "published": "2026-11-07T16:28:14+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.841,
+      "id": 13
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "대한민국 나눔 국민대상…한수원, 보건복지부 장관표창 수상",
+          "publisher": "에너지타임즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93TEFKZTdaWmJDSlpDMUlGSVUydHlnMzlpeC1LMGtpX0w1QlB1VGZPbmV2Q3R5VFhGOUJETHBkdVg1MFU1LXNLeVAyaEZoRmY1QnNCU0RQYl9rWmcyM3AzN1F0RUFoYjNxaHozYw?oc=5",
+          "published": "2026-11-07T14:48:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 0.771,
+      "id": 14
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원전 점검 로봇·드론 활용…한수원, 콘크리트학회 기술상 수상",
+          "publisher": "에너지타임즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ISjMzN1Brdl9sWmhzTTR1TUZFZTNRREFGM2FkU1BxdW12N1p3NW9Qa3htd2VUQlhSRUVWSW5LSVNNYjdHTXVBbnVBX2M5YWM2TzVkMzFKM1JMVnoxV3Vyc2FTSS1uRmlUNDZYMQ?oc=5",
+          "published": "2026-11-07T13:45:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.727,
+      "id": 15
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원자력 청정수소 실증…한수원, 美 기술·운영 경험 공유",
+          "publisher": "에너지타임즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10cVd0MXBmb3J1REtNOU9jcFZWenhySVNjNWtOMExteTRBUlNWVXpwTVhvckM1Z2U3UDlqWGNVenJtNTM5OVZ3cXJmOW45SEdQX2lvU2QxdmRtWVhzazd3Tjk3UDJIX3FvN1dEdA?oc=5",
+          "published": "2026-11-07T13:21:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.711,
+      "id": 16
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Canada’s AtkinsRealis Seeks U.S. Approval for Nuclear Tech to Power AI Boom",
+          "publisher": "EnergyNow.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMkJXLVI0VUUtRUhtNERZZGpsa2s1U1ZEYlozT0tzdVFiZExNSzJnclRwb3EtNnZNRkM1LXQwNGYwT1FoTkJHVFFpR09YYTJHZW5XT3B6WnlEQmdKd2Fmb1NVWEV5eG9hbThaUmlmbDhCdXQxNUNzVmNwZHU0LUp3ZXNuVkRObG1xNXVXdm1waFEzUUFWaWxBdEZLZlBPcDVaYVJGMTdNOA?oc=5",
+          "published": "2026-11-07T13:16:29+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.708,
+      "id": 17
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "합천양수발전소 건설…한수원, 지역주민 소통 확대",
+          "publisher": "에너지타임즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yTkVZU284bXp1Q2VoM0cxS0t2eDB2b2c0WDIzVlFyLTVZMVRYMG9Fcmp2WExiU3g5M1hSN0hYZmlxYW1sTG9FZ0xIeVJSM3ZRaElPcFRfRllKdlFNTXRRZEVHSnAtVzQ2cjRJbg?oc=5",
+          "published": "2026-11-07T13:09:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 0.702,
+      "id": 18
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "A 44-ton machine that can work almost 65 feet up just finished factory tests in Germany and will lift a remote-controlled demolition robot inside a retired nuclear plant, where eight steam separators weighing up to 330 tons each have to be cut apart",
+          "publisher": "Autonocion.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa09qeW5oTmtnX1h6d3B1ZmN5QTNfSVVTSGZIRks5NEJmVFpnZ2Vqa1pTZHMyVG05TVhOTnNzeTZoZDZSZEROaTNWNlhfdVgxeVpGalFNczJJTHFhS0VDb3B4bnRLMEhuaXlSaEJhbHA2TzgtT1pzaHI3eE1OeDhxZDF5YVpPaU1SbXc?oc=5",
+          "published": "2026-11-07T13:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.696,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "전력·원전 현장 로봇 투입…한전 등 에너지기관 기술협력",
+          "publisher": "에너지타임즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Pa0RicTg3a2tiRlAwbUR3VVpVRUYtTXVQMGFLQlFXUXU3bE5seklURHY5VDFuOGRNLUNjajdhV2daTUZ4VzFLOVRVQTR1bjV1REYwMkF1U3hzdU1uR1RQRnM1TXZQbENRRy1seg?oc=5",
+          "published": "2026-11-07T12:44:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.685,
+      "id": 20
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Indonesia Could Become First ASEAN Country With Nuclear Power Plant, Eyes East Kalimantan",
+          "publisher": "BusinessToday Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYlJnX3VZaGI2Mi1EeUgwOXVtdjlpNVhFTUZpWXZmckU3bWdDTEtmNnJFVFpETFFDVE55MEJES0VyX1dXelRySGp2M3hQVkZWd0xaNEZUUk9hVDdrZ1YtdHdmdDNjU2lvc3ZVdEhGM3A4ajlySkVUTGVnbFcwRWZTNmxuMnA3OE16Vk1XbnFMOUJZb29oUHAybGptRWhmVUktQ1hCcUVILWU2TzRyUjBrUTZtajJ0NEV3cDNNUmJOaVBDcjJEVVFiaS1ERE1Mdw?oc=5",
+          "published": "2026-11-07T12:19:48+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.668,
+      "id": 21
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "대부도에 '원전 2기급' 태양광 온다…안산 몫·농민 대책은 '빈칸'",
+          "publisher": "경기연합신문",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qdG04ZTdmNFoyRE43MnJUMkJyM05GeURSZ2tMRWZVNWt5YVdoUS00MzVpdEVwVTRDQ3FNTTV5Y3M0cmtFd0FYLS0xWDZiZnF0WG80UHRtS01rUHRDOE5tMThuY3FlZw?oc=5",
+          "published": "2026-11-07T11:57:35+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.653,
+      "id": 22
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "The capital and central regions of Ukraine are cut off from the Rivne and Khmelnitsky nuclear power plants",
+          "publisher": "EADaily",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbEtJeGFmTXlGNHJUZmRVV0FjeVF2NUIyMmJOQzRsR0l0UzlhS0VYQnByTm94ZXd4MXUwXzlDdjliQ3locVRxVUxXZU9MaFdRaUE0aWxkcTdlTVIyMXpkam1wMXROZ0wyaVltRTk1TlRmNE1xSDJCT2poWExIZlU1Wmo4YkRjSlhpR0VVek1HZ1d5ZVdFQzBHN25YeDEzem50bHJhQVZWUVh5ZVZtSDhKSngxRWtXM1lZbXBSTFNEU0J5SXlmUEZ6WS1RMHlCbGg0ZmFNb2doaGtFNzRVQkNaQktEMNIB5wFBVV95cUxQeGh3MWpZWXQ5QlZxY3FnR09wclk3cXhsRUhCNUdBS1VhaGZOSW45ZGU0N3ZEYjhEUFFvc3FIUnpJbEpKcWhmaHYzdXN4WW9hd2xHQnRRZTNZUWV6b2ZRM0RWQUNRcld6Wk1GUWlRVUtxOVF5OTNtcE5IYnZ3aFZneGl0WDE2c1RSOXdKRE9IYm02dzR1OVBjbTdqOWF2UTVhbVg3a2JyVE9uQ0NzRUFHLV9TZmRJZm9UdlJzclltZmRNQjlJdGJNbDBSMlBwT1lKdWVaNDEzd291NVU0a0FlLVZzVHBXeU0?oc=5",
+          "published": "2026-11-07T11:30:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.634,
+      "id": 23
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Indonesia steps up nuclear plant feasibility studies in E. Kalimantan",
+          "publisher": "ANTARA News",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNjFlWmpheTJjam1YVjY0UmdJcVIxVzRuWG9jNDMtQTAwV21SRnlEalJoV0tGbWpaUU1uODNRaWg5WGpWai13VUdod3VKSWNsOS1BMHRzX09sSUZreDFYazNlQWZzcVZiRnNzMzByMkhXYnJRLWZFUk5tOHF2MlhZWnU1dTBrdWpmTDVVLThqdUVfR0xqX0VNWXZtVnBRT0lQSWUtTXFoQUVZcXBma1R30gGvAUFVX3lxTE82MWVaamF5MmNqbVhWNjRSZ0lxUjFXNG5Yb2M0My1BMDBXbVJGeURqUmhXS0ZtalpRTW44M1FpaDlYalZqLXdVR2h3dUpJY2w5LUEwdHNfT2xJRmt4MVhrM2VBZnNxVmJGc3MzMHIySFdiclEtZkVSTm04cXYyWFladTV1MGt1amZMNVUtOGp1RV9HTGpfRU1Zdm1WcFFPSVBJZS1NcWhBRVlxcGZrVHc?oc=5",
+          "published": "2026-11-07T11:21:09+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.628,
+      "id": 24
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Machine Learning Predicts Nuclear Reactor Containment Seismic Demands With Explainable Models",
+          "publisher": "Bioengineer.org",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWXVFR3ZPSlFNbmNSa29sN2VPbTZrWGMtalYtTW54ZlVCXzNBQVJCZTBYV3Vrd1ZLMV9FR3ZaRzkwSGtVOUo5LThLWS01Q29ONURrY19ESmVZWmVzdEhBb09SWW9IWkNrYXVQQ2F1TUdjUzZKbjhxTWZpdFlzUGU0YkdmTUVURzBGMll2MDgyaERJa3QzRUdoejBHUWpZUFhsclJNb0NMNGF3aXRtTWFBTlJZWHVTcUdtVGc?oc=5",
+          "published": "2026-11-07T11:18:11+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.625,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "美 중간선거에 100억 달러 원전 선급금 논란…정부 \"사업성 따져 대응\"",
+          "publisher": "글로벌이코노믹",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVmpFVWZ5T0xXQ181eHFqc3pvTmtXNkw0M2Q0M0lFbWMwajd4cXRKSWVScWpPZUZVYW9QTmZOQXNOX0ItSkF3UkdmQktTRTNJcTJDbzE1c3FVUVVQbkJZR09oZHY4SGtTZjlpSmp6VTd5X09NbHczbUlNekNnUTQ2RTRodW1sQQ?oc=5",
+          "published": "2026-11-07T10:17:59+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.584,
+      "id": 26
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Romania has restarted the first reactor at its nuclear power plant after more than three months of downtime",
+          "publisher": "LIGA.net",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQVlXMl9zRVh3ZTh1VVZOYmhIRHpxQ3c0bXJ1cC1RTGFyZ1pPZzlhdnhWSEMwWDFRU2NqdjFlaGxYTTA0bnFqOUR3QUF1SnVuR2RsbEM5UXFmUzRTSVd5YUJsR2s3UWpKRVQ1RmoxQzU3TFh3ZmlURU9YamR1VnNqcHR3RkR1STVDN3ByUlE3QjFzc2FWSXZ4dkZrTTQ0eUZsT3Y5dU96LUg4VUVQSlJXV0V1dFJwclg3MGt5d0tEMW8ydVZmUjZESmFRanpCRzBNb3ZKcmJJN2E1alXSAeABQVVfeXFMT1RzU2F3TWhMQU12MWtjYThQZ19naE9VVFRxcHRCM3ZnVUZUY1BvNGpaR0JYdElkWnFBd19oY3dWSXNDcEZLcExpWjNkSVpMaUJyQV90NkhEVzJEb3pmWng4WG9KbXVtekJmN3ptQ2dpWHZoZ0RLNEVSMUxBVmQ1T0ZLbmZGZE1tejZQeEVOcGhqcmVjanlIUUsyRHBieDQtdFA0MURTVUtRU3ZqWlFhRDYyM0ZlaE50amRTVi10dGY0NUdXYkpCaGo3aXRZVEowdl9pcXFva2l3emJkc3FNRTY?oc=5",
+          "published": "2026-11-07T09:52:07+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.566,
+      "id": 27
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Fears of 'serious nuclear accident' in Ukraine as atomic experts beg 'stop'",
+          "publisher": "The Mirror",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdmM4a3YtZUJlemxsS1o5OU5JQkVlN0lXeXNfTWVMdFZ0R0RYVEFROVVpQXhDN2dibmE4UU1kT1d1RmJhb1RLX1BBdjFqRWdZeG96UjNOS1QtYkpxeVpjRS1Xc016WllPZTh0ZGdHRGNmSHlGMVQ3VlA4X0tYWTRTYm1yUWZ2Vk5KamVJTW530gGTAUFVX3lxTFBsSTk5OW02Rm9WLVhZM3NQMjhpa2xBMF9IbC02S2hJUGgxWUZNZU9LNGtBR3dDMDlJWl9QRmItVHNkdnAxYm5DdDVFS2xsYkVrUjZob3RqMFo1UEg2d2gxcVY1VjFLRVRPVTBSVDBBbDUxRHF0V29sNG1fRWxEQzBTYjZiMGVBTEg5djVCUnYwNXRfbw?oc=5",
+          "published": "2026-11-07T09:45:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.561,
+      "id": 28
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Study Examines Indirect Disaster-Related Suicides Following Fukushima Nuclear Plant Accident",
+          "publisher": "Bioengineer.org",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcGlUQVJVOE1XS1R0RWRqTE9Ic01wU0ZmMk5EOE1adlFqZWw2TDMweTFFVmduUTVKUUphZG9ZeGdDUExPcGtfdEVGdVBBMmY0c3RiRVZIRFo1cXB0NFVrQS1ZbWVjeWZaZlc5VFBTR3d5N0xoaWxpRXhZWjVXWUFqUjB6OWhSd3o2RG80NjB6R29WbzBYcEZwckFJVFFodTgyN05MMmVJUEVPMFhvajhUa1M4WG1fcEd2?oc=5",
+          "published": "2026-11-07T09:27:36+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.549,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 65,
+      "kept": 61
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 24,
+      "kept": 10
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 40,
+      "kept": 36
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 52,
+      "kept": 0
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 1
+    }
+  }
+}
