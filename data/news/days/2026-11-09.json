@@ -1,0 +1,699 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-08T20:32:17+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Zaporizhzhia Nuclear Power Plant loses power from its last operating line – Energoatom",
+          "publisher": "Mezha.net",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbVpDNUx1aFJOcmZKa1ZkdzFnS0hWZkVhRVVuRGtwN0k0R1JGZ2FER0NGckVMc1JreEdsWWNkY29nV0JsMzZScTJyNG5NTlBkaVpVMnRoTllyQldFdXdQRkNOalRXTGl2SFJ4cXZIbUpQUTNiRm43bkNUV0RoNG5vLXFRenk0eFI4RXY0bk93?oc=5",
+          "published": "2026-11-08T07:24:35+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Zaporizhzhia Nuclear Plant Loses External Power for 16th Time in 2026 - Oj",
+          "publisher": "Odessa Journal",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR1Y4cExUSVd5UWZzRjlBUVlOeXdXQ1ZacWpmZXZGRko1UnJmMk0tMkRIY1p2LTIwbzk2X2ZmUVZPd2hrMHR6Q1k3MzZPc0JxQU9FRjJyQi1jczNuNjFYNVpwd2FfcFZrLTZiMkhCajkzMzdNY2o3NDNqUU1iTFZ3b2lxMTJmaVRlVGprQnFlQzNWWkdRMzA5Vk1ySkxWZ1NE?oc=5",
+          "published": "2026-11-08T07:45:38+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Ukraine's Zaporizhzhia nuclear plant loses external power",
+          "publisher": "Nikkei Asia",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSGRuTGgxbWE4dTBpTHFKWnJLaGVhRktET01LczhSYjhxUDdHYjZMS0wyaW50TXVWN0M2TnJvY2JlcFhrOXhtTGZ2eG91bTcxSkFMcTQ1eXJhYlRDMUN5V1piVzB5TGg2cS1ROXNWSGhZcnJkSWVCTHNNcUdhVEFOenh5TkdvMVYyTWJmX2FNekVZMzMtaUNyclN5RlNxeFhKa1Y4Yg?oc=5",
+          "published": "2026-11-08T09:10:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Zaporizhzhia nuclear plant loses external power, switches to diesel generators",
+          "publisher": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSlRYNnF0WEUwWXlYc05IWGZnMVREVEJ4WXMxSHhvNFRYc2xxMVlEQzhYRkN0QTcxTjJsOVVnc1J4ck9XUFhndlFUV1dvLTBEeG9FYTJEaFlsR0NxdmtjYThrRlRIWFo5WXY5VExSMmhGNmZGaWtPanJDcUgwRE52aTJJWnkxanR2R0VsOW1xOFNPNXVIN1JKb2p6MFc2M2FlWTR4c1FCQ2ZrS3pLWlpYUjBfNXJWbmpPbVpDSUpLRE13Nm9yczN6bw?oc=5",
+          "published": "2026-11-08T09:12:14+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Zaporizhzhia nuclear plant loses external power",
+          "publisher": "Breakingthenews.net",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWkhWY0ZmU2JhVnBNX3hTTmJwWVJsT1kzeTRuZE5XT015aDJZQ2FQbU5ITi1FWFIzOW1tY3ZjZUZDdDFfTFRRWmdEYy15dFZhdGZWZ1U5T3hOaHcyM0V4UGZXZzYzc240TS14a0N6MXkzVmVXMW9VMllrNmVlNkRQdDVTTkRYaHpFbmRQckZ1WDZPeU9ZSEdz?oc=5",
+          "published": "2026-11-08T09:33:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Zaporizhzhia nuclear plant loses external power after damaged Ferosplavna line disconnects",
+          "publisher": "Cyprus Inform",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSG8zWThwMGlKR2NHZU92cmJ4dW5yTElFV1FjTEhXaFBTVUJxcXNSZDdTQ0ZxR2QtNUJNU0l5WFJyZGtKUzNsV0I3LUg4VWdlTlh1YzNIZ1FjR1pZZW5wUTZWcXpPdF9nenhtUl9Da0M1cFlTN1FGTVlTVjhraVp5UHJ1UEk5U3FyRmxvdDhKSEhjaWNCU1M4bjVOd1NzQ3duTEdwOUZFTk5VTGhvcWJYTEFQNTBHSWFRNUJ3QkIzdUZ1UFF1?oc=5",
+          "published": "2026-11-08T09:53:25+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Russia, Ukraine exchange deadly drone strikes as Zaporizhzhia nuclear plant loses power",
+          "publisher": "سانا",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UUHFlM01VMnRKMDlJS2Z2cmJHdmVNajBWVWd2LURlWVRVX1QwVjBZRFJzRUxIbU1JQU13cktjMGdoeS1uVC1ybkRUWUpIc1lwdmpv?oc=5",
+          "published": "2026-11-08T14:26:19+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Power restored to Zaporizhzhia nuclear plant, IAEA says",
+          "publisher": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdTlXMEVVSkVBRlZlWmhHRzJUY3Nzc1VRVFg3eHBwRTB0cDV6Umtpcko2VThaSmlUcjVxbV9WR2FvSmk3eXFzSzdTZG04bzFEUEltQ0dyc1Mxa01RaDBONDNVTWIzREZWVUlIejRMR2dSNmUtNkN1ak9WSjEtVDN0N0ZBak5EMERkS3cwSWFXWVVMb2V4bWRNUjIzVnUxNXRHLW14NWdSSGx4ajQ?oc=5",
+          "published": "2026-11-08T19:54:17+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Zaporizhzhia nuclear plant's power restored",
+          "publisher": "Breakingthenews.net",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWUF2LVpfNEVaSVRJRnB6VXJtUGdTNjRFcTBkRU9RbnFsakNmSmd1eWVaaUViRF9jZldxUGZIcUN1aVBwVzlzUVVwQUVFZ2xpTVZlY21fLUhwS3hfLWU4RDJieHM2YTUyS0wxaUZyUFBhb2NDNzRXUWs0cndCXzVGN1RIOFpIakJ5Z19qcmpyeU0tQQ?oc=5",
+          "published": "2026-11-08T20:06:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.982,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[인사] 한국원자력환경공단",
+          "publisher": "퍼블릭타임스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92ZXhnNHFBZTZLbl9mVDhDSUlXRHpaUmhVMGkzemdoSVRraUt2MWlfbmFhaHpoWW9kUGFhTkpSUTljLW12Ujk4TlBQby1TZWlFcHMzaGlwZm5XT1lTUDVhMWpmdEN5QjNrcUHSAW5BVV95cUxOdFBVN21fbnVVLXVUbVlTY09Cel9TT2ZSb3FNcUpTQUFVc0cybndmN0E1YjR0ZzJKWlMtMjNBY0FSUFU2WEtlM2NnXzJnMXRZRkJrU2xtem1HcDJLMExQcTlvRU9mZnZOYm5KT1hjQQ?oc=5",
+          "published": "2026-11-08T01:17:56+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한국원자력환경공단, 보직 인사",
+          "publisher": "CBN뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPSVRMVGNqVDl4Y09BeUVRZjlyTXNiTDVLT0hXblJLRFBJMjdWaGcteFMzeXJXcWs2NWJMdVNZblc5Zl8yUUhyYmdYTmVCQmkxZDNJ?oc=5",
+          "published": "2026-11-08T01:22:22+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한국원자력환경공단, 인사발표",
+          "publisher": "데일리대구경북뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80WU1hZGRPalpQR3ZJZFJpR3FuTlpJLUZjRjFUMUh5aHFTREJBbDJJSGU4Z00wOVkxMkk2SGsxNTJxOXlub05XdUdSS1FTWkFGdUIzQ0NwbGFaVWVFX1NqQzdJd1ZXQQ?oc=5",
+          "published": "2026-11-08T02:26:19+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[인사] 한국원자력환경공단",
+          "publisher": "위키트리",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jZjVxalhLZHNFZU5xMHppYVhlUlVPbnp2cGM5WE5OSjMxV3d1NExMTnBXVGZjTXFhV3lkbWFfYm1zSEpva3dxLXg5TE9xNFJxbDh1a1JB?oc=5",
+          "published": "2026-11-08T08:13:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[인사] 한국원자력환경공단",
+          "publisher": "에너지신문",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqWWxXVjhXZ1QzZ2JibFdOQUxLYlhSczZLRE95dnpsNWRyT3dGUkNRMkh5LW9QVHFYQWxrdEtpUGZuQURMVDNFVGliTld6dzFoRU5iZzJ3eGduc0FhVlMyTEV1dmItcUc4YUYyWnhKYlpCdw?oc=5",
+          "published": "2026-11-08T09:02:38+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[인사] 한국원자력환경공단",
+          "publisher": "에너지플랫폼뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Pb0YtOE4wT2trNzJaYjFPdnU4VTVIQTkzOWluVDFSSktZQXpqRFZKNFJ2TmZ1cDNYenkzU3d4OVFuQ1NyQm5hNjdFVFJqR3BpUTJYQTJPMXRBNVQtbU9KLURxdUcxM0tvT01RMdIBcEFVX3lxTE1qTHN4NFhjNVFBc3phZjdEa3RaTkxYeVhsWTRQWmZuSk5CTkFQWmxhbmQtMTNYUzdzd0JxUWNPa0gxaHJkMjlSYU1SZm5JTVB6Mko1ZHBrT0duYWxYOHpOUXhYdEIxSGFMVHotaHRIVWI?oc=5",
+          "published": "2026-11-08T09:43:22+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[인사] 한국원자력환경공단(’26. 11. 6)",
+          "publisher": "산업인뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SYU9LUDRodGpyVWkxazM4YUcwSXhWZUswaV9SYzBUUUNuYzhBa1E0UG5vRzZ3c2ZteWo0d3BOZmhrSEIwYW02ZS1Dd3g4bXFuM0VSeHl4U1RwODZTRnFLSmFVS0tZWXV1TTlwYW93?oc=5",
+          "published": "2026-11-08T13:04:16+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[인사] 원자력환경공단",
+          "publisher": "이투뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZVUdYb2M0Smdhbi03SFlsZHk1Q1A2Yy05RG9wRk5XdklRcGJMUTJ2STVDMlkyN1RZUGZvYUZkZldXT0RVVzNZd0twRXktT2FGOTJvdG1YTVM0MWFDMlhtQmVDNGlRV2Na0gFrQVVfeXFMTW5kV1ZuUE5QZjRDQndZenpvSndIb2VGdWppTFlrMXNUSnZlaEEza29aeExaRE1HT0dLX2pqVjZORU1ncmdnMTJ0SVc4REtCc1NISjA1eTVOY1JWd0hjUDZfbU05TVhmeFI1a0k?oc=5",
+          "published": "2026-11-08T18:19:48+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.908,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Zaporizhzhia nuclear plant loses external power supply, Russian-installed management says",
+          "publisher": "Business Recorder",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObmJkaERMc3RTMXFsUnFSTXhTMXBWcXZrcTNEV05NTF9xam1tMWNMb053UFY2NDJrOVB3TlgxNmk5Y1hPeklhNHJFejAwekV4bjRZR1dBdnJLTkxGOGx4cWFkSXVzSS1YX2EzVEpFeG5Mc0pRZGRROU0tWjQ0cG5LQVBELTAybXFGb05SbVpySHlaY0VSOFNrbXVmaTJzTmJic3JNR2lrcXVwMVlKUk5keTdNcDdQUE1wYVNWYUw1b0R2aXF5Zk5r0gFWQVVfeXFMTkxqYUxCSF9wWXcwRWljXzVoVjd6dFhSVlRsZktCMjF5VWZucEVKN2ZaUkVwTFU2Y1Nyb1lZUkRlQ1I4cnFfOWVFMzl5bHYxNEF5OG5ZRlE?oc=5",
+          "published": "2026-11-08T08:50:14+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Zaporizhzhia Nuclear Plant Loses External Power Supply, Russian-Installed Management Says",
+          "publisher": "The Moscow Times",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSDVRNk1LR0E1d3BaakVQRkQ4NDhFZ01SUVV4R3E1WUJKeldPX2cyVG43ay01c2dNWWdXV1hlWEFkZ3cxdEVPLTVRWjM5MWlzUVJBS2JrWkJNT2lRclhoRklMVENibEZNZDZjNVdJXzM4dXlPVHF0djk5U0xYTkJtMkRZTWpUZ0pVQkR1UkpvU280MWpqdTFjUU5rSXluMGd3TnIySjdXTk5wY3AwMmFFUlZWandFTUxkWjFtVWhqR0lLU205bDRVQ3AxcWdUYXBiZVMw?oc=5",
+          "published": "2026-11-08T08:50:33+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Zaporizhzhia nuclear plant loses external power supply, Russian-installed management says",
+          "publisher": "RTE.ie",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yOVc5dmd6NW9femdaQWdwd2lESnpRaktHSFRzWXdQLUJlZVgxLU0tQ0c3VHB6R042T01ubnBKWHluQXRQcTVTOEtoM2d0VTZGRjBnVlpTd1pfd2s2WjR6OWxBRjNjZmFu?oc=5",
+          "published": "2026-11-08T09:22:07+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Zaporizhzhia nuclear plant relying on generators again after losing external power supply",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORkE4VEFBVF9KWlRaRk9HRmtvVGh4cTlxanVleGY5WXZtVnNVSF9LTEQtd0NvbW9YbnE0TndLS052dU5kaUZtRjJrUzZiMXVhVFdWTlNBT2xGV203cTdOREg1YmZDMGRkM081d1hzbjJJWlR4ZG9tTVpSX19rZkVHdGhhRVVmbHVFRVhfVTJnVWFvRVlSYTdLSGRmTHd2WGxMZm15RTNGQ05DLVRXVm1jMDh1Rms?oc=5",
+          "published": "2026-11-08T11:08:25+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.608,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Zaporizhzhia Nuclear Power Station is without power again: the 16th blackout this year",
+          "publisher": "UkrMedia News",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSW4tMUhkcVBwZnFHdUFhZEVmV3BGc2QtaTlVUThYcE13X3BrZ1k4enVxZUxsNGxhbUN4S0NMSC1zOFNZWEY1d2xqXzR2U3piNWdzLTJOeUJ2NWVhSUdRWTZPOWlLOTFXelVfS25jaGR1eloyYWpkeWVoeVVJZ0hxRGpkUXBBaGFzY0E?oc=5",
+          "published": "2026-11-08T07:43:48+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "The Zaporizhzhia Nuclear Power Plant experienced its 16th blackout since the beginning of the year; it was switched to generators",
+          "publisher": "UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaTlFWGhYSDhWMGR6al9Ec3RDYko3bFpWVHVqQWxidU9MLUROczhiQzdVc1FfQkR3TXlvTHFRa2VLUnp4cXdRTGRMZFZRN2RfaXQ2dXZfWHhzMU52TXlPQmdvdGVURjMzNXJDYkx1VG1ISXVLYU5TRmpQamszcVJ0VUVQdmZqUnFQQWlrT0hUaTRaZEgwVFR2Smp2ODRwRC00d2VON3B6LWpFZS0tS0Fueg?oc=5",
+          "published": "2026-11-08T07:59:46+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Zaporizhzhia nuclear plant suffers 16th blackout this year, now running on generators",
+          "publisher": "RBC-Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM2d6TmFqU3BJT1hrWjhwdDdBZnJJV21JSGlBOF91SGNMTm9PUWN0UFVxNFdydkZHSk5FU3Z6UUZuWC1Yb0gtdUljdUE2UnUtODhmVHBQZXFXbjZJRGNiNnFpT1hsY0l1Q2MyT0Z6N2FLU3Btdi1LaDBpblQ4NDdVMlhocnFjMzlSWmRHN2YyaV9SWVRRYnROSUlhamU?oc=5",
+          "published": "2026-11-08T09:04:52+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Zaporizhzhia Nuclear Plant Plunged Into 16th Blackout of Year",
+          "publisher": "Kyiv Post",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01bXQwNk1iZUhWb1RrTDlYRUR1ODVaTGo3N2ZBYWpQVGNLcGx6QS1XMnZScUFuS0dyS1did3BZa0VGTFF0WGRXZWE1QQ?oc=5",
+          "published": "2026-11-08T09:58:21+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.56,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "러 점령한 우크라 자포리자 원전 또 전력 차단",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QWkE1cGg4ZVRKdnNHQ2tuLUlRVDNfU1VQWllBRnBmY2FQd1BpWmh3cXVTenNtSERRWEFZcEFYUnZNR0dYRXBlT1NMMFJvb0l3OU9JYkR1TUZJSEnSAWBBVV95cUxNSUFzY0lkRUhfbnNldUI4SmpTclZEYVVjVnNjSkVZT1RDbS1EQjN2aDBFWld4MGxXaFVFRFI5QjJ5bXgyM25WME1ESzNueUpfSFN4S1pLQjdGQ1BSWmNXb04?oc=5",
+          "published": "2026-11-08T10:10:06+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "러 점령한 우크라 자포리자 원전, 또 전력 차단",
+          "publisher": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52cVdsc1JPaEpsel9NOXY4N0ZiOFhSbEx6OFRORERvVHRvZkhCWXdpNzlMN0hZbmpDNkNGaWF3RmpRMFhUbHlaTnRhbDFoZzYzQVZyRjdvTjFJYkU?oc=5",
+          "published": "2026-11-08T10:16:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "러 점령한 우크라 자포리자 원전 또 전력 차단",
+          "publisher": "MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5menR5WXdrMFdhaWtQVWlLVEtpVktHdDBCWE9iVU15OFZoN3U0czNGdzl4d3htZXNqVnRfN2RpVk9hRG1JYU84c295Rm5WbHlBRE5DdzNEU0ljeG90dmp5M0h4Q1NnUGx3UHVQVWxjdlZvU1BE0gF0QVVfeXFMUEw0bDQyQURkTUZOX3VMZzFsREtRUy1zWGxyTlZqbWRfNVpVVnU4UHotNEhfeGMxOTc5WUlmY2o0YlNhTHBBNFJRNTlBS3N3WnFhaHRKdS1Jc3otR0pOVi15ckVyRVJDNHhFR0kyUGYySVI5VF8?oc=5",
+          "published": "2026-11-08T10:32:37+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.584,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Zaporizhzhia nuclear power plant has been left without external power / Diesel generators maintain reactor cooling",
+          "publisher": "Informat.ro",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcTBKV3FhZDBwSWNuVGczVUV6ZE85cFRvNlVIRFdvYjN2My1LQV9xVTFxQmQyYzg0aUZWQ180NnZMc1VsckVsNjB6UDhDRmUxeEU5cVVteG5OT2FpSk4wZGgyaHZrS0x6LWRIZ3ZHX3lTMnctUmlRaHVRTnhTdGR6ZGwwcVBSN2tPcXNDSHVjZ2hQeWRSMGNLQUpGRW9UQkJLMm4zdzVBUQ?oc=5",
+          "published": "2026-11-08T10:43:05+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "External power supply from Ukraine's power grid has been restored at the Zaporizhzhia Nuclear Power Plant",
+          "publisher": "Українські Національні Новини (УНН)",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR1pDVTJfLUZaOWxTRTJCQmhzTjhWZDdmRjVGVERUTUV0dzRBSXl0dU1aekdBcWxZSFV5MWtDQkNwTXM4Zk4tdGE0NjVpa3E5QjVTb1R0dXVlZkFOSnIyTjZOQ0wzSlhGQmVIWFlfd1lQUHdLcmxUN2hPRE1ZbnZXWWVkcjMzSzJiX19DeG85Q1ZIRVdJeC1veHY5ZkN2TzlKLUw3azBPRkZGOHhtN2dZS1NaT21DSGQ0aGYwZ1NvR0toaUdpX3fSAcQBQVVfeXFMTXJCY2VELTUxWHdURWxQdlR5cVNfYTgtN3dFR0lIYlJ4bDlhMTc3VFBWV3lKZFEtX0hnQXFCY3pvb216MXhVaFJ0a1VhblhocE5MTXZxcUdLdzdQTVpfSHRlYnl2TU9kV1UtUHY3UTBWTjZOT0Jac19NVTVJckgtZndlM09peG5mNDh2M1dMR0xsdTBLUTk5R191UGxNUU9mZ1o5dmhhbE5sc2t0QnRHT21RTUdCTWJTUDNGdW9KYmpzWW9fbg?oc=5",
+          "published": "2026-11-08T17:53:10+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.89,
+      "id": 5
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한국수력원자력, 美 전력연구소와 청정수소 생산기술 활성화 테크 포럼 개최",
+          "publisher": "대경일보",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10NGNCY0poZk5udzMzcXVOUlJpcUt5Tzh5REZjcG93V210LVRkb2JyWWdUS0J1aUVaejNndktuZXNOMkVBM1BLQzNFckt4VmszZU9QSG0yR1BrSmdxZWNfSjY3Tk9WLXZf?oc=5",
+          "published": "2026-11-08T06:20:07+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력, 美 전력연구소와 청정수소 생산기술 활성화 테크 포럼 개최",
+          "publisher": "시사코리아저널",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JbWM5ZVpLM0Mwc243MVFhbk5FdWs5ZUhMRjNQZjVBVFUzcVc1X0FpdGhOTVVvU1lCcEludUhubUMyQXRpQlc5X21oYU03c3k3S2VWZlFRenl0cTZIcnBwN1dSOTl6M0VG?oc=5",
+          "published": "2026-11-08T08:17:56+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.49,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Zaporizhzhia Nuclear Plant Power Restored After 8 November Outage",
+          "publisher": "fish4news.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR1ZiNUhaMEh3Z2hIaWVHamRpUm1zRkgycjVobTRhOGJHX1d6cDRiUFdRMDh3SVA1TGpLQm5oZDBrdFpMZVlKQzh3ZXpmQjYyUEMzMHZvV2hCX2ZvZEF5dTdSQlh6OFdNQl9tOTJRUmsyQjJiZFl6WFVVOGV5Mkc1aVhMZUM5Vk0?oc=5",
+          "published": "2026-11-08T20:08:32+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.984,
+      "id": 7
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "\"2050년 ‘세계 원전 3배 확대’ 비상…현 추세론 목표 절반에 그쳐\"",
+          "publisher": "이데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWlB1cHZfckl3Vl9wX1kxemZVb2lQSU5vVDdCU0tHVDc1d2ptOGhqVVIyN2JiWDVGSnhQdlZ6d3B6MUpvZHdQbWhSSUNsLVpYejJseHBELUdrR0dVRHlDNlRibExGTFcyeUVDc0ZSRmdGSDlWcTNIWktvOV9aeFk0ZA?oc=5",
+          "published": "2026-11-08T20:00:05+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.978,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Ukrainian nuclear plant switches to generators after losing final power line",
+          "publisher": "The Hill",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMXQ4UHRhX09aWHZOdEFZUi1CeDNpdHBIUUlwRG1lT3ppaUxHaVE5MTdoYXNxUDJRUmY4czF1TWZ2enVPTmZ4ZUk0NXZidDd5MjVMVENVUnNOUDh3eEVlc1VERkVCdGJickxOdGswZmpmb1AtWVZ1R2ktcHBXOV9YM0hjT0dTRlp2dEpV0gGQAUFVX3lxTE81U1I4UHJVNEVMUVV1YVRVVFUxcE1WR0s3S1cydmpNM0NpWXIxZC1UeDBlbkFrdlduS2ZhMW1mZ3RPZnNmVmRnanE2TVBvazJpTU1JWDdfc24xbi1TY2pxSWh3a0VLazZwX3ZHeTRiUlRFRlQwekJPMXFKWXc5LXBfRWRTaU1YUXpzajBnczdjbA?oc=5",
+          "published": "2026-11-08T19:36:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.961,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Will the Hamaoka nuclear plant restart? What has to happen after Chubu Electric's data scandal",
+          "publisher": "Nacionale",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmJQd2V1dWU3OXhFLU1BM195SlQ4SnYwRTVITnRCMjJITHpjY2k5SlBqZjdoZFNUT21aV2hoUXdrbHl0ZEZTR2dQVHZyRk9MSzJ2NUgzMjVuVlhlYUFKZ2xPcW9OU0JsUmRscWd0SkxzTVBLSjA3eV95ZWU4LVdrOHEwdzB0TllkbS1uV1l5WVVQdkE2bW5kR3Zma2otYnlKczVDN19QcGkxVURMLXlSeGFQV1VUek9rLXc?oc=5",
+          "published": "2026-11-08T18:35:13+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.919,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Ghana says Russia agrees to support development of proposed 2,000 MW nuclear power plant",
+          "publisher": "Prop News Time",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOUF1ZU1VQ1BWaFZVYmY5cTFRUHRzYmNaSW4zbzRxaUxmSnNGN1YwYy1vV3U2cnNIbUU1ektxUmtCbzl2QlZzanUzM2plNnNTZlQ2SVZyQTdWYmJPSURXd3ZvWTJWekxFU0FGM0cyenpqcEhzWkstdHZVc2d4aHZ3QWx4blY4UzdmN3lWbFVzWS1SbzNFTWpXNFpQOWpvTWZEQ084RERjZy1BMGhNenEyajVYUGVjNmJILUFCd1pVNWNobkh3a2lZZ0pxbTZNWVd4UkpWSlp4WQ?oc=5",
+          "published": "2026-11-08T17:00:13+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.853,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Zaporizhzhia nuclear plant runs on backup generators after power loss",
+          "publisher": "news.lavx.hu",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZHd6aHpSQVhBd0NoZktieVRFOVE5N3ZtSlZfYUlneHRfbmV0dmQxTU02Y1ZFSVVoZ2Zobl9YQWlqa1N2RU9wVzNzRUsydElqa295QTBXUzFKbnEzYTk0Z3p0b3dPdzdqOHNhNGsxSXFJWXZNcVIyTWx5Qy1acWUyY084eE5VY3V4RFpYaG5iaGhxOUVjSWdLcUF3UDdreDQ?oc=5",
+          "published": "2026-11-08T16:04:51+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.814,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Is the Hamaoka nuclear plant safe after the Shizuoka earthquake? What the operator reported",
+          "publisher": "Nacionale",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUxVR2N6MFFzUUpfeTZyT0ZVOGc4bEluaHM3OVhfOEtQcHQ4a1JsOFJQWjRsWnFXd2FkZVZ3WHRjQUF3eS1JZ1daTHFYUFlGTkxxa0lqLXR3LU52Zk5BeHhTTGc5MlFfaHhja1YxMnlRa0JRcGUtbFktb1JfckVPVUYtc2tNLXVQOTlBZXQ4dWtTMFk2aFo3RHVOX0dwYzdxam5QVEZVN3B4X2Nld0luUGwwSVVkWFNtSW5F?oc=5",
+          "published": "2026-11-08T15:35:29+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.794,
+      "id": 13
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "우리기술 7,800원, 미국 AI 데이터센터 규제 강화…정책에 원전 산업 향방 주목",
+          "publisher": "CBC뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jUjVGNHhBNmZydmtYaGcxX25fT2VjN3RwcEpqUU9FWWFLRmRvSUhJbjNlZFZ4MWJPVUIxTTh0dVFuenRWNEVsczhUTU1pRlZwTGhRVkpKd2N0dEg3eEU4dUh3Qm05eFhi?oc=5",
+          "published": "2026-11-08T15:00:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.769,
+      "id": 14
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "자포리자 원자력 발전소가 또다시 외부 전력 공급을 잃었습니다.",
+          "publisher": "Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVEZPdmJvRnJHalFtQzdVQzVuWXdhMzROQzRNeUt2NDFkWkVwcDBjSDJJUjA2QTZpdTY4SkZLVy12WHFXUUtUNVpYRVlNYVNxUk5sRmlFU3JDOWJxNU1NSWhLZzBIc1JobnpNaWdzdkNZcllOTXlVeUtaM0JiaXg2NDdOb0QwSEZxcHV4M1Y4RHFSU2M?oc=5",
+          "published": "2026-11-08T14:57:37+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.768,
+      "id": 15
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "보성 미력면-한수원 보성강수력발전소 MOU 체결",
+          "publisher": "동방일보",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJZ3lFR3ljQjJBZVk3aWhqaTd2TWtHN1VLMVFiLWF1X0FGU25xT1NycmYtZ0ZTTldWNzd0R0dnT2l5dGNyR3JNZzFhWi1EdmRXOEhpNkkzNHh0SXlaV2hnUElqMi1xemg2UnJ0anBEdmluSjA?oc=5",
+          "published": "2026-11-08T14:11:32+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 0.736,
+      "id": 16
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원 관리 부처 쪼개지자 원전 정책 ‘칸막이’ 심화 우려…컨트롤타워 부재도[세종백블]",
+          "publisher": "헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VX096V2oyNGZzVkVlQzJUUUZuMkZEMGNjT3BiZUl6ODFHZm1GdXVxU045M1VpbS1LVTR1ZXJfZ3BJSHp1bjJqbVdJMEs5Y0pKbzJfWHdR?oc=5",
+          "published": "2026-11-08T13:42:20+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.715,
+      "id": 17
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "지르코늄 화합물 시장 2035년 전망: 원자력·세라믹 수요가 성장 견인 - 뉴스 및 통계",
+          "publisher": "IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX1lOSDFZUlUySEFfenZIc3lZLWpabk5Uamx6Uzl1eHMzMk03Q2JEdm1feWZtT0Eza0lVeEhYSFBnaFlMcHVTVTBVZ0hvbmxyRTItVGp5VFBNTzRZUFVWYVpvRHBabXQ1TXBDcjBKd25QaDdqRXBIclhXbzhEdFMyVEtQNk5ZSFd2MU5RUnBnUzZQbFJ5YVlhWTNDLUFrQ3hES1hfWThqNzJtUnp1NnhpaGY2MWduNXN0TklSREJR?oc=5",
+          "published": "2026-11-08T13:31:04+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.708,
+      "id": 18
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "동남권원자력의학원 강영록, 방사선 분야 학술상 2개 수상",
+          "publisher": "코메디닷컴",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1mbEtBOHFGNVhUcnNEX2MzZFFKTXliOTd5OEJkeXBVY2pncW5STVYzY0hYMVh2UVBxcjJnV25Xb1hLQQ?oc=5",
+          "published": "2026-11-08T13:17:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.698,
+      "id": 19
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Firefighters extinguish blaze at former Trino nuclear plant",
+          "publisher": "italien.news",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd1F1b08zckFOOW1haXJIanJjeVowQ0tsWlE4RGFYUXgzb05MRFFkYnN3ZEluNUhjNTRuel91MEVkWG5wSFkxal9PanJVWEdaeVRUX3hpcW12WmdJLTdIUFhUOXBPVThtUWJsNlFqTXZHc3ZoUmhnWmdMdUpkSTU1eFF6djlKbldEVnc?oc=5",
+          "published": "2026-11-08T13:12:19+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.695,
+      "id": 20
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "The Russians hinted at attacks against Ukrainian nuclear power plants but forgot about Kursk",
+          "publisher": "Українські Національні Новини (УНН)",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORjlSaW5NN29zZFN0ZFlWT0pHU2x4NDAxWkJCYW1yTDE1TVFISU1rUFJja0lsOGJ1ZGZ4MENsZk9qNXV2ZTN3ZjRvZVJzd0N4UEZHeXowandEN0wzazhwaHFzcW9EcGl6V253YW8zd1h0N1pIV0lOWDVidGZFVVh1MVd0ZjEyOGdZWlhFVXA4MDdwaVFOLS1KVnZZeTN5dGowSmxSdVFDOG1LMXhJU2NmT2V4NXVwd9IBtAFBVV95cUxPM1JzSGhxS3o2emNqdWJmM3RKTFgxSm43bE1JQ3ZuRW9rWmJzeU5nV3o4UFdLWEVjMHd4Q3RnbS1JSGRtZXhtdlRYMm1VVHN4VkFFdGR6bk1ROGRzTGxaUHdqMUR1WFdnWWVNTFloaUdMN25zMEpzNUItV1Y4V3Jib2FBTHZUc2c2Ul80MFhkWVdyU0hIdW9ETGNUenpKaXlvSmJESFR4bkt1Vlpzc0VVX2RfenI?oc=5",
+          "published": "2026-11-08T12:52:22+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.681,
+      "id": 21
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "속도 내는 핵잠 사업…연료 확보 ‘한·미 원자력협정’은 제자리",
+          "publisher": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84X2wtX0Z5YnZrWFdIRFZQQnhCX2F1SDNXTkNNT0VOcE9uTnZGc1hSUjlwMDZkV0hVNFBISjR5MXRReGxFTkhpbG5SekxMNkxrMzV2anFRSTdxQdIBX0FVX3lxTE5vLU1BUjY4SW5zakdNbkZEaS1MSlNhMHFzZVdvaTlzcDk1TkU4Q01Hc2JLZm9UTWw0MlZxTmVJZ2pkd0JkODg4bHBuZnUtOUlnNWpBbW9Gc1pOdXBXTmpj?oc=5",
+          "published": "2026-11-08T12:15:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.655,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "러시아, 우크라 원전·전력망에 미사일 36발 공습…우크라, 러시아 본토 미사일 기지 타격",
+          "publisher": "프리진경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HMmVKRUg3TlcwS3JCcmtuVHFZX1hnRjhYZi1XUUIzMU13YUw2Y255Qk9QVG1SZjVGc1MzM2FWWnNFRlBjcFlLcGt3cWlzUjM4bU5BY0tyRWFPRGF5RjhLRzE4dG1DUldTRTNIMA?oc=5",
+          "published": "2026-11-08T12:15:43+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.655,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "기장군의회, 경주 월성원전 건식저장시설 및 한국원자력환경공단 방폐장 방문",
+          "publisher": "영남신문",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yU05Hc1pRTjhxaHU5WTZJS1dHUDlWdHNSUlRKZ0RhQUJ5bzhzbjRxcHh0cHpYZDZVQVRMaEpxQ1R4Z1hsbnhJa3RlTmR4aml1dW1seDZ0UVVxZGJ6SVZEVW1PbXM2N3JlbFJabjlB?oc=5",
+          "published": "2026-11-08T12:09:37+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.651,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 콘크리트학회 '기술상' 수상·체코 청정수소 기반 확보",
+          "publisher": "컨슈머타임스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5cmZ0VjRqVUhlNzREazB2RXQ4WW5LZFUtcnlIeG41dkM5NVBOR09lb0l4U3BiUnZfcFNQa3lSSHVZSDJobnFmRHI0NkFma1liZlRJeDA5WXVuUlZfdjcyOGttRHgzRlVCbHc?oc=5",
+          "published": "2026-11-08T11:46:33+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.635,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "우크라 자포리자 원전 또 외부 전력 상실…비상 발전기로 원자로 냉각",
+          "publisher": "한국일보",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QX0pxNjBLY0FDVE53V0o0QVZZYzRxLVRwTTFJQVc5R2hSVTFLanBaNDhGV2Fua2lTdlppSmVFZDlUTlNma2JJN0FUY0JCWk1nSFp2YUxUVFRhRWFzMUR3YkpwcnFDVHM3NW1kZDNzNUg2ZnfSAXNBVV95cUxNUF9KcTYwS2NBQ1ROd1dKNEFWWWM0cS1UcE0xSUFXOUdoUlUxS2pwWjQ4RldhbmtpU3ZaaUplRWQ5VE5TZmtiSTdBVGNCQlpNZ0hadmFMVFRUYUVhczFEd2JKcHJxQ1RzNzVtZGQzczVINmZ3?oc=5",
+          "published": "2026-11-08T11:45:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.634,
+      "id": 26
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Ukraine's Zaporizhzhya nuclear plant loses all external power for 27th time: UN nuclear watchdog",
+          "publisher": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNkV1Z3ZMaTE4SXlldXo0dTBFMUw4UnYza3ZocTVicmc5WkpBS2dnVnRvUy1VMzByTEFTSEFMLUEtR1pocmZxRllINlhvMVlQVHA1Qm5ZbHBQalZSdTA1YnZwamVvRVVzLXlXVXl4Mi1HbGZObThQR0F3REpZU0o0alFWY1p3U0tzVUF2MUJkS0NJeFFvZHR3Xy1Qa2dTNHJfTjVWRGRBeGp1X2wzZ3gtWDVvamRKUks2MzZta3J6NlhrVnJkMExwc1BWYjd6VmFr?oc=5",
+          "published": "2026-11-08T11:38:04+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.629,
+      "id": 27
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Appalachian Power customers could fund site work for a nuclear reactor that may never be built",
+          "publisher": "The Cool Down",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa2hKTTNfbWMtUmpFc29mSERUUV8xNUtvVmJKYl84VHd6LVRKYTNrLUx2aEdibldsZXpBNU1mNjE0Q3dubWFad0h2SW5wREhLZ25IWV81S1Y2Mk1mRUx2cTRhQkUtTVJybnF6UlJzOTRXbTJxQlV1RzhkSXV0eUROQ3UzQ0RUdlZzN0dFemxnOEcwQQ?oc=5",
+          "published": "2026-11-08T11:20:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.617,
+      "id": 28
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "From radiation protection to nuclear power regulation: NEA builds nuclear safety capabilities",
+          "publisher": "联合早报",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMi1GLWtaOEhCcEtCVmhNX1JLV2FBUTRhc3pYYWlGckRKXzk5VXdkb3dqVVgxYUVXMkszWWxJcVhINVhxWHNoUERnV05MVVF0VENhWU9OWXpZNDN3Z3hxdWs0Zm5yUTJWQlFHVlBZa01XOGJJSDNKSENqMVZRY0lLaUVhYVd5ZWY2TGZuV3VLa0FaY3ZRN1FfNVFWeXFJNVNvUkdBQ0lJZDA5bWMxNlBfOFZtaDJKZHlReHpXU3hIWkRISnU1bHhF?oc=5",
+          "published": "2026-11-08T10:48:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.594,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 53,
+      "kept": 48
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 23,
+      "kept": 8
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 44,
+      "kept": 40
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 52,
+      "kept": 0
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    }
+  }
+}

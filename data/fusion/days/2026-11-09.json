@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-08T20:32:19+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "울산 출신 정천영, ITER 기구 사무차장 임명",
+          "publisher": "경상일보",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55d200WV9BYnotWnFSVmZyUkJBMmRoSVdaRmRhQ2oxZTA4MFFRTmdHWUVWYTdkcTRrQS1hSGhGMlNPTEtMdF93RTNleHFUeTZnbVRyT1ViTzkwdzBlMXZ0MDdjM0xyblZBSEw2bw?oc=5",
+          "published": "2026-11-08T15:00:02+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.769,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "“나주 인공태양 뜬다”…연구시설 넘어 산업 생태계로",
+          "publisher": "나주투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzT3o1ektTYXY5aWNLNmpDQjdjRXBNRl9KTWFFRWlHNXlBSl90cUNDelNqd2JaSm1xMXdmajhwbjJBbWNwSWlmdldGYi05ODFhaWlsX1BHeEJnbm1NMFVpTHJlSlQ3Y2RxQlZPYw?oc=5",
+          "published": "2026-11-08T13:44:59+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.717,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주, 인공태양 연구시설 예타 통과…미래에너지 새로운 전환",
+          "publisher": "서울일보",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KUjVyWGJHalVrUmNXOXlhbDcwb1NKM1BBYUN4UTBFUHhRd3dxQmNCMjBDVGQxLWJZQWY3eWw0SVA1MVNIOHVXTDAxUkJCVjhWR2x3WjBFSDZIbU1ZR3djTzJiY3QyQzNvTFJ30gFvQVVfeXFMTVZPQVBtT1J4Y283bHlMenFRTEVkcnJWb1FmSkxuYlZJY2lkWnJiNEkzN28yb2dHd0FYdERQZ2FscnF0Q05aalJ0RjdQMmpoT0FQcGNFUFJkd1RadVpvWWF0S0JIekppejNyd0R4a0JB?oc=5",
+          "published": "2026-11-08T08:59:52+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.519,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "KENTECH “인공태양 연구시설 예타 통과 환영, 핵심기술 연구·전문인력 양성 협력”",
+          "publisher": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tTzFoMHNoUGNFWkdGUW5DdVFWZGNvODdXd0dyS2txY2duVlB6dlhnMDlla1BteTlyTmpjWFREXy1ocDBLRUlhcTEzaVNLZw?oc=5",
+          "published": "2026-11-08T08:23:02+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.494,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주 인공태양 예타 통과…켄텍, 핵융합 핵심기술·인재 양성 속도",
+          "publisher": "서울신문",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kSU5CaWE3c202czBYdmpCQTI5YW52UGg3OFVOb3o0SGpyNWhUcDhGQ0cxUEU2NGZjSnB3aDFJdWhkbk9CSVhPbkJwU2duSUEwaER3X3F2VHVpZ1p5by1ZR3VHRjVmM3d1aFhHZW53TQ?oc=5",
+          "published": "2026-11-08T01:40:10+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.214,
+      "id": 4
+    }
+  ],
+  "feeds": {
+    "gnews-ko-fusion": {
+      "ok": true,
+      "entries": 6,
+      "kept": 5
+    },
+    "gnews-en-fusion": {
+      "ok": true,
+      "entries": 3,
+      "kept": 0
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 52,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    }
+  }
+}
