@@ -1,0 +1,667 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-10T21:50:06+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Pakistan Atomic Energy Commission completes dome placement at Chashma-5 nuclear plant",
+          "publisher": "Business Recorder",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlZ1l4anNXMDVTT3RabHRPTFYzZUtPWC01MVloZWV6LVBZY2xiMFZBV1ZNbW55OU5HbFdOUVRzYU9URm9IZk10WThaeGJtX0trd3ZzbUJ30gFWQVVfeXFMUGVnWXhqc1cwNVNPdFpsdE9MVjNlS09YLTUxWWhlZXotUFljbGIwVkFXVk1tbnk5TkdsV05RVHNhT1RGb0hmTXRZOFp4Ym1fS2t3dnNtQnc?oc=5",
+          "published": "2026-11-10T15:32:12+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Shehbaz leads dome-placement ceremony at Chashma-5 nuclear plant",
+          "publisher": "Minute Mirror",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdVcteWV1NkFzUWtXNGpUYnVFTVhhOXU2U3dqYXdJV3NwMmlCSC0zTXItZHNIeDdwY3J4dW9tVmdCYi1ENW90R1NYYmp2eW53V0FiR2RCclFnTk5Ob3ZYek1qdjNvYWNjUVdFRVI5WGdiNkstZmtuUGtUSVFJdG9aSWFQUWgwM1NIMjlDdm5kbkRLOEtiVVZhV0dobVpNaUVyQUE?oc=5",
+          "published": "2026-11-10T16:48:09+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "PM Shehbaz stresses clean energy’s importance for Pakistan at Chashma-5 nuclear plant event",
+          "publisher": "Dawn",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWURBbTFHaGcxcGFCbjhWaS1pVnlmd2dtRXZ1SDRIcERHMk1XRDBmWGRqNmkxdlhOUkZLaWNsczJkUk00NWJJcTd2RDYyeTN3RXgwLWhPdEhJMFBKSkJ6VEFLR0JfQURPaTg0alc0MmlKRC1KVTFsQlViaDVNYllBLUZpRXhpY3B2MGIwbU5ycDVqa1NUQ0U2VUtfZmFJZnQ4eWs0RmhpdF9hMmFCMWxWaWFmckRVNDVxTGZod0k4eXg0Zw?oc=5",
+          "published": "2026-11-10T19:04:01+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Pakistan's largest Chashma-5 nuclear power plant reaches major construction milestone",
+          "publisher": "24 News HD",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRzJwc2ltLTZXakdYX0F0d2pFU3l0OXVFMzBLV0V6aGJFRHRGZW5ON3F3LU00QTM0LUNYU1V1emE0T285S1NvbmdpMjlwb2o0WTFhNjZQTWozRWJ4NktUb2hiWTFUOEt4THhpTVgybjZnUEpnemJXR0Rlc2xGd0V4V3hISU13b1BZVklCVVR0YUpjUVRHajFCTTNyRS0xbS15Vkt6M1pJRXJ2cG0yQy16eQ?oc=5",
+          "published": "2026-11-10T19:50:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.917,
+      "id": 0
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Romania’s Cernavodă nuclear plant shuts down both reactors again",
+          "publisher": "Romania Insider",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeTBvTlhGTjBPSTJLN0ljVG83WXpFWjZjNVc1VGpoWjhJb1UtblpQNWtURnMzci1uN283UU5qU1V6Z0hFM3FIT00tZURGVmd4MDAxMTFJbm8xd2J2QzFZcU1yRUhqQWtOZk5iUVRnX1g2WGtSMDRKMW4yTFRnbjRORFBNSkZQcFRnejJCNGNqQ1d3WmlxWVQ2c1VEamNoZHM?oc=5",
+          "published": "2026-11-10T05:47:41+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Romania Shuts Down Cernavoda Nuclear Reactor Days After Restart Amid Danube Drought",
+          "publisher": "https://streamlinefeed.co.ke/",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNHo4WkNGMlRNd1VhMUZJcHZwenU0LVhwbFJoT3R4dVg2Tno5OU02TkY0MkVKckdBaHJKaVdIc016emc4S1FSMllOa1ZqTnoxUExWYzhmNTFRNGZfeG05T05FRUNRN09fNjJGRUZvdHJZMS00R3ozYkp6S3BSSEY0aW1OQkNTQzltRnhMWi1OQjZuTVZ2WUpGTTBzOFBWR0ktRWItNnRwNnZZS0tqQzdrT3daNlJuRjgw?oc=5",
+          "published": "2026-11-10T09:03:07+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Romania left without nuclear power after Cernavodă reactors shut down",
+          "publisher": "IntelliNews",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVk01Y0NiMmpaTXR6SVpiaVZlSzhaeDREWFJuWnZLaG93ZlhOWkZ2NVZIQ2E2dlFzV1R4Sm52RFdrRG54X0NaZ1dzenZHWU5JSXpQZVUza01Ba1ZVU1dzeVVuUG9ndjVDQ2Fpd093WXVmdno5Wm9Mbk9NaHFLb2VfTHYzMHh1dVE0S3BwbVRLMUZtU0JHdTFld3R5aDFTTFpKaWJ4aXhQbw?oc=5",
+          "published": "2026-11-10T09:34:47+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Romania replaces Cernavoda nuclear plant technical director after second unplanned reactor shutdown",
+          "publisher": "https://streamlinefeed.co.ke/",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYjRNUU5HRjJZN3k4bDJzelNTR2pacE5vVzZwbTJTSjF4Ri1Id0ZkQkNydUZJX3ZoR2M2eXVWdTB4M3M5ZGxZZGRsd016QzYtTmZBVm01T25nWkhNX2VBZlBheDNBdlU3Tzd0Q240bENuTVY2Z3pUZnFYeENTbVhYYWNMVmFhY0M4SmRXWHEyaW1WZDZvaWNUek5UWjNSUUI3eWYwdTVKVDY2d3FLSlc1WWhGOEhEY1hkcU1xTHNFd2pOTjBjWTdvb21QeG00Zw?oc=5",
+          "published": "2026-11-10T11:30:13+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.57,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원 \"대우건설에 추가 협상시간 줬다…일방 결렬 아냐\"",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kNHd1T0NPcW5hZ1A1TVlkR0JOMXV3bzRxMnl5eGVGR3I5WDIyQmU0cGNNNnItRDR6TWJ5U2NzdXFZX0ExY3EyTUJMUzNremxfZjBmTHBGU0VwMW_SAWBBVV95cUxON3FIRkxYQ0FOR3dURWh4MWpyOUgwNm5XM2M5NV9zcXhSbUMzWk1QVERkN0FTSmp2MmljWmNyN0dlU0FnWHpWQ1djSFk0b1hZRmVTaVo5NGVDaElKSThjM0w?oc=5",
+          "published": "2026-11-10T05:36:57+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 \"대우건설에 추가 협상 기회 줬다…일방 결렬 아냐\"",
+          "publisher": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WMGQtWloxWVhwY1RjdG94RTg5TzUwZ1pDN1V6WV9WZ0pRWE02WERuZHRobU1GYkx4YTJ1SDBtekpBU05tX1dYMlV4RTN0M0N5SDhNSzhYd2Z1UQ?oc=5",
+          "published": "2026-11-10T06:11:21+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 \"대우와 협상 일방 결렬 아냐…추가 협상 시한 줬다\"",
+          "publisher": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1NOVFMM1NpUlVub1B5dnZ0MXV4Z0QxVGN5QVRoM2xPNGJ1SFNuUjlTNTk2b0lxM2hTSmRKSndSZW5CeF9VdndLR01WNktXU2tpZnIxUg?oc=5",
+          "published": "2026-11-10T07:24:06+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 \"대우건설에 추가 협상시간 충분히 줬다\" 해명",
+          "publisher": "에너지타임뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Rc0R1VFNnbWFEclBXUnhGbGFlaHFnMUVxbF8xbWxoNGhtc0pSMENxMEc5RkRBSkdkUHRPVnhrbjB2Qy0xY0ptdkRwVXYzWmNQaUJ2T3VxOHg1SVNHWWxxOUVzd2RLMWtDVjIxTk1iN2FmQQ?oc=5",
+          "published": "2026-11-10T10:15:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.517,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NRC issues construction permit for Dow/X-energy Long Mott project",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-10/article-8573/nrc-issues-construction-permit-for-dowxenergy-long-mott-project/",
+          "published": "2026-11-10T21:00:11+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.965,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Atomic spectroscopy used to resolve one nuclear size anomaly and reveal another",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-10/article-8572/atomic-spectroscopy-used-to-resolve-one-nuclear-size-anomaly-and-reveal-another/",
+          "published": "2026-11-10T20:11:09+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.931,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "PM Shehbaz, Field Marshal Asim Munir Attend Major Milestone Ceremony at Chashma-5 Nuclear Plant",
+          "publisher": "Bloom Pakistan",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3MFNCM1hVUmViZXlQUC1oNVpES2QzMlNrT0JXU2tqaTJoTF9HaTFUZ05reFZ4V01KWk1fX1JNV2dKcy1raGNmT1d2c045Y0dVWlh0YWVnalBzNi1TMy1NRXdobUFXVWJsV2Y5V3hobWlucUhEaDdxLWNjOVI?oc=5",
+          "published": "2026-11-10T17:29:23+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "PM Shehbaz performs dome placement ceremony at Chashma-5 nuclear plant",
+          "publisher": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORTdEcmk4UkJVTVp4TGFjNThhY2FIaURVR1BGTXNyUG9QTk1SSFpFUkVkMEQ2UHkwYkJEUDhqX1R4TkVBbHpLem1zV3F5cWczeXRDZEVJMUlZanFtVGJwVWFRN2pjTUg2NXBGOW0wNk9POHpucl9jcFZmMEg3M2FPcHhkVWVRSWZueVhaWnRhMUJyX2IxWlZwZU1GRkFyNDJNLUpvaVNVZE8?oc=5",
+          "published": "2026-11-10T18:02:36+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "PM Shehbaz performs dome placement ceremony at Chashma-5 nuclear plant",
+          "publisher": "ARYnews.tv",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMG9rSE9sUzRlWk9XOUZYejktYXBnX09kUlBGN0lVMmNKZ0VjZ0NBSHY1bldoZmhRLWx0QkI5MDRXNENSSFVEQ3VuaWxvU3BjWkhNS01tUnJGX2YtU0FqV3pKdFJnbzdDdFR0UXlicDIycC0wYnhydDlPR1MzRkpXUHMtcjVST2E0ZE1pa1ppZ1d3b00?oc=5",
+          "published": "2026-11-10T19:38:04+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.908,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Springtime for the full nuclear fuel cycle",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-10/article-8535/springtime-for-the-full-nuclear-fuel-cycle/",
+          "published": "2026-11-10T17:32:30+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.821,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "US issues landmark construction permit for Texas SMR plant",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/us-issues-landmark-construction-permit-for-texas-smr-plant",
+          "published": "2026-11-10T15:56:26+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.754,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "DOE-EM seeks proposals for Hanford site development projects",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-10/article-8571/doeem-seeks-proposals-for-hanford-site-development-projects/",
+          "published": "2026-11-10T15:49:29+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.75,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "CoP webinar explores reactor developer’s perspective on RIPB regulation",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-10/article-8570/cop-webinar-explores-reactor-developers-perspective-on-ripb-regulation/",
+          "published": "2026-11-10T13:12:45+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.641,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Fourth Hualong One under construction at San'ao site",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/fourth-hualong-one-under-construction-at-sanao-site",
+          "published": "2026-11-10T12:37:10+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.616,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Uzbekistan plans to double uranium production",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/uzbekistan-plans-to-double-uranium-production",
+          "published": "2026-11-10T11:36:02+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.574,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Largest remediation project at UK's Harwell site completed",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/largest-remediation-project-at-uks-harwell-site-completed",
+          "published": "2026-11-10T09:13:54+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.475,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA at COP31: Nuclear for Energy Security",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/news/iaea-at-cop31-nuclear-for-energy-security",
+          "published": "2026-11-10T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        }
+      ],
+      "score": 2.09,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA Mission says Jordan is Committed to Strengthening Radiation and Nuclear Safety Oversight",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/pressreleases/iaea-mission-says-jordan-is-committed-to-strengthening-radiation-and-nuclear-safety-oversight",
+          "published": "2026-11-10T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        }
+      ],
+      "score": 2.09,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Drone strike kills worker at Zaporizhzhia Nuclear Power Plant, IAEA says",
+          "publisher": "The Kyiv Independent",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOE4yRFY2YjlVUTl5aGFwVUpRTlhEeWVXUTF3QklVT2VqQzRkWHlRZXNWTGNoaWRVOHVaRVVXYk9VSEd3V3FKbnItTlRvZXF1TGYxSnFRc2FvaDhoUlFzcVNlOGV6QzRsZzJybFZ5bUtvblBhcWNUUWQ5VGpEMU1PN1BaZGJ6RXU3LW5JY3ZrUjdtS3lWLWNzNmk4T3JINUY4Unc?oc=5",
+          "published": "2026-11-09T21:58:37+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Drone kills Russian-occupied Zaporizhzhia nuclear plant electrician on his way to work, but the IAEA names no attacker",
+          "publisher": "Euromaidan Press",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYi1PMUUxbV9sMk9wc0REUGYwSEdoQzBuQzNsOHZaWjlBTzhuOHNvNTFkZW5Fc3pVWERTT18yNzA2Rm5CanZuWUQwaWZscVpzX1ZldnRtcWZrMVVTWGRKMk1TYXVTUXZKclVUVkYwajMza3JUNWNQQW15SnRwaU1aMVlKa1hJTzlSTFBFcU90eWo4RDNobk9MdGVuNTFXcEhrNWl2LVNwYWlqWG4zbl85QUFJVUJSYVlkbF9aZTJ3TGxNNXpyX2JCR2ZleVN6WHppZHZuanJXLW9tejkyQlRfQ0NkQzN4ZjA5bzdYV19B?oc=5",
+          "published": "2026-11-10T18:40:57+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.869,
+      "id": 15
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한빛 2호기 원자로 내부서 선 모양 흔적 발견",
+          "publisher": "광주타임즈",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IekZpQzkyQmNZdk1DMEpBc3RDcUVaWWY2Z0l0cjlBX1V1Qll6c2hobnBFbUFfZ1p5ZkFRWW1HOE9uSElHSnFCbHk1Q0pwenRMamZWX0FyRXpoSVZVdy1OYXNWQU0teHJTaEE?oc=5",
+          "published": "2026-11-10T08:24:21+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한빛원전 \"2호기 원자로 내부서 선 모양 흔적…안전 문제 없어\"",
+          "publisher": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EeW5QdUhuZjROemUxaFpiUk02RGVadWhValpiMklSWktyWjhxNC0za1ZfWVQ1SUlzRnZfQkJiYnlCUkJkWkQ1VmVRemRZQkxCUVdvVW41S3NOaUZaank0?oc=5",
+          "published": "2026-11-10T09:36:51+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.491,
+      "id": 16
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[종목상담 주식민원처리반] 데이터센터 건립에 소형 원전 필수 주목 '비에이치아이'",
+          "publisher": "MTN 머니투데이방송",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Sa0h2aHY3dHRzQ1lMazE5dDh6V3RSejkyNndFU2ZqSFRhQjVPajEtRmJkRHh5MGVxRVhHTGM1cmxSUXpMZUM5bUVmR19sX2FYWHh0UnlzNkRLUmhjXzBv?oc=5",
+          "published": "2026-11-10T09:33:15+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[종목상담 주식민원처리반] 데이터센터 건립에 소형 원전 필수 주목 '비에이치아이' - 머니투데이",
+          "publisher": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QYjliVUVTVlRxelUyV0hzUk9SYTV3ODY4aElJQklQa19YZndMcklQYllWY3Jub1JaSG5pZGdTN3Bqb21nNS15eG1iQUhpT2ZXUjVWWVV6MXo4TVJEaG9Pb1JKTGhXbDlGNGNTYmNn0gFuQVVfeXFMT1BiOWJVRVNWVHF6VTJXSHNST1JhNXc4NjhoSUlCSVBrX1hmd0xySVBiWVZjcm5vUlpIbmlkZ1M3cGpvbWc1LXl4bWJBSGlPZldSNVZZVXoxejhNUkRob09vUkpMaFdsOUY0Y1NiY2c?oc=5",
+          "published": "2026-11-10T09:35:54+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.49,
+      "id": 17
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 대우건설 노조 '의도적 결렬' 주장 반박… \"91차례 협의에도 이견\"",
+          "publisher": "파이낸셜포스트",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvWTZ5LVZraWlSaFJRdF9RY205OUFndlBDOEpVa2dkWXhob1Jyd0doZi03LTNnZ3ZQcjRpbEw4bG1qT2YzaWF2NFBLZkZoc0VJNzZIY3JiQ1RnazI5djQ4WEs4cVpzUmZQb3k2N09Qb1A5QnlW?oc=5",
+          "published": "2026-11-10T05:52:54+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 “91차례 협의에도 이견”…대우 노조 주장 반박",
+          "publisher": "대한경제",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1VRHk0bzdJdXJZZ3hrSDBBUk9aY3ZGa0FkYWdfdW5NbTE1ZV9acjVxWXFsSjBrT2ExSGdCWUhvRW5oaG5LbWdQSnlqRVBKeWFraFhCYmJwVkNJUVJxeXB1dVRUdERNQzd0Rjg2M2RneTRlWkRo?oc=5",
+          "published": "2026-11-10T06:56:21+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.379,
+      "id": 18
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원 체코 원전 시공사 사전 내정 사실 아냐…대우건설 노조 주장 반박",
+          "publisher": "아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5laFJBWDVpU1I4OUdBQzliN0Fpazd6ZHJHeW1RTmZKRm5IbkZvOC1EdHRiZGNXY3hLWDZqMGNjRE4teEFjVTNuX1FWRk1yNlhMZkh6TU90UkFhd9IBWEFVX3lxTE4zNVB3VGw5VDBWREVOMi10ZWFYUl94eXRsckVVVmp5eWNXcHdXdzRxTS1ISXU3UWFsUUlQSkdOSnBaZ1otZmZOMUVKUlBWZVAxaGRHQjVjUmU?oc=5",
+          "published": "2026-11-10T06:42:25+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 체코 원전 시공사 사전 내정 사실 아냐…대우건설 노조 주장 반박",
+          "publisher": "아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4zNVB3VGw5VDBWREVOMi10ZWFYUl94eXRsckVVVmp5eWNXcHdXdzRxTS1ISXU3UWFsUUlQSkdOSnBaZ1otZmZOMUVKUlBWZVAxaGRHQjVjUmXSAVhBVV95cUxOMzVQd1RsOVQwVkRFTjItdGVhWFJfeHl0bHJFVVZqeXljV3B3V3c0cU0tSEl1N1FhbFFJUEpHTkpwWmdaLWZmTjFFSlJQVmVQMWhkR0I1Y1Jl?oc=5",
+          "published": "2026-11-10T06:42:25+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.37,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "대우건설 “특정 건설사 밀어주기” 폭로전… 26조 체코 원전 진흙탕 싸움",
+          "publisher": "IT조선",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLbi0yNFJsdGM0MmJEa0JCMzRPQVB6OFJISlZtV181aG0xU2dpMVozU3p6U3ZvT1p3OEdmZXFTZHZUNEoxcXo1blJncnYzQU16d05BVmNqdWJQQmI1N3YxemYwUzJxbzdNSG1iSGFOU2tkeHUx0gF0QVVfeXFMUEtuLTI0Umx0YzQyYkRrQkIzNE9BUHo4UkhKVm1XXzVobTFTZ2kxWjNTenpTdm9PWnc4R2ZlcVNkdlQ0SjFxejVuUmdydjNBTXp3TkFWY2p1YlBCYjU3djF6ZjBTMnFvN01IbWJIYU5Ta2R4dTE?oc=5",
+          "published": "2026-11-10T06:29:28+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "대우건설 “특정 건설사 밀어주기” 폭로전… 26조 체코 원전 진흙탕 싸움",
+          "publisher": "IT조선",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zWWRFR1B3OVFhMFJsYk52MGRpRUw2M2FTeUNQOWdCeGVHX1l4WVpyNlVSRTIwVWpNYzdfdG1fV3hoLW5IRFhDSmVHOUpnb1BBb0tKaXo0LTlhVW5IRlNBVFJLQlFPcFFmZ1hZN2JsWXnSAXRBVV95cUxQS24tMjRSbHRjNDJiRGtCQjM0T0FQejhSSEpWbVdfNWhtMVNnaTFaM1N6elN2b09adzhHZmVxU2R2VDRKMXF6NW5SZ3J2M0FNendOQVZjanViUEJiNTd2MXpmMFMycW83TUhtYkhhTlNrZHh1MQ?oc=5",
+          "published": "2026-11-10T06:29:28+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.361,
+      "id": 20
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원 \"대우건설에 추가 협상 기회 줬다‥시공사 내정 사실 없어\"",
+          "publisher": "MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yZ1QyRTVGQ2FtVG1oSEFQNE0zQ05nM2Y1a2NvVFA3YU14dDRFd0hLVXpaLVRtaVZsT2NISDdkUXgzNjVpMlhUNngwQXRrNHRmRkRZZGdRcXJpTGZnNDlsYi1iT3JIOHF3MUdWNk5pUjVVbmhj0gF0QVVfeXFMTUlBOTFJcW5NWU9PbDFEc0tKUFhTYmktU3g1Q0xLc0NhTTVOZzVnMlhrQ25rN3J4SEM4LV9xU0xTY0xseUlIUDhRcXdJSVY5Ml9SeE5ReWZNeDZHS3NFZjF4N0JXOWF2RXNuaV9HQmMyM2xtR1g?oc=5",
+          "published": "2026-11-10T06:28:25+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 \"대우건설에 추가 협상 기회 줬다‥시공사 내정 사실 없어\"",
+          "publisher": "MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JQTkxSXFuTVlPT2wxRHNLSlBYU2JpLVN4NUNMS3NDYU01Tmc1ZzJYa0NuazdyeEhDOC1fcVNMU2NMbHlJSFA4UXF3SUlWOTJfUnhOUXlmTXg2R0tzRWYxeDdCVzlhdkVzbmlfR0JjMjNsbUdY0gF0QVVfeXFMTUlBOTFJcW5NWU9PbDFEc0tKUFhTYmktU3g1Q0xLc0NhTTVOZzVnMlhrQ25rN3J4SEM4LV9xU0xTY0xseUlIUDhRcXdJSVY5Ml9SeE5ReWZNeDZHS3NFZjF4N0JXOWF2RXNuaV9HQmMyM2xtR1g?oc=5",
+          "published": "2026-11-10T06:28:25+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.36,
+      "id": 21
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "'러 점령' 우크라 자포리자 원전 직원, 또 드론 공격에 사망",
+          "publisher": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XNFV2Rmh4eHlxMmxITGw5ZVh1eWZWZV9HWmRFRUxNcjF5eHRrSkx0bHJGa1ZueEZYem94U0hKaGJTaXFZNEhzNkliWXZ5bEthR3BN?oc=5",
+          "published": "2026-11-10T02:11:36+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "'러 점령' 우크라 자포리자 원전.화력발전서 직원 2명 드론 공격에 사망",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zNGZ2NVVEMnNFRnJYcEYyTzkwTW5samR6MHNnVnhSbmxOSjl1aVpXVGhkQzF1YW1QZnBJbzEyYlhBb3U5VVRMQzhobnF0ZzNlX0NCRG5IZ3dsUUFRcWRwYdIBeEFVX3lxTE1lR2RWQmJ6ZE1TR2czMGhwbHAwOWVMVzVqMXJwR0VGVHRxRlRNdWxUZWZtQkFvaTU4YVoxN2EzSGM2dHktRE1KaGJSVEdKbEdPbDQ4MXpMSkRmZFBwUDhJMnA5bzNYcU9GT0xMMFZNTERUeVhieWU3VQ?oc=5",
+          "published": "2026-11-10T03:43:21+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.245,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 원자력교육 혁신과 기술교류 워크숍 개최",
+          "publisher": "에너지타임즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YWXRIRzlVdmhkLWFONy1USjdpdkp3Y0FaeGNuSWtPVlhSNHhVb3ctRUVXdTdEM0RyU253N2ZOZjRTRXpLRTRuY1BJMWFnMzFPeEZnTnJSaUV5eTdoX2tIcjJGQjJiWWtlcGtmNw?oc=5",
+          "published": "2026-11-10T00:43:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 산·학·연 원자력 교육 혁신 및 기술교류 워크숍 첫 시행",
+          "publisher": "일간투데이",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JTlh3ZElfdXQxLTFjLVhOLVJXd2NXZ3ZQbDRzcGE2S1pkdmxVWmkzQS1wWXNNSG50WEU1MEp0MzdPcnRueDdkVXlOY2x2c0tJYmhzTUpoMTR0VlZETGtLX0I2dkFHVFltRi04?oc=5",
+          "published": "2026-11-10T01:37:48+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.158,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "유진투자증권, 한전기술 목표가↓…\"원전사업 중장기 불확실성\"",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBydXl0bzFkZUp2WFR1UXVscDdOcE9Td01UMDEzbEtETHBVMnZfM1EwbGFGLVVjd1JwUExNLVlTUGk0Z3pTWWVobFNaMjZwMS10aGFIbmlrdlRxZlhTeVcwb9IBYEFVX3lxTFBydXl0bzFkZUp2WFR1UXVscDdOcE9Td01UMDEzbEtETHBVMnZfM1EwbGFGLVVjd1JwUExNLVlTUGk0Z3pTWWVobFNaMjZwMS10aGFIbmlrdlRxZlhTeVcwbw?oc=5",
+          "published": "2026-11-09T23:40:50+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "유진투자증권, 한전기술 목표가↓…\"원전사업 중장기 불확실성\"",
+          "publisher": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13RlFKOFFRODlBTnctNGYyZENpdGZfX1ZEczRPUlVLckgzaktXaE9oZFZ6TmdTTm81YktEdXF4WlpKNFUySXlSQkNDYl9tTmpyelE?oc=5",
+          "published": "2026-11-09T23:40:50+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.077,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "'어닝쇼크' 한전KPS, 2년여 만에 최저가…\"원전 재가동돼야 회복\" [종목+]",
+          "publisher": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BN21aRm5xYWpZVXhUWkYtS3dtWG5HaERLRVJWd0RkM3NnNGQ3UExLNGlhWE5NcWQwX2hqeG5nbFZmZVIta1ppb1NEUUpETXF2U3BrYjdIUTZoQQ?oc=5",
+          "published": "2026-11-10T21:30:06+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.986,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "영국 원자력 유산 9만7천톤 걷어냈다…하웰 부지 복원",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBGY2xNYkJQT0ZiZ1RRaXRUd0laREFKejVzb05ZbVJUUlJBQkwteVcxTGxWVEFEY0tpLU5NRzVjeE9HTENiSk1lUDktYUNGRlFQT1NsZTVnSEYxZFYzd1pGRWMzTmw?oc=5",
+          "published": "2026-11-10T21:21:07+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.98,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "미국, 화학공장에 SMR 건설 첫 허가…원전 산업열 시장 열렸다",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wemZHU0tYTTF6T3NxeGNYRFhpeGo3UXpTR19rWTZpbmthUWQ5YXM3R3ptUGJrXzgwOF9hZGlPYmlKbDlHRG83VmlKNUpXYVRXY1JlaVJvcXc5R0VhMWlLYm5SYXU?oc=5",
+          "published": "2026-11-10T21:07:36+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.971,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "텍사스 가스발전·원전 8기⋯K-전력, 대미투자 192조 일감 캔다[대한민국 전기국가 2035]",
+          "publisher": "이투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ieEd1VmR6Um9raVNCSHZscmMzcE9iMmsxVnRXemNXYW1CSFczYnBnZmlIY1R4T25Lc005djFvR0REVjdTN3RaNmtETDRiYnM0TFE0R2NrZ2FNdE1mOVdVMVJQNnVBN0VWcFhJa3Fn?oc=5",
+          "published": "2026-11-10T20:00:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.924,
+      "id": 28
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 대우건설과 체코 원전 시공 계약 협상 종료 “후속 일정 위한 불가피한 종료”",
+          "publisher": "브릿지경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMSWpNUEExZkk2WVd5MjQ2cDBpVWg5Z2xiVGNMZVUyaWp3TUFKR1hPX0R6X3J0ZGUzc21UdnZDbi1ZblZrQmpoOXRkMU1jc0pnWHJDNUdhaDVNQQ?oc=5",
+          "published": "2026-11-10T15:19:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.728,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 92
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 54,
+      "kept": 28
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 75,
+      "kept": 65
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 52,
+      "kept": 4
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 2
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 5
+    }
+  }
+}

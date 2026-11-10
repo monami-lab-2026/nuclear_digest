@@ -1,0 +1,453 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-10T21:50:09+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주시, 인공태양 연구시설 부지 조정·보상계획 주민과 공유",
+          "publisher": "뉴스21 통신",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGNnZjYW5yVDVESFM1NDRKZU51X0Vsa3FtT25ORU1jbTg4aWFDZXJvZ0ttRDNBWkdXSFpuYjNDS2Exd2ZTWkMxeUZFNXdWSmMwai1nOTFB?oc=5",
+          "published": "2026-11-10T04:03:45+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "나주시, 인공태양 연구시설 부지 조정 및 보상계획 주민에 안내",
+          "publisher": "웹이코노미",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YamRwcGlfQkYySzRIdU5UVDBoeHJxMG1SSFZEU2ZOc1ZCV2pLbFVsRUE2QlhWZ3JoSlNOSWN5SFFHY0NuaU9rSGNZS1YwNExPM0ZrWEp4czJmd2dmSzZsd3htSjlDY2dfaVpDbElsQjJyQQ?oc=5",
+          "published": "2026-11-10T05:50:34+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "나주시, 인공태양 연구시설 부지 조정·보상계획 주민과 공유",
+          "publisher": "호남타임즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DNlYyYi1uaC1VRjg1MG9NOTFRZzJkTlB0T0JrS0xhTy1CVnR3Vm5RQlRhVEpha0lyV3Joc3BXZ2lqOVIxeHJDMHRhY1NjQ1djVlhPNlAxbUlBTnM2d0lzRUpfZDlUc0lKNU9lRA?oc=5",
+          "published": "2026-11-10T10:37:21+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 2.533,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주 인공태양 연구시설 부지, 내년 2월 협의 매수키로",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlMUpxRTFkNWl5eFZRUW5VTzVXY0NqUkVTR0l3T0ZJOXpEOWd3VGhpM21YUGlQWlQ4azNNR1U3V18wMEpoUEZBc3EtQlp4VHlTQlRpTXVBazU3NHPSAWBBVV95cUxQcjRKaTNqQVdER1I1NVVDZC1XMTB3b1k4MjdsVUtEREpBTk1nSGpQRC1hYWdmVklIRURUWUgzYVh4amZqMjE2aXhkV2k1dHVMMWZHRVloV3B6WVFKVF9IQVo?oc=5",
+          "published": "2026-11-10T02:40:42+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "나주 ‘인공태양 연구시설’ 부지 53만㎡로 조정… 내년 2월 협의매수",
+          "publisher": "천지일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Bd0RaR0N6WFJPQlpFZGZ1VGdBTUtneFF0VXdhQ09mQjM1YXBTRlhsRHc3T1RqUEU3TndnVlU3cWJ6Rk5xLUY0dW5ya1E1WEszTFNUdWpMZEpiVFlQTlFiejRFUkNabHBVcmc?oc=5",
+          "published": "2026-11-10T05:04:58+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 1.302,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Kyoto Fusioneering and Amentum sign MOU to jointly advance commercial fusion energy in the UK, Japan, and US",
+          "publisher": "Energies Media",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FRVVsUXViR1ZtU1QyZ1VSc0M2Z0RKTlo3UGRzOFRkZFZzd2I4bEFzNUtfdUNWREVScktVZnppcnpjWEhybXdxRGxMUVRQbEl4RWFpSmRVTjRnYTRaTV9zOVlfakI5Z3FSLTF3REtHTDZBejZzdUE?oc=5",
+          "published": "2026-11-10T18:10:46+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.848,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주시, 인공태양 연구시설 구축 본격 착수…지역 주민과 소통",
+          "publisher": "진일보 | 전남일보",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fcTN3Q3BnY1BDLWRESkF2UWVtMGNiRV9zM1gyVGluTDhlNDBqTWI3S2NfLTl4N1hfRjJmUFAwT2JEUUxBZVNFenFKOE9nNVRFV1U4VEsxTlZGcTAxTUk0bVFONmpUYnI2SHpTX0taYw?oc=5",
+          "published": "2026-11-10T16:00:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.757,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "PPPL's Major Fusion Experiment Nears Completion",
+          "publisher": "Mirage News",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS0VyME82cHpPU1gtSkNBZWlYMEtZQk5TSVE1STBNdUthSnNUY3NrYXFCWlJhOVd3TE5Tby1OZ2k4Q1cxN0NWX2gtUGlMckEyaUpyaUtZU1E5eGFXNG90TXpxNGtoOVFhczYwdHNXclpoNGNIZTYxSHJsaC1QXzFQOTFpU3VydVJtMFE?oc=5",
+          "published": "2026-11-10T15:20:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.729,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Fusion Energy Reactors and Rare Earths: How REEs Support the Shift from Physics Experiment to Power Plant",
+          "publisher": "Rare Earth Exchanges",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BbWJMR0ltZElhZVRjN3E0OFdOckhUZWVYd2hrTFBJODZLMmJhbGpqZnpicHNqVzhpdFRqNWZVWTJWX3hFVnAwMWNrdXdveEpHVi1fZDRNUnNPbV9lZl9vSzNGSXQ?oc=5",
+          "published": "2026-11-10T15:03:46+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.718,
+      "id": 5
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주시, 가금농장 AI 차단방역 강화…1조4813억 원 인공태양 연구시설 구축 본격화",
+          "publisher": "웹이코노미",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NVHZYSDlDWFdXaEJUUE5SYnVvM2JIaDF6ejhBYmJzbm1JTVpNTmlxOFd5M29QNVhvVVFlY1ZFbWJLYXMtNVhmYmw3REZ4cC1LS21OS2s0SHl5bU9Zck45MWdERUR0bG5VUS1jTkg1MVJIUQ?oc=5",
+          "published": "2026-11-10T14:06:49+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.678,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Lord Ravensdale opens new building at West Burton fusion power plant site",
+          "publisher": "West Bridgford Wire",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVTg1LTllN1lLWE8xdGJtSlo1YlRpcU85VkVRdEVYWGJkRWpDZ2pQRC12SmpMQ3g1TEJsN2wwei1XUHN0LXpJNkp3UzVRYWdvbjFCNG5CRGoxYmtwYkZFZnBkaFdfenFzZUN2M3F2VndlWjJTUXhsQUpYbGgzZTVUeUZFZkwtREFWWTg2M0VkQmxhMjI1Mk5weFZfcXJodmozb0V1dXV1aw?oc=5",
+          "published": "2026-11-10T14:05:40+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.677,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "A financier who led over $200B in transactions will become CFO at General Fusion (GFUZ).",
+          "publisher": "Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbGlYb0d6djVfckVwUVc3cU81MkUxR3BiNnRLYlVOTlljRWRjMDlyajZSSlZBMGtCYkhxVnNMUmtRb0NKM0JDbjl5UU1pTWEwVlljcTVKaHVvREExZm1EV3pES3dHemRBRlMzZEpSWEQzTWFTQkZVUVNud1RhZ3ZNTm1GWW5OT0kzRmhWaUx5bXpKMkV3R09nY2tZaU5TYzNvS3lXVnM3TjJHanpXOTF0ZG5MSlJGNHgwb0YzMQ?oc=5",
+          "published": "2026-11-10T13:40:37+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.66,
+      "id": 8
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주시, ‘인공태양 부지 조정’ 주민과 직접 소통",
+          "publisher": "전남타임스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tU1JlNEp4b0dNeDF3YjFFdldBVDZ0NFJxZjRZUGFrVXZ6SHBuOW9LcTRFY3lxNHFSLTJTbDdxUXM4ak44V2dTVFJUOUwtZFZHUS1wT2VqdmU1QXpsbHBuUnV4dTRKNjQ?oc=5",
+          "published": "2026-11-10T11:37:35+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.575,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "A joint team tests full-size 3D printed tungsten tiles inside the DIII-D tokamak",
+          "publisher": "3d adept",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS1N1aHQwTDFxSHRSR2xfaXJEdFI3S2o2ZkMyS1VWY0lLU2NSRElDTFdWUWtzSER0d25BbWY0cXBKd0l3WWFEWkloNC1iT0Vna0tfUlhXZ2lrUExvVklpU1pKSXZWZmpqaTYwZ0MwQVAzRmx4d2l4eUVEUzNJeEFROXBtTW9fcjBzYmtrVWFJYUFFMHh6OXA2M2xQMEpLU2pILUk4?oc=5",
+          "published": "2026-11-10T09:10:31+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.473,
+      "id": 10
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "신약·핵융합·양자 난제 AI로 푼다…정부, 'K-문샷' 실행 걸림돌 점검",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XTENjdWpmZ0M3WkY2UHFKekZRTUk2TGVhVGo1R1FmUl9hU3NYOXRUM2VDNG1WZjhhQXRrY2hYdDNsRFBLeGl2dHNwT2h5QXpJWEpLWFBuZVo3R0VweVlMWDRUcnEzdGZWWVppVXFGNVY1T0l3X1FBbNIBeEFVX3lxTE5XTENjdWpmZ0M3WkY2UHFKekZRTUk2TGVhVGo1R1FmUl9hU3NYOXRUM2VDNG1WZjhhQXRrY2hYdDNsRFBLeGl2dHNwT2h5QXpJWEpLWFBuZVo3R0VweVlMWDRUcnEzdGZWWVppVXFGNVY1T0l3X1FBbA?oc=5",
+          "published": "2026-11-10T06:00:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.34,
+      "id": 11
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "인공태양 연구시설 예타 통과 후속 절차 본격화",
+          "publisher": "나주신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uUHZONVl2Tjg2WjFRYWVWM3RpZVlTSllHQk9MTUJZaXBVNXlqd0Z6bWhmbmx5Y2pIYVIyeWdXNmIweTRWQ3ViT25sLUVQNnJNa2tUWHlPT3BrUzFXbWg0WVJEV0NnVEFS0gFsQVVfeXFMT1dJVWVYR0xkY0ZlYkpzWC1GUHVBLTk3bHIzVWx5MzFMclR4T2x0T1RzazBrUFhwYm9kQkwzc3ZpVG5SaTREcFFvT0JVTFhwT0xDY3RJaDNaQ2tMZWJ1S1d2NkhDQzNFQmZ6NEZj?oc=5",
+          "published": "2026-11-10T05:43:01+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.328,
+      "id": 12
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주 인공태양 연구시설 부지 53.4만㎡로 축소…\"제외 부지엔 연구단지\"",
+          "publisher": "더페어",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PYmJWRW84aHF5NThDZi0yRDB6SHdNbHZ4OVRzV3htaUhaVXdSVWNwakR1RFkxZ1o5bTZmM25xcWdMNDFoQjBVenVEMVFGaExMSDVvTXM0Ti1VdEdQNTB0cHdVVkxha2sxaTF3LTFFVUI?oc=5",
+          "published": "2026-11-10T05:29:26+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.319,
+      "id": 13
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주 인공태양 연구시설 예타 통과…2028년 2월 부지 제공 목표",
+          "publisher": "대한뉴스통신",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WTHBxSGxFYUlZREtwSVh3bFdWOEFQUlRHV0JfNFVEc2tMOEx1clVyZmRoUVk4Vmdaa3Y1YXNuTzhvMjJHeWh6STV1VVJWV2UxeWxMR2tFZw?oc=5",
+          "published": "2026-11-10T05:30:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.319,
+      "id": 14
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주시, 인공태양 연구시설 토지 보상 착수…12월 23일까지 감정평가사 추천 가능",
+          "publisher": "폴리뉴스 Polinews",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwNmw4OWcxRE04NFNJX2NTUlYzdmpsUmVRb3F0ZHF5OER4OWl5VkdzWWUza0pzaEJpUDJfbjRmYW9pOUlQV1pubzBDaDlUWnl3U01vd3lHd2Nrem1LdmtQN2J0OUx0cGdVUzgxajFn?oc=5",
+          "published": "2026-11-10T05:04:45+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.302,
+      "id": 15
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주 인공태양 조성 ‘착착’…주민설명회 열고 토지 보상 안내",
+          "publisher": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBoVFVtVjVTa05NTzdVdWV4SVEwaGw0YXhkWmUydTJ2eEhDRHU4RWl4WTY4akl1cWlSeXdpckhMZHFsUWNaMFE?oc=5",
+          "published": "2026-11-10T05:02:29+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.3,
+      "id": 16
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "The Fusion Energy Industry Needs More Credibility To Commercialize",
+          "publisher": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT3RmU2xYOUdUUm8xTnhYZTNKVTRIeHMyZDZWRWp5STZOWTRFZy1GVUh2cXJKYnoyRk0zUU1GbzNvQ2dUa2dpYzVUTmlNMV9WNmxmcVRmRXBKenpFZGVsQUpQdXUtLVFtOHpjZ3UwTVgyZnlGZ29BNUx0X040Y185TDY5NEpnUUF2QWFuS2FuSHA0Z3otdkJDY19ONTJrVUhXbUp0VkZKZGlRa3d2WkJnTXRXWTdiRjJFajBtRg?oc=5",
+          "published": "2026-11-10T05:00:27+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.299,
+      "id": 17
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "인공태양 연구시설 부지 53만㎡ 확정…나주시, 보상 절차 착수",
+          "publisher": "전남인터넷신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84REEwckdjaDFCc2JSaXRRWHNXamFJdTctSFFHcGtIQWJkSk1FaTc4UTN5emVCOWMxTXJUVzdQdVVNSUlGaVNZVFpoclVLNFhHN01seXMzS2FHQQ?oc=5",
+          "published": "2026-11-10T04:34:59+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.281,
+      "id": 18
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "AI 전력난에 핵융합 기술 부각…두산에너빌리티·비츠로넥스텍 '함박웃음'",
+          "publisher": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9EdHE4V1NuYm43Tm9sRkY1X3c5eXZjRWd4dnE1a3U5d2hiV1ZDZDNXNDZ2UmQ4SklMcjl6N1c5b0VtVDBWQnNxdlpJT1R1WXNuNVlJY0JsSzNDS0JPenZUV0xoSmZwNGlJMlpNY1hENDhYVlZZZTBJ0gF3QVVfeXFMT0R0cThXU25ibjdOb2xGRjVfdzl5dmNFZ3h2cTVrdTl3aGJXVkNkM1c0NnZSZDhKSUxyOXo3VzlvRW1UMFZCc3F2WklPVHVZc241WUljQmxLM0NLQk96dlRXTGhKZnA0aUkyWk1jWEQ0OFhWVlllMEk?oc=5",
+          "published": "2026-11-10T04:32:02+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.279,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주 인공태양 연구시설, 당초 계획의 절반만 예타 통과…부지 축소 불가피",
+          "publisher": "온라인더뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5CMnJ1M3lpazg2c2tKaTdrZ0JzMGczeXBvdE9pX3NtY0dRRFpIZHo2M1cxTk9wQnFoWDhmU0lqUzFxT0J6Mnlj?oc=5",
+          "published": "2026-11-10T04:22:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.272,
+      "id": 20
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주시 내년 2월부터 인공태양 연구시설 토지 매입",
+          "publisher": "아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9icnhEdkhPWER3VDVwbmN5ZndsMVRTTWNManhxQ1pEb0Mxenlpb01XR0JEbnlqd3hpLTc2NFlLdTJOY2pwcEhNeTN0TkxaSXRheFdZZTdQX3jSAVhBVV95cUxPYnJ4RHZIT1hEd1Q1cG5jeWZ3bDFUU01jTGp4cUNaRG9DMXp5aW9NV0dCRG55and4aS03NjRZS3UyTmNqcHBITXkzdE5MWkl0YXhXWWU3UF94?oc=5",
+          "published": "2026-11-10T03:37:04+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.241,
+      "id": 21
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Fusion Energy's Birthday",
+          "publisher": "Gatestone Institute",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yR09LeTZsV2pOUnpDMUoxMkdkVGdwQlYydk5vSFQzRGFmSHJ5SGtiN19Idy1QcXZBR1NCdHdrTjQ1N0V5bFNxTUYtOHBIMHAyeWZDN2Zsekc2ZFREQnlRQjQ5UmZ4VUNqNHRuRy1oQ0E?oc=5",
+          "published": "2026-11-10T03:00:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.215,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주시, 1조 4813억 원 인공태양 연구시설 후속 절차 착수",
+          "publisher": "뉴스워커",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rWWNBSmlfMFpZSDczQW1yUzBubzEtVGd2eVhmQ0dpUnBaM1ItUnVzUk9idXFOLWMxQnpuanNuSnhoZUJPdjZBcXdlSmVqMjZxYTc3OE1VRHJaLTRhc3BIV1FGbHRCeGh5ZUw1SlRNWkN2YzA00gF0QVVfeXFMT2tZY0FKaV8wWllINzNBbXJTMG5vMS1UZ3Z5WGZDR2lScFozUi1SdXNST2J1cU4tYzFCem5qc25KeGhlQk92NkFxd2VKZWoyNnFhNzc4TVVEclotNGFzcEhXUUZsdEJ4aHllTDVKVE1aQ3ZjMDQ?oc=5",
+          "published": "2026-11-10T02:44:45+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.205,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주시, 인공태양 연구시설 구축사업 후속 행정 절차 본격 착수 - 보도자료 | 기사",
+          "publisher": "더팩트",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9McmoyLVVtRzlGSjhaZGdsbmFXa2F6YmFqSFFSd0YtVWhiaW9Ma2dZZldlc3FDVksxWFFPZWhya0NrbElQcVdKR0RoSVhwdVltVU9FejctRzBxTW5LNl9z?oc=5",
+          "published": "2026-11-10T02:40:14+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.201,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주시, 인공태양 연구시설 부지 보상 착수…별도 연구단지도 추진",
+          "publisher": "한국뉴스코리아",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XZWpITG16MzBhQjJtMlBON0xCQTB5UTc1N0Z0LW9MSVNwVjc3dWFTaUtOSldhbTMtNngxbFItVGhWLXh6b2pXMkZDa0tNdFpRc3RLVXlqT1ZMRkMyNVotVko5am12dw?oc=5",
+          "published": "2026-11-10T02:22:37+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.189,
+      "id": 25
+    }
+  ],
+  "feeds": {
+    "gnews-ko-fusion": {
+      "ok": true,
+      "entries": 24,
+      "kept": 21
+    },
+    "gnews-en-fusion": {
+      "ok": true,
+      "entries": 22,
+      "kept": 8
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 52,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    }
+  }
+}
