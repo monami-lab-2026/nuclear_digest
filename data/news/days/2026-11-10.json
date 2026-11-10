@@ -1,0 +1,779 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T00:18:08+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Estonia narrows search for nuclear power plant location",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/estonia-narrows-search-for-nuclear-power-plant-location",
+          "published": "2026-11-09T15:27:23+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        },
+        {
+          "title": "Romania to Restart Second Reactor at Cernavodă Nuclear Power Plant",
+          "publisher": "BGNES",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ3NYNDlfdEE0YlRyaFdpcHhWeEtNWUhTaWFXQktsX3Y1bVlSWndscHlOeFRfajE1TUdYWEtoQWdvWm1PYTY1ZERxVlJNc2Rpbmt1LXBla2tvUWI2OXc0UjQwWTR6X2tYWGJqTnZITzVTTVdIcFAyQnVaRVNMeUNFallMeGg4M3IyWjBlSTg5VTU0RHB3ZUJzR2hR?oc=5",
+          "published": "2026-11-09T12:50:05+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Estonia narrows search for nuclear power plant location",
+          "publisher": "World Nuclear News",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa1pXYTk0dWc3XzlMVFo4b0NUT2owa3VTRk5kRExjOE10Y3JOOEZjMnpxRmprRVBpTkpRd09XTE5ORDJpcm5NV2Vzc3dDT3NzQ1Nwc0hOQll1V3hvemg2YkZyMEF5M2JhMTF1QlJmR2tkcGg4REVMdTJkQVczSTgtNUlrQ3M2LU5Ya1ZTcFZOeVJXdWpfeEstMGZKZw?oc=5",
+          "published": "2026-11-09T17:58:13+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 4.736,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 여가친화 우수기업 선정",
+          "publisher": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOcXN4M3p3YjBIMVZVMHBCeDdqNnJubzY1Yk5OTW5HU1ZuTHNxNkF4MXpfSy1mRFBRcXk4WmZrSmZCek5GWFdmY3E0N3JpQUduVWFIVnJPVGk3Y3JRWUJnV3Etai14Z2t5Y215bkgzX0lQcnlNZXhiaW5jb2Nmd3duQTJNX3NpTFI2V2VzWUktS1hZcjFaRkJHUXZ0NVY5MHBSLUl2N19yRzBhYTR1NmVTaVl2bjlGYWhLVHU3TjNiSjFQV1pGaFpCbTdxVnZ1QUZlaF9QZ3hhOTRqdFowbnEwNk1uc2FJOTJhVllCaHpqTlc4ZkxWSDR1OUs1Ui1WUQ?oc=5",
+          "published": "2026-11-09T07:19:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 여가친화 우수기업 선정...문체부 장관상 수상",
+          "publisher": "더트래커",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00SUVrcG1YeWxNeXRkbFdaRzY3bjFrdl9XWUJEMGhVQ3B1YkJ0eVdVMnRaT3ZyeDk3cXZlSUM2bVZEY194bkVTRTNTMHVaV2hIMlk5NjBLNFA?oc=5",
+          "published": "2026-11-09T08:21:41+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 여가친화 우수기관 선정…장관상 수상",
+          "publisher": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CcklJU3huVlhNSlJvWXdzZE9OaHFPYXpISzNsZ29sWmhRaEFYVERzMGVCOE9wbEY2S1RuR0p1TVV1V2QwVDJYWnR6bXdlc2RHUFFDYWZlV3NqMkZxVjNlUFFHdjRuTVg4WGJzdVp4ZUNpc1HSAXdBVV95cUxPSlBpbmRlNW1uWVdIeGlfX3JGREljU0dKVVJsYXpUSTJnY1RDOHRlQy1FNkk2VklybkFrX3o2OXNCUk9ua3hFbFV3SVM3em43UlVtMjhTeFV3Skd4OVIyVDlZYTRCYy1NVXliZ3o2YVRGalhIS0s5WQ?oc=5",
+          "published": "2026-11-09T08:25:01+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 여가친화 우수기업 선정…문체부 장관상 수상",
+          "publisher": "부산일보",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LcG5EX2c2eXphcVdPU2p1S3lwZE9iTG1PY1o5UnMyTTMtUloybFlUQlk0bXlWMFBTVlNQaHNWWmtkZGp5TVcweXJUbXpkUXpidzNlTFZQNnRhMVFrS0dUdEplVU11bWdaZGFaQWpKdFFVdFdr?oc=5",
+          "published": "2026-11-09T11:35:01+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, '여가친화 우수기업' 선정…문체부 장관상 수상 영예",
+          "publisher": "컨슈머타임스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tdEllMnpTd2MteHNnb2Q3ckh4U2F0ZkhfcWk2dW1laFFmaFo4TDRXYlhMRmNjdGNXMmpYRmpBd0Q1WUVKWURqU1AtSE9JeVByQ0NleTgxbVdod012QUM2NVotWllVZ0VaRnc?oc=5",
+          "published": "2026-11-09T22:45:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.935,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA Reports Two Dead in Drone Attacks on Zaporizhzhia Nuclear and Thermal Power Plants",
+          "publisher": "news.sbs.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0ybzBuR2FHcjFPTkNJVlFzbGVjUFlMa2lzbFdtVDdhVGNrOXpHcE9obVVWbW9JMEhRTmVTVGZ3RlMwRmJnTksyUmZzeTNYU21ZTHE3NTRCZG5CQ2VzTVdZbWpZclZsS3o1WGNMcVhB?oc=5",
+          "published": "2026-11-09T15:43:06+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "An employee of the Zaporizhzhia Nuclear Power Plant was killed in a drone attack",
+          "publisher": "UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeTlRNTQya0NCdS1CSHFjdFlyVFRvWDdma0REVnR1Nml0WEI0RkNwQmRNYjVYZHB3RGRrcFJkQmJsLWpDUEZ5X3BOamNUTUZUOHFMX0xvbDZia2QyTHAteGVRLXg3RWwyYlBVd2VBZ2pCRTBKajVTX1N6UlNLR2lCY1U4YndOV09PaVRTaWdR?oc=5",
+          "published": "2026-11-09T18:13:33+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "An employee of the Zaporizhzhia Nuclear Power Plant was killed in a drone attack — the IAEA said nuclear safety was under threat",
+          "publisher": "Українські Національні Новини (УНН)",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPU0huRHBUUTV6T2p5N3lTVTM0X3A0WlRzV2xfQkhhRVBETXpJR2lMN19kV2hQM2dyQlBWWm9RVF9SYzE1T0YtRUNoWmF0TjVGOWVyNlpGNjl2Z3NHNUUwSktXSFVIOElMVzhBRDJicUNOWi1VSVBxaGZjRHJuT3pLMnZaVmVacXNOUHhZdFVMdmNYYUZYSFdTTkVHYWh3eUVXa1VoODRtRnJXT0JEQkVVRmJiQ1Z0ZUtadm9BdEVVbkJ3U0stQm5ROUMwV0dWNTVkdDBlV3dueWQ2bXRRTFRaTGEtdzd3TDBSN1k3UXJqN0FSdTNwakHSAfQBQVVfeXFMT2lWWEVfam9aSndsYXU0TTcyZnhsWVI2MndNektsM21vX2Q0WnRxMkFrS3dULXBZRG9ybkhQZS1XT2RoRW5EdHhJdndWRkNkM0NQNHJMMDMtTE8zRDg5Wmt4MFlzdEJxazBPUnRGRWdjVGkwZk5yUWhHR1ZQMXRCb3N6akswUVpBaG1xb0l4NzFqYThhYUN3LVN4RFh6WUFiM3N6d3FIVGV2RTBNNnRzT3dzNy1SelpSbFR4bFFwNTNqTnVpN3M1OU04QlVyMzdTaGVKV0xXQUNEQ3N6aFlxM282MmNfUlQwaFVwbG1QSkJybG9oaQ?oc=5",
+          "published": "2026-11-09T18:49:19+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Drone Kills Zaporizhzhia Nuclear Plant Worker, Second in Under Two Weeks",
+          "publisher": "UNITED24 Media",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbUFLUmxjelZMbHhEXzQ5UjFveHd5bjF5QndyUlI3bFlYYkNLNVlOS25lSzJVZmpoU0V0WTFjRHkteHItTENwUHREbnhrUThtVzhuZWh4dy1JVGk1NWUxUDdYRkVnQjU4UHFsZW8tYWVjZkNULWZCRS01Y19Xd0VJY1FvOXd4R1k0a2dVSVBhY3VaVzg0MnR1bmFrODlJUHl4TUNKTmwyWTRST0dQLXIwV1o5U213cEttU0E?oc=5",
+          "published": "2026-11-09T19:39:10+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.806,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Zaporizhzhia Nuclear Power Plant restores external power after blackout",
+          "publisher": "Mezha.net",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZWk5R2hxQXFmOFFWZERZYXEzUzZYa3dxdW9RVUY3VElfVFhuWVFWSktiQjJQQ1JOcHhlNFlFbXMtbEJEa1cwbzQySGJBdUl6Q1h5RnJkSXA3MXQxRnM0Vkp1RHdzMWd1VER2SUl0N3NjaWRncGRDVExtaXdXcVh6ZjV5NWZ1dXZVcUdkQ0Nn?oc=5",
+          "published": "2026-11-09T00:58:53+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Power to Zaporizhzhia nuclear power plant cut, restored, IAEA says",
+          "publisher": "The Kyiv Independent",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbkxkWnUwM3NjLUxQRGIzVmNCT05SdXE0aUdkeGZITkh2aGxEZU43b19MNTJVeXh5b2xfaEZfMXgxS0xnVmM2NWZ2S0NtNW1HOGdad2ZYM3JrMlRfeC1ybW5IUmRGNjR0Ynh2VkMxcGY3eVVDTDZJWGt3NEZwNnpiby16WDluQ1lFWEdqSXZObElYM01EQnU1NA?oc=5",
+          "published": "2026-11-09T01:09:58+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "External power supply to Zaporizhzhia Nuclear Power Plant restored: IAEA",
+          "publisher": "巴士的報",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa3FMcmVMTk1lbldZSEZmdHRlbGV3MU9NLU5GVmplMlktcEF2WExraHNWRjlZMDFCencwUEZrTEY2Qk9EbG8ydUNJdFE0SEVpeG5BZ3BLalpXR1J1NnNaY0FIWmxxcEo0emtVbEc0VFJDbUJQb0l0cE1KUUtSR1dTT09VWVdCQ2dqeUZMX3FaS2llVWxJQnR5UWFDMm5EaTBpelVyUVpWWW9WWkhlbXN6NmxDRFNJWnBDREQ1MXlsMVY?oc=5",
+          "published": "2026-11-09T02:29:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Ukraine Zaporizhzhia Nuclear Plant Loses External Power for 27th Time",
+          "publisher": "Barlaman Today",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUzJHdzRaRXNzRVlqRjQ4ekFYcFEzZk1CM3JLNVhjNmlPeDUwVU9EcWRoQ0t1RmdRYXFuNHVFOGR6X0ZPTlM0TmdFSUtKX2RJWDZaOGw1dGFKekhwc0RuLV81QjdiamJuenMybEpXRG1qV3E1V1R3RFpjalZUY1prVVY1NHJYbllESndzcWJJOXRjcGtpR0k4djdGcExEUFFwX3Jqc3ZPaW9rWnc?oc=5",
+          "published": "2026-11-09T04:00:18+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "External power supply has been restored at the Zaporizhzhia Nuclear Power Plant following yet another blackout",
+          "publisher": "UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc3VtbGZ0Y01RdENIMHZxMDRORVpoLXBpaXZqWnFvWHM2N1FkNWg2aXMyY3FuajROdl9QVG5oTFQ1SzN1ZDFnM3NodWlHcWpyNlNOTlBORU1RaXZKYTRFdkpzdzV0bTF1alRCU3FkZEFqbDhweWptZmNfcG0zNTNMZHdwQzQzbG1xeDU2TFZOcWxTOGluMElHbERKaTE4R3VpSmxvb0tBY0MxRzF0SUlyWV9GTUQ?oc=5",
+          "published": "2026-11-09T07:29:39+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Zaporizhzhia Nuclear Power Plant reconnected to Ukrainian power grid",
+          "publisher": "Ukrainian News Agency",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcnQ1SHFKTjFjNnZlOWdRSHNtRDdGS1dmTUltRWxQdmJJWEg5QXJrRzJvX2J0OHhIcG90MU5BVVNvNklwYnlWOThENlJRM1hWM3duVWVkT2VjSzFrNXdHWnNRSDhtb0tJaHpGODNRQkNoU3p1d2lJcWNoQ213MGRPeDNsTUljWTFJOURMVDM5RU85bHNNYlExT215Z2RFZGZncG13Szd4eGvSAa4BQVVfeXFMTjNVQVdiSFZqRHZjMnZJc0tiYm5HdnQxSVdLZFZhY28zUjQ1b1Z4WFFDa2szdHJpUW56anltNXlJLW9lVjljbUF1ek10R1c4OURnbHBScmJWd3ZFdG5JSk1RTlRXSDg3ZGJkaHFCVVBtTlQweXdDNVM0b2pPU2NXei1rZWtXTHBtN2QzT0FqU3g3MTNGRzlNTEtTQzNWNjU1cnZFelFsendKWHNORXNB?oc=5",
+          "published": "2026-11-09T16:15:01+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.665,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA condemns deadly drone strikes near Ukraine nuclear plant",
+          "publisher": "TRT World",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NOWVjdXpXWFh5bG80U0FkRXBiU3FmT0kyaXBDVWQ5aVNEVnpUdnRrZlZSQy1MUkRNdXRTbFF0dWN4WTlGakZJTEFUSVhZbUd3OEo0dndzYVo?oc=5",
+          "published": "2026-11-09T16:26:30+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Worker Killed in Drone Strike on Ukraine Nuclear Plant, Says IAEA",
+          "publisher": "شبكة تواصل الإخبارية",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QeUhvQ21qTk1iQWU5dWV1OEZnYnJrT2ROLXY1RUVhdHdlRF8tc2VkemZIVUtSbWpnam5MLVJ2cE5nSzJGVGs4VzVLMm9IX1VjN2o0?oc=5",
+          "published": "2026-11-09T17:49:37+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Worker Killed in Drone Strike on Ukraine Nuclear Plant, Says IAEA",
+          "publisher": "ASHARQ AL-AWSAT English",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYklYTGx0dW5idzdzaUZBNmxyRkloejllSmZyQVBYc2o1SkFGLWpKb3lfa1k5cGJlSGxYdTJhODlWTDNPZXh4VWpPUjRuajZQYTRNY0hKMGFiaXI2TDhFV2JyVFdYSl9jZHJVWWFGb05wc1lvUzNSVHhMQTVHZlZ2TTlJdFJnblc0R0pwVVBNTFc4ZFFRazRMQ0NHakZENkZO?oc=5",
+          "published": "2026-11-09T23:37:30+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.972,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "How will midterm results impact nuclear energy?",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-09/article-8569/how-will-midterm-results-impact-nuclear-energy/",
+          "published": "2026-11-09T21:10:32+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.87,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Copenhagen Atomics and Urenco partner on planned deconversion facility",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-09/article-8568/copenhagen-atomics-and-urenco-partner-on-planned-deconversion-facility/",
+          "published": "2026-11-09T18:00:52+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.738,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA inspectors conduct checks at Iran's Bushehr nuclear power plant",
+          "publisher": "Trend News Agency",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pSHV1WFQwSUtvR1lTUS15dkI1a1BxYTZXemVieE0yU0dRdnUxa1hkcDJmaGg2bFlwQ3dGcDB4MmE3anFrZWhnY0x1MkJNYUU?oc=5",
+          "published": "2026-11-09T08:41:16+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "IAEA inspectors recently visited Bushehr nuclear plant, Iran says",
+          "publisher": "Türkiye Today",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcmZ3VzBIWWFiaTlwTEZXOUxma256bGZwZEVTSGJaQVlMai1feG5na1pWellQdldCVDRYMnI3SlhLMHJzNkR3QmczY3hRRVljeEFIN0hlaG0tM1hEVmNnN2F3dmxuaUVhZnlHaENzWFlDaWRtb1NsWm00YUhaYjFydEg5dkRvS21uVTFscC1tUkFmcjN2czNmdGdmYk1jUGdaNlMtTXU1ZHpCczdq?oc=5",
+          "published": "2026-11-09T09:51:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "UN inspectors visit Iran's Bushehr nuclear power plant",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb3N1MElyVEdoWW8zb3NocGgzRF9ZemdRR0d6NUlRT05STEZFaW9SbVBvbzAyYTFDNGx4NTQxX3RqQ2FMUENkblJJdWR4LTZTZ0JpYTFmcWhiSHVzY0t6clNzQlJMZ3d5cjZidXFBaFRXUzBlTHJTUjVaa09IWS04d1o4T05rV3VZMmRwY194VVFBWEdQ?oc=5",
+          "published": "2026-11-09T16:18:29+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.667,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Canada assesses its space reactor capabilities",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-09/article-8567/canada-assesses-its-space-reactor-capabilities/",
+          "published": "2026-11-09T16:03:24+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.656,
+      "id": 8
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "IAEA \"자포리자 원전·화력발전서 드론 공격으로 2명 사망\"",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EUnB2Y09mWEd2YkZXY3k0QXNRMFlkeVRLN3RkR0dzbUZzbDRCMjZVeFBOa0ozMXd0b1ZTaVBuakNIY1YwOUdudThRMTJ0S3BYRW02c3FMNmhlRTFobHZJVtIBYEFVX3lxTE5EUnB2Y09mWEd2YkZXY3k0QXNRMFlkeVRLN3RkR0dzbUZzbDRCMjZVeFBOa0ozMXd0b1ZTaVBuakNIY1YwOUdudThRMTJ0S3BYRW02c3FMNmhlRTFobHZJVg?oc=5",
+          "published": "2026-11-09T14:36:20+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "IAEA \"자포리자 원전·화력 발전소 드론 공격으로 2명 사망\"",
+          "publisher": "MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fM28zbHp5SXdUQXZ6UXVTQ21BUGFtMFpoZ3Q4ZXBHeXpUd0x1UUwyMEh3VnNFYTFRRy1Eay1SaHhnb0M0WGkxQmZJS2tGS0JidEJBWWRaazNMOXY2WHU2aFQzQndScFRNXzRMYUlzX0pobER10gF0QVVfeXFMTV8zbzNsenlJd1RBdnpRdVNDbUFQYW0wWmhndDhlcEd5elR3THVRTDIwSHdWc0VhMVFHLURrLVJoeGdvQzRYaTFCZklLa0ZLQmJ0QkFZZFprM0w5djZYdTZoVDNCd1JwVE1fNExhSXNfSmhsRHU?oc=5",
+          "published": "2026-11-09T14:54:30+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "IAEA \"자포리자 원전·화력발전서 드론 공격으로 2명 사망\"",
+          "publisher": "news.sbs.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN3Z6cjJTNXZoYmlKdXFQQWVhdUJJUTk1dVc3b1I0VDRTcTVaXzdxT21DMDJPOHgwaHVhcEh6SmZBS25IRU5rOVpqVUU1b01MVTFzb2lmd284UUNUMEZvREZjYlpiMVJqU2pINkUzZXE0MHY4MjdrdVJmbVBJXzVVXy1TSmxSUQ?oc=5",
+          "published": "2026-11-09T15:41:41+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.641,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Cernavodă units returning to operation after three months",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/cernavoda-units-return-to-operation-after-three-months",
+          "published": "2026-11-09T14:13:35+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.58,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "INL and Purdue University collaborate on construction demonstration",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-09/article-8566/inl-and-purdue-university-collaborate-on-construction-demonstration/",
+          "published": "2026-11-09T13:58:46+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.57,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Canadian budget sets out nuclear investments",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/canadian-budget-sets-out-nuclear-investments",
+          "published": "2026-11-09T12:34:13+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.511,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "ASNR opens passive safety system testing facility",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/asnr-opens-passive-safety-system-testing-facility",
+          "published": "2026-11-09T11:54:36+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.484,
+      "id": 13
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "산업장관 \"체코 원전 사업 무산 안 되게 만들겠다\" |",
+          "publisher": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UWC1KeTd2Wm1FMTlaQ0hmeExFUUE4SWZVVEdGWmlzaTgzUlRROXhOeDIwdk9sQ1pnb3EyWWFzNGZfZTBSNjg3cV9pTm54aWhXajVuLXBwbUFYMERTaHFiTUpQXzEwbUNobU00VkFRZVM1bV9w?oc=5",
+          "published": "2026-11-09T07:26:01+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "산업장관 \"체코 원전 무산 안 되게 반드시 완수하겠다\"",
+          "publisher": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BXzBYY3NzMlFFMW5wM1dzT2FhakViZHIyVlNaNTR5XzF2WjBZaVRGRDZOQ2VhdndMcXhIUmR0Si1XRVBoYUltS0FRSnc4M1A3bkxtMUEtSzJ0T2h3Zld1ZHBlZl9fZ0U?oc=5",
+          "published": "2026-11-09T08:45:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "김정관 산업장관 \"체코 원전 사업 무산 막겠다\" 밝혀 |",
+          "publisher": "대전일보",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QTDJuN0ZlMl9vRkdEZnVUc05TdHUtZGE2cHZpNy1yaHRwSkRzaThFeWRZOEttMXJ0ZGtMOFIzTUozOXZLM1gxQVdaZUdwNVBhT1VZV1ZNT0JPak5aRkptb3VtcVkzZF9hREJNSXYtUWN2MnM?oc=5",
+          "published": "2026-11-09T11:22:41+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.462,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Concrete work completed for Akkuyu 4's turbine unit",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/concrete-work-completed-for-akkuyu-4s-turbine-unit",
+          "published": "2026-11-09T10:32:29+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.427,
+      "id": 15
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 산·학·연 원자력교육 혁신·기술교류 첫 시행",
+          "publisher": "인사이트에너지뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBObmM2OTF5andiQmxwdlA3WDJDcWpQQTJDQ2dnaGFmZ0lHdy0teEFFd3kxandDaV9VY0dwN090aW54cnRyQWNHd0dSTzZJUXdERXFnRUw0YktUU2N1T3Q0enlPVHV1aDTSAWtBVV95cUxNSnJyamp4dmMwWjRjM2lobnpsaTd4aDJnLWhUc25ocm5Vb0hJTDVJcE5NV0VPUTRYNllvNUhYTGExZ3VoNWZ2TnZFRGdBNDFOdXA3QUVYVXVwUXFJWllnVU14NnRJTFN3TW45aw?oc=5",
+          "published": "2026-11-09T01:08:07+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력, 산‧학‧연 원자력 교육 혁신 및 기술교류 워크숍 첫 시행",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mbmNXSnY1aGcxdF84alRodnhuRDJxdjFwdFl5bmM5Yk1DYlc2VG5aRkUwdTR6TDJETzVkNXRiSExfbk02MXhydUVrSi1IVVExTXJQSXM2NEJ1RmViVm1FakRoZmg?oc=5",
+          "published": "2026-11-09T01:51:50+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 원자력 교육 혁신·기술교류 워크숍 첫 개최",
+          "publisher": "팝콘뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iQzJVdTF6VzhBbHJMaWZvOVMzNFRPVkNyMl9yQkhybG1QWWd6SnBFeEszS3FuODZRdldKX0hfMlJfRWdkQW1vQ2VRQ3E3LW12MWVDWDUteHdJdnB5Zzh6bUtqa2dueUx4Mk0yaDJB0gFyQVVfeXFMUFF4dTVWVGxCRkNoYXRkZGt2Vk9DVjktclNQZlpKWkpyVkppSGUyRjZndWxDNllMOFpWRlNsTVh6OHYyNlYtUzFBdGVlU0NmenpCM2Vhamd0a0tVTU5kb0diSHVtc19RemJqUEM1MmNwNDVn?oc=5",
+          "published": "2026-11-09T05:01:45+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.197,
+      "id": 16
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "화천KSPO vs 경주한수원…여자축구 WK리그 PO 12일 단판 승부",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBULWQ0UVM3MWtTN3VQRVZURktVdEhfeUdoSEpNcEstQldNSzJzZ2JZeUdrME5XX2dLelVlNXMzbmUyNjJ2WlpETzVodmtkTVIzOWN0WFRVblh0VG_SAWBBVV95cUxQUWZSdXdQVUxKZEJpZm40ejVuYUQyT3I3Yi1aVkR0aWhiRC0xSEpSX2JsYTNjd2psSldwOVhrRGJJaS1QX1lwcklZWERCMkxIeGY4OWpHRGJTaTZSTlVxZ0U?oc=5",
+          "published": "2026-11-09T02:46:39+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "화천KSPO vs 경주한수원, 12일 WK리그 플레이오프 단판 승부",
+          "publisher": "톱스타뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzWVVYU25mYTlPaTlURWJoLXc5emd4M05Mem03Z0xoeWhrWENiNi1EdF9hSG04aU1NTDdxaXdrWGNRaXVNZjR6aWtZTXFwQWRaTDNoNDZFRlgzcHVqX0NsRjdaZmlsNndKUmJlU3Bka0RWQQ?oc=5",
+          "published": "2026-11-09T02:57:01+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "화천KSPO vs 경주한수원…12일 WK리그 PO 단판 승부",
+          "publisher": "news.sbs.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00aEUwTkpYNHU5TWxpWllNYVB2N2JQY0dpYjRzVjlncUlQRm8xeVVHbHVvcjU5X2Q2MWxoNjBnLXQ0d0hpaWNPbmRTZnBKNEN2LVEyNno3bFJyQ3YzZFBiVFVtZDhOdw?oc=5",
+          "published": "2026-11-09T04:07:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 2.159,
+      "id": 17
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "외교전략정보본부장, 국제원자력기구(IAEA) 사무총장 면담(11.9.)",
+          "publisher": "서울Pn",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xRkhlY0lJZ3I5cDhHSnFkX0xrb2x2NDQ2Nm1pbXRoQ0IwVV9NMXAwRFVOWEVMb1pJUWRLd3V5LTB3LVVNcWRhWFp2dDVCM1RYemxmUUhCZjltZWVYaVFIcUZB?oc=5",
+          "published": "2026-11-09T23:01:06+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "외교전략정보본부장, 국제원자력기구 사무총장 면담",
+          "publisher": "메가충청뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41djR4a25lRGo2VDNldnYzUGI5V25xZVplX21Vckt6MGlHbF8yQk43SllYc2YtcGpyMTdBS2JaNFJwOUc4NHNsX29CLWdvbUtqeTJ4X0plNWpxOWFpUTNXN1RrNnFHYjhXRXBZVA?oc=5",
+          "published": "2026-11-10T00:01:04+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.988,
+      "id": 18
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Nuclear Safeguards in a Changing World – 15th Symposium on International Safeguards Opens in Vienna",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/news/nuclear-safeguards-in-a-changing-world-15th-symposium-on-international-safeguards-opens-in-vienna",
+          "published": "2026-11-09T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        }
+      ],
+      "score": 1.987,
+      "id": 19
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA Mission says Slovakia is Committed to Strengthening Nuclear and Radiation Safety Regulatory Framework",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/pressreleases/iaea-mission-says-slovakia-is-committed-to-strengthening-nuclear-and-radiation-safety-regulatory-framework",
+          "published": "2026-11-09T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        }
+      ],
+      "score": 1.987,
+      "id": 20
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "김진수 원자력의학원 책임연구원, 핵의학학술상 수상",
+          "publisher": "의학신문",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rRkVoSTY3d3VSRTRPTkl3eHFNNUQ3bi1UOHRsNkxMaGN3X2Q2RXVPZkN3U1J4RFZheXkxMnlLSUpYaXRoX3U3WTlMXzBoVkVERE1KVFhGWEFfNUFYSl9xTm4yVEswcFVZclE?oc=5",
+          "published": "2026-11-09T05:47:41+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한국원자력의학원 김진수, 제16회 핵의학학술상 수상",
+          "publisher": "메디포뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RbW9rTzg5b01LU1BjYzNfNnFOam5lZHFqcFBMNzhSMHNzMHR0U2xJQ3RUZWZsVFRqUHJtQm1STlAyRGZuSDZ4cHlKaTJmR3hLN0RhQjZ6elJNLU5JSkNiRzNrSGo?oc=5",
+          "published": "2026-11-09T22:52:07+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.94,
+      "id": 21
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한국수력원자력, 여가친화 우수기업(문화체육관광부 장관상) 선정",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1JSWE0OUMtdWVkdFY2MFlVRFRGcTZPREVXMC1DbmpZLWlWVG80Uzg1WWdTbFRGQ0Q0Ull6ODBZeS1PSTZBNTg2a2JIRmk4eklHaUdkVGlTQWh6dXlVc0RnTmJ3ZU8?oc=5",
+          "published": "2026-11-09T21:43:32+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력, 여가친화 우수기업 `문화체육관광부 장관상` 수상",
+          "publisher": "CBN뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTM0V6MEtBU2tNODJvNVZIamY2UlZ4ZTlrVjBkV2JBTXNXVngxWXJ5R1Bmb1JGeUVLaVZ6YXZad2lBTWlydUw2bnFwTk45aWZXbjNz?oc=5",
+          "published": "2026-11-09T21:51:13+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.898,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 여가친화기업 재인증…문화체육관광부 장관상 수상",
+          "publisher": "뉴스퀘스트",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YQTFfYUNTRm0zUXVvRy13Sm1KYjU4eUZDY3RVSzZVWVhLNWdFazFvSnVVZkFTSEpDckZTUzN6T0Y2MDJ3N21GUjN0N2pmWi11UHpuX0k5U1NYOE5rMm9lRld4NFhzNk5XOG1uWGc0QQ?oc=5",
+          "published": "2026-11-09T11:00:05+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 여가친화기업 재인증...문체부 장관상 수상",
+          "publisher": "천지일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCcnE2cWV6Qm1VOUNyNm9pY3FrYTM2RERGbW9HZEo1dnlCU1dKZWdCSHBkb1Iwam5Ta0RuZVdteUMtTE12aXpHTHpfSWYzYlc4R0ZxNnFWRHdia0prNzNqNjBiLV9ScFl4NHc?oc=5",
+          "published": "2026-11-09T14:25:14+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.588,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, SMR·AI 시대 원전 인재 키운다…산·학·연 교육 협력 강화",
+          "publisher": "뉴스퀘스트",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01LWw3SzJTX01pZUNiejFJOTdVTUQxUHN0RGl4MWRMY0VBTVZ4NkU4ZDR6Mk1uMFdVRVU5S1BxOWhZTjNnSFhsOWdkRk1JUU9FMEM2eUlpWFdLbTJzSEVkZXR6NWRYTzhwek1lbm9aYw?oc=5",
+          "published": "2026-11-09T01:45:45+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, AI·SMR 시대 원전 인재양성 혁신···산학연 교육 협력 확대",
+          "publisher": "여성경제신문",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iMmI5aDhYY2RkZEJoV2F2TFlnX2JHV0NKd0VpUjRqWnMtbkRsc2NPanF2N181eVpHLUJiUGhocXB5UktTdUtWUXJIUjNMNjV5TTJra21QaFVfUEtManRQMTU1ZEVDcW1YTVFQVFZaUF9xOFXSAXdBVV95cUxObkxvb21LdFlKd1V6RlBoYVBKaE13VzRqTVg0RUFjY2RPVDFXN0pOY3c0UVRJeEN0Uk9ySkxteUxWUzZNQjdGXzVTUDRhZUVvamQwVGdRbjVJdjEzUG1CcERzVDRtWUxibkEtcm51VmtmRmhZR21NOA?oc=5",
+          "published": "2026-11-09T09:08:01+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.368,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "김정관 \"체코 원전 무산 안되게 하겠다\"…한수원 \"사업 일정 맞출 수 있어\"",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ENUx2dFNSU0ZjTkt4MzFBZ2haYkU2eWJfNmcybFVaWC1mT2I4YmJVNlFfUjd2SXhRVTVYblVuOGlkMHpYSDJ4LW9KVzJmOGQtU1R5X29TOWpJS2taV1FrbGo3MGNuSHlFR1NNMUNSNWdPNlJyUmFuNtIBeEFVX3lxTE5ENUx2dFNSU0ZjTkt4MzFBZ2haYkU2eWJfNmcybFVaWC1mT2I4YmJVNlFfUjd2SXhRVTVYblVuOGlkMHpYSDJ4LW9KVzJmOGQtU1R5X29TOWpJS2taV1FrbGo3MGNuSHlFR1NNMUNSNWdPNlJyUmFuNg?oc=5",
+          "published": "2026-11-09T07:04:19+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "산업장관 \"체코 원전, 무산 안 된다\"…한수원 \"사업 일정 맞출 수 있어\"",
+          "publisher": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oLVluNF8yRmRFNTktLVlKcFF3S0hPMDlGNWoyNjUwRFE5WXJzR25kVngxM3dBVFQ4dU85NUtkQ3hvTWtOamVlaFM4ZVRneXB0TGFjSjRqbUQtMHF0YTF6WTBOVEM?oc=5",
+          "published": "2026-11-09T08:42:22+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.35,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "산업장관 \"체코 원전 무산 안되게 할 것…팀코리아와 완수\"",
+          "publisher": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xNFA5RWNyQy04dXhrQm1CMGE2T3RZalFhaXFwRXRydnlkZkxpRXlfZG9GWDRMeXZYQlZMYWNMQmJoVjRoQnJWb3BWanJMVHM3dWc?oc=5",
+          "published": "2026-11-09T08:14:38+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "산업장관 “체코 원전 무산 없도록 팀코리아와 완수”",
+          "publisher": "천지일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qdU1hdWF5NE1sM3pwNTlLRURadkpTY3JRXzNYUy1ISTl2RUI1RXBjalBTV081Szk3S3NNdGF1VHFKWDFjdDhQVjJYNndZRzliVlRQVk1jNURJUzA2WWM0eE9UZ1RONlA3bXc?oc=5",
+          "published": "2026-11-09T08:37:28+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.347,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "\"특정사와 짰나\"…대우건설 노조, 한수원 '템퍼링' 의혹 제기",
+          "publisher": "비즈워치",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45Y3U2cHJFbWlwU3pvaHdodGVxVUtvbzF0am9xNDhYZDNaZzB0TFdkb3FGQ2lJZDJVcF9QQkd2bFZQWHpxUEs2cFN3UFpYV3pCLU10OUkwZjRtN3NRbFFhLXBsNENWY3ZlS0NGREpUWUo?oc=5",
+          "published": "2026-11-09T07:58:02+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "“특정사와 짰나”…대우건설 노조, 한수원 ‘템퍼링’ 의혹 제기",
+          "publisher": "네이트뷰",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oR1lZaWlSNDZSOWdIUVZINS0zc1YtLU93M2ZTX29IUGY5akxxRi1ZZlgySTI1bExkd2ZYRm12WXBXTF82STd0U2JjS2p5ZGdW0gFWQVVfeXFMTUNmUWxjU1paWnVRd2RKeVpkblJLSnpOSjF3ZjBIRnhLa2dfd2V5dGltQ1F5ekJMNkFSTzJwZmlrVnJkN3dOQ05nRW5kQzhiSzBfRDRiM1E?oc=5",
+          "published": "2026-11-09T08:10:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.328,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "대우건설 노조 \"체코 원전 시공사 교체 미리 계획했나\"…한수원에 의혹 제기",
+          "publisher": "더팩트",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TTFFFcURQU29Qejd5dl9WVm8wVFByaFkyMkMtVDR6UVV3MUNXbEdTMFVvOFhCTkZWRktJVHdDTFk0dWdYaXk3UkU2anpLZUFvRUI1NEVwUkJ5d9IBVEFVX3lxTE1OdGJvV25GRE9fRjF5NWlTejlWVC03cTJjc21oZ1ZQOERwUGFTRjhnNXVDcVdrUzBqaHowRUdDcERiUzhXRl9kN1FGQmdMVWx2Tkg4aA?oc=5",
+          "published": "2026-11-09T01:34:54+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "대우건설 노조 “한수원, 체코 원전 시공사 교체 사전 계획 의혹”",
+          "publisher": "메디컬투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UTUhSdnRESWtTN2lLYVlmbHJTd3BkOTA1R2tNYzBpRnVweWJQNnVPRkItZTJRYXhQRERRZnduUDlpbWxYUlYzXzQ3OTR4azRUVkR1U2QyUFViMmR6RndBMGVMaWt2bEJjTzE4Qw?oc=5",
+          "published": "2026-11-09T04:19:41+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.168,
+      "id": 28
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "'블루시티' 주민의 '황당' 발언 \"내가 만든 원전 물 먹고 죽겠단 자부심 지녀야\"",
+          "publisher": "프레시안",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wd2l0ZlVkZW5weVlCSHg4SHRza1M1S0pQZWVqNU9WQnY2dHAyODFUTGx1aHJ4Y21mQTdfSlRVN1BfR1hBM3dGQ2ZwY2dKdlZXUHowSXZ2VXlhSGhiSXNBR19nY0pPQ1RPUnhVNjVXOU9Fd3hXZGNaVnJIWG5OMGc?oc=5",
+          "published": "2026-11-10T00:14:06+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.997,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 87
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 54,
+      "kept": 38
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 78,
+      "kept": 73
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 52,
+      "kept": 5
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 2
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 4
+    }
+  }
+}

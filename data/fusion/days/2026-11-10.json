@@ -1,0 +1,189 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T00:18:10+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주에 1조4800억 짜리 ‘인공태양’ 뜬다",
+          "publisher": "동아일보",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93cWpOS0RDUXVmLTBPZ3VEXzZhTGhVMExWMDJqLWNDaDF5c18wMVNEZk4zOHpIMnZNN0NrLTJaLUZDcER3M2g4eE5Hckp6QlVBWS1uYWxYdHBib2xva01vUFUxWFU2Szl0NGdsbW9mb0I0aFh0TlHSAWZBVV95cUxOWXhCTWp3VFdpWHlOWlFJOEJBZVE1ZmlaZkJMUWNERTZZM25LRjdQQk9yLXdRR1BCQ2pHZk83LUpERVFxN2FmUjlyU2NBSEZxTl81VWoyX2I1TjVXRUlMbXB0Y3U1UXc?oc=5",
+          "published": "2026-11-09T23:54:35+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.984,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "인공태양 연구시설, 1조 4천 800억 원 국책사업 예타 통과",
+          "publisher": "대동N뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Ha3pUYVM5U1d5clV0Y0drNHdMMVZwTEI2dnBtdmszaTF2cVlxRkZ1VHJBSjhwbTdQVDU5V0JrOTZBT04tVU83QXRJOVg3cnphQjl4RW90UzZncnFuamkwcHJiRHlpUU0?oc=5",
+          "published": "2026-11-09T23:24:46+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.963,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Inertial Confinement: Physics, Drivers & Fusion",
+          "publisher": "CASRAI",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xLVhGczVyTUhQTWdHenpVOW1nek9QMGx6dVpIRmdkbFNQaVBwQjJlX3diMGRFNlg3Uk9adDU0ekl5YV9fM2NFUzVvejFTUEYtcUtISjFEX1dodw?oc=5",
+          "published": "2026-11-09T17:56:49+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.735,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "A 13-ton steel box was just craned into place at a British fusion machine, and once two more particle beam injectors go inside, the beam power heating its plasma doubles from 4.4 to 8.8 megawatts and its temperature is expected to climb from 54 million to 108",
+          "publisher": "Autonocion.com",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMnA2Y0haLVJsWGs0VUN5TzgwYkV0YUpmY0VVS2Q1S25IMjVEaTJmSjJRZ0ZGWUo0RFBGaW1OR3JtTEpzdUUxNkRUUG5Sc2hEdjlmYmN3OGZ2NTRhZWNyQ3B4NjBKZy1pUFBnNURSRWthb29ZU0VnOU55N2pSS0p4LVVKWW9yN3hsUGYwSGpXaw?oc=5",
+          "published": "2026-11-09T17:30:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.717,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "ITER tests giant fusion reactor magnet with a current of 34,000 amps and a temperature of -269°C",
+          "publisher": "Fakti.bg",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT19vWHdEbVlTQ3l5TVFfbnYtWFFCTWNZcHUxVkhteFcwRVV2dWdXLXJULVFIaGhERkRaY2s0WlhoN3FaM1B3bTRuaXBBOVhUYTh2RDd0enFaWkxfRGNqclh0UldqTnYzUVhkcDdieDdUMHlTUEdIM2FHdTBMQVJ3eWdtdThyNVctNGlabkxkY2dKanIwbjN6TndCY3pRM2tvMXBhTE5LSzFuRlJ2S0k5YjZiMXNUXzgzYU1scXZvdFQ3bG1RVlNTZXRnLWptTmNjLUE?oc=5",
+          "published": "2026-11-09T13:35:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.553,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Tokamaks for Nuclear Fusion",
+          "publisher": "Drishti IAS",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMlp0eTlWMHNueWJTOXZaMTRlRVVIVVZyVUxKUzlEOFMtNDNHMnVqY25oOWhmRFJpUEFvUkt2QzFyM2dtaWZsUlo2bmNaeHUxRGpRSDRWVXN5TEJURkZHdXVPcVFPLUJMZTdMbnk1V3lvZldVUUxRczBiNkRxX2NfUTJOOWdDeVIwX0FLSnBETk5mZw?oc=5",
+          "published": "2026-11-09T11:38:51+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.473,
+      "id": 5
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "\"사도(邪道) 아닌 정도(正道)로 가라\" 장충석 박사핵융합 50년 외길 \"끈질기게 하다 보면 길이 난다\"",
+          "publisher": "헬로디디",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80bnFWVXBjZ3BrbG9KaVh0WFhueHk1UmZXckFOWTRhMDIxTlFEanJJbkNsTUhsa2xOWnZRVGJWbGhScm9ISXppWkJuTmxpLWRyUElOeklCb1p6aWxlaWlqQUZpUE93cWw4R2c?oc=5",
+          "published": "2026-11-09T09:00:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.362,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Germany and Japan are preparing a commercial nuclear fusion power plant",
+          "publisher": "Informat.ro",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUTFsZGJBMlhMMFFkT1J2ZGs4VzZtanZFeEdQd2JMOE5QYnVPTG5XZ1FTZ0NNVXpJV0x4Ny1Vb2Jub1B6UW80TkZpOEJabUxRRlhMWmNndlhBdk1ZR3BDOVgycmFTemktTHhCSGhzdm5LR09qTXpkdUctZWQ1Y3NZcDZUdXVOZHBFdnBCdkxwN1BBc3VsRGVPZVpR?oc=5",
+          "published": "2026-11-09T06:51:27+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.273,
+      "id": 7
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "켄텍, 1조 4800억 나주 인공태양 시대 개막…핵융합 핵심기술·인재양성 전진기지로",
+          "publisher": "프레시안",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XZjkxd0JtSU5DaEtPeWZ3cm5Gek16V2NKUU1jRmNUOVp3U194U2oxWXAzeXIxbGU3Z0JxckZKa0NuNWpjcER1cjhYRldWTzZjLWRVZjhSdFQ3dXo0YVNMX184R2NiR1oxMV80?oc=5",
+          "published": "2026-11-09T06:20:02+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.251,
+      "id": 8
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "〈WCM 기획검증 ①〉 나주 인공태양, 공약에는 103만㎡, 예타는 53만㎡…지방선거 활용과 행정 책임은?",
+          "publisher": "세계중심나주뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kTE13NV9xbWxkVEdySnludWpEUkpvbmtiRUJfQnhlVG82dGRJSnNQM1FTNXZTZV9fRDc3WjA0NWk3THA5UU5SSDQ0U2VEems2bkVjWHRfV2hkWlVvQnV3S2ZGQjNpQ01GVkE?oc=5",
+          "published": "2026-11-09T02:03:07+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.073,
+      "id": 9
+    }
+  ],
+  "feeds": {
+    "gnews-ko-fusion": {
+      "ok": true,
+      "entries": 10,
+      "kept": 5
+    },
+    "gnews-en-fusion": {
+      "ok": true,
+      "entries": 16,
+      "kept": 5
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 52,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    }
+  }
+}
