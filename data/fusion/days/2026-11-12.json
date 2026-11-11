@@ -1,0 +1,159 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-11T22:45:20+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "In Cadarache, France, a tokamak held plasma steady for 1,337 seconds on a February morning, and that twenty two minute run pushed fusion's endurance record up by 25 percent",
+          "publisher": "Energies Media",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBCN1Q0emV2ME0yV2dXTHM1UHFBRS0zN0JYRVdVaW93aWJwZmVacUtoMjlfSVdfcXhXTlVpeHp2ajE4akVWcHpLb2VDMENTUzVyVTdXTEUwckR0MDBPOGdKeVVqSEg0UFYycHBvQzdxX2J1bDJNV0NrNk1R?oc=5",
+          "published": "2026-11-11T16:50:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.753,
+      "id": 0
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "A radio-wave trick from the 1980s could keep fusion reactors running continuously",
+          "publisher": "TechSpot",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR2xDM1R4WUJNUnBlRUllY3JvQzM0N1ZveWhRa2NPekNOSlhuYlJsRzRNaVNXTEJTX0JRSXJGSG9kZ3BhNl8zVTgtUGhqOEtVdjU1ZHZHQVRVX2RTNTRtSmJLVzJrM1gxNXpHV2NGVnAySjdxcVduZm5zc2ttYmlmREJSc1lEQkpOOFg0VjViaUd2UkE?oc=5",
+          "published": "2026-11-11T13:41:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.622,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주시, 인공태양 국가 연구시설 부지 확보 본격화",
+          "publisher": "남도일보",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaeFJHM0xmaFcwUS1fRDZkZ3M5NTZnTGg1RV9wc0RoRWFSLTA5WHJyb0h3MEUzYjJZRjM3TDl1NktqenEtaUpxcEQ5RzFHT2lxcWdXWkU1Q3BKZVl0SDhUWFROb0gtNzJBSVEwMdIBcEFVX3lxTE9WU3cyQ3BKSWdwcHJ3R05LQndLSG5NQU9SQjNUQkhnUVhYYUFRUE84MU9hOXpLTmwtOTBRTWk0X3BnUzhyRVROYUdobzFjSnRldkVKUTA4dUFRcU5WbTM5MENwYXlnSmpPYUhmamEtRkM?oc=5",
+          "published": "2026-11-11T08:04:22+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.388,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "핵융합ㆍ해양용 용융염원자로 예타 통과…‘1조8000억원 R&D’ 본격 추진",
+          "publisher": "인사이트N파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qS3l4SFp3X1h0bnJxb0hOc3o5RlhtbjZsa3NxbDZWRWdmamktcnBrLTJINXdrWXY3YWR1Z3ZUV0RXYWxJWEpIWHN4TDBPUlY0UVRJN0tRX2pUS3Z3YlJhQUpsZlZ0Zw?oc=5",
+          "published": "2026-11-11T05:15:04+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.271,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "SMR·핵융합·양자 등 7대 미래기술 산업화 전략, 민간 전문가가 검토한다",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lX3NSWjlMWk5ReUdPQXc1QzMzNmI0alVyYi1XMFZ3OFBjRUJfNmhMd281a3FVczgyX0hzcUNuYVVHajB3MXBOaGlGQ1hRWnlpTmp3QmdoYXA2Z0pnUkJ2U2hreUVCdGFoSWRuVzNNTXJHRlVfampxLdIBeEFVX3lxTE1lX3NSWjlMWk5ReUdPQXc1QzMzNmI0alVyYi1XMFZ3OFBjRUJfNmhMd281a3FVczgyX0hzcUNuYVVHajB3MXBOaGlGQ1hRWnlpTmp3QmdoYXA2Z0pnUkJ2U2hreUVCdGFoSWRuVzNNTXJHRlVfampxLQ?oc=5",
+          "published": "2026-11-11T01:30:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.114,
+      "id": 4
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "1조4800억 투입 ‘인공태양’ 품은 나주… 대한민국 미래에너지 수도로 ‘우뚝’",
+          "publisher": "국민일보",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xWUo5SmFBeFRCQTQ2UjZKTEtOV1ZaaUxZMXdMTFh0by1LRmlzYll0RnFXS0t4MTBhSDF5VzlVcGd6TnBCMlNDbklGU3dNUnVUN2UzV2NBSjE?oc=5",
+          "published": "2026-11-11T00:21:21+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.067,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "General Fusion Expands Executive Leadership with Appointment of David Janashvili as Chief Financial Officer",
+          "publisher": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNUi1vX3hoNzEtVnVfT0NhYXdEX0k4TTdNTU5MV2xMcHpJYWx5b2ZxNzkzMGEza25PR08teUZCb2ZERFhjTllzTzVvMXp5LWxnZFFFbU9LSG9KNjI3aGxwUGhFX1Rvc0l1VGtIMmxtOUkxQmpUR0dPc2NNT3BKcFFmYVNZMXFxWUJTMWRBREZuN0hPekxPWEQwZXM5aU1aTHRtaTlZYV9UTlM4Ry1kcDNhc09WSmNNQVNST2ZXS1JtbXJKcmtDY1VvdlB6V1dJSXdtU0lXbExkS3FFOVpxNGM1QUdVWHhDbnExQVczX1gtM2FiQzd1LW1FTEFMQ0hheGdpZUNTaEFpS0hNOGJsdFRZSDRiS1ZjVFp1ektTaQ?oc=5",
+          "published": "2026-11-10T23:29:27+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.031,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "General Fusion Group Ltd. (GFUZ) Stock Price, News, Quote & History",
+          "publisher": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QZ0t4UFo5bk9aV3ZmSWdnTVZ6TzIxdjZORzJKa3dWbmQ2TlE2VDhKT2RyeDdVRi1LeWZRTEFUUzNLU09QNE4zX185a1RJNnYzV0E?oc=5",
+          "published": "2026-11-10T22:51:58+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.005,
+      "id": 7
+    }
+  ],
+  "feeds": {
+    "gnews-ko-fusion": {
+      "ok": true,
+      "entries": 18,
+      "kept": 4
+    },
+    "gnews-en-fusion": {
+      "ok": true,
+      "entries": 13,
+      "kept": 4
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 52,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    }
+  }
+}

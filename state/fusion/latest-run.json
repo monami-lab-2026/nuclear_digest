@@ -1,22 +1,22 @@
 {
-  "run_date": "2026-11-11",
-  "started_at": "2026-11-10T21:50:06+00:00",
+  "run_date": "2026-11-12",
+  "started_at": "2026-11-11T22:45:18+00:00",
   "engine": {
     "engine": "pending",
     "reason": "waiting for the Claude Code session"
   },
   "stories": 0,
-  "sources": 26,
+  "sources": 8,
   "feeds": {
     "gnews-ko-fusion": {
       "ok": true,
-      "entries": 24,
-      "kept": 21
+      "entries": 18,
+      "kept": 4
     },
     "gnews-en-fusion": {
       "ok": true,
-      "entries": 22,
-      "kept": 8
+      "entries": 13,
+      "kept": 4
     },
     "wnn": {
       "ok": true,
@@ -34,7 +34,7 @@
       "kept": 0
     }
   },
-  "days_rendered": 8,
+  "days_rendered": 9,
   "status": "success",
-  "finished_at": "2026-11-10T21:50:09+00:00"
+  "finished_at": "2026-11-11T22:45:20+00:00"
 }
