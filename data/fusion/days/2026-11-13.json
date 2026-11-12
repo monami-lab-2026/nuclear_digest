@@ -1,0 +1,212 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-12T22:16:46+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Bids invited for construction of UK prototype fusion plant",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/bids-invited-for-construction-of-uk-prototype-fusion-plant",
+          "published": "2026-11-12T08:28:42+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        },
+        {
+          "title": "Bids invited for construction of UK prototype fusion plant",
+          "publisher": "World Nuclear News",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWkc0OGFCMVRNemMySGdPSjZTRUQtSDJlUlVkY1l2UVVaYjN5TmtWb2stNUctVTRVXzN3aFJzd0VXLXAwcElrLUE2ZHptWGdvNkotaDgybHpqNmRzNXBWZk05a3dfUTEwTUdJb1ZTU2hLaDFtdlZkOWhFZ2FYN2hVQjIxUHJqWGQ3UmpBTTlodm9BMjFKd01zQTh1eWczNEE?oc=5",
+          "published": "2026-11-12T16:20:09+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 3.752,
+      "id": 0
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "STEP begins major procurements; First Light collaborates with U.K. laser facility",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-12/article-8575/step-begins-major-procurements-first-light-collaborates-with-uk-laser-facility/",
+          "published": "2026-11-12T20:23:36+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.921,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "UK Fusion Energy launches five tender lots for its STEP fusion plant",
+          "publisher": "energynews.pro",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOE1iMEhXY1NueHlFTVBSbnRRSk9pZGU1R3RUZ05ERTgxeVB4djBSemRreFFtZGtlVThIdm14dXZKU2hXTWVlNHFLcGZzdkxjMDBIMDlsZURZMU5mb2x0SG1PNzJzbU1ZNHpZMkJUM3pRaUdaWEFfSGRlZFZlbEZfanNwRm4wQzhkWDBJM3BQZHhodklQeU5ReXRR?oc=5",
+          "published": "2026-11-12T19:19:47+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.877,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Saudi Arabia Participates in Third High-Level Meeting of IAEA World Fusion Energy Group in Vienna",
+          "publisher": "وكالة الأنباء السعودية",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9mcERsUGlOUWZ3c21wWmNLc3p2YzJKWFVaSmhKSXR4am01cjhWb08zWHQ2VFI4UEZuSEduLXNQS2lCX3g1OE5VS1Rn?oc=5",
+          "published": "2026-11-12T17:03:49+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.783,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "U.S. Statement – World Fusion Energy Group – November 2026",
+          "publisher": "U.S. Mission to International Organizations in Vienna (.gov)",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTnZtX2FkS3FGVk1WUC1PeDB0N0tHbnN2Z1dYZDUzQ0c4aFpFOFdHQVRuVmsxRkNIcUZ4STdCSnEtYk5TZDU5V2dtLWNfd3ptRkVGTDByYkREbHBLaFl6NUJFaFRfdklEWVhmRktrQ1JPUGpsZFdHVk45OVhOSGJkZVBibUpHbWlRalZn?oc=5",
+          "published": "2026-11-12T13:44:06+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.644,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Nuclear fusion reactor exhaust heat gets world’s first levitated dipole divertor tech",
+          "publisher": "Interesting Engineering",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcDZlazByX3Y0Y01mcV9BdmYwdzRkMzJOT2c4bkZnSk9RamZpRnRGV2RmbmtsaFZiQzduMl9FcXptQXFYUGp5eU00MTFLWERMZkpUc25MVHREVnhLTG9ocFl1aFZ1Z3FHUWhhSmRJMG5sdFlwcmNocEhKbVo1ZVBIeGJ0dHA?oc=5",
+          "published": "2026-11-12T12:51:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.607,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "£115m fusion plant contracts up for grabs",
+          "publisher": "Construction News",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc3N2RTlMXzZ3VWw2VlI2UTZCX2F5QTcwdGZ3ZEJ1c083bVZwQXFTaDZmbmlrSWMwakdUREt4MW4yelVMT1pSVEhRa3JrNlMxYWQ2MHRvMUFYOWZ5TWM0eDMwYUthVVFBSThzZ2p2SGtWNW9pMldiWFkyS2Y1dVpaUVg3Zy1fRnl5TzBhQmsxdUxwSXE4WUVWc3RkVFFTdw?oc=5",
+          "published": "2026-11-12T10:47:35+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.521,
+      "id": 6
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "\"미래 선점\" 과학자 당찬 포부에 '돈쭐'24시간 핵융합로 등 7色 딥테크 열전",
+          "publisher": "헬로디디",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96OG9XTjNiVVEyZ0QxSTVzVDZWMmNQd21NeGVBVlFmV3R4dC13UnVPbkNDM054Q016alBjMUdnVngwUjNlT3VUcHRGTWNHblg1RFFGaGtSOUtRT3JmNUdfN2tnSWMwa2lPMHc?oc=5",
+          "published": "2026-11-12T09:00:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.447,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Tenders opened for nuclear fusion programme",
+          "publisher": "Construction Index",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM1NTT1ZJcE5TYkl6TC10eEo3N1Fud0UyTjY2MnJ2TWtsVEw5eVA5TzY5TUFveWd4a0szMTdPMmhvbEp6VHBudmJYUzhPbXJTVU5IamtVbWJucEVjV3ZmelQzc3Vtd21IbG04MTV1TEFnU19KN2pUU0ZVbjR4MVBUM0VwY1JvbkpRT3REaDcyYnJ2aGRrNzFj0gGfAUFVX3lxTE53UEdmcnpMUzJhQVpYbU1QVGhpSXM5OGkzWlVDTHFocUt4STNrMkJvTkNWcTU5VVdrclRGS0pRajdLLU5GbjR4d09wMW1GRnAyS09wQW13TC1SeWRyVzN1ZVNVUEVlOTVObk9VN2M3OVRjNTVlVHBsQUh0U3VVSDBDWFRWek1UbHRvU2hvQTZpRGdmdkpBdlpGY24wZFlvbw?oc=5",
+          "published": "2026-11-12T07:50:35+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.398,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Fusion Energy Focus Shifts to Superconducting Tape Production",
+          "publisher": "NewzTodays",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUjNXMVBhX2UyZnFuV2J5NG0zRmdLZ09DQXpUd0xDcUFoZkhjNTNBRDMzWWZFMThqVHpsQWg4MGFjcU1IMVV4VzN1Q3czc1ZFNnltSUJTUy14QV9WSFNSOXZ5cXdud0JydC1MMlQyakl2MHh6dTlfTmJMdEktUXRJWWFmUFZBYWwtY1dNWkd3?oc=5",
+          "published": "2026-11-12T05:50:01+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.315,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Accelerators Map Material Erosion and Fuel Retention in Controlled Fusion Devices",
+          "publisher": "Bioengineer.org",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTFE1bHFLemN3OElhdTZqR3pzUjN6ZFh4a19NdUpZNmhjTmlEUW9IeEdIXzhkTkJSbHFYb0c4eVRSLTRQZkViMks4cm0xOWg0QjM3T2cwMWUza2RlVVhJQS10RHUyaXNQb200SThyQnBGdnlsbF9qSzR4WUlSWkZjYW5ESFluMFptVVlhUWlkOUg3MUZiek5icXFwWWR6RU1GQTZ4SFg2T2pBdw?oc=5",
+          "published": "2026-11-12T04:02:58+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.24,
+      "id": 10
+    }
+  ],
+  "feeds": {
+    "gnews-ko-fusion": {
+      "ok": true,
+      "entries": 15,
+      "kept": 1
+    },
+    "gnews-en-fusion": {
+      "ok": true,
+      "entries": 17,
+      "kept": 9
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 52,
+      "kept": 1
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 1
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    }
+  }
+}

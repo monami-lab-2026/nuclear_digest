@@ -1,0 +1,819 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-12T22:16:44+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 신고리2호기 IAEA 운영안전점검 완료",
+          "publisher": "www.hidomin.com",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TYVNHUFB0LTJ0WE9pMTRoUFFWXzEwcVpVaUtrQ1dqd0xic000dlFDYXB2cF95RFo1bnhnSG84eTBUYkpkeHR0WDFrUktZcHhyZWFLWE5nU2xRa3BXc1g1cnJBd003V3FyR2c?oc=5",
+          "published": "2026-11-12T07:00:41+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 신고리2호기 IAEA 운영안전점검 성공적 마무리…‘아시아 최초’",
+          "publisher": "에너지플랫폼뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaOXFmQnl1bEJpTl9jOUxONkNsQXk2Zjg5TklKZk1yblB3N0JZTDM0a3hZYjFnakIyX2RQbzZTOERUTWF2aWZub2h5b0d6RERiNFFqQUZlcFRkWDBtQktPdUJxWEwxWUdBczN6d9IBcEFVX3lxTE9GMi1RbTdnSXE1Qm5ybXV6QlJtNjk3NjNKSXZvN2ltVFphVTJJektZVTNrQnZSUkpmdnN1TE9uVzY1NEtVTnBHT2N4OHhPRTMxWERfNlFOVmdNRV9UUHRmdjdUQWlsQ1hRdDg2bEJiSGc?oc=5",
+          "published": "2026-11-12T07:28:36+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 \"IAEA 주관 `신고리원전 2호기 운영안전점검` 성료\"",
+          "publisher": "국제신문",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS2RHTlp1NHNheWdFQlBoYjlZMmVyRV9ucUxuaThKU2E0SDdieXBIZ3JPZFdVVl9FLTNSdkxMZWJhUEp3LThYREtFLU9GdFl6amhyNmVLSGhJQ1AzeVlxTG9YSlJfdGc5LXhGLXU4Z0NSOWlIazNyZ1FBVHBVeU1LX3ltUGhPU1Q0UDZicWpR?oc=5",
+          "published": "2026-11-12T07:29:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 \"신고리2호기 IAEA 운영점검 마무리…아시아 첫 정례화\"",
+          "publisher": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90dXBKZ3FwWlpWT2tJUVVkNEpiV3lwa1BZX0psWFZUREJpcGI5YThGSEVrLXpwRDZRRC12azhBSlNDSkwxSWpOUlFOTTlXR09TNW44RllrYUlZeEV0NjBFam54cXczakk?oc=5",
+          "published": "2026-11-12T08:24:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 \"신고리2호기 IAEA 운영점검 마무리‥아시아 첫 정례화\"",
+          "publisher": "MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vNXE2MVVzcU5KdHJfMTZpdHRsamUzbUd3R1dfY08wSV8wcHhQdFI0Z1NhY0RSVXlFeDNLbWNWTE1YS0xSYU1VVEJLdjZ3eDdRZFkya2h1U3VoVkQ0Mm10dEdhV0NtVERpUkNyVXdBeGJrZEht0gF0QVVfeXFMT281cTYxVXNxTkp0cl8xNml0dGxqZTNtR3dHV19jTzBJXzBweFB0UjRnU2FjRFJVeUV4M0ttY1ZMTVhLTFJhTVVUQkt2Nnd4N1FkWTJraHVTdWhWRDQybXR0R2FXQ21URGlSQ3JVd0F4YmtkSG0?oc=5",
+          "published": "2026-11-12T08:47:13+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 신고리2호기 IAEA 운영안전점검 마쳐…4년 주기 정례화",
+          "publisher": "경북일보",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KYXN4WklVVm45OTlqb3FTZmJOM0luZExmR0RYRGg3X0RKNGlrU19MMWQ5TjFNci1Cb1N5Wno1NDBWWjNSQlRMZzRBRk50LXVnMkM4c09rdGRpVmZaZ3l4b0VqSlE2SGRnbFZzLVc5RQ?oc=5",
+          "published": "2026-11-12T09:26:44+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력, 신고리2호기 IAEA 운영안전점검 완료",
+          "publisher": "로이슈",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iV0tzMmxpT0FYc0FJWGExTk43YnBRa0xtQ2hwY2FoVkZBdU04RVF5cjZFU1NhZzRSRFdqYVpxMUxfdE5SZVgyWUM3clpYTGdHMlVnRkY0MFVBQXBuVHZiQ0I1RXRVR3l1bDk1SmExd1V6QXRUdDVtbEt3?oc=5",
+          "published": "2026-11-12T09:32:58+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "신고리 2호기 “IAEA 운영안전 점검 완료”",
+          "publisher": "인사이트N파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwa0RuZ0JYeEZhQ25jNm9NelRvdHJvbkY1Zmk2MEt2djVpcVFFYUtfN3VqN1RrYnhSM0pWYjQxN3FpUFVwdVBYRzAyQm1ITUpHWUo4TnZCZG5sM0g4MC03aGRTRnNGdw?oc=5",
+          "published": "2026-11-12T14:32:15+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "신고리 2호기, IAEA 운영안전점검 完...4년 주기 정례화",
+          "publisher": "에너지신문",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxM29zSGJVaUtVeVp0bHJ4SUFWcjNmLUFnSWVxV1lpR0x1eFI2UGVkR1ZWSWxTSy1OemRpUzBqWXJFZy1rMHFZLTVrQzRXM3JtN2NrTFhzYlN5SV9oQTRpZk8wVlByZ3otYW10V0pZZnU?oc=5",
+          "published": "2026-11-12T14:45:56+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.687,
+      "id": 0
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Türkiye, Canada sign deal to assess CANDU reactor technology for new nuclear power plant",
+          "publisher": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTVlSa05nT0JrWTlnOHVmOU9Xc3hnZncyNGNxUHpPWExudHdPUnlmSUxlelZaWmsycVZfbFlDb0x3VUNPNlpBYnpGczBFOFlBdjNkWTV3YjlIcXZyUnc3aVdXUkNsM1M4eTNUUjdFZERSRkxWRUNEd04xVWlZa2QyNVRxSWhjdTQxYXJ1X2wybkZqWGJxeDN1cjM5WXJnQVZMMlNlRUtmNEpidS1FUHNIMHR6VU5ZbGRMdjhiMVJOTjhRLVBTSVZv?oc=5",
+          "published": "2026-11-12T07:50:22+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Türkiye, Canada sign agreement to evaluate CANDU technology for new nuclear power plant",
+          "publisher": "İlke Haber Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMXQ3Z2syTC14RzFVRkJNZGxfa0tlRVpBX2V0bDd2MWR1Y1YyNEs3cEcybkhiTkpuOVowaG1udXFLVl9nQ3NMZVJ4VWV2OE1tTGRyWXNwbU9xcVExNWU3aUZ0RWpaa1RSVEstMVl5SGJhalZLelBzNmZpVVRadUFpWVVLbnVGSG16aEI0RExuTFVlSFMyMzlVTklEUTM3aTJybnpSd2R3bXBmODlkZUhKNzNIVElVbWZxcUNGdUR4ei1OcUNT?oc=5",
+          "published": "2026-11-12T11:44:56+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Türkiye, Canada sign deal to assess CANDU reactor technology for new nuclear power plant",
+          "publisher": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdUdLM09qXzZ6aFhNYjRTQVJ5X0hBbVctMm9RRTFOM3VscWF3OG5DemZCc2pJMVROcXBpX2xXd2lTeVNTM2hITTRJSTJ0ZzFxZDMtNm4zME9wMUFSeUpzZV9PVnVjdUM0cWF0WFBzOVBhalFSczI3b21haFBFMWVfQ2cxMzJWNU9HTWtMbkZYYVJzaml1alFFSF9NWWpaRVdTNGdYeTB3WTUybXJpd1ExbjZ4cl9fdGUwWk5scExRN1V2eXlqV2lhMDlMLVhuUdIB1gFBVV95cUxNOHFBdGw2UjRET0VqbHlUOGZhM2hKeFFlS2xRbWRkYlYzYk9YdXRjMmQ5dmJqZlQzeHB2cV9VbW9BSWQ3RjhyaVU3cUx0SnpLbEowOVZkRzE4TGk1QmczMnhUNFI5UHozQjR6eDR2UFdCeks1eHlycFNtemFneFI0cW56Ri1FbjgtQ1p5ZWdkVE9ZR296X2FKQ2dwbnhkY1k5ZUJodGJDbkxFVEpfbkxDR25mNDRteVNfUk1DWDFLd1hiRmlWcjVJLTM4a3pBMnZiQ3JUOTB3?oc=5",
+          "published": "2026-11-12T14:01:05+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Türkiye CANDU reactor deal for potential nuclear plant | America News",
+          "publisher": "Yeni Safak English",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSGk0aDZVcnZzajlhRlRFbS10TEI0Q2ZURWx5cVdSLWMtUjBZV1J1WDNCZE5XdTNmV2R1dTdsZ2FLYTBYd2NBRFkzdVBna3hpQW50WndHQ2ZmbWl1YUhUdUhtVnFvdlJoZnFIWVVxaXNENFhzOUUyamF1Vkw4ZEFmTnJUeDNyd0g4Zll6b19pajR3THRfLVE5bQ?oc=5",
+          "published": "2026-11-12T14:06:35+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.66,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Türkiye, Canada's AtkinsRealis ink deal for study on nuclear plant | Daily Sabah",
+          "publisher": "Daily Sabah",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORmZjUEJWYlhScE12YTRPQjdLU3RYY0NvQl9UdV9wQkRPQVJCdW5UVUFRbHdPV2kyWm9fY3VwMDJQZC11UHFGcEZhZFI5QkJXdTVBbU9yVENqbFVqNVpLQjVLTExLZTZmZk9pOVF6Tk1yZm0tR04zanZyc0szeGhkTkx2STVkb1JYNGp6bW1XYWlZQmJ3aHdKTVI5UHVtTWkwMWRQcFNuX293ejTSAbABQVVfeXFMTzd2NmR1LWhMVURJY1IwRXRfNFVwclNVcnBhQzNwZEE1eFN3azh0SGl1YURlbjVNbDBWbHlPUzhtUk9hb0xnVTJ6V1Y2emVfdzBwMU1rZ1hTbGxvckNHUldXQk5QaF9wdTZrMzFqT3hmdnExMnNMeFc3WGVneVgwbGpfWjl0VzZTd3FEVGozcjVkN0c0M3doN2owZzkzN29IZVVVV3ZOd3h4V1JZUW9MdHc?oc=5",
+          "published": "2026-11-12T07:25:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Turkey, Canada's AtkinsRealis sign deal for study on possible nuclear plant",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdnZ4VTI1S0pTU0VMc3RaWVNnSEtFRXZ1YzNpWjhnbENOMkJaVWtqUXdKUi1wakdaeVBKdmh0RU5fNnZOMG5LX0pPel9GcllmU3NST1AxOHRPaUszdUFJTlJPVHBGSFl4QUZXenh2aC1VUDJ1b2ZUS0dBYzFZUFZlUnJVS0hxZ0lqQkoyZS1qTjJOdDd4R2RhcS1aVVBNV01OZDNpQlV0ZUhRWklXUGVVb2xlYWNfUjdYVHc?oc=5",
+          "published": "2026-11-12T07:30:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Türkiye, Canada’s AtkinsRealis launch CANDU study for new nuclear plant",
+          "publisher": "Türkiye Today",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVnpmaVl2ZlFBUmhCbnJuTkdZSnRDc0pxREZVQms5eHJ6Tk1UWV9uS1IwWEJDdVY3b3oycEE4OHlNbXU0cTFHejFQdkl6aTJVaV9BNEtfUWUxUFd6NHhFZjZEODFBNU1YQ2VCTVRWRDZBZTVvWnF4TVphSjdWeERUR3pQbTFRc0xmYzI4bDF5UU1fbDJqMzQ3aHdSWWtNZURfMjA2VVlKUkU0ejhSOHZsUkl3N3pSQQ?oc=5",
+          "published": "2026-11-12T08:22:15+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Türkiye and AtkinsRéalis are studying the construction of a 4.5 GW nuclear power plant",
+          "publisher": "Inspenet",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KSUpxams3ZlNJbkl3TGUtTmRJdXNSR0JaMmtTeFNXVGthQ1ZEYXI5a2UyOU1iQ0JWa1FoV0F3dTBRMUNXRndVSWQ4X3RoRXVVRVdfaHhTa0p1Tm16OEJJZm9RT180aTJsc2x1TWZraHFKcGVOajdTenduV0E?oc=5",
+          "published": "2026-11-12T14:05:51+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.659,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 신고리2호기 국제 안전점검 완료…아시아 첫 정례화",
+          "publisher": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNNHM2YmpHa2RlTkRhaHZ4NVlqdVNZX1lZUEJ5VXN6ZWNrNTlkUU5zZUl5M0Nha0xQSEVHNGRsWGlzTUZqWmMxTWJOWWR0c21fWl9HUWsybTlRMExuYjQxeVVWWmdrdXhkejdnRE9Uc0hISlZBdy1XTkpENzEzbHRPWTU3OEhsVHc0aVhlU3R0Q0NuQTlPUm92QmItdXRuaThZR0NVMXRiaVZnT1RBZEQ4ZmdEU2l4TUtNU2RLOW9WUl9jcnk1UDZZMmJJSlk4M2lDTk10RjlMNVpFaHZxYWF5X3VLUEdzZ2lzc0FQSjhWOXNfbzEwdlF3NmNGN0dHSEJYN1VUcFV2STM5czAyRFBhMEFIR0tkZ0Yx?oc=5",
+          "published": "2026-11-12T05:42:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 신고리 2호기 IAEA 운영안전점검 완료… 아시아 최초 OSART 정례화 실현",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFByLTJnbkNDYlh3dXY3YVM5c1FnOXdGZGtBMFdhTVFPelBzOVpvdXZzcnV4Q0wxNE9HNkFKT09ONU9UR1QyNFI4RXM2NVk2ZnFkckYyWGwxZ3VxVGdzYVgtNGFQN3RUUUgyZE5IYmVVdVlvUQ?oc=5",
+          "published": "2026-11-12T05:56:45+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 신고리2호기 국제 운영안전점검 정례화",
+          "publisher": "국토일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WZ3dYQWZjSlV0Yl8tT3VZU1JrVUhRNTdWTGhIbTRKcWVHUjdYSUpRMGF3NXJSdXhDVWpLSEVEblJwSHl3NG02QWFIeS1nWVhWc3diYW81aEdXWWRrTk00RHdOV0M?oc=5",
+          "published": "2026-11-12T06:21:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 신고리2호기 IAEA 안전점검 완료..아시아 첫 정례화",
+          "publisher": "한국정경신문",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjMm5wTHVyeGp2dFdNVjZmbWRLSWY4dGo4M2thR01YX1ZlQndYNkpiR0VtVFZKS0EyakxhYXptUWNoRE9kT2hIUWhhSnhVdnIzTmc?oc=5",
+          "published": "2026-11-12T06:25:11+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 \"신고리2호기 IAEA 운영점검 마쳐…아시아 첫 정례화\"",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nbDRBSEVEWGIya2tvZnRCNUltMkg3c3FSbktkMjZhbEpVNWRBczRfVThwakxqRVhPcWF5NlRXZmF2dGZVQnlaMXUyR2JuMkdrOXFiRHpsLUxTMU0?oc=5",
+          "published": "2026-11-12T07:16:20+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 신고리2호기 IAEA 안전점검 완료…아시아 첫 정례화",
+          "publisher": "시사매거진",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwd2s5ekhSbS1wSnBKa1RLcEVzUmpwUmxwMkZJOFdNaUYyNzNhTVZSalBNTG9OalJjYW1QUE9ydDV6U28xcmZzaVBPQlhscXJUSk93dmtXNU5fX2ExUjZHX2tB?oc=5",
+          "published": "2026-11-12T10:38:48+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 신고리2호기 IAEA 안전점검 완료 … 아시아 최초 OSART 정례화",
+          "publisher": "워크투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RN25CY1IyVGFxUF9LLVhjb0NiVWUwTF9qRGlDeTlLd2xIVk9BVXJCMDlhN0tvQndPbWt4TWhVUHhHNXpJbjlfdy1xc1BjODJHUzBtUU13UzBLaHVWUjNUTkZfVkh5Y0lQLWR2bw?oc=5",
+          "published": "2026-11-12T13:29:13+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.634,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA Sees Commitment to Operational Safety at Unit 2 of Kori Nuclear Power Plant in Republic of Korea",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/pressreleases/iaea-sees-commitment-to-operational-safety-at-unit-2-of-kori-nuclear-power-plant-in-republic-of-korea",
+          "published": "2026-11-12T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        },
+        {
+          "title": "IAEA Sees Commitment to Operational Safety at Unit 2 of Kori Nuclear Power Plant in Republic of Korea",
+          "publisher": "International Atomic Energy Agency",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSm1XZVl1QlBOWVVNaVJ4MzNaTk1RenN5STI2YXJ0VWpBa214VDVFcDRwMDE2Y0ptbV9zWlVlTDlKT00tTU9PRktfT1QwaUlrd1RHZWVxUzFrUk00eUx1RmNJNUZZUWV0X0pRY3dqRHFhVmczSE1meXF6Q0tDcnF0Wkd2OHlKRDBVejM3RG51UEtVdDlObzVXdW9OZTdxWFg0NzBtcGpad0cyaWJUWlI0UEN0b2lxQWRCUklicWxWOUhFNkFETk9QeDdjVFZQaE5hZUk1dVkyOHpuNTZkdlhQbA?oc=5",
+          "published": "2026-11-12T12:44:27+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.603,
+      "id": 4
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 제주대와 청정에너지 협력..그린수소 기술혁신센터 구축",
+          "publisher": "한국정경신문",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wbzB5czlWR0N6OGRvUUdieFZBSUNacjRmTHc2RlpmSGJneW1rTjM3ai0yVnl4UjhadEtSRkVCM1JDeXJEWC0ycnBidUlXX09oLWc?oc=5",
+          "published": "2026-11-11T22:56:51+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 제주대에 그린수소 기술혁신센터 구축",
+          "publisher": "에너지타임즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHWlBTLWdSelNEQ3RnRGVXeno1YXZ2aFFPdmdNUnJXbjM5V1hRenRxQ0hGRzNpOVZxMUxRck1valh5V3lGR3BYbE53b2YyeHNLT2Q2R19SMG1EVzlHd3hUT04zU2FpOTI3VV9ocA?oc=5",
+          "published": "2026-11-12T00:33:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 제주대에 그린수소 기술혁신센터 구축",
+          "publisher": "경북매일",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJbXUzamJtUXhmZkJJZWdKNVNLLWU2TlE0Y1Fid01ESkMzTE5CQ0tzM1VmUS1oV0VDYngzZDRHYmpGV09jWmhxdjl0U0VETGdlS2piY3pRTjliZw?oc=5",
+          "published": "2026-11-12T01:05:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 제주대와 그린수소 기술혁신센터 구축 추진…생산기술 실증 기반 마련",
+          "publisher": "브레이크뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1tZFVfQU5aNF9sYVpndW92dF9lZlI3T1VkbjlKVTlTTEJBMld2ZkloVHJiS0FvWTM5amExTzlOV25VQQ?oc=5",
+          "published": "2026-11-12T05:06:11+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.284,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Constellation Q3 updates: New Peak+, uprates, restart, midterm elections",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-12/article-8576/constellation-q3-updates-new-peak-uprates-restart-midterm-elections/",
+          "published": "2026-11-12T21:25:21+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.964,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "STEP begins major procurements; First Light collaborates with U.K. laser facility",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-12/article-8575/step-begins-major-procurements-first-light-collaborates-with-uk-laser-facility/",
+          "published": "2026-11-12T20:23:36+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.921,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "University of Manchester develops new methods for treating radioactive waste",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-12/article-8574/university-of-manchester-develops-new-methods-for-treating-radioactive-waste/",
+          "published": "2026-11-12T16:55:10+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.777,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "AtkinsRéalis producing study for six-unit Candu plant in Turkey",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/atkinsrealis-producing-study-for-six-unit-candu-plant-in-turkey",
+          "published": "2026-11-12T14:05:57+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.659,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NN Asks: What skill matters most for tomorrow’s nuclear workforce?",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-12/article-8540/inni-asks-what-skill-matters-most-for-tomorrows-nuclear-workforce/",
+          "published": "2026-11-12T13:46:27+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.646,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "First steam generator installed at Lufeng unit 1",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/first-steam-generator-installed-at-lufeng-unit-1",
+          "published": "2026-11-12T12:03:39+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.574,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Mochovce 4's power increased to 35%",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/mochovce-4s-power-increased-to-35",
+          "published": "2026-11-12T11:55:18+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.568,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "US test reactor cleared for operations",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/us-test-reactor-cleared-for-operations",
+          "published": "2026-11-12T11:30:09+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.551,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Bids invited for construction of UK prototype fusion plant",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/bids-invited-for-construction-of-uk-prototype-fusion-plant",
+          "published": "2026-11-12T08:28:42+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.425,
+      "id": 14
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 아시아 최초로 원전 운영안전점검 정례화…신고리2호기 올해 재점검",
+          "publisher": "뉴스퀘스트",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hbC1ySVl2VzgzMENuQTdQUjJpVHhvMklXd1RVZDdJMk9iQk0xUFlzQlhSZUQ0dXQ3NFA4dFJtUm8tUW1RZEswZjcwcTl4Qmt3YkVoaXA2eVdFaVBLS1F0aG5FeHMtX2J6TWE5WXlVZw?oc=5",
+          "published": "2026-11-12T06:06:45+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 아시아 최초 IAEA 운영안전점검 정례화⋯신고리2호기 수검 완료",
+          "publisher": "이투데이",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0yNHBqOTUwcFBZNVM1aTI5VlRhTjFQWFhzM2pIMkZFaWVSaVNvOG9PNnpadmR6dVM1c2RVRVhrYjZ0Tm9OcWxqMEFfVXdUU2dEOXRrZA?oc=5",
+          "published": "2026-11-12T07:08:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 아시아 최초 IAEA 운영안전점검 정례화… 신고리2호기 3주간 점검 완료",
+          "publisher": "지이코노미",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SSTVEUkpXZkk3Q3hwN1dUT0ZISzZBTVl2NjRxZUNEMDZiQUFVSlVYREdJbGR0dzE1S1psU3FDN0plYVlUSi02U0tkSl9sNE9oSEpIS2h6SG4yUThfQ2xQTW5TR19PdkU?oc=5",
+          "published": "2026-11-12T08:26:52+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 2.424,
+      "id": 15
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 아시아 최초 IAEA 원전 운영점검 정례화...국제 안전 신뢰 업",
+          "publisher": "산경e뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGbHFIT3Q2UjVQZE81NERSaFNPTEp1a2liczVUWGEyVUF4MUk0T2dfUVNJUml3UFBSYU5UZHJNX1NMTW1BdW9FYnhxd0RUM1h5OVpNZ1EydDB6ekhjYjh4bWV3aW11Y1E?oc=5",
+          "published": "2026-11-12T06:04:15+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 아시아 최초 'IAEA' 원전 정기 안전점검 정례화...안전성 강화",
+          "publisher": "BBS불교방송",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wYkxQbi1WUTNPNXZzcUJObjdVa055STZnVVVubkxQMVM2b3VkTjBBX3F5RkE3Z2E5bFZjMVBLWk9vNTNlRVBZOXRHQ1B4SkpCc1RJU1p0ZDkyNXV3Q3NPM1Fqa0Y4QzJVVWRv?oc=5",
+          "published": "2026-11-12T06:28:39+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 아시아 최초 IAEA 원전 안전점검 정례화…국제 기준으로 안전성 높인다",
+          "publisher": "뉴스투데이",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42YWRuUVRmclNtTkZaOVhybmhSblUwbVBkRUw1UHhuUHFfMWFQZVhiWDR5NllFTkJkNkY1a05vbFZucUVIeGxTQjNlUzBXSUhjeWRrYXpVS0RLdGhiUEE?oc=5",
+          "published": "2026-11-12T07:37:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.389,
+      "id": 16
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "World Fusion Outlook 2026: AI, the US $80 Billion Financing Challenge and Future Deployment Scenarios",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/news/world-fusion-outlook-2026-ai-the-us-80-billion-financing-challenge-and-future-deployment-scenarios",
+          "published": "2026-11-12T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        }
+      ],
+      "score": 2.072,
+      "id": 17
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Dairyland Power explores new nuclear plant at closed Genoa site",
+          "publisher": "Milwaukee Journal Sentinel",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWEwtU3U5ekVWRU1qSGJhSnNVd0M5R0tzUGdnZjJGLWdCSWdZVFB3bGdvVmtPYXlXMkxhWjd0UmhnOGFYc09XazFxckdxRnhrUlJqTXZyN0ZVUXV1dzR0c2FmYVBfX2YycktWRTJkczBzY0lHQlVwUW1sUFdWeGtvTWl3VU8ybUF3Si1iUExVa0x0M2JreWtMZkVHakpHUUtQUWhEVkcwV1NaaGltYWM0ZHpn?oc=5",
+          "published": "2026-11-12T11:01:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Dairyland Power Eyes Nuclear Revival at Shuttered Genoa Plant",
+          "publisher": "The Heartland Post",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaWlBbUxnU29NeThxMzF2Q3g5QVNzcHpxWTQyQ1ZIWERDRE1GQlAtWkNtUFNmMjl5TGpxLW53dms1Mlp4Nl8takRzMUhqMFh2WjBPNUhGcVZNbGlzeEgxdGZ0MjdjOXFTYkNMck5Mcm96SHJTRHFsamdUVnVyQkxMMThDMFNaWjRiRWxNZUJOWDJMdw?oc=5",
+          "published": "2026-11-12T20:59:09+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.946,
+      "id": 18
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Government to train more than 2,000 scientists for nuclear power transition - Finance Minister",
+          "publisher": "MyJoyOnline",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSDhMTzNrY0pBWXo3cEZDczBUNFkwR0xobVVDRmhsVHc2X2JnY1czbzhNdElrU2JpTklVaE1wWlFOYUxiWXZ3WUl3UHVsbDFPRDRMQmVyTHd1TktVZDBTUkJzeVZsMkpxcFJ2SjNLX1JBXy1ELS10QTJCX05qcFM1X0tMYjZXUjRONHZLUlM2d0lRWmtNNFU4NU80N0d6X3ZHSGlwMzVaeHdrT3ZmTTR3eC11Q2kzMjBXeEFkYw?oc=5",
+          "published": "2026-11-12T19:28:07+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Gov’t to train over 2,000 scientists for Ghana’s nuclear power programme – Ato Forson",
+          "publisher": "GBC Ghana Online",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIcGp4UFNXNzBfLTNjMmgwZ2lNeWxXMWVvcU50a21STUFFamFjMXZlbHQwa3ZJdnZMb3E0bjl5VUkybGlSYTZLSTU0TDVxUWZFZ1Q4YVB4dUdQMEpWd2ItOGFkUTRZOUlnN1hSNg?oc=5",
+          "published": "2026-11-12T20:13:07+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.914,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 노사 공동 비전 선포 ‘노사가 함께 만들어가는 세계 에너지 시장의 미래 리더’",
+          "publisher": "한국전력신문",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5NcGE0YTd1SnQ4elpPWE5xYTJzMEpJOWFTdVVXaVJOd2hMWjV5TDhtN3o2WWJJOE1MSmV0QTJWaV9GU18xZzRaaDMxMEx3cV94UXhnY1cxemRXQ3dtcVRLSGhRS2hDMGFiY0E?oc=5",
+          "published": "2026-11-12T13:01:16+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 노사, ‘세계 에너지 시장의 미래 리더’ 공동 비전 선포",
+          "publisher": "인사이트N파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjRmptbXpqbFJoMXpOMklKZEtpT3RtSGxnZUtmQ1BVUWxxVldXWjZyVkhnSjJFY05tQi1GdWl0bjlYdVZXMENWS0FONkliQjdyQktfSFd2QlA0bHROQ2lHYVNqSV9QQQ?oc=5",
+          "published": "2026-11-12T13:25:45+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.631,
+      "id": 20
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 전통시장 살리고 이웃 돕는 '나눔 장보기' 행사 시행",
+          "publisher": "일간투데이",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ibnJvQ0dwZ2VkcEtIZndEY3A4SDBFTEdOTnRzR2F2M3BOTGI0ZEdIOHR3WndwYlFiZ1BEc3RnbnNBRWZyRzdTUzdaM0RLM0xKc2dtNnRPT0V2ZEw4TVpkdkY2bkhZcEVmN3dv?oc=5",
+          "published": "2026-11-12T00:29:57+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 전통시장 살리고 이웃 돕는 ‘나눔 장보기’ 행사 시행",
+          "publisher": "한국전력신문",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56RzMyMUJjbDN3XzVpclB1UmlBU1ViMGkzbnhJU0pmZ0dhN2Fmc1JJUlZBSkw0djdYZXJBX3MyZ3Bnc25JYWd2YWt5NlYtTmZnZlY2Y1UxYWU1WUdLZlU5MmlST3dkUXY5dmc?oc=5",
+          "published": "2026-11-12T13:13:29+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.623,
+      "id": 21
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원자력연구원, 말레이시아 원자력 도입 지원…인적자원개발 위해 ‘맞손’",
+          "publisher": "에너지플랫폼뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43VVpvZXNHLXd3RkMtYmJSTXpwaUI1Skd2LXl5X2syTDJpZl9rYVU2SkpzS252eDFvOTItTlJJVzZLZ2ZaZV9SemF5OHdabV9fbHVHcVRkUU5BNmFRV25sSDBOVkpxNXItUUtOd9IBcEFVX3lxTE52dXVnOTNCSjR4azZzLWdtdDloUkp0LUVIV2hZR21mbEcwaU4tbU1JalByVV9SSzZqQmlKYUl3dUxhOExFMi1lcGhCY3QwR1pqQXVvZEhjcVFTcVI5T01sQzIzMDMxLUJQWW4wOW1TdEg?oc=5",
+          "published": "2026-11-12T01:40:14+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한국원자력연구원, 말레이시아와 원자력 인적자원개발 협력",
+          "publisher": "한국전력신문",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qcFpPc1Y0cUw4OVRhdklKSXZfZ0pXbHp4cldTdlJiMGd0dFA4a3d6SzZHUzNoQkxibHc3bWdGUHZ4cHAtUWk3Q0Z4MVluRXBpbWo4T3J6aGZuSDRnbi03ZFQyOXZNR1J4clE?oc=5",
+          "published": "2026-11-12T13:02:56+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.615,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "경주 한수원, KSPO 따돌리고 WK리그 챔프전 진출…수원FC와 격돌",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05LWVHWWowVW1ManBkTk1IcG1PVWhXbF8ta1dlS2VvN1FUT0F2cWJ4THBsRERHY1g1QkdadHFRX3JQNUxjNkVmczM4QTVrSF9uUDVEcTEyYjAxMmvSAWBBVV95cUxPQ2UtVnFQY3NQU3NHXzk4RktaaENsS285SDNNT1REM3NIZ1o4ZTVPMXRfT3M2b0VsYUxRczdrSzVfd19ESWhZR200UGJqekhOTzZXRURhaml6Z0o1WDFXSDM?oc=5",
+          "published": "2026-11-12T12:22:56+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "경주 한수원, KSPO에 2-1...수원FC와 WK리그 챔프전",
+          "publisher": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EUWc0cjFTTUhXUEVLRHFTbkVRUG9XQmhMYXR1ZnNPTUVsNDZwZGJESGlKeDB0RHhkRkFuVW9zMUQ1S3VQU2U3YVg4Rmx6RUc3RnRYRk9nU2Yzb2ps?oc=5",
+          "published": "2026-11-12T12:54:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.609,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, IAEA 운영점검 정례화...\"원전 안전성 강화\"",
+          "publisher": "더트래커",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MZ2lNTXFZLVlMYmR2azd6YVVuLUM1MTJJeGlBS1ZXSDFheW1NSWgwT2RNTUhlaFVMTmk0ZkNpZGtSWUxRVFZjTmNieUFLb3lvcUQ5d3hXb1I?oc=5",
+          "published": "2026-11-12T05:50:44+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, IAEA 원전 안전점검 정례화…아시아 최초",
+          "publisher": "비즈트리뷴",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FSXFXT0ZYOFdWNGZacTRpdlBKWmhGLWZ4Nk5RY1JmWTd2WGJvSjJlOE00VnMxOHN5a1NlbWxZbk5Jb3BkTWZBYWhLODVPMDhYSUhMSFB5ei1aMTRKV1JVUWwwOUNEVHNmMjMxWloxbVM?oc=5",
+          "published": "2026-11-12T11:54:49+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.568,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 제주서 ‘그린수소 기술혁신 세미나’ 개최…산·학·연 협력 네트워크 구축",
+          "publisher": "에너지코리아뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GNG5VekQ0WGtNQVh5cl9yQmtvdjNkd3I4dThxT0c3RUxON3ZaNlBXQzdHTThHLVlnLUNRZDM0emFsOWZ5WjMtbTIwdm1JZzRBSHZhQXp2TmptekR5bl9mREZVc1lNRW9sWjRVX3JuUXE?oc=5",
+          "published": "2026-11-12T08:55:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 제주서 산학연 그린수소 기술혁신 세미나 개최…50여 기관 참여",
+          "publisher": "뉴스퀘스트",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fOGdYSVNOYnNBVnhoeEVjWGJnTkFFVDVqTFVUeExjc0F5eklWb0FTdjJpNkNpN1NOdmZWMW5oZUo4RE0xR3p4UlRyVU5aaTNMREdQRVh5Z3BtTmloSnlQVHVwTFQtS2V1V1l3c2p2TQ?oc=5",
+          "published": "2026-11-12T10:59:42+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.53,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "김정관 장관, 팀코리아 체코 원전사업 추진현황 점검회의 참석",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIRTZ2MUxiUG1Bdk9RWVIzUHVQeW9NSzVqWWtqU3N4cDZvVFlXaThOT3U4UmgxNlNoS1VXT2JSVHdlWWM0ZG13UVcxMUsyLVFSS2s1MjlPLXplSkxfSHIyWdIBYEFVX3lxTFBIRTZ2MUxiUG1Bdk9RWVIzUHVQeW9NSzVqWWtqU3N4cDZvVFlXaThOT3U4UmgxNlNoS1VXT2JSVHdlWWM0ZG13UVcxMUsyLVFSS2s1MjlPLXplSkxfSHIyWQ?oc=5",
+          "published": "2026-11-12T07:24:29+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "산업통상부, 팀코리아 체코 원전사업 추진현황 점검회의 개최",
+          "publisher": "서남투데이",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40THBCZ2pUUWxaRFM5R3NqdkNIREVEYU1reVg0VHVreG1ZblhpQUt2MzJpS00weEJ0T2FzNW9vejRYUFhCVkJnNXRnSEJOSnJMczB0X1F0WFQ5QQ?oc=5",
+          "published": "2026-11-12T10:04:44+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.492,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "동남권원자력의학원 간호·간병통합서비스 우수기관 선정",
+          "publisher": "부산일보",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96eEhYQ3dSR2VTX2RRSHBqUTUwZmExa0luQ0VDTXNKb01XR1FxQ1BPTjJMbC13UEtMcjFEd0lGak81VE5ZR2VtbWljMWJvN1pELWsxSGRENlltRmp2V2s5N1ItdHdVYTJDbXRudDNJVzlCNzh0?oc=5",
+          "published": "2026-11-12T09:13:31+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "동남권원자력의학원, 간호·간병통합서비스 우수병원 선정",
+          "publisher": "프레시안",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiNnNMLVhzUXIxTHhSWkh3Zy1EMlg2VXdaUlRIT0hrSXRTX1VQRVU5MHg1MzhVQms5cEFKaVRlbFM0Q01rbHMxNGozY0N3RVdvQzYwS3RTMkkyVE1RcTF0U2lXU0VwQzlCbnlJ?oc=5",
+          "published": "2026-11-12T09:52:33+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.483,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "신고리2호기, 4년 주기 IAEA 안전점검 완료…한수원, 아시아 최초 OSART 정례화 달성",
+          "publisher": "에너지코리아뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQV2U5RWhZeEVSOVVNanlPdVhDVWp4ekIxTEZZbzVQR254VU1CV1dUdGJ3YUJtcDhkbTQ1cXEyNmdJQWFkN21nMmtXU243Ti1rTm16LUd4TVhnbzBiUHl0ZWIzVF8wRHRIZDZEMjlMUGU?oc=5",
+          "published": "2026-11-12T06:15:45+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "신고리2호기, IAEA 정기 안전점검 완료…한수원, 아시아 최초 OSART 정례화 쾌거",
+          "publisher": "에너지코리아뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94VWgyVWJPaUphZGdWOXBJZkR0ZTdvSnVJcE1MSkgtXzFOWWJkZzczdGJmeUJyS1FyOTVQeDRlMjNWYjhGQUJ0aGFnTkplMWlPb0htNmJqTzdWYVpEa1JrWk5BT3p4V3M3S3IteDRlVHM?oc=5",
+          "published": "2026-11-12T07:42:12+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.393,
+      "id": 28
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "경북도, 국내외 석학 5명 참여 SMR 국제자문위 출범",
+          "publisher": "경북일보",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6U3ZhUVhTZFZ4cDFxdUNYNWdIbjJCMktwUnFaYU5lZk5Lak52ZXFQYjZ2WU4tX2tFOUl1SG5HaHdNZGRqWDA3cWk5UnJWYWF1QTVwc2MxTlZETmpjelRPUUlheG5mUkNfMFJMQ2Npdw?oc=5",
+          "published": "2026-11-12T07:21:28+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경북도, SMR 국제자문위원회 창립…\"세계 석학 5명 참여\"",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ySTd0V3lubFc0TWx4aGJkSEdCOHZUb1VKcDQtbkMtbHNQWHI2ZHcxb2VYSDVsb3c4NlhMclJROGUtYm9zWENTYmRZQVAzajhjdXY2cTdLNGh0aHpVX2N0VGRldnRkVGR5aURqbGRxbS1xeGt3MVlMedIBeEFVX3lxTE9ySTd0V3lubFc0TWx4aGJkSEdCOHZUb1VKcDQtbkMtbHNQWHI2ZHcxb2VYSDVsb3c4NlhMclJROGUtYm9zWENTYmRZQVAzajhjdXY2cTdLNGh0aHpVX2N0VGRldnRkVGR5aURqbGRxbS1xeGt3MVlMeQ?oc=5",
+          "published": "2026-11-12T07:32:39+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.386,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 96
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 93,
+      "kept": 65
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 52,
+      "kept": 49
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 52,
+      "kept": 5
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 2
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 4
+    }
+  }
+}
