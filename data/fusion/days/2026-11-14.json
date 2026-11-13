@@ -1,0 +1,189 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-13T22:00:36+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA publishes 2026 World Fusion Outlook",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-13/article-8577/iaea-publishes-2026-world-fusion-outlook/",
+          "published": "2026-11-13T14:38:28+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.693,
+      "id": 0
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Ontario and Canada Select the University of Toronto as Host for Province’s First Fusion Energy Research Chair",
+          "publisher": "Today's Northumberland",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVWk1LWltZVBMN1MwU282TlFraGc0VFdoVUk2S2lWMVJQWmtZU0dESk9xdm5od05wdWcwZml4TnJHRG5sZkxLWngtY2xrV3ZPS1JZSTY1eHRHQ3pIVDgteE85akhsQ2RNcFBwRjRaTFVNeUxXcmU0VWl0MHZUR0FOLW9KbmtRYWxDVGVUclV5Y3JSUlZrN3JDbVFxOUpPTDhHejJ5STIyVlNLM2JSS3RTS2JYbDgtcUJ0V3FJWkpnTFhYNEtacVV6ZXBNUERxYU1wVjJhREktTkZoWE93NVNuOUpYb3hOV3E5a3ljVg?oc=5",
+          "published": "2026-11-13T20:17:51+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.929,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "US nuclear fusion test drives tokamak current with a 1980’s radio-wave idea",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaEhjOEVQTU45SW1VNHVEeFhQUlFuV214dThPQjF1aHphR1c4aDJJbUVMUXVUeUN2UGVjVERlM3lXSHk3bzhZc2ZwanlQZVN2dHE3TjA2V0ZVa1A2a3lPSF9vZndhNDNsNzJlWVJaRWtadDFxeVgyZWFTQW05aHFmUU5PdnhBOVQ5cmFOdGtqVjBfdw?oc=5",
+          "published": "2026-11-13T15:00:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.708,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Russia Develops New Material to Protect Fusion Reactors From Extreme Heat",
+          "publisher": "Frontier India",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZHVxSTdvcVRNLUFzRTJVOW9NYmhzLWNtWkJrMlljakV2WFY2VnRYc2JieFU0bTNFcHZOLVpvOXlnRzVzVjBScjkxM3JyX0ZXb25felRFcTR1X0VBTWYwMGJzNWdWOXl2azVmSFZBVmpRVjhyV045M1BhNmF1WEVIMF8xemNCNHROZmdJTGNnRW5rbm5fd1dJTzVUV3pyQVpDdnc?oc=5",
+          "published": "2026-11-13T13:32:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.647,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Commonwealth Fusion’s CEO sees UAE primed for new energy tech",
+          "publisher": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUk1OazlnOUpZRTNHRG8xX3BNUW1SY1NFak5rLWtreFlGTFp1YWs4WG45RVExM0N3eV9VRC15dWQwLUhNREFXWmo3SkFrYlRlbERFUmlWNG9jX0FYWVdwUVJvdTdMR094NDJ5ckw5SDZWWHlYOWZEUHhlNEIzX3BDVHFoWUFua0ZzWVlmQTI5dGdfU2M?oc=5",
+          "published": "2026-11-13T12:26:08+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.601,
+      "id": 4
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[FN Focus] 윤병태 나주시장, 인공태양 품고 ‘에너지특별시’ 본격화",
+          "publisher": "파이낸스뉴스 I 파이낸스뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RUjNqNEJUbGdBUUZjaEpiejJTdzFJb2JMZXY0TTJTaXRaUTZwR3gzZ0hFMTRHM2dVZ1UtNlN1bjFmY2pJekxGSzVrQ1dORFJraTZ1bUNmWUJ1MjRtbWdsMDY0Qll3UV84OC1ZcUR30gFuQVVfeXFMTVFSM2o0QlRsZ0FRRmNoSmJ6MlN3MUlvYkxldjRNMlNpdFpRNnBHeDNnSEUxNEczZ1VnVS02U3VuMWZjakl6TEZLNWtDV05EUmtpNnVtQ2ZZQnUyNG1tZ2wwNjRCWXdRXzg4LVlxRHc?oc=5",
+          "published": "2026-11-13T11:40:05+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.569,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "The IAEA reports accelerating private investment in nuclear fusion technologies",
+          "publisher": "Engineering News",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVUltS2VrQkJHalNBeUpTVU8xaV9vR2JBQmo5cG1PN0xORTVvdDRrRlNaQXM5Y1EwYjZHZ0IydU5BN2xnS3RLZ2l4THU5UUQ5RlhEUm9XN01OM3p4X0ZDNUstOHF6MldTVmtWY29kMHN3MUNReE1ZNlJXemM1c053bE9lWmxTUDJZYzZWMWVuSkhKdGNSaDlBUkJ1SWNQV3dvWV9oTmozWjBTSkxjeHpjSVFSdzhJWmkyMFhmdEVLd09ZT3J2ampBQnRlckg?oc=5",
+          "published": "2026-11-13T11:29:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.561,
+      "id": 6
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주시, 인공태양 부지 103만㎡ 중 50만㎡ 제외 설명…주민 재산권·보상은?",
+          "publisher": "세계중심나주뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DLUNNQ1FIS3RxMWRTejAzUEdvWF9ENlpCc2VRTVRlRWZlZGduNGJZWTRaRDFzVGFSeEhNaFZzVFZWd0lNZEtIWHh3VnNfLW95dzdtTmg3QUxDWlo5ejlGdEp4dE5XNWdFNGc?oc=5",
+          "published": "2026-11-13T11:19:14+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.555,
+      "id": 7
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "\"실험실 넘어 발전소로\"… 영국, 2100억 투입해 '인공태양' 상용화 공급망 선점 나섰다",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zTE40N3lWVkpXWEZwT1hGRU5qSnlsNXJ4LVJwbFk4WVRQLVpXWDJsS3ZXRVNQQjkzTjBwVG1WbWF5LS02U0xKWUdIMU5KcWdQV3JleDRGc1BiQWRVYWE3dnhEX1M?oc=5",
+          "published": "2026-11-13T06:38:10+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.359,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "UK Fusion Energy STEP tenders: scope, lots and timelines for project teams",
+          "publisher": "Geomechanics.io",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmZwM1BWUE10QmxGbW41YzU4WWVublRueUZwdW5OQnhSdEl0MGpGS1RQWFhWakQ4bjc0R3VuMFhYS0VQVkZteWtDT0J5SUlvSjlSV3dqZDI0VEZrLTNjelFkZTBtSkZuWndiQ3lFLUh2cG1yZTloTExfOW1kN05MSUVheEdLcTlxTEVqbkJORW9CZUI2NXlVeDQ1anlsWGNyaHpWb2JybTBsd3pyR09HcXl1VQ?oc=5",
+          "published": "2026-11-13T00:31:14+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.105,
+      "id": 9
+    }
+  ],
+  "feeds": {
+    "gnews-ko-fusion": {
+      "ok": true,
+      "entries": 9,
+      "kept": 3
+    },
+    "gnews-en-fusion": {
+      "ok": true,
+      "entries": 12,
+      "kept": 6
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 1
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    }
+  }
+}

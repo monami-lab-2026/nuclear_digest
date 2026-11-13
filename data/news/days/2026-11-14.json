@@ -1,0 +1,923 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-13T22:00:34+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "국회, 체코 원전수출 시공사 교체 논란 규명 청문회 추진",
+          "publisher": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VUkFRaFVyOUN2VGJ2bGlFSTBPeVg3ZllNeVZmQ2NsbWIyWlVLcVNOa2QtcWVNRXZZdHZOM053TkFIV0dhNUtxT2QxblVLNDVraFVKT0tqMTdWdw?oc=5",
+          "published": "2026-11-13T02:38:07+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "체코 원전 시공사 교체 논란 격화… 여야, 진상 규명 청문회 추진",
+          "publisher": "www.ebn.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56OFp0ek91ZjFDLTV3Z18wOXRBc0hiZ3VxV1hJd3NJWENjcDltQXlNbkRwT3dwa3N3UGFOUHQycFFsdlVHNFdyWVJhb3owVWlqRTVWSnB1VUp3RmstRXRkUzNfMU9rdVBp?oc=5",
+          "published": "2026-11-13T05:05:35+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "국회, '체코 원전 시공사 교체 논란'에 청문회 추진",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YV19jVFhkanlRQ29Dal9jMDhZbVRaU3lUV2MySXE4UWN0aU5qTE1FNWZScEpmZHk2NlJTVG5BUnJ5U05rV2VFakJaUEJ3Vy16TGNZU2FyRDNCYjZqbjBBM1VXckxmdzlCY3ZJcjZyTV83bG96ZERiMtIBeEFVX3lxTE9YV19jVFhkanlRQ29Dal9jMDhZbVRaU3lUV2MySXE4UWN0aU5qTE1FNWZScEpmZHk2NlJTVG5BUnJ5U05rV2VFakJaUEJ3Vy16TGNZU2FyRDNCYjZqbjBBM1VXckxmdzlCY3ZJcjZyTV83bG96ZERiMg?oc=5",
+          "published": "2026-11-13T06:45:15+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "국회, '체코 원전 시공사 교체 논란'에 청문회 추진",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MSmRqRzEybk5odDRLT1RqdTdsVDQtM0V0d1FDVVZWdGxFRzJMZ2llVmJvVVBKRzBaT1RUZHQ4U2VabTNkd0ZvQTBuQUNLeEh0QXRZdUY3QnFxZG16OG41R9IBeEFVX3lxTE9YV19jVFhkanlRQ29Dal9jMDhZbVRaU3lUV2MySXE4UWN0aU5qTE1FNWZScEpmZHk2NlJTVG5BUnJ5U05rV2VFakJaUEJ3Vy16TGNZU2FyRDNCYjZqbjBBM1VXckxmdzlCY3ZJcjZyTV83bG96ZERiMg?oc=5",
+          "published": "2026-11-13T06:45:15+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 ‘체코 원전 시공사 교체’ 논란에…국회, 청문회 추진",
+          "publisher": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNXpfMGIwNHF3UzhsUGF3aTgtMjdiMVljMURNbE5Xd1pLMjFWZVNSYTZ6WVJ1b3FTTno0a3hfZGh5QXRnWWJNX0JiRnRmVE5weW9IU2NlLXlyekZUZ1FPLXJqeXNBanExVC1BRXl4SlVFdGJhVmhqc2VMUDZrRW1jVGlBMzIyTmUycUs3MlFYX3UxMU1Kb0NSNtIBrAFBVV95cUxOQkViTWFyQk1uLUxMTUgxQ2pocW9uVjBWM2xPanNJZEQ0TXR1OGRBamtaMDNtYWg5TGJSNWJyX0dVeENxQ1FBNzY1Z1pHcWJnelpHdk1RemMyM1VwNDlyTVdjVnFQRnBiU09Hd0dXWHNnMXAxRkxJUDMzM0o1ZXByYWdQRUJHYjBHMnV2NW1WLVpaYS1UT2NOalo1M2Rqb0RWTmZZNkUzR0VYQzRO?oc=5",
+          "published": "2026-11-13T07:26:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "’체코 원전 시공사 교체 논란’ 국회 청문회 요구",
+          "publisher": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FdjJHR2hhS0hrME9IS0VUc2N5X3ZpTVRudzZnTTV3bGhtV1JoUTM4NUNEUGZieDdIZndtNTViU0RBdnp3MDlRc2k3aVJvcjI1MG1hQnhfd2JHMTRQVDhvTHlNVkNNcWs?oc=5",
+          "published": "2026-11-13T09:28:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "'체코 원전 시공사 교체 논란' 국회 청문회 추진",
+          "publisher": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWQVdnWE9yamVKYnVkQ1RVMTVJc0gxci1KYW1uNGJ0bU1uMlF1TWdtUE8xMGttTWIwcU1hYjItV20yUlIyMjVzUkFvUmhuWDNiU1ZVakdmczU5eFNIQXc?oc=5",
+          "published": "2026-11-13T14:12:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.675,
+      "id": 0
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA Concludes Long Term Operation Safety Review at Japan’s Mihama Nuclear Power Plant",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/pressreleases/iaea-concludes-long-term-operation-safety-review-at-japans-mihama-nuclear-power-plant",
+          "published": "2026-11-13T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        },
+        {
+          "title": "IAEA Concludes Long Term Operation Safety Review at Japan’s Mihama Nuclear Power Plant",
+          "publisher": "International Atomic Energy Agency",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSjVrbGNIbWRKSFFRR3FPRFRpWE4tYWphdmNBN0VjMkh1Y3Q5Sm5GZUFLVjZReC1fUWJELUNFZzlSTWJhdWZTUmh6WW1rd241QkFudHlYNlhkbU9JSW5YNVZac3RLQUNNMEpBNVVSRmViNVpaMnhDeGNNSDV4MXpGendpSTFQeXpOb0tmUXI4SGhucWNLUEJrVWJTV1htX3ZxT3R4VTFWTFBPTVlaM3dIWGV2cUMyaW1sSnBPQkk4VjMtZ2ZrdENkazhhbw?oc=5",
+          "published": "2026-11-13T14:00:04+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.666,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 체코 두코바니 원전 점검…2029년 11월 착공",
+          "publisher": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPX3hLdWNkdFR0LWE0NmxxNkFQeWNoVWZObmVNSDQ2RmZsU0s2RzIyajRTZVNGZ1FQVkNaM1hVRjItOGU5bTNYOE1WS3loNWhuc3U1aVlVaTdqX3V4akllcXZibkhPc0NvUVhWUGFaNG5NaHkxNnhETnZfMVd4M3Rfc3J2UDZzaDVpVUh0WF9DLV9DV19xclZJcDVhcnRIb2hWSXp4UFVHNXlfcmFaUDhlcHpwdmRRNzNFVE5aUk9iSjh5TlkzeXFMV0pQY05yQ0FRaWVLUWtZVzVVTHFVcC1zeFc5RFVBazZtZnU3XzZHemFTX1A3S2JSY2MtNVlxd0F1X0x3?oc=5",
+          "published": "2026-11-13T01:03:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 두코바니 원전 진행상황 점검…2029년 11월 착공 목표",
+          "publisher": "글로벌이코노믹",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYWJocnNHeG1PMjdSVlp6ZkNoaFNsRFF4clI3Q1BDVjllUHBlclMwRHlOSzNRcjgxSzYxZWwxR1pqXzhmRzhyVnV0Z1p6YUd1Tk81SkppaXpyZldNR05tLWpBX1Q5NmYyMDlUaFM3clowRlI2NmFpem1HWFNEUDZ3aHNtb1lOVFdjc1E?oc=5",
+          "published": "2026-11-13T01:55:39+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원·체코 발주사, 두코바니 원전 일정 점검···‘2029년 착공 재확인’",
+          "publisher": "이뉴스투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OSkJaLWF6WFVYVkdXQU16WmcwZmVZdmdScWozY2p6QkMxcndQWUxVUHRiTDRiVEV5MVlkQnlvMXJJbVNjZnh0Sm83SW1MeW1FQWNlbFd0X3FTOThpcEljSlRoV1p2azRQakl6UnpvVnrSAXRBVV95cUxNc0RlYl9DN3V5LUUxcFdBYmZLdjdzQ0JlcnFkNTU2YUxwRU80bzlMZ3g4RURHaVhtTndJaUFreTQ4MWt1blQ4UndVUUJ6aGs0dTZFT0FzU3BYaVdkalhBWllDVFlsbVpSS2NkajdhVlNKamxGcw?oc=5",
+          "published": "2026-11-13T02:40:33+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 체코 두코바니 원전 진행 상황 발주사와 합동 점검, 2029년 착공 목표",
+          "publisher": "비즈니스포스트",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YZnFxTWUyWU1CNGg0eE1TS0JtZFJ3VF9oWWtmRlBFeEZyUThGYnFxaDNRY194ZUpxbk00OHluOGVZbUhJZFhjaWZjeHhaSGxrWjhJVjBZcFIteEVUaTZOM1Z3VlRTT3JFTlpyVjAzOXJVbEE?oc=5",
+          "published": "2026-11-13T07:14:50+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 “체코 원전 프로젝트, 2029년 11월 착공 이상 무”",
+          "publisher": "한국아이닷컴",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yYVdjdHppeHM1U3o3QjlMa2N4YjZIRGpCRDBUY1NOT0lqbjJ3UE9WQjdTaXNydHFHNW5ZRDlhMHQ2eGp4eXpvdnJEY1NPSXBvNUhkQnJzVDZsTEdrVURFTFdSWVliSDFqNktF0gFvQVVfeXFMUHBKLUVfS04yTkw3RGd5VHpwS1QtWGxJWnd6OGI4dlNfcksydHdzdFJfWUtFN1pXdzVvcWdRTl9Eak11WmU3QUZTclYxOW5UX080YUtXZmRTZldseDFNNmh2bER5NzdxRGxPT2pvN3hz?oc=5",
+          "published": "2026-11-13T08:20:04+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 두코바니 원전 사업 점검...\"2029년 11월 착공 계획대로\"",
+          "publisher": "소비자가 만드는 신문",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xMldCelN0bFZFVjB0cWFXLXJHa2NXenhBS2ZEb2sybVZkYnJGOFl3NU9sX0VsbnFzUFpBZnl3aXZYaGhKaEJzbGI4VzZLbGEwb19qdzhVZEtReUZKWG5Ja2FxOHJxRXQ1M2NjVTRZV1RSYWs?oc=5",
+          "published": "2026-11-13T08:40:01+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 두코바니 원전 이행 속도… 2029년 착공 목표",
+          "publisher": "비즈트리뷴",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16ZVBlT0FIbXRwN2ktRXFhZXg2eDBfNjBqM0hhYW82QWdzMXUtTGc3dkRFdkZiVmpNUW8tS1FtZTlMUFczck5oNHVCY2I1WF83ckpQanZfaDRBc0dxN0pod3VtVWlkUVcwSnRHblFVaDE?oc=5",
+          "published": "2026-11-13T10:36:32+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.525,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 체코 발주사와 두코바니 원전사업 합동 점검",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hM1pVVWVLMUw3QmxqeUxudnRpTWF0VlQzR3M4UFg5NmFsOU81aXp4cGxqb2I0U2R6a1RFTkhzYjFkOGxCVEMwNmdEeGhNZEhvZWFTYTNSOWdIUG1FVHgzRGxBMjFTUDNMYXNWdkpUU3dfUTZFazktbtIBeEFVX3lxTE1hM1pVVWVLMUw3QmxqeUxudnRpTWF0VlQzR3M4UFg5NmFsOU81aXp4cGxqb2I0U2R6a1RFTkhzYjFkOGxCVEMwNmdEeGhNZEhvZWFTYTNSOWdIUG1FVHgzRGxBMjFTUDNMYXNWdkpUU3dfUTZFazktbg?oc=5",
+          "published": "2026-11-13T00:58:35+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 발주사와 두코바니 원전사업 합동 점검…주요 일정 확인",
+          "publisher": "드림저널",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1YbzRJQ1BWVGRKYWxfNGQ5VGtuQ2FmTVYyWUR6ZTVvWXgzSkVYc1JLSkxnZmMzZXRudWc2ZjJESElnWHVQbEE?oc=5",
+          "published": "2026-11-13T01:04:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원·체코 발주사, 두코바니 원전 합동 점검…내년 4월 건설허가 신청",
+          "publisher": "이데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSmZZZXpvc1BZd1N0bmVQdC1WcGk0V1g4bU11UVlMbV9hRHNlazd4Wkl6cXNrU1hNRzE0QTFmcDlWTnMwRklWaFZIWENMZEdLaDd0cmpscUUwbV9VTnBmcmZpNXE5RHJkU3NIX3pYNXRDQmJnaFZGQnFFWVh5UmJMNA?oc=5",
+          "published": "2026-11-13T01:06:43+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 발주사와 두코바니 원전사업 핵심 일정 재확인",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SczlUbGswUVFnZDEyMDhzeDdmd0REV1QyT204NmNsVVJoWmd2c1l0QTN6U2I3RFU4ZEVoblNuYTRmQk9JMmI0UDMtS0hiVDNDQkgtUVR1S1B0U0c4Sm02YjYta0dOLW45bVJ4YjlkbGZiUQ?oc=5",
+          "published": "2026-11-13T01:07:23+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 발주사와 두코바니 원전사업 합동 점검…“2027년 건설허가 신청 순항”",
+          "publisher": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95bFA0RXUxQVo0OEtzQ0gwaGdlQ296WEdFRzFjLTZpZzktX0tJbjNDOVVLM1BFdlZPVWl1YzVjY0lkTlpCNUhHdDdtcDQ5Zw?oc=5",
+          "published": "2026-11-13T01:25:20+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원·체코 발주사, 두코바니 원전 사업 합동 점검…\"내년 4월 건설허가 신청 순항\"",
+          "publisher": "와이드경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEWjQxUHppUU9wZThtRUVUenJYcXRQMUZNdGFybHlCNEMyTzFpSjV6ZzlONld0X09hVFZiWkVnVEhqcVhOMzNIX3FsbTZBVWVtdktJbHlTMEJxUUJaMDBYVl9GU2Y5OVhsTi1HaA?oc=5",
+          "published": "2026-11-13T01:49:50+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력, 체코 발주사와 두코바니 원전사업 합동 점검…2029년 착공",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5obXpwYjhHa3pzTTF4RGxSUjRaUTRvREV4Z0pmU1dIYzZOTGJRUDl0RlRDV3NXZlh6bmd6aFdETVZXNWZaNkY4c0w3YlhQekpJNW9uMWJzTlVWTnF1NVlsTnhJcnc?oc=5",
+          "published": "2026-11-13T02:33:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원-체코 발주사, 두코바니 원전 합동 점검 “사업 일정 정상 추진”",
+          "publisher": "인사이트N파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0Q2NqQU5LZmdTSFA3ci03VjctM25MT2pqcVRWY3hQckxvWXNkbjRHN0FNeW1iZnBNWG1lRjZoZHdpTWlja0xCeVZZZ01MNkhBdEFEZ01Vc3N4d2R5dTlLUG81MmtOUQ?oc=5",
+          "published": "2026-11-13T03:09:14+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 발주사와 두코바니 원전사업 합동 점검",
+          "publisher": "일간투데이",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yLWFDcUdnbWlLOGFPd0N5WVA4VnRfaWdjYWtmc0d4MUhKaFFNVlNFTUhEQlJMZWFrUzhXbEJCWmlTaVZjX3hmS0xOaHFxejIwaUx2NVY5Q2VmMFNNR2diaEVIZDVObFFqR3hV?oc=5",
+          "published": "2026-11-13T04:51:16+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원-체코 발주사, '두코바니 원전' 사업 점검",
+          "publisher": "폴리뉴스 Polinews",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ubkp3Z1pyUDBnc2M3aVlqZE5seFFUUFJvcmdTdWlPRUF2T3NsYlMxS1RQcHY4T1Fjb2FpaUVIX3gybmdoa2Zwb3NrYnptOC1JRHJXeV9CV25lUXM1ZWxXLXliajlSZWRfMUFNNkFR?oc=5",
+          "published": "2026-11-13T05:23:17+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 발주사와 두코바니 원전사업 합동 점검",
+          "publisher": "일렉트릭파워",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mMl9oUEpiRG9sMjB0OGNQOXM1R21iV2ROTUJnbW8tYU9vTHl1ZWhfYWw4MDg5SHo5ZnZkb2ktU1ZudjRua2lQVXV0WTBNUVNmNk5hQms4dlI1MjhJeFRiODR4OXI?oc=5",
+          "published": "2026-11-13T08:39:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 발주사와 두코바니 원전사업 합동 점검",
+          "publisher": "일렉트릭파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWV2hlS1NKeDBuOWlBaDIwZS00Ym5ZUmhkSFFaN2xOaGE3a2J2RDFUdnBYM0JRX3NlTDZZYk5ZbGZCVG5EbTh2TW03WVY1ekE4RmthUWZsN1Fxa2pvX1NINkJvNWlqZw?oc=5",
+          "published": "2026-11-13T08:39:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.443,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원 \"체코 원전 사업, 일정대로…내년 4월 건설허가 신청\"",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14WWR1WHNmeW1lUzdWN1VMSTRVM0dQSHFsOGtJai1Jb2FTbEtFSU9kem0tRkg4VUFoa0hxelJ5VGc5YkFmZ3JaOVlWM3M2UkNUZ0VfSnJpUzgtam0wNnVMedIBYEFVX3lxTE14WWR1WHNmeW1lUzdWN1VMSTRVM0dQSHFsOGtJai1Jb2FTbEtFSU9kem0tRkg4VUFoa0hxelJ5VGc5YkFmZ3JaOVlWM3M2UkNUZ0VfSnJpUzgtam0wNnVMeQ?oc=5",
+          "published": "2026-11-13T01:13:35+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 \"체코 원전 차질 없이…내년 4월 건설허가 신청\"",
+          "publisher": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sQ1dGVzdQd0NWTzZzV1UwQW9zZEF6ZGJOTmxFcTZ5dFM5aEpQSXd1U1c1Rm1WTDVBVW1RYXJRRFJYS2JaSU1fZDgwYnRjVl9tc3J6MllSR0VlaTVvTGZ3bU1uTGR6b2s?oc=5",
+          "published": "2026-11-13T01:19:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 \"체코원전 계획대로 추진…내년 4월 건설허가 신청\"",
+          "publisher": "국제신문",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVVlEZ0ZJd1M5VGk2QW5nYVNTd0ZQRmhVc1VYbXYzaVptYzJOT1JGUzd1b2JVVFVCNmVTWDBab3Y2Y29uRG1hVzIwVUJWOUJCR3dsZU4zckRHNGNXaENIVU9BN3BtbEUyMmJmZWt6WXNiMFJqa2N4VEU4SVZHSmh0em9sOVVrQ2tQY1BBRFlYTW9lclNy?oc=5",
+          "published": "2026-11-13T01:38:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 \"체코 원전 내년 4월 건설 허가 신청 일정대로\"",
+          "publisher": "MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOQk5YOWR3UFFrUThXN2hkV3JidlhtekNWdS1ITHVuUEEzcjVYakkySGV2YTBWVnZlZ3Q3VG5henJrdnZRT1RNeWlVMjUzM2I2NkEyc3FieGdLdDFiNVZWLTN5U3V2Uk1KT0FEZWNaWXZETEhw0gF0QVVfeXFMUE5CTlg5ZHdQUWtROFc3aGRXcmJ2WG16Q1Z1LUhMdW5QQTNyNVhqSTJIZXZhMFZWdmVndDdUbmF6cmt2dlFPVE15aVUyNTMzYjY2QTJzcWJ4Z0t0MWI1VlYtM3lTdXZSTUpPQURlY1pZdkRMSHA?oc=5",
+          "published": "2026-11-13T05:01:23+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 \"체코 원전 사업, 일정대로…내년 4월 건설허가 신청\"",
+          "publisher": "SBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ydlQ3RkxUUDVlZ2UxMC0yd25ybE5QeEE5WGtWcFZvRE9uN201S3d6WlpZand3SGJqNWc0X2tQVHBSVlZrT0NJNWdFVElaZW1yVkVqSE9BQUNva19UZUxQQng1U1VGOC14bFE?oc=5",
+          "published": "2026-11-13T05:05:33+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "체코 원전 사업, 당초 일정대로…한수원 “내년 4월 건설허가 신청\"",
+          "publisher": "부산일보",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mSThxcEdCb003dFRPMGhYT2JWaVR2d0RabFVCbGF1NV9oU0tRMjdpcDI2MVFTalFNa0ljNGc4NUJKUkJ4R0ROU2tNdEN6aVFYbnJOMkRhTm9rcHhReS1qdnB5eHlFVHpReEFOWElIVGpwUjhq?oc=5",
+          "published": "2026-11-13T05:21:05+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 \"체코 원전 일정 차질 없다…내년 4월 건설허가 신청\"",
+          "publisher": "아이뉴스24",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94M0dqU0hkUDhkVW5CdXpKTGlhTGlWSUxpRWk2ekliOTR0Tm9Xb3hQX3RqYzdxYWQ4ZGZUbmd0aklpYWRJVWp4eE95SQ?oc=5",
+          "published": "2026-11-13T06:40:24+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.361,
+      "id": 4
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 체코 두코바니 원전사업 점검 … 2027년 건설허가 신청 목표",
+          "publisher": "워크투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aYkwyRi1UUkJJN0RLQ1FnOGVGNDhlWl9HdkRmYk5TUTU2bF9MSU1FLTk5UGNRbjc5WkwzaXJFSDBEZWdENDExY2p6djBVSXJOUmRBZUtfb0JtQ1p5WG9TTzZZMUFuelNfVWxqWQ?oc=5",
+          "published": "2026-11-13T02:00:57+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 원전사업 2027년 건설허가 신청 준비 속도",
+          "publisher": "Korea IT Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zVFE5Qk5zRHhKcTZpV05SSXZmUTFOakpfY3p0WDR1blBlMWtiV0dZaFk5ODN1NFNQTE1aUU9KMzRlU3dnRV8yekZ4N0UxbWZqSEhVczdKQko0RWdnU3FkRXRvMUg1V1pLeHNPQUc0TXY?oc=5",
+          "published": "2026-11-13T02:01:59+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 두코바니 원전 설계·인허가 순항…2027년 4월 건설허가 신청",
+          "publisher": "이코노미사이언스",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nR1RxUHBVMnYxS1BLbXczZEV1Njl3a3V1NmhJZlB3Q3E3anI0U3NiVkRjTlAzR19hdE9uMm9ZZlJLRUxRQzdpcndGVHN6UkttS3Q2THhnUzY3eW8ydzJWYWxXSE95NEFuNkhVZ014NA?oc=5",
+          "published": "2026-11-13T02:33:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 두코바니 원전사업 점검…2027년 건설허가 신청 추진",
+          "publisher": "뉴스투데이",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kWXZSSkZIblBXMGxHeGZzOUdfRnZTU0lseUhVSWtSZF90eVI1Ri1Fb2FicnpWR3NwQnZ0WmtIS1poc2dlSkMwZW1MeUwybkJCWkNvblpXc1JWQ3lSTXc?oc=5",
+          "published": "2026-11-13T04:58:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 두코바니 원전사업 점검…2027년 4월 건설허가 신청",
+          "publisher": "한스경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qM0ZLSDVObjNpWGhoQUthUFYyLWJZZ3R4a2dJdjlIZDdDcjZiRjFhVll3RXY2QXJNQk1CczdERnZYNkRHczJESDZtUlRjbUpidHVXS0kzNERYRURlODRfV2RLc0o4eVhHLXJOUtIBb0FVX3lxTE9MWGxYVVVUT24ta1UxejY1cnlBUGNpbFE1SVR2YmZNdDdFRnRmdjNvSl9pcU9UYnkwbUlmWTF2R193WXhpd01jaFY0WmlnMko4bDZHcmhvZ0RITWNDSlZWam9FRnhfeUVaUWtZVVVxNA?oc=5",
+          "published": "2026-11-13T06:10:55+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.341,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Meet NIVA: The nuclear industry’s own AI tool",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-13/article-8536/meet-niva-the-nuclear-industrys-own-ai-tool/",
+          "published": "2026-11-13T21:06:14+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.962,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Extension for RAI responses delays Project Ike review",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-13/article-8579/extension-for-rai-responses-delays-project-ike-review/",
+          "published": "2026-11-13T19:41:59+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.904,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Firm developing Portsmouth site data center posts $7B loss",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-13/article-8578/firm-developing-portsmouth-site-data-center-posts-7b-loss/",
+          "published": "2026-11-13T16:30:54+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.771,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "BWXT manufacturing facility expansion complete",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/bwxt-manufacturing-facility-expansion-complete",
+          "published": "2026-11-13T15:23:46+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.724,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA publishes 2026 World Fusion Outlook",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-13/article-8577/iaea-publishes-2026-world-fusion-outlook/",
+          "published": "2026-11-13T14:38:28+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.693,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Akkuyu reactor startup set within weeks as Türkiye expands nuclear plans",
+          "publisher": "Türkiye Today",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcjNiUENGb0pLVFQxWnk3aHpJYVZIWkNGOE92RGNZaS1iNXdINzdHVF84ZTNXUWlPc0NaUFpwQmg2SndKVW9MNXQ4bkNOcFlPRXZiVHJhWHA1Vi15MXpERGptUUhkZlZMWFh3b090bS02UzRQTEFGUE5TMmZLTWdKZlFfbXN0NzBHZFNJYVlXQ0s5VWRxX2JqZXBMc0pNVEFtRGtKLWNmaEhmZzVuOXpzSF9tWmhHMGliUVE?oc=5",
+          "published": "2026-11-13T11:38:59+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Türkiye to begin physical start-up of first Akkuyu reactor within weeks",
+          "publisher": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa0JRRHotSVdYdm15ZHlSYkZ1RWE3b3VsTnVwRXRwNl9MbG9jX0FMR1N6dXhacVIxSEhMcVBCWW1vdktObDJLSkZWQURTTGZaT3hBXzNpeGw5ZnpaYmtXLWlnWnJkenZUVEVrbENLSW9CZFRNNmpLeEhyZVNRVGcxdHZ3QWRxdkZHZVRMYkZFNS1XNlFQTjJMVjJHeUVaS242a3R2MS13NWVKWFd4RkZDTHh3?oc=5",
+          "published": "2026-11-13T13:28:10+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Türkiye to start up first Akkuyu nuclear reactor within weeks",
+          "publisher": "Yeni Safak English",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZTFsTzU2ZUxNVl94bWlGSVRVb0dWSFZhTTd5QU9haThLQWVUM0hpVmc1SjBpZ19feVV5cEhXOUtJYkpPV0F0elJ6aFhvYU1ZaVBYeVdwS1ItNzNWRnZnX1U3NExhWDQzZEd2MmxnVXh3YlFhTUtkdU9OYVdEVGV0OEtrOVE0WEtkeUlYYkhqeUZ3RVdLOFRNX0kzRl9sWnE3R29QSw?oc=5",
+          "published": "2026-11-13T14:30:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.687,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Industry urges nuclear recognition in COP31's 35-by-35 pledge",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/industry-urges-nuclear-recognition-in-cop31s-35-by-35-pledge",
+          "published": "2026-11-13T12:51:20+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.619,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Centrus, Oklo deal secures fuel for Ohio reactor deployment",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/centrus-oklo-deal-secures-fuel-for-ohio-reactor-deployment",
+          "published": "2026-11-13T10:41:28+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.528,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Strength and leak tests completed for Akkuyu 1 containment",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/strength-and-leak-tests-completed-for-akkuyu-1-containment",
+          "published": "2026-11-13T10:33:57+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.523,
+      "id": 14
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "KINS, '2026 금속순환자원 방사선안전 워크숍' 개최",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9za1VZc3Q3czlIMzFrcGRiY0I5UmJJVGVqc1N2SFJmcGY5MjhlYkF4aVVIcGEwajBzMWZObHp5MURGUWRnLS1EM2JGWDlsemU5VDgzWllPdjZZTG10bUpia08tMHhBM3p6X0pWRk1ENVVyZw?oc=5",
+          "published": "2026-11-13T02:30:18+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "KINS ‘2026 금속순환자원 방사선안전 워크숍’ 개최",
+          "publisher": "투데이에너지",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qNHVSTzZVY2pORWhiX0RhU1YzU1BOalp4Rm90TWNDTjR2eUNlaU92b0ZtV2tIR2FxM0pXZHdOd0FLZDN1YXFGTFMtZ0Z4dDd6SFEwVEc4WlRCYUpTY3hkUGM3czIxVWdPb25QaFhn?oc=5",
+          "published": "2026-11-13T06:12:11+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원자력안전기술원, 2026 금속순환자원 방사선안전 워크숍 개최",
+          "publisher": "일렉트릭파워",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5VkU2MXAzYlRDZ2w5eFdrWG5kclZnNF8ySUFrUW44akV6V3JDVldra0c3YWw2NHdieVdueTBNSloyc1Zib3RreGUzRzg0WW9vc2RvM0c0bFlBUTFtLTZSUmxuZlg?oc=5",
+          "published": "2026-11-13T08:20:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.43,
+      "id": 15
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 제주 산·학·연 협력으로 그린수소 기술혁신 가속화",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBicFQ2dTRoRnlzVWN6YzAwZmJMWGE0N2FDbmpHMXVmcFVTQzRRTkY2eno1c0loTXd2THdEbVpBc3FwVXppMFplWDNzelo1NmliU013MUg5MlZiZXozUzNGUzlrR0ZKQzd4N1VGU0ljNjVrUQ?oc=5",
+          "published": "2026-11-12T23:00:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 제주 산·학·연과 그린수소 기술혁신 협력 강화",
+          "publisher": "일간투데이",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QWTVNc1VseVJ4cHhCWW41MVY0Z3E0U0kwYi1SbEVPV3hmeFd2aWhyWV95M0R3a1FvZXlBSURwUW1McVBoNkNUSHUzd0dXcjJ3Nk1ia3B2TU5EbXd4aU92bTkxVFlKRE5zMmVZ?oc=5",
+          "published": "2026-11-13T02:05:25+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 제주 산·학·연과 그린수소 기술혁신 협력 강화",
+          "publisher": "데일리대구경북뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBEN09pZVpKTklYNk41aGQzWU9ITUZ3RVZEOW03SzAzbVQ4REQ1aW4tTm9GT3NGeXJIZUs3Q3psbGo1YlhWQ0pqRG1HUl9hUUU1VEh3WEx5M093QkRzb2F5LXl4dENPUQ?oc=5",
+          "published": "2026-11-13T02:24:40+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 2.183,
+      "id": 16
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Rosatom to Increase Staff at Bushehr Nuclear Power Plant to 300 -",
+          "publisher": "WANA News Agency",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSFlBNFN4RlNQSU1mSV80SnF5NElsSVItQTQ2MmY2TVZhQWEyUHJCNmUyNEpqTUdhUEZnTXdFWnpUX1RYZk9XcFlydWFOeWRsLXZTU0xEeFJVZjZocEhuZThpeENYSkdpTXpVY0xtYmlVWUZWOU9Ibkp3ZDZocUdfNzNweC12ZUFBSExZ?oc=5",
+          "published": "2026-11-13T19:45:16+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rosatom to increase staff at Iran’s Bushehr nuclear plant to 300",
+          "publisher": "وكالة سبأ",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZX2dwT0dFVklrLTkwQ2ZjM3VfcVJOajg5VnpvdzhyLV95aERjejNDSktUcHhDM29uZWRiaXdGMy1DVFk2cTU4Q2dtWjZ4ME0?oc=5",
+          "published": "2026-11-13T20:40:12+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.944,
+      "id": 17
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Ghana targets nuclear power readiness by 2028 with US$200m investment",
+          "publisher": "Modern Ghana",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdzJBR2RENml2NlprTVBISzlFS3c1d3BKc3JfRmpqNlpSLWw1Rlo3NTRHVEpBbjMwR1lWYlY1M3NmNk1tNUpVa2U1bUdQTXFSU25XSlk5M1ZtU0d3Z1FIb25nb1RpdHM3UmpUM2tVQlMxNDlFa0J6ZmV5NXdlSzQ3X1JnWmNaU25iemdDTGVuNTlzVW5Iejk4a1FfbWnSAZsBQVVfeXFMUDBIZHpfdGRqMXlmcS00THZPQllBYUxFRjlObEVsNThsQi1rUm5BWWNkT3dDOWRKQjdGWnl4bTQweEpzeWhPc1NPS1ZwdjM1WTA4aElJQ1RnSlRmWGVQTnVWaWtESUwzMWVTYmRQM0RpTVQ0Z180OWpvaHJFREtrZm0xNE56TGVxUTQ2R3BwMElYaDVNZjZZaVFESkk?oc=5",
+          "published": "2026-11-13T01:55:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Ghana to invest $200m in nuclear power readiness programme",
+          "publisher": "Ghana Business News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTG9jZ0F5VGs0VkdldmFpWXp1UlZQakxCQXYxNXBYdWNpM2E0N0d6UnVocnhCWU1fYlRJWVd3T1pmQnVkS3JsQndobUxsb3FYLVVJZDZoRWNzRGVnYVlHZEZ6MFFsc2VVNExZblZVOUV0OXVraWluSTJUN1JfTm9WbEw4U3pzRFlWSTJyeXlLMFlhbHJtMHRZdW45VXk0MWZWd2dYZFBR?oc=5",
+          "published": "2026-11-13T16:54:08+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.787,
+      "id": 18
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "산업장관, 체코 측에 \"원전사업 완수…결과로 책임질 것\"",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15VXBFbjF4X0JFMU1NTjJmZW5QMy00TjFtMGlFMGtCamZKa3NEQkFPbk9OU3NkWXAzUGhDZF9oUlR5dTRkVDhnTzBEQjExZVBLc1pZeUYwTWJwMUXSAWBBVV95cUxOV2RuU0laNi1lWXdMZVEtQUtEeFp3dmlBMGxmTmhGNU83WGFSbkNoM2JVSWNVYkpURzR3NEZsRXFscWlhc0NSRU9KSzBkYm5JMklNYkpUNXF5c0VNeXNWN1g?oc=5",
+          "published": "2026-11-13T15:17:01+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "산업장관, 체코 측에 \"원전사업 차질없이 이행·완수…결과로 책임지겠다\"",
+          "publisher": "부산일보",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ic0UxV0dXY3M5dUV1UDNOeGFxNG0waGc4V041aldOVFVVdHJmWEZrRS1iTWQtcmIwVkJrbFhZN2xzcVBzWU1fR2tQdF9LRFZJQmV0Tm82anBtNGJTWk40MjQxU2ZzRFM2MXhCNTBaSGtKUzVucGs3WkVGYw?oc=5",
+          "published": "2026-11-13T15:50:37+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.743,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한빛원전 건식저장시설 주민공청회 “2050년 반출 약속 지켜야”",
+          "publisher": "인사이트N파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KTVBRb3ZlOEl2azJGMlRsVUpVZHR4NXlMd3lNd3diYUxpMzFHQ05xQnZ3YjN0ajkwSlpvOE11Tlo5cjRQTDAyZ1VYeU4weFZYN2c0ZHI3TVNONUNTbjhGOHYtM1Jodw?oc=5",
+          "published": "2026-11-13T02:46:01+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "“안전 최우선·2050년 반출 약속 지켜야”…한빛원전 건식저장시설 주민 의견 집중",
+          "publisher": "시사의창",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56MDNzRkJHdGpPWm1WQVdzSXBxTVlNbkRkUzhPMzlGR2V0V3ItR0JQeGZoWjBEQnhaalJfalNCMzFGNHZISWF5ZzJVVFlvb1QwNVlXWg?oc=5",
+          "published": "2026-11-13T15:47:59+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.741,
+      "id": 20
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "New York chooses 10 companies that could potentially build new nuclear power",
+          "publisher": "Syracuse.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSnlYdHM4SnE0UnJVOFRWcG9LVDZtMGNwSTNHTW1ieVFXVm9vTTloWFEtS0hfeXZqTTFGMVNxV2NoRV9Nb21RX01rdGgxZGJlQ1NDUC12emhBcE4yVU5tRkFKWlNudEJLQTdxTzZoc1djaF9jenRrU0NVV183UjFwa2ZSSm9NSjFJYURsS1dpX2szVVhtclJ1aXBTY21va3JYNUl5Zl9fR1BJb09hOW02aUtNdHFHeW5iRTMw?oc=5",
+          "published": "2026-11-13T00:35:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "New York chooses 10 companies that could potentially build new nuclear power",
+          "publisher": "TheDailyNewsOnline.com",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQUJwYjdiUGg1UHFtZ1FLRGlSc2FSczFYYXZMWEdsNDBqcnZvSGxfcVRUR1R6amxTS3NJZUd3R2pRdnE4ZWRuTkFrc0QtVjRoT0FtdlF2dmVpbDQ4ZTNkYXdVajkyNm1BRjNDMndPLWlkSmJManJIUWZwWHdRMFo0ZDl0QzFZRVhndmFtYkw0MmFWNWMtY0FsRTlMR1NsNnZ3UVdGRlVzYk1pNzg1WTg0dW9zYTNUY2xuMnRhb1c2SkpCTE9DLVVqYTJkaVViTXo0ck5zcHlSZEdmbjlGVUZhdUk4YnBuOVk0aFZqSHpOTFUybUhIR2w5RlFB?oc=5",
+          "published": "2026-11-13T15:33:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.731,
+      "id": 21
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Gov’t to train over 2,000 scientists for nuclear power programme – Ato Forson",
+          "publisher": "CitiNewsroom.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNGVZMnBCS0duS3AzVTBuNlpBejFraS1qa2xaTDA2eU9JLTVwNGhXMW83VXVLS3pVSDRtOHNoTkFKeUNTR1FoOGpCcXRaZkk3Q2NQVDI3S01nNGVNakI3TzU4VDJMOXgwVGlXb0FNZGpEa0FqZVdyeDdoMWxoTV9WY0ZPb3ZScDZidS1NWGlnYWhjb055ZlFReWNmVWdrQ3dDY3J3R0s2NUNsR0ZPY25qMA?oc=5",
+          "published": "2026-11-13T05:54:44+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Government to train over 2,000 scientists for Ghana's nuclear power programme – Ato Forson",
+          "publisher": "Modern Ghana",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbUY5OG90RHZJWG5wT1lfNDNpdTN2ajJXZWVxdDZwSGwtNW1JU2VQQ0thRTRINWdtMGdNSlI2VjV2bGk5N0FjcDNhNEMyQmEzTTZZQlNDLUlyUmt4alI2UktKdWpjdTJCYmZQQmhudEs5Tzg5a194SFdvWHFMOFhKUmx3X0NGU05TU0t1MVBQOUlySUo0dmlBMVhDONIBmgFBVV95cUxQOUlWOF9xcTduTEpDZDNqZW5nQWdOVUtzTEJ0aWdfUXJWdk4wT3d2Y2hZbjNtN2V3LUp6QmxQQm9pMzRLNC1HZF9YT1k0VUYtcGdFT2xmRWhKN0hiemtPMVhMblJDTEQ5cGFHMWYzOGR0MjlNLUFSWWhkZUtfenpXYVdYSV9lVDBUeEFqSEhfWHZMUEtGczNHVVVn?oc=5",
+          "published": "2026-11-13T13:49:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.659,
+      "id": 22
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Construction of Kazakhstan’s first nuclear power plant could begin in 2027",
+          "publisher": "Kazakhstan Today",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnVISXlELWRNOG9BUlhPZ294MUlWNHZWanlNSXJRMGhfT0g1a1NJQ2NXOHhwOTMwMVFhOVZpWnFEUTlfb1NFMlh5ZU4zWXFLbVc1cnl0MzZiRjVhRWNUc2FlYXBfR1R1Nm82Mm8tampjVlBCOEVIR2paLWZYdVppOG95X0RxV21FN1R3eFJlNjZtcmtKY0E1Y25qa3Q4aHNaSEE?oc=5",
+          "published": "2026-11-13T12:26:34+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rosatom set to begin construction of Kazakhstan’s first nuclear power plant in 2027",
+          "publisher": "Kursiv Media",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaTEwOU9RaFM1TEZUcVdjLW1WV0ltLV9PcmJpMFpWYkFJb2FVcVBmYXBxcVVBTmdDU1piS1Jkek40LXNHMHBPUzVrbmQ3bHlmTWxyeWhfampBSzJtVDhFT3liZy0xOThxb1otcHF3b2lzVzh4LWJ4X1pCSUVyR0thMFhmUWNZdFJUQXZ5YVlNbDdFRndXTmpnbU1vV3Zxa2Q2bVBkVkhxWmFKR3lIZXRsYjdIczhTNVBOSnB3THRyMEpkUU00ekNtci1NTQ?oc=5",
+          "published": "2026-11-13T13:35:04+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.649,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원 “체코 두코바니 원전사업 계획대로 추진”",
+          "publisher": "아시아투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wNTY0d2doNVBNYWk4cDVtclNKRnZrVi1QVjZHdzlNbnRrNmNKZ2lUTUNrU1Blc2J3cThpWFVVbkNEbnJpdktDWmV2eWs5OWdHR2VHQzJMR1ZGXzU5ajQ0dERFRk56UkY3UHRmMGxB?oc=5",
+          "published": "2026-11-13T01:36:26+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원·체코 발주사 “두코바니 원전 계획대로 추진 중”",
+          "publisher": "전기신문",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rX0w2cFdGSUZSTVU3X3FvNUZGUTZPRHVjZGZlUk1TbzFLVm8wOEJEbFpJVEdMNVJOSU15WDI2WHlyOFZKS1VPdkFtNUx5Qkc1cTQ0bG1FZ2FTRklmM0NNS2toV09Oa2p2ankzNkE1UUvSAXBBVV95cUxNa19MNnBXRklGUk1VN19xbzVGRlE2T0R1Y2RmZVJNU28xS1ZvMDhCRGxaSVRHTDVSTklNeVgyNlh5cjhWSktVT3ZBbTVMeUJHNXE0NGxtRWdhU0ZJZjNDTUtraFdPTmtqdmp5MzZBNVFL?oc=5",
+          "published": "2026-11-13T12:38:03+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.609,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "월성원자력본부, 경북도 자원봉사 유공 단체 표창…재난 복구·취약계층 지원 공로",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAySGdPSW4tMkJMbWhWSEJQR0lOMTlidTZsNFFxTFJxcTBnbUU5TjZLRjZMYk84X19xeGQ2ZGwtUWhZa1lyelZpdUVDRmI1ZDM4VkhjS0hEMGNHLTlmWTdqTDktalg2amVCODlETGVjQjZuZw?oc=5",
+          "published": "2026-11-13T08:25:08+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 월성원자력본부, 경북도 자원봉사 유공 단체 표창 수상",
+          "publisher": "NSP통신",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iZnM2NE5IS3VfZFFuek9PLWE5eUVhUG02UFpyYUplTnJZUmdjRHNldUoyWEJyV19lTi1SWVI5SkJUY1RqVG90VnBOb3ZGSVN0MnlxY1pVUEJDUWx2bnhidA?oc=5",
+          "published": "2026-11-13T09:07:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.463,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "수원FC 첫 통합우승이냐, 한수원 첫 우승이냐…WK리그 챔프전",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBveENQSDFGdElRNklfcl83V3V3SU5vS0dNYXE2ZVUtYXJOTVQxbmtCZzRvby1ES0QxS3ROZnVqWkFNUllzZ1E4b1Q4YnBUdzIwaEhvSHFuUk1aUWvSAWBBVV95cUxNVWtreWF1ZjJaV1FqOFJLMlBzdFdEdEdNWVBVWGdybGY3X2hQa1V3c3JaaW1ON1pHTkM5dl9VT205SXdWU3JnNFRYeEhVRlYtekVJc045TFhhenlKV1kxUDE?oc=5",
+          "published": "2026-11-13T02:06:48+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "[축구] 수원FC 첫 통합우승 vs 한수원 첫 우승… WK리그 챔프전",
+          "publisher": "천지일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TNU4zLW5JUXNCTU90d3lnRlQ1d2c0b2tuVTcyMVZrV2xUemxzTkRUZHRMNjJFaVpPaVNJTVRRUzczV0tyaXBJa1hmTUNQeW1ZbnJFWm9RcXliLThXbjJMb3hkMDR1enpNZlE?oc=5",
+          "published": "2026-11-13T08:56:30+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.456,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "‘체코 원전 시공사 교체 논란’ 지속...한수원 청문회 열리나",
+          "publisher": "미주중앙일보",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwNmhhX3NScVRfYS1FazNFanhaNXZrNUIya0xqWTZSX29STHVfaTM5YU9GZTJYdWtObUZJVmxUMGJYXzljQVd4dkxfdGw0LUF1bFhNUEM5UGtuZUpsWTliYjRR?oc=5",
+          "published": "2026-11-13T08:19:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "‘체코 원전 시공사 교체 논란’ 지속...한수원 청문회 열리나",
+          "publisher": "중앙일보",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmNk5oVUlWTFFheS1kVXlRWkFyUFJYRmNKemZHdnVnR1c3djlvV1ZMbG5vOEJzX2tReFlwV19sR2I3YnVIUUw0blEwb2pfTVpSenktSURR?oc=5",
+          "published": "2026-11-13T08:19:14+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.43,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "이진호 원자력환경공단 이사장, 청렴·윤리경영 실천 서약",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40UkRrX2s3emhoV3RJdlJoQWlOZVoxanFtNEU1cXBtUzNwVDFsSDJwczBFcGNLYzlBVmhlc2Noall5RDRnZDJxZUpLRHBDRjZCYjVaSVBwamt3c1dIZ1VUZWNVUWhsWFp6SnNHRTRYbEpHUQ?oc=5",
+          "published": "2026-11-13T07:06:40+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "이진호 원자력환경공단 이사장, 청렴·윤리경영 실천 서약",
+          "publisher": "아시아투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGenhGZk1kdFZEMl9vREhIR2RWb0NiTk5DZGNyeHZtTjBLZlBKd2hZaUE4V0Y5WnBES1NBcHh1dDhOQXp5MEdMZjdZOVJYdlduLXhCbkdYUlVCSmxhdnBuSk9ndTNmSlRvLW8wcXBR?oc=5",
+          "published": "2026-11-13T08:04:43+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.42,
+      "id": 28
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "체코 원전 시공사 교체 논란에 '현대건설 유력설' 급부상…국회 청문회서 한수원 진상 규명",
+          "publisher": "알파경제",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HUC0zcU8xc18tTkNZY2wyZlpTa0tmR2psLVFKS0RMaldlU2N1Ny1sQm9CeHNTOWRJd05aZ0NmSm40TlpiMXg3ZnlpYXVHTWtyVndtSWNBTmFTbUpObGlvVzRaZ1FVUUJ0ajR1aVZn?oc=5",
+          "published": "2026-11-13T03:45:22+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "체코 원전 시공사 교체 논란에 ’현대건설 유력설’ 급부상…국회 청문회서 한수원 진상 규명 By 알파경제 alphabiz",
+          "publisher": "Investing.com 한국어",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IV3pGNU9hZ3FCb2owZ0FMTERRb3ZVd3pQeXJ5Zjk1RnczYWdpdEJHdGFIYjFOTlNMM1g0TVdQV2dBelhnOG90cjFIWDBVS2Z1aTlTU2RvTzItVFVmUHJjNWh2dGotaFlHNUNsZXZORXM?oc=5",
+          "published": "2026-11-13T07:41:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.403,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 95
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 92,
+      "kept": 68
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 49,
+      "kept": 46
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 50,
+      "kept": 4
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 1
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 4
+    }
+  }
+}
