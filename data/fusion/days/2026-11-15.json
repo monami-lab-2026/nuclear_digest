@@ -1,0 +1,84 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-14T20:46:28+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA World Fusion Outlook 2026 says fusion industry needs a further US$80 billion in private capital",
+          "publisher": "Green Building Africa",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOLXRpbjdhWUxHdXNiMlJwa21RYWF1dnRtZ1ZuSFJnQmI3TWZma3hZU29Wcy1tRW1UVk1ySDRIWTJhdWp0LUlLbXMxdUhvRGVBcGwwckQzbUplZjg2bWRaSjZlZVhYaDlUdldEaHh2akNCR0lFTUtwQ3FXWG5EU1J5WFlRSy04bVZISjZlSmd3cjNVT2JKR0hMVnJJTEkxVjFqdmNPZnROZk5menFjQnBlczR3WUR6TnBXNi1FY1AzSkNpWVpZUVNrLUJQMFhVbWZBNTE3Ug?oc=5",
+          "published": "2026-11-14T02:44:40+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.249,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "켄텍, 반도체부터 핵융합까지…에너지 특화교육 강화",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0cTl4RjhlZXVhMkhJZ1VobldWczMxWmNiSUlPdk5yR3VwZExrU0FOYTFTSjY4bUo1MGZCcWtNWWM2NXJrTTNIbk50MDdzc0xIVzhPeDM1dlY1Y1pVaWZ2clM2MGVLQ0JhRU1GeFYwc1d5T2ppaDJJX9IBeEFVX3lxTFB0cTl4RjhlZXVhMkhJZ1VobldWczMxWmNiSUlPdk5yR3VwZExrU0FOYTFTSjY4bUo1MGZCcWtNWWM2NXJrTTNIbk50MDdzc0xIVzhPeDM1dlY1Y1pVaWZ2clM2MGVLQ0JhRU1GeFYwc1d5T2ppaDJJXw?oc=5",
+          "published": "2026-11-14T00:00:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.134,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "AECL & CNL Announce Funding Endowment to Establish Research Chair for Centre for Fusion Energy",
+          "publisher": "GlobeNewswire",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNVFVYUDVsRVhMaE1TTHdOeG02bHdGSTlZcmdhcVZKemVESWQwTnNOUzE4LWFDdXd6NkplaG1oTmhyWTBfUFpvTFBwZjdMR01kdUlmNWNfZUNhdEtMdGFTVDdTTzUzUl84TDQxMER0QWQ0SkVRN0dhN1pQU2ZlaDhtb1ZKWGJBSmtEei1wZzZteTVibE1HVUlxbjhmOHZneTFOVUFtUHBwLTIyb1c5TVpfZkFRblVkRjlyTWJ6WXlYYWN1UFVhckthM1VaU3d1M0UzNFpBUEhUT053UF81RkJTVWg5UFdSTVBoOElQOFVIbDNvU1ZJRVhF?oc=5",
+          "published": "2026-11-13T22:03:20+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.053,
+      "id": 2
+    }
+  ],
+  "feeds": {
+    "gnews-ko-fusion": {
+      "ok": true,
+      "entries": 2,
+      "kept": 1
+    },
+    "gnews-en-fusion": {
+      "ok": true,
+      "entries": 6,
+      "kept": 2
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    }
+  }
+}

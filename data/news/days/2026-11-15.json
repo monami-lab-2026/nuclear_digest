@@ -1,0 +1,619 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-14T20:46:26+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한국원자력환경공단, 지역사회공헌 인정제 최고등급 S등급 획득",
+          "publisher": "헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlYWladWNxVHI2dTZFOGNmYTdyYjRLU2trSlJKaWFDQ0swTGZCQVUwS1E5TFBWZFlpRmttcU9HbTAwc1BhU25sTjIxUVhaRjJ3ZllQekt3?oc=5",
+          "published": "2026-11-14T01:51:32+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원자력환경공단, 지역사회공헌 인정제 최고등급(S) 획득",
+          "publisher": "경북신문",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iM0lYUmlYTG5JYU14c2otMEJtMHdGVGJMREFhV3lXMTNIdF90S2wwZWNtWjgzY1ZjUkRZQWZtNGR2eGdFRUVaNnNPWVBaaHhzNmVobnNfQ2E?oc=5",
+          "published": "2026-11-14T08:31:10+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "\"작년 A+, 올해 S등급\"…원자력환경공단, 지역사회공헌 최고등급",
+          "publisher": "국제뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBONXBQNlJ0emJMdllVSkJfZEY3QTR5bEtPdXZfMWgyeW04TlNtRGpBX2xmV1VGWW1ueVlBOU9Zdkk3VUxjTEgxYkMtdjhBTENZU3NvZjFTTWM3UkRxSkVrMGZ6TjliTnVERnBXUDZR?oc=5",
+          "published": "2026-11-14T15:40:39+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.788,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "충북도, 한국원자력의학원 유치 및 철도망 확충 나서",
+          "publisher": "뉴스팟",
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9QZEN6MlNCLTNidlpTUXdteVJ6TUdhY2FxZm9rV3RmSmRFNklrMEdSR1V0TDBUb0cxMmFvbUxDTFRMakk?oc=5",
+          "published": "2026-11-14T01:52:46+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "충북도, 한국원자력의학원 유치 건의",
+          "publisher": "K-Life TV",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UckpPUVVKMWd6ek1CMFJwVjM2bTY5NkpMS0gyY1hwTTA2WDg2ZWlodWRKQ09YS1YxZjlrUktJS2RxTUVEN25rcEY0czRndXhTdjdURFZzclJMeHBPZEpaS24ybk5aclNNQ25JNg?oc=5",
+          "published": "2026-11-14T02:01:10+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "충북도, 한국원자력의학원 유치 공식 건의",
+          "publisher": "국제뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NelU4S1ZqS19udzgzYlg2RWJWWEcxcDNOM0pzU0plTWFkaERSU3FJWC0yMkw0aXJ4Z29ldnBYM21mbW5waVhENFhKOTVrVjQ3T1Y2bjV5QUZVYVhNYm50eEszRFNVVlV3MF9zT1B3?oc=5",
+          "published": "2026-11-14T14:54:38+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.756,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Sixth uranium shipment reaches Rooppur nuclear power plant",
+          "publisher": "Jagonews24",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRUGNaM3ZGdGdfUkZVa3pXazFyVU85TE1FcVd3UVlMc3AwajQxemVIUnVuNWwyZW9yQ0lwbFRTYTR3dTVtd3JqUC1leTZUS2ZqZG5XMlU1cllSYmNuVHc?oc=5",
+          "published": "2026-11-14T03:48:51+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Sixth uranium shipment arrives at Rooppur nuclear power plant",
+          "publisher": "en.bd-pratidin.com",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wOTFKUEtiZnFRM202ZG1ack5ueWx2TE5EZm9QYUpRN3lHbUJDdUxHaWVlQ3otenBHSm5hYXVacWhCeXBWZnpIM1czTTBROEZvRU5HSkhta1Q5QTVwcGFhRVhn?oc=5",
+          "published": "2026-11-14T06:16:47+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Sixth Uranium Shipment Reaches Rooppur Nuclear Power Plant in Pabna",
+          "publisher": "https://www.businesstimes-bd.com/",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DSmVCeF9DVnI5QXJpWGZILWVaa3hYZHFyWFc1WXZoR1R0T2F4OFVMVTlRLW1QS3BpUjJJNWp5N1gxa3hycTBfWUhiRy1LV1FRZTBCUW5qbWFPRDU5NVE?oc=5",
+          "published": "2026-11-14T11:46:23+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.625,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Update 375 – IAEA Director General Statement on Situation in Ukraine",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/pressreleases/update-375-iaea-director-general-statement-on-situation-in-ukraine",
+          "published": "2026-11-14T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        }
+      ],
+      "score": 2.134,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Rosatom to increase workforce at Bushehr nuclear plant to 300",
+          "publisher": "Tehran Times",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXdOQXFhWjgtMDloUUFoLTdQdjZWb2lOSEZKZFY1dG9Yb1YzaEVBS1lSRmtWNWcyTFdwVEJYYndSYUlvRjFvNTRmelpDQmNIdnAyUUNxNElwVVVRZHUyMm1IRi1uZEJmck9nTDZMVThpVi1IR2hmcEFFSy02Wmk5Tzc4ejQzdC1Fd0NEb0VGNEt4QWItWlRxcVR3X09rcV9lZDN3?oc=5",
+          "published": "2026-11-14T17:32:35+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rosatom to Increase Staff at Bushehr Nuclear Power Plant",
+          "publisher": "خبرگزاری صدای افغان(آوا)",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPU2V3d3ZsRUtRTlN5bDNXUXZkSElrdVZndVppRktYV05mVkZERk1CeWdETXpBMC1xTWVDdEdqUUl5blprSnctWlJVXzVEX1ZJTkpJYWY5RTgtMUhfY1FBeGdjNmo5SFBIMnAxb2dRdzFEN2tJdVJ6cTJGci0wLVpPSVYwSk9fX2c0MW5iSmVnTWdXZGs5NWhZX1lJcTU?oc=5",
+          "published": "2026-11-14T17:45:05+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.874,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Kazakhstan Advances Nuclear Power Plans, Considers Sites for Third Facility",
+          "publisher": "The Astana Times",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcUtQVnJLdU1fT3BmS2dUY0J0eHRfYUkwN3RURG0zNm5SN3VfUWtnMWpzZ2VDSUZmZWtoN21fRHYyNHktbEo5Uko1VTR6VFp4dzVfM0xrcHlfMFRaaGlvYjhNaUxJNHQzaTFDei0zamVia01pR0RkVnRzTGl4MHhleUxCaDRNbGp4bjFGcGo5R1l6V21wZXRReWtBTnJpU2o1VlR3c2drbnk1Q2M?oc=5",
+          "published": "2026-11-14T07:39:26+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Kazakhstan considers Kostanay region as potential site for third nuclear power plant",
+          "publisher": "PravdaReport",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQXZiMHhBSnBlbkxGdmU1OG14ci1iZjduSGNKZGFVRnlGVzE0WGxmQ2gtSzFWOENqUlJlaDhGN1BVUlc5WmJkNmpCZEk0VG9YTlZJWGlKV3Q2WFRqUEN2Rl9WTVBlajQyQWxUVlc4SFJGSUJPN2NMUUw3UlRIUjNqWmR0YkJkMkE?oc=5",
+          "published": "2026-11-14T12:38:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.661,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Turkish investors eye 49% stake in Akkuyu nuclear power plant, Rosatom says",
+          "publisher": "Türkiye Today",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZnFfR0R2MEZpQ0hWVF9CaXU5dHlaZjdjU2I5b0p4V2RKLWhQUUdVblpKMUNxUkd3VDdoNlEyRVVya3daWEF6bUhqWm56TmZnaFJYdkZVU25ia29PaXB6UkVPZzB2dWpRQTg1VTJrRU4yaVFOVTBDU0FrYUFpSDRIUWhsZ0NFZkxfZVBuVk9vYUdSdkxwVFhTN2tIMldOcEphQzZwSTFUSTAwV2RfTzNpbW5mTk5RN2ljMHcw?oc=5",
+          "published": "2026-11-14T06:35:23+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Five Turkish operators to work at Akkuyu nuclear plant's first unit",
+          "publisher": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUEt2SmVBNHljeHlHOUhtNkxDaHgyeS1pNTFuVkRkMlBaTkZGOGI5M0EyQ2VNZ3F4eVJRcXZMclJUWk9XODVic2hDdGNyTGUyMXplQl9DZ2x1YkNHdVRYT3ZBTWxkcWllUzBXM25WLVYtTW4yQldCcWJibktMOUxnMHNFVjBNc0hFSTFVeWlybmJtQ1NmVDl2VEdIUFg3bW1PMTRqVnNzZkNORlNPUmtMSU8yMWUwblVhaGlJS0VQNA?oc=5",
+          "published": "2026-11-14T09:33:43+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.533,
+      "id": 6
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "산업장관, 체코 측에 \"원전 사업 차질없이 이행\"",
+          "publisher": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EZVZJZW1tZG1CM21wdGdUS1BUOS1nMldULXlGeDlFSWt0VXF5and6OXlqRHY4N2hIUXNraS1zQ3VZcU9qMmd0YnE5cEhWblRFeXFIWGkzZklWOFJSbGJYcDBuczVWb2s?oc=5",
+          "published": "2026-11-14T05:38:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "산업장관, 체코 측에 두코바니 원전 사업, 차질 없이 완수",
+          "publisher": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1TTkVrNlg4YndNNUkxUlhjbjc3dENCZno0N09SUDFGTURnTTkwQl9Qa1lvMjR4NnhLcHFjbW93ZnI5VnZLLS1QSzVuYVbSAUxBVV95cUxNU05FazZYOGJ3TTVJMVJYY243N3RDQmZ6NDdPUlAxRk1EZ005MEJfUGtZbzI0eDZ4S3BxY21vd2ZyOVZ2Sy0tUEs1bmFW?oc=5",
+          "published": "2026-11-14T06:22:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.4,
+      "id": 7
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "김정관 장관, 체코 원전 관련 화상 면담",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zZlphWnZTamc3V2JLZkZ1cm5zeXplZy1xUlhRWTFZNjc3aVg5OXJmRUZtQUcwRF9rWm0wVUg4b3VUS0c0dTVwT2dHT2pTYmFTYndsSEhaemppUGvSAWBBVV95cUxQSVdmd2tIcmd0SzEtUU5xX0ZqbmlLNnotb3gtLVRqQk5qNmpiaW9EWmljcTVHRHV3NFdhOHdwb1BMTG42dVFFLW5qV1dhZkwyYTJYMGFpSC1fWFAxN0dOSHM?oc=5",
+          "published": "2026-11-13T23:33:46+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "김정관 장관, 체코 산업통상부 장관과 원전 관련 화상 면담",
+          "publisher": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pMXBhSjV5S1Yxbng0VlZCVm54c3FqaV9Xb28zM3VXM0tCRDZkNHNUN2Mxb2x0TWVQa18xOU9FMHJRMERhWkZDYzRUbw?oc=5",
+          "published": "2026-11-14T00:05:48+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.138,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "EXCLUSIVE: Inside AEP’s planned nuclear reactor site in Campbell County",
+          "publisher": "WDBJ7",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMEVuOEZ4blFIT3F0cXFJTzJNc1RTc1lqUXhnUjBKRGFGMzZnRllxVmJLb3NuNTIwTkxDNWVwLXAtRldBU0JJRXVwbm5JbExKMGxBYVhxMG9wSXllRWFVdklpUmVPaFdoRV9XQm9uczM4U09HWXBPOS1iNW1iVGhlT3BuSVZLNW9kc0ZQVnBlZlVGVUxVVEd1SF9VdGhlN0FVRkHSAbYBQVVfeXFMTlhvQlhhRzdENEhxRUhWb1RKWkNvM3dMaDgxTkpSelJFMlJScXNZZlhzc3hMbnJBR0kxeFhrQ0lOaFB2MGdVRjM5emNDSHhub09GT1ZDdFlneklZX3NVejUzNV9hSGpvc3R6QVg0a2lQbVp3UWo2LXk1MWxyTjRWQ2NOaU41YU5ib1JOZXVEV2FScUxLbWZXT2k2Y25jbmJYcndFb3FsX0lPeXlrcHh5Q21XNnptY1E?oc=5",
+          "published": "2026-11-13T22:16:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "EXCLUSIVE: Inside AEP’s Planned Nuclear Reactor Site in Campbell County",
+          "publisher": "WDBJ7",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeTYyc01Wd0Q1R3hfckw2Tk1SbWRtSkxFNlRvWUNOeEk1cWNsLVVkWlZLY2xvM0h4MTRLQ1l0b01JX2dIaEtqUUJzV0t5emJVVU9jd3VMQnRmRWJLTEl4T3FTOHo0ZEthYXZqV3Exd2RIbDBnUHdtLWhQRFM4amxxeEprMnNrdWhCNWZBMlpjTk9YaVdxTUVaNmdIeWhBOEJDX3pOTTZVZjBlTGtheFRtUXZqNkJfNDF6RXpXM3d3?oc=5",
+          "published": "2026-11-13T23:24:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.109,
+      "id": 9
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "“SMR도 경제성에 달려... ‘플릿 방식’이 시장 주도할 것”",
+          "publisher": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11RVhRejA3SHBjV2Y2ampEY3E3RnoydlFlTHBIcXdudE1xOVN4TUtqdzZxWWtFVnc5cWx5NXVuZ3BkWEQ2YTJJc0VSdERraUExZGfSAVNBVV95cUxQek5yMko1bHdmRTM0Wm51MDcxRV9jNE5ETUtZdHlHZzh4MGRBUzFUNE5UYmg4OVozUU5VczYzN1FpbzM4WGYzTC15Q0t2dTBsektnUQ?oc=5",
+          "published": "2026-11-13T23:00:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "“SMR도 경제성에 달려... ‘플릿 방식’이 시장 주도할 것”",
+          "publisher": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6TnIySjVsd2ZFMzRabnUwNzFFX2M0TkRNS1l0eUdnOHgwZEFTMVQ0TlRiaDg5WjNRTlVzNjM3UWlvMzhYZjNMLXlDS3Z1MGx6S2dR0gFTQVVfeXFMUHpOcjJKNWx3ZkUzNFpudTA3MUVfYzRORE1LWXR5R2c4eDBkQVMxVDROVGJoODlaM1FOVXM2MzdRaW8zOFhmM0wteUNLdnUwbHpLZ1E?oc=5",
+          "published": "2026-11-13T23:00:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.093,
+      "id": 10
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "김정관 산업장관, 체코 장관과 면담…\"원전 완수, 결과로 책임질 것\" |",
+          "publisher": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoZVNfOGRFZEdoYW1YSklOSWw3LTVxdmx2U1h3cTcwVlZKZ1htTkllalJ0WXktdV9KelVpVXA5UWVUUTRVdGMybnF0dnJHU1pEd0JrbUlKblpaZzBQX1hzd1JtRmFGMWVFbGVVa1FYdzhmVEJv?oc=5",
+          "published": "2026-11-13T22:17:34+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "김정관 산업장관, 체코 원전사업 정상 추진 약속“결과로 책임질 것”",
+          "publisher": "이투데이",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwaUFFNmxWaDNLUEY2YlNSTVRwemNpM0NTcHdxeURtMUREbnZKalJyLUxrMEI1cGFsVTJuekEySGlQUGRXdzVjX3RlMXJVel9sV1hWUg?oc=5",
+          "published": "2026-11-13T22:28:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.071,
+      "id": 11
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "체코 원전 발주사도 사업 일정 재확인… 2029년 11월 착공 목표",
+          "publisher": "세계일보",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YTmhsSXpSMVFabk5lc3hEckI5QWdmV2hGcEN6TXg3U2txdDBjdUV4VHVXaTZ1WjJGQlg1ekhoc184eXlMYUprSDNrWlZLWjRRZ3JBT1kzWS1ab3FDc3ZadlFMVWdidkpiRWYw0gFUQVVfeXFMUE03ZWNhQjVLa2hXTUFQT29UQWVxOERwM25fdFJ1UkE4NWZEQzdCRTVheTNCeHhPTU9VTHVnOTRycExMSk1nZVFrZEJGRm9xeUFCc0Zp?oc=5",
+          "published": "2026-11-13T21:05:09+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "체코 원전 발주사도 사업 일정 재확인… 2029년 11월 착공 목표",
+          "publisher": "세계일보",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jbnRtazcwU0J0QzJnZ3EwX1ctMmpVQ0l4MmdDM01MUDA3Mk92Yk5kRW9zcmpzOXhjcHVqMXpUOEhwQmhxSWVnaWxzeXZ6Nl930gFUQVVfeXFMUE03ZWNhQjVLa2hXTUFQT29UQWVxOERwM25fdFJ1UkE4NWZEQzdCRTVheTNCeHhPTU9VTHVnOTRycExMSk1nZVFrZEJGRm9xeUFCc0Zp?oc=5",
+          "published": "2026-11-13T21:05:09+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.013,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "China’s nuclear power sector moves toward smarter, greener development",
+          "publisher": "Macau Business",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNHhjRE92UzJidWQ0b2YtUnlhbXNBTVFYbzR4THR0czBJaEwxSl9wd1FpVEpfMk81aHBGbF9wOFZUNmRta2g5U3NSenp1UjlKLWVCQ3IwamNneEtzbGlyRTBPaURib0FqM2dWYU83OU9GS1gtbjE2V3VTb1JvdVc2aHpBSGFremRmMG5kTFZqRWl5SmJXRVFrS3NDaw?oc=5",
+          "published": "2026-11-14T19:46:25+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.958,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NASA Expands Nuclear Power Plans for the Moon and Mars",
+          "publisher": "Neutron Bytes",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX0ZFM0VuUjBUUk8yV1VaVDBPbHB6T3poRXBjNUtQTF9tQXNoQnlSc2pyWGpaSTNxZ3VsZDRQX0ppa0FYX19SM0pTZVVrVnNpWnlIcU9BeTJTX3FwOVUydkE4bUZRVGdzclRzejVVcnVRQ0JpVWh0NXNOV2xZRzlJN2pmZGZjSlllMlpXbTh3bDR6ejZkV1FvOEY0V0g?oc=5",
+          "published": "2026-11-14T19:08:27+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.932,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Rosatom to nearly double staff at Iran's Bushehr nuclear power plant as Moscow seeks to build more reactors",
+          "publisher": "thecradle.co",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSmNJSUswQ3dtVzAwd0prLVl3RjZKMUZQUzE5eV9vbHVmOHRHdjBFWTBJZ2V2N3F0cTc3dzJLNjB2WmplanZEcDBFM3NBbXhLQUxvTTlDZmEzeTdVZENUUVM3SWw1Zlh2UjRzdGNHSE5XNU10VU1jNUpLd3RQRzVzN2FWcDFJMEdUeHc0RkY3V2tKcjJGVDN2X3RPbi1nS0hKZ3czWHAyeVJSMHc0VUs3OTI4M0dvZ1R3RnBHdXFLeDBrdkZGZnp2YjFiRkUxb19qeXc?oc=5",
+          "published": "2026-11-14T17:35:33+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.867,
+      "id": 15
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "\"공정·투명 조직문화 정착\"…원자력환경공단, 청렴경영 속도",
+          "publisher": "국제뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXTG9YN0txYjhzMGZwTE56b3VucGY4U2UyUmNYeWwyQ1dCR09fOVRxX21kRlE3cXNYVGhvY3ZMUng4U2FMVW1SN0hXaFNEaGRia1E5MlRzbUR2dVdESTB2cUw1a2tXcXpUMVE0bG9n?oc=5",
+          "published": "2026-11-14T14:50:28+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.753,
+      "id": 16
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 제주 그린수소 기술협력 확대…체코 원전사업 일정 점검",
+          "publisher": "웹이코노미",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VblpQRmRwcVcxNzA0VG9MNXFVRlBIWGdIOTJkOFg0ZTk4TUktUnlmVVlRSmQ4dnFDMVk4SzNJT281bl80X05nWFNVdFpxYmV2NEowNm9yQXBPTVJES09TQ3V1Z2ZHRi0weDFtUl9Vekludw?oc=5",
+          "published": "2026-11-14T14:34:59+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.742,
+      "id": 17
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "10 largest nuclear power plants in the US ranked by generating capacity",
+          "publisher": "Interesting Engineering",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WSzFGOXlKMkVSUExBLUo5TGZzVzJzRUI3dkE1M2ZVYllzSl9wc2twcTZmaURoYW5KXzZRZGpia3p3cTByR2tFY0t2dXp4MjJqbUszeHA2ZGpmOTdJZzJmcUhWMnZUa3d6OTJidWEwVVo5ZVBzOE8zWkJWNnQ3cTA?oc=5",
+          "published": "2026-11-14T13:09:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.682,
+      "id": 18
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "WRITE ON: Garbage, nuclear power & data centers",
+          "publisher": "Finger Lakes Times",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbjNIQTlaajg2VC1iZkNseXR1SnVzUkMtV0ZtZ19yc0I0aU1fajVLVThRcXQzMjZfWmUyN3V3SXFNYkNta09qamJSbVhKOVFpNU5hbnExbE5jcldQdlZGYkZwa1FZYW1qenh0ZC1PZkpvR0MyeWVqRGxvb0hlYS1MR2NtM1pzUWRuMktHUHZyNmFNaEZHVEJ2S0ZNR01HTmFpaFM4cWFHdjdBU1g4emgwWE4wa0loNTJUQnZzNEdUb2ZxZnc?oc=5",
+          "published": "2026-11-14T13:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.676,
+      "id": 19
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Estonia halves number of possible sites for its first nuclear power plant",
+          "publisher": "oEnergetice.cz",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSHZPT0d2dXhfSG1Za3g0czJwcTh6RDNGcUx3SVV1aTdVUjlxTEx0QUJRNUhpcjdhN3l0TmdRZ01ud0MyVDM4Q0xrejkwQ3pRVGM1aHppeHN1YUpUeFFSSHkzbTliTXk4UHlvc0V3NElranV4V1c0T3lITU5kcEJYTFJLaGJTdFJXVWZvLUxGR0pxRGpaWEpMME9mMnY4MWlSUUtkbEZhU1hTSC13alFzMGUtMA?oc=5",
+          "published": "2026-11-14T12:59:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.675,
+      "id": 20
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "고창군 범대위, 한빛원전 현안문제 관련 기자회견 개최",
+          "publisher": "일간투데이",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xOTJCSjdBdWtPVkZ5cGYyYnVxaW05OEs3OFM5T3FfX3A4ZFlHdUFYV1FoeFlvMmIxUk1qcUl3WklTMFdzdjRKMEVCME5FMVZpT0RMUDhyTDROeE1UZ1JsOURtQ3psSnpnZTVZ?oc=5",
+          "published": "2026-11-14T12:34:43+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.659,
+      "id": 21
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한국원자력안전기술원, 금속순환자원 방사선안전 워크숍 개최",
+          "publisher": "웹이코노미",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SekJ1NnVsa01fc3NaMWFjVzlFb1ROT2ZDbGpic2F6clFhZThzVGRSTGFCYkVvTHg0bUVYdXZoVG1YOFNPM3ZndHlwN0xsbXVTaTVVMThGSHpDbG52aFpoR0FibGVJc0N1dm0wR1BGOWk4UQ?oc=5",
+          "published": "2026-11-14T11:56:19+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.632,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "신용한 충북도지사, \"한국원자력의학원 최적지는 충북\"...과기부 1차관에 유치 강력 건의",
+          "publisher": "글로컬타임스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tRmNHSk8zTnhYRHBFOVNVNmhtLVhJbF9Pb3FnRy1OQ2Q3NklKWF81M3ZaM1BPbjVRaWF5bzBWcHVnZ0Y1YjV1bnF6QjByZXBveEVaSW42TGp1cWxHNWlWRjVud212ZHNk?oc=5",
+          "published": "2026-11-14T11:46:22+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.625,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "스페인 원전 7기 폐쇄, IEA가 계속운전 권고한 이유는?",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XQXJVSjBNWjJfRTZaZ0RtcWpxOHVjZlRqWEhhQnRUa3JHc1NaOW9zNmZwZUU1RVVsMWZsNjRuRVJQYi00VFJkcEFiYmVyUG1sc1hBdnNJc09QZk44aUYzX2cxUmQ?oc=5",
+          "published": "2026-11-14T08:07:53+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.473,
+      "id": 24
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "The Nuclear Investment Boom in Eastern Europe Picks Up Pace",
+          "publisher": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWQwcXRFcjNJbUJFOUFVQkY0WFB2NEdKcXhvcjNZMHo4UjZuS2M2RHBnRkRhd09WS1NKdldnYjJRRlcyOVZUTl93Rnp5Z2dMa1F1QXd2NlVPZVNDa2VWTVROd1EtZGlDYnh5Z1dHRGtKOXloelpaY2JiZlZ2QnlsWml3Qjgzc1JGUk51MXhnT3Bxd2wwTVluTTVpUkJpN0NWcWVoSjB5OGFsSWF3Um1v?oc=5",
+          "published": "2026-11-14T08:00:19+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.468,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원전 전용 AI '니바' 북미 본격 도입… 5,300만 쪽 규제자료 통합 검색",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GWWtsSm1GS2lGclVfM1dnYWNhbEY4ekZ3c1dVdENzS280MlQ1Mks2aTN1SzBpVExGSWFPYXZkTmpsV1hjMDR5UjhxdzBhdmJPRWVJbWFkVFNlanhjN1RLUGttUHQ?oc=5",
+          "published": "2026-11-14T07:49:10+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.46,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "월성원자력본부, 경상북도지사 자원봉사 유공 단체 표창 수상",
+          "publisher": "시사포커스",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qRzNNcWJ4MWxoMmlLM0JpUW1hNlhON196Uk9jb0hxUGppLWJnZ0JlUGJiYlp6V3gwY0FQZEtJM2hxbHlCYjk4LWNFeG1rMGpNbUVqcmxWU1NIa0N0dHFWNWFuem1DcTh4WTVoVDJKOA?oc=5",
+          "published": "2026-11-14T07:42:10+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.455,
+      "id": 27
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "“ROSATOM” ready to implement new nuclear projects in Iran",
+          "publisher": "Mehr News Agency",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWWNNcWswN0ZHMllKak9lOVo4UU93UG00MElLdmRodERvSDgtY0p0bWZWSEw5aEp3TTFrNjJHTEJwN18wai1LeEtuSXdqS3FEUzMzMDBybEFfRVFyTjJablhmR3BPa2JqdXI5ellJa2NuWEY3X3Y4V2NvVW5QX3JZU001WWV4RGs1YTY3X2RmVUxMeVduaXc?oc=5",
+          "published": "2026-11-14T07:11:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.434,
+      "id": 28
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Belgium to extend the life of two of its nuclear reactors",
+          "publisher": "oEnergetice.cz",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN3hxQlZMY2VXQ0YxU0d4MFo1MS1DTWlCaHZnS05Vd1VDbDVUWklBLTZ0SWNzUVlFdER3TnQtbFZ6QXJBSzlXekN1dF82LXQ3QWJXTlFLVnpXZ011MGttNjZ3MVcwWjlSSDlhOFdqa2N2NlR0bHBnNDdRSjUwMjZ2NWJxazhqMHJGNDAtMmV6YmEyZVZqUWFRRVpyNlBRdw?oc=5",
+          "published": "2026-11-14T04:38:06+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.328,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 50,
+      "kept": 46
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 7,
+      "kept": 3
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 38,
+      "kept": 35
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 1
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    }
+  }
+}
