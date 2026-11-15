@@ -1,0 +1,691 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-15T21:05:15+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "수원FC 위민, WK리그 챔피언결정전 1차전 경주한수원과 무승부",
+          "publisher": "중부일보",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NT055RlJpSl9DR0NYQWV6LTBuOEhSZ1J0cWQweFBqU3hCM0R5dlZ4VUVxdy1uVE8zSmxEUVBJYS1WUFVScnZkWllzUUNTdVZBbDZxaFJNYVd4NDZOUkFDd1ZWNVpOczRMeGktTVFPVQ?oc=5",
+          "published": "2026-11-15T06:59:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "수원FC 위민·경주한수원 WFC, WK리그 챔피언결정전 1차전 0-0 무승부",
+          "publisher": "경기일보",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uaEtEeTRYam9TVE1lelNtUzZGTzd2bV9FalY4M3lOTVJZTTBIczMyWGhkNWNZNS1pOXhlcDBIOEwyenA4LUZXV1JyaTNWUUhMck9SUUFBZC1iejA?oc=5",
+          "published": "2026-11-15T07:48:45+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "‘WK리그 통합우승 도전’ 수원FC위민, 챔피언결정전 1차전 경주한수원과 무승부",
+          "publisher": "기호일보",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wdW5FcVp6eWQtT1ZFUmlaXzRGb2U3eEFmZ1JTcHpUZkxEWWNRd294WFNydWdsQm1PYWhuRmJJN2h2YjZfTXdSZkhpVU9vOFRYaW9tOThxZ0VGNlJDVWF0MlJvbk1WSUtaOXQ4VVg2VQ?oc=5",
+          "published": "2026-11-15T08:14:41+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "수원FC위민과 경주한수원, WK리그 챔프 1차전 0-0 무승부",
+          "publisher": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Ib25sdDJpZnhNWm00SlRfanZ3Ujg3LS1mbFo2OFVfT1hLNjV0Yl9Qa09CZjU5Wjl5SHFYSEJic1hpelRDeWE2NjlHV0hGVkJHdEg2eA?oc=5",
+          "published": "2026-11-15T12:34:35+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.645,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "무보, 슬로바키아 수출입은행과 원전·에너지 금융협력 강화",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXX1VjSjgwTGM2cE1wREcwS2k2VDFqS1N4VFI3X2o3ZFV1M0hQS3RNazU4elNSSGhtYVNfaWZhSldmOXNWblpkME5BTExkeWN3RWVIeGN3azVTQ2_SAWBBVV95cUxQX0lrdVBNb1RpZXVkVWczZ2VMM1hvR1lWT3hjVGgtRFNPcDBnR0ZWMEtLbDBXTjBNR0kzcVd0VzF5REMyQmtyWU5fOGVMemQzWEs4UWdZQnNELUdWaHhjeFg?oc=5",
+          "published": "2026-11-15T00:25:24+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "무보, 슬로바키아 수출입은행 맞손…원전·에너지 금융지원 확대",
+          "publisher": "아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CWW45ekEtX2x6RkVQYWlXeDVIaGJyZkVxVmxuZWRDa2FadUJ2Y3Y3cm5OVDEwOVRNajRLR3Q0ZnRFUEtTZ1Nsd1RMOGtOdlBZSHo1cnBYTU5ZQdIBWEFVX3lxTFAwRlhRcWJsX2tma3VpTVAzNDd1dlpuUDBhVjVsX3lscU1nSVlQSW1FRF91TW5QYUJsSk9Ha0tSVGp6Ylc3UE10LXBBM25wbF9TZVk3QTdERlg?oc=5",
+          "published": "2026-11-15T01:00:40+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "무보, 슬로바키아 수출입은행과 손잡고 ‘원전·에너지 분야’ 금융협력 강화",
+          "publisher": "www.dt.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE85Y0xmYl9ycnluM19valY0Z1l6NWN0dVY2RkxCSmhKMzBTSnZiNkdBRzBFZXBuRlg0U0JGMjNpbGJOLWNrdVRkams2S2NtZw?oc=5",
+          "published": "2026-11-15T02:19:29+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "무보, 슬로바키아 수출입은행과 원전·에너지 금융협력 강화",
+          "publisher": "코리아포스트 한글판",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50TUJOaFRCV0tpNWlRTU15cXNrQTJoWEtOZmRlXzlTSG1HU0xhcmx6SlVOLVNkQm1qSlg5MU94eG1kZklFNzYwbzRfVG1HUTI3T3VNU3RvTXhpUWRrQjdMTDloYkJ0RmdGWTBIVmtB?oc=5",
+          "published": "2026-11-15T03:11:32+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "무보, 슬로바키아 수출입은행과 원전·에너지 분야 금융협력 강화",
+          "publisher": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE50SHg3TksyZ3pTdzBxdEFKeDhsRl9hcGJ0Zy13RUtBSkFoRTU2T1FseWtrdmhkem9PQWRwOGdqeU04RmpveFV6VHJEdHBLdw?oc=5",
+          "published": "2026-11-15T03:29:18+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "무보, 슬로바키아 수출입은행과 원전·에너지 금융협력 강화",
+          "publisher": "전기신문",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjOEN1MDBKUnJ1Z0lLRjFVYURpR1Z1V3Ruc2lwbWpYSjJXSWdrNC11VFV5YTk2TlBSUFBwaDQyUjJzRE1Oalh6MzcwSEhfRk83MXVaYzRZMVhhX0VZdms4N2xnSW03dFdFWThLcEdMZzHSAXBBVV95cUxQYzhDdTAwSlJydWdJS0YxVWFEaUdWdVd0bnNpcG1qWEoyV0lnazQtdVRVeWE5Nk5QUlBQcGg0MlIyc0RNTmpYejM3MEhIX0ZPNzF1WmM0WTFYYV9FWXZrODdsZ0ltN3RXRVk4S3BHTGcx?oc=5",
+          "published": "2026-11-15T05:00:58+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "무보, 슬로바키아 수출입은행과 ‘원전·에너지 분야 금융협력’ 강화 맞손",
+          "publisher": "부산일보",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03cVA2N2ZuVDMzUXdwUm50OEV0MThucUtON1Z6dmR6ZHA3UmZwR3RtRE1BaUhDMFFPbGJ5WWkwVEVxVTcwZzV6ZTZQbmhDV1NGVXdsaGFyN1IyUUNWLV9DbnYtbklsdlhQaHgtU1gxcHExb3dU?oc=5",
+          "published": "2026-11-15T10:45:30+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.57,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "월성원자력본부, 경북도지사 자원봉사 유공 표창 수상",
+          "publisher": "경북신문",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qUVIxRkMtd3RjaUlkVGF4NE5Sa3lCUmpyZmlWVkdXREd3V0xGRDBDUUt0YmphbEplaDZBd0FONjR1dmJNOEVxUTczVTVOMFFzX1UxcWZWaFA?oc=5",
+          "published": "2026-11-15T01:29:23+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "월성원자력본부, 2026 경북 자원봉사 대회서 도지사 표창 수상",
+          "publisher": "투어코리아",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xMmlsM0Vlay1ac1NXeEZsMHF5dnZaUTNOY012UGhpeTJIY3J6dDBrRVF1dHNWX3hOSVhUR0dPOGxZeDdSeVR0RkpvdzIxUjR3NVNkamVLUmVPZHBzNUtseXVSdTVqZW1JRVVsbWNR?oc=5",
+          "published": "2026-11-15T02:42:57+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "월성원자력본부, 경북지사 자원봉사 유공 단체 표창 수상",
+          "publisher": "헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9YVnM4aE5iRHBhbHpGOS1BZnFiVk45dE1uSUZydTF4QkoyVDNNWTZHMG03MmhyM3VfSkM5SUpIQlVkWXdPM3cxYkVNUVpVSmF1azZDYmpn?oc=5",
+          "published": "2026-11-15T03:19:16+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "월성원자력본부, 경북도지사 자원봉사 유공 단체 표창",
+          "publisher": "경북매일",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RYk0wdTZkMzNpNVRLVHpfanNnenJXdWdrSmhGQWFTQUZlS01IbWdwQTBLdGNhekRqNk80Tl9lTmsyOXJVMF9JMzNySFIyS185Tk9ObFlsdm1iQQ?oc=5",
+          "published": "2026-11-15T03:38:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "월성원자력본부, 경북도 자원봉사 유공 단체 표창 수상",
+          "publisher": "경북일보",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vdWh6N1NpMC04RXhFRm5LZF9ELWpRaFdSWmZRQ1pqZGpjSDh6R3NNZUpaWTExS2NGcDVOc2l1MFFEakF1OXMyTFlDR1RIODJpZlNVaHozUWxCcTdLOFpQVzZ2U2NrNE9taFZQRTNrdw?oc=5",
+          "published": "2026-11-15T07:59:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "월성원자력본부, 경북도 자원봉사 유공 단체 표창",
+          "publisher": "www.hidomin.com",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBId19EYUR5eXBpX0tyQnFJcEFnOERCSWFBNURrRmhYSEdqQThIaVNkcDZSTVNUTlAwQjlfOFJTM1RlMmRRRDRneURSSWdMN3BucENxWkZrdmJzM1JRQWU0WlRNRW13UXpzbHc?oc=5",
+          "published": "2026-11-15T08:57:14+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.494,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한국원자력환경공단, 지역사회공헌 인정제 최고등급 S 획득",
+          "publisher": "경북매일",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EQ1NhcEI5a2dZUXZ3dVhjNTVQZDZvY2stdEdWZDZ3WnNnYXdkUlZLejFEOGNjanFDM05IUkc2YXRiZlBJaEw5Z0VXcVU3ZjdFQWVLYzJ5NVN2Zw?oc=5",
+          "published": "2026-11-15T03:38:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "공공기관 지역사회공헌은 원자력환경공단이 ‘최고’…최고등급 ‘S등급’ 획득",
+          "publisher": "아시아투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iSm9oV0RnTkxZT1F0R3JNZGtoTlF3Z09ndHRoc3VUN1Y3TE9ZU3RXcVFWQWxvU2RocFRoQ2tXem5IdFlOSXJNdVhqdXROOVg2dkRVcEJDRWNkNS1uNkY1Sy1na1EyemRSNmFKa2hB?oc=5",
+          "published": "2026-11-15T06:40:40+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원자력환경공단, 지역사회공헌 최고등급 S 획득",
+          "publisher": "www.hidomin.com",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FZXdNUERpaF91c0NYT0ZNNmt0OGJJRDctUi10U2FNM2hvOUt2eDB4aXZEVElSa0xNcGdiMC1mSURXQnUybzR0eUMzNzd3TW44SHNtMkpXRHBIUWo2a3NjMUxyaHRJemxHTkE?oc=5",
+          "published": "2026-11-15T08:00:03+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한국원자력환경공단, 지역사회공헌 인정제 최고 S등급 획득",
+          "publisher": "경북일보",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBENGt4UURFQzk3TXlYMlpQMHpyTndTODI2dG5CeV83VXVkdVI3d19wOEVFYnNma3hCRDNRaXJmdXRCVWpaZGpFTkg3MFJxUnN2QUpEalpwMjlLdGlqM296Ry02RGNqd0RhYmhITno4aw?oc=5",
+          "published": "2026-11-15T08:51:32+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.49,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Rooppur Nuclear Power Plant’s electricity may join national grid this week",
+          "publisher": "দৈনিক আগামীর সময়",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RUTFaZmk0U01QX2VIWDNXZjJYZ0syT01zUUNVbjBjUm5ic0Nndzc4Yl9uZEpxb2ZhVEtsTWFyYnl2Skc4aGhpaDZTLWxkMFNQSkg0WGJtd2ZFcDFmSURLSUp2T3I?oc=5",
+          "published": "2026-11-15T05:44:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rooppur nuclear plant may begin trial electricity supply to national grid this week",
+          "publisher": "The Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUFoNjRVbXZvVS1DZGRkWlgxMkNUMW9WVUJwWjhJTUxROEZwR3RhWUp2NVlwS0t5UDQta0s4MXZZcWpYenRKQ1NNTjVWNkVnamxZLXI3Z2hCV3RJRzQ4ajlORHpGcEpnc1dGbzJkdEFlSFNja1Q1c0xZWk55SHRQdGlPN1RkVkk1dk5qd1FWRlJjcWd3M1lTekc0NXhwaTBkWWxhbmVOR0dnQjUyQTQ0RGtESHh5eGZqWERqMHJnMA?oc=5",
+          "published": "2026-11-15T15:04:25+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.749,
+      "id": 4
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원·체코 발주사, 두코바니 원전사업 합동 점검",
+          "publisher": "경북매일",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hU0RGay1UR1FOcktGZ0dxTk1WclcxemRlOW1JN2ZDamlOaS15cEx5a0FSUzFzTW5FejYxUGpEajZzWklpQ3ZVa0FtYmY2Zy1kNzdnY3VPdjE5Zw?oc=5",
+          "published": "2026-11-15T03:39:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력, 체코 발주사와 두코바니 원전사업 합동 점검",
+          "publisher": "시사코리아저널",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02VlB0Z19rcmtDSW9SWkhZcTJQSGpZQnFUVmliWXBpYUM5NGp6ZG8zM1N2bHNvN1d2ODBoaUtVZXR0ZE5KczMxbGV2MjEzX2p5R0U2UzhfYVRSdFp4ZW9DUjRueEd5MWFI?oc=5",
+          "published": "2026-11-15T14:45:04+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.736,
+      "id": 5
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "체코 원전 시공사 교체 논란… ‘결렬 과정’ 청문회로 번지나",
+          "publisher": "서울신문",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUYndhbXdCNzI4QTBlY1dnbWxRQzhNQTVKcWVyd0NsSC0tZ1d3T2RUcDdaYlFDLWxCeDRJTXdNVkNjM3g5Y29pQW5ONzNxX1hoWnNIVENySUJ3WWdwcm1IX2VFSGxybGx2MWk5RUFzb0VHOG5JVkttNjlabw?oc=5",
+          "published": "2026-11-15T14:43:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "체코 원전 시공사 교체 논란… ‘결렬 과정’ 청문회로 번지나",
+          "publisher": "서울신문",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1tZmRIYUU3SjR3TU83WTFMd3BFUlZQSkZicEZhNHByRE9hN015QmR6QnVsMTBWaGdsdnRFeGw1Yy02ZjdaclVXcHc5dmtiUENwWndycU5VOA?oc=5",
+          "published": "2026-11-15T14:43:25+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.735,
+      "id": 6
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "수원FC-경주한수원, WK리그 챔프전 1차전 0-0…18일 수원서 최종전",
+          "publisher": "톱스타뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SVnJrUm51U1hNaHdOdU5KTnVJRmUxMzZKLWVtT3RXODRHbklqTUd3MThnZGJhazJTR3hPc1RVX3c4eHI2V1NWY1RPRjVvbjNrS05PYUVqVDJWR2g0emtHTzZYOUZReXI1SV9vNnhUU01QUQ?oc=5",
+          "published": "2026-11-15T07:27:28+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "수원FC-경주한수원 1차전 0-0 무승부…WK리그 챔프, 18일 수원 2차전서 나온다",
+          "publisher": "www.xportsnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXRkxwVnAzSjBUbkxQMVJ0d09qM1lSdkJMQnBOZkxtQUxwZkxZaXJUemk3OWw2UXNyTnhiRU1QU2NNaHhlREYtR3dham5pSWR3emlGWg?oc=5",
+          "published": "2026-11-15T10:41:49+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.567,
+      "id": 7
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한빛원전, 건식저장시설 주민 의견수렴 마무리…안전성 확보 강조",
+          "publisher": "아시아투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DcmduWnExeVBWTzZyWU5iTS1FZ1NnbmtfcmRfTjloM0ZsbDRPWUQtT0hrbGFLSVpsU3ROTWhNc0JDRVU5cG9GQVdEcnNiUTVsWDNHYTVOT0taUTN0Vzl1a1NxQzF4ampvWlVkRFl3?oc=5",
+          "published": "2026-11-15T01:18:19+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한빛원전 건식저장시설 주민 의견 수렴 마무리",
+          "publisher": "남도일보",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwNF9Ub21DdHpYMDNobVJPV1hVNWhuQmJSS3NxdWUydUFfcExRbUgxeEllUDhRWnpxaTljT2RwbnRfMzhhWmx3cXhvTUlERmFJWGh1UzV6bTc1ZFFyS0NVS09hblpYOTNzV1ZGeWRFNGzSAXBBVV95cUxQcDRfVG9tQ3R6WDAzaG1ST1dYVTVobkJiUktzcXVlMnVBX3BMUW1IMXhJZVA4UVp6cWk5Y09kcG50XzM4YVpsd3F4b01JREZhSVhodVM1em03NWRRcktDVUtPYW5aWDkzc1dWRnlkRTRs?oc=5",
+          "published": "2026-11-15T09:58:17+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.537,
+      "id": 8
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "신용한 충북지사, \"한국원자력의학원 최적지는 충북\"… 과기부 1차관에 유치 강력 건의",
+          "publisher": "충청신문",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PY0VwMHgxdlZ6ZmZTaDVzek45M0RhbmdNOVMxSEk0TmJyc0p6VWg5R25VLWQ0WmJ4VVR6anJaTmpnNXU2UWxxbkRnSzVJT2puYXQxeUFISHJ6WEJYV29tUjJGR0xsM2xSNHfSAW5BVV95cUxNVXU4RlBvdGtIdktXLWZ3T0RpMjI1T3NTYjYxaVRqdzhsajRVamJwaEEwVnZUVkg1N0ZZR2JDSk9nR1ZySmNuMjl1ZkJwbGRhNndEbHYzXzN6UmFqMEJmRE1Ga2g3dHZHNnRaNGk1UQ?oc=5",
+          "published": "2026-11-15T05:59:56+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "신용한 충북도지사 과기부 차관에 \"원자력의학원 최적지는 충북\"",
+          "publisher": "충청일보",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mbmk2YnVEQkVzRGl2ZUs0Vy1KT3dIOEpFTklZWjliTE1rYlFyLWNoTEtPeTczSHNtd25jd0ItdlcybjFNQTk3bWJlS3BSdUpRVHF6MVE4SWR1RWp2bVYyQ1RDRWRvR2gyMnlHM1RhTzQ?oc=5",
+          "published": "2026-11-15T07:59:31+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.454,
+      "id": 9
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "무보, 슬로바키아 수출입은행과 맞손…韓 원전기업 유럽 진출 지원",
+          "publisher": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sS1hmY2lKbkVtcTFDTzFqU2ZHVVNMVktkamFPRUVna0daY0xVdndGNDdfQ0xUNEcyTjlWMDcxNEx2WE5XeHdEZzFESG16NngxZUQ0VmpLODdsdw?oc=5",
+          "published": "2026-11-15T01:10:41+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "무보, 슬로바키아 수출입은행과 맞손…국내 원전기업 유럽 진출 지원",
+          "publisher": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11Y1JGV3F6RFZKbEhBZ0V6U0FlV3c3V3RsU0pUOEJSN2JyTXNDU09HT2F3RGwwWDlvUEFLTFR4bTdnZ18xMGU4Sk1RaUlBSFNSTkRKRVVCVnRfcFlE?oc=5",
+          "published": "2026-11-15T07:53:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.45,
+      "id": 10
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "영국 원전 인력 10만명 돌파, 한국 ‘기술 대물림’ 골든타임 잡아야",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IMkYyWVlaNW9iY2dkdmxSdVhEWVFUa2ZqSDJKdjhCWGFHeHM1Z0s4aG1EUUpqUUxWNXRMaV9TNllmNk01YmRGYkNXTlZ1YUtHLVBoRTFDTFVzSlM0SklwZUVZUm0?oc=5",
+          "published": "2026-11-15T20:54:14+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.992,
+      "id": 11
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "서울 한국원자력의학원 ‘충북 이전설’ 촉각",
+          "publisher": "데일리메디",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mdXcxVVFNQmV3M05sdDFrZ2U3Z1RTcERGTjRER1JQaWtucFRnaDRvSnBvNFR4VU42LU1Rc1k3SFdyc3BMYlJtSUtDa3VFRVJ2X1ZxcHZpMHJIb2UxYUxMLURTNUlNaExP?oc=5",
+          "published": "2026-11-15T20:26:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.973,
+      "id": 12
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "COP31 ‘전기화 35%’ 공약, 원전 왜 빠졌나…업계 반발",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VNlV2S082RWJ0LUw1c283UU5YVFZFQWd3bkF0STEwT2FWVnd1MGc5SWM2cXc5NlFOYldIUjdUbFpPQkI3RWRqY3kxVUlWSXpGWEdtb3BRWHh2U2xhZ3JtOG5qZ2o?oc=5",
+          "published": "2026-11-15T20:19:18+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.968,
+      "id": 13
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "오클로·센트러스, 메타 데이터센터용 SMR 5기 핵연료 계약 확정",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4UlJHdUhwRGcyaVU4dFZGSmgzWGhJRVgyZGJzWjN2bG4xcDM1eE1wY3hNTmp5ZWFnUkxreTlkcWdyeGxrZnZzY1dQa3MtRWFlcUpiV3V4X1l6SGhFYnF0Z0MzUkI?oc=5",
+          "published": "2026-11-15T19:26:25+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.931,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NuScale Power (NYSE: SMR) Once Quintupled After A Brutal Selloff - Can Nuclear Investors Expect History To Repeat?",
+          "publisher": "Foreign Policy Journal",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOb0t4VlRVU05rTlowcjBsVWVBbUNIQ1hzR2xacFpLcjhJd19UeHNZOW1FNnFaS1hpUEtXU0Z1VWNRb0pneWRoSmEzVTR6MG5TUVFLR0JpOVFhallOM2t2SWI0ZUF5Z1FqRDU2Q0xmYmpwOFZMbkZ3LURpQUtDUXg2UFgwLTB3b3RmT01tdTl4ZzhuMThoVmdYOEI3a0RYb1B5YmFyQWxpSW02NHlZLXFTX3k5YjNkTnY4am12Z01iTmMtcEJ4cGNJWEY0a1BuSGtZN3JHWVBiRzNNekR1V2lFTFlRQi1BME54aWNDdWJR?oc=5",
+          "published": "2026-11-15T19:19:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.926,
+      "id": 15
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "영국 원전 인력 10만명 돌파, 신규 채용 늘어도 숙련인력 부족",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfTVNPaEFHb0FHT1NXeDBFbW5LSGZ2QnpBTEk5amhhS0pUQl9tbENrMlpEQk1qYlZHS002TS1JQngweWdmTXNmODdpNXc5QXRlbHRGU2tOZ185TUFVUmdDRy1pQ2Q?oc=5",
+          "published": "2026-11-15T19:05:58+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.917,
+      "id": 16
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Rooppur nuclear plant nears trial power supply to Bangladesh grid",
+          "publisher": "Traders Union",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTnVUWFlfQTZNZGh0RWxLRzRPbGZzY0xVbU50TGw1b3RRUy16MUhjOVVsaFNvaG1EXzZqM0ZyZkJzRVRwN0ljbEh2QWt5TkdRalZnbUJDSmthUHc5d0xmcTNhX21sNi1VLW8yUHFCcVdFZFdNaDNYb0Rhd0pMcFlCX1RRclJXNFhZYllvZGZvTVNlZw?oc=5",
+          "published": "2026-11-15T15:10:25+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.754,
+      "id": 17
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "New nuclear power plant in upstate NY moves a step closer. What to know",
+          "publisher": "Democrat and Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdnl4VDRqdE9kdTM5SDBBUDAwcGJIUy1IT2k3Y1E3eGQ3WWVTM29tV19OeHRJQjNvd3VLa2luSEE4QVZTTmRyQTVSNWFuMTNxbU9CQ1VITWdoZ08zZmstbzVxZUgzd3l0dmNEMVpiMXljTGljUnVETnNLdGk3OHlFTktaU2dxOEJ6dDdQalZ3bWwwU2h1NXhHRXZnNjdEWE1SU3ZnQ3dkMEl4N0V1bWJ3?oc=5",
+          "published": "2026-11-15T14:27:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.723,
+      "id": 18
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Cameco's CEO Says AI Isn't the Reason to Own Nuclear. Here's What He Says It Is.",
+          "publisher": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRGNNLUpuTjFVckdvY2J0aGFBRktRZTBzeF9KQXlQT1pQX1lZLUFCd2dhcEJHWmdmRGQ2dWEtUFA4ZXNXdUV6LTM2eTA1OUJVVEoyRm5XWjZ0NC1WWllHWEFhX254dzVhaEVZbmw2X19GSzJpVEh1eGFuUmFGd3hwdU9zRVI5YXdxcUFzY3pYdzBybFhNaTRJQw?oc=5",
+          "published": "2026-11-15T13:37:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.689,
+      "id": 19
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Slovakia seeks to expand PHL ties on auto industry, nuclear power",
+          "publisher": "BusinessWorld Online",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVTVTNTl0VUpKOHdIUGlSQnRoNm1uRjlON3Z1TWJjLXE4b1otUXdxdVptbjFBRVlaWU1NVDdjbThqa2dUcGEtdkl3VExCdHlQUEx1Unc5Rjk4em1TWkJnYmRoaEhxRmppY0h0bE1wcXVCMjdOdFBJOVVrNHRObFdGM082Wm5RMktqLXc5VW50TXRNR051TFQwUTdQRVljVGw0cUtaT3hjQnhfcF9DZlY0WVhhV1pjdzdxdWM0?oc=5",
+          "published": "2026-11-15T13:00:34+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.663,
+      "id": 20
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Japan seeks more than energy deals in its nuclear pitch to Vietnam",
+          "publisher": "Global Times",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uMGcyWWdKYzZCNUttdURVbV9xaExiS0lDS0s2VXhmSkdUOFpLR19IYzNtMGtzV0EwRGVlRVNWWklqcmIwYnoxdG1RcVphWFdVcGE2UlBvWE9CSVJ3dXMwakZn?oc=5",
+          "published": "2026-11-15T12:22:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.637,
+      "id": 21
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "5 Turkish operators assigned to Akkuyu nuclear plant's 1st unit | Daily Sabah",
+          "publisher": "Daily Sabah",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWk5YM2ZlcW5MdTgzTDhGME9LMU0tMlAxU0JpaWkxZDhOOUVWWFgtMFRrR1N4dlJ0VzNaSzNFWE5rd3oyb3FMRWZUSkx3eWRqTERQcFpLUFNwWHhZd0oxazBkcHRDOTRIZFVTZ2VublBiZlFxeDN5M3FXVlM4OTJCaFBwTjNVZmVFNGk4UG9jRTh4alZuWmUzc1dBaUZTSE5UMkxQa2hwdlHSAa4BQVVfeXFMTnc0Yl9QNTNwVlgzcndkNmJyR1NyNmo3MnJFNnJxaEJ2R0J3STZGVkpEUGVlYV9ER1NKVTlrdVQzckVQY3BHLVNYb0RIOWVKMDlPT2hGMnY0dUg4WWJLY2dPakphU1V5WThENmFCU1VzSndyTVphOFcwLVpoNl9jNUdkTlgtN3gwdnlUTzk0UWFWbTgwYzZQRnI4d1Zib01XTEpQUkg2cnN2MW1WMXBR?oc=5",
+          "published": "2026-11-15T11:50:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.614,
+      "id": 22
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "‘Nuclear Safety’ Warning As Strikes Cause Chernobyl Power Reductions",
+          "publisher": "Newsweek",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNFZLcU5HOTNDVjA4OGdETHFzZHhEY1haTzFoYmNiWWJScjFXdFBWUXJ5RHBJLUVpakNNbHd0N1cybWZaajl3eEVBeE9NemYyMmFVZHVhS0NFZlZjM0NibDNQSlR1cDdocWRrU1NGRVJ1UHpjVWNQUTEtMHZHb3dpeUVTRWtxVTdFdmRuRms2NHN4LU1YZUc5TVpoU1N4NHpQckE?oc=5",
+          "published": "2026-11-15T11:35:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.604,
+      "id": 23
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Ohio bill would let utilities build nuclear power plants — but who would foot the bill?",
+          "publisher": "Cleveland.com",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUFFGUTlpMmd4MDdmWGs4UGZlaXUzcEhnYnByV0JXM1RoaFBfVlNWOTFkdTEySjBnQnU5YTRBUGEzR0FvdXhGQ3NDN3VpSUk2djI5d2xQR2daanB5T1otd3pvbnExSkdtWktrMUwxWkFVcHFRc0xZcW95cUM1Z0VYWmp4N0xDa2FucmZVTEJRX1o1ZDI5OVdfMTU2TDFjZUU4VjhHU0NjSVJaYnlaU1B0MnE1b2p6eVRBLVhuYkh2bU00aDE0ZUww?oc=5",
+          "published": "2026-11-15T10:30:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.559,
+      "id": 24
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Rosatom has proposed building a new 1 GW nuclear power plant in Armenia",
+          "publisher": "Radar Armenia",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PWERXaHlTZm52dUJ1UTJJaGFETnRmZ2lnVEtfOWx2UnA3NnFuT0NiaUtmd1cxN2I3R2dQck5DUFZ0VTVMTHJtd21XS3B4MjlxQklXSnRObVo?oc=5",
+          "published": "2026-11-15T10:13:02+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.547,
+      "id": 25
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Assembly weighs hearing on Czech nuclear deal",
+          "publisher": "The Korea Herald",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwamhONVl6NkhZYjVpTGZOUWFOalNFVlZSU2NFWW5VNlVweWNZSDdkY19VTjlfeEdaY0FScVd4T0hmM0FQTDc4SS1YbFNwRS1LREZJcl9Dcw?oc=5",
+          "published": "2026-11-15T09:42:14+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.526,
+      "id": 26
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Iranian Foreign Ministry Spokesperson: Inspections of the Bushehr nuclear reactor are conducted periodically, in accordance with a bilateral agreement with Russia and safeguards commitments. - reports",
+          "publisher": "CGTN",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12R2ZsOFY4Yk9RNVRzVzBmMDY4bEtYSzJXa0o2Q1pxZFNDRXdSbmlRRGlYWFU2N3NDbzRWLUg2S2t2SnJpMG12YTE1anY0MjFtZVdGWVhHWEVEQmc0OUx0Y1JpWEsycEpwY0tEdnBR?oc=5",
+          "published": "2026-11-15T08:30:48+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.476,
+      "id": 27
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "“We have no right to take water from nature,” says Uzatom head about Jizzakh nuclear power plant",
+          "publisher": "Daryo",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ1c4dWIxcFdMOXBKdk5JaTM4Zmk2ZFRZdnQ2UkFJRHJickpzTDYxSlozcVJENzdBcDZhSElfUFA0YjROek9UVUhkY1dnaEhFLWRBM1ZKbzhzS0NnU3lsN1RIX29wSmZ3WjA5ZjBENmt4ckd2QkZkNWgzQkFFMUhBdVBSWlg0ODRBd3ltbDRCZk1XSlp4STUxd3l1ZWRDdHNiZFktcDNaWEVuVi12MkUyazhXZkV1b0Z6aUZZREFJN2JvWFk?oc=5",
+          "published": "2026-11-15T07:39:22+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.44,
+      "id": 28
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "E.ON Reviews Former German Nuclear Plant Sites for Data Centres",
+          "publisher": "Technology Org",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdzN4eDJQQlpiOTBUMHFUTjNVd2VVVXQ5c1pLUFdGWXBic21JTTdZUjY4aG9yV2hJRlF2eXhyS3c2Z3ZwSXByRXVCdm8zQlBxQkE2OHlSTmxsOGk2MWZuYnI1S3J1Z1B6WUZjZjNpSGRDd2xBeVNlRy1NQldaZXFpd1VfcjlXZHhSV1NIVg?oc=5",
+          "published": "2026-11-15T07:04:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.416,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 78,
+      "kept": 71
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 26,
+      "kept": 18
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 25,
+      "kept": 22
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    }
+  }
+}

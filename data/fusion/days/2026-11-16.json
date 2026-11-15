@@ -1,0 +1,137 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-15T21:05:18+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Iran prepares to commission first fully indigenous nuclear fusion system",
+          "publisher": "Tehran Times",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWFNDSnRYSDB3aFlueTBCNUVDY2NDR1Q0Nk9UZ3A2MHNrTExuZEVJZTJMN2ozak5CQXJHSVJUZVdsVDBYOGlyNlphb2hieFBJX0Z6Qkg1bWpwWWhJaGVXa3UwWS1ZWHk1SHczVWZGUjYzbGYyT3dVQkZaY2lSLVpXUGw0WTVOTlJoVy15Rl82YUlQWWE4UnpaV09nem9NdDlrVWFBOE1qTmc?oc=5",
+          "published": "2026-11-15T17:44:48+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        },
+        {
+          "title": "Iran to launch first fully indigenous nuclear fusion system",
+          "publisher": "Mehr News Agency",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRDhPbkJBZXE0NjVUcGFsak1KRnk0Wkl5X3I0cEtwZVF6QlJIa2dLY2x3WmJEeVVWMThzNUhkNUpPTnJlQi1TTmJMWUFFdHhJVTk0WTZyM2xHSzhtci04MDRobDBNbHVaamFYVlQxY1N4X0VLVVBvVzZycFBTQ1VGd2NteXVadHJwd0JLYzNBZzZLeVdrMVhKM0tzUQ?oc=5",
+          "published": "2026-11-15T17:49:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 1.864,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "핵융합 발전 26기 추진, IAEA “상용화 800억달러 필요”",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qNUlVX1U1QkJyWkhqQV9KcVo2eTd4VWwwb1N5UzhoVk9fdERYMXJlcmFFYXNtSTRfZ0VwLXlrR3dQc09Xc1VoTGpmR3Rwc29XWnFmZTJRMTdMb181UV9Pekkwb2o?oc=5",
+          "published": "2026-11-15T20:03:52+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.957,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Tehran announces operation of first Iranian nuclear fusion system with local technology",
+          "publisher": "وكالة سبأ",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGcVV5eGhkS3E3WFd4amtPNkhsYXQwaFptdE5iVnNwRnBabk1OdS1NaUJUYVBEeVNsQlk3dm9oZUtyWmxqak9mY1RDRFlmSW9qQlIw?oc=5",
+          "published": "2026-11-15T15:58:21+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.787,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[기자현장] 나주 ‘인공태양’ 예타 통과, 미래 성장동력으로 삼아야",
+          "publisher": "남도일보",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KNlc5OVEtdlczQ0VDVGJXTW80VTBPbkdja09LOGFsYTk3TWJpRWhfR1VieGUyVTdrbF85bVF5REZ2X3FkMGZHY3c4aTJUcmIzY2V0bG9PVldrVU9zSTgySEFxb3BfOFB5ZmstQ1pMZWjSAXBBVV95cUxOSjZXOTlRLXZXM0NFQ1RiV01vNFUwT25HY2tPSzhhbGE5N01iaUVoX0dVYnhlMlU3a2xfOW1ReURGdl9xZDBmR2N3OGkyVHJiM2NldGxvT1ZXa1VPc0k4MkhBcW9wXzhQeWZrLUNaTGVo?oc=5",
+          "published": "2026-11-15T04:40:37+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.316,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "OpenStar to develop the first divertor for a dipolar fusion reactor",
+          "publisher": "Foro3D",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSGpxNjdwUFZ5Ui01SFdRRE95VnFCbHF4aWNOM3ZYNmJkc08tNEdEX0dJU0tTTDBWb2NpaERjOTFnZ2JxaUlld1hxclNJNXE3YnJGOWxYRE53bmNjTGw4VnpDbGVLUkNVNFJTY3dTTEVoQ09hLWdKa3BSMmNRUUpyZnlHOWxuMldIWDlsUnlkd0tSYll6ZmNuY1VwVHRlZDFIZTBXZ3JzMXV3VEJyX0lMS3p3?oc=5",
+          "published": "2026-11-15T01:24:09+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.18,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Proxima Fusion and Lower Saxony sign MoU to build Europe’s first large-scale fusion-grade HTS tape facility",
+          "publisher": "The National Law Review",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZGJTeWlCZWFvSmFiTVg3eHZPR0VhLTdUSzU0NkFqaGRBYTdLVFVnWF9OUWlGaElvWGY2V21HVGx6Rmt1WDlJOUM1TU5NZFNZMG9RcUM3U1hjQ29OdFk0aHo2VlpfTUp4dUtHY0EtN0Y0cnEzN2tQMWY2WWZfdG5TX2ZiN283NUd0bjBnT3pVMjRORW9MRl9kajVEbmNKRFhsT1JCQ19mMHFMQWdGN2VDb0x3?oc=5",
+          "published": "2026-11-14T23:53:59+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.117,
+      "id": 5
+    }
+  ],
+  "feeds": {
+    "gnews-ko-fusion": {
+      "ok": true,
+      "entries": 15,
+      "kept": 2
+    },
+    "gnews-en-fusion": {
+      "ok": true,
+      "entries": 8,
+      "kept": 5
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    }
+  }
+}
