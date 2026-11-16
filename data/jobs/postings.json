@@ -1,4 +1,67 @@
 {
+ "307043": {
+  "id": "307043",
+  "inst": "한전KPS(주)",
+  "group": "원전 운영·설계·정비",
+  "title": "한전KPS(주) 서울경기전력지사 군포지점 철탑기초 부지정비 모집",
+  "start": "2026-11-16",
+  "end": "2026-11-20",
+  "hire": [
+   "비정규직"
+  ],
+  "kind": "신입+경력",
+  "region": [
+   "경기"
+  ],
+  "count": 4,
+  "url": "https://job.alio.go.kr/recruitview.do?idx=307043",
+  "src": "https://www.kps.co.kr",
+  "first_seen": "2026-11-16",
+  "last_seen": "2026-11-16",
+  "open": true
+ },
+ "307018": {
+  "id": "307018",
+  "inst": "한전KPS(주)",
+  "group": "원전 운영·설계·정비",
+  "title": "한전KPS(주) 서울경기전력지사 성남지점 철탑기초 부지정비 모집",
+  "start": "2026-11-13",
+  "end": "2026-11-20",
+  "hire": [
+   "비정규직"
+  ],
+  "kind": "신입+경력",
+  "region": [
+   "경기"
+  ],
+  "count": 3,
+  "url": "https://job.alio.go.kr/recruitview.do?idx=307018",
+  "src": "www.kps.co.kr",
+  "first_seen": "2026-11-16",
+  "last_seen": "2026-11-16",
+  "open": true
+ },
+ "306922": {
+  "id": "306922",
+  "inst": "전남대학교병원",
+  "group": "기타 관련",
+  "title": "전남대학교병원 직원(방사선취급감독자) 상시 공개채용 공고",
+  "start": "2026-10-27",
+  "end": "2026-11-10",
+  "hire": [
+   "정규직"
+  ],
+  "kind": "신입",
+  "region": [
+   "전남광주"
+  ],
+  "count": 1,
+  "url": "https://job.alio.go.kr/recruitview.do?idx=306922",
+  "src": "https://cnuh.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=270421",
+  "first_seen": "2026-11-16",
+  "last_seen": "2026-11-16",
+  "open": false
+ },
  "306418": {
   "id": "306418",
   "inst": "동남권원자력의학원",
@@ -17,8 +80,8 @@
   "url": "https://job.alio.go.kr/recruitview.do?idx=306418",
   "src": "https://diramsjob.recruiter.co.kr/career/home",
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-09",
-  "open": true
+  "last_seen": "2026-11-16",
+  "open": false
  },
  "306417": {
   "id": "306417",
@@ -38,8 +101,8 @@
   "url": "https://job.alio.go.kr/recruitview.do?idx=306417",
   "src": "https://diramsjob.recruiter.co.kr/career/home",
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-09",
-  "open": true
+  "last_seen": "2026-11-16",
+  "open": false
  },
  "306357": {
   "id": "306357",
@@ -60,7 +123,7 @@
   "src": "https://cnuh.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=270421",
   "first_seen": "2026-11-02",
   "last_seen": "2026-11-09",
-  "open": true
+  "open": false
  },
  "306214": {
   "id": "306214",
@@ -82,7 +145,7 @@
   "url": "https://job.alio.go.kr/recruitview.do?idx=306214",
   "src": "https://kepco-enc-jobs.cairos.co.kr/kepco-enc-jobs",
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-09",
+  "last_seen": "2026-11-16",
   "open": false
  },
  "305975": {
