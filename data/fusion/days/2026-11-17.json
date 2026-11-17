@@ -1,0 +1,317 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T00:17:50+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Iran developing first domestically built nuclear fusion reactor: state media",
+          "publisher": "Gulf News",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLXRycmpSMDZ1R2c2REViNEM0SFRzdFFOUGlKZXVDNkJ3X1h4Y081dWdVYmlkZUxZOGlvMGZ0SXlQLUV6U3lQbFBqNmp4ME1JUWRxTE16aEt6U2xoVi0zMEFEOTdaSzZvTU5Vak9RX2hOU0ZPekdLTUhScjh0RXI2RVNJRkNDcmN4eHd1T1NwODlVaXMwSlBUdERJYkVjdU53ZjRlWkZrdl9Db0g4UGMzVTZKNkduQjgwa01V0gHOAUFVX3lxTE5QTkctMTl5Z0pvMEZVcUhoUF9KMFpOd1k0cnA1S0ZTQlhjaVd5ZXljeW1qR2Nxd0xmUWZrelVXVzV2aEw2VkhJYWNCTEtxQXpXb3pfLUlCVDhHd1lXc0o5ZUxoNWc0dHhwY25hNTFxbTFsaTI2ZmRveHlnckxDcU9sbk4zZzkzT1h2bS10TVV1Y184WDVGQS1kU2xyUlo5WXZkZVdLei1HQ1g2akJpdC0tQUhBMFNtcGhZMG1PUkpCbThWQ2ZkSzFJUkZHazlB?oc=5",
+          "published": "2026-11-16T00:30:50+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        },
+        {
+          "title": "Iranian Tokamak: Iran Developing First Domestically Built Nuclear Fusion Reactor",
+          "publisher": "Construction Review",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbDBjTENYUnpqRjVobnlFenB3N1hWVEtYUFhtZ1BTZzNLeHhXM1Y2LUx0RzdVX2ZkbjdobVhrLUxxU1dzWkpGcXR4R0U5QUVSejhXQXk3SGFRZ2I5RU43V3E1WXRVd2R4ZW5kRDJ5TG5mNW9yb1RWOE52Wm54b2tnUEdPMDVrSXZzMGp5LWk1aEliWHdIQ2lMX2ZBdlJoYk5WQXBoNkFHcnd2cVJPZlE1bGpKX1BwZHZx?oc=5",
+          "published": "2026-11-16T10:55:32+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 1.443,
+      "id": 0
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Iran Claims It Will Soon Activate a Homemade Nuclear Fusion System",
+          "publisher": "Breitbart News",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZTIzVExRem0yQjVIS0xMc3BwS3RMLVJ5LVdJNVowb2RyMWdnM2R6S0J1cC1PZ194Ul9oUzg2OUlVNVhXeVAzY1lFUTluX0hvZnhKdUtmWThLNElOeHZIMHg3cW81TlBhTlZOdjJtRV8yaW1jLV9CcS1ENlpoSUk1am1zVFUxek9vZW9WbmZ3bkhROUJBNGg4MnlLOHRtM2o4Y0FzZUFDLUdfX1Ntemd0RTJWb1hhU2M?oc=5",
+          "published": "2026-11-16T23:27:43+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.965,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "General Fusion Reports Third Quarter 2026 Results",
+          "publisher": "The Manila Times",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMTBpYVVUMmFWYndTb1FSUnBjQURIanIzUVBVVXN6MEVFMHJCc21HOWJCSFRJWlNIcnE3a2FHYTl6N3pBN1p2V2JQSF9falVVeWhYQmZiakZYZzZfQVk2NV9QV1BtN2hwNWJUVExfUlVzcS0wcWQxRzg4Z1AzNnhKWjZoUzNpTUQzLWR2UFcwbDBxS1BZbHVHM1hmVnJSX0pZUnNkbkRiSldCNEEtOHBHano1WUZISmVkMnA2bjhYeGFxekVSY1HSAcYBQVVfeXFMTTEwaWFVVDJhVmJ3U29RUlJwY0FESGpyM1FQVVVzejBFRTByQnNtRzliQkhUSVpTSHJxN2thR2E5ejd6QTdadldiUEhfX2pVVXloWEJmYmpGWGc2X0FZNjVfUFdQbTdocDViVFRMX1JVc3EtMHFkMUc4OGdQMzZ4Slo2aFMzaU1EMy1kdlBXMGwwcUtQWWx1RzNYZlZyUl9KWVJzZG5EYkpXQjRBLThwR2p6NVlGSEplZDJwNm44WHhhcXpFUmNR?oc=5",
+          "published": "2026-11-16T21:12:54+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.872,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Type One Energy Announces Leadership Transition",
+          "publisher": "StreetInsider",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbXJyOVFkZVlmc2R5Q0wtREs4OVVjdkNqbWJiYkVvYTNFX2t3RWxDN1U1YWZxcHppMXBFcUptaUdoNTcxRy1Wd0IzSzBVVW90N1VfdUt3RDE1S3dYb3NaU3NKVkphcDJwSjVOeUpZaU5BVVNXdTA4Nk8xckx5d2FQenJ3Z0p0UjBFN1VVMTMxeGJicmtsTy0xQVBWRVFUSjFPdGV2TFh3UEk?oc=5",
+          "published": "2026-11-16T21:02:07+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.864,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "U of T Engineering to host new research chair in nuclear fusion energy",
+          "publisher": "U of T Engineering News -",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOHdCcWZBLVgxWnBVdVZ3cWpMZDVWTlZkN01pbkFuanJENlVtcUM3Ymg2WEEzV25aZVZxMGZyTHFFeHg5ZGtDS2VLSDBzeXVyOHBiWHBqTmN4NVVDclZudnYwZmpsVkRWYkkxa2k5cU5FWFZJSV9Jb2R4ak5hUERnMDJDbUVITndmdkJpajl3UG5IWl9OSlRiU09URFp6S1VHdVdZUU1oaUIzRkdS?oc=5",
+          "published": "2026-11-16T17:59:28+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.737,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Strong lasers could unlock cheaper ignition for nuclear fusion fuel",
+          "publisher": "Interesting Engineering",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmk0TmVKOGhvc1V5RVdxWUJIRWhQNDhiZjhsdXZoNjR5cVdsQkpkR2NwajNDd2Y3WXhOSEJJQjducTIyUjUzcW1BSmwxRDNmeGYwNEhMNGxoOW5oS2pIandqMW4zWjNGeGd1QU1rWnpXNnlfc3RVV21waDhjZHB1dlJGaVZKdzZZ?oc=5",
+          "published": "2026-11-16T13:55:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.568,
+      "id": 5
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "국제적 초점: 감시망 속에서 핵융합 시설 운영하는 이란",
+          "publisher": "Laodong.vn",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaHU5U1FLV2pyd19rVENGc0tGYTdSMTFhUHVXblgxOUdCQnBNdzJGbW5Mb3ZTbDFsMjF5d1d2Vmp3MFNJVng1WE9IS2FObk02VEZQWVNlME5SNjNST0FlOW02RjFpV3hIZlZZaUttTkpIeXVybFBjN2pCZmhwLUdGZm14eEM3TnZBZDNCZTZ4MnRGWTZUaE1McUxCTFFsem9fWS0tX2xkNlQ5dHBoejA1MDFrWGxUU1E4MVRTeUlaZVo?oc=5",
+          "published": "2026-11-16T13:00:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.529,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Iran’s Next Big Surprise For The West: A Homegrown Fusion Reactor | Details",
+          "publisher": "Livemint",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYjVCSV8xMkFYdW1hdWVBYkdVMVBMb3JhLVlQeFBTMkRuTHBaNG9UbWVIUC10SDhMYkM3OTFtVzlhdm1kWVJ1M2FJSFYzemVpeXlpdlNlcXdnMTd6ZHhzNTdsNy1DbHZlVVJBOFVkUEhfa0V1UUsyeHBMTkI1a1NHdE9KUHczTEg1SnFNZnUzRnVKYjh0ZFBrWXdFOTJQM0JJdFdTTTIwZlNUTVlRR1dkOU1lVU9Ud2dOU1hwWXZHa1jSAcYBQVVfeXFMTWNEbnR2VHhSbTZub09oUGNwZWZldHZ2VFdtbUVRd0NkdHdmZU04dmh3cWNPcWVPaFY3WFQtcVNqRmw1YTJtZXhidGJEaFdLYXF0bDBLTTJYOVVzbnloeG1Hb0RZUWNPQlp4WDVrNENYRm9iQ0RIRE5xZG9BaTZBRmREQU9zLWowaFRuODFKTGxUbUdCRjBNeVd0NlI0MGFQVjd2clNhNlN6YlJBa2ROREZYbG5qVGVITGwtZTJkN1ktYnVNT09R?oc=5",
+          "published": "2026-11-16T12:21:32+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.503,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Iran to commission its first nuclear fusion facility",
+          "publisher": "VOV World",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaWxkSV9QOVJuSjBIV19CdTg4Vk0wSGVCWHFET2dDMnF0Z2VlZkJVbnRkXzdFLWlHRUZBZjNnZUNkaUIwd3ZCYldSNmU0dnlVWEZYSkRkMXlSUjIwWlpxY1hjUEI1UDhfcVlsRTAxeFZQTmxfcC1KbDBSRVFqOUJSTHZhWEJYNWs4RWpHMWxZVUMyUFho?oc=5",
+          "published": "2026-11-16T12:14:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.497,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "CNL and AECL Invest $2.5 Million in Fusion Research Chair at Toronto",
+          "publisher": "energynews.pro",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSUpVeHZEbWNRRWtheC0tZmVjdFViQTZiTkYxUWtnM185dDU3aFc5UmNSOGR5azdFelZ5SFJxUFpnRVlNTU9CUU5MdGJpNnlONVYwYW5veHhfWHJOSTc2MG00VWxPTlM4bkMzTGxOLXkwdFh2WUdDbEljSkhvOXJNVm10d3hUakZtYjFJUW96U043Qjk2eTRr?oc=5",
+          "published": "2026-11-16T10:04:38+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.408,
+      "id": 9
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "이란은 자국에서 자체 개발한 최초의 핵융합 발전 시스템을 가동할 준비를 하고 있다.",
+          "publisher": "Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNUgtMUhwMUtmYUoxN1hBS0F1N2hUYlFCVnJOZVpBc0tNTkZkOEcwZlBONzk5MTVxd0dwY2staDQwTWlWOE9uejdBekpCbzRiMXc2cEh3UGxtemRlWl96QmV1dE0yQkJERS1iUW9GcG5xeU1OODdBckNfYkV4NjNMMGJ6dDZDbmhQaFVDMGhrMWFWcWdnc3VUWVNYV3Z0M0hrcnI5c2RNMnJvLU9XV0VhSnhKUmZrRzA1cmtmcA?oc=5",
+          "published": "2026-11-16T09:15:17+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.373,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Iran Announces New Breakthrough in Nuclear Fusion Technology",
+          "publisher": "Caspian Post",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTGpQYzF5ay1sbkVFVWptV2hxTFVlUDJlSTVTbUdER0Qwb19ZMFM5R3F3aU01S21wQkpXRzZTMEszSTRzcFFTLWxHYlF5SkxETFhJYnVuWGQxQWVMWXZNTXIxZ1lveWE1cXFJVVZ5TUpSZlYtZF9KcFE3dUhyNHYzcVhRY1JmcXRjeVBSWkFhSHE5S2s?oc=5",
+          "published": "2026-11-16T05:49:08+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.23,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Government of Ontario - Ontario and Canada Select the University of Toronto as Host for Province's First Fusion Energy Research Chair",
+          "publisher": "Education News Canada",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOaUd5V1hadTNKX0pYc05pWG90WkFOTXNER09hME1EYTd3dUdNVjl2SjlWTVRqRHQycERIUHJjbHlsTDdiVTB4dDNaRFJlbVc1cWNRbkxoSU5jblBjeTdoYzVFWG1QVTRvLXM2X1ZGS2xyYVQ0NG5KYXF4QWxOTDk0bV92MlpkWlI2VDlCOTQyYi1tRzJXT1FHODlqOEdaZ0ZTSHFMSmkyWERiZVVvVHRsOTh6djQwRHprcHpKX1l2TGV0TW9WUFdiMnBNb1RuMEViRkZGX2VWRWd4blFQTTM0N090UFlSM1Q2QXJvZDVjcEVqdmloeUhmNVlJbmVvSTJKZnFDVjNfMm5IM2Q5Nlgtb2pkbUF3ZlhCU0g0?oc=5",
+          "published": "2026-11-16T05:27:54+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.215,
+      "id": 12
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "이란: 핵융합 개발, 이미 상당한 진전 이루어져",
+          "publisher": "IDNFinancials",
+          "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPblZYYjBGN0hpTHdqWnhXOExvTnMwcS16aWlObHlyNk9sOVFjLWFWNXh0d3dFODZJYUVSeXo4MmtvZXIyTS1YdWZKdWpRakVBSnE0WlE0LUVMbkM2ZERLVUtCSmg4M3JzT21tSjE4c0VIbmdzQlBMZHB4eUt4UXc3dTFmck9aMnNJMk9aaUpMc2drSEU5SklzdTVpOVkyVmhPNkp0VGJxQzVtM2JxQzBWd05Hd2dXakFPQ0FhQTd2R2t2ZlRPY0Rpb0U3bVB1Wi1GUDZfWlVSNUVXT09uaWpQMUc4TEdxOVo4REJXLXRuZVZ0cmk1UXNBdlNnUGN1SVRlZklWMEd1SG9ucDh4b2dRSEhfUVpUZ3BOeTRGc1BZS0p6MXBYS0ZIbzZVdlE3UFM4MGxRRFVEdw?oc=5",
+          "published": "2026-11-16T04:00:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.154,
+      "id": 13
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "이란, 최초의 핵융합 시설 운영 준비",
+          "publisher": "Laodong.vn",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSndwRVlleWVSNHhVdjF1TFhkd1JWWW5nSjNfWUNwZ2U1SkNSZFBTQm1GNUpvRWl5M2FTMW5XT3VNTlVPb2pwdE12dFcyZk83MmVOU2hZYTBITjU2ekF1VFpJcGtVdE9Mc2xsSF9McUlRejNLNmJIelhheFl2RXlhTUFWUExDcEZhalMtRnNDV1JBdVBaZ0hraXB0cjYxcFdEb3c?oc=5",
+          "published": "2026-11-16T03:11:13+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.121,
+      "id": 14
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "이란은 곧이어 자체 제작한 최초의 핵융합 시스템을 가동시켰다.",
+          "publisher": "Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeW1aYV9IVjUtM21LN3BWalRvTjdrSm44UkNEUkZEVHdSUFkxSUFJdURuSnFwYTNjZ1NraTdrLW5nLVhMQ0ZWakxISlV6anRKdnROdmNSR2ZLM3F0c0NOYnM4TVN4N0JuM2FtcGNGZThmVXh1emFjVmdLNU1KMGwzenNib2hFdnc?oc=5",
+          "published": "2026-11-16T02:35:08+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.095,
+      "id": 15
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "이란은 우라늄 농축 중단 요구를 거부하고 자체 제작한 첫 핵융합 시스템 가동을 준비하고 있다.",
+          "publisher": "Vietnam.vn",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdmU3TU9IUUY4MDJKZzdpcTVNNFkwX2FnQzBYc0lHRjRCQWJydFRJb25vWkstYTBGTHJtWXRsZkZ3U1R1bEE0cnVFVHVNM0JVTTdLdFhWRVBxM05hckpJYmtoSUF0bThVSnFIUmhhQWhTRFp1c1E0YzBoTHNXRWRuMS1Bc05mWGt6REtuUkZoYTFBOEFXMGJNcGdmRTI3bE1PR29QbnIxRUltY19jZ3ROb2V3WnlWaHVTc0pnaQ?oc=5",
+          "published": "2026-11-16T02:10:21+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.078,
+      "id": 16
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "이란 “독자 핵융합 장치 가동 임박”…발전 성공에 관심 쏠려",
+          "publisher": "OBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mbHVCaHhGZUMzTG1OSEM2NmtMWXppdEphZng3RDJKWDE2RU5CWmZFemJkVWpmRERaLXRLNGFnT0tYY3R4YmthMTZaNVpLclVyWW94VFF3UnUwNE03dmZYLWlCYzBNd3FLTnc?oc=5",
+          "published": "2026-11-16T00:47:29+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.021,
+      "id": 17
+    }
+  ],
+  "feeds": {
+    "gnews-ko-fusion": {
+      "ok": true,
+      "entries": 12,
+      "kept": 7
+    },
+    "gnews-en-fusion": {
+      "ok": true,
+      "entries": 23,
+      "kept": 12
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    }
+  }
+}

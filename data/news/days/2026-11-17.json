@@ -1,0 +1,987 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T00:17:40+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한전원자력연료, 5년 연속 지역사회공헌 ‘최고 등급’",
+          "publisher": "산업인뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GNjlmbkh1eWdDNDJsRnVrUDl1SlR4UG1vZ3FCVkJaRFpoMnZNVjRLVG5vOTJETHhnVUtGUXphNkY2anYwS0ZVZWVHVFpDOXVsMlFzZ1VSRkpDYlJhR1UzSG11czVqaFRYV0FRNExn?oc=5",
+          "published": "2026-11-16T07:04:23+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한전원자력연료, 지역사회공헌 5년 연속 최고 등급",
+          "publisher": "굿모닝충청",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zaEQzUm1FRFgyWFV4QWlOdlA3STFtbzU4b0dDRzA4VWxPV3pLcXF0X1ZVdkFnQUZyZXhHWmJzWUpQaUIydW12SnY1YjE2bFMyWDJ2QmFQN2NwRzFrcWpMT2hVNm1SNDlMVHg0bkdvVFV1QQ?oc=5",
+          "published": "2026-11-16T10:53:15+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "\"나눔과 상생 실천\" 한전원자력연료, '지역사회공헌 인정제' 5년 연속 최고 등급 획득",
+          "publisher": "컨슈머타임스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByNHcyMVQ1djRCcFJwYjYxZU5PQTJFYmhHM2YxaDYtSmU3ejhtUWZrMVNOellqbGN1MHZvTlBDbFFZMmFLRTZDZlFKdGRBeEFpQ3JpdV9HeldYdW90UTd3aklUV0xxZjlOOWc?oc=5",
+          "published": "2026-11-16T22:15:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "지역사회공헌 인정제…한전원자력연료 5년 연속 최고등급",
+          "publisher": "에너지타임즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByd1I4b3RMMmRIZ0FLM3ZGSGNWbGNRR2tHUUxLZzhDVEVraVVJVUt6Q25nWk5KZTJiLTFNYXB0NUpmaExuSkZ6dzE5SE9lMHJ1MXBvOThXdk81SV9TcTJRbnBXeldqLWJXVENjOQ?oc=5",
+          "published": "2026-11-16T23:42:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.975,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, ‘공공 HRD 콘테스트’서 인사혁신처장상·특별상 동시 수상… 2관왕 영예",
+          "publisher": "에너지코리아뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rODJOS2Itajk0ZkY2UTgwTkF4WU1oMlhjcmw4dWJIUlROdGxWNFBGYm9OZ2lOWkhIWlp5cmVLcF9vbVhuN3dUSFg5elIwT2ZHM0dqaVFsRzZxZHpWN0tWbVZ6UUlEaFdBRHB6dkJvV1g?oc=5",
+          "published": "2026-11-16T08:51:13+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 ‘공공 HRD 콘테스트’서 인사혁신처장·공로상 수상",
+          "publisher": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOQVBfOFJHY01nb0VlbFlOS1BWS3owcnJRT1NfLXYtODlYM1oyQmotTVB5V2ZSZk1rR3RIV2ZHNlA2ekNJSGc1c3ZYdmZoY0U5aGJueVpNQ0NJWm9hdGtoV21FNW9ldzhtb0IwOXlDUUxjc3FiSmtLVjBVdGlSZlRUTXFsdUY4cGRUb0U5UU84WjJzaUg1RmZmakFBX1NlNzNtYkJLS1l1eTMwaXNVOVZrQ3RCeVFBRTlnZTc4NUhjbUFsamRZWUtHcGI2WVNQQVJjZkd4WXFWbkkyMWx3LVRURzd2UWxfUjFIZFMzTkptdG9TSWRuY2xyWnM4VDlFR3JVTjQ4?oc=5",
+          "published": "2026-11-16T09:27:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, ʻ제44회 공공 HRD 콘테스트ʼ 인사혁신처장상·특별상 동시 수상",
+          "publisher": "시사코리아",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE93clRZZUpSQzFoeEoxNHVKQWtaRjB3Y3VaUFByVEY0dDlIbVpfRWtINThRZkFmeExlZDVKQVptUFhaSWw2TXc?oc=5",
+          "published": "2026-11-16T09:49:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 공공 HRD 콘테스트 인사혁신처장상·특별상 수상",
+          "publisher": "로이슈",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvVHd0U3Z4NDE3MTZVVFBWVGxua1FYUE94b1l3MDR4TmRRUER5a3BBZUtmZEZHX0xPbEJkLTh5UHFUdElPRXkyUHlnSGpuS2VHck12Z0hjNF9MaTB5WS1keldRbkJJb2JBemRod2I4YkloZDFOU3g1X2FB?oc=5",
+          "published": "2026-11-16T13:29:38+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한전, ‘공공 HRD 콘테스트’ 대통령상 수상…한수원은 인사혁신처장상·특별상 동시 수상",
+          "publisher": "부산일보",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZcWduLXc5YWFzb05ZVW1wWktjVnF1QklSd3Z5TDY0T1BZZDZxdExRMUItNGdIaFRLOEdzT1M2QlRoUnpFZ3FaMUtqWXA1QmdLX3ctQWVaQXE3bzMxdGVFcl8xN1FWQV96ZEFMbFJySm4zQ1Bs?oc=5",
+          "published": "2026-11-16T13:36:34+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 공공 HRD 콘테스트 2년 연속 인사혁신처장상...‘2관왕’ 쾌거",
+          "publisher": "천지일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VVURDM2lBOHl3cGt0aWdZUXFUMzM4eXQ2Qk1SVmE0YkhUQ0RxY3FNcXNzdXJ6Y2RYUmNfYXlHOFp1QlJoOVROZ093MXFGZDBvQWVZRjc4Nmk2VTl4ZHVXVUp4N09XTGx1d2c?oc=5",
+          "published": "2026-11-16T14:33:27+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력, 제44회 공공 HRD 콘테스트 `인사혁신처장상. 특별상` 2관왕 영예",
+          "publisher": "CBN뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12cTlLN0FHaHNQZy1neDRQWHh3bmswUDI4SG1Jc0V1Qm1yTHRpTjhYVzEzb0E1bnlGSmJRRzB0bV9uV29PaHlXMUY3UVk5clhLYTZZ?oc=5",
+          "published": "2026-11-16T22:29:23+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, '제44회 공공 HRD 콘테스트' 인사혁신처장상·특별상 동시 수상",
+          "publisher": "컨슈머타임스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QRUxwWm5BU29VQUdSTVZQQndmMHJZNWJKTTZQaEU4c2IyYzBWOHpNVVdzVjlqU1ZhRDljWFcta2VBeDlCMW5xb25yYjZlOXhYN0NNRVBoam5rZmJ6ekpjMjNjN0VaRWUzWFE?oc=5",
+          "published": "2026-11-16T22:45:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.936,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원·원자력연, OECD/NEA와 차세대원자로 사용후핵연료 관리 국제 워크숍 개최",
+          "publisher": "에너지코리아뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xaE9RWFY3WEVmMWhXQlRYbmpubnpCYzc0d1ZwMTZzU2g5RU94T0E1YUFpcEFTTWhkdWJraWJuQ0dwSVFvRklWZTcwT0lBNXo5TlJ6TDBSUlZiTUwzNS1YcGZDdFpFZTBxY1UzU2hzNzk?oc=5",
+          "published": "2026-11-16T00:50:11+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원·원자력연, 차세대원자로 사용후핵연료 관리·재처리 국제 워크숍 개최",
+          "publisher": "비즈니스플러스",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XalFFOEhMTFUxTFIyel9qR2tFbFFuRGpEU3c5ZHcyUERqdHhVaDgzUkgybmhzVncyd3RYT1Zxd0F1TmM5c0hjNm1lUzY4Z2hqOTJ0WEx5Ymd6U0t4eVF0YTM1VVZGbnZvRmFaaDFSaw?oc=5",
+          "published": "2026-11-16T00:53:03+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원·원자력연, 차세대원자로 사용후핵연료 관리 국제 워크숍 개최",
+          "publisher": "폴리뉴스 Polinews",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15ZklXYlNpODVHM2dYMlFza2hMb3RPME9aWnduUHFGWEF6NEpYUzM2c0dWR1NMeWdWVWxoYVg5YmYweEdCY1BHMFZQYk5pd2VXbU16Z0tTZk84NGJTalV0bndtR3d3Ul92RVpHaGp3?oc=5",
+          "published": "2026-11-16T01:15:43+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 차세대원자로 핵연료 관리 국제 워크숍 개최",
+          "publisher": "경북신문",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RNG51a2hLRGpfZUp0bnNLbnIybGdlZ0JYWWJLNDRIbzkyQWVjend1aUVjWi1iUk9jN3FoQ3h1VDZyRDBmV1UwNllKS2syenp4LTlhUHRLS20?oc=5",
+          "published": "2026-11-16T01:16:30+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원·원자력연, 차세대원자로 사용후핵연료 관리 국제 워크숍 개최",
+          "publisher": "아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YZjZoOG1qblZCbXhncFVoVGxJb1phd0tBSnFETVZOeFk0MFJIZUdVbUFMSlEybVF5dWRieEx0YWtMbHNGZmhTRXg2ZElwTFpjNGVhMzRyZXDSAVhBVV95cUxNWGY2aDhtam5WQm14Z3BVaFRsSW9aYXdLQUpxRE1WTnhZNDBSSGVHVW1BTEpRMm1ReXVkYnhMdGFrTGxzRmZoU0V4NmRJcExaYzRlYTM0cmVw?oc=5",
+          "published": "2026-11-16T01:38:49+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 차세대원자로 사용후핵연료 관리 국제 워크숍",
+          "publisher": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOY3E1Q3hMR2owMnVLYUo2Y0owa3FDY1I1OFkyeXQyaFNrcmMxYmZxaVBXNHk4eUJ4dFotTzF5N0xpVnpERVZ5aEtYYUhxR2ZNbFNkOXlaQjBZVUVkMmFMSjUtbTFINWJiVkhHMXpjVWhBNjNPNDR0MWhhVk5mYS1ud0VhNXZVWDBDZXdjZGM3TFMzYVlTUWViYWpRcFJKYk5kNFBnNi1mbERUWmxURWN5WTBFc3Byb0oxRTZaU25HR3haRGFCOTUtdFZJbjNYSGZzcEtCalFtdk5odzdQZ1pRVnhXaTAtUFdmWFFKUkZ0U2xFNkV4aGFtWGhGRVEzTjllc1RTSGdVdW9ZM3JmamlOSWN3bmluY0E0RExVQWlJUkpRMWlFSHMtSkRpYlNtQQ?oc=5",
+          "published": "2026-11-16T03:16:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원·원자력硏, 차세대원자로 사용후핵연료 관리 국제 워크숍 개최",
+          "publisher": "이투데이",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tdW5PTU14cWd1cUZnNllUR3VHNUoyRnFsTEp5NlBQS2FlZ2Q3WUNyeWctNFlaRjQ1cWh5dnNFQWh5MVBMOXB1Z2lKVlVsYThJejlhNDFIU09sY0hGdS1uRm1CVVluN2hhcndhTjYxRU52cUJR?oc=5",
+          "published": "2026-11-16T06:40:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원·원자력연, 차세대원자로 사용후핵연료 관리 국제 워크숍",
+          "publisher": "웹이코노미",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBORWVRa3FZWVNnajktTHdJcHpGNnhuc2xKRWdIUFZkalBLdG9XM2diRmR0VjVFYy1xLVY0Vi1oVjFGWFBCYVdxS0hvc2pmM2lGVHNQdzU2T202dzRERmtQekw2Wlc3Y0RDaTZiTE5Cai1vUQ?oc=5",
+          "published": "2026-11-16T14:14:23+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원·원자력연, 차세대원자로 사용후핵연료 관리 국제 워크숍 공동 개최",
+          "publisher": "투어코리아",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tZ0xDbzFTV3NCUVdRMnl4bExnTU4zVktVcFM4TmxjVmZqNVBKbmdBa2JEaVVsVTZJWVdkWlRPSWJ0QXJTcjI2bWZlZ2p3LVI0ZEFfblZTRi1tcXFFWW51MGFQbWFhZDZnbW1UWGl3?oc=5",
+          "published": "2026-11-16T18:17:56+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.75,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한울원전 해수서 삼중수소 기준치 넘었다…원안위 조사 착수",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KaHpxMmlZMnJTTm1zcEcxbWo4UHc3UTg4bEYwc19OZ1FvWEs3T2psaTlsTVRxaEgxdDI4Yy1XMEkwX2Juc3ZOeTdra2RXckdtSTFpbFpMT3ZveElaUHlXRdIBYEFVX3lxTE9KaHpxMmlZMnJTTm1zcEcxbWo4UHc3UTg4bEYwc19OZ1FvWEs3T2psaTlsTVRxaEgxdDI4Yy1XMEkwX2Juc3ZOeTdra2RXckdtSTFpbFpMT3ZveElaUHlXRQ?oc=5",
+          "published": "2026-11-16T08:29:23+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한울원전 취수구 해수서 삼중수소 기준치 초과…원안위 조사 착수",
+          "publisher": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hV0MyQmJPODhXYlJYV3pRblhRTjFYX2hnaGk5N1RQTGowWk1ITlFib0c0TFViSUdBSG92NDlnR0NuTVNRS1dRb0g4czZvclFMZXdTRmYxWUllcGpnX05ZYnBJTEVTdFk?oc=5",
+          "published": "2026-11-16T08:46:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원안위, ‘삼중수소 기준치 초과’ 한울원전 해수 조사",
+          "publisher": "헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jNHJvSkdDX2x2T1poOXJjUWdnWVJqcDNMakU3ZEpJeUprVHNRTDFheXMtQ3VXb0I4U3BCcktWYmxyMWV5QndnTG44TkpIVjBHMVpQWXd3?oc=5",
+          "published": "2026-11-16T09:01:11+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한울원전 해수서 삼중수소 검출…원안위 조사",
+          "publisher": "마켓인",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zN0FETnV0c1NsaDJKZ3Q3QUNmcG1jTDRiSno3djNJLW9sNGE3ZFZJMXNIeWpIZmlNbFRPTW5tWGFOZGdReEQtbDhfOWtTblV5R2hPOHVNb2RCQlZNdWpMZUYwQWRFSjY5Sm9kd0UwWm4wVTg?oc=5",
+          "published": "2026-11-16T09:19:21+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한울원전 해수서 삼중수소 기준치 넘어…원안위 조사",
+          "publisher": "이데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT2NNRm1XUmNybDdyN2dZenNVTjRVOHgzbmY1YTNEQXUtSGk5OVUxQ3NmQy1UeG9vUG1nOWthTW53YVI5N3d5X0tqQ2tSSkRZT2RQWS1yOGl3SVpETFpYOWtZT3pUYWc1RWZSanN5N1hreC1wMklkX3pDZmtsYkQ4QQ?oc=5",
+          "published": "2026-11-16T09:19:21+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한울원전 해수서 삼중수소 기준치 초과 검출…원안위, 원인 조사 착수",
+          "publisher": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLRHlwMTE4NHA5QzZxbFM1UWpPOUZvYmx0Q0VEQ3I2V2E1RTJhY1JxVUtKZlZYNWtCUjZ6SEd6WFFyVllmMUo4Mmp4Ykw0V3FlMUlaaGFxdUMzZw?oc=5",
+          "published": "2026-11-16T15:03:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.615,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한-필리핀, 조선·AI·원전 협력 확대…교역액 역대 최대",
+          "publisher": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iMmFnUnJxLUFqZWRMblF4RG03TWZ3ckRaSW5rc1RYU09lMExyT281bXNHVUpMU29ocVZOaHh0SnppcWRGY2RjdHBlZ1paTHJxQWtzSVZaWlhhU2xEeFZBS1RjYmxtQ3c?oc=5",
+          "published": "2026-11-16T11:27:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한-필리핀, 조선·AI·원전·우주 협력 확대…교역액 역대 최대",
+          "publisher": "대한민국 정책브리핑",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SOTJQZ0phSk9vM2REQ0had2lfWHNnZDM2UV9XbU1XTUQ0bndTQ3hPejhmWmRDbG1Hek0zUUVweXRCTERlZmtZWWxaYlZjS0RFZ25IeEt4ZEtXeXlGaGZVNzhlbjZlaHViWFJhNw?oc=5",
+          "published": "2026-11-16T12:35:01+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한-필리핀, 조선·AI·원전·우주 협력 확대…교역액 역대 최대",
+          "publisher": "한국방송뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEaERjN2dDekd4Z2VtX2dqbDQ1V2lGNm5TenRqYi1MaU42ODN6aVRmVndNYlVHeFpKb2NscHhZT0taZ0FnUWcyN1Q1bnd3bzJYYkF1dGYxbGhQVjFVdVE?oc=5",
+          "published": "2026-11-16T13:08:50+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한·필리핀, 조선·AI·원전 협력 확대…정상회담서 뜻 모아",
+          "publisher": "경북매일",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02aDYzc0RtZnVpQVRZcTh5ZEd0ME5FaHNLcUliQ3pjM0MxM3BweVdXNmJFNTF2OHBpa05Dc0tzbWVIR1VhVkxyUUFvY3lDdGZvMV9yM19qQTUyQQ?oc=5",
+          "published": "2026-11-16T14:12:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.579,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "AtkinsRéalis, Turkey eye nuclear plant; Darlington-1 hits delay",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-16/article-8580/atkinsralis-turkey-eye-nuclear-plant-darlington1-hits-delay/",
+          "published": "2026-11-16T12:30:05+00:00",
+          "feed": "ans",
+          "region": "해외"
+        },
+        {
+          "title": "AtkinsRéalis, Turkey eye nuclear plant; Darlington-1 hits delay -- ANS / Nuclear Newswire",
+          "publisher": "American Nuclear Society",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSDVoeG9TOGozc0FmZF9uNF9BNEdsLTcwZUlWcFpFaEdEci0xTGJFeVdDMW1ydGJ6SDNNWXhxTUM5dGR5NVg1WjhFRUlndkNTclNEZ0ZaLWRhajljQWp1RjA1a2stdlN4YTBRZ09UemJnVHR1bFNVVVhHdHpZWF9pUHQxakhmSTNGeS1DWVFNYVAzeHY1MnJSS3E1U0pyTXc?oc=5",
+          "published": "2026-11-16T13:35:11+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.554,
+      "id": 5
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한울 원전 취수구 삼중수소 검출… 원안위, 조사단 파견해 사건조사 착수",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KeWJzME53Qk04cEFoSU9SbVRtcHFUQlVDOGktblJKdDJrcHgyRkhJNnk2N0RWdW14VUZXZTIwVFd4eTZ5ZzZMNGNISUhIeUV3WUNyUEdDXy1OTzdnYzlyQjVacVpVbndnN0hNMEItbmkydw?oc=5",
+          "published": "2026-11-16T07:52:09+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한울 원전 취수구 해수서 '삼중수소' 검출…원안위, 사건조사 착수",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnQVktSlZDQnVXbkNyQXpvS2NjRlhyMGE1dHBnbENpc0xMbU9kbEtrSlpRaXZxSVJYWmduQUlGMFJUT0k3MFlDUUhZQ1k5Ym53WGZjNThaRC0tNm5OTFpCQtIBeEFVX3lxTE1IM1p2SWpLQ3d4T3pIX0M0LWYwTFVwT0xGUmJQalV4eFVWOVlkcm9VVVFwdC1zN1pIOUdpNWpRVW55bGxoUVdQWlliUXJVWHpFWTZHeDREMTFYRzdndUNxZTVGeWFIRGtzWFVtVjczMkxpdUwtUlJnLQ?oc=5",
+          "published": "2026-11-16T07:59:17+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "원안위, 한울 원전 취수구 삼중수소 검출 사건 조사 착수",
+          "publisher": "투데이에너지",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15WklMRmpTMkJpTFJ5SFFVZEZJTGh1SE1rYkd0MmFTSzlLTlJEZHRYQnI0ZVZFbHJpd2VJcDNjNUVjTmxpUUNDRzdPMU5wenpFa3o2T0s5Y0wwMWkySFdYZGFjdE81a1R6SDNlN2NR?oc=5",
+          "published": "2026-11-16T08:03:34+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한울 원전 취수구 삼중수소 검출 사건조사 착수",
+          "publisher": "서울Pn",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92eTVDWUxmdVBGRHpuUVdZSXNXZXJDSElqenNhQ3ZFS3J0MzlNRlpHWTREM04yZHpWZGd3XzN6YzdRX0ZZT3NVSXNFOEN4aVZtUzBSVlQxRWZpTS1XVDJBLVJB?oc=5",
+          "published": "2026-11-16T08:05:34+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한울원전 취수구 해수서 삼중수소 검출··· 원안위, 조사단 파견해 사건조사 착수",
+          "publisher": "울진투데이",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qNVQ1MDAweXVsX2JkX0NWT1N3dWlaR202UUlKNWRraHd1S3gxbXRTU2VtTUZsWE9SNVRaNE9FVXlLQ3NWeTNESHJMLUVHZEFnS0V2V2FNcWFsY21nSWlBdEIteDdkM3BEQ1Bn?oc=5",
+          "published": "2026-11-16T08:21:31+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한울2발 지하수-취수구 ‘삼중수소’ 검출…원안위 사건조사 착수",
+          "publisher": "인사이트N파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzY2p0TzFidUYxQXVaYmFnVkQ2WnBZa2RMaGhJUk1NZ2ZLUmh4ZWFPY0h1clM5ekIwd09wSnBJLWhBOThwLXFGOVJ1SUhWWHgxMVU0dEZOLTZFX2tnR2UyMmNuMmx4dw?oc=5",
+          "published": "2026-11-16T09:08:37+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "울진 한울원전 취수구서 삼중수소 검출…원안위 조사 착수",
+          "publisher": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KcXVWTUkzaWhyUUJ4SXFqeDhjZ0prYTlrelIzUmJfWmJ0UjBzd2poTmpYSVpaU215ZVFyMzdTdFlWc25wR2ZyMHZReUl3aDZCUWdCOXF4cU1NZlE?oc=5",
+          "published": "2026-11-16T09:15:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한울원전 취수구서 삼중수소 검출...원안위, 조사 착수",
+          "publisher": "Tbc.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa0pCWERYUTZiblBTMUY1Ym9TR2hnYkp4R1JnUHNiekc5RDQwX013N0xaS2VMbHBXem9DeS05dkJaZVgwN0hUcVFGUS1UUHNKTXlEZTlsLXJIWUY5Z1ZPa1JrbmdUclhPbWpFXzFBRng4WG5adzBHNmxLWmVGd0hKcGhZZ2RCUQ?oc=5",
+          "published": "2026-11-16T11:55:23+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한울원전 취수구서 삼중수소 기준치 초과 검출…원안위 조사 착수",
+          "publisher": "기후에너지데이터뱅크",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PYl9qYVUwNmJXaTNkMTZwemhOYnhIQ3dXVXNxa2R6NDJDNkRkdlZvUUlsU1BUdjl5NDFBRDM4SHZlTVowV0w3Zl9RZ0hkZzNIcm1yMmxnNTg4dzhKc1E?oc=5",
+          "published": "2026-11-16T12:10:03+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.495,
+      "id": 6
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 차세대원자로 사용후핵연료 관리 국제협력 강화",
+          "publisher": "경북매일",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YYWY2bVkzLXM3T0E0bGhFVXp4Zm9UbklRX2ZVR1pjbzZVNVNzbFp0RFhIcGpiYVdVOTIwN1pmd3RIQVg1Q2Z0eURRU2l4OGZ3ZXg4WVBlbVBiUQ?oc=5",
+          "published": "2026-11-16T01:36:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 차세대원자로 사용후핵연료 안전관리 국제 협력 강화",
+          "publisher": "안전신문",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XczBXNHRpNUwzV2xyd1MzZlV5VWVXS29XdUd3cmtHX2tZeGlPTE10QTJjSWFXMC1nanlBOURFS2tvdUg4OUpMQnFyLTY2bzNzVm5ESzd6Y09vUTAxdDZYN0NySjBDbndudjFhUGpwYTQ?oc=5",
+          "published": "2026-11-16T01:48:04+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 차세대원자로 사용후핵연료 관리 기술 확보 나선다",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51RE5FT3BNTXFLdUFqVXBId01yZVp6S0cxVHQ1Z2ZLdFlueHZyODRCVjRodG5rY2pQNG9tX1R6M1VVTTVPa3psdGdKM0tEbzZ3RGVYelJxa2tjUnZrSnR0emFLd1F3ZGxkMnV3WVNXOUFWZw?oc=5",
+          "published": "2026-11-16T02:45:37+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 차세대원자로 사용후핵연료 관리 국제협력 강화",
+          "publisher": "드림저널",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5HSkdCQU1XSFNFVk9tQVNHX2tzZUQ5Skc0ZzJuRmlZbExFYldiNFdsaFZncVJFZjVvM1p6STlRMTV4aFNqZ2c?oc=5",
+          "published": "2026-11-16T03:21:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 차세대원자로 사용후핵연료 관리방안 모색",
+          "publisher": "국토일보",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83R2FFRlRGWU1ZTVRWZmloVVVRaXVySXdjUWFPOFJCak9GQzN4UFFFLVdyWEV6enA4T3p4cnVhcjk4dmRBTEtJdEhrSDJzTHB2dXJ4c3VLSDBWa3IzcmpUMG5NRQ?oc=5",
+          "published": "2026-11-16T03:30:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 차세대원자로 사용후핵연료 관리 국제 협력 강화…8개국 전문가와 워크숍",
+          "publisher": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJdnk2d2hDdlRPeVJOWnVmUktsX3gwU1RXc3Z5OWM2U2dwRUt3TDZWUmdNNFdZM25mdGdwRnZHY3U5Y3l0SmNWS1hWUUZ0dw?oc=5",
+          "published": "2026-11-16T05:13:58+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 차세대원자로 사용후핵연료 관리 국제 협력 강화",
+          "publisher": "투데이에너지",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PQV9HSDdmT1dlQ0J2cDdac3hDUVhDQVV4dWlBdmZOdTVRZElTNmhMSW1KT21NTWNyZHdITExMNE55azFjQjNZbHl1TUZhQXVmMUt0NzZQZTlUOEtsQTlSVTVFVGY1R09YcTBydEpR?oc=5",
+          "published": "2026-11-16T05:24:15+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 차세대원자로 사용후핵연료 관리 국제 협력 강화",
+          "publisher": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sNHJpMXpSNHo5SEMzbUZyX0hGY2QtdTNOeDcyYWxUN1FOYTdXbkxSNjE0cnQwdWFtRDhvRzhHMkk3Q3FRSDZYaDlZNER0ZF9BMkk4VllB?oc=5",
+          "published": "2026-11-16T05:26:35+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 차세대원자로 사용후핵연료 관리 국제협력 강화",
+          "publisher": "인사이트N파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uSEFXVEhqc2Exb19acUlFV3ltNGdzRXhWZllPa0M1Y19ET2pCb2J1eDg3M3I0RXFMWloxSkNLRFBQaU5NMUZENGp4V3BQU0UxYnI0ZENOWVdOMzR0QjB0a25FcVlDZw?oc=5",
+          "published": "2026-11-16T08:24:44+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 차세대원자로 사용후핵연료 관리 국제협력 확대",
+          "publisher": "브레이크뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBPejVqREFGVW5JclZtbTRwN0g4Sjh2OUFzM3ItYU11LW1hVlVlVXZMR1VCQkJoRFJ4emRtQnBoV2NwZw?oc=5",
+          "published": "2026-11-16T08:24:52+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.338,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "New York picks 10 finalists for upstate new nuclear project",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-16/article-8582/new-york-picks-10-finalists-for-upstate-new-nuclear-project/",
+          "published": "2026-11-16T17:54:37+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.734,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Low electricity prices could impact EPR2 programme funding, auditor warns",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/low-electricity-prices-could-impact-epr2-programme-funding-auditor-warns",
+          "published": "2026-11-16T16:05:34+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.658,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Oklo roundup: Groves-1 plans, Centrus contract, Aurora concrete",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-16/article-8581/oklo-roundup-groves1-plans-centrus-contract-aurora-concrete/",
+          "published": "2026-11-16T15:31:38+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.635,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "EXCLUSIVE: Risk of nuclear accident in Ukraine increasing this winter, atomic safety regulators say",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRjlIbUpKS3NfVi1Oai13Y213OWJ4S0FkU0RIa1hDU1o2ZHBBN05zUXRKQnFZUDlXZ1hhbUxGS2wwUUJIbEVRSmNsSXFRNk10dEhIS0NuWVFHSHBPRFNxUUluT0ZZRlByUVhGajRMcWUxQlBkazFwU0hvYUthYlZGRzdEQTdrNnl4cDJWeEIzZWtaYnc0UUFMTk03QldsOHZiZGNTRTlmRWNrcVpIWHg5UGMzcDRINkF4cG1ZTExsZktQSjlTNm91Vg?oc=5",
+          "published": "2026-11-16T14:08:05+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Regulators from 38 countries warn of the risk of a nuclear accident in Ukraine this winter - Reuters",
+          "publisher": "Українські Національні Новини (УНН)",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMm9WYnMxdU9lN0c5c3NwTXlQOERhUGxIUktKRGR0NHNEVVJfMDhzU25uQktYZ19vcFN4OFRQWW1USVJUdFRwR2pKR1pZSXZiNHVCdVVCU296YlZzWG1BLV9BT0Q4OUQ0Yk1MR25JSUxDWXZKM3QxUUxJS0JZYW9MZTBaZWY4cERZR2M2YmlQNVQ4TS1udXFET1NVUThic0g5OWtIMkVZOVV0a2xtTGZaOVhycHU2SkFyam9UOENn0gG8AUFVX3lxTE9wc185MTVySEtqZ19LbHdHQ1EzUm1WWFJ4cnowYWs0UUUxOTA0UDNFU051Ry05NGoxaHBlZk9UTTBJYlN5M1dSaS1lcGtEVjV0OUJYRGM1NmJNV2dsMHBIYVhSMFY1SWFjcVdMbEhuZjRGTmFVc0hiLTJadUU0MXhkeTRzQm5yYWxLaEo3MThHbkhYdU1yREQwWWt0RXFxY2ZFMldrMDlneGZHZTZWR2R6MkVUX0xxcFlseDJT?oc=5",
+          "published": "2026-11-16T14:22:57+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Reuters: Regulators have warned of an increased risk of a nuclear accident in Ukraine this winter",
+          "publisher": "LIGA.net",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbFk5Wk1NWnE4Mngyeldud3VDMUVGYkU0X1Rwcy1jR3pBRHhqbkVRWmd6eVJzZktMMEpJWXFzTERiY1Jab1VHRTVHYWtPWXVWSGI5VWtLaTRVNXpxbHltOW44ZEpOQXc1U2tzU2tuaGpXTld2WVFyVkRMUy1BUjdQYkZUX0haZ3Q0ZHpJWTY5N0dCUzNPdUNsRC1NMEJWV3ZkUWVxTUdjemR1c0tjZkJaVmQ2czZ0NzY5ZnNIUHhwU3VJX0x2UEpGQWJR?oc=5",
+          "published": "2026-11-16T15:08:55+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.619,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Nuclear watchdog investigates tritium levels exceeding safety limits at Hanul nuclear plant",
+          "publisher": "헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xR0ZFUXBsdW1SLTA5clVZQ1QxSDFicWVDY2ktdDItOTBXRjV2TGdoZ094YTBkbDhnblhDd2xUX2lzU3VWTlRaeEp1M2N1N3V5OGpibXhrVQ?oc=5",
+          "published": "2026-11-16T09:01:01+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "KINS investigates tritium leak in groundwater and seawater at Hanul Nuclear Plant",
+          "publisher": "DongA Science",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91b0hSaV90bFNzbUpNR1JLZHloY1czOTdTSzVfbjhMaWVCdlNXMUpoeUNnMkZaTXhpQXgwY0REcHVUWlZKX3Nwd29OMkhzOE0wbnltMA?oc=5",
+          "published": "2026-11-16T09:39:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Tritium Detected Above Safety Limit in Seawater at Hanul Nuclear Power Plant...NSSC Launches Investigation Into Cause",
+          "publisher": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LcGRqaXc0TmxJV1BVSXE0MEtTS3JKREVzWDlrV1VXWTVxS2VWV3NjNVhPQmgySjFuS2hpQU1XaUQzLUU0TDB2VGhJSVJZN25tN09aTFZYRTE?oc=5",
+          "published": "2026-11-16T15:03:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.615,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Newcleo, Curio team up for recycled nuclear fuel supply",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/newcleo-curio-team-up-for-recycled-nuclear-fuel-supply",
+          "published": "2026-11-16T14:35:51+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.596,
+      "id": 13
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "李대통령, 필리핀 정상회담서 '조선·AI·원전' 협력 확대키로…과학기술 MOU - 머니투데이",
+          "publisher": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EUy1ZMGtreUI1ZXg1bzVkZFpkRDRPcUljMFh1M19ZV1JQU1ltcG9qc2pNMTgwSlpNVmhwTm42blNRZ3ZiNl9najJ2UVFQUE5GREhqSzY3UGNlMEJRNVN2VDNKaC1JbUFBb0phQtIBckFVX3lxTFBfOUxvQ2J4T192V043aUxKYzR1b190Yjhmd3o0aHFXNTczN25vZFZEZFdZUzFzM3lWbUlBX3Z1cDJka2pULWdVQnItODE4RWJXM2ZJUThtUjNvU2M3Mlk3S1lWNnkwRVQtc3JJRWxjczBUUQ?oc=5",
+          "published": "2026-11-16T12:19:42+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "李대통령, 韓-필리핀 정상회담…\"조선·AI·원전 등 협력 확대\"",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iUDM1cjJuN052ZHJqeld0RTlYWnlpSzAydlJIMW1rUlRJYWk4ZG9VUjcyejB4YjlxeEl2YWwtVGk4MWUxU0JfLVF5NWZzV3pKUFBwdHNGM19KS3fSAWBBVV95cUxOQ0ZjMEpsb1dFY0tra0ttUWNUbURIUjNpS3pXMERQb245VTl5ODFQc3A3VEtoVnVDeHpCRjdrdlFhSmFiZWtjRlZJSXRERjJyOS0zWjN5TWg0ajg2VVVqX1k?oc=5",
+          "published": "2026-11-16T12:38:13+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "이 대통령, 한·필리핀 정상회담 \"조선·AI·원전 등 협력 확대\"",
+          "publisher": "JTBC",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5haUl0bTRrM3N6SkNnLUxqUW1zNE9FcVJSNW9SNlNUOVMxc19CQzdqaU1rcldTQ254NkgwYlFscGlSS3ZXMWNPeWtwQWdoR3NsUDdlRA?oc=5",
+          "published": "2026-11-16T14:24:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.588,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NRC extends Project Ike review timetable",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/nrc-extends-project-ike-review-timetable",
+          "published": "2026-11-16T14:08:05+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.577,
+      "id": 15
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Work programme being planned for next year, as Paks II audit continues",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/work-programme-being-planned-for-next-year-as-paks-ii-audit-continues",
+          "published": "2026-11-16T13:48:42+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.563,
+      "id": 16
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Akkuyu 1 fuel loading 'could start next month'",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/akkuyu-1-fuel-loading-could-start-next-month",
+          "published": "2026-11-16T13:18:42+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.542,
+      "id": 17
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 8개국과 사용후핵연료 관리기술 협력",
+          "publisher": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzZmc3eGxqMUVaRkhwZjJ2TXBSNlE4bExYeHhxSnFYeDFxSEloMWFieEVtNTR2WUpJUjlZdzlTMGFUQ1pwdllMOGxKRjExY1hRR1FHUDFLMGhMVm5qbWUtRm9naU5iQzJxMHB6SXAwdl84UUo3YU5r0gF3QVVfeXFMUDNmZzd4bGoxRVpGSHBmMnZNcFI2UThsTFh4eHFKcVh4MXFISWgxYWJ4RW01NHZZSklSOVl3OVMwYVRDWnB2WUw4bEpGMTFjWFFHUUdQMUswaExWbmptZS1Gb2dpTmJDMnEwcHpJcDB2XzhRSjdhTms?oc=5",
+          "published": "2026-11-16T01:11:42+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, SMR 사용후핵연료 관리기술 개발…8개국 국제협력 강화",
+          "publisher": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BQmFmdUhXUFZSM1RfY3VCR21QeWd1cmZrQnh2Q09Rc1BrN0w1VGVERmxGMTdSZzlLYVluLWdlN2tYZWZzOGJMV3luQUtCRkN5OHBQc1B4OGl3MEhE?oc=5",
+          "published": "2026-11-16T01:19:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 8개국과 사용후핵연료 관리 기술 공유… 원전 현장안전도 점검",
+          "publisher": "비즈트리뷴",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fZGJhZl9JeUpWRVJYYnBBbkJDdTFzSnBueERpc2pSSXpDMVJNblpsSTFpMnBiazE0SjkzcmpjY2lxTTVlMWN6eEhKNE1yUWYxM2U5NGFGVTAzQnI3YUU5c05BWEhHNnpuZTVRY252c1g?oc=5",
+          "published": "2026-11-16T10:48:53+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.438,
+      "id": 18
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한-태국, CEPA 협상 가속…AI·방산·원전 등 전략협력 확대",
+          "publisher": "한국방송뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GSkxQUnFFMjl1VHg3aXMtb080LXJpV2djVTE3bHhjQWpKOXB2ZDAwdFhCYWtyc1BMblVjRWp4OGhHcDMwWmRjajUwZ3h1d29rdDBRZjF4TEpSeWtqaFE?oc=5",
+          "published": "2026-11-16T13:03:54+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한-태국, CEPA 협상 가속…AI·방산·원전 등 전략협력 확대",
+          "publisher": "대한민국 정책브리핑",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14NDFuT2xhV25HcHlfMXNGLWVILWtpUm9YTmFXT3NDZVlfX01KWWEybjhNZTkxenpxcE9MQy1peEVfZUtRanktQVV6ZU82NEZSLTl6R0tjOU5nTlM1X0k3QW9DaGtSc1RncUxrTQ?oc=5",
+          "published": "2026-11-16T17:50:23+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.731,
+      "id": 19
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Ukraine faces rising nuclear accident risk as Russian strikes intensify",
+          "publisher": "Türkiye Today",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUTRWbWtXNTA2djFhaThuQVFsQ1dnRmNyOWR5R09nN0tXTzMwY0xQQlZqMGE3Z2lQUjhTTUNxV3V2UDRwTG1JQmN1WHNXci1qbU5YT05pU2gzeUxBdExiMWphekxqWnR1dl9raXczT1h6d25xMW9IS3A4WXlCSnJwV09pU3Z4LXdXMkVVU04yWWlaQkYzVjV0aTFkLV92MGJvSmlkU3VpSllQVEZWSUlBZ3M5VDc?oc=5",
+          "published": "2026-11-16T12:52:01+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "‘Deep concern’ of nuclear accident in Ukraine increasing over Russian airstrikes, officials warn",
+          "publisher": "New York Post",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMmZNYVlMUWVxMDNxN3Q0VnhPSk1yMUo5R0E0eFlyTUxrX20xLWktYnRiSVRwVjZybUJHU3NNQnJzX0JpTDFpMjhSbnBCeHlINkh3TExyLTNVOWNiaFBpazJZTldfWm9Xdkxra1pwR0lwc1FJRnU5NGFub0RKaUVaMkdER2x4akFoVUdtMGptVmlneUxYaEZJZ3UzNWpjekpyLVM5MFVYbXVBalkyR2hBd0RZUGRfZHdvajNXSm45WHhpMzczTlE?oc=5",
+          "published": "2026-11-16T17:47:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.729,
+      "id": 20
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Japan, ADB to support nuclear plant introduction in Asia",
+          "publisher": "Azərtac",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU3V4SF9qZ2t2Z2Fpd3MxeVJDNWNIOFRQaFRNSjJIaDM3T081b2R2NWNBSG9WSy1qT3dxZkdPZ1BjUW1DeGhERldxYjBiOTkxNGQtcWJlWkt2M0k0YldzUm1rNTVCT3NPblRwbGVCMDFlV2dNX2tOWFhlbTFSVmZldzFJSDB6aXNVRmZmWVNkbl8xeHNjYkE?oc=5",
+          "published": "2026-11-16T13:41:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Japan and ADB ink agreement to support nuclear power in Asia",
+          "publisher": "Nikkei Asia",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcjEtalN1TUx6UmwyZmtmR2Z5bkl3clFsMTlfcGdfSXIyWWxROFZTVU1Db0RmTTBUcTRoaGc4UzYtWWstaUdKc2J6Z24wTGFMWEhDV0ZtV2ZlbGk0enI3T213TlZnRlFWZ0VJUC1zZXQwamQ5OXBobkFIYkwzdXNBMEU2SEQxRDNzWmtfQXlmNlRzakVPTm8zS0lTQ3p3NUJiUnc?oc=5",
+          "published": "2026-11-16T17:39:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.723,
+      "id": 21
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한울 원전 지하수·해수서 삼중수소 검출… 방사성폐기물 배관 손상 가능성",
+          "publisher": "한국일보",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzWU5wbGdZUGtUdWx3azBIY1ZqcFE4REtXblQ2LXNqLUxIaEdhbVN5OVcyZnc0aE9hbWpzb0txSWRLYVBZTUlYNDBoYUpxcTkyX09oVml6UHB5VzBsQW5qSGpXYlRlT0xPdXNyRWlQaEVNRWvSAXNBVV95cUxQM1lOcGxnWVBrVHVsd2swSGNWanBROERLV25UNi1zai1MSGhHYW1TeTlXMmZ3NGhPYW1qc29LcUlkS2FQWU1JWDQwaGFKcXE5Ml9PaFZpelBweVcwbEFuakhqV2JUZU9MT3VzckVpUGhFTUVr?oc=5",
+          "published": "2026-11-16T08:50:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[현장진단] 한울원전 지하수서 삼중수소 3만Bq/L 검출…방사성폐기물 배출 배관 손상 가능성",
+          "publisher": "유교신문",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCXzBvX1VGMzRXM29QTW91Z092S045eklWeG8yQlg5NzBZcW1FSTdPSHdmVWZzRk5YWWE4ZUpYRVRrUC13NXBHRjdlZTk2eGZMOUNqUnhHM1lweWZBQ2xYag?oc=5",
+          "published": "2026-11-16T14:39:08+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.598,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원안위, 원자력이용시설 특별점검 실시",
+          "publisher": "투데이에너지",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vV091TU9sZ1NMaUtsNVBKTnItU2JJakcyR1dWZTN1dzdTci1xdUNvTzQ0clV4MzlBY3hsVGVMTktqaU1GYmR4QmpGQlU0Zjc0dVdnRDlORkFyYU03Y0kxcmh5WEFyS1dINWFCdnRR?oc=5",
+          "published": "2026-11-16T06:48:05+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "원안위, 겨울철 원전 등 원자력이용시설 특별점검 실시",
+          "publisher": "인사이트N파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tcGhycUFpdFowS2RvUXNhZ29XU2phczNoaWVRczhKR3YwQUFYbGN6UlBKcWpZOUN5bmNMeVpNckxWakJRUUEzNXJKY1VpVDJ5WVdTdzVJcTNSME5sbzBlN1RLa1Npdw?oc=5",
+          "published": "2026-11-16T13:40:23+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.557,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "김상일 경북도의원, 울진 한수원 학습보조비 집행 관리 강화 촉구",
+          "publisher": "중도일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JZ2dUWkFpUjBWR2Y3c05vOFJGa3VudkxRRXY3OUFSTmsxYTJnRktTN3RxTW5vVzdIRDRxazZVQTREQnlZZ2o1cVBnZDVaV2R5emp2RHNmeGdvMWQycHFlcVFFcGE?oc=5",
+          "published": "2026-11-16T06:11:36+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "김상일 경북도의원, 한수원 지원 학습보조비 집행 개선 촉구",
+          "publisher": "웹이코노미",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mMHdHNmR6RHhSLXM3SGFvNDNjak1xQnk1WEFYMnd2M0RLNGtlbnBQNl9OWjh5ZmJxVWJoUk5iZzVqRWNVVWphU3A5TGtOXzdQcmVRMUpXNUJnVHpVYUFHMGZyMnF0UGZsUmpoWUxHZXNmQQ?oc=5",
+          "published": "2026-11-16T10:07:23+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.41,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, AI로 원전 방사선안전 교육…공공 HRD 대회 2관왕",
+          "publisher": "전기신문",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5eEo2NDFCQ3hUNTV3NUxaSTJjdEpiVlotT2FIbWt5N0ZKRlBpR1lXMHN1aXphanpoeTFJQ3VXVFpJMGhhbTRUbjU5cHdhRnV2MFo2Q2ZyeUNabV9xTjRTMTFpdU1xd0h5MEw2aNIBcEFVX3lxTFAyenNneHRLb1BoUEw1dTVXa0VUa2IwcTJTeWVkeVFiMGJ3Ql9vY1dwdXlhaDNsUjA0cVFOQlF1MlZ4UGEzWXpHVzcxLUFoTk45QXR6bTZVMGk5OFZneXBfZm81c1FfMTlvVWFVNTRMT2U?oc=5",
+          "published": "2026-11-16T08:41:20+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, AI로 원전 방사선안전 교육…공공 HRD 대회 2관왕",
+          "publisher": "전기신문",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyenNneHRLb1BoUEw1dTVXa0VUa2IwcTJTeWVkeVFiMGJ3Ql9vY1dwdXlhaDNsUjA0cVFOQlF1MlZ4UGEzWXpHVzcxLUFoTk45QXR6bTZVMGk5OFZneXBfZm81c1FfMTlvVWFVNTRMT2XSAXBBVV95cUxQMnpzZ3h0S29QaFBMNXU1V2tFVGtiMHEyU3llZHlRYjBid0Jfb2NXcHV5YWgzbFIwNHFRTkJRdTJWeFBhM1l6R1c3MS1BaE5OOUF0em02VTBpOThWZ3lwX2ZvNXNRXzE5b1VhVTU0TE9l?oc=5",
+          "published": "2026-11-16T08:56:09+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.36,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원(주) 한울원자력본부 한울2발전소 부지 내 지하수 삼중수소 검출",
+          "publisher": "www.hidomin.com",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zbDNyYkZWMlpvMWVEaW5qa2haX2xaSWxxRllzMTRkaF9KV05NU0pHZW1tbHA0dVZUWk5FTW1qMXBfbUlfN3ZzMlp3Q3c1c1NVOGZ1c09NTHl6bW5EaTRKQTBDeFd0OGVHRGc?oc=5",
+          "published": "2026-11-16T08:51:12+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한울2발전소 부지 지하수서 삼중수소 검출···한수원, 원인 조사",
+          "publisher": "뉴데일리 대구경북",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VMXNUQnlxa2M0cFBXWVIyeTJGLTJ2ekYzR2czZjJSUTcxa1Q5ZVV5Uk0zY242Qjl5cHNsQ29ESW5Rd1AyZHBGUFFCblNnZy1YOThPdWhRdTZOMmVNV3BHdUNQLUp2UEpSbGpucUNGdk1CSV9VMTZIQThR0gF_QVVfeXFMTzhpS0dWTm1oYmZoaVUybkJoZC02M2FDYzdJMnFQeTVRYkRNd2xubHJlR3FpWWwxeFZPQk1PbS1RUUJSMExRQzlsd1cyOTZfZlNwVUZxWmtRRkU1dEswMmZoMXEyOGZNa3F6c2dMQXZrVUJPQW9sMk5oVGVfR2p0NA?oc=5",
+          "published": "2026-11-16T08:55:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.359,
+      "id": 26
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Korea Holds Public Debate on Nuclear Power Nov. 25, Opens Website",
+          "publisher": "Seoul Economic Daily",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSHdJSzEwcFM1c3ZlWlpoOGFwWXhiZk1Ya19VQ05BOHotQkFjTlVWRU1qalJoaU9mbGlnMFUtc21Da3B6U1otRmdpUWFlbGh6cm9BdVVja20yX3ZyU0d3UDRIVk1Nd2JLMHVXMmVnOXNzVHF2VV9SOE9pMjVXWTMyN18xN1ZPcHlwUTBSVXRVbWFjZE56aTlXMGtEdk5PZw?oc=5",
+          "published": "2026-11-16T03:10:05+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "First public debate on nuclear power's future set for Nov. 25",
+          "publisher": "헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42WVlhNzVwdmZFZWZZWE9sbjU5QVlscjd0SkxmSnllaFk2ZGZVWDlEdmVMR21vX3U2RXdTM0hMd2MtUl94MGJmc2F2SjBHUUg5Y29nRUhqOA?oc=5",
+          "published": "2026-11-16T05:51:31+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.232,
+      "id": 27
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Northern Marianas explores floating nuclear power by 2028",
+          "publisher": "RNZ",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcmgtVUFuMUg3OXBtV2pyRWVGNnRiQlFvbDktYWxVb0tQTzNrREw2SGxlelhvMng0dURrWC01c2ZWazVadTBiZERKWTEzMUhzSGhBbHVhX1VuSGRUVzJseU5FdlNtVlFXU1MwM3NpV1Izcnd3RDFCaGExdURYWlRDd1Q5RVlrMkFXX3docjJZcTJReGJJdEViR2tEZ3lZbkhWLVE?oc=5",
+          "published": "2026-11-16T22:37:02+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.93,
+      "id": 28
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Two Highly Anticipated Nuclear Power Plants that Will Restart in 2027",
+          "publisher": "Tomorrow's World Today",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQUlTR3pvLUxCYTRNV21BclVVZ0RLWmxqUnNOVENmYXAyNXJ3bnVTV1pjUzk4aDRFR01jdW1Ca2JpRDFzVThjUjBTVFJNNFhjSTRUdk1fd1g5aHREWGJxLVR3V3h3dUh5akRHNUViLVJENHBvdXZXSTl1QlFtQ3FUWVRSdzczbWdqRVh1UTlDTVE1U2pYZmVYLTc1MnZsT3RETlRkUDg0VzdoTW9ZbnJ1SFZ2VQ?oc=5",
+          "published": "2026-11-16T18:01:16+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.739,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 100
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 92,
+      "kept": 56
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 45,
+      "kept": 39
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 50,
+      "kept": 5
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 3
+    }
+  }
+}
