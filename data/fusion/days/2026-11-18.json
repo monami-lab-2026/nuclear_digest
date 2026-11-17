@@ -1,0 +1,290 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-17T23:32:47+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "France launches roadmap for fusion energy development",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/france-launches-roadmap-for-fusion-energy-development",
+          "published": "2026-11-17T11:57:57+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        },
+        {
+          "title": "France launches roadmap for fusion energy development",
+          "publisher": "World Nuclear News",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdWo3MFAwNXVtUkNISVl6NHI4eFBRUkM4ME1nN3FhMmhmeVNpLTBIalNxd0xBNDFFRHJTd3BRVm41TENsdUxIS3FIYkRPbnVWVHItWV95bEJGMGZrb3pDMzhXRXJnY08wVk5uUjBDTmNqNmhHU2pIcG5Tc3BWTVlfMVBxUk5UYWU4bVppZ2pJVHE4U1c5NVcxMw?oc=5",
+          "published": "2026-11-17T16:23:42+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 3.702,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "핵융합연, 한국형 핵융합로 초전도자석 기술개발 논의",
+          "publisher": "굿모닝충청",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE04bUhkSTBkVm1yc2liWHJjMUpoelF0OUJHSFRGeXlCOU5FR2xoRS1PczByamwzSU1RZml5TmNqbGZJZElYSGVibWx1TVN3ZFMwWWEtdGQ5akdZYTZSempSWDYwUTNzVlQ0RDJ1Vl93QXE3Zw?oc=5",
+          "published": "2026-11-17T05:37:56+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "핵융합연, 한국형 혁신핵융합로 초전도자석 기술개발 산·학·연 머리 맞대",
+          "publisher": "중도일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUREVsWTJ0U19taExud2R6RjRCUHcyMGJsYTViUWplY1lFT0pCelJhZU9jd2o0U1lWUjV3dW11YUp5eldCTThvb19aSTNpZEZnTnhRRlFHMmJEZENQMEZjLTFXeUw?oc=5",
+          "published": "2026-11-17T08:20:40+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "한국형 핵융합로 ‘초전도자석’ 개발 논의...저온·고온 기술 함께 검토",
+          "publisher": "수소신문",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JUTY3M2RvZTB3cTJ5dnctWW5fQlNSRjFfNTFsVTY2NG1feWdKRHpNa29ZNTJBdDBHaEc2ZVA3anhQTXJGanA1VkxZbjZGbU80RWU2VEFVSlpzbURhUjZNREx3OHp2R1lFYjFHejFILXZ6LVBl0gF0QVVfeXFMT0lRNjczZG9lMHdxMnl2dy1Zbl9CU1JGMV81MWxVNjY0bV95Z0pEek1rb1k1MkF0MEdoRzZlUDdqeFBNckZqcDVWTFluNkZtTzRFZTZUQVVKWnNtRGFSNk1ETHc4enZHWUViMUd6MUgtdnotUGU?oc=5",
+          "published": "2026-11-17T09:22:31+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 2.41,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "TAE Technologies Upgrades Norm Fusion Reactor to Underpin Commercial Development",
+          "publisher": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa0I5STRYNlUxV2lKa0J0YkkzdnF5UXFLTjVEcElHaHA4aUVWM0JYYXJGam9FWVZwUUp1bS1obmVBVG8wOWFKOXhSa2xwRUZZeWJ3NE9EN25fTnluOXNTdVFpbWZ2RWlHd0Q5VkRFUHQweVlDS1BCUlR4bU0xTTY3VDhqUWthNHlRb0hXUU50dEZSMm9Xa056VFNkakZjalJPTlNWTjA3NWJDMlRzOWMwRnl4OXVyejl5dlN3ZGRiamY2WDJZNkF3NjZFcll4cmpDU2c?oc=5",
+          "published": "2026-11-17T11:30:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        },
+        {
+          "title": "TAE Upgrades Norm Fusion Reactor to Support Commercial Development - News and Statistics",
+          "publisher": "IndexBox",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd2VsXzltQUFhVnpnVW5mLXJQWnBYRVNxWGhUdWdvTHRIZFRSZWdFb083UTZHSTdDdlBwcFdZWlRhZWVMYlZ6Z0lNMlZ2RzJmSEhoVkNtZjVGZVZvZmlJQXRWTVVyWVpQbVpIczJVRGpSX1o1aUg4RDlNREJ4VF9wRUhLa3FzX2NWeFQ1SHY3cmozREJGdHNGbC01bENXdWxHMDdLWmNwN3pKclNYeWNJ?oc=5",
+          "published": "2026-11-17T12:00:58+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 1.52,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "KFE, 한국형 혁신핵융합로 초전도자석 개발 전략 논의",
+          "publisher": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1UN2dJQl9rcW9Cc19kNzRfRkJzZWZHT1FQSDdOOWpOZnRsSFZuVHBnODlrbUJrWUNOVndYREtBWTMxamFLYUlxRWlnUWNsUVJqTkpEWVRn?oc=5",
+          "published": "2026-11-17T06:00:54+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "韓 '혁신핵융합로 초전도자석' 개발 논의의 장 열려",
+          "publisher": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XN2dmUTNFRXYzbXR5S2VTeEJhc2MzdDF0SUZqb3pyc202dWlYOUVLY1RpYVFiaDFmVEFkMF9GWFNTVVFTUEdmVHlMdWdnZw?oc=5",
+          "published": "2026-11-17T08:31:16+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 1.374,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한국형 혁신핵융합로 핵심 ‘초전도자석’, 국내 전문가 역량 결집",
+          "publisher": "이데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRnY2MmpTTTZiZGdlaHlmSXpmYnByNkpWdWFNb3dmcXZnUW9WNk1kSVhYckxSUVpaRVk2Xy1UZFg5MVhqZ0ZfVFpjNHRuNjI0RFQyU05xbEFyaTFmM01xNVpYYWJEMVJWMm9XM1lFRnp5b3ppV1FfbENuRWMxb0lzNA?oc=5",
+          "published": "2026-11-17T05:16:11+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "한국형 혁신핵융합로 '초전도자석' 개발 기술역량 결집",
+          "publisher": "인사이트N파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56d1o3LWIxMG10YkpmNzItNEpHMG54eG83UWJ1ZjVSXzJhbnRsMzBrS1pmYTgxZkppazVwUUM2bEV6RjFuSmtLY1BBZzk1dkJxdE9oWTVad0FSLW5PbjViajM3My1vZw?oc=5",
+          "published": "2026-11-17T08:16:13+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 1.364,
+      "id": 4
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "핵융합연, 핵융합 초전도자석 전문가 워크숍",
+          "publisher": "충청뉴스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZWE1OS2tCUG9kakFZcVpMbXI0X2N6RUUwY1RxbmF4aTY3QlV4VWNpb2ZuSkQ4aWVneGJPX1hxdmNPdW5wZ0VaTlRvYWxjaE5HRE9YeGh4SlR1aEx1WFg1Uk5QMERLSmstT1FZ?oc=5",
+          "published": "2026-11-17T04:41:46+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "핵융합(연), ‘핵융합 초전도자석 전문가 워크숍’ 개최",
+          "publisher": "투데이에너지",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94aUJ0aDdfTnJ3UzdlTm1mRWlTVllyRzVKbG12anpEa1cxUXd2OVFNZnRZcS1EQXdVNkRjRjUtWWwyQ001VjF3cnNxbk95MVRGaGs3a3Z1Vk53QTF3UC1lek0tVnA1RUw0SDVwZmFR?oc=5",
+          "published": "2026-11-17T04:55:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 1.224,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "France Unveils 10-Year National Nuclear Fusion Strategy",
+          "publisher": "NucNet",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeUM4WV9rUzZNS2gycE1VTDVnZE1LRDFJU0JPZGFjZ1pXcUc1bUJHNUtEdElWY3NOUzk1T2t3ZUNoS21RUmZGOU9rWkx2cnlWT0M5NXg2eW1UWkg5OFZmTXBzdWRTSU0zVFYzM1g2dDhKV1RDWnkzMmsxdmRvLV8zZldlWEZPM1pOMzU1LU1Ga09uUmJ0ckhYQw?oc=5",
+          "published": "2026-11-17T13:30:29+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.582,
+      "id": 6
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "핵융합연, 플라즈마 가둘 ‘자석’ 기술 모은다",
+          "publisher": "금강일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XdUFDcEIwNTRFa3M5bDF3Y1luTWUzU1RCNDhoNzRVWHZDZjRfcDJmZTFJUVJZeWN5VldHY0dHTy1sdGtjM1Z4bWI0M0V3TjFNWWdrVFFWa2I3eWVGSnR1OGJMQTlzVWtRZEE?oc=5",
+          "published": "2026-11-17T10:01:49+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.437,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "France Sets 2035 Target for Technologies Needed for a European Pilot Fusion Plant",
+          "publisher": "energynews.pro",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1BIdmlCQktQWmhCb1Z1VWIwSGpvYVZTMTlON3B3M0dWazd3QW94MW9fU05BaTJoeU93aVN6clFYbmJFSmVsNXhlZzBBU1JxRmViRkVrenU5M3k2UjhROW1jSG9HSzlaUGZRQXpaUlphc1E0bzRFM0NMczYzOXNJaDhZVDI1Z1BYMlQtOU0wZldJSml2dGUyZHczUmR4NDRiZ1lxZ0VGZFJmb00?oc=5",
+          "published": "2026-11-17T09:00:48+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.394,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Iran’s First Fusion Reactor Is Almost Ready: What Has Tehran Actually Built?",
+          "publisher": "Frontier India",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWTNkbEFYNjhyNzhaTmJfaFNwR3NzZVdIN3RUT3ZNejN0RXcxenMyVXJaLVhucUlDVzEwMXR5enlPTFNSMVZCQm1PTXNmOU5uRXVETFlfamtYbHhXZGp5OVhBeHpld1ltNEhlSnIwV0hka3FWTWZkazNYRlNHM2hHalBVN2VPcnRMN1R6eFhaamFDenR5dmtQeFM4eXowRzdmQVE?oc=5",
+          "published": "2026-11-17T07:38:39+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.337,
+      "id": 9
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "핵융합연, 초전도자석 기술개발 방향 논의…산·학·연 협력 강화",
+          "publisher": "아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2dUJIWmZua3FFR0ZYck1OZ0pINUpUdXZCRXhPc29jSW5pVVVLOUVEdGhxS29ETzE4VTR5NzlpS0lVN1gxMzJLMFpycjVUc0pNZUlFMGsydknSAVhBVV95cUxQdnVCSFpmbmtxRUdGWHJNTmdKSDVKVHV2QkV4T3NvY0luaVVVSzlFRHRocUtvRE8xOFU0eTc5aUtJVTdYMTMySzBacnI1VHNKTWVJRTBrMnZJ?oc=5",
+          "published": "2026-11-17T05:23:49+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.244,
+      "id": 10
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "핵융합 초전도자석 기술 확보 산·학·연 협력체계 구축 나서",
+          "publisher": "브레이크뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1zeUt0bmowWUFUdTJJeVE4RnpmMklvOWpOdmJFVDAwdXN0ZFVoN3NPMnhfLXpqakRmaFpOaWN5T25LZEhTbGw2Qg?oc=5",
+          "published": "2026-11-17T04:58:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.226,
+      "id": 11
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "프랑스, 핵융합발전 전략 공개",
+          "publisher": "문화일보",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tdHRxVXdnaTgtbWQtR0hTdUJrUDlKRnkyUUhyanZRM0dGMHQyRDI4OEZ5VVdNaW5UemlrUHlRTlh0ZW0tSllOQjN1UnFDNjRX?oc=5",
+          "published": "2026-11-17T02:44:52+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.133,
+      "id": 12
+    }
+  ],
+  "feeds": {
+    "gnews-ko-fusion": {
+      "ok": true,
+      "entries": 13,
+      "kept": 13
+    },
+    "gnews-en-fusion": {
+      "ok": true,
+      "entries": 18,
+      "kept": 6
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 50,
+      "kept": 1
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    }
+  }
+}

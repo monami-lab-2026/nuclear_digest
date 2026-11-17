@@ -1,0 +1,867 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-17T23:32:45+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Nuclear power added to national grid for the first time",
+          "publisher": "Daily Sun",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLUtuZ0pMbmZNRDBudzJfbDBvVjJkUEEwWC1fMXYtWDd3RUNBeWJET3lFU0d2Yk9nRmZIcV9kS3JmeXpvdDYxSWFkX2xRejU5S3oyci1meEdTZV9TNkFYNldZUHRjNTU4ZVBVZm1henc4ZUtac210cVl2Y1hWTkRVNGZ3SHF4YmZMckpmQzZHb25PUFJYLW5CY0JTeFIxMzYy?oc=5",
+          "published": "2026-11-17T10:06:48+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Nuclear power connected to national grid for the first time",
+          "publisher": "Prothom Alo English",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Nb0V1RUlDbVAzTEFfeGZ5Z2FVQms3OVp4RkhxSjZfWmJZUnY2VUxvUFliSTl4a1poN0VDWGo1MUdkbGxtMHBqZWpuQllScE1GZ0JrSDNPZ2EzOVXSAWhBVV95cUxOd0lJZFVqdk4xd3ZnUWZvS3RYOWdkOXU3bkUwUVp6RnhFSlNwcmtRbm1lYUJqSElwWVl4YlNxaTZRNXU4ZldjMWhEbndZSzIyaVRDVmlqUUpvUEpaM3FVUHRPNkxhR0xkSw?oc=5",
+          "published": "2026-11-17T10:21:03+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rooppur nuclear plant feeds national grid for first time",
+          "publisher": "bdnews24.com",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hQlhhYXktSGxiNWx2cWhUU1BIalpYbmdmUGsxWFdrUnRrY1lNZV9idG1IVGZkeDhmOXAzd0ppTDlsV0s3elVGOC12c2p4TmI3cklxeQ?oc=5",
+          "published": "2026-11-17T11:27:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Bangladesh's first nuclear power unit connected to national grid",
+          "publisher": "Latest news from Azerbaijan",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRVY0RFpoZjlrLUh0UmctRUZRcEdVQk9HS0V5dWV5TXg1TDBDRTQydHB6VnhVTDhVTXVpUXBSUEV4eGVyUW80Uk5xdTBBSVFzel83b21iUWNhZUVQNF9RQXlZWTVPTEdjSHlYQ2ZsSWY5Q3RyVUQwUGt6XzBkM3J4QnoyN29EXzNSYnhkUl9B?oc=5",
+          "published": "2026-11-17T13:01:45+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rooppur nuclear plant feeds 350MW into national grid for the first time",
+          "publisher": "The Daily Star",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRDRza3U0WGY1Q2xpaHZWc1RlYjExcURZbUVEUlFGYjBOSElCMGNkeWZHajlheXhRamZ4cVZJUVlILXpzMUNnZmxmTkRMZ25HTWlZSkdJQmR0NWROQzJ1aWRmMVhMb1ZTeWtxZnFlODBsbDZfSE0tRmd1eVlibDA0czBxMUNJNDBWSHlxc0VHWG9WQmI1V1VlbVNWeFBLWjJXc0dvUVJWU2dlbzlWWThsSnNtQmlnS0RTT0ZHUkx3U3pVbi12?oc=5",
+          "published": "2026-11-17T13:03:56+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Bangladesh connects first nuclear power plant to national grid",
+          "publisher": "The Hindu",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWmJkUTltVHNESG9HekMwaFQ0RTI2TXNUUmpBemo4cV9scVpDbERNM1phWkkyTTNCSjdLa2NTa3lMMXA0MlNlQl9odVVQczdMUVcwNHRpOUQtbzU4Qm4wc3ZOUVFzYlRLb28xNGp0eU15MVVKSE00bTlKbmRQUXFtYS1KQVdyUUZxWThXcWVNcEFzTlVKME1HeVRvZEhJUXBCWnpOS3FhMDVPLXFLNHY2MzRodTN4c0xlNDdjQ0NTYWpuTXcy0gHLAUFVX3lxTE9UaWh5Rk1CZUE0NmNjYWRjaVZ1eTFsM0cxcndDa2djWGNYVTdRSEVUaG8wc21nN2V5cDZFeERTZ3RoZ08tS3pvTXdTd0p4bnZ6QXN3eG5uLUo1S21vR1MwVlFXOTVVOGJVcmluSTFlZUVqMnNoUk9wNnJmTGtPeEJhY1gydVR1RGVObkxzaXQ4LUFkb0FTdU80OHRCUzJxZmpEN2hTZmxPQU9pRHhPNTUxMy1ldHU1WHQ0aUZSR0tDSE1OSnJ3OTZUR244?oc=5",
+          "published": "2026-11-17T17:01:23+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Bangladesh connects its first nuclear power plant to national grid",
+          "publisher": "Arab News",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMHhKSlU5N2hwbmRqaEVYNmhMN291UTQ1ZnhyNWZ1a3huNjdkUVNQQWo5bVp6bXYyOWdsT214amN3NnNfSmNFcEN5aGRGTXZwQklWX2drelJsY0NVdXpTRjd3Rmp4ODVCbTlCckxmLVEwU000RHJoWnhmR3dOVkpRcUNsb1ZHUHBCNHlONklrd25hRFBPd0xadUhnZkZKQVN2V3ZKdzhzaWQ?oc=5",
+          "published": "2026-11-17T19:33:30+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.834,
+      "id": 0
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Bangladesh connects 1st nuclear power plant to national grid",
+          "publisher": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUDJZdzFtR1U2OGpVbHFPemR3MUVXaVRmWEJTUnhaOENLVWg0Y1ZvS0VXWE5rdjBfSTlqQVFXQ1RzU2wxa3R2NFNuSzEwMWMzOXJHUjhCOG1ObW9sV2dNeXl5dll1d1FlSWwxaVBZUEZtZ3FLa2gyUUJPNGtTbUtVMlVONDNiTWcxX1MyUHZ4RE1UaVczMkR5NjRHTHZtM1NmZldLbGs0SzAzZw?oc=5",
+          "published": "2026-11-17T13:39:24+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Bangladeshi first nuclear power unit joins national grid",
+          "publisher": "The Peninsula Qatar",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ3F6WFczOUhvWjdxb0hBTmc1M1JtYWNyOGFEekhOaC13bUM2TVFfa0tXX0F3dFVpaHNnR3N5WmNpc0FQN3BUSGNzT0JVdzBaV3p5UlpfY2RjQllUWjdhX2JCTjByTGt0eHlMUHBXUUI0Z0NyQWhqZHlzT3BwSy1QZFFIR1NmQk1kZUNHN0RRRnRjOXllME81ZzZkTjEyY0s1cEYzaWJoTUM?oc=5",
+          "published": "2026-11-17T14:13:27+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Nuclear power connects to national grid on trial basis; Bangladesh becomes 33rd nuclear-powered nation ​",
+          "publisher": "The Country Today",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMmVoVEx3MF85bEp4aDZMZk5rSHNDT3h2QWdXOUJOUl9aMndWNm5HSXhiYVJDYjNvWHZGcVhxZTRNOEQzYVlsUWJ3RDQ0Wi1UakRiNTVHcURmTnBDSHJMVldnRExGV3M4QThqRHZ0cm9obGJoenctMFVGQTlBOGd2UmVsaFc0RXZzOWxreTU0QUFYVnJ6MzhZeWpGTW9xTHdPb09rbWRhMEZNNjI5dE9waHlGMWxuaXEtV1g0X2xIa0NzR0NtVGZnMGNaU2cwdVZjN3ZZZ2ZDSWQ2WVlvNE5XbzBDb2Y?oc=5",
+          "published": "2026-11-17T16:06:45+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Bangladesh connects 1st nuclear plant Rooppur, adds 350MW to grid",
+          "publisher": "NewsBytes",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcmFQWklnLU1PbVpHRWpxVUVha01yVHV6eTJETFJEaDlJTW9XaHFYYnZXR09FWTk5djJELVdwekdCQUtnSjRkajNCRThXSkFCSFJudUYzdkdDNjJmYzdNZnVEZ2I5Sm1vMUdVYXE0ODFoRTh1eEhUZTZvb2doYkllUWJwcGQ3TEhDTlBVZU5LQTJrUkFzR2ktMDFpenNoX29yUWpHUlktVDBhamtocEE?oc=5",
+          "published": "2026-11-17T17:19:21+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Bangladesh Achieves Nuclear Power Generation Milestone",
+          "publisher": "The New Nation",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iZFJyRnU0Mm5MaVhEMFQ0MHU5MjNNXzJsRjdQMElsX2FmdlU5bm5fTzlPcllvQmR1NW9nekgyb1BjUzdYT3lZeGtXR2c0a1U?oc=5",
+          "published": "2026-11-17T18:09:47+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.776,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA Reviews Progress of Zambia’s Infrastructure Development for Nuclear Power",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/pressreleases/iaea-reviews-progress-of-zambias-infrastructure-development-for-nuclear-power",
+          "published": "2026-11-17T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        },
+        {
+          "title": "IAEA Reviews Progress of Zambia’s Infrastructure Development for Nuclear Power",
+          "publisher": "International Atomic Energy Agency",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSENtRFVqLVBQLUp2NEF3Sm81ekE1eUlxTHNRVmFPdUdMb2k4X3FfMmVJd2R3cGduUkp5SHNicVVBbUVMN0ZiRm1yNGxCOUoxT3NsdTdtYzU4bEFvdjJNOGFjcW5iLVFyeEx4YmJ0enRxaEdoclBYQ2oxM0NISnFLQ0p3T2loMU9PZFJRdFhnVWxIZkhmRUd0d1UwZW81ZzItZ0ZJWG03bE8zdEZIVnBCU3ZxR0RFNUR5Q0ttVDV0OA?oc=5",
+          "published": "2026-11-17T15:54:46+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.682,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "글로벌 원전기업 창원에 집결···경남 SMR 국제 콘퍼런스 개막",
+          "publisher": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vNFVTdDV4c2dsS3JpY3pzQkZNRjdBWGYwZVlHQXZtZkJRdTUwUzJZbEhsd2JjRkJwS0J3M1dYdUpXYXZabXZ0TzBfZzlxRzdrSTZVZFROQmVkZ9IBX0FVX3lxTE51anAyWHFnSDBxNVVfUlZKRE82dXRpekNLTUl0OVVfTlpFTk5pdEIwWXRneTJVTl9aczVGLTNqaENycHA2TV9JdnRkTGl5MnV6OWstZXNQZ0VabDV0Q1FR?oc=5",
+          "published": "2026-11-17T04:03:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "세계 원전기업 경남에…SMR 국제 콘퍼런스 개막",
+          "publisher": "LG헬로비전",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jdFFDYXNHNFJMQ3VxUjlOdUpkRTdaOS1Hd0RsTENEMUxPX01ZdFRVUlZxZzc5TUo5VlNCSEwzLTI1TEplaEloeEJ4d2tzZGdDbW5oVENRSFRDRDVrQS1NaXlQcTRidHB0S21HeXcyZmhBUW9jUVHSAXZBVV95cUxOY3RRQ2FzRzRSTEN1cVI5TnVKZEU3WjktR3dEbExDRDFMT19NWXRUVVJWcWc3OU1KOVZTQkhMMy0yNUxKZWhJaHhCeHdrc2RnQ21uaFRDUUhUQ0Q1a0EtTWl5UHE0YnRwdEttR3l3MmZoQVFvY1FR?oc=5",
+          "published": "2026-11-17T08:25:47+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경남SMR 국제 컨퍼런스, 글로벌 SMR 기업들 경남 창원에 집결",
+          "publisher": "일렉트릭파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Nb21wRG5jb1pZTUhEQ01BQWNZcS1lR1psSkFGWGl0dlJzc2RaTllkRElyT2JTMVJXU3d6UFI0NmZzLS1PVEhnOFhVUWdGVWctYUhRSC1ta1FpLTZ1RHZhZE5OUFdTQQ?oc=5",
+          "published": "2026-11-17T08:27:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "국내외 원전기업 창원 집결...경남 SMR 국제콘퍼런스 개막",
+          "publisher": "부산경남대표방송 KNN 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XREdlcnh3N2FCd0hQSEQydmQtUVNWbkxyZlhuYW1iZTV6N05QRnpJYXF0X2U3c0Uwa1pwcHNQbzNBTEc2dVZ4VmpHckZlcTZWaEc1Sw?oc=5",
+          "published": "2026-11-17T11:47:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "세계 SMR 기업·전문가 경남 집결 … 경남 SMR 국제콘퍼런스 개막",
+          "publisher": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzTnc2NUV4a0Z3ZVROZnp5cS1RNENfZ3B1cGJHb1N3TzVkT2ZyUjhNemlvWElrNkVaTlRKQzZXeTdnZVp2U3pERmp1NzQyZ0REazc0ci15WG5fTi1jdWVLbA?oc=5",
+          "published": "2026-11-17T15:16:14+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.655,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 체코 원자력 규제기관 한국의 두코바니 원전 품질관리 현장 첫 점검",
+          "publisher": "다경뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBocXFwWWluZ1R1OGo5T29tOUFHWTZ2Y3J3RmF1M3ZubkF0UDVKU2tNZ2twNWFEdTl6Q2FRRF82RldKeGo4?oc=5",
+          "published": "2026-11-17T01:22:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원-체코 규제기관, 두코바니 원전 품질관리 첫 현장 점검 |",
+          "publisher": "연합인포맥스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1VaGc2UkZnd1h3eTFBekF1dHdGclBpU3N2YU5mMDRUNW5nM1lLM3NLeGVTV2dOa0R2QjhJaDNIRmdfNmNWbWhsQy1Zd2QyQlpTSTFLV0FDLUZ6d2QtOXhaNHQ2YVZGQWRRX21hNElrb2FfXzJV?oc=5",
+          "published": "2026-11-17T01:58:49+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "체코 원전 규제기관, 한국의 두코바니 품질관리 현장 첫 점검",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuN0pLS2M1R19CMk5zNEZlcFJjSDRTcEgwOFdsc3JMazRHX2o0cEtycTdaN3cwTnlFM3VIWDFKMk03ODVKOUpZRUtpWF9Yb3pIVkZ1QmxRYllXdTjSAWBBVV95cUxPblN3WklXVzZKZzRBR3N4SGNEdHM3Y1BaQ3Y2UHFXeklzN2RPSEc4RU15NDYxOTREdmEzaUUyOHBmUjNaRTY0NTNCazQwaXEyUU1jd3ota2hTaTBWVGFFUTc?oc=5",
+          "published": "2026-11-17T02:27:16+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[에너지포커스] 체코 원자력 규제기관, 한수원·두산에너빌리티 '두코바니 원전 품질관리' 현장 첫 점검",
+          "publisher": "산경e뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PNHg3TXhhZUtvWF9XdWMzUmVrbVpVNlQxMDNUcnNudjZVc3VGZy1MS0p1Uy1LTzdNQTFsMmFmSzBORGRPYU95THluWmpXN3IzdXh6Wi0yc0p2WWczaVFCeEdkV3haUHM?oc=5",
+          "published": "2026-11-17T02:53:08+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "체코 원자력안전청, 두코바니 원전 품질관리 현장 첫 참관",
+          "publisher": "대한경제",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLcUNMZzhvcHBxdGNDRWhNZWJpaGhrNXBCendHcUpCTGlIREF5djhqVURtUVk5N1AtWUJCeTFmNkNKeEFmSHFibUljMXZyTXRrcE1SNWEteEIybGFFblRFeDlVRWhNRWc3b1lGV18tc3RLbVk?oc=5",
+          "published": "2026-11-17T06:38:11+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원과 체코 원자력 규제기관, 두코바니 원전 품질관리 첫 현장 점검",
+          "publisher": "비즈니스포스트",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05TXpTSDRhQlN2V3JjWGZoWi1GRU91bFkyWTNLeTMzaXR6elY0dVhOXzVIWkYxMEkzRDNjWHAzdmlfN3FaNVNpREd6d3lzOVBlRDJ5dEp0bEI0T0l3TTZEd2JLQzBPbHpROEtFb3p5UjdEcFU?oc=5",
+          "published": "2026-11-17T07:26:34+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "체코 규제기관, 韓 두코바니 원전 품질관리 현장 첫 방문",
+          "publisher": "브릿지경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Lci1sYXg0RmFTTTgzSHdLTTVZajZNb0pwV1B2ZjNjMzRzUk5BdEdOZ0JBUTlQdklRRTFHRWR6MGlKR2lrbnlVZkZmVFUxUXhXZHE3WVQ3c1Mtdw?oc=5",
+          "published": "2026-11-17T08:29:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 두코바니 원전 품질관리 점검 … 현지 규제기관 첫 참관",
+          "publisher": "워크투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40TlNfdTl1bEVONVgxc2hyZHdqMllleUd1eERhbTNiRWY2ZTJnUG4tTDBfckR5TmZUekFiNEVsd0RKWHRmNnhnRHlzZ0N4NHMtOVIwQ1dyMEFiNk1KeWtfUDUxaUFmV29maWVtaw?oc=5",
+          "published": "2026-11-17T09:05:33+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "체코 원전 규제기관, 한국의 두코바니 품질관리 현장 첫 점검…“계약 이후 최초”",
+          "publisher": "부산일보",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1NazdNQnN2ejlSM29XQ1VaWFFzQUNTOE9ZNFVTQl84dG9LcElQTndZTHRGR2FMbGVnSHkyWkhDZGdoVUJyUkl2WjVkWTVHOS1xVUI0NWRfVU84VEdFM2s0TGsydnEwTkhqazJES2xJb0phU19D?oc=5",
+          "published": "2026-11-17T14:12:17+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.611,
+      "id": 4
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "환경단체 \"한울원전서 삼중수소…노후원전 수명연장 중단해야\"",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxRW1SSkNDSFlLcWxjbnRSWTgxVGxralcwVExELTBleFVESlB4bldMUkd4and6ZkxIWEl5RDFvREpLbDFQVGNscXJ3ZU5sTlF3T1Vna0tyd1pDekFXOVRIcdIBYEFVX3lxTFBxRW1SSkNDSFlLcWxjbnRSWTgxVGxralcwVExELTBleFVESlB4bldMUkd4and6ZkxIWEl5RDFvREpLbDFQVGNscXJ3ZU5sTlF3T1Vna0tyd1pDekFXOVRIcQ?oc=5",
+          "published": "2026-11-17T03:15:20+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "환경단체 \"한울원전서 삼중수소…노후원전 수명연장 중단해야\"",
+          "publisher": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhUTJlUkxDNDNxZWNsbGl4eFJwUGRYNzlDUUZDaEl6QWxSZzJyS3lwZEEwVlpHMGZJOG1ONHI2bG5FREpMMnBodl9xWE15MmhrSUE?oc=5",
+          "published": "2026-11-17T03:15:20+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한울원전 취수구 해수서 '삼중수소'...\"노후원전 수명연장 중단해야\"",
+          "publisher": "뉴스;트리",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WY1Z1bm41ZV9qVWpCRnQzeTUwYWpudENPU0NnU0JkQ2NkNEU3MnlFRG84bmp4UE0yX3JzYmVHOEdJRERFVFNDT1NWR1hQUWliRDlydWpTRllMMEVN?oc=5",
+          "published": "2026-11-17T04:15:30+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한울원전 삼중수소 검출 '파장'…환경운동연합 “노후원전 수명연장 중단해야”",
+          "publisher": "한국NGO신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84MlMxSVhFT29BSER1dlN1MWY3WDhFRC1sYUM2b19hb1c4RUw2eDJrNEp3eW1pd1RDLWcwN205QllLZWduMVRJRm1xMHFiMThMclJ2YmtnTFhTcVh5NUU3bmlObmg2bVFj?oc=5",
+          "published": "2026-11-17T09:39:17+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.421,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "ANS names 2026 Presidential Citation, CEO Service Leadership Award recipients",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-17/article-8587/ans-names-2026-presidential-citation-ceo-service-leadership-award-recipients/",
+          "published": "2026-11-17T22:35:00+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.96,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Early discussions at ANS Winter Conference tackle NRC and financing",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-17/article-8586/early-discussions-at-ans-winter-conference-tackle-nrc-and-financing/",
+          "published": "2026-11-17T20:37:42+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.878,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "EIB grants EUR 400 mln for refurbishment of Cernavodă nuclear reactor in Romania",
+          "publisher": "Romania Insider",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcERXMlEwZ0F2dlhyX0lsWElfUXBSUDJZTlVuMUJ6MkUxeER2OWwySGcxRGY1d0RMcFRJbm9pQ1dISDQ5MzFpOGVJMjNqcURzZFVEZHdYbnkxcWJGTzFTbV9hWWZ6cmpUQjJrWWw3dHM4RThMUGYxSi1KU0NVaTNDbHF0U0tLNy1PTnA0NWstZkhKSHpfVXhYaTVwdw?oc=5",
+          "published": "2026-11-17T04:44:34+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Nuclearelectrica and EIB sign EUR 400 million financing agreement for Cernavodă refurbishment",
+          "publisher": "Business Review",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYUdoSVc2Vjc4V1BTOFBvSXRPcWxKRXh2eEd2blJLb2JkWmktcUR2R2J2dUd4blViWXpkWkhfWldSZXVTcTBLQXUtUEk5b2VLV2FGbVhrTTlJOHdxX0ZvX19LQ3VTUTAxVWtHbkM1emdwMHZOY1VBcjktTm5VQ1QzZnlETExxUEdMNWRVNDdrb0lqT1k5QUVPbUNTXzlZcEItVjBXVllTRzY1LVZyWElBLU11UTBLSmxfcTN3OHZEdGtVT3dtRFkyTlhQeXF0c1k?oc=5",
+          "published": "2026-11-17T11:52:55+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "EIB unlocks half of planned €800 million in financing for Romania’s Cernavodă nuclear plant refurbishment",
+          "publisher": "SightLine | U308",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSDBuRVNRa3hFeDFtZHAxWDk3UkcxUU94eHltcjZuRVdmVmJrSmQ5eTNOWFNiRXkyZVk1Y0lRWXZ1QTVET3NvWGh1OFRRZWxTaS1UWE0tTlRnY2RRaVpLYlFSVF8taVhLZkpLMFlwTGxXQ0l2eVE3UTRMTkIyT3NCd29xYW9BVU9kVnpWM2xicXB3aGljbC1XNXgyeUZoVDZCVWlqN3BDQ3JoSlN3ZFFPaFdLMG9JTV9FMnlxNnM4SGl0dm42R3BDVzZTbS0tRWtZVU13Qm1R?oc=5",
+          "published": "2026-11-17T19:56:06+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.85,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Rooppur nuclear plant prepares to supply trial power",
+          "publisher": "Bangladesh Post",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3ZtWTd2eThpWE5JYnFEUmtTa3dLaDZiclJwTkRuTC03djRLd3A1Y3VhZm1UTGVsZ2p1RFY0aUNDbDdJUmlyVTJRRTBjLWNBYkNuVFBLY2E0Q3ViMWh4dHZCVEZQdUtqZ2R3SEZ6ZHBrSFVSbURvbDdVTS1QdUJWc09TN2oxcFVfb1czYW5GcjlTcUtlODMw?oc=5",
+          "published": "2026-11-17T10:08:59+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rooppur Nuclear Power Plant Connects to National Grid, Supplies 350 MW on Trial",
+          "publisher": "https://www.businesstimes-bd.com/",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnQi1wNlFMX21wN0pUbl9rVVBISWgyTFotWXdrN2Q4S0N3c0hoYWM5OWd3M2pYMHNJU3p3ZTR3UDNZT0YzbHpoMVotOVRENkNCZUhPVUZZbkFiZk0?oc=5",
+          "published": "2026-11-17T10:52:12+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rooppur nuclear power plant begins trial supply to grid",
+          "publisher": "The Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMXZKYjNpR3VDNGo2czRwSVp3X2wyQm5hYWZHWVFCb3lxTGFjR0dDT2hCbjkzT1FhdlRyeEkwRkFhdEZqa1diTlh4c1lkcVBZYktrbDQ1MUZpYkpkZ0pfNXpPQXg4aVJBQXBWRkQtOE0waXpNNUt4cGRxSzkyZXFWLUJqd1hWa3AwTUQwR2NfeU9RQjV1cTBqS3VNMUYyR281?oc=5",
+          "published": "2026-11-17T16:29:17+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.706,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Monument Valley and Rifle: Monitoring Plant-Based Approaches to Milling Site Remediation",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-17/article-8429/monument-valley-and-rifle-monitoring-plantbased-approaches-to-milling-site-remediation/",
+          "published": "2026-11-17T15:28:33+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.664,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NRC issues final rule on ACRS reform",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-17/article-8585/nrc-issues-final-rule-on-acrs-reform/",
+          "published": "2026-11-17T13:18:00+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.573,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Bangladesh's Rooppur 1 supplies country's first nuclear energy",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/bangladeshs-rooppur-1-nuclear-supplies-countrys-first-nuclear-energy",
+          "published": "2026-11-17T12:38:17+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.546,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Urenco, Blykalla sign HALEU deal",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/urenco-blykalla-sign-haleu-deal",
+          "published": "2026-11-17T12:28:53+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.539,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA sees commitment to safety at Kansai's Mihama unit 3",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/iaea-sees-commitment-to-safety-at-kansais-mihama-unit-3",
+          "published": "2026-11-17T11:59:34+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.519,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "France launches roadmap for fusion energy development",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/france-launches-roadmap-for-fusion-energy-development",
+          "published": "2026-11-17T11:57:57+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.518,
+      "id": 15
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Rooppur nuclear plant may join national grid on trial today",
+          "publisher": "Banglanews24",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wQkFnM2ktVWFYNUhkbjFWQWVtc3phWWJSa0VGY3FIRzVIZ1ZONkdrTGV1Vi1BWmhCRnRjWTNxZ1ZCZUNjemZtaEJOLXBPdkdqNVk2Mm9fSFdCRjRLQm5iY0JQcFQ3aHZnMXRF?oc=5",
+          "published": "2026-11-17T10:29:44+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rooppur nuclear plant supplies 350MW to national grid on trial basis",
+          "publisher": "Dhaka Tribune",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYXM3ZzQyMkJvblc4STIxdzdaMDJjOUpUdGVzaEhwcW9vcVRBOFNWZ1A0OC01UGhzM2xnRkFNbFFxazVTM2wtc0Z2UjZXVGZkTi0tVjA2MHplV2RsOE5rbXRfdGQ2cGFGR0VPcXpsNkQtM214MUIwTFAzeFJ3azlUWG1VUzVhNjFvT1d4RkE0VGlhSHdpSlduRzJKeXFCaE5mVkN4c01NRlZnN2stSno4V2dn0gGyAUFVX3lxTE1hczdnNDIyQm9uVzhJMjF3N1owMmM5SlR0ZXNoSHBxb29xVEE4U1ZnUDQ4LTVQaHMzbGdGQU1sUXFrNVMzbC1zRnZSNldUZmROLS1WMDYwemVXZGw4TmttdF90ZDZwYUZHRU9xemw2RC0zbXgxQjBMUDN4UndrOVRYbVVTNWE2MW9PV3hGQTRUaWFId2lKV25HMkp5cUJoTmZWQ3hzTU1GVmc3ay1KejhXZ2c?oc=5",
+          "published": "2026-11-17T10:48:34+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rooppur Nuclear Plant supplies 350MW to national grid on trial basis",
+          "publisher": "The New Nation",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5henlCbEE3RkFPdVJIeFFhNDM2TUJGb0FPVUlzZTJOSTBFTXc0ZUV4YjZEeWxUY1IwYVM5ajVrR0JPNGFMVEo1NnJxTkMyOHc?oc=5",
+          "published": "2026-11-17T11:39:46+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.505,
+      "id": 16
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "New York names contenders for next step of nuclear programme",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/new-york-names-contenders-for-next-step-of-nuclear-programme",
+          "published": "2026-11-17T10:59:23+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.477,
+      "id": 17
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한국수력원자력, 감사원 초청 '적극행정지원 현장 설명회' 개최..사감 부담 덜어",
+          "publisher": "에너지코리아뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43Y3RQM3hBSVBWMFhMckVhVy1Tdy01NGNXZWxTWWlZMVNqWDBvd282NWpOYTdNbWplRXl5XzRMQ3phcDNpenllZXpwZlNyQzZqMkhRN2lDeTZPRDZ3Z0l3UDlObVhlbENVRnZYcnl4R2M?oc=5",
+          "published": "2026-11-17T07:35:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 감사원 초청 '적극행정지원 현장 설명회' 개최",
+          "publisher": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQNFd2Qk5HWHI5YkNQZWxPSDM4X2pUZDk2YkphSHlnTnNHa243RHFWVkotTWtFTEtzeGpkSzZORWI3SzMzcG1LeGM4UFVmUmtWRUdHaWNtSHk1ZnBaOGNaRnpQaHFpbFFsMHh3V2gyZkY3N2o3ZWpHNDVsV0NacDJRRzJQLVJUeF90Tmxza0h5UGY0eENYWFpQZ0pxT2wyVEtodTU5eTNNSnIxR0hYZzF2YS1UNVcyeTFOMTV1cXMyR3NGNkxYaW1jMzROTkcxc0xMNzdDYm5YbmdyTnRRRXp5bTRvYjFzYVBvY19YNzF4b3RlcEl0Y0twX19XT0RHZHhJbkFkWGhCVlJsY1YyY0xrcC05MDNsZHg0bExFbFlCRGxGZWs?oc=5",
+          "published": "2026-11-17T08:58:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력, 감사원 초청 ʻ적극행정지원 현장 설명회ʼ 개최",
+          "publisher": "다경뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5IczBidFBuSmg2dWlTVVlWSzhkU3ByZHlkTHdwaHVGaFNxTEYzYlhMMmhpQ2l6VmR0VzVNdVA5N0pPTDVo?oc=5",
+          "published": "2026-11-17T09:55:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.432,
+      "id": 18
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 공공 HRD 콘테스트 2관왕...AI 원전교육 2년 연속 수상",
+          "publisher": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ac3ZqZ2FpZXVEMEhGT2k4Z2gyV0ZzQTFONzFyd2NQWjA2Q1pNRU5KVEw4WFo0SXdqemU3M01vR3pIUGY0SmRscU91elh3WlA3OHJQU1kwQnU4ejByelZjVGdjQkVxUklYVGl1aG9tbldtYWPSAXdBVV95cUxQQm82VjE0SE9VX29ZWXlDVFoxemR3bnAwdEFrS3NzZ2tETlk2WFpLZzBhSFpidXFOSlNBWTIxR3ppTjZSN3dRNFpielExNVRpNnJOQmJ4YVVJR1E2YllUcl90VXk3MzBaeEduRUp4WHVKalVjQ0ZBWQ?oc=5",
+          "published": "2026-11-17T01:05:59+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 공공 HRD 콘테스트 2관왕",
+          "publisher": "경북매일",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UOFVDcE4wRE1MekRaN0RXM29TNUN5b2RfWDNaSEZ0MTVIWlNWQTNtUC1jZ3BRY0pKOC1sOGlZUEVBTDFpVTFDRWhjY2xxUGttZWlncGtWZklUdw?oc=5",
+          "published": "2026-11-17T01:43:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 공공 HRD 콘테스트 2관왕…AI 활용 교육혁신 인정",
+          "publisher": "시사캐스트",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tSGdxeWZsdVUyN0hzV0ZkZmZJWkpFbmJBVVlLUS0tQ3FGMzJyNDNUZ3dEQ3pwcnhLTzJ4aVlfeHREcWRiRnJDWXRVa3BTX2p3ZmVoS0VldDk0RjRqVmVrQ1pTWi1fU2Zl?oc=5",
+          "published": "2026-11-17T04:55:40+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 2.224,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원 월성원자력본부, 자활사업 발전 공로기관 보건복지부장관 표창 수상",
+          "publisher": "프레시안",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMX0NaSWJXX2lZV3pneEhrU1VwQXEyX3RkTDVOSTBKcUVPWmFCZFpzXzdCSXRldFJUbG5YOVZESzJpcklKaVdiWV95NmJxQldldmRMR2hQdWpBQ09sQmtDX1M0eHFwVUc2Yl93?oc=5",
+          "published": "2026-11-17T07:30:36+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "월성원자력본부, 자활사업 활성화 공로로 보건복지부장관 표창",
+          "publisher": "드림저널",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBlM3pCMlhKWmVNTUttVUh6TmtHNWlMNXhicF8zWHducE56NFFWdDdjSlhXMGNiM1VzNlRhT0p6eEtuQ1FXYVE?oc=5",
+          "published": "2026-11-17T16:50:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.72,
+      "id": 20
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "새울원전 환경감시위원회, 지역주민과 제주서 환경감시 워크숍",
+          "publisher": "국토일보",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wZ001aWJHWDR5NklEUENuTlZCTGZxdFFMNUUtX2JfOEVxelZlYl9KOWJGa0pJeV9LZ3RqbFVfT3ZpSFVCMGh0N194SXdiVkpqbkhSNG5oRGRYd0xiTF9kSVVVUQ?oc=5",
+          "published": "2026-11-17T13:26:55+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "새울원전 환경감시위원회 ‘주민과 함께하는 워크숍’",
+          "publisher": "경상일보",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DN1Z0NHptd2JSMDhUUGRtMEUtaFBSOHVGendYY0dreEVqYmhyN25NbVlqOU5ucmx6SmRyYjJKV3Q2S0tMOEp3dVd4emJQVUZFbzBZX0duRmN0R3BtazlkdEk0V2wxdXdlWGFWQg?oc=5",
+          "published": "2026-11-17T15:00:02+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.644,
+      "id": 21
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 월성본부서 노사 합동 '안전챙김 현장경영' 시행",
+          "publisher": "일간투데이",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wUHJVa0pheTRWUnNWM3VISGFDc3ltUjJacW5vUTFmNFZJcUlJZkprclV2NzNRZHdTTFNKWDkzVHlkVnpHcm0zc3d2QzF6WlJkN19mX3pFWDhGWjJSU3N3TzlwX25kRE9ZU0pr?oc=5",
+          "published": "2026-11-17T00:13:35+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 월성본부 노·사 합동 안전챙김,현장경영",
+          "publisher": "한국전력신문",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11WlgwZ25aamI5ZFZyemk4ZXVMYnJSRHBiS1k2Mlo0NXo2bVRaZFhvUkdQQWFuLTZzMy1HcVRObnBUZGhjVkZ1Q1RoeDVxSU04M3FWTFN2Y1JSN0gxb3RqLU5DblpWT3p3V1E?oc=5",
+          "published": "2026-11-17T10:34:25+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.46,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "'원전 공론화' 누리집 개설… 17일부터 공개토론회 참석 신청 접수",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vX2NUclNkTF9xcWViYndXN3JUNHBFSFd4WnpHVl9mZ1ZOQmp1S2pFc1dUMTlCT1d3RTBhZlhCV0Vsc3JCdG1EbV8wSmF4Y1Y0RWNTRnZjZk1tV1ZkMDQyVVFuS2htMkFyYUJFdFVoVi1QUQ?oc=5",
+          "published": "2026-11-17T01:35:31+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[12차 전기본] 원전 공론화 누리집 개설 이틀째...17일부터 공개토론회 방청객 신청 접수 본격화",
+          "publisher": "산경e뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8teGZhOXg1WEJxQ2REQ0g0VGs5VEZuMTBhUEVaWkktN0dOeWUzVV9GYlFEU2UxZzlJZk5SN1l2QzdmMmxmWTNvOUVGV2NTcVpvOXpwRExrb0tvM1JZd29YQ3dlcmhUMVU?oc=5",
+          "published": "2026-11-17T08:45:02+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.384,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 감사원 초청 ʻ적극행정지원 현장 설명회ʼ 가져",
+          "publisher": "KNS뉴스통신",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSQ0pndktYbjJ2U2l6MzhSRzU0SlRNSjEweGx2cC1lWThKOGo2b3RRcXViV2RBSTdweFFGMmpGb2t3MHZOVzJWaVF4Qk4tSHNHTGtRSnl3MnJqUlljbjZtYnZHa3U?oc=5",
+          "published": "2026-11-17T07:38:34+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 감사원 초청 적극행정 설명회…적극행정 문화 확산",
+          "publisher": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xWkNaWWt1X0hxNm1iYXY4RHlRazdPellpZnB2TnVxT09wUDhOQ1dWNmxIc1B6VnhwUlVYZ3dWckM0LWRQTE9zd3psVlRPQjIzT2hmTk95UV90Mm92?oc=5",
+          "published": "2026-11-17T08:44:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.383,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 체코 원전 품질점검…규제기관 첫 참관",
+          "publisher": "주간한국",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wOXQ2RmUxNWcxamdLR01uUl9YcTBPUHVZR09TYk4xWDBkbTJpalRrcldZZDFFQnNmVWpFTGVaTXBZNGhqQ0xWTTNsRVY3eW93LURVb2Q1WHpYTExKT0NXc1lTUWk1YjdmQm4yWG42WUE4anJh0gF0QVVfeXFMTXA5dDZGZTE1ZzFqZ0tHTW5SX1hxME9QdVlHT1NiTjFYMGRtMmlqVGtyV1lkMUVCc2ZVakVMZVpNcFk0aGpDTFZNM2xFVjd5b3ctRFVvZDVYelhMTEpPQ1dzWVNRaTViN2ZCbjJYbjZZQThqcmE?oc=5",
+          "published": "2026-11-17T02:54:24+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 두코바니 원전 품질관리 역량 점검…현지 규제기관 첫 참관",
+          "publisher": "뉴스투데이",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rRl9SaGMtSDRkMGtNV0ctdlhyODNUcUZ1UFJvODJlanY4ZEg3Q1dwaWZETXcteTZLWl9SSDlzcjZqdGlqai1SWDl2MS14OTc4TjBTdXdRdjFybU1RbUE?oc=5",
+          "published": "2026-11-17T08:23:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.368,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[기업] 한수원, 체코 원자력 기관과 두코바니 현장 점검",
+          "publisher": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xZHJPVEczakdYS1BERjdWU2lJRmR3LTNzN3JPUmZ3YzlqYkkzRElzMTRpTDg1eG5NWXQ4TTY4cnNkcGFYOTVNSUdycGo3dTR5UjgxQzFOTGVZMy1tdVE?oc=5",
+          "published": "2026-11-17T08:12:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[기업] 한수원, 체코 원자력 기관과 두코바니 현장 점검",
+          "publisher": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Dd2d3NU5jWWtoU0VuOC1Gb1BFdTd5RjZmc0ZDcFl4b1E0TFNPcEJFa2wzMmdodk43Q1h2QVNGbjN4WjM5UzN6TWkzU0xOdGQ4MW42a3FDRmE2NG5mdlQzYlJjd3QxOTNpMDFFeEhyRHQ5cmo2elE?oc=5",
+          "published": "2026-11-17T08:12:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.361,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원 월성본부, 보건복지부 '장관상'…취약계층에 일자리 제공",
+          "publisher": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlZl9WYk1kNjBpM2F2bmxwRjNfdVFYN1RUcEFjSklXNFNvckFyTFJzUkpFQ2pTR2ZlVjJtcm1DaFFRa0FBOW5kQlVfQ3pzZHMzVjN4cVRZTC1GanZ3YkZZ?oc=5",
+          "published": "2026-11-17T07:59:42+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 월성본부, 보건복지부 '장관상'…취약계층에 일자리 제공",
+          "publisher": "스포탈코리아",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPclJSczBxZUZ0ZE1PZWVZWXZFNUpvbmxaaUx4Ukt4OWItSGZ5c183LWpXcGJTVnFtSExVZUtUZWlIQV9CYTc5OFVjWlo5SS03aHo3SjFiTlFjYVkzZThpVEgzV3JBNnVWNkI4cU5kTTVndVRDUWEwZU9pNElVS3ZWcER3?oc=5",
+          "published": "2026-11-17T07:59:42+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.352,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한울원전 취수구서 삼중수소 유출…원안위 조사 착수",
+          "publisher": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sOFRoblpzVTR3M1diaHJZdm1rdDR2WDlKZXc0S0pLbHlLcy1RcWc4Q0ktSUVJSFVvejNrWnM4NWNIUjV2REVpcjkwSTNNcXM1Mm9CUUFrNVhmX25CUktPMTJzZE1OU0VnSEhFbA?oc=5",
+          "published": "2026-11-17T01:31:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한울원전 취수구서 기준치 초과 '삼중수소' 검출…원안위, 조사단 통해 점검",
+          "publisher": "SR타임스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9paGxWcUZBTUZLSUlDZFYzTHFtMUhGM183NnNWSXBhS0RPT243RVNYQTNqUGxBT0EydF9YVUFENnlMQS1tU2c3NHZpdUQ0S0Vna1NEdnNsdGdHdUxNVW9PMllkMUJOT2PSAWtBVV95cUxNSkdoN2U2Sk11Z0R6YTVWTkY4X21ZOVpLTmtpbGNVUEdBOTM4QXJTVjFaaVdNUEdMYmdncWxsV3FDSTJ2V29EMkVUNmFnb1kxZXlMOTNTNy04RUhLREsxYkFVSlhvNmJVXzlQRQ?oc=5",
+          "published": "2026-11-17T05:48:15+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.261,
+      "id": 28
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "체코 규제기관 첫 원전 품질관리 참관··· 한수원, 현지 신뢰 확보 주력",
+          "publisher": "그린포스트코리아",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAybXIzb2NENHE4U0FGVUpfSk80Tmx2ZVdnc3ppUEJmSkVMOW9jZFhZUTVOVURqdE9EakU3ZGJVN0gtRl9VVzFHRTU1X3JnS19xenJrVE92TDRpRDF6eHhPVlc2XzA0YjB0cjZlUGQ3OENMdE9aV2c?oc=5",
+          "published": "2026-11-17T02:27:15+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "체코 규제기관 첫 원전 품질관리 참관··· 한수원, 현지 신뢰 확보 주력",
+          "publisher": "그린포스트코리아",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SMW1tT1oybDFMV3J2X09QQU5IaEZ0WEM3dXpBMlVJbXM3LUdZbW1JZHJZb0FiRnpydzhfSVlwR1U5Nl9pQVl6VEYzMnNmbkltZFNUcHRuX3VJVTlPNGRaV1kxUEdLS0VVcVFOMkZZbjlwOExuMTlPSnpB0gF6QVVfeXFMTVIxbW1PWjJsMUxXcnZfT1BBTkhoRnRYQzd1ekEyVUltczctR1ltbUlkcllvQWJGenJ3OF9JWXBHVTk2X2lBWXpURjMyc2ZuSW1kU1RwdG5fdUlVOU80ZFpXWTFQR0tLRVVxUU4yRlluOXA4TG4xOU9KekE?oc=5",
+          "published": "2026-11-17T02:27:15+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.121,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 94
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 68,
+      "kept": 49
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 72,
+      "kept": 70
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 50,
+      "kept": 6
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 1
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 5
+    }
+  }
+}
