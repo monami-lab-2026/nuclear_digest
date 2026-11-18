@@ -1,0 +1,842 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-18T22:58:15+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "경주한수원, 창단 첫 WK리그 챔프전 우승…'3위팀 새 역사'",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9URXhqbFhLeVUwclRjRkJTRlJfSWpxWjl1ejhndzY5LVFHeVdpem51MnJpbFJiT2NPS2MyUEQ4R25DOUNLanVzTHd2QmNEMzZPcUlPOVZSQVdPYU3SAWBBVV95cUxNY0hWNDBXaXc0MjVoSUkzc1pNenpqWWhhVEl5dHdhQmk1WDI5WlFZcFFnYjFKVmhKbTlmUVh1VzhkWFBMcFZNaUxHOWZtWlM1eWlpWUF3SThXdEZSOTM5MWE?oc=5",
+          "published": "2026-11-18T12:04:42+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "경주한수원, 창단 첫 WK리그 챔프전 우승",
+          "publisher": "네이트",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xYzNCWEdhM0hJMEFhRF96VF94azlvWTJEUmUyeEZxVHdBa2RqRjdpa3BwT0hBOFhCbHBjTll4MUFDT05mRlRUV1AxUDlKMzlLZi10UEhDUGdJZ25sWkZZNHNsdXB0RXV6bDAwMy1Kc2ZOcWxuYl8yRw?oc=5",
+          "published": "2026-11-18T12:19:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "경주한수원, 창단 첫 WK리그 챔프전 우승…'정규 3위' 최초 정상",
+          "publisher": "네이트",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zMTdrUmtzdGxwZVRXQ3pYZ1dxb1B2SDNLMHdrZllpTmpVQ29qT1hHV2pMOWNpZWM5TEZiQ2dDVjVNMElMQ21FNXVpZ1gwbTA5bUxqVzR3?oc=5",
+          "published": "2026-11-18T12:44:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "[축구] 경주한수원, 창단 첫 WK리그 챔프전 정상… 정규리그 3위팀 최초",
+          "publisher": "천지일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1dXJBTF9IZU44ZlFjWjlzaTIxUVlOanZGOGV3UVZYYU5qWURGdXFXOEpQWWo1d0RscUFDa0pFMnFOVTQ0UEd3elJ4MnpOam5XNDdVQ2QwLXk5dy1uSDNzbXBiM1JSWDlvQ3c?oc=5",
+          "published": "2026-11-18T12:49:03+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "창단 첫 WK리그 챔프전 우승 차지한 경주한수원",
+          "publisher": "네이트",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OWEhaOXBoX1RJMEU4QVoyeEVLYkV4d1JMcEVCbkpoUTBQZ2lfOG9ZUHdDYjdLekFwYXJpN2c5SmFGVldzUzJoY0RLM1hmWGtJcVFFVENR?oc=5",
+          "published": "2026-11-18T12:55:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "'나카지마 결승골' 경주한수원, 창단 첫 WK리그 챔프전 우승…정규리그 3위 최초",
+          "publisher": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84SnFwY2s4UDM1UWZnNmNkT2NSbjBubWRIdzE0TEM4QzJmdklFODVyckF6S3dzYktzdVNGNmlid0Z5UHhkTzZXaHd2YVlmbzFXRE5GOEVtV2tKMnBZ?oc=5",
+          "published": "2026-11-18T13:04:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "경주한수원, 4전5기 끝 창단 첫 WK리그 우승…'3위팀 새 역사'(종합)",
+          "publisher": "네이트",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvb2ktdjdKSnVMSFBXRWVsZlRJQllybVZMaDIyZU42Nmcwc3VoTzNYbHVpZDBpS3FObU9zNjRpNnY4U1QxZ2hKWV9RYUNFbjEwRHF0R2VB?oc=5",
+          "published": "2026-11-18T13:45:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "'리그 3위의 반란' 경주한수원, 수원FC위민 꺾고 창단 첫 WK리그 챔프전 우승",
+          "publisher": "네이트",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MNjV0Y0FRNWtERnNXbFhrMUM1cnoyamNDZUMxYUd2N3JlQmY5WmhaM1RVbDFhZzV4amV5QUNSUjhpUUZZQ2ExSVlMRDVWREU0MXdCcEx3?oc=5",
+          "published": "2026-11-18T13:45:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.616,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[포토]우승에 환호하는 한수원WFC 박남열 감독",
+          "publisher": "스포츠서울",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rMlg5bnpHXzM0dndkaHB3c2ExTzVDQjE3cDRUaklzbk1IejVnSlJ3UEhZeW9na21vWDdwdnozV00teUtNN0xOV2hXUk5VcHhlT3l5QzA0Y3k?oc=5",
+          "published": "2026-11-18T12:52:44+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "[포토]한수원WFC 박남열 감독의 우승 헹가래",
+          "publisher": "스포츠서울",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9IemEyOFpFd1RMUVlpRE0zeVptT01vM2dUSm05UC15MWxGdkZEZjg1RUt2ZjlQMmxMNVltbkNPNk9PbnJyYzBtVjlUQ0JOTUFNNzc1dHk5VTA?oc=5",
+          "published": "2026-11-18T13:08:19+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "[포토]우승으로 날아오른 한수원WFC 박남열 감독",
+          "publisher": "스포츠서울",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FMThaTDUtekFHbmt5VVNrNG9uRDRGWVdIdTc0RUV5cWVnMzBlbURhNVE5U2xFNnlza1JwTFdNVzZpbC1ZaC1CcFpKYjNpdEd4cVF3M1Vjak4?oc=5",
+          "published": "2026-11-18T13:08:20+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "[포토]우승 트로피 들어올리는 한수원WFC 박남열 감독",
+          "publisher": "스포츠서울",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10bVhWa3lXRDBoTlpra0xXa3JaeTBKQUFfeVVRNzZsS2FaeDFtTmRVSkRzdjlKVHQtUFp2aTBBTHpOWDdiU293bEF0M3A4RWxQR3N2UnBaWmI?oc=5",
+          "published": "2026-11-18T13:26:14+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.603,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "2026 대한민국 원자력대전 창원서 개막, K-원전산업 한눈에",
+          "publisher": "시사우리신문",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSWtsS3laMjYxRzVxeEZ0U1lFbGNWeU0tZmxQUFVjRDQ3eVNTeVJSVFZwMFVsSkFrT052YUN5YlRHclRhX25HU0FMRHp0OXU4aWNCbnNNdXh6ZFVfMWU1M3hQRmlzR2cxX1ZxSUwtY3VzNm5NU1JwZmk0VTJGWTFqZ2lEc3IwLUZQRDRRN25SNm04YUJGMS1MdzlnY3dMUVlrOTlXY2daNzRVbEpjV0dsMEpGOExmdnRXcE9aV2llZk9Gb1lsckVz?oc=5",
+          "published": "2026-11-18T05:51:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "대한민국 원자력대전 창원서 개막…원전 기술 한눈에",
+          "publisher": "경남미디어",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ydlBqZGpyZVEyVWV0N2h3WXBqNEg3NHNodkZhWWw5c0FIXzhKZkc5a05TRHVpZ3Rma3Jxcloxa0czVDVBRnhtSzR3dURPdHgyOUlfdUx1YlB3VVFfTnhvSFM1OVl1d1VFbF9J?oc=5",
+          "published": "2026-11-18T06:06:23+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경남도, ‘2026 대한민국원자력대전’ 창원서 개막...글로벌 원전 협력의 장 연다",
+          "publisher": "전기신문",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1naUpRZ2cxckhkQ0Njbk5jOU9JdE96TmFVUFVGc1pfRTZLNjdjb0FuVHFpSEZJS3JPY0x4Rnp2SXhHUXpIcU5pa2lWSGdsMUFaQTdYc05SUVR1UFEwOGdtb2dONkZPcEJlRF9mWnlrRGXSAXBBVV95cUxNZ2lKUWdnMXJIZENDY25OYzlPSXRPek5hVVBVRnNaX0U2SzY3Y29BblRxaUhGSUtyT2NMeEZ6dkl4R1F6SHFOaWtpVkhnbDFBWkE3WHNOUlFUdVBRMDhnbW9nTjZGT3BCZURfZlp5a0Rl?oc=5",
+          "published": "2026-11-18T12:26:34+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경남도, ‘2026 대한민국원자력대전’ 창원서 개막",
+          "publisher": "글로벌뉴스통신GNA",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IWXFXd043MG5vdkQ4RWlSQmNacmkzWVR3V0Z3cXhTUHJWREhxa2UtV0Q0SFFrSkJfc01nSERtQnlhREJNclA2ZEZ1TVl4MklfRXlhZW9LQ1lMSTFVT2k1azZwa1hjbVBEajdIbHMtVlNrX2V3?oc=5",
+          "published": "2026-11-18T13:08:47+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.591,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "영양군, 한울원전 방사능 방재 주민대피훈련 실시",
+          "publisher": "경북신문",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE12ZXBBb19jaVQ3N2RXZE0wMnBNSUMyXzdYUTRjenUtbHpjLTlMYmFqa0NtdjRpbDQ1aUpZZFRBS0NhZnQ0ZnA3X00zM0lUdUliaGxac2NjRUM?oc=5",
+          "published": "2026-11-18T04:33:13+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "영양군, 한울원전 방사능비상계획구역 편입 후 첫 주민대피훈련 실시",
+          "publisher": "BBS불교방송",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44UzlJRDJvT0VXdG0weWg2WUNFcmFVVDZaWG1hMjlvN2NuOVUySGNCNTYwd2F4VFJZU0l2Q0hfdThrMURWeDl5YlZtMWd2SkJKR25lWWpWaXY1ekgwdDBsVUlwN0ZPa1ZVcTRB?oc=5",
+          "published": "2026-11-18T05:11:50+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "영양군, 한울원전 방사능 사고 대비 주민대피훈련 첫 실시",
+          "publisher": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ibUdRM3JuckJxRXRqR2I0MDZhVTVZMTBLZDF3TG5Ibk1KZXFZUkg2ZlFFQVhJMHdmTVhxUDJaUUlZczA5Nm9CVlpCYno3U0d3azNFSHNQa3FjWHR0RGVjOGhLWGU?oc=5",
+          "published": "2026-11-18T05:42:01+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "영양군, 한울원전 방사능비상계획구역 편입 후 첫 주민대피훈련 실시",
+          "publisher": "다경뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1uZnBoZFZVRWVuMUtMR3BJUDJCd29zYlV4Y3VMSmtBbzFxSjUzUHdfMHdoVnQ2b0F6Z1R1b0Q1eTJndnA5?oc=5",
+          "published": "2026-11-18T09:57:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.458,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "SNT에너지, 원자력산업 발전 기여 산업통상부 장관 표창",
+          "publisher": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QRU1oVTI5SkpmbmNMYzdlWHVxdm9mMWVFSDZUSGxKRGZaMnlQOFlRNmplbHhoZFRoTWppWnhPUGZneW80eTJjNkNjclg5ZnZYVGdiZXhhSVY2QQ?oc=5",
+          "published": "2026-11-18T05:02:09+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "SNT에너지, '원자력 대전'서 산업통상부 장관 표창 수상",
+          "publisher": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuYVYyN1NNaktZU2w4Ymtfd0ZTbGtjMEt4QVVUdmlFbmNEMzFyVHdZaG5wUzBwaUlNSHZDVE5FTC1vTlRDcUVmdXYwMGNTLVgzT016NlU3bzFWdw?oc=5",
+          "published": "2026-11-18T06:11:55+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "SNT에너지, 원자력산업 발전 기여로 산업통상부 장관 표창 수상",
+          "publisher": "이투데이",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WLWYtRWxvZ21VZTIxcmJ4b1RPc1ZBdkhMd3ozX2JJSDhZZGpmc2tiaUtSZEdpcm1rcTRpdXBvaE9HLXg5c1Bab0FiZDZUSFp4ZFJpYg?oc=5",
+          "published": "2026-11-18T06:12:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "SNT에너지, 원전산업 발전 공로로 산업통상부 장관 표창",
+          "publisher": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tU29lQ3p0OS1BOTBpLTVVMlBlOVdzbzI3TmVyMlpGR1Q1d0FaQWJ4X3cyT2lGM01YMGZDaDl0c2xSTjh5YXh0QmNERDg5eEVYUnJwUjFFNEp6Zw?oc=5",
+          "published": "2026-11-18T06:14:08+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "SNT에너지 원자력산업 발전 기여 산업부 장관 표창 수상 - 머니투데이",
+          "publisher": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XRHV1M1FKV3FMTGdFdG80aU1nWVpoUWZvX010b1NJelRvalU4VmxvVUdJaWpaYkdRTEZQYW9tT0FtMFpWOUhZeG96ZE5PQkdUVU0wNU9nSF93WFpUWUN0RGJyWkVhYjlaOWZMMWo5b9IBb0FVX3lxTE9XRHV1M1FKV3FMTGdFdG80aU1nWVpoUWZvX010b1NJelRvalU4VmxvVUdJaWpaYkdRTEZQYW9tT0FtMFpWOUhZeG96ZE5PQkdUVU0wNU9nSF93WFpUWUN0RGJyWkVhYjlaOWZMMWo5bw?oc=5",
+          "published": "2026-11-18T06:22:55+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "SNT에너지, 원자력 산업 발전 공로로 산업통상부 장관 표창",
+          "publisher": "한국일보",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96S0tsNFgxTzdreTI4NGtkOVp4d0tsWUk2UENhVUdPQmxkZkVtOUhOZ1FFUWY2X0ZJZ3pCYk85THI1d1VMcWdWZHV0d3ZrVUZhZVZSM1dubk9Mb2JIaTJQcm9IV3JlUU42czg1LTZfdFMxZ3fSAXNBVV95cUxPektLbDRYMU83a3kyODRrZDlaeHdLbFlJNlBDYVVHT0JsZGZFbTlITmdRRVFmNl9GSWd6QmJPOUxyNXdVTHFnVmR1dHd2a1VGYWVWUjNXbm5PTG9iSGkyUHJvSFdyZVFONnM4NS02X3RTMWd3?oc=5",
+          "published": "2026-11-18T07:29:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "SNT에너지, 원자력산업 발전 기여로 산업부 장관 표창",
+          "publisher": "쿠키뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PZ1lFUkxzZ0xrZF9hX0RjX0hrNjVmVDhHclIzNV9naHJiQ001cHFSOXVPX2VCY3A3WUtWZzk1UlFYZXg0NFRfMl9yTUt6OU4yOHlySHdhRlQ3Nl9qRmJsUTV5dw?oc=5",
+          "published": "2026-11-18T09:12:51+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "SNT에너지, 원자력산업 발전 기여 '장관 표창'",
+          "publisher": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KN2FGTjE0MWFzLVNZSDZsRUFHZ0QxaXhEeTdyWjVrU0dXVTYtU19KQ18zRlhsVFdTdTdUbzlnMVBqWG9xOU5NUHFlbkdYTEl3TE9NQTdta3hEUQ?oc=5",
+          "published": "2026-11-18T09:32:10+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.44,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Wilmington Local Section makes NSW 2026 a success",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-18/article-8590/wilmington-local-section-makes-nsw-2026-a-success/",
+          "published": "2026-11-18T22:49:14+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.994,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "New York unveils master plan to build 5 gigawatts of advanced nuclear power",
+          "publisher": "WBNG",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeHRNcVF2dE9Qc3UwdDZUUVVXcWxWTDUwVWZDWTY3d2JHYkFrNnNVMHlldHNtVDVha2Y5TElzSEQ1ckZhWkdfLVd3OVBuUnZFRnotdmhDNjdNVm9GcEJ2bUxwZm1JSTVId21CcjRnZVdEUXQxS1hGUDByYk02UWxnWWY4Z0pNa2hkdU0zSXZfYU9kT1A4ZVNWRTRSOWtjUDI3Zk5iSNIBuAFBVV95cUxQVjVuVjUtU3FOakxwQmhqNFdsaDVadGFrZ2FvUmh6YU1CTkhrNzF5bm9NMGtiQXJoZUt4T09pVXZRZHpsd0l2UU5Hc1VZSFB3cklscnY0NTJsV0xaSThRQ3FpNk1NNnBHSy1vbTdheGh1bjA2dHU2N1hfdXItZ1U0TUdpUTVRYXZUaEdIT2JTN255VE1TTWlXZzdrR2gxcUd6M0hxQ0haODd0OFFXTlZVXzM0RlVXQjFH?oc=5",
+          "published": "2026-11-18T17:09:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "New York unveils master plan to build 5 gigawatts of advanced nuclear power",
+          "publisher": "WBNG",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU1hvZmwxeF85QWlWMGEwWGdpT2lKVFBtLW1FR3ItcTktQ21zeFFHbnJlanJNMFlHWWtTZnMwMksyX2oyYW5EbnVTdHdLSHVQcEc1Zk0xMnV3UjA5LUs2MjcweXBRcFVVcWM1dFNlTHRiSWJTQV91S2dROFJ5Vmt5YnY4dWUwYXA5SEFUU2Y4QlZuRzVHcm1ody0wdHhRYm5VRThWbUZkMVI1RVpn?oc=5",
+          "published": "2026-11-18T21:30:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "New York publishes a master plan for 5 gigawatts of advanced nuclear power",
+          "publisher": "MLQ.ai",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS1RCeEsweFZSMXZvejRqelhmcG5pSjU0TE1KWk9jRzkyaW5rQVJXSTJvZmw0aVByRlhib2JVNGVKNTFnQmhCVndLWmU5Y0tiZFBpYVNMUDYtRnJHTnczaUVNUDl5bDA1eU56TUprN0w2UWt1amdOZy1KWWlQVm81QlpJUnYxNS1sRWU4U2MzNE1uNkM0WDMwMFhqTQ?oc=5",
+          "published": "2026-11-18T22:08:51+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.966,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "France releases report on nuclear project financing, announces 10-year fusion strategy",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-18/article-8589/france-releases-report-on-nuclear-project-financing-announces-10year-fusion-strategy/",
+          "published": "2026-11-18T18:42:30+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.823,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "ENTRA1 teams up with Sargent & Lundy for SMR deployment",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/entra1-teams-up-with-sargent-lundy-for-smr-deployment",
+          "published": "2026-11-18T16:11:46+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.718,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Winter Conference headliners: Sustaining momentum",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-18/article-8588/winter-conference-headliners-sustaining-momentum/",
+          "published": "2026-11-18T16:07:51+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.715,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Prototype aseismic bearing completed for Rolls-Royce SMR",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/prototype-aseismic-bearing-completed-for-rolls-royce-smr",
+          "published": "2026-11-18T14:34:13+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.65,
+      "id": 10
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[포토]우승 트로피 들어올리는 한수원WFC",
+          "publisher": "스포츠서울",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRSUZENGVwU3pLdlFIYWYtZV95RnFibEFublpoZTZkMFNOREpLOGpfT3dOb3B0LTdqV3NCVXNpSDJ3eUdQVWxZYklvRW9saTVHc0t2dTRsZmo?oc=5",
+          "published": "2026-11-18T13:22:01+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "[포토]우승 트로피 들어올리는 한수원WFC 장슬기와 박남열 감독",
+          "publisher": "스포츠서울",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6M1JZTnI5T1JDdjNQZVVZZWY3ZFJ0em0ydFZsVXFuMTNYbzZ6T3lldE9wNEs4N0Z0QUo5RGtOa2ZKRmc4SWNrM0xFTldWRDd4c0RiU0VNd2M?oc=5",
+          "published": "2026-11-18T13:22:12+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "[포토]우승 트로피 차지한 한수원WFC",
+          "publisher": "스포츠서울",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14X3ljSk1vOUs2bVRPSTdHTWMzZlRRWHlNWDQxTVAzVFhxTlo1T3RrUmN2S2xoVEFydzhXWFRVTjVQbElweUZ5VGI1aUJHVXhQbVI3RmIwWUg?oc=5",
+          "published": "2026-11-18T13:26:14+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 2.603,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Crews complete demolition of ORNL’s Isotope Row",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-18/article-8583/crews-complete-demolition-of-ornls-isotope-row/",
+          "published": "2026-11-18T13:16:47+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.596,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Maritime nuclear project awarded Norwegian public funds",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/maritime-nuclear-project-awarded-norwegian-public-funds",
+          "published": "2026-11-18T12:55:18+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.581,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Rooppur’s first grid connection: Bangladesh enters nuclear power era, but the real test lies ahead",
+          "publisher": "The Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWVR1ajZXbXM4RS04SW1iSWRHWFZvNVZTSWVkR09TOVVkT2EzU3hwdUhjU0g1RUVWaUMtWVJPaGJJUEh6RmRGYy11clZEMUtvRE5ZUDlkU2FwWmlkdWR5U3kzLWx2VWVYUDJVNXF1X3RHXzlYay1xM01pNWNWaTd5emFIWThDejhnRC1zMUUyR1hndWpxM3l1Mk10bTVmNU1JLWZaN2NwQzVuZHNSTkFnczVLd0NKdDU1YnZ3REI1UFY?oc=5",
+          "published": "2026-11-18T05:20:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Rooppur Nuclear Power Plant: Bangladesh's First Nuclear Plant",
+          "publisher": "INSIGHTS IAS",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaYU5tazVyQU05ZDRTRGd0cVltMVpMTXJCYy1scEZZdUs5dUR6M3NfV01jb3Q4ZWZuclluY095VkJMWlNhMTFPNWZ6Mk43dXVTZ3NOcGhuZkI4Nlk4a05pNjVoYUVHWmN2NE4wd2cyN3AzYmFsNXdFZzFBOWtXdw?oc=5",
+          "published": "2026-11-18T10:20:54+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Bangladesh Connects Its First Nuclear Reactor to the National Grid",
+          "publisher": "NetNewsLedger",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMFJCZHV3YTFQZGtNV0dYc0pENklQdHhSODhKaElnNzRQZUNYVm1rZ3Etckw0WWdqMFlfb0lPY1QtUFV4bnVlTkpvb2g5b3FRRmUwa1JCY1lMY3lidHltdXdHa010WWxtX21XN1RpNHpoRGgtVXVXWjhUck5KWFVCOGlySjlRN0RfdnZxNjZOVXd1amI5RzRBWjRjb19LMkNKRFNtSFJxM3VIUWNn?oc=5",
+          "published": "2026-11-18T11:01:57+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.503,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Bangladesh's first nuclear plant starts supplying power, builder Rosatom says",
+          "publisher": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNC1aVi12bW9xLWVIc092YllzTjQ5NHNmQ2lFNU4zRlVXaGgxWjRCR1dNU2ZqWS1fdUw3Y0pnenVyYzV3QTFmbUNoMU1IWW9CTWRlNnRIY3J2cnpQMm42RFlxcHdkZGp2VWE3WkhiVE1QU1VnczBJZFZjYWdSVFR4U04tWVlmN05WTmxVNk5GT3J5MmhPRVhDUVl3UmgyMm5vT3ZBSXV0VEhkM3R0b29ZcTg1cy1fZHVKSVFkMWVQWjV4cGJiZTJyVg?oc=5",
+          "published": "2026-11-18T10:38:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Bangladesh's first nuclear plant starts supplying power, builder Rosatom says | World News",
+          "publisher": "Hindustan Times",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUXExQUxQMzBKTlR6TjN6NG9ESXFvekNVRjh2aWpCaHkxTy1EMXdSVGtISm5WZjB2WkdtaGJIdmRWb0tTUXRqQ29KT1VjQWJOVWsybGcySTR4bXpJMXlUVlZDWUU4QlhsdmdPNUtDUFBlZHFwMmUwS1hGOGNvRTBvRVlzMktGbjZQNFZwRGJyZEZ1Xy1GUlVqeUMtUlI3dTVGVW5rM2Y2UkZaZlI2ZTBzMWZSN190UF9CTEN5d3BZaVdzQTVaQVVmY05mWTFqSmFxM3lEdtIB2gFBVV95cUxQWVBaR0QyUjNUVTk1UERySGNQRjM5d280Y2NEaTljczVjM21WYlZDck9mRS03WkZaZ0N3M3NZV0dGTnJyUTh3YjlyRGp3aDBqUGVFMktIczczNFhUZ1lxOGJ6QmNkNnZXak9zSlZfZVpqMG43YnpVcDBZd1pWS0ZFZTBjSjE3ckladEJ0M0Njb2VnOEdDd3doN3BkRHMydE4wRzNRZmxuVFZrNGFnLWdJSTJ2Vm5WcnRHVXZMRGhMekNKU05LTzlRa0tNWDZPeWFRNWw0QmNoS2tQdw?oc=5",
+          "published": "2026-11-18T10:38:53+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Bangladesh's first nuclear plant starts powering national grid | Tap to know more | Inshorts",
+          "publisher": "Inshorts",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWUQ3VWhveVZTSlFMU3huNUZUcVBiVDZPWURXWEp2US1OVTVid0J5S2VuYXAxWElwVlR5VWFlMW93WExuclpYLV93aXFoc2dmNlpDVjZuT0JTQUR0MVNZZl83ZkFjRGsybW9rM0hra1pvdUc2VDZQWDg0N0tPZVFnVWMwSlg4Z3RHZ1ZIWWxnXzJJejVROTVsVUJlWHB4QTZvX3FXam9uU01KSVE4Y1HSAa4BQVVfeXFMT1lEN1Vob3lWU0pRTFN4bjVGVHFQYlQ2T1lEV1hKdlEtTlU1YndCeUtlbmFwMVhJcFZUeVVhZTFvd1hMbnJaWC1fd2lxaHNnZjZaQ1Y2bk9CU0FEdDFTWWZfN2ZBY0RrMm1vazNIa2tab3VHNlQ2UFg4NDdLT2VRZ1VjMEpYOGd0R2dWSFlsZ18ySXo1UTk1bFVCZVhweEE2b19xV2pvblNNSklROGNR?oc=5",
+          "published": "2026-11-18T10:58:41+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.5,
+      "id": 15
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA mission sees commitment to safety at Shin Kori 2",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/iaea-mission-sees-commitment-to-safety-at-shin-kori-2",
+          "published": "2026-11-18T10:26:57+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.478,
+      "id": 16
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "신경인 대표, 원자력산업 발전 공로 산업부 장관 표창",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wTEdmaUdfNlVpM0M4Ql80S2hJTktsMGFPR1ZRVWFPUDNNREpsWGdUSkZrd3Vac3VaenBwRDk2clRSZ3QwZXVwLU9rZnZCN0lQMXhvSmIwSEFyUFNKYXh1VVlaSFYxY1RScl9OUHRCTnBocTY3a1hVV9IBeEFVX3lxTE1wTEdmaUdfNlVpM0M4Ql80S2hJTktsMGFPR1ZRVWFPUDNNREpsWGdUSkZrd3Vac3VaenBwRDk2clRSZ3QwZXVwLU9rZnZCN0lQMXhvSmIwSEFyUFNKYXh1VVlaSFYxY1RScl9OUHRCTnBocTY3a1hVVw?oc=5",
+          "published": "2026-11-18T04:52:29+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "SNT에너지, 원자력산업 발전 공로 빛나 … 산업부 장관 표창",
+          "publisher": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5ZzVDZ2NXS2VWU2d4Z1g2ZWlYeUJsM3JUV05JTmpYOVJkUERIeGl3RHdOTWdFWTQ4NlNkbmVsWEUwSm1NdmNvR0xwckFkZjVFeWw2VGFReS1reElmTk1sMA?oc=5",
+          "published": "2026-11-18T05:26:43+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "SNT에너지, 원자력산업 발전 공로 산업부 장관 표창",
+          "publisher": "주간한국",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02ZTh6OTBnZEJsMEpUZ2VWdW1LRDUzOXdTQ1g2dWxYSDA0SFM2YlA1TV9URHNMM21ud0ZndTlNVXh2YVN2bTgxZFJzb0ZwaGk3STRMSGdhS1FHby1raXhhT0F0NWFMazFmaVhUaVNMTWzSAXRBVV95cUxOMXAyZ0pYRlVoWl80dklHY0M4QzN3dk1yenVoZzBIM0w5aWdkUl9aMEwxN3N3UjhvZVhrVjNOVzZnV0ZZaksyazMwMGtib0xmUUpxQjQyYXBGWVdGWTkyMzNDRTltOC1sUEZOLTM1clltMFRSMg?oc=5",
+          "published": "2026-11-18T09:44:49+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.449,
+      "id": 17
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Nuclear M&A deals total USD10.3 billion in first nine months of 2026",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/nuclear-manda-deals-total-10.3-billion-in-first-nine-months-of-2026",
+          "published": "2026-11-18T08:53:02+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.413,
+      "id": 18
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Russian regulator considers licence for Zaporizhzhia unit 3",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/russian-regulator-considers-licence-for-zaporizhzhia-unit-3",
+          "published": "2026-11-18T04:39:36+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.237,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "2027년 1월 1일부터 원전 차액계약 적용",
+          "publisher": "서울Pn",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnMWhkNW9EaVBsZUVNRUZaTWJrRmpOMkpXSlZxWnlidDJ3VGdCeGlncERDMnlMTDlMeFg5SnVVN05yeThjTjhPVjNkVnpmb0lqY3dkZDZ6ZHVlbFBKdVJIOE1R?oc=5",
+          "published": "2026-11-18T22:05:33+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원전 차액계약, 내년 1월 1일부터 적용",
+          "publisher": "더트래커",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jTXN3eEdGdE82MHpQLUhWelBJMFZKWE9ELTdST0VmbThOdUhhSnlUV3huV252TklnaXZKMGhzUXVFZTFNSHpnTV9BTlhaRFZObzlTMXhKT1M?oc=5",
+          "published": "2026-11-18T22:51:03+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.995,
+      "id": 20
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 직원 주도 업무혁신으로 원전 안전성과 운영 효율을 높인다",
+          "publisher": "시사코리아",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8wdGc5Z2wxRFZ1ckFRQ0pCZFR5bnJiSE5DcnZ2a1luMTl4UWdGNFpMWFA0NVV2M3RhcWdjMVNJbmUwcHl2UlE?oc=5",
+          "published": "2026-11-18T09:28:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력 ˝직원 주도 업무혁신으로 원전 안전성과 운영 효율을 높인다˝",
+          "publisher": "CBN뉴스",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON3hzeWdrcjZyeVVPUlRGdmlZR0ZDUVoydzFkaURmMHZpZ2JaNmdscENoeEVEd3JiVE9jMXVWY25DU3RSaXJ0NWdvdV9pNVFuQ1U3WkJIZ0lZc1EzN2FsWjB6MFdvaV9GUzZQYnBaTjcyb2ozNjM5cUR5X2x6bGNkRg?oc=5",
+          "published": "2026-11-18T22:24:12+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.977,
+      "id": 21
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "At a summit in Rochester, Hochul announces the release of a nuclear power plan for New York",
+          "publisher": "WXXI News",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSEo2OTZaVHZNZlFMeWMyckdlUnd5cVVuVThobGdSZUxCVG9sWDFUS3lOelVxSk1uRUw3a00zS3lvSDNLeXUteDBfRDRaTG9oS05XR3N2UlFuNXZ1WERUcng2NUJnWmZET0JfVHllRS1LcndYaFdMTlgyblVUN2VfREJ2Ry1LOWxJQ0QtaDNMLW1CUkNhM016dnRxWG9yZ3phWFhEMUQ5R1E4bVJYZzZibzhmRjY0UWhDeE5VU242ZlkzM2ppa3ROS2RBYWhvcmpJanVlakJIM0RNcXBlcnlkNnlqSmQzeUFUWEZ3?oc=5",
+          "published": "2026-11-18T19:58:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Hochul unveils master plan for New York nuclear growth",
+          "publisher": "Spectrum Noticias",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR2piSngyVjlrVXA5Z0s1eTJEaWR6R01JbEYtWlRBeVlmSFBGbU9PVWxUVmlEd0pCZENrblBLOUNJZHo3b0dkcFNsVWZPZHE5X0ZmZnlZdFNoaHlDU2VsUWlOaTJVa3E0WFBuMVBfZzA4WlMyZVhFQ1JnLVlaZlA5aWJiSlhDZWk0akxhdFpUNDQ2aUFGaUUyOVV3?oc=5",
+          "published": "2026-11-18T21:55:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.956,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "내년부터 원전 차액계약 첫 적용…한전·한수원 전력거래 5년간 안정화",
+          "publisher": "아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kcG90Rzh6RWdzVWR3RnZIaVM5bEpNZ2MzbTBDOElKZlhlald0U3VsZ291a3ZVdUIzUWVHa29yNXNSWFIxejFENGVtZ2R3cEVMVVhzLW96VmpoQdIBWEFVX3lxTFA3SmNXV3prdGZXd2s1TGlKRUFURGVNT2xzWXhEbktlU0dHbzRBSmZNbHVnS1QyWXJvM3Z2bkM5SjgtZDJlMmdKTW5JWkw0SExZaUZFRWVpdVA?oc=5",
+          "published": "2026-11-18T21:00:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "내년부터 원전 차액계약 첫 적용…한전·한수원 전력거래 5년간 안정화",
+          "publisher": "아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3SmNXV3prdGZXd2s1TGlKRUFURGVNT2xzWXhEbktlU0dHbzRBSmZNbHVnS1QyWXJvM3Z2bkM5SjgtZDJlMmdKTW5JWkw0SExZaUZFRWVpdVDSAVhBVV95cUxQN0pjV1d6a3RmV3drNUxpSkVBVERlTU9sc1l4RG5LZVNHR280QUpmTWx1Z0tUMllybzN2dm5DOUo4LWQyZTJnSk1uSVpMNEhMWWlGRUVlaXVQ?oc=5",
+          "published": "2026-11-18T21:00:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.918,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "IAEA, 우크라 제재 대상 러시아 관리 최고위직 임명 '논란'",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjamtXMDRzLTNabldJUlBDcGpOVVBDakJXU25zQVhPTkhiMV9wbjZfNVdCUjdnSVlIYjBqU3h0T1EzbHd5c2I1SmhSMkg4RkQ1dTl0emczLWRCeGvSAWBBVV95cUxNSkFBT2x1US1FMVdCNmRJRnhCcXExbGxkOVgwTDJuT1laUGRtOEMzWmsxVHEzcVppNks2OENINGdSTmZvanZvQmhVY2gxRVVGRkFUOVlVcER4ZHpWeGtzTWY?oc=5",
+          "published": "2026-11-18T14:57:37+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "IAEA, 우크라 제재 대상 러시아인 최고위직 지명 논란",
+          "publisher": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5JZ1V4RF9KZmc5dDB0WG9PbG1IYkRRSnAxU0ZQa3lDUWdKTng1dVRibVV3QW8xbXRCT3Z1MXZWaE04VXozdng3SHhzQ1ZXcWYybFpSVzI5WTY4OFlPYml5Y2NYVzdpVWc5V1k0cGJR?oc=5",
+          "published": "2026-11-18T19:07:25+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.84,
+      "id": 24
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Seismic waves from the earthquake in Romania reached Ukraine — did this affect the operation of the nuclear power plant?",
+          "publisher": "Українські Національні Новини (УНН)",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOLTZiWmpZS29pdzROT2JWQnNwNTFPcU16RzV4VElKMWRMcGpkcjBPSVYzUGhJWVpEZWd5Sk9HcS1vaTVheW42M2c4YzNSb0xkMWZBMFdjYWlneG1BcjhuT1BCbzA3ZkEzYUtLblljUVg4dVZXQVNHQ0lBU0IxMG9WQURhdU1kMUg5OEVOSnJGc2NrOU9KVnRmVjJDaFY0dTJKU0VHOVQxb252ZjNfUUVEOEhaVGJBckllSFRhQ2ZBeGZqVWE5RVFJWlNVR1RPX25iUTN5Y2ZKTdIB1gFBVV95cUxNd3JoLTJsc1hXS2dvVlRVV3hUT25ONXhfdVM1enJGbGdnUG5DRFFVSGVUQnhkem1CUkFxbUxnZnFXRWgzVWprSElEVThCZTk5ajF6TDVyenhROEREbjRjQWdrcnZPVUU0cm9sSkRnajlsUlQweXowRGNRQ3ExelJlMDdPT1RieTB2X2V6TUNlVm81RlBncjM0Q1cyWlk0UVpIcy1obEg1N3VNcUlGRFdBcFlLMERrR2tLaE1HX1hkSmdrSVViMFNGWXN4ZzlNbG9XaFFOMGNn?oc=5",
+          "published": "2026-11-18T16:10:54+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Earthquake in Romania posed no threat to the South Ukraine Nuclear Power Plant - Energoatom",
+          "publisher": "Mezha.net",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcVUtUkdnMEZqWTlTQUlEM1c2NmNCNE41dTNPUHU5MHF4U3hETUx4WlhwN3VWNGVKeWY5V2hURlNBMWx5cnY0eGxBd2h0OFJ1UXpSNzNGc250X19MbGEzaGJ4M2NZMW5maUVndFU2eW5JMXhNSm4xVVNYU1E3bkh6Z1dpS1BSbUk?oc=5",
+          "published": "2026-11-18T17:13:27+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.761,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 원전 안전성·운영 효율 향상 위해 직원이 업무혁신 주도한다",
+          "publisher": "에너지플랫폼뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RSFFjNjQ0eXJsY096d0k2cU9DV0RNUG1BYThZT24yVmlrSm5kNUJNd29neDc5RnNkMkNUTWlqMlBESTJVRWZjM21TZkV4SWlLdDZQQVRYTHVadEtvbHVTSkNxWVBOVFNYc2MydNIBcEFVX3lxTE1tRFZuc1djUDh6RVhBUlcxcHNxQkthSVl6WnBsYnRlU3dKb1ItWlA4b20xaUs0Mk9sS2Y4Z25EaEFVejJPZ09IT0NuSzlyd05RSFQwNFVGOHUtS1diVnZ4RF9Qd3JsbV94RFF0NTY3U0w?oc=5",
+          "published": "2026-11-18T09:43:07+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 원전 안전성·운영 효율 향상 위해 직원이 업무혁신 주도한다",
+          "publisher": "에너지플랫폼뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tRFZuc1djUDh6RVhBUlcxcHNxQkthSVl6WnBsYnRlU3dKb1ItWlA4b20xaUs0Mk9sS2Y4Z25EaEFVejJPZ09IT0NuSzlyd05RSFQwNFVGOHUtS1diVnZ4RF9Qd3JsbV94RFF0NTY3U0zSAXBBVV95cUxNbURWbnNXY1A4ekVYQVJXMXBzcUJLYUlZelpwbGJ0ZVN3Sm9SLVpQOG9tMWlLNDJPbEtmOGduRGhBVXoyT2dPSE9Dbks5cndOUUhUMDRVRjh1LUtXYlZ2eERfUHdybG1feERRdDU2N1NM?oc=5",
+          "published": "2026-11-18T16:11:43+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.718,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원자력안전위원회, 경북 상주시 인근 규모 3.6 지진 관련, 원자로 시설 안전에는 영향 없는 것으로 확인",
+          "publisher": "ototv.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tb1NlV3QyTkdkNG5MeHY3c1M3UTkxekZSNWYtdXBnQmRXXzNjcjZxaEoteE1hWHI2eTZrRUFucURSQjg5ajIzQ21NWFE2VUd4dkdhTjlkaUpOVVE?oc=5",
+          "published": "2026-11-18T08:10:22+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "원자력안전위원회, 경북 상주시 인근 규모 3.6 지진 관련, 원자로 시설 안전에는 영향 없는 것으로 확인",
+          "publisher": "뉴스파노라마",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzWTlqbnhtNzdVSjdRb2V0SkNLU29SS0k0ZG9KOFVfS21JQlJKZ0o1aHE3RXZOSkpQREtFT2RuUng5dXo5b0RiQjRzVmNWZllvTVZOZTlEQlNFLVR5dEVUOTNnMDA3Rl9pVmdfX0VUMA?oc=5",
+          "published": "2026-11-18T15:04:29+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.671,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "경주한수원, 창단 10년 만에 WK리그 챔피언결정전 우승",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NTTJ5VnJCQzNzejZTZVdnZE1BOUZTYzd4ZVplQ0trVzF2NUtIZERwVXprZU9LUmcyQklpUTFQdjJlVl9Zd0RSRGl2QkNXZEtXWDEya050WW1EckdwSnlINNIBeEFVX3lxTE92NkdmN21zX0V2aG45SkV2NUYzbWloN2ZFQmtpeHNzSXdPZnp1dEhXdzRiWGdXb2x3OG11RFdnbDA0SHBHcjZZSVRYWnBmdW9Mb25IRVNsLWFKMndnUHhyOUVtYkZRdklueU1xV2J3Qk15dEdySjBJOQ?oc=5",
+          "published": "2026-11-18T12:24:43+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "경주한수원, 창단 10년 만에 WK리그 챔피언결정전 우승",
+          "publisher": "스페셜타임스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rcG9CczA5ZVZMSnVLN29vTkw5MzNsVHVyQm84VnNjdkZIQkJiVUZfSWE3NnlyWkQwRUt5Z1l4MzNTakg2c2d4UmlhZ18yU3VTb2lwZ2UwZ015VFQ0RHZQbFQ1Z21vbGxmbGFZNkVyalRlVFE?oc=5",
+          "published": "2026-11-18T13:54:47+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.623,
+      "id": 28
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "10년만의 복귀 감독과 창단 첫 우승…WK리그 한수원 '기쁨 두배'",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OU3dTOVBBdWVDUVVRMXprSk00WE5mZFlPTmtmUFZwUHFvbk5FSkx3RHJ1SDVKT05iVkNUYVhDeDlHZHpBbnJPc0FqQjZGcWgwd1QxUEM2LXRXUnNMMUJiMtIBYEFVX3lxTE1OU3dTOVBBdWVDUVVRMXprSk00WE5mZFlPTmtmUFZwUHFvbk5FSkx3RHJ1SDVKT05iVkNUYVhDeDlHZHpBbnJPc0FqQjZGcWgwd1QxUEM2LXRXUnNMMUJiMg?oc=5",
+          "published": "2026-11-18T13:41:54+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "10년만의 복귀 감독과 창단 첫 우승…WK리그 한수원 '기쁨 두배'",
+          "publisher": "네이트",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBocFNBTFZHS2dWZGtieDV3SnpETmNWQXNKTUhHbmRvNHM3RlI2cHpEWGpmUm5NN3h5ZWd4NmxsYVhDUXZndnI5Y3BzUDd1VlIzOGhNT3hn?oc=5",
+          "published": "2026-11-18T13:42:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.614,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 98
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 99,
+      "kept": 81
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 54,
+      "kept": 53
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 51,
+      "kept": 6
+    },
+    "iaea": {
+      "ok": false,
+      "error": "403 Client Error: Forbidden for url: https://www.iaea.org/feeds/topnews"
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 164,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 5
+    }
+  }
+}

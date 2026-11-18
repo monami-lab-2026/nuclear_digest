@@ -1,0 +1,256 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-18T22:58:29+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "France releases report on nuclear project financing, announces 10-year fusion strategy",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-18/article-8589/france-releases-report-on-nuclear-project-financing-announces-10year-fusion-strategy/",
+          "published": "2026-11-18T18:42:30+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.822,
+      "id": 0
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Tehran's new atomic leap: Iran claims breakthrough with its first nuclear fusion system | GRAVITAS",
+          "publisher": "WION",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYk43Z0ZZSll3TDFqcnl1SlRucVBRMGp6MzR4SEdzR1UyVktJOFp6ZHc5VWVJaDdJX3NocHpTU0g3SktxMUJ6T2ZEdlZFSHNpS0NreGdSQlJPNmNhMVo4bjQ0eW9NVVVOaEh1NU5sb3pjSEJ0RjNVRkY5WV85azk4ZmJGaHdaNnRLeWpITEVtMmN4dkJKb1FFdW1hMFBobXJFaUwtTzREeExJY1NfdXBueEtPZXhZdXVWS0Z1dFN5SFhQUXlBWUdWOFY2WWlTUdIB0wFBVV95cUxObFZzZklKb2Z0RC1IN0hxWGhpbFdfZThlSkYwZGZ2QVlxQTRzYkVpZnkyeEUzRnhSMHJlOGY1aDZLY2R1MjZOQndsZGlaWjc3MmdFbXp2NXVXMkY3ejN0MkluaEpickRHN1BQNjN1eXNaZjFsOHI5M2o1bWdEd3NuNGZLSm9MZmhsR3pKTFk0c082dG9FaHJvN3FBSEpsenl1MDVDTXhWOUtoam1FOEtyWk42b2R6cHN5Y19XLWk1eVgtLXlMUFRkTTlnY0Q0alctY2U0?oc=5",
+          "published": "2026-11-18T17:02:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        },
+        {
+          "title": "Tehran’s new atomic leap as Iran claims breakthrough with its first nuclear fusion system",
+          "publisher": "WION",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeDJFVHZMb1VZT3NMZi1wZ0pJSXlaMWN4QnpOTGV6X2h5WGR3MUU3QnQxekR1c0RCdFhIT3dWbjYzSE5SRVd0aGJIZkFycV9BbjBBQXd6YlJUVVVrSUZ1cGR6T0FHYnl5QnZHYmkwb0ZQT1Rqd3g5aHlpbmVHTENCcUpiNXNYMFdab3JUVzFpdnBMXzhjcWlWR2R1UnM1N2IycjhkMHB5bmdMNmttNnZLUmlEZjBvbGpNTHViVm83NzJ3N2wzNDc1Z3UtYWZETWfSAdQBQVVfeXFMTkpDTlloMG5nWEdtdDdjVHYySkhzWUEyX2RqdDdDY3BLZXRJUFB1NkNnRXVZbTlLbzJQOEplOGtkWTlvRksxWXY4b1FtNUJ4bGpjRmtiSS15RXQyd2g1Vi00d3MyZUJNVFhIZHZneVc5VGV1b1hWNlZCb21oTE9MUWVlZUdVQWhueER0MThlU3o0REREeVBiNlZpRm5jMXhHMUx1YXA4ZW8xMHI3a3JOc1NOVjNLdWxTMk0zZllBdHNlX3g0b2RjYUJLTGh4ZnZDOFY4dUQ?oc=5",
+          "published": "2026-11-18T17:29:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 1.771,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Singapore told to seek head start in race for fusion power",
+          "publisher": "Asian Power",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX1luaGxGeHp5dnk1Y3Q4OHdhN1g0cHAzaUNXWHNGOXd3dVJmVmFaRDJ0Vm5VTU5TYjNpcldjeV9OMGRyZ0thUzlmQlhhdTFDbmFaWWtyNjBLNm5BZld6TjRZS3VVZkJxNUg4SDVZcmlNRU04ZGs3UDdjc3ZJTWNJUUctc0ZZTzhtQjUyNUVn?oc=5",
+          "published": "2026-11-18T22:00:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.96,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "France Announces National Fusion Energy Strategy",
+          "publisher": "Fusion Industry Association",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSHRsVEplVWsxSmFEYy1yU0h1blgydVBBVXlsN1RDOERGVzNIcTJYUkZ0VGctYTQ0YmVvVVljdkJ6TExWY2lYeGpPUFZIYmZ4NTdCUXRBZlBMWFRxQ0Y5MUFNY2xIR1JjZXZxOHVDT05tUVFacFJBUmRHbkxObGl0ajBnTHE0OTBrY0ZxMUoxaG5tRHcwN3c?oc=5",
+          "published": "2026-11-18T20:24:42+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.893,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Madison fusion company receives $15 million in state tax credits",
+          "publisher": "Milwaukee Journal Sentinel",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaUxUeEdjTVNNSjlySzlLTmFJaWlYM3JVWDNFZ3A4OEFMNUxkVDAtWTRjMmpKbVloSURqTFZyOWxTcEZZQWdtSzZXaGxYR1VXV3RvYktGNFdseGN3ZUJidmhuLTJUQklmYWxBYWNOQVV5VktmX3RUWFB0RHpzdFdvZnhrbVA1Q0QzSUs4UWFldEVzUUdqVm1GX3B4b1NYQktGN2tCbmdJQzFMenZkbXdmRDNBZEFybl9FcnloWnRn?oc=5",
+          "published": "2026-11-18T17:22:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.766,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Spotify Billionaire Ek Works With UK Nuclear Fusion Startup",
+          "publisher": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb2FXQzBoU1pQSXUxMkp1LXFRTTB4Vi1sT3ZZam5lZkQ0eFZCN2NHVzlVNEE4WFQ1UlBSUmhGUS1LejhGMmtPYXo5ZXZXdVNTdDFZblpGb1N4M3gzZFRNZVoteGpSRWw5bXk5RUtGU0I0WTlHOWJ1VzFGS0pnY01UbmQ5U3VxSlBoWlJxaXUxNzdpMTIwQkx1dEtwZFpSSUpOck40cksySy1IT2tOclYwdmxtNnVSWDlXWG9n?oc=5",
+          "published": "2026-11-18T14:35:37+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.651,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "State gives $15M in tax incentives for fusion energy facility",
+          "publisher": "WKOW",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcDVCOWNhdlFiZXB4dXp2S29WXzQ4MllTNUJRWE1mbzRTelcwUDNnY0tqYmNhZDBfNU5uMEF6M0pQcERSaGxKYlZzcDRpa2hVSkxieWcyZkRqSlhWd2lnbEhIckREOGx2OUhmZHRKRU1mZHJEaHdjYnYyUzRrc3FTZXYyVElFZzhJdHNyX3dzMDgyTWd1ZVNuOUR6T3MyWFlpb1BaSUJUeUhLVU1OTUYxZnlUR1lVRUxWWlBmMTNveS1odXdoSEdDY0pKemNWOFFqVlE?oc=5",
+          "published": "2026-11-18T14:20:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.64,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Helical Fusion Awarded Up to JPY 19.2 Billion in Japanese Government Funding to Accelerate Commercial Fusion Power",
+          "publisher": "Business Wire",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNc2VRMzNEVEo4YWg1Zy1xQUY5ZFc1dy11UTV1OURtdHN6RUYxNUtIR0t6TnBZVUxLUUFKb2dPZVJGZXI1Zk5nZWthUWVKZ1VrLTctRkE3dFlJUjhMZ1pqZXhqZm5SNWx6bC1lcW9RdmZnYzM0WEFGeUktcEtUcjFsLWwxWThTNG5KUC02LWRxbjhWMFhRakx4QmgyS1VhT2gzb3Z1ejY0RENYdnpXZ3YybF9kRkU5STlwV2tuWGYzQlVTaTMxUDdLMlg0NmlScDJZdUR5UkpwVFptRTZmaS1YZERZZ3FkZlVzeS1zdjNPanBnR2NuVVhxRWZxVU1VYk9Z?oc=5",
+          "published": "2026-11-18T12:36:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.568,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Evers announces $15M in tax incentives for Madison-based nuclear fusion company",
+          "publisher": "Channel 3000",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQalY5aldfX2VEQ2s3MlVsNHgxZEhwcXBUNnJZYVV6TjRTSWdkNlBQUDZxZlVwQVlxS2pNRnhwT3FlX1hSc3hUSjBvMjJvTm0wT3dMczZvZFJ1OWNZQXlld2E3Sjk2WE9PdUJQRng3akJZWlNZTkNJWTgwcm9ndGNoeXZBdkdzRXo4S3ZjbnZXTVl5bmhGTUNnYktoT2RrcXNjRFRxLXdrdlA0d0lEd2NFLTQxbHN3bVBMYUg5aWRtVnJoNkpFV1hkeEswVTdtMzFESGJIRkVjdW55Y3FKNElwSGRpS3BJZDk2ZWVYR1dlMjB2c28?oc=5",
+          "published": "2026-11-18T12:11:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.551,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "France sets out 10-year nuclear fusion roadmap",
+          "publisher": "Innovation News Network",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWHhPOWVZbFJScmg5WHFQdDhHS3FsS2Y2SFl6MXRRZjVrOHYtUDkwdk5zN3h3NEVqZXFVYmpueURtQmdDMWhmMzFRMHJVOXdoclZtbl9Fa2ZfQjBHTHBfa205T2g1UENvNkp0V1FlVnpXVVdoR21yQnlpcEdoOTNJS1B4RWh2VzNGZnJRMlZWR0VadzVFcmc?oc=5",
+          "published": "2026-11-18T11:34:19+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.525,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Fusion power is about to start working, says Bob Mumgaard",
+          "publisher": "The Economist",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVjRZOV82dXdob1lFWDFDX3VyU2JMRXBQWVBfdWZhbXhDZF95MzZEZVBRTmM4QUJxd3NKUUw5cVl4clBwX01sb3VjSG1xcEhNN2xJS2d5NHd4UTVZaWZ0WGk5b1dlckRiMjc2dkFtLWpXZ29NcVlmUktMZUhycXhmVlYtUU5xNm5fRTdPdE5wQjRBaXlMUXlKOHd3TzRqVkpFT1VGTHlCZmI3dHNna2c?oc=5",
+          "published": "2026-11-18T10:09:13+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.466,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Fusion Power by 2028? Helion’s Microsoft Deal Meets the Physics",
+          "publisher": "Technology Org",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOHdRYlVuQXQ2bVRyTmE0c0I1UTZvWWVIZDM2T1g1ZzRvTXMxZENLR3lEUUwzVWtuYnF2TkZRRW91bnFXNzBHVkVWeFdRX2o5T0Q3Y3FicjJsdE9GQzlENEpyZ1FoTDB6eWdEeVB5TWFEZ3NMVWhERGZSMjRUaVFyRw?oc=5",
+          "published": "2026-11-18T09:33:18+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.441,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Japan grants Helical Fusion up to $120M for stellarator power demo",
+          "publisher": "Dealroom",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWlViMXFZWG1wb1RJa3RaVm1JT25pVGRscE9xYjNDNHBxN1ZxRG9FT2QwM21EVVdzVmt2MGN5dkc4MG1Obkc5RVd2NXVVdlNNSGQxMXBub2NQT2E3TllDRGFNR2Z1OG1qT1VZTnRVLW1ESl91Y3dkOURtU1kwbWtqbWxuUW1ZYnZjVzVMT1dfVkwxT1pjZm1TU2RyRXhrWVFy?oc=5",
+          "published": "2026-11-18T07:46:51+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.367,
+      "id": 12
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주, 인공태양 연구단지 예타 통과…왕곡면에 'K에너지벨트' 들어선다",
+          "publisher": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xbWpxdTlsRXd2TzJwS3Y5X3dzb0ItaTlWdkpDaVlmZmRZYmxEcnVXU3g2b3JRRHpoWUZjdkJGRk9NNnJ1SDBQbG5hdWREOXk1SExTeFBXdFpTUQ?oc=5",
+          "published": "2026-11-18T06:24:44+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.31,
+      "id": 13
+    }
+  ],
+  "feeds": {
+    "gnews-ko-fusion": {
+      "ok": true,
+      "entries": 5,
+      "kept": 1
+    },
+    "gnews-en-fusion": {
+      "ok": true,
+      "entries": 16,
+      "kept": 13
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 51,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 1
+    },
+    "iaea": {
+      "ok": false,
+      "error": "403 Client Error: Forbidden for url: https://www.iaea.org/feeds/topnews"
+    }
+  }
+}
