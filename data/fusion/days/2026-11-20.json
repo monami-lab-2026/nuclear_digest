@@ -1,0 +1,129 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-19T23:05:52+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Fusion Innovation Bootcamp: Addressing workforce needs with unique educational opportunities",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-19/article-8533/fusion-innovation-bootcamp-addressing-workforce-needs-with-unique-educational-opportunities/",
+          "published": "2026-11-19T17:46:58+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.779,
+      "id": 0
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "General Fusion at Small Cap Growth Virtual Conference: path to fusion power",
+          "publisher": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONzdxTjZaRVdicWhsaGFNWDJqNnQ4UmJjeGgyS0lNTHBtTjBRQmZwQkh3U0owNUllb2dhdGRwUlF6RWYyTXJSWUhTRHFQLU5DNkt1RUNVenBLNzhfSGhuRGRJb0VmQ2FiT2R2cFNuRXZfdHBvbm9mZ2ZkMTZ0SnVWTFRjOWVPRm55RnZKcDhEaEl1Z1FCdU94d3MxcGktalhFRy1hcE1LRzVHUFFfSWVXZEdodVdsZ3lkZVYxbERWYzBoUEEwcHh1OHZn?oc=5",
+          "published": "2026-11-19T19:54:44+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.867,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "General Fusion Group Ltd, 화상 콘퍼런스서 핵융합 발전 상용화 계획 제시",
+          "publisher": "Investing.com 한국어",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lVlBuRU1xN29lcG5xLUFlR0NWNTNNcktmN0dZTm50QmR0V24zdHcyMkk0akp3VmxrVUVhdGpSWS16d3RZWG9EM25VNXdmTkZyckpzWGZMLVhxaG1vc2tGX3k0b2d1VnhncXdFUWhNOA?oc=5",
+          "published": "2026-11-19T19:43:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.859,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "EIB backs German fusion startup Marvel Fusion through 2029",
+          "publisher": "Dealroom",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSURYb3VacDVzYnZiTWZyTmg1aXNudmpHNTdwVGEzYTNJQVJKR3YxamtoLUo1MGR6R3lYTU1XOXpOQldFOHBFdmxJXzVZQ3VJbmZwS0diSTZCcnA0M3dkRHRSVXF6X09IRjVmVS11bkJVbmxIWmIxN1ItaG1OM05MMG5KRmVzaE1rd3ZIUnNtWTl3NVNiTk4w?oc=5",
+          "published": "2026-11-19T09:16:11+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.424,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "nuclear fusion-system",
+          "publisher": "WION",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiQUVXMlpqS3Rodm93VHlMaktjd0U3WWpwRTZSUWVGZjNlTGNFX25tVllQR0hKU0dkaWUzazFpWHFHRkJndmhTVEtoY3Npc29VQkF3dEsyQjhZaVZkWlEw?oc=5",
+          "published": "2026-11-19T06:26:46+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.306,
+      "id": 4
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "프랑스, 2035년 유럽 실증용 핵융합 기술 확보 목표",
+          "publisher": "투데이에너지",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZT0hnaWRtcU1LTlhjem5VSUNxc2hEMlRtZUo3SUNjLWlpcWtZWDJXU1RDMndGeHZ0ZmlvWDhsSmdpVk1ibVVYS2hEZ3VYeWhsY0FSZmJ6SzFmY1dnRUMxU2NkdU5CUWpuQVdJMGN3?oc=5",
+          "published": "2026-11-19T06:13:43+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.297,
+      "id": 5
+    }
+  ],
+  "feeds": {
+    "gnews-ko-fusion": {
+      "ok": true,
+      "entries": 3,
+      "kept": 2
+    },
+    "gnews-en-fusion": {
+      "ok": true,
+      "entries": 17,
+      "kept": 3
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 51,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 1
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    }
+  }
+}

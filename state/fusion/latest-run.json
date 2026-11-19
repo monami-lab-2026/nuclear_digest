@@ -1,22 +1,22 @@
 {
-  "run_date": "2026-11-19",
-  "started_at": "2026-11-18T22:58:15+00:00",
+  "run_date": "2026-11-20",
+  "started_at": "2026-11-19T23:05:50+00:00",
   "engine": {
     "engine": "pending",
     "reason": "waiting for the Claude Code session"
   },
   "stories": 0,
-  "sources": 14,
+  "sources": 6,
   "feeds": {
     "gnews-ko-fusion": {
       "ok": true,
-      "entries": 5,
-      "kept": 1
+      "entries": 3,
+      "kept": 2
     },
     "gnews-en-fusion": {
       "ok": true,
-      "entries": 16,
-      "kept": 13
+      "entries": 17,
+      "kept": 3
     },
     "wnn": {
       "ok": true,
@@ -29,11 +29,12 @@
       "kept": 1
     },
     "iaea": {
-      "ok": false,
-      "error": "403 Client Error: Forbidden for url: https://www.iaea.org/feeds/topnews"
+      "ok": true,
+      "entries": 15,
+      "kept": 0
     }
   },
-  "days_rendered": 16,
+  "days_rendered": 17,
   "status": "success",
-  "finished_at": "2026-11-18T22:58:29+00:00"
+  "finished_at": "2026-11-19T23:05:52+00:00"
 }
