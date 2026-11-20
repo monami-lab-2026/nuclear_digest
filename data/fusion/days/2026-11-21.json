@@ -1,0 +1,152 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-20T22:41:52+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Pacific Fusion receives N.M. radioactive materials license",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-20/article-8599/pacific-fusion-receives-nm-radioactive-materials-license/",
+          "published": "2026-11-20T19:39:57+00:00",
+          "feed": "ans",
+          "region": "해외"
+        },
+        {
+          "title": "New Mexico Agency Backs Pacific Fusion Radioactive Materials License",
+          "publisher": "POWER Magazine",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZzNqV0dXNXY2NjdSV3ZnS1ducXRWS2o1bVBabUVjSTlRQ1dwdFB2cmJXaXZaYy00MWlOR0R3MDU3ZUVGREhrOVZvWnpQcXk5YW1LbmQ2b19fdGdoNXRBTEVRRzlIVW56c0RmTWZRd1R4aXVNVXpoems2MVdsV0ZHSDJrWFRveG42Q0U5ZDNFczFUODFTVkJEMC1R?oc=5",
+          "published": "2026-11-20T18:02:17+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 3.874,
+      "id": 0
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Pacific Fusion secures key licence for New Mexico campus",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/pacific-fusion-secures-key-licence-for-new-mexico-campus",
+          "published": "2026-11-20T15:22:03+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.695,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Madison's growing Realta Fusion energy company taps new CEO",
+          "publisher": "Milwaukee Journal Sentinel",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNajZCaHEwbjM5NHN0aVRZOF9feG5SY3JXU3czS0tQd2xYNjVqWm15dkd0YlJac1JZYUxQOWljS1ltTC12UEVpME5fWmR1c1ZJMHZKM0lmeWVLN0ZKSDdxanhvVmJLNGpScmVCZ3JJZmdxRThMMVJON2VMQmZKRmFiVFlLNlp5WHN6ejlIa2ZoaExnbktPM3dYM3lyNXF5V05PV0RDclo4V1lpRHVKdVFwdTBva2Z2aFZSVVIxQk02eWhwWHI4UF9LX1p3MzRBRXpL?oc=5",
+          "published": "2026-11-20T22:10:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.978,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "India and Russia Mark 20 Years of ITER Collaboration in Global Fusion Energy Research",
+          "publisher": "Raksha Anirveda",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOckJCWXJ2ZjZLSFAzR052ZlVXdVJVRVRlOHdtdTFnQTA1cS1GZ2ZscTVBcktGX3MtYUJaZW9QTE9PaFZvQlFxdXc1SXFPMndfeXFRbUVQN2ZhM2xJMXpHNy1KSzhSOUl1aW9LUXo3S2ZXbkYwOTJ3MUdoV0RNbFl2LW9nNjhjd1BlTGVJYjc3VjBhb2tvM3lTcTNQVXl1YW5sb0pKMG9VcE91NTY4b2Jjb1RjOGo?oc=5",
+          "published": "2026-11-20T20:05:51+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.892,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Exclusive: Daniel Ek backs AI researcher's fusion power startup. Here's what they're building.",
+          "publisher": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaThlQ2N2TDN3NDc1MVM4Ti1LTDducVpaYjM2WWpyOEZqNU5EX0JfNGVWNmNoY2k3cTV5bU1LZGRETHRvaXlQUEdvX25JUnp1bUJyMTBPV25WcV9FcVptT1lIQUVGUThxYnAxMm9VTm1GN08wRmxnVmVLdHBDekd3RHM2VkJIZG44UmhqVm1kUXF0MmZHVmdSM1U3QURrMUZVSmxsbEFmSHVUUEluaW9heFFfSQ?oc=5",
+          "published": "2026-11-20T19:53:41+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.883,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "New Mexico Approves Pacific Fusion Tritium Licence",
+          "publisher": "Wisevoter",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVjB0RXlMRUFDZlJHSnc4VWdjYlktSzUtWEs3WUx1dDNaYUNrblNSZXhkVmhwVE1DeGpHY0REaHZ6SUlHWnhjcEFPcGFuRy1MM0ZoN0otQnJ0ZGJLSjFGTVBscTVQZzhJbkJKSXRyYzdYY1k4a0x0UnBGdm5zVWF6MHA1Q1hKdW1LWWNoVlY5eV9BOXJVdmthaDRKcmNKMDg?oc=5",
+          "published": "2026-11-20T17:29:08+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.783,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Is commercial nuclear fusion no longer science fiction?",
+          "publisher": "The Student Life",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBOM3RsbEVHajROLUZaR3VfNGR0TFJMekhLbFZSamtObnJNNHptb1IzUUR1c18zSnZIazRnV0F3X3A0SU9kTkVkWXJlRTdUTnN4cUpXYm9IcnFFZWJyMks1X1JqS05kRHhwUXNtXy1ORFQ1SmNiZGpHZ3EzMW_SAYIBQVVfeXFMT0RUNDY0amEtblZEcVMzcEZ1OXJOWlZkMXFEVFFXLXJGdWRSc190dTRvc2phVWxLZlJxZV9DRWRSUmJ1SzlYSkFNeEZLY1I0NDFMS000NlhlcVJ6RC14VEk0cnotWUx2Y1VId3g1cWtER28tNjBpMkpLYUh1aXRYVGJ3Zw?oc=5",
+          "published": "2026-11-20T08:18:17+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.4,
+      "id": 6
+    }
+  ],
+  "feeds": {
+    "gnews-ko-fusion": {
+      "ok": true,
+      "entries": 3,
+      "kept": 0
+    },
+    "gnews-en-fusion": {
+      "ok": true,
+      "entries": 15,
+      "kept": 6
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 51,
+      "kept": 1
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 1
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    }
+  }
+}
