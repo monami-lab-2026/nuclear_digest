@@ -1,0 +1,531 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-21T21:41:47+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "IAEA \"우크라 원전 한 곳 전력선 차단…군사활동 여파\"",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1aC1EbTM1STBrakxtWHFGbTZmSGx6VDAyQnc1ZVhfOTlqaEdPWlVnQmszNVdBVURDMUZMNlBZMkNWOFdBZkYxM3BoeXBwdlpDS184V1ppQ0hFbVBIZEpfNtIBYEFVX3lxTFA1aC1EbTM1STBrakxtWHFGbTZmSGx6VDAyQnc1ZVhfOTlqaEdPWlVnQmszNVdBVURDMUZMNlBZMkNWOFdBZkYxM3BoeXBwdlpDS184V1ppQ0hFbVBIZEpfNg?oc=5",
+          "published": "2026-11-21T18:13:41+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "IAEA \"우크라 원전 한 곳 전력선 차단‥군사활동 여파\"",
+          "publisher": "MBC 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fYkNiUHhMcnBreU5tbG5uLUsyWTlMakRaUkY2VTZMSmQtbU5Hbkx0YXRlZFc3bXpXVFpWS092S1czMXZiRkJNNmFHMm54MGZ3ejE4RGZzTEtlTEVQekYtRkptNmdPdWhxR21VekxsTFAzMkVB0gF0QVVfeXFMT19iQ2JQeExycGt5Tm1sbm4tSzJZOUxqRFpSRjZVNkxKZC1tTkduTHRhdGVkVzdteldUWlZLT3ZLVzMxdmJGQk02YUcybngwZnd6MThEZnNMS2VMRVB6Ri1GSm02Z091aHFHbVV6TGxMUDMyRUE?oc=5",
+          "published": "2026-11-21T18:54:52+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.884,
+      "id": 0
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA says Ukrainian nuclear power plant reduces output, cites 'military activity'",
+          "publisher": "Devdiscourse",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPd2pEWE9yTktpWmxsYlFkVlRDeW9naTFoOVdUNXNCcEVMbDFKaElfbGJpSUtBMlhqTlJVOWtDNzBTdms0NUhNZlB6WFEtRmVUZFg1dzVOck14UF9HOUsxSzFnX042VVhqNV8xak9Bbk9HdWRPNjRLMEJXUmVZUUxvNXpkTzVrTjR2aVBMU1lWY3k4bWZwM2RneHVlZEFwQ2hrNTlKZUdXNEVZWkRKeXlXeTkxSHFISzM1a0xMUkNGZW56Rm1weHd2azlqUGUyTjFJUlhzQWU5OWnSAdgBQVVfeXFMT3dqRFhPck5LaVpsbGJRZFZUQ3lvZ2kxaDlXVDVzQnBFTGwxSmhJX2xiaUlLQTJYak5SVTlrQzcwU3ZrNDVITWZQelhRLUZlVGRYNXc1TnJNeFBfRzlLMUsxZ19ONlVYajVfMWpPQW5PR3VkTzY0SzBCV1JlWVFMbzV6ZE81a040dmlQTFNZVmN5OG1mcDNkZ3h1ZWRBcENoazU5SmVHVzRFWVpESnl5V3k5MUhxSEszNWtMTFJDRmVuekZtcHh3dms5alBlMk4xSVJYc0FlOTlp?oc=5",
+          "published": "2026-11-21T17:08:53+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "IAEA says Ukrainian nuclear power plant reduces output, cites 'military activity'",
+          "publisher": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaTIxOHVyRmVjdW83MWlGWHpHN1hHNFNGN05udmdFdEQ1aEM5QURqSW5vUWxfMTc5TVdsT3JYeE9JWmVmR3dLa0hNSFIwQldXNEs4WllYSDlqU2F6TlNOd1kxcENsdmpfOTFsX2Z6WDBvaWtBVlF4SnZUNE5oYXF1NDljTHRFN2ZEY3NPUkVMNFFmQl9iMEZnNUJBUXBsb2dTcUVfQV9YWi1LM3RRVzQxc21DSFlhZGYtXzFERE8xUG1QSWllcnkwUFdFRQ?oc=5",
+          "published": "2026-11-21T17:09:14+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.811,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NTPC and NPCIL invest ₹1.4 lakh crore in two nuclear power plants and six energy projects in Bihar",
+          "publisher": "ET EnergyWorld",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYmhjdUFyX0VYSFVGRlgtVmtER2FaazBSUXdxSnROR0FJd1d6cU5vblJvaXdFV2hPamFxZ2xGQzFvTmZwUy1QSERyaXhySnVFMWxZRWJ3UVBDX3ZKb3l0MTB4QmtGYS1idHVrR2l1ckpTLVVjVFRnQm9NeUNCTWFJMUdBVWRUZGZCeVIzZlU2M0pyTm9WZVVmSm9jcFdMakZBUjhCQ2R6M0F2bGtlbGdiWWtNQThzVENGUjBHMS1iRDlIQldPRUlPMHc2dF9nNTJXSzBreGF0ZlVKakpyeXB5N2dxeFZUV3lEeER3S2hRM2VTQ2ZB0gH6AUFVX3lxTE4xTGVaRVRkckxvNG9mRFFrT0dkVUtjQ09IVjRJZEVEallIQmpnM2RQTEg4X1BKSWl4SS1GUlRFdVp3emdtTjkzZTlQYl9TX2hQTk1PcFhGS080WWQ0NVZEX1dUaHFUSEhXZnVtVWJ1bnE0R2FXNE9yU1J2SEhIWmpScGpEV3g5bFlTdzQ0RFZxZ1lVWVZmSUlIVzJyNDdWSjNIRUozSWxFc1Zaczk0dHdOY0Z4V2RCc2NuMGlkcGVDZ1JIX2MwQ0I5UlRoRXRkY2ZscE5WX2hJaFZ6YS13WjZDQkJnakdoZnFjTzZRc2hNQmN2Y1R4MFVldkE?oc=5",
+          "published": "2026-11-21T03:52:58+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "NTPC and NPCIL Announce ₹1.4 Lakh Crore Investment in Two Nuclear Power Plants in Bihar",
+          "publisher": "Indian Masterminds",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY3FrbDIyUzZ5MG40MDlvOFFXMG13N0Q5MUtmNUxJQUFxSU53RjlQbDM4R25OYWNoeUw3NjNjUzQ4WTFUUXZLSVBKdy0ycV9XaTdaa3VMZGpxbTZSb3RZZ0V2Y0p5Z3daLXlDRVhLX0tMZHVwTEdZdXpJa2h5NGR4YjJJSHVSVlJFdnc0RW5lb01VZ2VyWUR4S0JaQQ?oc=5",
+          "published": "2026-11-21T09:18:03+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.484,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "월성원자력본부, 에너지 취약계층 난방비 지원·사랑의 연탄 나눔 봉사",
+          "publisher": "헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1eTV3Nk4wS3pYQW9DWldQM0pDdUthcWpQa1hLWmlvaVBnTEMzZjAxVld3bnJfVGUzc3JYYjJmYnJlbWFKSDQ1Ym9uX3J4bjk3VDJiU0p3?oc=5",
+          "published": "2026-11-21T06:05:15+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "월성원자력본부, 에너지 취약계층 70가구에 난방비 지원",
+          "publisher": "드림저널",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5PSENTby1uRXJlUkFkMmdtUVo1RzRWSG1Ic3k2dVczSV9DX2kzUVlfQk1uaFowSWJVNXdJYjdRNWFuSk9KN0E?oc=5",
+          "published": "2026-11-21T08:09:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.436,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "미국 원전 인력 37만5000명 필요…SMR 시대 인재양성 속도",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwUFllcmZKZGtnYm1CRkpLbk0xTmJuWG5IcXdGREZFcXlVTFNUNWV5UzlZMjllZ0pKX014QzU5RXpPWHBmclphS2JzcFNGSUdZVkFtMHc2MjlEMW5XSWlZNjFFbkc?oc=5",
+          "published": "2026-11-21T21:28:59+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.991,
+      "id": 4
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "후티 공세 겹친 미국·사우디 간 원전 협정, 미 상원 표결 문턱에 섰다",
+          "publisher": "글로벌이코노믹",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRVdZanM4ZE9YTkNvdHZGSTBYWW5Mbjc2NE00UDlxYlNVVDFJTVg4YVQycWF2eXVXdHEzblJzVXp2bV9rQUViWXhRcV85RWZPYjlXNUtidmoxNmhXY2k5Y3d6c0t2ejBOVkJsaXFYa3ZxM1diR2ZZR1JqTUVkSEdGc1hLejlyNEdB?oc=5",
+          "published": "2026-11-21T20:55:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.968,
+      "id": 5
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 체코 두코바니 냉각탑 입찰 가속…2개 컨소시엄 격돌",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hWldnWGdhdEtVcWlrcEJZVll3WlN5LVBLQTF0TFNtQlI5ZHA3NVlPaGxNMDlwS25henI2cEVtWGN4Yk8wSnllczhhT3p5WlhLSWc1OGJ6eThWbC1QS1cyUmdWejU?oc=5",
+          "published": "2026-11-21T20:49:10+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.964,
+      "id": 6
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원전 노화관리, 설계부터 시작…IAEA 보고서 133호 핵심은?",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxRk95UE9ZNUtvLThiLUM5dXlkeWJxRVpJNTB1UFZhNG1EaFR5bGFLWlFOcmRyU2ctVk9NN3pfYnpmSHJaRFJBdWNZbXVJbG1NSXNXRWd6My1mMzl5QXNpOGloQ1g?oc=5",
+          "published": "2026-11-21T20:27:54+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.949,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Israel's Ben-Gurion University launches competition to design next-generation nuclear reactor",
+          "publisher": "The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IUXpQUzhjcjNtR0REMzRTdGxlWV90RGRqLURibGkzanFxOVh0NEppRGdKQjZSbVVJblhGT1hzWWVzVTNnZEYtZVp5VEVNZ1FaLTBfM0pvRHRfRzNu?oc=5",
+          "published": "2026-11-21T20:17:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.941,
+      "id": 8
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "우크라 원전 전력선 2개 끊겨 출력 저하…IAEA 경고 : 국제",
+          "publisher": "재경일보",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPeHhuUzNnVE9XVkhyd19YQkFQSDRIOXBRNE15YlZPZkxnVTQ4TEE1aURJazRiS3NEODRGaUM2ZHNKQ0dveEtiZDhBMA?oc=5",
+          "published": "2026-11-21T18:21:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.861,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "North Korea Expands Nuclear Plant | The Wall Street Journal - newspaper",
+          "publisher": "Magzter",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ3lIZEtJbHN4R2U0NENGa21YOXZGMElqV01jTTEyYjRNM01aX2VOSWh4TkdELXFnQ0JEUGlaUzM1cUt4OUZiWUlHbkoxUVZ0VGk0bnh2eUtuaXBxTkpHQ0tTXzg2clliMGhVY2Z1bENuWGd1Wmd0SGF4X2NqSUNwcVRiSVBIUHJJbktxeDViSkc0NmpRbXN3SHhlYnBXMm9v?oc=5",
+          "published": "2026-11-21T17:37:40+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.831,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "UK Races to Rewrite Nuclear Rules by 2027",
+          "publisher": "Crude Oil Prices Today | OilPrice.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTHNibzBFTGd3ekltb1FkZFhEY0oyTEFoZUtjOFVoa2Zvam9qNzhvWGItaWRuYW5nRGtWQUxzTzVjOHhkeTJiNGhydS1DUEVka0trcEt3WnRNaHNmT2hOMEtIOVF5NGZ4emkzZ1d3eWM4Wjd3YlJGSTlSUFhFZE1tZE5tVXpUQlRVOHI5UkRmS05jSW9wMTRlbzFZV3dxRF9NZEZyY0tOY9IBpwFBVV95cUxPTHNibzBFTGd3ekltb1FkZFhEY0oyTEFoZUtjOFVoa2Zvam9qNzhvWGItaWRuYW5nRGtWQUxzTzVjOHhkeTJiNGhydS1DUEVka0trcEt3WnRNaHNmT2hOMEtIOVF5NGZ4emkzZ1d3eWM4Wjd3YlJGSTlSUFhFZE1tZE5tVXpUQlRVOHI5UkRmS05jSW9wMTRlbzFZV3dxRF9NZEZyY0tOYw?oc=5",
+          "published": "2026-11-21T16:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.763,
+      "id": 11
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한국수력원자력, 산업혁신운동 참여기업 공모",
+          "publisher": "미디어경북",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PNVZndlV5V216cEN2M3p2c0NkSHFEXzBXaG45alZMNUEzT3lSOUVkSVEwREpSQ2tlclg5NndnQndMVExTQ1FOLWtrQzNsWEdiQ1pyOTJiWTVBdw?oc=5",
+          "published": "2026-11-21T15:59:20+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.762,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Can Uzbekistan companies enter the international nuclear energy market?",
+          "publisher": "UZA.uz",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQTJVVHFtV0staHc2UTc0b3JTQXJXejB5REN0MGFlX2ZjOUtxQzNfdmlqY1FsZ3E4dlVaWkZBZWk1QnNSTEo5eks5SU5icHZPTEdXdTlGR2VrNERUbXBKMkFJQlpjYjF0bVZnSXp3cW1FYzFHT0wxWUlnbEFuNU5FSlZxS19OT0xZanE4WER5UHE4N2Q5cF9JVERocktGVHFtcjhn?oc=5",
+          "published": "2026-11-21T15:37:26+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.747,
+      "id": 13
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "삼성물산 SMR 파트너 ‘GE버노바’ 놓고 잇달아 투자 의견 하향",
+          "publisher": "더구루",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KMWloeXZiZ1Y2a09NSkRMSFB6cDBpOEFaS19DOVRZbDYwRm9Zd0pjc1AtMEdaRmVmMmVmZk9kdWpoNW5kQXl5VmtzNGNTU3F2Z001TDEtT29QMEJFdGZWMW5RUQ?oc=5",
+          "published": "2026-11-21T15:00:18+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.721,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "PBI-Kenya accompanies land and environmental rights defender Otieno Ombok at Bondo Law Courts hearing as construction on nuclear power plant to begin in 2027",
+          "publisher": "Peace Brigades International-Canada",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUmlpWjlEcTI5OXQ3SmRGU0F2eU5WdkZhallCQ0Y0WXQtZXk3OGtDTmpBdS1zLXhfOWE4Z0JUdllNNmIxcW5IdElpdmQ1Wi1JQU5nRmNiRXV2YmNLS3VHRlRTdmowSUFOU09jT2xxOHJrNmFWNnRRa202d0ZYd2Nwa1NyVVZxbnJnZXVwdHc3bTRONmdlcnlyTGYzNm81X1FSbVZEZ3RYaXlodzdUOXlFMkZKNzZqUmZFdmZuVmw3blhwN2diNS1hRVNQb2dMb3Vm?oc=5",
+          "published": "2026-11-21T13:33:16+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.661,
+      "id": 15
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "산업부, 장관 주재 「팀코리아 체코 원전사업 추진현황 점검회의」 개최",
+          "publisher": "서울Pn",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MZi1DNUx6UGlYdTZod1FtNTZjb2ViMFVIbjRNcG1wTlNBdVBsc0V6OGQ1WG5KYWJtWUdKeHUzdzkxeFdKdy1VbVJtUUtNMGJrMUVHZmxYeXhhWkgxSS1qcDhR?oc=5",
+          "published": "2026-11-21T11:26:10+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 0.573,
+      "id": 16
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "China's Zhangzhou nuclear power plant installs three \"lungs\" for new unit",
+          "publisher": "Xinhua",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qdWVEM1lHM0hHNkV1THJnODBCUWVxTy15bmFTd0lnc0x3d0NvVWRKZFdLU3hiMVVlN293R2xycWJjWmltQk9YR3pnZmpydmQ4aG5rWUJqTmJodFNJd3hreDNzUFRwNTRzcnhFVFA5dDA0R01tcXV6WUtwa2Q?oc=5",
+          "published": "2026-11-21T11:27:17+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.573,
+      "id": 17
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "SMR 첫 호기 곳곳서 비용 급증…한국도 4조원 경고 : 기업·산업",
+          "publisher": "재경일보",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05UVN0RDZqSmlxTVZqWmZCZkxsalBfajJYVXVqZnBDYVdtYzJiZF90aUFCdnlPUzlFOWhENVo2VEkyam5iRVhYUk5PMA?oc=5",
+          "published": "2026-11-21T09:53:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.508,
+      "id": 18
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Taiwan holds final nuclear energy referendum debate",
+          "publisher": "Taiwan News",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqb2ZjX1hKSEZPZDNYYUU1SWNxSE1CdEk0aTlMV2ZMQ2JNWFBUZzFtSUc4TkRBeDR3OElGd2JtWUM4Z0sxWEFNbHZuQUlrZ1VQcWRBNTU2eHY?oc=5",
+          "published": "2026-11-21T09:52:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.507,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[한수원] 체코 원전 내년 7월까지 새 시공사 선정…원전 전기설비 통합 워크숍·심리 지원제도 출범ㆍ업무혁신 성과 전사 확대",
+          "publisher": "웹이코노미",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkWTRSTEVIWHFWTnBBNGcteEdjelRpb19kdF9UYWVXVzJJZE9nZC1CbktPQW85RVA1NFJhU0VveThmMVBjc1pnWVlCd0Y1TjdOWjB5WUsyRkRJa1ExcGpHUG10aXp5MmxSV05TRjNmblFRUQ?oc=5",
+          "published": "2026-11-21T09:47:52+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.504,
+      "id": 20
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA praises Rooppur safety measures, flags five areas for improvement",
+          "publisher": "The Daily Star",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLVZvR0FhREg2bmUtVmlKMWpWMVNvNVIzMGpTdWcwUHltWVpPU1l4VjVqdUZmODU4aEE3dlI4Z1dkeFZDby10UFByQ0xmY0VDLXhSaXdnRnpUc2w2LTdaLWRJLW45WFVSU1hocHMxaHI1N3ZZTXFPVldwRXd2OERLNng4WVZySUpUMUljT1Z5VzRZbGtTWFhyaG13NHB3NDRrYzZCaWNFV1ptejUxUk1LYVZNWWxKMEd3UXJMelI4dktBSmIzZ1NESg?oc=5",
+          "published": "2026-11-21T09:39:22+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.498,
+      "id": 21
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "America’s Nuclear Power Renaissance",
+          "publisher": "RealClearMarkets",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdXhQUEJhSFF4TDhRd25FTUZCWGpyUTFMQVc3cEF2ay1NQmhmcDl6OWZrLXJUN1FJT2lGaVZYdmV1NG8zRGkycmtKcHVpZmJIZ041NF9PeUFFX2NqVE9oQzh5OEdEa29pN0pSWXNsaGVrRXN5NVpseEpsSXBQeHdDY0lYQ0UxX0ltLW5PYTRsZ0E2M2x2UXc?oc=5",
+          "published": "2026-11-21T09:06:17+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.475,
+      "id": 22
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Ukraine says power restored at Zaporizhzhia nuclear plant",
+          "publisher": "Yeni Safak English",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORWxMMW4tcFI1N3RRZ1FFUy1qUktfR01RS0s2NWw1cUZCZ3FMdEt5MXRKZTB2bWRyVUlRQlo5TjFvTF9vLS1BRkRHbFpiSjVOSVVvUlFuMTBqSkZoclVaMDlJZGxKYTZ2bEtDUU9pUVhUZFJrYmc1QlJ3YUV5TEtvNF9Rbm1URWxERU9Ia21vWHNqODE1aV9IYVFudDI?oc=5",
+          "published": "2026-11-21T08:20:13+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.443,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "알 수웨이디 UAE 대사 \"양국 협력, 바라카 원전 등 실질적 성과 거둬\" - 머니투데이",
+          "publisher": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xc1BQZFo5aWFJSFZ3UjNpSlBYSjBERW9HSWd3YXJXbDlITEltc0JEdHcyVDFLdGFSM0FPZ25hTjctRURIX3B0WjVOcHlIRC1hb2VmZUlfTXMtaDEtd2FacU52ZHUzVk9EMnI3Vng1d3djQdIBckFVX3lxTE8xc1BQZFo5aWFJSFZ3UjNpSlBYSjBERW9HSWd3YXJXbDlITEltc0JEdHcyVDFLdGFSM0FPZ25hTjctRURIX3B0WjVOcHlIRC1hb2VmZUlfTXMtaDEtd2FacU52ZHUzVk9EMnI3Vng1d3djQQ?oc=5",
+          "published": "2026-11-21T06:46:31+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.378,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한·UAE 경제외교, 원전 넘어 AI·첨단기술로 UAE 건국 55주년 서울서 기념",
+          "publisher": "https://www.sisaworld.kr/",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wRzluTEJoOEZfT3puWVk4LWloT0E2eG1ROGtVSDJlZmV1YUUtVUZxWGlaTXB3Z1FnWGQzdmF3MGh4SklWMXVnOXpUTVBfVU1wSjFnNFdqR0RjZFVOTXlpcmM2bHF3bGFXVmc?oc=5",
+          "published": "2026-11-21T06:39:43+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.374,
+      "id": 25
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Prototype Fast Breeder Reactor (PFBR) at Kalpakkam achieves first criticality: What it means for India’s nuclear energy plans",
+          "publisher": "DD News",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOXBIZzVZN3E3NjJmdjVYemhXTnUtMnlTR1psaDFHNWZBY25ZN1o1bDhFQnBjandzaFVOMWNLMGVuLTlCX2h0M2NwbFBvTVNzdHpkREthZnRaNjVUZE0xaFljV2dJVmtIZXhTT2ctZzFoVmNqVUJUa1lhVVlxclM1WjZGNlJzUWNzUE1Jd2JKZWFxUWZlMnkxR2ZfRm1KbWFMRzdja3lhVDZzLUw2Mm9Gallhdm12eGc4aElNNDhadGQyeG5tWkZKM0QwWmFManRrUHNaRnllQWc5ZGo1V3VNVw?oc=5",
+          "published": "2026-11-21T06:29:31+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.367,
+      "id": 26
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "When Canadian scientists came to Bombay to help build India’s nuclear future",
+          "publisher": "Scroll.in",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOFRwTnQwNzFoZ1ROUko2NHNMSU9ZLUFQeG9JQ3IwNVZGUDBfanJGZGlOX1lhTVQzd3FuY05xcS1qdk9uU1FfNkg5ODFvUHVrMEh4MnJfM1NRVDFnc2hMR3RmOE16cmxjS1FuMi1Hdk9rWENqSkFqcUI5QTlGa0x0ZWZ3T2Y2MzQ0bTdCSXdaNS1jWjhhWUNxQWJ0Ny1nc0NmY0FMMjhualBmMUlkVUY00gG0AUFVX3lxTE9wSGxZemlRUnE5b0ZMTEIxTEIxWUdBVjV3bF93c2J0OGtEaDB3OTN1d3hGejlibkZVVzdMeHdrRVZZOFprc2RSS0pFNlpaMXlKclUtLU9MMmQ4S0VZNmlTS1lseTluSllGRlF1YkpEc3JGT3QzZ1Q0QkZsa29TNGp2WnZlaXNMM3k3YzJfWjJYY3FEdDVQd3hNV0gtNDZzWmxkVDJhR2tBRGhWVkFLWUJnY2hOdg?oc=5",
+          "published": "2026-11-21T06:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.346,
+      "id": 27
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Bangladesh emerges as 33rd nuclear power nation: Faqir Mahbub",
+          "publisher": "The Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdDQ1QXNJbWNmblBGamw1WW02ZnQ1N2Z6YngwODMwNWVtYkZxVVd4ZGlrek9sRy1BOEd0aUJJZk16eWRVWF9Id2d6dFNJMDNqazh4QXcwcTZ2SXJieWxsSkZGQ21fTF9mOTlRU0U1VERhVUtYZTFvaHJPcnNLbURxWFpoQTdtX0czVDFuekhCTWY2dWxCT0hhWDZ4QXZWbE5WWEJRbjNmbw?oc=5",
+          "published": "2026-11-21T04:49:12+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.297,
+      "id": 28
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "체코 두코바니 원전 시공사 다시 선정한다…한수원 협약 종료 : 기업·산업",
+          "publisher": "재경일보",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9xaFkyNm85Sm9UbWNWVmVlOTFRQl9JcHhPa2tIMmlHTW92bV95cG03OUpfWFBlUXBuZi1ZTmxVUTZBOUJ2NkRITXRldw?oc=5",
+          "published": "2026-11-21T04:25:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.28,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 29,
+      "kept": 26
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 20,
+      "kept": 1
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 30,
+      "kept": 25
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 51,
+      "kept": 0
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 173,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    }
+  }
+}

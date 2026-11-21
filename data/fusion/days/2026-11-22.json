@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-21T21:41:49+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "DOE Argonne National Laboratory Simulations Model Fusion Reactor Blanket At Record Detail",
+          "publisher": "Quantum Zeitgeist",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9WMFNwWm1uSUhFdUpjZVdvcjBUWS1yVC1TYzUwZXlpYUNvMUd0cjVXTTBhbUl6VEZicmEyWGxEZUdWdUgzYWFjZ3FGVVNTb0tOSE4ySm9OTk1ERV9abXJoQkNnWm4zX0hMMkF5QWxnZHBGQXo4T1BwamdB?oc=5",
+          "published": "2026-11-21T19:08:20+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.893,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "‘핵융합발전소 설계 착수’… 한국형 핵융합로 개발 ‘시동’",
+          "publisher": "쿠키뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGME5SaVRGV2xzWW9GOURpb2txRzhNakpNY2lyeWUyeDVPV1Jqd2J3MWM0UlhYdGp0aE5ueGhHaXhRX0VkcTBQWmFBOGxLVm1Ia1ZVTzMyTFpjb1lOODR6ekdJRQ?oc=5",
+          "published": "2026-11-21T05:02:21+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.306,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "AMD opens up its new Lux supercomputer, powering everything from nuclear fusion to weather predictions",
+          "publisher": "TechRadar",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa2VDODFWdzJfZlZUSTN5a2MtMDBtd2RNcnVyaEg0MVJhMldvandwVkVidkIyNVpXbmVaWDNpSTh2amo4SVNrYVN1WXBjY0JWTkxSOXRHSXpjb093TkY2NnJNM19xaThmTDRmRHg1V3N4ZmRHMlRrbkx3dUtHbjBtM0U2cHNxZGlfd3h2R0J6NE4yNGFxQlQ5TWRzVElTQzNaWmZlaXpyaGlvZkhTdm04RHJoNUk2SVRGRjFUcktmRG5Eem84Z0o1Vm5FYw?oc=5",
+          "published": "2026-11-20T23:55:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.093,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Daniel Ek backs Europa Fusion, a UK pulsed-power fusion startup founded by a former DeepMind researcher",
+          "publisher": "MLQ.ai",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbUYxVS1FTVVFV1pnbFZveGdzT1lEY2d6Zm83T3pUcnBGNURHc3djYnU0aWxfSzhIYnplT0Rmd3VlOXhfREplR05QR2hjZjg1cW0tcUcxMERnMU5ZdnBiTXNCS0VaazdhVkVtSEFScnpjeDFqZG4yNjllVUhRLVhvcE5WZWcwWFBrcjhDX2I2T0V1eHk0akh2QUxSZEM3QXlYd1ZmZ0k0dE1PSEY0LXRwcGZhanQ1MnBLNi1pRDFTbFE?oc=5",
+          "published": "2026-11-20T23:47:02+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.087,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "다니엘 에크, AI 연구자 핵융합 스타트업 후원",
+          "publisher": "토큰포스트",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Ka0RNZmNYaVpqRm9ueFJhNHVGaW9UdVZobnU1OHh3a0swZEVvd2dNVEJyOHFDa2ZybmYxR3lTdktUd1BCR3VKTUFBUmI4bF9hNWEyZVZmc1rSAVhBVV95cUxNSmtETWZjWGlaakZvbnhSYTR1RmlvVHVWaG51NTh4d2tLMGRFb3dnTVRCcjhxQ2tmcm5mMUd5U3ZLVHdQQkd1Sk1BQVJiOGxfYTVhMmVWZnNa?oc=5",
+          "published": "2026-11-20T22:55:44+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.051,
+      "id": 4
+    }
+  ],
+  "feeds": {
+    "gnews-ko-fusion": {
+      "ok": true,
+      "entries": 4,
+      "kept": 2
+    },
+    "gnews-en-fusion": {
+      "ok": true,
+      "entries": 9,
+      "kept": 3
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 51,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    }
+  }
+}
