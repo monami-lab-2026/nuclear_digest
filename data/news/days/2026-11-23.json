@@ -1,0 +1,587 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-22T21:53:03+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "SNT에너지-국립창원대 ‘SMR 산학 협력’",
+          "publisher": "경남도민일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XSHkza2ZyUm9IS01paVZFak9QQXhzMXZyQVl2NXJtZnhsMFRQbW1HVlpuakE3WWpnQ2NGZ3NaQW1ubUZyM2FiUzJtMGpCVldJMTFhbVlSaU0zcU9KQUJOaWIzWFdFNURiZkE?oc=5",
+          "published": "2026-11-22T00:48:43+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "국립창원대-SNT에너지, 차세대 SMR 위한 산학협력 협약 체결",
+          "publisher": "브릿지경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kbEpOeFZrNGhfYl9QQmNYRWh0cWh0d1NvT3VTNW5mMGgxc0VMX2p2MTVCZlR2Y3piOXJjT3lHQWFWdDVWclRjak5aUDVvQXQybU16SUtBWldUZw?oc=5",
+          "published": "2026-11-22T01:04:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "국립창원대-SNT에너지, 차세대 SMR 위한 산학협력 협약 체결",
+          "publisher": "매일신문",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDX1RNdWpUZmh3TFRoV3lUWWFmY0tyZmZJVFM0V1FPbC1qNXhUS1FvQURGMHRqNTl4REhRZ2VRNy1EMWxRel93cDMtRWpNZU5wRl9tbEhhS2dsbUNta1pweFZR?oc=5",
+          "published": "2026-11-22T04:36:16+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.28,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "차세대 원전 SMR 개발 빨라지나…사전검토제 본격 시행",
+          "publisher": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IbVNnSEZwdXZGNjRoSlhOUXJPcENlVzR6b2g4Qkt6OUR1LTBkZ2tKU2VEZmtWcGJ0ck5DcnJaRlMtWGpUb3R6MzNTb2JBUjZkWTJTSTF3ZnVVdDdzZUJHMNIBYEFVX3lxTE9IbVNnSEZwdXZGNjRoSlhOUXJPcENlVzR6b2g4Qkt6OUR1LTBkZ2tKU2VEZmtWcGJ0ck5DcnJaRlMtWGpUb3R6MzNTb2JBUjZkWTJTSTF3ZnVVdDdzZUJHMA?oc=5",
+          "published": "2026-11-21T22:33:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "차세대 원전 SMR 개발 빨라지나…사전검토제 본격 시행",
+          "publisher": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1uckxVSEdHY0ZrNUxmV0pmSm4wNzlTQzYteWJ2QkNLYWN2Y0c4djN4UmZvUW9BRFlVc3JoanJuRDVDWHFDRDhzeWJNVVVFcjc5QkZBT29ZZ21iZjdxclNhWHRRQU9ERTA?oc=5",
+          "published": "2026-11-22T01:14:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "`차세대 원전` SMR 개발 빨라진다…사전검토제 본격 시행",
+          "publisher": "국제신문",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWlFSYnhocm1sQldqWU5kNjJpcHg1SkR0ZTRQel93Q3VjRFRCb0o3RDFQWlVJRkZrRC1uQV80MjFfUFlPaFB1a3ZkcFNQT2syYUtZQndxUHFFWk9XNnBPM194cG5jQy12d2YxWG1wRFR1SnRsZ21WT1luUlRLdTJINnRGeXlwb0c4YWZnM19R?oc=5",
+          "published": "2026-11-22T01:30:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.151,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "“원전부지 내 사용후핵연료 ‘임시저장시설’은 고준위방사성폐기물 ‘제1차 중간저장시설’”(1)",
+          "publisher": "주간해피데이",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNnlFeXVnS25hRkRtVENYNHNWVW5TY2MwZmVCUlBsMnBxLUhoYjFWYVAxZk02S3U2Z2dVODdxZjlCZTJFX3FlSGR5cHA3QnJES3NYdi1NYzIxTFd3eTJOSWY4S29HUDE0bVZHMXNGQV91cGIxdVBqeC1sSEREMkVuNTRZTQ?oc=5",
+          "published": "2026-11-22T16:56:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "“원전부지 내 사용후핵연료 ‘임시저장시설’은 고준위방사성폐기물 ‘제1차 중간저장시설’”(2)",
+          "publisher": "주간해피데이",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNmJ3ZWpJOHdiaFE3X0t0UnZlN3NLZkpYMWVKSWgwQktkVFdxNGpsbFltT09PbEk5ZkFJYkdCNDlLLUVjX3lnRHNVLW5rb2lNbmNibEZJUHhOVFZSSDB0QnZ6eEh4bWJkLUYybnVPYkFJX25HWnhwQk9yX3dvNnBVRVVZYw?oc=5",
+          "published": "2026-11-22T16:58:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.795,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "테서 아토믹스-삼성중공업, 원자력 추진 LNG 운반선 개발 위한 독점 협력 체결",
+          "publisher": "https://www.koreasprint.com/",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5YXdRZmJOTHVKWTBhMFhzNFFjMlJvbFktcmpMektkX0ZYQ1hiQWJXdHpKNVJfUmxaNWZDbktNUHpCVmRxSUNRRjNBTUhudk9Zbk8yN3JEZHJVZk9mdEVJVEI2SFZlZXllNXRZcTdR?oc=5",
+          "published": "2026-11-22T05:36:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "테서 아토믹스-삼성중공업, 원자력 추진 LNG 운반선 개발 위한 독점 협력 체결",
+          "publisher": "부패방지뉴스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HM29nU2MwM2xZLVBCdjJGUU5VS3AteTgwQTJIN1lfc2RRNEdCajMzU1pObzlVZjlUanZXUDZROWc2djVqb1NUOGhOSjZ1Skg5MXI4WkZCYlVDVlRNb1hKU1RvdWNGd1V4TnE0?oc=5",
+          "published": "2026-11-22T10:56:55+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.544,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한국수력원자력, 직원 주도 업무혁신 성과 공유",
+          "publisher": "전국도민일보",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TQkhKM21CV0lQT09rWFVxMExOM05EeW40NkpOT2lpZ2ZnNXd1VG1kR1NEc3V1VnhMX1hhQUF4UThMM01Rd1poMU1JRDlJclhXNmxUQnhnS2VXdmRfNjdLdTU0akRxdDg?oc=5",
+          "published": "2026-11-22T02:43:39+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력, 직원 주도 업무혁신 성과 공유",
+          "publisher": "전국도민일보",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tYW5TalVzSllienRtcW96WjBiNkpjQ3I3OUJmUFVaUzU5R0s4ZTdzSTZtdGhYa1dXNTlBeENqeW5kVHBUTUZGTmZQbmw2RGVHUER0MVpvRU9GdHJLdGg4ZEFTaFJqRGZYbDZJ0gFrQVVfeXFMTm1hblNqVXNKWWJ6dG1xb3paMGI2SmNDcjc5QmZQVVpTNTlHSzhlN3NJNm10aFhrV1c1OUF4Q2p5bmRUcFRNRkZOZlBubDZEZUdQRHQxWm9FT0Z0ckt0aDhkQVNoUmpEZlhsNkk?oc=5",
+          "published": "2026-11-22T08:57:31+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.461,
+      "id": 4
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "월성원자력본부, 에너지 취약계층 난방비 지원·연탄 나눔",
+          "publisher": "경북매일",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MUHdDOVJjaGQ0amJaQkh0SHpIb2I4U21XcWlpUGpKVnhLeHpvU2xxWEhZWF9TR1M5QjZIUHdsTi1seHJxT1dfTE9fX2tkbWE0TEJDVUhzcm9JUQ?oc=5",
+          "published": "2026-11-22T01:42:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "월성원자력본부, 동경주 에너지 취약계층 난방비 지원",
+          "publisher": "경북신문",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91LWFkNVNaSG1DWnlmbmtoWV9UUkZJMmJxZlRqLWpuanJfanJFc2Q1Wm5TaFppck9kVzBONEdqTHNqQ3dRa2Z2Rkh1cjZ5SmkzejZGYV9XVlg?oc=5",
+          "published": "2026-11-22T04:51:19+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.29,
+      "id": 5
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원전 전력거래 5년간 기준가격 적용…전력시장 구조 개편 본격화",
+          "publisher": "시사통신",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lZ3cyblp6NFUzOUY2YW9KSm1ERHR2YjdqZ0FJWlhHeWMxVUQ3Uktaak1ZZV8xbG5OR1lEeS1CN1JLakVUNjN3Nk1qVmROMWgxMDFIYkhXV0ZvSWR1a1laSGJOTkk0a2fSAWtBVV95cUxPTHdNelUybXBYWnVTUGZzYVQyZGtCcGJXWU80aktfYUxxS2VOb2UtMEsyRVhTRXpmS2JqdlpEdDUwRl9QVWN0enRBcWZ3cFlWQWVhZW0zLVV2QS0tMUVMYW9PZXloUnZWek94cw?oc=5",
+          "published": "2026-11-22T02:51:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원전 전력거래 5년간 기준가격 적용…전력시장 구조 개편 본격화",
+          "publisher": "시사통신",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Md016VTJtcFhadVNQZnNhVDJka0JwYldZTzRqS19hTHFLZU5vZS0wSzJFWFNFemZLYmp2WkR0NTBGX1BVY3R6dEFxZndwWVZBZWFlbTMtVXZBLS0xRUxhb09leWhSdlZ6T3hz0gFrQVVfeXFMT0x3TXpVMm1wWFp1U1Bmc2FUMmRrQnBiV1lPNGpLX2FMcUtlTm9lLTBLMkVYU0V6ZktianZaRHQ1MEZfUFVjdHp0QXFmd3BZVkFlYWVtMy1VdkEtLTFFTGFvT2V5aFJ2VnpPeHM?oc=5",
+          "published": "2026-11-22T03:18:16+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.226,
+      "id": 6
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "차세대 원전 SMR 개발 빨라진다 원안위, 인허가 전 설계검토 허용",
+          "publisher": "중소기업신문",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80QjgwZWlHQmVsZ2ZWbUhBRXpHb2hldjJha1Y4T2o3VzlRNVZWZzJwdWwzRWs5VWg1YUJqSVdHQ0hsc2h6amZ1Z3p3U0ZzSi12OXRZTEl0MTVPTkstcmppeVNmYUVNYXdfU3kxb2R3?oc=5",
+          "published": "2026-11-22T01:56:36+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "차세대 원전 SMR 개발 빨라진다 원안위, 인허가 전 설계검토 허용",
+          "publisher": "중소기업신문",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80eG50U296LVl3OURGR3Ixc0F6dENFSVdmNkpfYjJsS0ptSVlnRmNZcC1UTXRkWmR4WEoyZHRhbFhvSVpNY085SXdzVHpISl9rQ1FQLVdHdWRCM0VSS0dQN2JfNi1rOUVuUlphSQ?oc=5",
+          "published": "2026-11-22T01:56:36+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.169,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Far-left hates nuclear power because it’s ‘cheap’ and ‘abundant’",
+          "publisher": "The Courier Mail",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPR1VtWHQ4cldJdWRncjFsYWVrdm9HUDdyN19pSm1YTlBLZVdsWTYtNkJRMWtEbUJ5Nl9YamZxQVlTTkJLVXo2cXZpRnFuQUZ4dXlpV084a3JGWENNc2JFeUUwT3N5YVB5bjMzcTh2ejkzYXdtNjhHbnBjSVNDZFEyU3ozc2dVTFdBbWRZQ1NfUjlySXM4OC1LemZyNXF6TmFNM2E1bmczRnY3eW05a25HY1BZRHNDUFBKVmZobkVlSWswMkZma1RFdlpHQlhOQmdqdzRDRk5R?oc=5",
+          "published": "2026-11-22T00:26:07+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Far-left hates nuclear power because it’s ‘cheap’ and ‘abundant’",
+          "publisher": "News24",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWi13cU0tQ25IWkd4UWs2ZVlsUklXUWNQNkxROGVUNGxYU3E3eHJhc1U3QkZuYmhSb3VOMW45YWtVclJLUWpFcEk0TkF1bERMU2xvZ0E1aWNCbjRkdUVfUFdRUFlpTHR3ZE1rZ214VldvaWRrVkEwNzhYTlZlTkxmMHI3cGRqcXJETjlkem1LMmdyeEgwTnVzZVFxcmRUZUR2Uk1lTWloRk9xTzNDYW13M0tLZklfUnM4V21KT3Y1cXA5amMxVmdlNGJXT2wtZWptYzQ1WlZZdGpVZ2do0gHiAUFVX3lxTE9GSHJCd1ZHd1IyYmc3OXBVRFdINUMxaUFGbGNMRFNCTTIyTFc2Z0tEMHNQcl91Q1hxR3VwN1ktN2ZMUUhkOXIwZTRZMlJWWTBzZ3ZSZjMxN0dvamNzWkE1UnAzaXFBaEFJUmRNN3JWZ3ZmYl9PQkdEVElyQWVaTDBCYUNhY1dqcUZpdXF6a3RkUE9yQ0JuQXJOX1FWWUJNSVd1MEQ0dTdIWXFaNjl0VEliUkRLQW9FOTZfSGpNUGRud3psb0NBM2hMTHQyaFlCejYycnRmQXFNOExXRjY2bmJYNGc?oc=5",
+          "published": "2026-11-22T00:26:07+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.106,
+      "id": 8
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "미국 유타주, 고준위 방폐물 규제 푼다…2027년 법 개정 추진",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2WXhidXpHU083c0dsQlJjTlpPdWoxQ3Z3Zkd4T2hoSlF0RHZRQlNpcS1jR09wWVBndTVGUVlxZlhfNHpBcmpHZVJvM0dlWTBRcG5hVFlQTGRGZEdtTzQwcElaNnE?oc=5",
+          "published": "2026-11-22T21:36:49+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.989,
+      "id": 9
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "누클레아, 몰텍스 기술 인수…사용후핵연료 재활용·SMR 확보",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1yQUxpamgweUI3NHRMRE1RajktajlhX0RZYzE0WWl6cTFHZUcyRE5KOGQxSndKZkFlVU5PbE83a3ZnY2F5NUxGQXlZbHVqckJNRlJSdmZRcTN1dVQwTS1zR01laFY?oc=5",
+          "published": "2026-11-22T21:19:15+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.977,
+      "id": 10
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[총수 신년공약 성적표⑥] 정기선 HD현대 회장, SMR·美방산 영토 확장...'안전한 일터'는 숙제",
+          "publisher": "소비자가 만드는 신문",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xY1ZVRWVmNndTWHkwWFVDYWY2TnVudGZ2UVctUlR2M1ozeUtjc0VyWmpXUmY4ajktdXRZUlVZdGxGUHFKTXZNQ09tMHh2SzRPNDRyRHZkQ0R5WDdpTTRONWN1Rmx4T01Yb1lCbXkybklsN0k?oc=5",
+          "published": "2026-11-22T21:10:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.97,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Bangladesh nuclear plant connects to national power grid Staff Reporter BANGLADESH has begun receiving electricity from its first nuclear power plant, with the initial unit of the Russian-designed Rooppur Nuclear Power Plant connected to the national grid.",
+          "publisher": "Instagram",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CYUlPdjBWM2J6cVozdHYzYkxMc2lxRTREaWQtVHZIMEJuaUtkam5DNGx3Ui1menBmMXJZSFlFMlVxZUdodi1NRVNRYVMxQWtpY2c?oc=5",
+          "published": "2026-11-22T21:00:39+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.964,
+      "id": 12
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "전력 전문가, 수요 전망·원전 찬반 갈려도…‘전력 유연성’ 해법 일치",
+          "publisher": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWN2JKS3QwWHB6c01GUlY3Y3lhamxKeThaVkp1UzBna0lMajdrMVNQTmJwbG5Sb3dnbzdYS1hKWndMSWRYZGJrcU5hRWJiYkVZUWhuYUJQdmkzSVVyeW4xWUlGQUZTYTNhbS1zaElCOFZfdw?oc=5",
+          "published": "2026-11-22T21:00:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.963,
+      "id": 13
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "폴란드 첫 원전, 핵심 설비 추가 조달…2036년 가동 속도전",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1Uko3dTB4bmJ3cnJNRlFzNDFkQnF4TVF4Wm82cXpQS1NOWFNzYXk4NV9VWDFkNG9wRTlieVdTMmdYckxwaXdlUER3cko1Zk40OE1XWGxSeS1xcWdOTldmT0ltdmM?oc=5",
+          "published": "2026-11-22T20:52:40+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.958,
+      "id": 14
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "美 \"원전보다 반대\"…李대통령, '1호 현장' 울산 AIDC 다시 찾은 이유는 - 머니투데이",
+          "publisher": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zSkxJMi1Ia2Z2dDlFaUJ5TFJsWEhvYXYyY0RtcHdfdVpaV0VDanlTcnhKbTdKblFVVi1Wa0VvUWxoM2xsbVV0Vk42Um1VMVNOb0lTc0o3Tks0ejdsVzhVanRUX040djhGUmcyZ9IBckFVX3lxTE1NaTRyQ1c4MWF3QjFxTHdhbElicWR3NE53NDVCb3JVMEFuTF96NUpFY1FObkJ1M0ZRTTVucnJuUVI3MVg0eVhIakRlVTFOZDgtNzdCT1JiMGo0bWwtOVNnQURXUUI1S21LcVpDYzhkM1oyQQ?oc=5",
+          "published": "2026-11-22T20:30:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.942,
+      "id": 15
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "‘작은 원전’ SMR, 곳곳서 차질… 한국 계획은 괜찮나",
+          "publisher": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNF9RV0ZYVWYtUUdzaDkyVUhUUS1yUXpUenZwQTFIcm1LQVh6T05sdkZ0TnNBeUtxLVQtYUlIa2hTcTRKNjBDY0hhSEIzMVpsRTN3Zi1EQXh3U016WkNTOU9CbVZFSGhDbm1rakRaTGhFVzRDclN4ODlBVEhGQVg3cUZCZTdBQTQzOEU3OFh3?oc=5",
+          "published": "2026-11-22T19:38:21+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.906,
+      "id": 16
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Two New Nuclear Plants Planned in Bihar: Where Will They Be Built?",
+          "publisher": "Infomance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeWNmblZwTV9aLS1yb1hqb2hfcFhFR3djTG9leVJtTzNELUhkX18wbjBtZUJmanlTRGI3Nm4yb0h0QV9ydEFQcW1CSThMaVdPd2s2TGVjamRTV2stQktDUXNZWXRWbHVubEdsR1JtOWRYQ3dCSGJ4aURsY0d3ejB6ZHVkQVZZZDZhNkd3UDhRNTBrRnZNTWF6N2REZTU?oc=5",
+          "published": "2026-11-22T18:42:36+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.868,
+      "id": 17
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Looking to future, BGU students to design model nuclear reactors",
+          "publisher": "The Times of Israel",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRjF5Qll3Z1J6MVZCYnpCRnNIWmRYSWZOWGs5TE40RGR2WUxWM0NMOGpqWmFZWW1kZFJMUTlVUmg0TXRJVHpGVEpEenFzRU5md21Zb0ExLXZMSGVhNHUyc2hTYkhkME1UbVZWbnVxZ2VobTNrUFpDSVNGS2dPdjBDRlFmQWxGemJiNzVnM2ZfLU9qSjRhcWc3Wkt30gGfAUFVX3lxTFBrRmptY2xLLURYTFIwQmpINXZzd2M1MEQyWnY2aHlRZkVzZU5LdXFyMGMyWEM3VVNWaG12V3Jib2cyUUJ4UWJUdUM4RUstdHptQms0eVZrTGFhOGFlNHhkYUJod1Q0X1VaTHh6Z18wZFFYVTFvSm1xYTdmYm9vYlJyTXlPby1ETzM3NUhhaGtZQ2htQ3pNSl9fRThiRkZlYw?oc=5",
+          "published": "2026-11-22T18:39:38+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.866,
+      "id": 18
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Zeno Power Tests Seabed Nuclear Battery Generator",
+          "publisher": "Wisevoter",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xNk9qYnZXLVdZYm9aS25mZnRPZlcxMlNYMTBkTUk2QXVNU2J2SkcxajZFUU43Si0yOTVtYkNVdjlUaHFVOU5rUGgzSkpwdnVGWXh1N0loQVhHNWxpZ0VUcXhMZGJFT3VlUjU0eExtTFUtWnlWNUVQbzJRc3lNMG8?oc=5",
+          "published": "2026-11-22T18:24:16+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.855,
+      "id": 19
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Russia is striking the main power transmission lines from nuclear power plants; Odesa is facing a critical electricity situation",
+          "publisher": "Українські Національні Новини (УНН)",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZF9zaUc4OENnbE16X3pMNVdmV0Nwc3B1WVJqNXB6Z0g0VXR4NzB5Q0RHbGhMT3ZOay0wU3BGX3kwaTh2aFowdVlKMW9wSjdxcXI2OHNIZG5IaEtGRDlMOVItY1l4OFVKNkNoVEYwUGhHcVdVS1VGNVlNb1Rub1RvUmljZ09xb0oza1U4enk3NjZZY3NJbUtwcFcwb3ZlYjI0c3loWXZkcVdkbkQwQi1IMnp2bnNPWFFFY2VxWkY5RDQ5d0RTNlFSMUc2VkFVRXFaQk5kdVdoQnZudDQ2OFJCMXpFT2zSAeMBQVVfeXFMTUF3MzlOQS1LOHJCYnlvNmpaUDBGQVhGZWsxZ1RiaFotV21IR0JfUDEzaC0wXzNrLUJSUnRUNHByRmNTWE5lT0Vva1ZiX1JxbDRaWGpYdWpESXR6ay1XWlJKX2pzT1lEdXBtXzRZVUxQU3V2RGJhYV8wWTZ0c09pWHdIdGhjeV9ocTNTVURVV3NoWjcwcmVDZjVzcTlSOVczLVdTWEhSQV82emtIUTI5RWRrQmlBdW1LYUxtT2RCdUt0QVJ0TC1tQkNqb1o2WUdoeGtkSkthZjdlb2dPWjJTeVFGUkk?oc=5",
+          "published": "2026-11-22T16:17:25+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.767,
+      "id": 20
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "uk nuclear regulations to be rewritten by 2027",
+          "publisher": "NewzTodays",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ0RXS2QzZVBPRzljM0Nuai0xNjFEUlc0eHJ6emRTZ081eTlzNm1fTXljd0pSWnRJQ2U4Q3JGczMzWFZZOVY5VnFOamN0NTFEeE5FQ3gwZk0zdUdVNVY4YkRwU1FPb29IQmNCZVVWenhnVmxEaXo3d2o1WEZsY1FyTkoxVk01MVlBNjcxNnpoZw?oc=5",
+          "published": "2026-11-22T12:51:36+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.624,
+      "id": 21
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "New Maryland-Korea Agreement Aims To Lower Energy Costs Through Nuclear Power",
+          "publisher": "The BayNet",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcVVtWll0aUxkdWpTb0l1NUd1Yi1FTUIyZUk0QW5PWHNJb0R5Nm5uRzdzUjU1M0Z6R3c4Nm0zVXdvUUNKZS16SEt4OWY2aXZIRDRGa3VlM0w4Umdsc0JVRUFSWndLYVBRMVBUZkNnV2Nvd05iNkU4bTRRbW9qYnQwNm5RdlRHMHotWm90N0s2Z1pTNzZvb2llV1doSEp4aTBmUFE?oc=5",
+          "published": "2026-11-22T11:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.547,
+      "id": 22
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "One seriously injured in work accident at central Japan nuclear power plant",
+          "publisher": "The Peninsula Qatar",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdkZISDI1V3l4S2FQMUpsQXlJN29HWEJFZEdTRnFrZFdqamotM1hhSHpUOFZyWWNnNWZuT2g1UFl1Uk1nWHBHbmdWbTg3QlBmQzJnOFp6R1FHNmZ6Vl8xdHNjRjg3R0xnSElkRjdpaTZoalhHallsbUJRcEJLZXlYQmtuSXVmWUoyQnF1LWhFdkJaREJQY2lTWUpUNTc5cmxZSnpIdDJKZXFKMFBJR29UNzNvVjZNSDZWUGNzQnF1NTJTZw?oc=5",
+          "published": "2026-11-22T10:14:03+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.515,
+      "id": 23
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Trump–Xi–Putin Summit: From UN Reforms, Oil to Nuclear, Power Politics, How 4 Big Outcomes Impact India and its UNSC Permanent Seat Bid?",
+          "publisher": "Jagran Josh",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNblJfR05nR0k0UE82Y09RNF9RM0xPYVdzVmd1czRQa3plamk5TVh6UkxaRnc0MnM5ajZxZ2Q1Z2xDRjd4T3VGUE5XZFlCZGNLYVRtQ0o3SF9NOFJFOWR6TFVCc3U5YlRtc2hnVk1UaGNqOWZpOThYOVUtbTZvengxbWR6dzBiWnI0eWxGWVZIWmtpM0U0X200X0VCdDl2MVBtaUxGeDFPZDNyMWVJZjJzcjF4Mi05Yk1EbTBWOWcyeWhkcU9Ta2ZqMDJ5MmpvaEJWTDBMMDFxRE81cEFwUTZLQS1LSUNZMUZweXNrR0swdEg2WlFoTWdrdHRMajBESHRKWEEwc1lmRkdMWnMtRExhZXlTUWNRMXUyTE5vNm1sdlV4ZHPSAaoCQVVfeXFMTnpybFFCQWx1c1k3TGdFcjJEeVpyQUZJYnBIYXZSdE5Vdnd3cXBWdkdNTHlhQ0tQYTdNNmdZb2x3ckpDTjlrVzZIU2gxTEx1dWZyYWoteksyQ2VSd19qaDFOemNBVldKRS1aZS1PekpEM3dhZV9SOUFaNU1UMFA2dE1hOUZYM0Y4ZVhTaWJfa1BpMjRwWUtUbUJ1bDRPZUs3VmN0MEtGZHBCTENFTGxON0M3X2VsVWp1cFl3NHVISkVhX21uZEpFNklrajZnTDAybUZPX19ZbWdDWXBIWVhuTW1zR3lEVzk4S3pNRXA1Yll4LWQzX0RhbHpOaUpKSVhTTGppQXctekdPWC0tc2owYk5HT1FmUFVQeU56RXV0ZDF1UkhWM1BmYTFfUQ?oc=5",
+          "published": "2026-11-22T08:02:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.423,
+      "id": 24
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Ohio Bill Would Fast-Track Nuclear Plant Financing",
+          "publisher": "Wisevoter",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNck5JTzZvT1N0czNQZFNaYlk5a0dhZFlnaHdkS1dNeFNjRTdfdjY0UVA3SFRPNWJ1ZGlmQlNmd2ZGa2V5ZEs0UDBBRGFRVEUxc052cjZjcWxkbEJuY3lYUE5rbVlDV1B6MU9sOFBjVU1HTzRMRVVjdkJ0TUdLNFZFVlN5ZjlaRS1pVUhXMWltcUFoUQ?oc=5",
+          "published": "2026-11-22T04:43:44+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.285,
+      "id": 25
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Time running out for another South African nuclear reactor with a more important job than Koeberg",
+          "publisher": "MyBroadband",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWWI1VUxIcEwtUmZidjdvbjhDSDRCZ3Z0aUVQMXB3ZHRWamhRdkt2RlgyLWdRMWtjNUtCNHV5MzZFb0I2czlTN0trOHVSRVd5YmtZWWRfaWhxb0xuNDhOQjhnVUNIWGxZS3lJbHc1eVYxZ3pjdUlhb1RENUtjckF2X1RRdVFrQjVFZ1QzRElhYk1mMHB6aHdBREU3WUx0LUEwV0ZONVlSNUpkbloya1h0b09iMXl6LW9QZ280S1BXa2x5cHE1eVgtTVBPNlVSVVFZeVZOMEtZMUU4MFA3NjZPd1RB?oc=5",
+          "published": "2026-11-22T04:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.255,
+      "id": 26
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "A New Chapter in India's Nuclear Journey",
+          "publisher": "pib.gov.in",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Pc2NPVDFMZzhvWmhGVVdPZzNlT3NGRUE1bWdDbjZheW53RWtDSWZpWmdmcjhvcGlDTnBHamMtZm91VjM1cmpaclpBYXFvdDB4UE16QkRjQTUwbEZ5OWtWQ05QODY?oc=5",
+          "published": "2026-11-22T02:56:37+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.211,
+      "id": 27
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "West Bengal Nuclear Plant Plan Hits Land Hurdle",
+          "publisher": "Urban Acres",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc2ozU09QQ29qVnFXX2ZISE1UNW1JV2o4emQ2ZlJhcHFFOHkyRGFHS1dWcVlNSWd3SWZrR0JoRk1OdVpvbl9UVDlLZEc5RU1DclktalVMYjl1aFo0ODdGV1R0ZU5oLXFiTkduV2NCODRJRzFyYWRBS2l5Mkd1S0diU2RnNmxpTVBEeFdiNFhNUUJ4YVRuaXJCbVk4RGM4NzA?oc=5",
+          "published": "2026-11-22T02:35:01+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.196,
+      "id": 28
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Ben-Gurion University Launches Student Competition to Design Israel’s Next-Generation Nuclear Reactor",
+          "publisher": "Belaaz",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWERWa3J6RFQ1Q0NwVG9UdG91MElFZEZ2LWpqRjFfVzF3TnE4bk1GT2JKSk91U2JuRnU1M1l0NFFEOGFocTNWakFYMndtaXJmRnNRbzBKUDRZWGpCZFFGQ2dwQzR5NW1JelE0Q3NkWkk2T3FwRFp6YkpOTWVEUmdkazRudENwRWtqbWY0NWhvRXY0TWc2ZzFpMnNEbkp0RTNzSGhsRFRrN0ZwYS1oV3FBUG1jMlh3aGF4TVk2YnRlVll4dw?oc=5",
+          "published": "2026-11-21T23:25:18+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.064,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 65,
+      "kept": 55
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 24,
+      "kept": 7
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 24,
+      "kept": 16
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 51,
+      "kept": 0
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 173,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    }
+  }
+}
