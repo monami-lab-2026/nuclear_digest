@@ -32,16 +32,16 @@
     "engine": "claude-session"
   },
   "10.1007/s10894-026-00609-4": {
-    "ko": "핵융합 장치의 예측 유지보수: JET의 옴 가열 회로에 대한 적용",
-    "engine": "mymemory"
+    "ko": "핵융합 장치의 예측 정비: JET 저항 가열 회로에의 적용",
+    "engine": "claude-session"
   },
   "10.1007/s10894-026-00610-x": {
     "ko": "관성핵융합 에너지 시스템에서 연료에 의한 중성자 스펙트럼 연화와 삼중수소 증식에 미치는 영향",
     "engine": "claude-session"
   },
   "10.1007/s10894-026-00611-w": {
-    "ko": "미래의 핵융합로를 위한 CS 자석 타이 플레이트의 발전",
-    "engine": "mymemory"
+    "ko": "차세대 핵융합로를 위한 CS 자석 타이 플레이트 기술의 발전",
+    "engine": "claude-session"
   },
   "10.1007/s41365-026-02003-3": {
     "ko": "China Spallation Neutron Source에서 단열 RF 중성자 스핀 플리퍼 개발",
@@ -216,12 +216,12 @@
     "engine": "claude-session"
   },
   "10.1007/s41365-026-02084-0": {
-    "ko": "$$\\sqrt{s_\\textrm{NN}}=3$$ GeV에서의 Au+Au 충돌 시 양성자 및 카온 생성",
-    "engine": "mymemory"
+    "ko": "$$\\sqrt{s_\\textrm{NN}}=3$$ GeV Au+Au 충돌에서의 양성자 및 케이온 생성",
+    "engine": "claude-session"
   },
   "10.1007/s41365-026-02085-z": {
-    "ko": "베이지안 추론을 통한 초중핵의 핵 아이소스핀 비대칭성과 α-입자 사전형성 확률 간의 상관관계",
-    "engine": "mymemory"
+    "ko": "베이지안 추론을 통한 초중핵의 아이소스핀 비대칭과 α입자 사전형성 확률 간 상관관계",
+    "engine": "claude-session"
   },
   "10.1007/s41365-026-02087-x": {
     "ko": "RHIC 에너지 중이온 충돌에서 종방향 흐름 탈상관의 충돌 에너지 및 계 크기 의존성",
@@ -232,8 +232,8 @@
     "engine": "claude-session"
   },
   "10.1007/s41365-026-02089-9": {
-    "ko": "AMPT 모델에서 $$\\sqrt{s_\\text {NN}}$$ = 4.7~200 GeV에서의 Au+Au 충돌에 대한 중심성-빈-폭-독립적 정보 엔트로피",
-    "engine": "mymemory"
+    "ko": "AMPT 모델에서 $$\\sqrt{s_\\text {NN}}$$ = 4.7–200 GeV Au+Au 충돌의 중심도 구간 폭에 무관한 정보 엔트로피",
+    "engine": "claude-session"
   },
   "10.1016/j.anucene.2026.112667": {
     "ko": "MSRE 디지털트윈: 유한차분 모델링 및 호스트 매개 이중 FPGA 실시간 에뮬레이션",
@@ -1228,8 +1228,8 @@
     "engine": "claude-session"
   },
   "10.1016/j.anucene.2026.112958": {
-    "ko": "몬테카를로 중성자 계산에 적용되는 낮은 차수 모델링 및 다중 충실도(multi-fidelity)를 위한 얕은 디코딩(shallow decoding) 전략",
-    "engine": "mymemory"
+    "ko": "몬테카를로 중성자 해석에 적용한 축소차수 모델링 및 다중충실도를 위한 얕은 디코딩 전략",
+    "engine": "claude-session"
   },
   "10.1016/j.anucene.2026.112959": {
     "ko": "고속 기체 냉각재 조건에서 와이어랩 연료봉의 유동유발진동 특성에 관한 수치 연구",
@@ -1352,8 +1352,8 @@
     "engine": "claude-session"
   },
   "10.1016/j.anucene.2026.112989": {
-    "ko": "바이오매스 가스화를 위한 유동층 원자로 최적화: 슬래그-내화물 상호작용을 제어하고 내구성을 향상시키는 새로운 프레임워크",
-    "engine": "mymemory"
+    "ko": "바이오매스 가스화용 분류층 반응기 최적화: 슬래그와 내화물 상호작용 제어 및 내구성 향상을 위한 새로운 프레임워크",
+    "engine": "claude-session"
   },
   "10.1016/j.anucene.2026.112990": {
     "ko": "LVR-15 원자로에서의 17O(n,p)17N 단면적 측정",
@@ -1364,8 +1364,8 @@
     "engine": "claude-session"
   },
   "10.1016/j.anucene.2026.112992": {
-    "ko": "Cf-252 선원(NSBEC)에 대한 중성자 차폐 벤치마크 실험: 제1부 실험 설계 및 불확도 사전 평가",
-    "engine": "mymemory"
+    "ko": "Cf-252 선원 중성자 차폐 벤치마크 실험(NSBEC): 제1부 실험 설계 및 불확도 사전 평가",
+    "engine": "claude-session"
   },
   "10.1016/j.anucene.2026.112994": {
     "ko": "원자력발전소 대기 다중화 계통의 주기적 감시시험 최적화: 동적 위험곡선 평가 및 다중충실도 파레토 탐색",
@@ -1396,32 +1396,32 @@
     "engine": "claude-session"
   },
   "10.1016/j.anucene.2026.113002": {
-    "ko": "LPGPT: 코어 로딩 패턴 생성을 위한 도메인별 자기회귀 사전 학습 트랜스포머",
-    "engine": "mymemory"
+    "ko": "LPGPT: 노심 장전모형 생성을 위한 분야 특화 자기회귀 사전학습 트랜스포머",
+    "engine": "claude-session"
   },
   "10.1016/j.anucene.2026.113003": {
     "ko": "가상 핵폭발의 선원영역 전자기펄스(SREMP)가 도시 통신 기반시설에 미치는 영향",
     "engine": "claude-session"
   },
   "10.1016/j.anucene.2026.113004": {
-    "ko": "기체 내 파동의 영향 하에서 초강력 원심력장에서 우라늄 동위원소를 분리하기 위한 새로운 메커니즘",
-    "engine": "mymemory"
+    "ko": "기체 내 파동의 영향을 받는 초강력 원심력장에서의 우라늄 동위원소 분리 신규 메커니즘",
+    "engine": "claude-session"
   },
   "10.1016/j.anucene.2026.113015": {
-    "ko": "다양한 크기의 꽃잎형 나선형 핵연료봉을 위한 중성자-열유동 연성 방법",
-    "engine": "mymemory"
+    "ko": "다양한 크기의 꽃잎형 나선 핵연료봉을 위한 중성자 해석 및 열수력 연계 방법",
+    "engine": "claude-session"
   },
   "10.1016/j.anucene.2026.113020": {
-    "ko": "i-SMR의 NSSS 제어 시스템에 대한 머신 러닝 기반 최적화",
-    "engine": "mymemory"
+    "ko": "머신러닝 기반 i-SMR NSSS 제어계통 최적화",
+    "engine": "claude-session"
   },
   "10.1016/j.anucene.2026.113030": {
-    "ko": "초기 단계 핵 비상 상황에서 대기 확산의 신속한 대리 모델링을 위한 물리학 기반 순환 신경망(RecurrentNet)",
-    "engine": "mymemory"
+    "ko": "초기 원자력 비상 시 대기확산의 신속한 대리모델링을 위한 물리 기반 RecurrentNet",
+    "engine": "claude-session"
   },
   "10.1016/j.anucene.2026.113031": {
-    "ko": "다중 채널 TALYS 검증 및 124I 생산 경로의 불순물 제약 최적화",
-    "engine": "mymemory"
+    "ko": "다중 채널 TALYS 검증 및 불순물 제약 조건을 고려한 124I 생산 경로 최적화",
+    "engine": "claude-session"
   },
   "10.1016/j.fusengdes.2026.116070": {
     "ko": "HL-3 토카막의 D-T 융합 제품 진단을 위한 중성자 카메라의 예비 차폐 설계",
@@ -1436,8 +1436,8 @@
     "engine": "mymemory"
   },
   "10.1016/j.fusengdes.2026.116079": {
-    "ko": "SPARC 토카막 중성자 측정 계획을 위한 BF3 비례 계수기 특성 분석",
-    "engine": "mymemory"
+    "ko": "SPARC 토카막 중성자 측정 계획을 위한 BF3 비례계수관 특성 평가",
+    "engine": "claude-session"
   },
   "10.1016/j.fusengdes.2026.116080": {
     "ko": "ADITYA-U 토카막에서 플라즈마 전위 측정을 위한 레이저 가열 발광 프로브 (LHEP)",
@@ -1604,8 +1604,8 @@
     "engine": "claude-session"
   },
   "10.1016/j.fusengdes.2026.116131": {
-    "ko": "디스럽션(disruption) 시 COMPASS-U 토카막 리미터에 가해지는 전자기 부하 평가",
-    "engine": "mymemory"
+    "ko": "플라즈마 붕괴(disruption) 시 COMPASS-U 토카막 리미터에 작용하는 전자기 하중 평가",
+    "engine": "claude-session"
   },
   "10.1016/j.fusengdes.2026.116132": {
     "ko": "핵융합 밀리미터파 진단용 이미지 제거 필터 설계 및 개발",
@@ -1616,20 +1616,20 @@
     "engine": "claude-session"
   },
   "10.1016/j.fusengdes.2026.116134": {
-    "ko": "핵융합 분야 적용을 위한 새로운 텅스텐 코팅 다이아몬드 복합재 설계",
-    "engine": "mymemory"
+    "ko": "핵융합 응용을 위한 새로운 텅스텐 코팅 다이아몬드 복합재 설계",
+    "engine": "claude-session"
   },
   "10.1016/j.fusengdes.2026.116135": {
-    "ko": "와이어 아크 방향 에너지 적층을 사용한 침식된 텅스텐 플라즈마 대면 구성 요소의 현장 수리",
-    "engine": "mymemory"
+    "ko": "와이어 아크 직접에너지적층을 이용한 침식된 텅스텐 플라즈마 대향 부품의 현장 보수",
+    "engine": "claude-session"
   },
   "10.1016/j.fusengdes.2026.116136": {
-    "ko": "W-장갑 ITER 제1벽 패널의 열기계적 저주기 피로 평가",
-    "engine": "mymemory"
+    "ko": "텅스텐 아머 ITER 제1벽 패널의 열기계적 저주기 피로 평가",
+    "engine": "claude-session"
   },
   "10.1016/j.fusengdes.2026.116137": {
-    "ko": "직접적인 3차원 주기 셀 계산을 통한 2차원 실린더 베드 저항 해석",
-    "engine": "mymemory"
+    "ko": "3차원 주기 셀 직접 계산을 통한 2차원 원통 충전층 저항 해석",
+    "engine": "claude-session"
   },
   "10.1016/j.fusengdes.2026.116138": {
     "ko": "베릴륨과 316L 스테인리스강의 고온 양립성 및 계면 반응 기구 연구",
@@ -1656,28 +1656,28 @@
     "engine": "claude-session"
   },
   "10.1016/j.fusengdes.2026.116146": {
-    "ko": "엔지니어링 적격성 평가를 위한 중국 저활성화 페라이트/마르텐사이트강(CLF-1)의 물리적 특성",
-    "engine": "mymemory"
+    "ko": "공학적 검증을 위한 중국 저방사화 페라이트/마르텐사이트강(CLF-1)의 물리적 특성",
+    "engine": "claude-session"
   },
   "10.1016/j.fusengdes.2026.116148": {
-    "ko": "CRAFT NNBI의 수정된 전압 유지 예측 모델을 기반으로 한 대면적 음이온원 전극 표면의 파괴 공정 분석",
-    "engine": "mymemory"
+    "ko": "수정 전압 유지 예측 모델에 기반한 CRAFT NNBI 대면적 음이온원 전극 표면의 절연파괴 과정 해석",
+    "engine": "claude-session"
   },
   "10.1016/j.fusengdes.2026.116149": {
-    "ko": "텅스텐 코팅 RAFM 강을 통한 중수소 플라즈마 구동 침투에 대한 고에너지 수소/헬륨 이온 조사의 영향",
-    "engine": "mymemory"
+    "ko": "고에너지 수소/헬륨 이온 조사가 텅스텐 코팅 RAFM강의 중수소 플라즈마 구동 투과에 미치는 영향",
+    "engine": "claude-session"
   },
   "10.1016/j.fusengdes.2026.116152": {
-    "ko": "EAST 다이버터 업그레이드: 차세대 상부 다이버터의 설계 및 성능 분석",
-    "engine": "mymemory"
+    "ko": "EAST 디버터 개량: 차세대 상부 디버터의 설계 및 성능 해석",
+    "engine": "claude-session"
   },
   "10.1016/j.fusengdes.2026.116156": {
-    "ko": "ICSBEP 콘크리트 미로에서 방사선 차폐 적용에 대한 OpenMC와 MCNP의 비교 평가",
-    "engine": "mymemory"
+    "ko": "ICSBEP 콘크리트 미로에서의 방사선 차폐 적용을 위한 OpenMC와 MCNP의 비교 평가",
+    "engine": "claude-session"
   },
   "10.1016/j.fusengdes.2026.116157": {
-    "ko": "CFETR의 피시테일 다이버터(Fishtail Divertor) 구성 설계에 관한 연구",
-    "engine": "mymemory"
+    "ko": "CFETR Fishtail 디버터의 형상 설계 연구",
+    "engine": "claude-session"
   },
   "10.1016/j.net.2026.104571": {
     "ko": "252Cf 핵분열 선원을 이용한 구형 철 시료의 중성자 누설 스펙트럼 벤치마크",
@@ -2476,8 +2476,8 @@
     "engine": "claude-session"
   },
   "10.1016/j.net.2026.104831": {
-    "ko": "사우디아라비아의 핵융합 RDI 준비도 평가: 비교 프레임워크 및 2035년까지의 로드맵",
-    "engine": "mymemory"
+    "ko": "사우디아라비아의 핵융합 RDI 준비도 평가: 비교 프레임워크 및 2035년 로드맵",
+    "engine": "claude-session"
   },
   "10.1016/j.net.2026.104834": {
     "ko": "HCCP TBM 증식부 냉각판 제작 공정 및 용접 기술 개발 현황",
@@ -2496,52 +2496,52 @@
     "engine": "claude-session"
   },
   "10.1016/j.net.2026.104840": {
-    "ko": "내부 공극을 고려한 고배근비 콘크리트 벽의 전단 내력에 대한 실험적 및 수치적 연구",
-    "engine": "mymemory"
+    "ko": "내부 공극을 고려한 고철근비 콘크리트 벽체의 전단 내력에 대한 실험 및 수치 연구",
+    "engine": "claude-session"
   },
   "10.1016/j.net.2026.104842": {
-    "ko": "고온 소형모듈원자로(SMR)(SMR) 적용을 위한 개방형 Brayton 사이클의 터보 기계 크기 결정 및 경제성 평가",
-    "engine": "mymemory"
+    "ko": "고온 소형모듈원자로(SMR) 적용을 위한 개방형 공기 Brayton 사이클의 터보기계 크기 산정 및 경제성 평가",
+    "engine": "claude-session"
   },
   "10.1016/j.net.2026.104843": {
-    "ko": "HPGe 검출기 감마선 분광분석을 위한 폴리우레탄 폼으로 제조된 저밀도 보정 소스 개발",
-    "engine": "mymemory"
+    "ko": "HPGe 검출기 감마선 분광분석을 위한 폴리우레탄 폼 기반 저밀도 교정 선원 개발",
+    "engine": "claude-session"
   },
   "10.1016/j.net.2026.104844": {
-    "ko": "공정하고 형평성 있는 기후 전환 추진: 원자력 에너지 모델링 및 COP30 주도 지속 가능한 발전",
-    "engine": "mymemory"
+    "ko": "정의롭고 공평한 기후 전환을 위하여: 원자력과 COP30 기반 지속가능발전 모델링",
+    "engine": "claude-session"
   },
   "10.1016/j.net.2026.104845": {
-    "ko": "사고저항성핵연료(ATF) 피복재의 크롬 코팅 두께 추정을 위한 기계 학습 기반 와전류 검사의 시편 수준 평가",
-    "engine": "mymemory"
+    "ko": "사고저항핵연료(ATF) 피복관 크롬 코팅 두께 추정을 위한 머신러닝 기반 와전류 검사의 시편 수준 평가",
+    "engine": "claude-session"
   },
   "10.1016/j.net.2026.104846": {
-    "ko": "제한된 보조 데이터 하에서 LSTM 및 전이 학습을 기반으로 한 우라늄 함유 지층의 공극률 및 투과성 추정",
-    "engine": "mymemory"
+    "ko": "제한된 자료 조건에서 LSTM과 전이학습을 이용한 우라늄 함유 지층의 공극률 및 투수율 추정",
+    "engine": "claude-session"
   },
   "10.1016/j.net.2026.104847": {
-    "ko": "CANDU 사용후핵연료 검증에서 공간 분해능을 향상시키기 위한 새로운 분할 원통형 텅스텐 콜리메이터의 설계 및 현장 검증",
-    "engine": "mymemory"
+    "ko": "CANDU 사용후핵연료 검증의 공간 분해능 향상을 위한 새로운 분할 원통형 텅스텐 콜리메이터의 설계 및 현장 검증",
+    "engine": "claude-session"
   },
   "10.1016/j.net.2026.104848": {
-    "ko": "82Kr 동위원소 분리를 위한 다단계 정사각형 캐스케이드의 진정한 다목적 최적화: 메타휴리스틱 알고리즘의 비교 연구",
-    "engine": "mymemory"
+    "ko": "82Kr 동위원소 분리를 위한 다단 정방형 캐스케이드의 순수 다목적 최적화: 메타휴리스틱 알고리즘 비교 연구",
+    "engine": "claude-session"
   },
   "10.1016/j.net.2026.104849": {
-    "ko": "기하학적 효과를 고려한 소형모듈원자로(SMR)의 나선형 코일 증기발생기 튜브에 대한 파손 압력 예측 방정식 개발",
-    "engine": "mymemory"
+    "ko": "기하학적 효과를 고려한 소형모듈원자로(SMR) 나선형 증기발생기 전열관의 붕괴압력 예측식 개발",
+    "engine": "claude-session"
   },
   "10.1016/j.net.2026.104850": {
-    "ko": "CFD 및 머신 러닝을 사용한 엘보우 파이프의 FAC 유발 벽 두께 감소에 대한 유체역학적 매개변수 조사",
-    "engine": "mymemory"
+    "ko": "CFD와 머신러닝을 이용한 엘보 배관의 FAC 유발 감육에 대한 유체역학적 변수 연구",
+    "engine": "claude-session"
   },
   "10.1016/j.net.2026.104852": {
-    "ko": "다중 소스 불확실성에 따른 원자력 핵연료봉의 수명 주기 유동 유발 진동 특성",
-    "engine": "mymemory"
+    "ko": "다중 불확실성을 고려한 핵연료봉의 전 수명주기 유동유발진동 특성",
+    "engine": "claude-session"
   },
   "10.1016/j.net.2026.104855": {
-    "ko": "잠재 조건부 마할라노비스 스코어링을 사용하는 오토인코더를 활용한 원자력 발전소의 허위 데이터 주입 탐지",
-    "engine": "mymemory"
+    "ko": "잠재변수 조건부 마할라노비스 점수를 적용한 오토인코더 기반 원자력발전소 허위 데이터 주입 탐지",
+    "engine": "claude-session"
   },
   "10.1016/j.nme.2026.102227": {
     "ko": "토카막 ASDEX 업그레이드, JET, ITER 및 EU-DEMO에 대한 종자 불순물 종에 대한 X-포인트 라디에이터 특성의 의존성에 따라",
@@ -2636,28 +2636,28 @@
     "engine": "claude-session"
   },
   "10.1016/j.nme.2026.102251": {
-    "ko": "중수소-질소 동시 주입 후 텅스텐 내 중수소 보유",
-    "engine": "mymemory"
+    "ko": "중수소와 질소 동시 조사 후 텅스텐 내 중수소 잔류",
+    "engine": "claude-session"
   },
   "10.1016/j.nme.2026.102252": {
-    "ko": "텅스텐 기반 아일랜드 다이버터가 장착된 Wendelstein 7-X의 표준 구성에서 EMC3-EIRENE가 예측한 에지 플라즈마 매개변수",
-    "engine": "mymemory"
+    "ko": "텅스텐 기반 섬 디버터를 장착한 Wendelstein 7-X 표준 자기 배위에서의 EMC3-EIRENE 주변부 플라즈마 변수 예측",
+    "engine": "claude-session"
   },
   "10.1016/j.nme.2026.102253": {
-    "ko": "TCV 다이버터에서 병렬 에너지 전달의 분할",
-    "engine": "mymemory"
+    "ko": "TCV 디버터에서의 평행 방향 에너지 수송 분배",
+    "engine": "claude-session"
   },
   "10.1016/j.nme.2026.102254": {
-    "ko": "몰리브덴 및 텅스텐에서 응집부터 해리까지 온도 의존적 붕소-공공 상호작용: 0K DFT를 유한 온도 열역학/통계 물리학과 연결",
-    "engine": "mymemory"
+    "ko": "몰리브덴과 텅스텐에서 응집부터 해리까지 온도 의존적 붕소-공공 상호작용: 0 K DFT와 유한온도 열역학 및 통계물리의 연결",
+    "engine": "claude-session"
   },
   "10.1016/j.nme.2026.102255": {
-    "ko": "U-Zr 금속 연료에서 캐스케이드 유도 결함 진화에 대한 Zr 합금화 효과의 분자 동역학 모델링",
-    "engine": "mymemory"
+    "ko": "U-Zr 금속연료에서 캐스케이드 유발 결함 진화에 대한 Zr 합금 효과의 분자동역학 모델링",
+    "engine": "claude-session"
   },
   "10.1016/j.nme.2026.102259": {
-    "ko": "19dpa에서 24dpa, 41~46dpa로 손상 선량이 증가하면서 540°C에서 중성자 조사를 실시한 EUROFER97-3 및 3종의 RAFM 강재의 인장 및 샤르피 충격 특성 변화",
-    "engine": "mymemory"
+    "ko": "19, 24, 41~46 dpa로 손상량이 증가하는 540 °C 중성자 조사 중 EUROFER97-3 및 RAFM강 3종의 인장 및 샤르피 충격 특성 변화",
+    "engine": "claude-session"
   },
   "10.1016/j.nucengdes.2026.115103": {
     "ko": "CAPRIX 연료봉 조사시험 모의 및 실험 데이터 비교: 정확한 조사 데이터의 중요성",
@@ -3180,16 +3180,16 @@
     "engine": "claude-session"
   },
   "10.1016/j.nucengdes.2026.115296": {
-    "ko": "APR1400 증기발생기의 하이브리드 U-벤드 어레이에 대한 유체탄성 불안정성 평가",
-    "engine": "mymemory"
+    "ko": "APR1400 증기발생기 혼합형 U-벤드 전열관 배열의 유체탄성 불안정성 평가",
+    "engine": "claude-session"
   },
   "10.1016/j.nucengdes.2026.115297": {
     "ko": "원자로 격납건물용 이종금속 반구형 쉘의 열기계적 좌굴 및 결함 허용성",
     "engine": "claude-session"
   },
   "10.1016/j.nucengdes.2026.115298": {
-    "ko": "납-비스무트 공정(LBE)에서 Ti 함량이 다른 AlCrFeMoTi 고엔트로피 합금 코팅의 내식성 및 미세조직 변화에 대한 연구",
-    "engine": "mymemory"
+    "ko": "납-비스무트 공정(LBE)에서 Ti 함량이 다른 AlCrFeMoTi 고엔트로피 합금 코팅의 내식성 및 미세조직 변화 연구",
+    "engine": "claude-session"
   },
   "10.1016/j.nucengdes.2026.115299": {
     "ko": "실제 연료봉 열유속 분포를 모사한 와이어 감김 봉에서의 액체 소듐 열전달 고해상도 측정",
@@ -3200,8 +3200,8 @@
     "engine": "claude-session"
   },
   "10.1016/j.nucengdes.2026.115301": {
-    "ko": "자연순환 루프에서 체적 가열 및 벽면 가열이 유동 및 열전달에 미치는 영향에 대한 수치 연구",
-    "engine": "mymemory"
+    "ko": "자연순환 루프에서 체적 가열과 벽면 가열이 유동 및 열전달에 미치는 영향에 대한 수치 연구",
+    "engine": "claude-session"
   },
   "10.1016/j.nucengdes.2026.115302": {
     "ko": "원자력발전소의 물리적 절벽효과(cliff-edge) 식별 및 위험 중요도 평가를 위한 해상도 인지 2단계 방법",
@@ -3216,20 +3216,20 @@
     "engine": "claude-session"
   },
   "10.1016/j.nucengdes.2026.115305": {
-    "ko": "TRIGA Mk II 연구용 원자로에서 3He 중성자 검출기를 사용하여 중성자속을 측정할 때 원자로 가동으로 인한 열적 영향",
-    "engine": "mymemory"
+    "ko": "TRIGA Mk II 연구로에서 3He 중성자 검출기를 이용한 중성자속 측정에 대한 원자로 운전에 따른 열적 영향",
+    "engine": "claude-session"
   },
   "10.1016/j.nucengdes.2026.115309": {
-    "ko": "시뮬레이션된 기포 실험을 기반으로 한 액체 납-비스무스 내 밀리미터 크기의 기포에 대한 디지털 방사선 측정에서 영상 파라미터 및 기포 형상의 영향",
-    "engine": "mymemory"
+    "ko": "모의 기포 실험에 기반한 액체 납-비스무트 내 밀리미터급 기포의 디지털 방사선 투과 측정에서 영상 변수와 기포 형상의 영향",
+    "engine": "claude-session"
   },
   "10.1016/j.nucengdes.2026.115315": {
-    "ko": "CINEMA 및 MELCOR 코드를 사용하여 LOCA 시나리오에서 i-SMR의 사고 진행 및 핵분열 생성물 거동",
-    "engine": "mymemory"
+    "ko": "CINEMA 및 MELCOR 코드를 이용한 LOCA 시나리오에서의 i-SMR 사고 진행 및 핵분열생성물 거동",
+    "engine": "claude-session"
   },
   "10.1016/j.nucengdes.2026.115317": {
-    "ko": "캐나다 원자력발전소의 내진성 적격성 유지를 위한 위험 정보를 반영한 성과 기반 등급 분류 접근법",
-    "engine": "mymemory"
+    "ko": "캐나다 원자력발전소의 내진 검증 유지를 위한 위험도 정보 활용 성능 기반 등급 분류 접근법",
+    "engine": "claude-session"
   },
   "10.1016/j.pnucene.2026.106536": {
     "ko": "원자로압력용기 확장 벨트라인 영역 고속중성자속 계산의 민감도 분석",
@@ -3684,8 +3684,8 @@
     "engine": "claude-session"
   },
   "10.1016/j.pnucene.2026.106680": {
-    "ko": "OpenFOAM을 기반으로 한 초임계 CO2 압축기의 공기역학적 설계 공간 분석 및 3차원 블레이드 최적화",
-    "engine": "mymemory"
+    "ko": "OpenFOAM 기반 초임계 CO2 압축기의 공력 설계 공간 분석 및 3차원 블레이드 최적화",
+    "engine": "claude-session"
   },
   "10.1016/j.pnucene.2026.106681": {
     "ko": "원자로 응용에서 나란히 배치된 원형 및 사각 실린더의 서로 다른 와류유발진동 영역",
@@ -3696,28 +3696,28 @@
     "engine": "claude-session"
   },
   "10.1016/j.pnucene.2026.106684": {
-    "ko": "LOFT 및 Semiscale 시설의 확장된 규모 확대 능력 평가에서 시간 분해 무차원 분석",
-    "engine": "mymemory"
+    "ko": "LOFT 및 Semiscale 시설의 확장 스케일업 능력 평가를 위한 시간분해 무차원 해석",
+    "engine": "claude-session"
   },
   "10.1016/j.pnucene.2026.106685": {
-    "ko": "수직 상향 유동을 위한 개선된 과냉각 비등 모델 및 최적 추정 안전성 분석 코드에서의 평가",
-    "engine": "mymemory"
+    "ko": "수직 상향유동 과냉비등 모델 개선 및 최적평가 안전해석 코드에서의 평가",
+    "engine": "claude-session"
   },
   "10.1016/j.pnucene.2026.106686": {
     "ko": "액체금속 내 단일 기포 상승: CFD 모델링, 검증 및 상관식 평가",
     "engine": "claude-session"
   },
   "10.1016/j.pnucene.2026.106687": {
-    "ko": "미국 원자력 발전 산업의 지속적인 생존력 확보: 인력 분석",
-    "engine": "mymemory"
+    "ko": "미국 원자력 발전 산업의 지속 가능성 확보: 인력 분석",
+    "engine": "claude-session"
   },
   "10.1016/j.pnucene.2026.106688": {
-    "ko": "과장과 불확실성 사이: 데이터 센터 에너지 붐 속에서 전문가들이 바라보는 소형모듈원자로(SMR)(SMR)에 대한 평가",
-    "engine": "mymemory"
+    "ko": "과대 기대와 불확실성 사이: 데이터센터 에너지 수요 급증 속 소형모듈원자로(SMR)에 대한 전문가 평가",
+    "engine": "claude-session"
   },
   "10.1016/j.pnucene.2026.106689": {
-    "ko": "RMC 및 Fluent를 사용한 고출력 밀도 PWR 어셈블리의 중성자 공학, 열유체 공학 및 연소도 결합 분석",
-    "engine": "mymemory"
+    "ko": "RMC와 Fluent를 이용한 고출력밀도 PWR 핵연료집합체의 중성자 해석, 열수력 및 연소도 연계 해석",
+    "engine": "claude-session"
   },
   "10.1016/j.pnucene.2026.106690": {
     "ko": "MOOSE 프레임워크 기반 히트파이프 원자로용 개방형 재생 브레이튼 사이클 동력변환계통 수치 연구",
@@ -3728,24 +3728,24 @@
     "engine": "claude-session"
   },
   "10.1016/j.pnucene.2026.106692": {
-    "ko": "칭화대학교 고속도(High Flux) 원자로의 하위채널 열유동 분석을 위한 텐서 기반 고성능 계산 프레임워크",
-    "engine": "mymemory"
+    "ko": "Tsinghua High Flux Reactor 부수로 열수력 해석을 위한 텐서 기반 고성능 계산 프레임워크",
+    "engine": "claude-session"
   },
   "10.1016/j.pnucene.2026.106693": {
-    "ko": "3×3 튜브 번들 외부의 응축에 의해 유도되는 수소를 함유한 다성분 가스의 이송 거동 및 성분 분리에 대한 CFD 평가",
-    "engine": "mymemory"
+    "ko": "3×3 관다발 외부 응축에 의해 유발되는 수소 함유 다성분 기체의 수송 거동 및 성분 분리에 대한 CFD 평가",
+    "engine": "claude-session"
   },
   "10.1016/j.pnucene.2026.106695": {
     "ko": "신형 타원 비틀림 나선관 관류형 증기발생기 개발 Part II: 단상 난류 유동",
     "engine": "claude-session"
   },
   "10.1016/j.pnucene.2026.106696": {
-    "ko": "사고 결과 평가 소프트웨어 개발 및 적용",
-    "engine": "mymemory"
+    "ko": "사고 결과 평가 소프트웨어의 개발 및 적용",
+    "engine": "claude-session"
   },
   "10.1016/j.pnucene.2026.106708": {
-    "ko": "대구경 파이프의 이상 유동에 대한 계면 구조 기반 유동 체제 식별",
-    "engine": "mymemory"
+    "ko": "대구경 배관 내 2상유동의 계면 구조 기반 유동양식 판별",
+    "engine": "claude-session"
   },
   "10.1016/s0029-5493(26)00436-x": {
     "ko": "편집위원회",
@@ -3781,7 +3781,7 @@
   },
   "10.1016/s0306-4549(26)00896-0": {
     "ko": "편집위원회",
-    "engine": "mymemory"
+    "engine": "claude-session"
   },
   "10.1016/s0920-3796(26)00500-4": {
     "ko": "편집위원회",
@@ -3816,8 +3816,8 @@
     "engine": "claude"
   },
   "10.1080/00295450.2026.2696218": {
-    "ko": "서문: 소수자라는 공통점을 가진 라이징 스타들이 원자력 분야에서 성별 균형을 이루기 위한 방법을 모색하다",
-    "engine": "mymemory"
+    "ko": "서문: 소수자라는 공통점을 지닌 신진 연구자들과 원자력 분야 성별 균형을 향한 길",
+    "engine": "claude-session"
   },
   "10.1080/00295450.2026.2697690": {
     "ko": "서문: 2024 Advances in Thermal Hydraulics Conference (ATH 2024) 의 논문이 수록된 특별호",
@@ -4080,8 +4080,8 @@
     "engine": "claude-session"
   },
   "10.1080/00295450.2026.2746155": {
-    "ko": "단일 스페이서 그리드 고장 조건 하에서 M310 및 신형 세그먼트형 핵연료봉의 유체 유동 유발 진동 특성",
-    "engine": "mymemory"
+    "ko": "단일 지지격자 파손 조건에서 M310 및 신형 분절형 핵연료봉의 유동유발진동 특성",
+    "engine": "claude-session"
   },
   "10.1080/00295450.2026.2746162": {
     "ko": "고충실도 수치모델 기반 원자력발전소 캐비닛 내진검증을 위한 주파수 적합 강도척도",
@@ -4104,16 +4104,16 @@
     "engine": "claude-session"
   },
   "10.1080/00295450.2026.2747521": {
-    "ko": "TREAT에서 클리핑된 반응도 삽입 사고 과도현상 시 핵등가장치 충실도 분석",
-    "engine": "mymemory"
+    "ko": "TREAT 클리핑 반응도 삽입 사고 과도에서 핵등가 장치 충실도 분석",
+    "engine": "claude-session"
   },
   "10.1080/00295450.2026.2748709": {
     "ko": "소형모듈원자로(SMR) 보급의 경제성 평가를 위한 톱니형 학습곡선",
     "engine": "claude-session"
   },
   "10.1080/00295450.2026.2749026": {
-    "ko": "미래에 대비한 원자력 공학 교육: 중요한 기술 격차를 해소하기 위한 AI, 디지털 시스템 및 첨단 기술의 통합",
-    "engine": "mymemory"
+    "ko": "미래 대비 원자력공학 교육: 핵심 역량 격차 해소를 위한 AI, 디지털 시스템 및 첨단 기술 통합",
+    "engine": "claude-session"
   },
   "10.1080/00295450.2026.2749027": {
     "ko": "방글라데시 Rooppur 원전 주변 Padma 강 퇴적물의 기저 방사능 및 관련 건강 위해도",
@@ -4144,16 +4144,16 @@
     "engine": "claude-session"
   },
   "10.1080/00295450.2026.2751368": {
-    "ko": "발전소 내부 누설 스팀 밸브 하류의 온도 분포 특성 및 CFD 시뮬레이션에 관한 연구",
-    "engine": "mymemory"
+    "ko": "발전소 내부 누설 증기 밸브 하류의 온도 분포 특성 및 CFD 모사 연구",
+    "engine": "claude-session"
   },
   "10.1080/00295450.2026.2753933": {
     "ko": "핵방사선 투과, 상안정성 및 나노구조 제어를 통한 첨단 원자력 응용용 희토류 산화물 강화 Ti-Zr-Hf-Gd 기반 고엔트로피 합금의 개발 및 실험적 특성 평가",
     "engine": "claude-session"
   },
   "10.1080/00295450.2026.2753936": {
-    "ko": "장수명 핵분열 생성물 변환을 위한 감속 블랭킷을 갖춘 용융염 고속로에 대한 타당성 조사",
-    "engine": "mymemory"
+    "ko": "장수명 핵분열생성물 핵변환을 위한 감속 블랭킷 장착 용융염 고속로의 타당성 연구",
+    "engine": "claude-session"
   },
   "10.1080/15361055.2026.2707641": {
     "ko": "Xcimer Athena 핵융합 시범 발전소의 연료 주기 설계 고려 사항",
@@ -4208,8 +4208,8 @@
     "engine": "claude-session"
   },
   "10.1080/15361055.2026.2758448": {
-    "ko": "전이 학습 기반의 저온 열전도도 예측 개선 및 ANN 기반의 헬륨 열물성 모델링",
-    "engine": "mymemory"
+    "ko": "전이학습 기반 노말수소 저온 열전도도 예측 개선 및 ANN 기반 헬륨 열물성 모델링",
+    "engine": "claude-session"
   },
   "10.1088/1361-6587/aeac84": {
     "ko": "제29회 MHD 안정성 제어 워크숍 에디토리얼",
@@ -4412,8 +4412,8 @@
     "engine": "claude-session"
   },
   "10.1088/1361-6587/aebd19": {
-    "ko": "EU DEMO 저 종횡비 다이버터에서의 중성 가스 수송에 대한 첫 번째 평가",
-    "engine": "mymemory"
+    "ko": "EU DEMO 저종횡비 디버터 내 중성기체 수송에 대한 최초 평가",
+    "engine": "claude-session"
   },
   "10.1088/1361-6587/aebd1a": {
     "ko": "양자 효과에 의한 2류 불안정성 억제: Wigner-Poisson 및 Nyquist 방법을 이용한 수치해석",
@@ -4440,16 +4440,16 @@
     "engine": "claude-session"
   },
   "10.1088/1361-6587/aec0cc": {
-    "ko": "물리 기반 신경망 솔버를 사용한 부분 이온화된 고온 고밀도 물질에서의 이온 정지(ion stopping)에 대한 비섭동(non-perturbative) 프레임워크",
-    "engine": "mymemory"
+    "ko": "물리정보 신경망 솔버를 이용한 부분 이온화 온난 고밀도 물질 내 이온 저지능의 비섭동 프레임워크",
+    "engine": "claude-session"
   },
   "10.1088/1361-6587/aec194": {
-    "ko": "1차원 플라즈마 수송 코드 개발 및 MPS-LD 선형 플라즈마 장치에의 적용",
-    "engine": "mymemory"
+    "ko": "1차원 플라즈마 수송 코드 개발 및 MPS-LD 선형 플라즈마 장치 적용",
+    "engine": "claude-session"
   },
   "10.1088/1361-6587/aec1fe": {
-    "ko": "에너지 가둠 시간 스케일링 법칙, 실험적 검증 및 수치 시뮬레이션 결과를 기반으로 한 스텔러레이터 플라즈마 시동 모델",
-    "engine": "mymemory"
+    "ko": "에너지 가둠시간 스케일링 법칙에 기반한 스텔러레이터 플라즈마 시동 모델, 실험적 검증 및 수치 모사 결과",
+    "engine": "claude-session"
   },
   "10.1088/1741-4326/aeb035": {
     "ko": "동양에서 ICRF에 의해 가열된 수소 고속 이온의 비등방성 분포 진화의 첫 번째 관찰",
@@ -4664,23 +4664,23 @@
     "engine": "claude-session"
   },
   "10.1088/1741-4326/aec02c": {
-    "ko": "플라즈마 대면 재료에서 보유된 연료 제거: 베이킹 방법 및 수소 동위원소 교환의 영향",
-    "engine": "mymemory"
+    "ko": "플라즈마 대향 재료의 잔류 연료 제거: 베이킹 방법 및 수소 동위원소 교환의 영향",
+    "engine": "claude-session"
   },
   "10.1088/1741-4326/aec02d": {
-    "ko": "ITPA TAE 벤치마크 사례에서 고에너지 입자가 유도하는 토로이달(toroidal) 알펜 고유모드(Alfven eigenmode)에 대한 자이로키네틱(gyrokinetic) 시뮬레이션의 선형 및 비선형 벤치마크",
-    "engine": "mymemory"
+    "ko": "ITPA TAE 벤치마크 사례에서 고에너지 입자 구동 토로이달 알펜 고유모드에 대한 자이로운동론적 모사의 선형 및 비선형 벤치마크",
+    "engine": "claude-session"
   },
   "10.1088/1741-4326/aec02e": {
-    "ko": "피시본(fishbone) 불안정성에 의해 유도되는 유동의 감쇠 및 축적 특성",
-    "engine": "mymemory"
+    "ko": "피시본 불안정성에 의해 구동되는 유동의 감쇠 및 축적 특성",
+    "engine": "claude-session"
   },
   "10.1088/1741-4326/aec02f": {
-    "ko": "EAST 플라즈마에서 고속 이온 재분포 및 이온 가열에 대한 ICRH 구동 베타 유도 알펜 고유모드(beta-induced Alfvén eigenmode)의 영향",
-    "engine": "mymemory"
+    "ko": "EAST 플라즈마에서 ICRH 구동 베타 유도 알펜 고유모드가 고속 이온 재분포와 이온 가열에 미치는 영향",
+    "engine": "claude-session"
   },
   "10.1088/1741-4326/aec0b5": {
-    "ko": "HL-3 토카막의 고온 이온 모드에 대한 드리프트파 난류의 통합 시뮬레이션 및 불안정성 분석",
-    "engine": "mymemory"
+    "ko": "HL-3 토카막 고온 이온 모드에서의 드리프트파 난류 통합 모사 및 불안정성 해석",
+    "engine": "claude-session"
   }
 }
