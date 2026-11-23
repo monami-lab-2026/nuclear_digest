@@ -1,27 +1,27 @@
 {
- "run_date": "2026-11-16",
- "started_at": "2026-11-16T12:03:59+09:00",
+ "run_date": "2026-11-23",
+ "started_at": "2026-11-23T12:58:42+09:00",
  "alio": "ok",
  "news": {
   "jobs-ko": {
    "ok": true,
-   "entries": 26,
-   "kept": 7
+   "entries": 20,
+   "kept": 4
   },
   "jobs-en": {
    "ok": true,
-   "entries": 9,
-   "kept": 9
+   "entries": 27,
+   "kept": 26
   }
  },
- "news_items": 16,
- "finished_at": "2026-11-16T12:04:37+09:00",
+ "news_items": 24,
+ "finished_at": "2026-11-23T12:59:28+09:00",
  "recent": {
   "pages": 10,
   "scanned": 1000,
-  "nuclear": 6
+  "nuclear": 9
  },
- "alio_date": "2026-11-16",
- "scanned": 515,
- "open": 2
+ "alio_date": "2026-11-23",
+ "scanned": 529,
+ "open": 5
 }

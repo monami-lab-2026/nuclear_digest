@@ -1,4 +1,109 @@
 {
+ "307240": {
+  "id": "307240",
+  "inst": "한국원자력안전기술원",
+  "group": "연구·안전·규제",
+  "title": "한국원자력안전기술원 2027년 상반기 정규직 직원 채용(보훈제한경쟁)",
+  "start": "2026-11-19",
+  "end": "2026-12-04",
+  "hire": [
+   "정규직"
+  ],
+  "kind": "신입",
+  "region": [
+   "대전"
+  ],
+  "count": 2,
+  "url": "https://job.alio.go.kr/recruitview.do?idx=307240",
+  "src": "https://kins.recruiter.co.kr",
+  "first_seen": "2026-11-23",
+  "last_seen": "2026-11-23",
+  "open": true
+ },
+ "307238": {
+  "id": "307238",
+  "inst": "한국원자력안전기술원",
+  "group": "연구·안전·규제",
+  "title": "한국원자력안전기술원 2027년 상반기 정규직 직원 채용",
+  "start": "2026-11-19",
+  "end": "2026-12-04",
+  "hire": [
+   "정규직"
+  ],
+  "kind": "신입",
+  "region": [
+   "대전"
+  ],
+  "count": 30,
+  "url": "https://job.alio.go.kr/recruitview.do?idx=307238",
+  "src": "https://kins.recruiter.co.kr",
+  "first_seen": "2026-11-23",
+  "last_seen": "2026-11-23",
+  "open": true
+ },
+ "307127": {
+  "id": "307127",
+  "inst": "동남권원자력의학원",
+  "group": "기타 관련",
+  "title": "[직원채용] 무기계약직 연구기술직(방사선융복합연구팀(하전입자)) 공개 채용(재공고)",
+  "start": "2026-11-18",
+  "end": "2026-11-27",
+  "hire": [
+   "무기계약직"
+  ],
+  "kind": "신입+경력",
+  "region": [
+   "부산"
+  ],
+  "count": 1,
+  "url": "https://job.alio.go.kr/recruitview.do?idx=307127",
+  "src": "https://diramsjob.recruiter.co.kr/career/home",
+  "first_seen": "2026-11-23",
+  "last_seen": "2026-11-23",
+  "open": true
+ },
+ "307126": {
+  "id": "307126",
+  "inst": "동남권원자력의학원",
+  "group": "기타 관련",
+  "title": "[직원채용] 무기계약직 연구기술직(방사선융복합연구팀(EPR)) 공개 채용(재공고)",
+  "start": "2026-11-18",
+  "end": "2026-11-27",
+  "hire": [
+   "무기계약직"
+  ],
+  "kind": "신입+경력",
+  "region": [
+   "부산"
+  ],
+  "count": 1,
+  "url": "https://job.alio.go.kr/recruitview.do?idx=307126",
+  "src": "https://diramsjob.recruiter.co.kr/career/home",
+  "first_seen": "2026-11-23",
+  "last_seen": "2026-11-23",
+  "open": true
+ },
+ "307123": {
+  "id": "307123",
+  "inst": "동남권원자력의학원",
+  "group": "기타 관련",
+  "title": "[직원채용] 동남권원자력의학원 박사후 연수연구원(첨단방사선AI융합연구팀) 공개 채용",
+  "start": "2026-07-28",
+  "end": "2026-11-27",
+  "hire": [
+   "비정규직"
+  ],
+  "kind": "신입+경력",
+  "region": [
+   "부산"
+  ],
+  "count": 1,
+  "url": "https://job.alio.go.kr/recruitview.do?idx=307123",
+  "src": "https://diramsjob.recruiter.co.kr/career/home",
+  "first_seen": "2026-11-23",
+  "last_seen": "2026-11-23",
+  "open": true
+ },
  "307043": {
   "id": "307043",
   "inst": "한전KPS(주)",
@@ -17,8 +122,8 @@
   "url": "https://job.alio.go.kr/recruitview.do?idx=307043",
   "src": "https://www.kps.co.kr",
   "first_seen": "2026-11-16",
-  "last_seen": "2026-11-16",
-  "open": true
+  "last_seen": "2026-11-23",
+  "open": false
  },
  "307018": {
   "id": "307018",
@@ -38,8 +143,8 @@
   "url": "https://job.alio.go.kr/recruitview.do?idx=307018",
   "src": "www.kps.co.kr",
   "first_seen": "2026-11-16",
-  "last_seen": "2026-11-16",
-  "open": true
+  "last_seen": "2026-11-23",
+  "open": false
  },
  "306922": {
   "id": "306922",
@@ -59,7 +164,7 @@
   "url": "https://job.alio.go.kr/recruitview.do?idx=306922",
   "src": "https://cnuh.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=270421",
   "first_seen": "2026-11-16",
-  "last_seen": "2026-11-16",
+  "last_seen": "2026-11-23",
   "open": false
  },
  "306418": {
@@ -101,7 +206,7 @@
   "url": "https://job.alio.go.kr/recruitview.do?idx=306417",
   "src": "https://diramsjob.recruiter.co.kr/career/home",
   "first_seen": "2026-11-02",
-  "last_seen": "2026-11-16",
+  "last_seen": "2026-11-23",
   "open": false
  },
  "306357": {
