@@ -1,0 +1,357 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T02:56:16+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주시 내년 예산 1조1200억…인공태양 180억",
+          "publisher": "국제뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rRHVMYy1uU013NEZ0dTh4b3pybTZ1QkJDamtUUnZSbFpIZnIyVkc1Unh0cGxWSm5FWDl6X1hIa0ZxRUs3dmRtdFlxZWtFX0xyS19xQTBtMXFKd29YdlU4OW5zQmlnMFhwNXZoRmZn?oc=5",
+          "published": "2026-11-23T05:29:26+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "나주시 내년 예산 1조 1200억원 편성 인공태양 에너지산단 본격 추진",
+          "publisher": "아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42RzdoZGltS21GQzg5b3JJMXRMTGZ2RmtxZGtYNnJlVUQxSnhHTzJ1Nm1RcU4xdENVSUFLSnROTWtqVGNaa3VlMnVYMHNnQ2IweUxhY1NmVURzQdIBWEFVX3lxTE5hUm5vanF1eHVQQVUtVU1wRWlMMGdobTdYVGxuZFVZVlM5MDIwb3dWeC00ZVNwQmFUUWFvZjVWTW5BWFowYm13VWJKWHZkS0s1Q3dtZ3RmR0o?oc=5",
+          "published": "2026-11-23T06:23:11+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "나주시 내년 예산 1조 1200억 편성…인공태양·민생경제에 재정 집중",
+          "publisher": "프레시안",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SVUR6N1pOU2JxeHRNQ3BQdUZtMzhLQ29SNXNlOUpXODZnaGVqeEREWE5mREt1VUZ3LTctTFpONlFLLVF0c3FQSGFja09RWVEtdlgwdnNnbC0zbFZUN3VMUTZWVlZ6Rjlmejk4?oc=5",
+          "published": "2026-11-23T06:38:52+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "나주시, 내년 예산 1조1200억원 편성 ... 인공태양·에너지산단 육성",
+          "publisher": "아이뉴스24",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE03OUp1WndrNnNvbjNnMkJYVTZqVUFqX2FYaFNMeFAzbmFSTGhhd2ptVXBNQjlxbUgtWmF1YnhQQWl1Q0hHY3RubXF4REc?oc=5",
+          "published": "2026-11-23T11:02:51+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 3.338,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주시, 새해 예산 1조1200억원…인공태양·민생복지 중점",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QUEw3R2FoTlhmUlVXc0E5b2VUWjlPdHV6cHB4VVJaZm54bzVGVUlKUmVBSDdIVGJVTjRkMnBZeFhtQnNHb2NKMDNiQnJ1MmVlOWpiZW5pZWQ2b2tuYTFfM9IBeEFVX3lxTE5qd0JhSlAtQ2t2ZndQaTJmSzROdmFtRmhBVDJmV09HZUs3ZzVxNXNXMS1LVm9MTUpudy1kVGJabTMwSzJmaFFoWlkwQkdhWFY0QnV0ZkJZVFdIUld3SlJsX2c0UGdLT2g4QWQ3WHo3YUppWmlfNldHRA?oc=5",
+          "published": "2026-11-23T05:18:46+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "나주시, 내년 예산 1조1200억원…인공태양·민생복지에 집중",
+          "publisher": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2ZDhhMm1RVDktWjdfcTRQRWVjUnFJZFZUVld0azJoazdYNERrdFo1UW00V19NWndyemlHY0p5ckN0OUN3NWZaOEZ3OXBkTVBpMHREOWJWblRZdzNxc0p5OHJ4VWo?oc=5",
+          "published": "2026-11-23T06:05:06+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "나주시, 내년 본예산 1조1200억 편성…인공태양·민생복지 집중",
+          "publisher": "글로벌경제신문",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94WUVkazZzcnFxZlYyUGliRHVKSnl6cHk2Nmt6M3NXenpFcXg5TXl0NUdOLVRsaFlYa0UtWnp3TmtlU0luYTJzaXZXV25tbHo4ZHdoTnFKbHB0ZlR2NU1PSDcxWWdhV1ZQRVk2edIBcEFVX3lxTE9Uc2pidGRsb2p4M1B2SldReGxuMElJbGFpSU5DMmpDLV9nbk5yZTRrckF1cll4WjQ2YWhjNVpsNUJ0UHNLTVVUTGdUcHlNYkd5QlhjenR5VFhJQlQyTXFuYk1SbEJDTTg0RU9iV0tSUWc?oc=5",
+          "published": "2026-11-23T07:30:48+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "나주시, 내년 예산 1조1200억원 편성…인공태양·민생 '투트랙'",
+          "publisher": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2bU9DWVVHRWxDanFscHU4RDlsQVB0OHoyU2RwZ05XMWI5S0t6ZVhJNWhxbFdBWG5DckhlMXM3V1haaDhlRGQwRXhRZU5TLWhaMDhBbEFiMjJ3Y3Ri?oc=5",
+          "published": "2026-11-23T08:07:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 3.216,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "High hopes for nuclear fusion",
+          "publisher": "The Times",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYjB3M3BFV2xTVElYSTNIZW9aS3hOUDZNZExiRnRmbUNqV1ltQnRVOW9SSWFzMTZ2cFRxTEUzMUg0cDdUdXJtZjAza3E0WTVVeFhLR0hGLXZ0b0RVOFZsaGJGNGpEc1RPblRiSi1tS2hTV1NkTmtYX2FrLVFQVjk5VzlWal91cWNJNk9DU2N2QVIxTGc?oc=5",
+          "published": "2026-11-24T00:01:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.878,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Draft roadmap urges Mass. hub for nuclear, fusion energy",
+          "publisher": "State House News Service",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZWI5ajRXTWFKV2E5SXJnY05KaU1JeXBOV2Foelh4TDg3Mm9uNjVoQjgxYTdEaDY0WmpWSE1BVnJkazRiTW1EWThMS1dzSXo3Qm91UVhYS0ktR1dHandhQW5aVWJSTHpCS25rRVdhZENWbDdpeXdmREw0UVdpam42OU1TNE9DUVhza3dSZTBfcjB1QVdtYTh6SlBEMUdhaWdReHh3SHNSQXhkM25Md2lQU1FhczRzOFNoVE1Xb0xKTzZsdFBja2xRRmozYlZ6SnE2NXY2ZEtWTVNoRFdxQThURjJYc0dTZjVFMGRLMllMS2s?oc=5",
+          "published": "2026-11-23T21:24:01+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.769,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Nuclear fusion reactors could move into space: Why humans might need them",
+          "publisher": "RBC-Ukraine",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRXBvRlQzaWJYLWhVRTBaV3M4OF9tdXRQQzBDbkNYZEtheGVMbkdFZW1zcDlZZ19rdUktQ2N1RFVQNllieWV5MUlKQkh0cVAwc3doSTFqcDlEeEF3RFo1MVRpQjBodFZVczgtb0wxZXJOZnlVMzE5ZHFLeXg2SmtYdVVfV1MzdEJxWTJqYWxJWXFXMDhlT0dEYg?oc=5",
+          "published": "2026-11-23T20:35:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.735,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Type One Energy, University of Tennessee, Knoxville, Selected for First IRIS Grant",
+          "publisher": "Tennessee Department of Economic and Community Development",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUGhqb1c3ejdRd2hsTzFrUFMzRk13UWxVbzFDMUNGbkd3Y1o0cFgxWHpXQ08wdXRrNHpuRzBTTGVCSzFBejdTcnotb1FIdkc5Uk1OdDk5ZnpYMkkzN25DZmlNOHVtN2Y3MHcyem0yMm40MVhua19sRmhjbTNuQkFfd3cyZ0FKbmlGeWtSaGFxdHlFX2R4cTRxSnBkTTZidVZyMGpiNEJB?oc=5",
+          "published": "2026-11-23T20:30:22+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.732,
+      "id": 5
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "일본 헬리컬퓨전, 핵융합 실증에 최대 192억엔 확보",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1yQmk0b3ZuOTNNVHl3My0wR0N4ejczc0ZpWHBEZGIyaV9aZHBvUkNzNlRjQXlHbXk5cWtjZVROTDR2a0xISV9BODRGTEp5dzlhb3MxVzdKbFU5OW9kNnZYU0JWcFc?oc=5",
+          "published": "2026-11-23T20:19:59+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.725,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Swiss Researchers Unveil Theory to Predict Plasma Heating Power in Fusion Reactors",
+          "publisher": "Inkorr",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLXM1ME9rQjd4NEVSWjRuNllYVXk0b2JNYUZtZ3FRaHl1ajhPcnNRTGh1aU9nakRJZ0xIWC1mNnRpNHVXcVU2VUYtalQzTXBKS1dtdjVFcjZjWGNsNnJhWkx5MWNMOEd3TWItSmw3NG1OclJKRFBBT2FKRHJCWmJnSFNISndnY1lxeHBDRVdKZ29Ob3pOc2kzSk1RRzFrT1JaVlZIRDRVZGh3RVRIYXlEUm9PWlVSZkN0MTNleERIVEZOUXBfXzFBV1ppa29KRzNh0gHQAUFVX3lxTFAtczUwT2tCN3g0RVJaNG42WVhVeTRvYk1hRm1ncVFoeXVqOE9yc1FMaHVpT2dqRElnTEhYLWY2dGk0dVdxVTZVRi1qVDNNcEpLV212NUVyNmNYY2w2cmFaTHkxY0w4R3dNYi1KbDc0bU5yUkpEUEFPYUpEckJaYmdIU0hKd2djWXF4cENFV0pnb05vek5zaTNKTVFHMWtPUlpWVkhENFVkaHdFVEhheURSb09aVVJmQ3QxM2V4REhURk5RcF9fMUFXWmlrb0pHM2E?oc=5",
+          "published": "2026-11-23T15:20:41+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.517,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Helical Gets $120 Million Grant For Japanese Nuclear Fusion Programme",
+          "publisher": "NucNet",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNWlNSkpoU3pYb3FiZ3hrcWc0WUJLNktSSldma3hNYXlTdTFsRkFqMmh0ang4Z1NNWDE1cVhjeU43VnByRnNrbGxyXzZUTUVNVmo1VXFBSmpTM0Y4NE5MM3RDcHFDZWluVlFXYVU3Y091aVlEaDVVY3lsU1JMb210QjF6YXJyeFhsMnBTbTdQTk5iUDN5MHNTVWcwaGxLVVEyQnpOcEI4Q2l5Ti1SZkE?oc=5",
+          "published": "2026-11-23T12:53:39+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.415,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Pacific Fusion Gets Key Licence For $1 Billion New Mexico Demonstration Facility",
+          "publisher": "NucNet",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYzU5XzByb3VJS29FS0p1VS10cE1yamxYdXhSWS1jd2NMb0ZxS1NNS082R1BWcHhib0NKNXBkTXF6bWlweEVRZjZudDlYaDlpZXV2T0lHOUtuNW8yb3ZQd19HeHlJVHJUSk5tdVhkdkVqUWc1NE9Ybm9YckJBVURKSk5JcVM3UnBsUzFrTktBUGJscnpuaXdPZlJGVzZEOUZISEN1ZlJBanNldElueDhCS1lWcS1ma0Iwem5CeQ?oc=5",
+          "published": "2026-11-23T10:33:39+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.318,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Nuclear Fusion Explained: How Stars, Lasers and H-Bombs Work",
+          "publisher": "MiGFlug",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSndKMUtzdjBmVFdDT0Z3VUsxSl81M282UDNWcGlkUVNWcjBfbkszQ0ZlZzRLNEhvaGlKWE14b0xybTl4TVowUU4xY1IxcjF6ZTJkTDg3d0h0X1JiVF9RY0JxRVhhNkVzRlNTMjd5MmFpaHpEV3N2QjFidTNxbjZ0LThHYS1SQ0RhdXJCYTJfd05rMms3RTlSS2djTTFPSlFXQ3M3RlM4TnU5WkZseVhF?oc=5",
+          "published": "2026-11-23T10:26:29+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.313,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Spotify’s Daniel Ek Backs Europa Fusion, an AI Researcher’s Simulation-Led Bid for Fusion Power",
+          "publisher": "AI Insider",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeWYzb2w1OUh6XzhoNk9iVGpDODN3MG9rQzhQdjd0eFIwa0xYQzJteU5XZFBwMUlvSEd4TW9hVHY3YkNud2JITUJXcFI5Q2VicWtYLUNqV1hqZXdOcHZJamVHM2dwNXRISm1IdEplOXFteExjNlVENkdSaTY1dlVneFlCaS1NOUpPT0p2SGxFd2h0ZlBFdjZYa3JtTkdfYlRuRlNUa2lWczZXNV85UWNnOURrZ2lnTzF2LS1CdU5KajhJRFlqWDhDYlp3?oc=5",
+          "published": "2026-11-23T08:11:54+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.219,
+      "id": 11
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주시, 내년 예산안 1조1200억원 편성...인공태양·70세 무상버스 추진",
+          "publisher": "디스커버리뉴스(DISCOVERYNEWS)",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xa1ZuYUl5bkV4WDkxcnB5clRkT2k2VzAwUjNVemM2WXBObjFaUUlWYTV0R3FLMkJlYjY1TUp2XzZYRGZMRjJHa2lQUE1IZFlidElSWGNtOVZFVmFQdHRtblZMQTJpSkU1bDdHS3NMTVdNQQ?oc=5",
+          "published": "2026-11-23T07:45:27+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.201,
+      "id": 12
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "건전재정 속 과감한 투자…나주, 인공태양 품고 에너지특별시로 뛴다",
+          "publisher": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FazZfQlRsZ2htQXRBaWZBajNibmg2azd4WU54aGlwT0psMFdLZ25Ubks1b0kyQjJUN18tQk9rXy1zS3VielNwd2RiYnVKTmxvSlHSAVNBVV95cUxNTU5OSWRMOS10ZEx3b3kxOGZtQmFBNnNkRVZGaEpINDEtaHQyWlJhQTctaERRVmFmRkRBcmt2a0VQNHpZVVF0TGY0N3Y3UHlTN3lvVQ?oc=5",
+          "published": "2026-11-23T07:34:05+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.193,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Naju Budgets 1.12 Trillion Won for 2027, Betting on Fusion Energy",
+          "publisher": "Seoul Economic Daily",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRTlxMnI5dllJTlVMamQtUXh3ZTFiOENZVzltb01aSGRwdGcySUowVlhudjB2QmVZNXQyS19kUEJSTmR2ZG8tQ3pCejFnWGZMZUgzZ2h4c01hdlJMdnl1X0Jmb1FBRXh5aEdfTlZjZEdPb05samRMT3pfUGRpWFExcEZPRVJTQWFHT1ZKNzFweHFYVUczMjFCVmtCTU1BSnc?oc=5",
+          "published": "2026-11-23T07:34:05+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.193,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Pacific Fusion secures tritium licence for its Albuquerque campus",
+          "publisher": "energynews.pro",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUUVMS2ZiNk9veHZ5WFR1bUJCZTJZTXhTY0MwdmJEN1EtLVVSSE1sV1FGMm14Wkh2clBOOWdSR1VjU0ZnZng2aW4wS2NlR1Q5dHFSTi1XaHpoaTlfQ0VMUEZjVU9qWUdhTlgwNU1JaXZxbXlSVkhVc1ZONXJHZWhYUE9aQ1ZWYkJ4UFY1OExyM29ObERvdEE?oc=5",
+          "published": "2026-11-23T07:18:35+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.182,
+      "id": 15
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주시, 내년 예산안 1조1천200억원…인공태양 인프라 구축 집중",
+          "publisher": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nYXFad2ZOS1Y4VDdySmFtdGJXdVZXbUZnMjE5U0QtdHpRNmNoaWRmcjNyLWxkckVlQjNKUm9ZLUd6bGxUa1VLdXRaNHFGbGFoRk9pUVRpSlBXSWlxZmNpX0pmcHlhcUJm?oc=5",
+          "published": "2026-11-23T06:35:41+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.152,
+      "id": 16
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주시, 내년 예산안 1조1200억 원 시의회 제출…인공태양·에너지산단에 투자",
+          "publisher": "폴리뉴스 Polinews",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VYzltM19xaGNNMXRKbzFVSEk1eHZaM1pEcEllWEhPQ1NnUEVYcDRqQTJ3Z1E5LUcxQ0ZnVmlqdmlGZ0hyNHkzMGotNG9WMlF4cHpHWUtyOU9HSjFBNG92d2RNOW9VTW5KeVVMVHFR?oc=5",
+          "published": "2026-11-23T06:04:59+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.131,
+      "id": 17
+    }
+  ],
+  "feeds": {
+    "gnews-ko-fusion": {
+      "ok": true,
+      "entries": 14,
+      "kept": 13
+    },
+    "gnews-en-fusion": {
+      "ok": true,
+      "entries": 24,
+      "kept": 11
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    }
+  }
+}
