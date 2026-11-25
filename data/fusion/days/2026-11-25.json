@@ -1,0 +1,392 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T00:50:21+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "핵융합에너지硏, AI 활용 핵융합로 설계운전 기술 혁신 공유",
+          "publisher": "인사이트에너지뉴스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fUkx2U0VUdXdkeU5YUkkxUG1McEc3U25FSWhuWEZzaVFBVlQxLVN1UGV4RWVVMkxmZVZQcHF0bFY2aHB4VnkzOFhNRHg4WERuRjhfc0VLWEFUaTJjUlRSYS00N21HQ1NLRDhR0gFrQVVfeXFMT19STHZTRVR1d2R5TlhSSTFQbUxwRzdTbkVJaG5YRnNpUUFWVDEtU3VQZXhFZVUyTGZlVlBwcXRsVjZocHhWeTM4WE1EeDhYRG5GOF9zRUtYQVRpMmNSVFJhLTQ3bUdDU0tEOFE?oc=5",
+          "published": "2026-11-24T02:06:50+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "핵융합에너지연구원, 핵융합로 설계운전 기술 혁신 ‘앞장’",
+          "publisher": "에너지플랫폼뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NZU5uUC1vdmFvUWlhb1lnMDA3VjRVWExaWDNlNU82Q0FYaGEzN1d3OXljUzRSTjQxSEcxNi1xV2ZPaEhFcFE3T3RTcXQ0aHZsdUJVZlEzd0tqNXhaRmoxVU9LSHhVaE5KcjlFcUZn0gFwQVVfeXFMTUVqMlA4ckQ4NFhuVkdfNExLS0diV2p0OW5VUWRSam13ODYzT3g3dkFBTmg4d3FEZEhzTTZwMXprSS1hVi1fa1E1OGQ4WTkwYzNSV1hKZkNvS3R1U1JEUEtZSllycVZ3RDJrSkRMT0FveA?oc=5",
+          "published": "2026-11-24T07:31:52+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 1.279,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "미국 제네시스 미션 1년…AI·양자컴퓨터로 핵융합 난제 돌파",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uZFYzUFpaOWF0Rnl6VDlhaFlaVFJCalpzWUswOXFVQUl4cXZOTmctMEhEUDdMY01JVFlid2lfVHhiVjlZOW9ITVFHQ1JiYUFqcnlvUWk5Mk9XYkxDTHlpbERaVms?oc=5",
+          "published": "2026-11-24T21:32:54+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.863,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "AI로 가상 핵융합로 구현 “K-혁신핵융합로 개발 앞당긴다”",
+          "publisher": "인사이트N파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtNnRoSUdNQ2VDM3RyRUc1MnowN01pMXFoaGZnVjhpbTlLYXNNTGZacTlCWFItM2Q1eTFQazBoc3RSUWxYeDFwWXk0a2ljb1lvbzRnSG9KeExyYXJ6ZU1PRmR3MmhQZw?oc=5",
+          "published": "2026-11-24T18:21:49+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.73,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "US nuclear fusion firm gets New Mexico’s green light to use tritium for net facility gain",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd3p3ZnR6SjNpbFNhTHFFTThQNHZLWWZ3d2luOVBvcTFBdGNYaUxhdGt6WjIwY3NwUFhMZi1sRG5OdzJOR05sb00yQzAzUWVyZGJkWlZSTWNvb2hIYUkzSmF5YjZlTWdJTEZhZ09RRVhnUEpGeVFCLWstU040cVdHQ1BIRWtKb3hPNE1ReE40NA?oc=5",
+          "published": "2026-11-24T15:08:25+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.596,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "AI로 핵융합로 설계·운전 최적화...‘가상 핵융합로’ 개발 박차",
+          "publisher": "에너지신문",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lTEFSVG9RRktZWVByWW9nRlRnQU1RX1dOSTBLSWpTMG00eDB6SkZBOW5nbnNNUDNMdzRiNW1ra3E2ZVBtUjQ0VkdKaXpadkdBVUtlX3N2T2JBSUE0ZDZ4R3k3MnQxWlMwNVVNVmh3RVVRQQ?oc=5",
+          "published": "2026-11-24T13:42:44+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.536,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "World’s largest active tokamak targets vacuum 100 billion times lower than air",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUG9Kb3FJc0RxeWd0VnhwcWdRRkd5N3NXNFNlLVZVX0tYX2pfRDkzVVNOdzZxSFNqWW85RjBsT2pOSWpFb1o1dWdyZ29hRDN2OWNYMWZOb1pGWlRwLW9jNFRLLURzTGt4MnhZcU95a0VXcWN4NUZqOU5ZU2J5dnhXMVQxV0pIdkF6emtUR0x0SXo0Umd2cThnUnpZVQ?oc=5",
+          "published": "2026-11-24T10:47:28+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.415,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "ITER Reaches 212 Level 1 Milestones Against a Target of 202",
+          "publisher": "energynews.pro",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNHNXR0xVR0YwcU0tMk5PSm1qekFQNGZNV044TGx2dFNjV3NhSzNlODdrblhZRE0zR0c0SDd2S0tVaVJUWHhlQ2pmbEw1dk9mTFpwd1pMaGN6S0YwSml6UVpHMDQwZGFlcEtTdXZlaHBnZjhzX3BqYzlHZHpUM0ZWNDNWbWdDRTd6MndPT2dn?oc=5",
+          "published": "2026-11-24T08:03:30+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.301,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Patents Rise For Tritium Production As Fusion Energy Developers Boost Reactor Designs",
+          "publisher": "NucNet",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOG4wM1hxWlhCWHNkUWJpaHdxR2xEdUFwUHg2MWYzUXpNdjdJQmM1ZnhXcHlEZmhLVVBOeGpWSGpKTTZoOWtRRXRXSG1RNVQ3ODNhbEQ3U0dqWDlURE1mWkdaZVdPbUQ3d0tSQkFyMmtYZG1BX1NUV0lDSTVtSUxYNWhYZWJGS3VmU2h5NWhWcmhEbGhoMnl2MzREa2NmVE1vTnNPazVXVlRWdUIyYTE5bUdQY2hOa0JGVmV5ekNRZ2M?oc=5",
+          "published": "2026-11-24T07:44:18+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.287,
+      "id": 7
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주시, 새해 예산 1조 1200억…인공태양·민생 중점",
+          "publisher": "광주타임즈",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqTjN3MzJsU2RPMnJWMDhfT3VWZTJLMVBwQXh3Q3UwejNDRkpWNElhRmtjQV9xa1VMWGFrTXkxeTRKQnhlUmw0c1ZYUC1BeFAzU3lBVGRmWWZxUmpzbTFMX01WLWQ1TG56dVE?oc=5",
+          "published": "2026-11-24T07:36:30+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.282,
+      "id": 8
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "핵융합연, \"컴퓨터 속 ‘가상 KSTAR’로 핵융합 설계 앞당긴다\"",
+          "publisher": "브레이크뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5xM3F4bWlYSFNoazZ0bDUzOUw4YW1LRHNhQXFTY2VRZWlfU1RGd2dDT2JDcF9ndU5Cb2d4LWlJVlV1QQ?oc=5",
+          "published": "2026-11-24T07:25:38+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.275,
+      "id": 9
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "핵융합로 개념 자동화 설계위한 AI플랫폼 구축 '정상궤도'",
+          "publisher": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mTUo0ckFZNWNldTZTSVVPclR5MDRTSmlEeExWRndjbzVOLTB3RnRmWm50TTdUTkxlMlpyTlhQaU1qQWViUG5nOEFRaDVsWU95RjFQcjB3?oc=5",
+          "published": "2026-11-24T07:25:19+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.274,
+      "id": 10
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "구글, 양자컴퓨팅 효율 높였다…핵융합 연산 비용 12분의 1로",
+          "publisher": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WX3YxRjlTWlpJT3VvRWFnaE80TWZ2dE9HYV9wbDhPTmdKYl9HSXJFU09VX1NhQkhMeWNLeHc1NzItcllWWlRPdm00cnIwYmJuQ0pFWkhn?oc=5",
+          "published": "2026-11-24T07:21:34+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.272,
+      "id": 11
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "핵융합연, 컴퓨터 속에 핵융합로 짓는다",
+          "publisher": "금강일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VV2ZmbGNMc05NQnpyUmJNS25vdnllNkhiNVhtSVN5VVl0S2FRdURzQnpVZDhMT202UDV6ODZjNy1pUXZPQ0R4Q1NhQUh3cWpZWnhWY0NfdXVsSU9aVF9zQ0d4Y0F0bGR1aHc?oc=5",
+          "published": "2026-11-24T06:58:54+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.256,
+      "id": 12
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "기획 | 2027 나주시 예산안 들여다보기 ①나주시 내년 예산안 1조 1200억 원…인공태양·무상버스에 방점",
+          "publisher": "세계중심나주뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5feDJTTFMwX1QwN1Z2UEcwQXA3YXB6TjY4LUdSUDNUWlFkbFpLSkFVb05hZUVjeWVaN2VVYWduWUx1YWhMODB1TXU0QTZqdFBzWEZOS0JQSGlPQlBnaEkyOVNsT0NfWDNtSnc?oc=5",
+          "published": "2026-11-24T06:33:07+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.238,
+      "id": 13
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "컴퓨터 속 핵융합로 만든다…AI로 설계·운전 최적화",
+          "publisher": "굿모닝충청",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5obllRd19scGNqd3haWFJTN1ZnR3BmZzd0OUtycHhLdUtpNHI5elpoODZNZGZPU3Atd3dmbjl1blE5UDFIV3p2TzZIV0ZQX081Y3NzWmJlSHd1ZWVYdzdEM3FrUkxvcjF2enRDY1JBdVJjdw?oc=5",
+          "published": "2026-11-24T06:04:26+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.218,
+      "id": 14
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한국핵융합에너지연구원, ‘AI 가상 핵융합로’ 개발 속도… 설계·운전 혁신 나선다",
+          "publisher": "테크데일리",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JTWd3NzdqY0NYcE92YWhOMEN4U2FlVi0yTEhYS2FUV2lsa2YyQ3VoMWZSdkJOaUw0c01McEhZVjJSRXh1eEREejl1X2JIX3Mxak1OYmFPdlFEbEpIZjZmczFzTnF1OEJXSFRVdGx30gFyQVVfeXFMTnkzZkxLQmczY19KQ0IzTEpVTlRxRU44ZG4wT2taRlhzV3NsY1paVzN4cG1UZGZ3S3VhbU1QYmFweEtJQ21JR0J2amtKX2lSNFhLREg2VGhVc3ZwMlZlMks4bnhpMlRoLUFnLVI5S1pLUFJn?oc=5",
+          "published": "2026-11-24T05:42:28+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.203,
+      "id": 15
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "“AI로 설계하고, 운전까지”…디지털 가상 핵융합로 만든다",
+          "publisher": "www.dt.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RMDQ3YzRoM0lvLXZKem5US3BOQllzZFdQMmNQRXJwLWtBZ0RuanBQbHowNjB6bFF5bHJGNWlJYXhUNzBxZmNtYUJ1aXVnZw?oc=5",
+          "published": "2026-11-24T05:25:13+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.191,
+      "id": 16
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "AI 에이전트가 양자 알고리즘 최적화한다…구글 딥마인드, 핵융합 연산 비용 11.8분의 1로 줄여",
+          "publisher": "인공지능신문",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tQnMtZjFSYlVybHNRbEZheVNCejlwV3YxaFlBUGlwaHVSblBmaWtlVmt0ZnRmclZMcEdTeWQyUll2ZFF4bDFwT0RGeHlONE1qU0UtMng1aUliZWVFNmpXOUZDdTV6TGc?oc=5",
+          "published": "2026-11-24T05:07:39+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.179,
+      "id": 17
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "AI로 핵융합로 미리 설계·실험…핵융합연, 가상 플랫폼 개발",
+          "publisher": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQUWU0djZCUUFQeDRsalBCUlVsRko1NGt1QTJGLUxFYjRfMGYwTVY2dFRLMmZMWkcwM3h3QXJFWkFsdlZZLXF2MjJxRUNhVFJBMXRYbkx2dGc5UmN5TDdlOHZHMHJfNXZoU19yMkxmS2M0RjBtU3lLU0ZXS2JxRG5MWlJnY3JRZ204V3Q2NVgwMnA1VFJyN2hVRXJMUGI0UXR5STg5YjVkcTdHbjMxSlhrTWJ5UUZITjJYc2FNWEowNFBNdHU4U1Zyc24wVmNESTdLX2l1R3NDbFVaR1dUV3hZWWxwaGYtV3FiR19uWThRTUFsMk5QdHpvWWdjQUkzUVp4ZFhiTmNENU1qa3JDYzFOTUhJc3oxU0dp?oc=5",
+          "published": "2026-11-24T04:54:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.169,
+      "id": 18
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "AI로 가상 핵융합로 구현···설계·운전 기술 개발 속도 높인다",
+          "publisher": "이뉴스투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJc0FyZGhGb0ZHd3puQkZFenVnUWFBNDlwRVlzRXFaXzF6d0JTTG1kbjNqZlE5azIyblZ1aVJOQkJIcVQwM0ktMlBXTGpSRFhCc184bk9RaVRjc1Q5S2E1bEVRRlFpd0J1anpJWS1La3o?oc=5",
+          "published": "2026-11-24T04:44:02+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.162,
+      "id": 19
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Yorkshire nuclear fusion site could get £5m for robots and super-lasers",
+          "publisher": "Yorkshire Live",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRFhPRU5ZVURTbXhQaVdtck5oZXlCTXNiR2lwdHVEZDBLTnY0MVllZ2VwMUtEa0RUekluXzBacng2emhxVEZDUnh1cEhVYVNyVExKVlJKRU54dzFDaVJRUG9EbElNNU1JdzhwOXplMkFKZ05Nc2N1eHdsaWN5X2RCY2c3OUdTT0FYcEUzQ2pTTXR6WTVzQlHSAZsBQVVfeXFMUDM0VlZIeDdmdm1VU3V0VE4yUllIZURpS0RWd0E5c2RoYmlOVEpRakNmM3Flb3ZkSm45S1dQQ1RObnJ3a01jcGdyUlNvSWlRNXZmUE4zU1VPYlZuSlFSV3lHaFM4OGxWa3hISHlvbTdBek5idDVlS0ptNUNHN08zYXUxZjY0XzhCRy02QWpkQTRkMGJTc2NWVFFpZkk?oc=5",
+          "published": "2026-11-24T04:00:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.132,
+      "id": 20
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "핵융합硏, AI로 가상 핵융합로 만든다",
+          "publisher": "헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tWFJmcUlIV2YtSlVpcEZ5N1hsMDVHaUhONWFLTFBMeUl6NUpqbk56ZkxrQkg5bTViSk1vN1lxWTlPMmVpamMyRU5vcHZnT2FZN3V4QllB?oc=5",
+          "published": "2026-11-24T03:44:02+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.121,
+      "id": 21
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "나주시 내년 예산 1조1200억원 편성…인공태양·산단 조성에 재원 투입",
+          "publisher": "베타뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yQ0JaLTJiUUlFbEhVenJHM2JTdFpGWFhRaUJQQndSZWZWQ056azZEZlpDMUdmNkZsd0t0YnZWWVBHTDdoSUtIRFJwM05sUko2bUZKelpwNlgwcS1GRVh1eGt0d0I?oc=5",
+          "published": "2026-11-24T03:25:22+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.108,
+      "id": 22
+    }
+  ],
+  "feeds": {
+    "gnews-ko-fusion": {
+      "ok": true,
+      "entries": 22,
+      "kept": 19
+    },
+    "gnews-en-fusion": {
+      "ok": true,
+      "entries": 22,
+      "kept": 5
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 51,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    }
+  }
+}

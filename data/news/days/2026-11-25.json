@@ -1,0 +1,819 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T00:50:19+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한전KDN, 한수원-네이버클라우드와 ‘한수원 AI 대전환(AX)` 업무협약 체결",
+          "publisher": "이코노믹포스트",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5TdW91R3hZRGZfU0Vmb1RMMTNyUjFFX3BudjdCdm1fcG14S3ZfOWltalpTaExzS1VFMkRJd2FrX0cyOFJtT1JNNUxpWFY?oc=5",
+          "published": "2026-11-24T05:08:57+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한전KDN, 한수원·네이버클라우드 맞손... '원전 AI 대전환'",
+          "publisher": "뉴스워커",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yWUNlZnlRNTd3ZEwzTHE2TWxEdmJTLVZkU3N1MEZ2ZnBoVFl0UFFfQnFwQUxZd3VZNFRVN2Q2eUR0UlFTclVGWFBiOWNVeEg5ZEJQZ1hGWFJoNkVZNHYxTkZVNzZ1Qmc1dzMzUmJFOEnSAXRBVV95cUxQUHB6TDFQX1ZSMk9MR2g0Y3ZpbEdQbzZHTVgzMUJxMXBtbmlYUHZlUW9OZ1hVVkZHbGIwQUhNODE4cG1lV2RuUm50SlRjaTN5Ujdocy1PZlJ6UWtTUFRpdHRYRU83bkdTaGtPcGczT2pFQjhwNQ?oc=5",
+          "published": "2026-11-24T06:21:54+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한전KDN·한수원·네이버클라우드, 원전 업무 AI 전환 협력",
+          "publisher": "팍스경제TV",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzbEs4di1OUVZVMDhzTnhDUmhKM2hiTDVlQ3VNTDJMQUtYYkx2ZURsTFdLZnFRcTRYUGhldVpNbEdIR0JlcGlacTBSWGVwa0ExYzhlSGtRUnYtdlQ4VEV6UWI2dWp1OThL?oc=5",
+          "published": "2026-11-24T06:31:41+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "[AI로 여는 원전혁신]한전KDN·한수원·네이버클라우드, 원전 AI 전환 맞손",
+          "publisher": "전국뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SNzJhU0ZqQjNSN2ota3BuVTBQcmpfUkFCZHZsX0lRVHVKRGd4bFFSaW5LSjhITmFlU3ExNEFVQWZEdHlTR08xYTl2S2VNZ3VpSXA5NzJzV3ppWFJJcFAyNkxlQ0J0WkJDclBIbzBFWnc?oc=5",
+          "published": "2026-11-24T06:54:31+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한전KDN·한수원·네이버클라우드, 원전 AI 대전환 위해 손잡았다",
+          "publisher": "더파워",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96WlRiV005b2tlLXlVUU9HRkdiT1Vqc0VuV0MtWGNweWs2bkR5ejQ0eHVBUWJjdmxUZnoyRlBTVkQzTW5SSE1ESVJQMDBZYVJRZEQ2T00ya0pZMkdtYXZUVEtjQUdiSFVJd2pwSWJidS00ek1qRnZjeVQ1a1VGQQ?oc=5",
+          "published": "2026-11-24T08:00:28+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한전KDN·한수원·네이버클라우드, '원전 AI 전환(AX) 체계' 구축",
+          "publisher": "컨슈머타임스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EVzRSTTVmYU1PR2dqQ3NMUXh3QnFNWG01U0xKWE1DVDdRTzkxTFVMc2FYclhwU1VEQ1FTcG9Nc1Uyay1VMFBhTTd1dk5tUDJTU3JLRkE2UGdzWElYa2pFbHBiOVlCeExDV1E?oc=5",
+          "published": "2026-11-24T17:33:16+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한전KDN·한수원·네이버클라우드, '한수원 AI 대전환(AX)' 맞손",
+          "publisher": "브레이크뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1DTXFlY3VWbnBwUHN0aTFjRDI5dzdiSUxRNVdUeWl3c0NvSWVPTzg4OTFTTmxvY3RqdENwcGEwQ1BBdw?oc=5",
+          "published": "2026-11-24T18:26:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한전KDN, 한수원·네이버클라우드와 인공지능 전환 업무협약",
+          "publisher": "일간투데이",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sYVZzSk9yOTdQaDJYRm42ZmJLSTZLVzZrMU1iWHZKNzVVamYwZjJYODEya1B1QktyRUZuQzRRNzJjZDlITzJPNU5NT2dQRUZJdk1DOEtDbXQyU1BKb2VpZllmblk0SUF1SWVz?oc=5",
+          "published": "2026-11-25T00:35:33+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.99,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 한전KDN·네이버클라우드와 AI 기술협력 강화",
+          "publisher": "한스경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fSGtQVk0tQjZpR1ZKbURzcTlUUkhFUzBTWjhOUFJMRm1TclU0MXpPZno5TDR4LUxxamNBNzE0dzM0NWZwUloxZ09UZGdhN1VjTUphZzVFaEtGR0hqd3VPbVg5TUZ5dko2UDJRUtIBb0FVX3lxTE9tQk9DOF9FMk9OMGdWWGpwWXlHWHl0Rnl3eHBzTW80SE1qbU5TZ21jS3BtSGNPQS1TMHdQZW0zT0pnUUxqd08yd01MZkxvekNsdEM1MDE3Vmh5SEFjaXZxTjJWOUpiOFNkVWdRdGxMOA?oc=5",
+          "published": "2026-11-24T04:44:53+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력, 한전KDN·네이버클라우드와 AI 기술협력 강화",
+          "publisher": "더트래커",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5STFmblVxakFxN1lrRTliVFkzVzIxWnRudGRhdEIxZlpKbGc5Ql9aLUxCeWxWYkM0MjNPMHY2c2t1TURvMlpnRWpXZjVRbVE0S1JUckNsM0M?oc=5",
+          "published": "2026-11-24T05:12:41+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한전KDN, 한수원 AI 전환 지원…네이버클라우드와 협력",
+          "publisher": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNR3U2dWdnakFDMkxudGZiYlhhZWRhZUk4VjhpbVdOaFhSRmZjb1lhRXZrYUpXeU5vVFJhUDlUOW9DRjM1SVpWSlR0MU5VLVZrSURLbmRHQjdGaFNaRmZIN2NsTVVPOUxsNS1tRXBtXzRrbC1pOG00R0ZSckZxOHFWeEV3WG1wc1RlalA4aWVIMzVpMG1UbjI5ZUgyS2dUVWhjODBHczZrZThFLWdBTTlLSmJHN0g1YmZwU0hMQkZSMFhwX2oyWHBxU05oM3NZNi1YdVJ5OXA5R0puMTY1UmFwU2VSaGZkcjJDUGw5a2NR?oc=5",
+          "published": "2026-11-24T05:13:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "원전 운영에도 AI 도입...한수원·한전KDN·네이버클라우드와 AI 기술협력",
+          "publisher": "산경e뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sMG1aVjhpUzl5ZEp1c1J1QXl4UkJxMGF0TElmNDBFcjZiMFV6QUIzNFc1enFsNXBMNy1VUVhhR1U2R3U4cTdHWWVIcDVpZ291c1F1WlE3TE51VngwUWVnMHdTSUxNSEE?oc=5",
+          "published": "2026-11-24T06:08:26+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 한전KDN·네이버클라우드와 협력 생성형 AI 업무 적용 확대",
+          "publisher": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxMXZmSTR3bUxoNG5fUkNvVVE0SlM3NU5ZWlc2SkdlYTFWdTBYTU1Dc2F5MkxIVElNU1pXcWRobHpscW9peEZoc1dhTXFLeHdTdVN0c2dJY2RZQ0VicTdzQTRvaVFtTlBkbGdHU0ZXei1GRFFZVFA40gF3QVVfeXFMUDExdmZJNHdtTGg0bl9SQ29VUTRKUzc1TllaVzZKR2VhMVZ1MFhNTUNzYXkyTEhUSU1TWldxZGhsemxxb2l4RmhzV2FNcUt4d1N1U3RzZ0ljZFlDRWJxN3NBNG9pUW1OUGRsZ0dTRld6LUZEUVlUUDg?oc=5",
+          "published": "2026-11-24T07:11:54+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "원전 운영에도 AI 도입…한전KDN·한수원·네이버클라우드 기술 협력",
+          "publisher": "베타뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mUkNDN20tbTExemtCUlUxUzNFX2d5Y0RIUEYwZFdVcmVsTUdUdkRmSDhsQnV6b3BSeV9LSGtrT1hELU9XWjZGRml1cW4wVTFyV3E4VVZlYU1oSFMyV3pMQmN6eFI?oc=5",
+          "published": "2026-11-24T08:12:59+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원-한전KDN-네이버클라우드, 원전산업 AI 전환 ‘맞손’",
+          "publisher": "에너지신문",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wTGc4REdXRlZpaFZLRXZJMTAwWjNlY0lVNDFCcXk4QzBLQW9rbGg5UTNrZkx3Q1ZlZ0QzYldPRi0xOXJjenhWZzVvSGxQdFR3TnpVaGRQZTFXT09iOWt3QU1ONmVLbklZLUMxZmkwNkpXUQ?oc=5",
+          "published": "2026-11-24T11:10:27+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "네이버클라우드, 한수원·한전KDN과 원전 AX 협력",
+          "publisher": "디지털투데이",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81MDRybjNlcWFPLUdESDVTb2NYel9Wbnl0R3VyWFNweWV6V0RNV1NqRUtRcXIwN3ljclJlMmVKeXZ3TjE0SDllVUtDRXFidzhrZkdrcFVmU09VR0JWREEybWg5LVUySHRlYkpZX2NtX3FaZGs?oc=5",
+          "published": "2026-11-25T00:17:43+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.977,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, R&D 기관 중앙연구원 ‘최우수 연구실’ 선정...공기업 최초 4회",
+          "publisher": "팝콘뉴스",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEMDZWWm0xUkt4UlpNZWZSTFhUWExqUFhoRmludTlvSjlDQ2Y3RGlrbDJuajI3SFJ5ZlhTVVd3Uk5qTVkyRUkyOUpRQWdDdi01YTV1U0Q0S3YwQkpMOUgyZ0ZJeDU0SkwyUUZObk5CZ9IBckFVX3lxTE54TlBIcDlkUXhwaTFNeHBJamtiRDJocDU5T3AwQ1F2NFhKcmhjS0hKWDAzZmM0ZVBIbFJmWFVmbHJOS1pod2ZvMDlUc0M1S05tU0RvYjJ2OWlDTEk2N2ZMTURLVzJHYUh6WUhHZmVQRUhqQQ?oc=5",
+          "published": "2026-11-24T02:13:51+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 중앙연, ‘최우수연구실’ 4회 인증…공기업 최초",
+          "publisher": "전기신문",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBERkNpUmthc29BZzE0WEFIcTlOY2tpczUtWHlyMDNoVU5tU0xVZm1mNHdSc0hkUTY1dlA2dlo3WHNTT1FUVFEtdF9tTzQ0U21zZVJKSVFsUGpzY0gxWG9FZ01sZEJQSm5QdkRwQU9QQWfSAXBBVV95cUxQREZDaVJrYXNvQWcxNFhBSHE5TmNraXM1LVh5cjAzaFVObVNMVWZtZjR3UnNIZFE2NXZQNnZaN1hzU09RVFRRLXRfbU80NFNtc2VSSklRbFBqc2NIMVhvRWdNbGRCUEpuUHZEcEFPUEFn?oc=5",
+          "published": "2026-11-24T03:28:33+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 중앙연구원, 공기업 최초 안전관리 최우수연구실 4회 선정",
+          "publisher": "경북도민일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zbmhzMmZmU2FWSHpnVUtabWIwYkxkWHlCRDdwV0JodDFzWGh1Q1RnNEo2eXRvZlREWWh6Q1RSbjVfUWY0eGt4NHJsRmpOZXRrdVhQR1g3VFRMLXJTWERDWF95ZTB2bXdQanc?oc=5",
+          "published": "2026-11-24T04:56:28+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 중앙연구원, 과기부 ‘최우수 연구실’ 선정...공기업 최초 4회 인증 달성",
+          "publisher": "소비자가 만드는 신문",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IaFd0SDFGM25lUkZ6cVNKZkJ4TG5CbnNOdWdaMFRHRF9RZ05zY0IxUmZNMFRoLTdZZGJHa0JLaFk3cFZFZ0Fjc1ZwUnlsSU9TOHJOT1RDeFdzXzl0RU5wWVBjYlFWeG1hZGF3U3JVd2U1NWs?oc=5",
+          "published": "2026-11-24T08:04:08+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 중앙연구원, 공기업 최초 최우수 연구실 인증 4회 달성",
+          "publisher": "천지일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrMlhHRFI4Tm1FUUFvck5wU1NGNTgxR3ZNTjBneTlwczNBanlrUFdJOVYzdmJaWm9FeWxlNS05Uy1nR1NoWTZhRWJiR0JiMGFKM21rX2xwakd1bWxhVF8wSU5PRkFyWDN0eFE?oc=5",
+          "published": "2026-11-24T14:14:52+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 중앙연구원, 과기부 '최우수연구실' 선정…공기업 첫 4회 달성",
+          "publisher": "국제뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wRUNjTFZwaklMTnlxM1VwYmRBQm5TT1ZIR1RyUmtCeVhMd1pPVWQ1bFhaWkpxbndON3Y0OThld1VzMlhyaWJmZHpibDBtYVBjUWl2RHZiZlc2Wi1PdUs0cDk2bUVXM09tZHl2SlFR?oc=5",
+          "published": "2026-11-25T00:09:08+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.971,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 생성형 AI ‘하이누리’ 기반 업무혁신 가속화",
+          "publisher": "드림저널",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5aRWFjaXBBVmxmSlVtVjR5NmE4UFh6OS1DcWdkeWVFNGJNTXlzeENKb1YxSGFva1JYZmdSSGM1RUJvWWpqa1E?oc=5",
+          "published": "2026-11-24T04:32:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 사내 생성형 AI ‘하이누리’ 기반 업무혁신 가속화 한다",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sdVVsSlFsNUV0VXZSaVJjcEI1X2pZdkY5bTVmZ1VXMXBoZzA5bVZRTkMxcTVjamUtdExqZVBkUm9lZ1o0d2hWcHIteHFSTExSQVl2aFhPa2laUUlibUFHaUZ3MHRLTXloc1Fic09FOG4wUQ?oc=5",
+          "published": "2026-11-24T04:32:28+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 생성형 AI ‘하이누리’ 활용 확산…업무혁신 속도",
+          "publisher": "경북매일",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pS3pmeUd1emNQZkFFUGRvYXJoMEFsZzJMcms0cllqcE9TWXlSNTdlb0g4Ym9fejhmZXZGWko4ODZpVXVVWFVjcnFrcUtNWkFnSTNKNDVzb2dWZw?oc=5",
+          "published": "2026-11-24T08:11:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 생성형 AI ‘하이누리’로 원전 업무혁신 가속",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IcVR1N1piTmxOUDRJRmtQRHlLZFpiVjhRYzJJY2R6QlRPYUJoUExnX1VNbV9MZUVDR19XRWtPWVdUVVpQOW5aZ2JQYmRXdmx0Vm9kRXlEa0xwNHl2ay1nbm45bEw?oc=5",
+          "published": "2026-11-24T23:27:28+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 생성형 AI ‘하이누리’ 고도화…업무혁신 가속화",
+          "publisher": "에너지타임즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6RW5GaXUtZ0YyNXY1eGJCRXVqRkxvZnFDRVZQNF9KUzFVRVMzdmQ0dmx3dE1vSTg5bkY1WHRQRUJxTllibkRkTVhyaFZQYnQ2cXo2alhhX3lScXczNTZOMngzT0MwakcxX0tZRQ?oc=5",
+          "published": "2026-11-24T23:54:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.961,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "창원시, 방위·원자력 품을 도심융합특구 후보지 선정",
+          "publisher": "경남미디어",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sLTZXUC1zdlE5cXRIWjQwU0tqbXFXR2FlVzg4UTMwWnpsZVVldEhtRWZWaUtuME81OUYtbVNIa1JmLWhFTC1fa3pkU2RMQy1HaEtZQ0VKWGpKbUpoN3NOOWRka1Zxa281dWVj?oc=5",
+          "published": "2026-11-24T08:39:07+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "창원시, 도심융합특구 후보지 선정…\"방위·원자력 혁신거점으로\"",
+          "publisher": "CNB뉴스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GdllhWEFZZERBaDRvTGNuaFA0ekRRYWJKd25Bc1Vta21MVVhDRGxTRjgyTGhnUG5DSU9TMVZmOEszeTBmRlFmUW5xR0hXNWtZVTQ1RVpXV3lzM25qdWppS01OY3dEallSZ0xV?oc=5",
+          "published": "2026-11-24T09:12:11+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "창원, 방위·원자력 도심융합특구 후보지 선정",
+          "publisher": "문화저널21",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uSkNjb0E5RV9JYjRHb0p2RjJ2TGtKbTFCYnFfeHBTVW00SF9vV3dBaXVUR1RHNlA1QTNMQWM3bGhHenBNY2daRmZKV1NUWVBiQ2VfSHlfTmYtaC1wZ2xiWDlpNmpLZVE?oc=5",
+          "published": "2026-11-25T00:31:46+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.987,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NASA solicits lunar reactor proposals",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-24/article-8617/nasa-solicits-lunar-reactor-proposals/",
+          "published": "2026-11-24T21:47:50+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.873,
+      "id": 5
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "삼성重, 원자력 추진 LNG운반선 개발 착수",
+          "publisher": "해양통신",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRN0RRS2hXNXNfN250NnhaRmlzdG03Y2JfSnByZkFOeWRZUWpjWVpuWGJRWm1PbTVJX3dzcU5jcFRxUzJidS1iMElIdDNCZ3hEOFo5c20ybFBqdVg4bFRpOQ?oc=5",
+          "published": "2026-11-24T09:35:58+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "삼성重, 원자력 추진 LNG 운반선 실증 나선다",
+          "publisher": "인사이트N파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TcjlrUTFtTXB5R3FWUXg3azlDbVFwRXRXRWlDRXhLbG1UNnNPaXpGVE04dENJS1N3OEJRUlYyVXJ6RHdIMnFvdElwRUk1U1VJN0VEUUtHX2FKYlU1aWI0alEzSmtfdw?oc=5",
+          "published": "2026-11-24T17:04:31+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "삼성중공업, 세계 최초 원자력 추진 LNG운반선 개발 착수",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CQVlGT2h4ektmYWdNd25MdEZzNmVUaHJBMVVpaDdRcDlKYzN2OERtVGlTbzVicVV6V21tNVpLeGltNG5JNlZ5SVB1ZExuYjV5V1BxM0JlWHpuY3pGRGs5SUpfODk?oc=5",
+          "published": "2026-11-24T20:24:02+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.815,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Senate approves permitting bill with nuclear energy amendments—what’s next?",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-24/article-8616/senate-approves-permitting-bill-with-nuclear-energy-amendmentswhats-next/",
+          "published": "2026-11-24T18:23:59+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.732,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Start-up milestones for Indian plants",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/start-up-milestones-for-indian-plants",
+          "published": "2026-11-24T17:10:59+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.681,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "INL chooses Guidedwave for fuel canister monitoring demo at SONGS",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-24/article-8615/inl-chooses-guidedwave-for-fuel-canister-monitoring-demo-at-songs/",
+          "published": "2026-11-24T15:35:31+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.615,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NLC India plans 1.4 GW nuclear power project with NPCIL; investment estimated at up to ₹35,000 crore",
+          "publisher": "Moneycontrol.com",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYXNhb3BNZXBKaGF5N3VkTWtxa241UEFoYmpoODJnOGVZdEtRV0VJaFhITmVUOEtSVi1VRHA2VktYTHpLdGNzaV9MX1hJcWpzX2hXNXBETktlb2ZJLXFxTUVvWHFKQXBLVDQ1ak95UGw1QTF0Z210aVdocmtlUTNxdGN1SVUwZHBzNTVuc2FIb0VzWnIzdElvdXNvX0lCUGtVZGFkMnBBRG5qNDBlTms3WjBST3Jkc080eTM5OVdTZHhQd3N0b0NKNmdEUnI2Q2xKc1gtX2FHc1RQZzBJZ3hpek9tdjNqQ3NibmtMTE5PYzY4NlFRMTVhVU95MmxZUdIB_gFBVV95cUxOYXNhb3BNZXBKaGF5N3VkTWtxa241UEFoYmpoODJnOGVZdEtRV0VJaFhITmVUOEtSVi1VRHA2VktYTHpLdGNzaV9MX1hJcWpzX2hXNXBETktlb2ZJLXFxTUVvWHFKQXBLVDQ1ak95UGw1QTF0Z210aVdocmtlUTNxdGN1SVUwZHBzNTVuc2FIb0VzWnIzdElvdXNvX0lCUGtVZGFkMnBBRG5qNDBlTms3WjBST3Jkc080eTM5OVdTZHhQd3N0b0NKNmdEUnI2Q2xKc1gtX2FHc1RQZzBJZ3hpek9tdjNqQ3NibmtMTE5PYzY4NlFRMTVhVU95MmxZUQ?oc=5",
+          "published": "2026-11-24T13:10:30+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "NLC India, NPCIL to set up 1.4 GW nuclear plant with ₹35,000 crore investment",
+          "publisher": "FlipItMoney",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVVBuYllEVExQVlpfNlZvaU5vUXA3WG13UFZXN25vanA5UDNndXVsendwbXhiT0JCVjd3YjV5dXNNV0kzOGJ4RXlFMWYtektTOWVscDZ4N2VlTFZFekNMamoxYnJYMHJ6eXlmc0p5WVd6N0R2UWZiek9BMjNubUR5bDZhOEoxNnhtcFpfM2JLb2NTVnZHeTRJa1N6Wnk1WXBidEJBaA?oc=5",
+          "published": "2026-11-24T14:26:11+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "NLC-NPCIL Plans ₹35,000-Crore Nuclear Power Project",
+          "publisher": "Urban Acres",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbWdhdV92V21rZkNfU1dKWkJFd1J6YXRJSTYza0praV9Fd3VOWTlwa2xINC1JcnE2TGhid2VNdkx4cTh4SDZmY3kxOEVGNjRiRGJOU1ROVEV5a0ZaQVZQU2FSMHNfWGVicHpabjFaenNzQ28wMHlrVmxxQlFPX3RVS1BKS3M3U1lJNjhoUDRYZ3Q1MUxRd3FMdzVhUFE4UVVldlVWc25BMkR3cG8xTE5nYkEzSXAwZ0FvRV9VMkJn?oc=5",
+          "published": "2026-11-24T14:49:34+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 2.583,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Key step in licensing of US TRISO fuel facilities",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/key-step-in-licensing-of-us-triso-fuel-facilities",
+          "published": "2026-11-24T13:40:20+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.535,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Sandia researchers are developing SPINE robot for Hanford Site cleanup",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-24/article-8614/sandia-researchers-are-developing-spine-robot-for-hanford-site-cleanup/",
+          "published": "2026-11-24T13:12:43+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.516,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Posiva completes test transport at encapsulation plant",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/posiva-completes-test-transport-at-encapsulation-plant",
+          "published": "2026-11-24T11:11:27+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.431,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "White Mesa mill to resume processing as US uranium production falls",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/white-mesa-mill-to-resume-processing-as-us-uranium-production-falls",
+          "published": "2026-11-24T10:22:49+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.398,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Zambia planning for development of nuclear energy",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/zambia-plans-for-developing-nuclear-energy-programme-reviewed-by-iaea",
+          "published": "2026-11-24T09:33:36+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.363,
+      "id": 15
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "울진군, 원자력 기업 홍보 및 채용박람회 개최",
+          "publisher": "데일리대구경북뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50TnJkWmFWZHdhTVpyd0hhbWNuc1FHSXZyd2hTTUI1V2w2ZDEyWFUxQTJTdGlIUTZVbjNhekk3alhHZ0UtcjljQWoyTENiUWJPNHhndTMxa1A2QmlYbTNyQ29nNGNPZw?oc=5",
+          "published": "2026-11-24T05:53:23+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "경북 울진군 `원자력 기업 홍보·채용박람회` 개최",
+          "publisher": "매일신문",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zSmhoU0pzVW9fRWt4RUVJWkZjeW55T2xTa3M2RHFHMW1WNDIyUnRMakh2Tld1aTBfVTc0Q3BrdTl0TWFRdjN2YXh0TEM4U1hRSjRIcmZUVGJaX3dpQ1RoX2RR?oc=5",
+          "published": "2026-11-24T06:18:59+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "울진군, 27일 원자력 기업 홍보 채용박람회 개최",
+          "publisher": "경북도민일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90RDZhcENaRmdUTk55RDdqWmNHbGhQMTFPZUQ2ZlVRSENDZllyc2Z1aGdIYXhFS1BWSTFQYm1FTlVGQkI3LW5KV0dkNVB3eHB0WXAtM3pKR2VNTTY2Wi1kM3BfWlJ3N2dyU3c?oc=5",
+          "published": "2026-11-24T07:41:19+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.285,
+      "id": 16
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "'글로벌 원전 투자기회 짚는다'…삼일PwC 웨비나 개최",
+          "publisher": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80Vkk2WmVadUNXSXNqM1plSThoRWUxaTBWeEFZSW1WN3Z3b2taOGxpOUFFY25rNjVaQjBDbDczdzIzdS0zQnB3Z1E3dGdXd3BPcFdmMjZtWTBzdw?oc=5",
+          "published": "2026-11-24T23:54:18+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "삼일PwC, ‘글로벌 원전 산업 동향 및 투자기회’ 웨비나 개최",
+          "publisher": "CPA뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95dTA3RkhZcWl5YllqRWVndzRmTXJ0bi1tZHc3NnZYbE1OMEd5U3l4Z3Bka0phLTdhSklIUGVmakV3bFNESzhPT1BZS1dMREdQVFdGVEt2Z2ROUkxPVlo4Vy1LWjFxU0tp?oc=5",
+          "published": "2026-11-25T00:29:36+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.986,
+      "id": 17
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NASA Opens Competition to Develop Lunar Reactor-1 Nuclear Power System",
+          "publisher": "ExecutiveBiz",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR3hUdUl6M3hhbVRqWER1UEljM2diaEtObzlXclNnYjRFWFVUUDliTVBaR1hBcDd0TldWZm5nNEdwQk92WVJ5aHNRQWdmX2xtMWlPUFU4MEN2Vk1LUDkwWHRLTXBPV2hlcHc1SDUxQUNyYXhtYy0wQ0dZcW9CdVRwYzRveV9wQQ?oc=5",
+          "published": "2026-11-24T16:43:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "NASA Opens Competition for First Lunar Nuclear Reactor, 20-Kilowatt Class for 2030 Launch",
+          "publisher": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LQmE2a254OXZmOEdldTBsRGc4cmRrWEE3TC1fdGxFX2xSU2NjOFctWkFOdlZLaDNIQmdpUlVtLVRhN0VpMVd3aHN3YmhZcm5jbU0wcmRFVmRJNWlEQlh5MkRNMjBKQW14bmRob3VaQ0pNVjB6Unc?oc=5",
+          "published": "2026-11-24T22:25:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.899,
+      "id": 18
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 사내 AI '하이누리' 성과 공유회…한전KDN·네이버와 협약",
+          "publisher": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qaDZfWjYwck5INWRjc0tQREw5RTVLVmt4R2w0OXlfRk1jYzlFSkN3ZzJ5M29PekQ1dGNmN2hqMERKY3FVaFpjc0NQcjBLdVFoQ3o3SA?oc=5",
+          "published": "2026-11-24T05:48:02+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 사내 생성형 AI '하이누리' 성과 공유…한전KDN·네이버클라우드와 협력",
+          "publisher": "투어코리아",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54VDZvSGNrMktkQXZqdlpibWtEUVplYzRRQnFVUlhoc0VCOThMamxUa1NYZFo4MDBkMzRzQUhTQ2F3bzRDcGNtWXFMUjFpSW0tOElGQkpIY3VoN25TZVVHY2Q1bXNoSEU1cU5icEV3?oc=5",
+          "published": "2026-11-24T19:18:37+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.77,
+      "id": 19
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "8th uranium shipment arrives at Rooppur Nuclear Power Plant",
+          "publisher": "Daily Times Of Bangladesh",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQREhGNjFlSWhzYlFUUGNpZWVQNFhwQS10YnNoYklBV0N2aWpIMHF1NWN0ejczbWZUQU9DUXNuM1V4dDVhN3diLUl0MFBjM29ncnJFb3NPU01ESEExTXp2d2Uxa0k0LVlqWEVZVUx2ekVSVnNvLTJIa3hMREhpeXlyUHMyRQ?oc=5",
+          "published": "2026-11-24T03:49:27+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Eighth consignment of uranium reaches Rooppur nuclear power plant",
+          "publisher": "Dhaka Tribune",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV0d3dl9FNjlzRVhJMENSX1ZhQUQ5c2M0clNsX0VTSm90OVNRZW1HekNIUDAxTjRRd2dmUldVbE1XYldKU2ZYSmczWXZqOHBkVVB3NTFFaGF6STBaZGRncWlETVBwd0xNbkhaV1VqTG1LdkFlcXdtWWRWc3REc05qOWRYN29rZFVWZHRHeFoySU5kVUxOZHdjRzF5a0huWXFiNjVHbkQ4NmZfcC1ucVHSAa4BQVVfeXFMUFdHd3ZfRTY5c0VYSTBDUl9WYUFEOXNjNHJTbF9FU0pvdDlTUWVtR3pDSFAwMU40UXdnZlJXVWxNV2JXSlNmWEpnM1l2ajhwZFVQdzUxRWhhekkwWmRkZ3FpRE1QcHdMTW5IWldVakxtS3ZBZXF3bVlkVnN0RHNOajlkWDdva2RVVmR0R3haMklOZFVMTmR3Y0cxeWtIbllxYjY1R25EODZmX3AtbnFR?oc=5",
+          "published": "2026-11-24T12:46:50+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.498,
+      "id": 20
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "NASA Seeks Industry and Research Partners to Design First Fission Nuclear Reactor for the Moon",
+          "publisher": "CASRAI",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUDFRZkJpekVxRlhWbU1EeXlqdE13QjNMaGVSLXRveF9fUVdJS2l6QTAxVl9KMFljczNiWGozbTc2RmR3Z3dxMUFfcG5aVmVvdGRNYmo1bHlOb2haQVZ1dExjZXd1ME5qVUNGQ0dQeEdwcm4zNXhVUWZ3anlKUTkydTJlT3huMk5vajFB?oc=5",
+          "published": "2026-11-24T03:42:50+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "NASA Seeks Industry Designs for First Lunar Nuclear Reactor Ready for Launch by 2030 - DongA Science",
+          "publisher": "DongA Science",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9URUdReXVlMndBc0p0MDZySHhESGJjd3VLYnR4NnlCU0ZjdmVSN2U1dlE0c3AxdDh6RjBjTVhyWVAtdkZGWW9STEVrQ2dNNmMyWWJKQQ?oc=5",
+          "published": "2026-11-24T08:07:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.303,
+      "id": 21
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Russia Accuses Ukraine of Trying to Shut Down Zaporizhzhia Nuclear Power Plant",
+          "publisher": "8AM Media",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvTTkxWlA2akhxMXdpaV9QWWVQTER2Z2RONzhLbEdBa05RMG1RT245amF6NGtabEtWQWpHN256YkdHdkZ6d2owU3lRSVFUeFQ4b1RreE91bWpVYjdncW9fVURQWElTb002M2QxNlVCd3BJN1c0VVZWZ3dnZzg5QQ?oc=5",
+          "published": "2026-11-24T05:01:22+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Russia accuses Ukraine of trying every way to force the Zaporizhzhia nuclear power plant to stop operating",
+          "publisher": "Laodong.vn",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVVR4bEd4blhhc1dEUzd1ZllZZW5MaG1UUGx4bGV5ZlpFUnItclRMX3lHQ1hiQXNVRU9KdkVRcC1YTzhhVzZKeFVmV0tscUhxb3pFOEJoXzJFUkxFSDB3akoxZWVBWVhVWWozNExBWWRuRU1uMC1mQXhKb0V4ZGdhQkROWXRUTW5kUGtveVRBcGpNclVxV2lTRDBNeDhRQTNEQmtaM2paWjhVVzN6cFZYQzhSTzQwRHp3S0Eta2FpcXd2bWs4cGR1TG1sOUE?oc=5",
+          "published": "2026-11-24T07:48:07+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.29,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 생성형 AI로 업무혁신 속도 … 한전KDN·네이버클라우드와 맞손",
+          "publisher": "뉴데일리 경제",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5WNEpWdE84NHJxNjdpeGtpVXlhYkVSYy1SWExEdHo1NjhZRV9yTWpRRGFOX3M5Y21rRTRSYS1wZWlpMEU3dEtEdFViUlc2QkZOdHBGdllrWlVCMm9STFpxX0pjS3FqcGRpc1JVUExqS2owVnpnekMzYjFtRdIBgAFBVV95cUxON2xWYkhMWVRQTllMal83V1VPUGR3clYySWhSbGlXNXFTZW8wa21DSU1tVWFhMHljS3U4eTJDaXplZVVwLWlsSEFfaXgtM2dISmlpQlp4anEtMWlRNUNwa25mMk5YRDhsSlhwbnctcjl0N1hEaV9nNkFITk10dTZfbA?oc=5",
+          "published": "2026-11-24T05:21:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 사내 생성형 AI '하이누리'로 업무혁신 가속…한전KDN·네이버클라우드와 맞손",
+          "publisher": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RX3pObmpLYXJ1bVhPVWRtMDl4VkNzSU9CTTFJQnpuQllDU1dpT3Y5MzJRSUJCSHNBeGFUTkZrdjJPTzdJUXJwMFljdEhFdw?oc=5",
+          "published": "2026-11-24T07:38:43+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.284,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 원전 데이터 학습한 AI '하이누리' 고도화…업무혁신 속도",
+          "publisher": "뉴스퀘스트",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGbkxmTkhGWmpYZkFPejUwamN4Wk5uT1RhQ2xUZ3hTajFTMm11Wko1MnlJaE5sWTlySjVET1NGQlNUX0thWWpsZDV1QngzZzUzY0J1VnZ6bENVQ1ZPUVVBaWl1a3h4X2x6WEdDSEhQUQ?oc=5",
+          "published": "2026-11-24T04:36:54+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 사내 생성형 AI ‘하이누리’ 고도화 … 원전 업무혁신 속도",
+          "publisher": "워크투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42U1l2Q3libzJBZjcwclZPRVRoMnBkWGpoQUtuRXlLdkFuTDBNLW1pWDJ1UXh4dWdVVFdNMFppM1NYLXc3Nmh3YUhTdWVNWDVvSUwyMnFGeXhoR3RqdGtpdnpfSmpEWnRaeE42TQ?oc=5",
+          "published": "2026-11-24T06:48:24+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.249,
+      "id": 24
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "[인사] 한전원자력연료",
+          "publisher": "전기신문",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuVkROV0hMcGhSajEwOU5kQzZaQ1NrZDFMRmU5ODBvejQ3VTdCSDJFalJaMm9MSlBiU2ZDRlAtakJESDFXeFFfLUVtSXI4RUpaZmpaSjV5a3M1MjlNUWpRdUNTM2taSmtzWHJhbGVsa0HSAXBBVV95cUxQblZETldITHBoUmoxMDlOZEM2WkNTa2QxTEZlOTgwb3o0N1U3QkgyRWpSWjJvTEpQYlNmQ0ZQLWpCREgxV3hRXy1FbUlyOEVKWmZqWko1eWtzNTI5TVFqUXVDUzNrWkprc1hyYWxlbGtB?oc=5",
+          "published": "2026-11-24T02:50:30+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[인사] 한전원자력연료",
+          "publisher": "굿모닝충청",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3bXBfdU9kYjFDNFQwZDdqVExoX2taSnoxc0dKX1NIdG50MFlMVnRNSEN1WVRBSkNpWmM5VnF4MDZPTXFrSmQxaGtGRnJFV0JPVzlnc0xCSmR5d1lEQVByemh2TzlPOVhXdUozRzhHdnZWQQ?oc=5",
+          "published": "2026-11-24T03:58:53+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.131,
+      "id": 25
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "재생에너지 목표도 못 채웠는데…원전 공론화마저 '흔들'",
+          "publisher": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmb05EVmpmNWtWQ2tuRGREWllaRy1QOHlWeURRaTJIYVFleXVhTkt1UEY0S2xzTk5xVEVmX0YtV0cxOGJ4VlJUYzlKSUtpbFYxLXJ2MA?oc=5",
+          "published": "2026-11-25T00:42:58+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.995,
+      "id": 26
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원전 업무도 AI 에이전트로…네이버·한수원 협력 확대",
+          "publisher": "이데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVmN2RDhJZGNtYXRwaDJFVVFQdGZMM3lnNFJoa2QtQXk5OGNFZFB1YU5Mc1FnSXdhUWh5d1VSQWhRd29wUEFqdE9tdU1ZZWplalU0QVR3WkxRWC0wemJaRFBIT05xY0tnaGk1RURJWEJ5eGkzd0ZIN0R3SE03Zkt6Sw?oc=5",
+          "published": "2026-11-25T00:39:48+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.993,
+      "id": 27
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "세계 원전시장 및 SMR 기술 동향은…삼일PwC 웨비나 개최",
+          "publisher": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvQmRyVU5JWVlxaFBuY2lidTl3Q2dsaFI0YVZILWFhS3YzMER2VkNVaUNiNjdJVmdlRXJPQ0xqWk04MXlTSTlCcUtxMkRvMUh4cmJrSFpjay0yOGZuekNnanFn?oc=5",
+          "published": "2026-11-25T00:39:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 0.992,
+      "id": 28
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Naver Cloud works with KHNP and KEPCO KDN on nuclear power AX",
+          "publisher": "디지털투데이",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc0ZqSHNPejYxeHRuUlpGakQzcHN2Nzg2RzRjR3F2THo2QXQyeXNMaUloczhtVDBlelZEWnNRUEh2SldhcDIwZ0JkZnIxSkl1aVhZWS1sUnBHbDYzVjJUcUNoVnlvX0RMVmVHSmN2UkFmWXNDSUEzU3NsM1hTNFdnVXFIUnhfUC1nSi1KUVJ6WVVrdHdvYllnSURjM3lNT05GdzlLMzhtS0xEeFU?oc=5",
+          "published": "2026-11-25T00:17:43+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.977,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 96
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 100,
+      "kept": 57
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 55,
+      "kept": 46
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 51,
+      "kept": 5
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 173,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 4
+    }
+  }
+}
