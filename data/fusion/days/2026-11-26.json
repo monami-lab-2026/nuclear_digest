@@ -1,0 +1,368 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T00:29:37+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "First radial plate manufactured for Proxima stellarator",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/first-radial-plate-manufactured-for-proxima-stellarator",
+          "published": "2026-11-25T11:15:29+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        },
+        {
+          "title": "First radial plate manufactured for Proxima stellarator",
+          "publisher": "World Nuclear News",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdGZhU3luRmpKTW1KcEJKeGhza3JEak8xY0Yzc1l1ZW9xS3JqdVlKYV9uSU9RSHdVQy1pdjdRMnVuY0c4LTcwRHVvQ2hXWmVlMWdfNTI4OFZFUjFNaW82YUFCWGpzLWFnblQxWjFOTUthbVpvR1B0MVB2UEpOOXhvb214dDJQaHFlQmk1cEoxM3dRYmhCUnNtOFE3RjEzc2VT?oc=5",
+          "published": "2026-11-25T16:59:10+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 3.687,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "핵융합연·삼성물산, 한국형 혁신핵융합로 설계·건설 협력",
+          "publisher": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNbVpVNi1WTGJPQ2o1V1B4UGJGOFgxcnllb055S1l4MG1Pb0F0am5RbU9FeVNOcEFpOGRLMWU3WE0wZXZHRmRPWXJxMHBweGhfMm1zLVFQTlNDaE45R2FhODFDeEtSYkMtemxFS2gwQU1qV3FOck4wRHI1NG9nMFg3NlpNbjdhNXVybHpjM0VrRTVzdmF2MEhSRkNmTmVRQy1FQmREZnM4Wk5OV2ZJLS1xd3lEaWFPdENFczd6RjlLNmV0VHNyWlRfTDk1MllHSWpQM2ExaHFMN0RjRFhBQkRvTVFoUXB4S1YybXBxWGlaa0VISmxyN1FlcGlzT19yOHRRY21QM29pTEVmOGt3SmVBcmFha3cyVnFaczNQVTEzc3E2Qk9IY3gxSTVRTmY?oc=5",
+          "published": "2026-11-25T05:00:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "핵융합연, 삼성물산과 한국형 혁신핵융합로 설계·건설 협력",
+          "publisher": "투데이에너지",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XWHhXQlFDWVhNazI5WmtsaFBkbXdVV3pWSl9uQjJuNExsVHV5VmdDMnJLcndLeVM3TmJDRGJUdDQ5NTdjWXBfOHI1U3hwUHhaYktqaVVXMktMdVlOMHRoSzFtLTVQaTlNTE5xNnFB?oc=5",
+          "published": "2026-11-25T06:09:33+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "삼성물산·핵융합연, 한국형 핵융합로 설계·건설 '힘 합친다'",
+          "publisher": "이데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSkdLV3J4TW1tWldyT3V6YTlmNUNJYnR1NEl4YWdhaEV5U090bURuQUdtSkZacHVuWlJjQUsxT3c0ekctQzhiU3BKMUJZdTNYUm1rSjdHbzhWUzhwdjJrVFdGVlFKS2NNS2RuUVJUTXljWk9PenlzTm9sb09lUXRnMQ?oc=5",
+          "published": "2026-11-25T06:16:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "핵융합연, 삼성물산과 핵융합로 설계·건설 ‘맞손’",
+          "publisher": "www.dt.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5lMzRwc2JWeWNKczFlQ3UtZWx4WnI1MjB1LXQxSEQ5U1BjaXJ1TlA3MkloSkpfay1JcDNZOUg2WHo5RXZ1SG1RMkp0b0h6dw?oc=5",
+          "published": "2026-11-25T06:31:07+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "핵융합연, 삼성물산과 한국형 혁신핵융합로 설계·건설 협력 본격화",
+          "publisher": "충청뉴스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85TXdPQUZpMTFobG9rZ1Y5YVpYbnJQa0pMUGJzaTJobHJfMlhFTVNyTVJhVWhKZ3hlOGlPRFBOSTdYQjAtcjVCX3A3VTR1RzB4TUYxaXBvbzlfREFsRl9ZcE5JTWxOc0lhSWhv?oc=5",
+          "published": "2026-11-25T06:41:42+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "핵융합연, 삼성물산과 한국형 혁신핵융합로 설계·건설 협력 본격화",
+          "publisher": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VR3IyazlqRlh1ZTM3UWpTRTFyd3hGZXZKVjI1MHhwemZZQm1rak03Vzd3Z281YWRwRUFnZ0JUX2F6Vl9lc1E0YXRTbXlTSFpFQnoySmRTWUcyZkNVVExMbQ?oc=5",
+          "published": "2026-11-25T06:50:55+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "삼성물산, 한국형 혁신핵융합로 건설 뛰어든다",
+          "publisher": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnbVBKS0FSZ1pZdXhuZzZMdEYtMlhiZmlpajJZd0p2ME5PSlM3U3J6NmlxYWFtVTAxcVJ2Tk9LeWVfckxYQ01IUFRaREhQUQ?oc=5",
+          "published": "2026-11-25T06:57:26+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "'혁신핵융합로' 설계·건설에 산·연 협력...핵융합연, 삼성물산과 MOU",
+          "publisher": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnc0x0aG41dGZRN0RvbFQ5LUpUaXd2Wi1pLXZGS2w5UTA4NXJGNXFVTGlvd1EyUkVGSlhkYkdQUHQ5QktfdlRpQUhaaEl2Zw?oc=5",
+          "published": "2026-11-25T09:01:51+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "[사이언스게시판] 핵융합연, 삼성물산과 한국형 혁신핵융합로 설계·건설 협력 外",
+          "publisher": "DongA Science",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XUTBIZi1hVm52WWJjeldOUEVZTzV4SWRVZDhSaV9raWxiNDZIVm1ZSkZ1cmdVZjVlVTZPcjJzX0I5OWJ4aE82TVpodkN4OGNtcXFhbg?oc=5",
+          "published": "2026-11-25T09:17:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "삼성물산, 한국형 혁신핵융합로 설계·건설 기술개발 참여",
+          "publisher": "에너지신문",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DVVExdmMtemVxV1psRHNxSTA4cUR3ZFVzTUZwWHB1WFVOWnlGMVBycnlCVmxwb2t4dWpqUS1ZdXBKVDZhcG5hdi1lMERfTzNrWkFQN3diRHAwa19LLXJncjI0Y3R1M1RseWFVU0JzMjRtQQ?oc=5",
+          "published": "2026-11-25T10:00:02+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "핵융합硏-삼성물산, ‘한국형 혁신핵융합로 설계·건설’ 맞손",
+          "publisher": "발전산업신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2R1BycmdZR20xdy1meExYdjZDZEU4eGZ3d2Jnb3NSUkZPVUFBV2E2UlBZOUlrVUQ4aTdnaWdCdUx3cHhmc1E5bEZ6VjVUdHZjYVRFYnBUVnFmeGRQQXFIVFRCaExZcXlz?oc=5",
+          "published": "2026-11-25T13:23:59+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 3.538,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Type One Energy, UTK receive IRIS grant for fusion R&D",
+          "publisher": "ANS Nuclear Newswire",
+          "url": "https://www.ans.org/news/2026-11-25/article-8618/type-one-energy-utk-receive-iris-grant-for-fusion-rd/",
+          "published": "2026-11-25T13:40:21+00:00",
+          "feed": "ans",
+          "region": "해외"
+        }
+      ],
+      "score": 2.549,
+      "id": 2
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Type One Energy Wins State Grant for Fusion Fuel",
+          "publisher": "Wisevoter",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQazNwTE9XeHJKSkZ2TXMzemc5S3djMUI5SS1vYjZZaUF6MGFqbktXdDRQdkl0ajZQRkZ0WmxrX0xQMTBPVEc5NEpFeS1aN3RTem5HRmJXc1NJdWpDUnpDQXAxT2JfYlllYWVQd0ZvYVdRX1gzT1BHSU0temJDb0VldTFWbHBXSWRhMTBSUFNnRG9UaHpKd25LU2hsZU5QRVU?oc=5",
+          "published": "2026-11-25T15:22:56+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        },
+        {
+          "title": "Tennessee backs Type One Energy fusion fuel work with $2.9M grant",
+          "publisher": "Dealroom",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNHp4YmY3Rm1tNzNiUjNXSThnVjcwNk9NajI3ZWFDQlo1cGhfRV9YVmo4eDRvcU50UXRBdEVZenY5dTJSTTk4R2V3aVc3UXVLX29pdlpZUlZYblZhMmZCblBWTDZqdzZrVC1nZFcxaTd4Sl9aaXA4ZTN1eXNSR0lwMkdWSnRsM2F3WWpoRWtBOU5PUVRValhkU1NGdms3aUU?oc=5",
+          "published": "2026-11-25T22:58:52+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 1.937,
+      "id": 3
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "KFE, Samsung C&T Join Hands on Design and Construction of Korean-Style Innovative Fusion Reactor",
+          "publisher": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MRXFpSnd2emtOczJaVEtubEVjckhBZDljVFlZOW5IejhrMkhhWUxjQVh5N2dkMWkwS0NfdlpZd0xmVkk2cXVBMGQ0WVVmRk9vOE5xOFFVcjQ?oc=5",
+          "published": "2026-11-25T06:38:54+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        },
+        {
+          "title": "[Science Bulletin] KFE and Samsung C&T join to design and build Korean innovative fusion reactor",
+          "publisher": "DongA Science",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlT1NFNGFpNTUzZTF0bmVsZUczcmEya3I4QnNNUG5RbU5rLVRsRkRSNUVBZnY5R3Z3bWp4OTNzdWpiRTRmZnFwV2x6TE9YOVJOb0dkQg?oc=5",
+          "published": "2026-11-25T09:17:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 1.366,
+      "id": 4
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "블루포인트, 핵융합 산업화 세미나 개최…삼성물산·서울대 등 참여",
+          "publisher": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pWWE2VGNRUWNHTHY1ZEZ2R1BKNzh2R01kYTNFa0VjbkpvMUtRcDVQLVNQUUZscHBELUxlajdlS1NtMklxM3JfbVVEUGs1bDY1TWhSeUl4UUV6dEVmU1dKMVdn?oc=5",
+          "published": "2026-11-26T00:07:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.984,
+      "id": 5
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "일본, 세계 최대 규모의 핵융합 원자로 가동 가속화",
+          "publisher": "Laodong.vn",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQV9YZnpYVFZZRTZpdlNSOFhlTnBEbG11ekNxYmU4ckVFV3ZIa1ZHc2pnQUNWUGxXUjJVRGJhZS1qYjRRWWdhM012ZDJQaFJFb3pkZGVCM1NUWHZsRmwzNWw3dzJnREZScmN1X2p3bTA3Yk56QVMxbzRkejU2bnoySHlfalN3dkwtWm9GZ1FYT2dDSWluc2RTSFd2aFRsZy1GbU1zYkw1YmZOTVZ2b0xJ?oc=5",
+          "published": "2026-11-26T00:00:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.979,
+      "id": 6
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Japan accelerates operation of world's largest fusion reactor",
+          "publisher": "Laodong.vn",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTXl4dDR2VTc1VXNwSGdGZjNxODZFMWNpNk5wb0dKMUJfR1lEOGNjZjlNYmRTSk1ybXZQWHFqRW5VbjVqN3c2YmJRWEhralRWNE1hMFJ5LVNrT1ZHZGdlY1RXYXlSZ25KR0FLQWpUTGFfRThfb0RJZGZmQVJONV9LMWdNWVlzd0t0U0stcC12cS1yVUJndVlfWmcxZHduVVczSGZ0MUotTjBkcmt6eVk0N0Rn?oc=5",
+          "published": "2026-11-26T00:00:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.979,
+      "id": 7
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "핵융합로 ‘블랑켓’, 연구실 기술을 산업·창업으로 잇는 논의 열린다",
+          "publisher": "플래텀(Platum)",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBDNWlaNWdiTXRFVjlDVW9YRTNVdzUtb0FGQnpNQWQxQjhXbkV1UV9haVVnTkpFdXpObjFyQ0xLSUhGQmF2NDlPMw?oc=5",
+          "published": "2026-11-25T23:43:06+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.968,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Rosatom puts ITER reactor readiness at 85 percent",
+          "publisher": "Foro3D",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYXllZ0ktRml1X29DV2p2ZXRmbnV3X0M4WkpBc3dzWU9iS1pKb3haS0cxOEt5eTZyeC1keGVERDVEWXlTWG4xY2ZyS2N3SnphYWs0TVk0a1J1RnVQLVI0dHU2TG5RLVluWGNNSFZnNDZXNkUyaEZtajJTaXQtTEV3aTV3dkdBdDh3UVExWUpuWDRNRTBtVHU3RzdObkF1b1l1TVJCNGVXMm9EYXRNVUp3eA?oc=5",
+          "published": "2026-11-25T15:35:12+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.629,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Fusion Energy Explained: The Facts, the Players, and What’s Realistic for 2027",
+          "publisher": "Environment+Energy Leader",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa3EyRW5ITDFwdDRnOXBDenNOR2w0MGtvb1ZsYTFBOHRnWl9lTWprQUhjbHQ2M0VWd1pBSWJzLXNZQjE1OGtXaEk1XzhuWHp6dnZId2RiREdSQUloMnFRTUJ5dEZaQnZqU0Qwa2ZlNm9oMXBpQmctb0lXeENwaXkxZ2Fvb1FfQjZ5N1A0OQ?oc=5",
+          "published": "2026-11-25T11:25:03+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.455,
+      "id": 10
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "핵융합연, 핵융합로 건설에 삼성물산 손잡아",
+          "publisher": "금강일보",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50azduTG1MRWNEOHVjWVVVMENYenQ2dFNoVlZlVjFQXzdEYlpMQ1R1a3A3MkptZ0g0TXliY2YxZUJ5TlZGbE9FU0UzYl83RTc2bzJveEROalh5ZmpvNWpTMTFYM3dYbm9NR0E?oc=5",
+          "published": "2026-11-25T07:08:03+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.277,
+      "id": 11
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "핵융합硏·삼성물산, 한국형 ‘혁신핵융합로’ 개발 힘 합친다",
+          "publisher": "헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zejduRWg5NkdUdFJuRUNPS0lXSUQtOUczN0J5al8zOEc2elUyOWdMazQtQmhFNnZGN3hJVzV1OWo0UUU3ZlU2SlhyZUsxSWxIRG5SYzF3?oc=5",
+          "published": "2026-11-25T06:05:56+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.234,
+      "id": 12
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "삼성물산·핵융합연, AI 기반 핵융합로 설계 자동화 기술 공동 개발 추진",
+          "publisher": "테크데일리",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QQ1dOYTFPVVRDRnRRUHpWVC1QVXlfZnhDRnN2RzhjRjJDT1FPRnd2ODlGY01BZTdOdHRzc3FvX2tsaGJSYmYzYlp2R1F5UUE0NmJ1TVhMNWo3bGloekpmalhIVHVUY1pOYW80cHF30gFyQVVfeXFMTzRXb28wMHFNbVFOaDgzeGgzVVkyOGdOV0ZLTjEwZmJHT2pxX1V0U2dYM1lxcHREYTdsOGZtbHF2NGNzRF9iLUdrc1pWZ0JQZURFS0hiLWJJUFBWSUVONjNLbkJxUEo4LXR5MHFrVnk3NEZR?oc=5",
+          "published": "2026-11-25T05:48:06+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.221,
+      "id": 13
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Rosatom places industrial thermonuclear fusion in the 2050s",
+          "publisher": "Foro3D",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWDlHVFg1MEVDZUhNU3VLWmRrNTRHNlN0aExoOWdOS052QzF0ZGxuTjlEUXdSN3BUWERxRDlmcUNJeGNKVTltOVVNUVdpQzBRN1dxdXpRaVI4LXFURzltNFN5dFNubmMtaWVUdTFLWGRKWXNsZHo5WkV2aDc1Z2NPYjJGNG9US3ZJdFRjVUJPaDNiNm5MYVlNNG85YjF6RkpETGh4VW5FUTNwZndYLTUw?oc=5",
+          "published": "2026-11-25T05:38:58+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.215,
+      "id": 14
+    }
+  ],
+  "feeds": {
+    "gnews-ko-fusion": {
+      "ok": true,
+      "entries": 17,
+      "kept": 17
+    },
+    "gnews-en-fusion": {
+      "ok": true,
+      "entries": 19,
+      "kept": 9
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 50,
+      "kept": 1
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 1
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    }
+  }
+}
