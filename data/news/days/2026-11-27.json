@@ -1,0 +1,891 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T00:39:08+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA negotiating ceasefire at Zaporizhzhia nuclear plant",
+          "publisher": "Breakingthenews.net",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaTRuTVJDY0lzNDlKaXNCWmhneWNld09jSldZMUNOd2lVVEh5ZkZacUJGWGpuWUpGem9BWGlDYWVYYXJOcVV4UnNyZDJhMFpRS2tfcFNMeVdZUE1LZHRJSjJtSjg5SlBVam5LMEdaa0xMeUtsdno3ZmYtd1RiVTY2UkhkandGSlFuUDl5MkpvUW1keDlqWXBCRW8tM0NwMzlMTzFn?oc=5",
+          "published": "2026-11-26T18:40:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "IAEA engages with Russia, Ukraine on ceasefire at Zaporizhzhya nuclear power plant",
+          "publisher": "Devdiscourse",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWm5HS1gzMVRUcFhHYnNIWnBlSGxHOGc1MnhfZEYtZldvUzNGd1A1Vy1tVEpneGJoa1FTdnAwRVZqN28zSWxFRmI3YmxWekRyMndxZVR2NTJwWW1qcEo5cURIWHhmemRUWnJjQlpVZWlwQWlQMWxnNWNENXdTSUxRZGw4SXhINFUwV3NuWkhHVFNVblBMR3kxOVRyT1lmQ1dkQlBOMWw0Wl83bUJESHZzTlluNXRhUGRKVkhlaER4b2N4U1hDSFNnbDl5NmNoR0pBVHBqOWhnTdIB3AFBVV95cUxOUV93b0VxVktQaG9RR1dScmZWTU9oSUtnSkFlTjR4eDlXWW9HX1JJdnFJaHlValFheFl5UF9hV1Vnd1BhczJJMzJLMWRrYnMtV1NGRmNjUHBzQ1ozOEczeGc0SXNpckpCdlVBLXZiQ2QtUWRXTk5RbjBQUmdTelFSSndzVEx0UER2X2FlaUJOWUx1U2Z0ZW0wUTh3ZFdHQjBZUTRKSGtYYi1ZZjVHc2l2bFBTTTZVTHlfRENhaDBiYUJaSS1ZVndSWnhndGRha2VHUElhU0lhOHp2TU1h?oc=5",
+          "published": "2026-11-26T18:51:50+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "IAEA negotiating ceasefire at Zaporizhzhia nuclear plant",
+          "publisher": "Egyptian Gazette",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNk9qZVVNS0xCa3FvRXZxMml5M1NVUzF0NzBsaTZpdzJiazk3SDZQNG5neVpROEtyQnNFclBiVHVXaDZrV1RJcnF4UE5iUF9mazZlUzRGWnR1VHpJaG1CNlBhZ2xTWmowTmdPMndReklPcGE0OVJqV18xYXNGVGR6UXlyeHFYZ1hKS2hVUW9SYXR4dEpwRmFB?oc=5",
+          "published": "2026-11-26T19:10:18+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "The IAEA is seeking another ceasefire in Zaporizhzhia after a new power outage at the nuclear power plant",
+          "publisher": "Demócrata",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWGdqcGZGbVZDc0xtblRqdGlRdXNUc0s1THlIVW50V1JUS2VXVU14RkVleXFkN25ZUWdTTUl6SEFpVmRTRDMwLVQ2TFQ5cjNqUTl2Z1l1ZEJ0dkUtM3JDaXIwRUNyZXJaNkxEUkt5QnpRUlRWLWMwak05MGU4ekNzUjFjeUJOTDljUFUzT2pJX0R1b1Z0QWU5ZXZNakJXc28zaDdHZEJEVWgyeGJzQ2RQaFp1R0JJVVh2VFNFbDQ3MFJzVVF1d1NrUkstazQ0UnFXbDdGSUl5VjRoMk82dWpPTkR2MzBXcWvSAecBQVVfeXFMTlhnanBmRm1WQ3NMbW5UanRpUXVzVHNLNUx5SFVudFdSVEtlV1VNeEZFZXlxZDduWVFnU01JekhBaVZkU0QzMC1UNkxUOXIzalE5dmdZdWRCdHZFLTNyQ2lyMEVDcmVyWjZMRFJLeUJ6UVJUVi1jMGpNOTBlOHpDc1IxY3lCTkw5Y1BVM09qSV9EdW9WdEFlOWV2TWpCV3NvM2g3R2RCRFVoMnhic0NkUGhadUdCSVVYdlRTRWw0NzBSc1VRdXdTa1JLLWs0NFJxV2w3RklJeVY0aDJPNnVqT05EdjMwV3Fr?oc=5",
+          "published": "2026-11-26T19:56:35+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "IAEA working with Russia, Ukraine on ceasefire to repair power link at Zaporizhzhia nuclear plant",
+          "publisher": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQXlld0FmMFoxdUVjNlhmNURVMmZwLXJNcXZrVkhEQWxOLS14ajJFb2VQZzBOOUZKM1Z1VGwzLURERG9lUWdGczh0bTZGTGJqdC00Nk9tYjZLR21iN1ZRbEtmTHhnRFAzV3lYRzVRN2txb3h0TUxoeENQbmNTeHlmN1AtNnBnTE1rYTRnYmxxTXNBUkh1WTdZVHpBN3h2XzNYMXlUaWVLRmlOR051bTIwbE9BWVhJRjRHSWxVd0pXQy1tdnc?oc=5",
+          "published": "2026-11-27T00:29:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.993,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원 ʻ2026 올해의 상생기업대상ʼ 대통령 표창 수상",
+          "publisher": "투데이에너지",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0NFhRajk4VHdjTlBkdlI1S1BmVy1ybHRYS2t3akVnOWJIdHVuQXVmWmdRamx4ODBMbkhrRDVWRjk0dlJGaVRqbnlia2hJVG5RaGJUdUhLSDNkV0ZDaU9CMEZKcTFHWGlVWnNLTg?oc=5",
+          "published": "2026-11-26T08:30:37+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, ‘올해의 상생기업대상’ 단체부문 대통령 표창",
+          "publisher": "에너지코리아뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MMGlwSUZYdDlRaFdHbGhmbEotYzdaT21NOXBnbGwtV0xXUHRQWU5KdDV0VjZPX2ZyY1RnSlowUE9rdGJqU1FGZE0zOG5CODZEZE50SHYwdFBzQVBKRjN4UzZKdEpEaFl5eWRvOGE4SlY?oc=5",
+          "published": "2026-11-26T09:00:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 중소기업과 상생협력 인정 ʻ2026 올해의 상생기업대상ʼ 대통령 표창 수상",
+          "publisher": "ER 이코노믹리뷰",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VNmwxYjRfQ1hHZGZ4SThuSFRKNmoyYkNkajV0TXVPTWt6VFVudVBjUzhTcldjS29PcTl3UzZHbkhxdkttZUdxMWdxX1VIWGc3VVN5M2xxZEJXSk9kRUpWal9ydVFhRlpCYmE4TQ?oc=5",
+          "published": "2026-11-26T09:01:29+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, ‘올해의 상생기업대상’ 대통령 표창",
+          "publisher": "경주신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03RjZHSEtDS0h1OF83X1JVa0lJbTdCX1NGRkNSNlVhbGNHSUc3YWxScS1jTVdMMUlzUFNQM2xOLWhMZXlGWWd5clRZSm1hV0UtenR4ZUcyM1RGQQ?oc=5",
+          "published": "2026-11-26T10:03:29+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "국민이 직접 뽑은 기업…한수원, 올해의 상생기업대상 '대통령' 표창",
+          "publisher": "국제뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwNG9fVFJyX2VfVFRCNl9PQ2gxZEtxZFowX1lmRWhXVTIxbVp2LXA0Q05ab2IwWG5hWjQ0M1R5M1c1V3hHQ2htbTNaLTcydEQ1cFUxeDBUYWZhRGE5b3pVYVFXVUdhc3hmOHNtNEtB?oc=5",
+          "published": "2026-11-26T10:27:03+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, ‘2026 올해의 상생기업대상’ 대통령 표창 수상",
+          "publisher": "드림저널",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8wa25NdW9HQm5vRUJlc2stRU1HVWctbzZZdV9KVGJlUmRaODgyZjlndURIZFJ0Y0pvSUlkaXBfNzVGZjBXc1E?oc=5",
+          "published": "2026-11-26T11:04:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, ʻ올해의 상생기업대상ʼ 대통령 표창 수상…‘윈윈아너스’에도 선정",
+          "publisher": "부산일보",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DSi1sTHUzRzBtZVZ4RVA3MlppVFRGOW1XMG9IVU5Mc3R0Q3pLVkRUWnFRbUxDYU54eGxEWTRqbEFDSVpsTVB0RHJSSkFDTExsMDF0TXVwdE4zX1ctWUp1N0Zlemo3YU51LUZJZTdFalpoZ0lVbEJrUllCMA?oc=5",
+          "published": "2026-11-26T13:23:53+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, '2026 올해의 상생기업대상' 대통령 표창 수상",
+          "publisher": "컨슈머타임스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDQjkyYVFMQmxJVXNxUEZCRDZlTVJBU0l2VkVmTGZMR2tyTWpycVUxUzZycHJ1V19ZUVUtcmNsTERmbUgzOVJoUl9SOFYxeUctNUItU0dNQi1NdVJjb1o3YXpLdnN6NVg1NXc?oc=5",
+          "published": "2026-11-26T18:06:39+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력 `2026 올해의 상생기업대상` 대통령 표창 수상",
+          "publisher": "CBN뉴스",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYWFxN2g4bVB5cDhEWU5GYzhxTGdzTjVISVpSc2RmdVVabWd3dU4tZUFOcXlGOVMyRWhUT2l0ZkxET0dFOS1zd3VXTGk5NlF0RjRweGpmcW1HaFBCY0dsbWMxZlNvZnkzeHZBbGdtM05YbzZsdHk3TGFrRHQ1Sm9Bdw?oc=5",
+          "published": "2026-11-26T22:40:01+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, '2026 올해의 상생기업대상' 대통령 표창 수상",
+          "publisher": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeHhoSGxlWkNNSnMyWE1ObzZHUHZuR2Z1enZ6RVhua2VnQ1ZrWnNwdjljTS1WQkV6SE5CcjUtQXZQRlRWOFpkOFppM0tGaERFbHpGcUtMZlh2RmpGdVVfOXVEcFJ2WkkwMTVETnRQX3hJMFRGQU50Y3NRS3dJanFXMUdIX2Zuc1NRRjgtTlk0SUhqZ25LOEltR0tFbll6UFVVdWRGYzJYMktaRGJDQkRBanJOWnVScDJnTWNNZUEwUmNUZUFtQzdsWnd1S1RoZER6VFU4SGxqRE14dEdWTmdBTTFrV0J1UzB3ZXMxd0I2UnN3dFNQMFBkMw?oc=5",
+          "published": "2026-11-26T23:58:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.971,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "고리원자력본부, 신고리2호기 방사능방재 합동훈련 실시",
+          "publisher": "BBS불교방송",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjSHhlaGYwbWJHclBsZG9mZ05yUi0zVlRwdUtEc1pxNkFJZk9uMUpJTFR6eXljZTZlNEpZcG81MWZabHhpWjNsVjdheU41MElqNEVrdU01MWxmWUJOTW5iQUlSNXY0OEk1Q1lr?oc=5",
+          "published": "2026-11-26T06:34:02+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원 고리본부, 신고리2호기 방사능방재 합동 훈련",
+          "publisher": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5ODVicGJyaXBEcmdYYUdwTkJSTFNoaENxb2ZMcnZIUHlNWlFzUWp5bWVjQ1ptUHk1TUhpVmcwUEJpQV9GcmJjR28xbW5JLW9LS28yNEpWQjJJR2tKM3ktMtIBeEFVX3lxTE1GbjkzNUNIZ2FyaEttWXN0bTE2cllwR2ZaYlBQR0ZCNFM5d1dnV2Qxb1RydXdVVGhKYUx4ZDJxbmxIbDNmOUpYXzlHRzRZeDNIby1HeWNZM2xEXzBrSzhsV0R3MG9ZaDhqQnhyMXBBSV9HR2pGSW1aUA?oc=5",
+          "published": "2026-11-26T06:35:46+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "고리원자력본부, 신고리2호기 방사능방재 합동훈련 실시",
+          "publisher": "에너지코리아뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yUmlORUZuTDVKT0w4dDk3TkJxWXdzaExSclNqUkZIMk9naXNkdWR4T0ZjbXpyTFVaSGR0TjRMd3JKcXlVUTdNbFRtaktQZkNqcmtqcHBJR2lIOW5hYTcySFVQWG9Ia2xBS0FjV09HZ0E?oc=5",
+          "published": "2026-11-26T06:51:49+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "고리원자력본부, 신고리2호기 방사능방재 합동훈련 전개",
+          "publisher": "에너지플랫폼뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PQnNER2hlMXVQQWQ0Um90Z3B5Q2pWUzlRb0EtSzJkX0piUnFBSDVWV0F4czdqRjJNVkZya19yTzFLN05MSmx3cEVHbmRHNW9HVU9HTHNXZVBidUxfSjF0SXdkaUoxeFA1VW1pV1JESDbSAXBBVV95cUxNT0JzREdoZTF1UEFkNFJvdGdweUNqVlM5UW9BLUsyZF9KYlJxQUg1VldBeHM3akYyTVZGcmtfck8xSzdOTEpsd3BFR25kRzVvR1VPR0xzV2VQYnVMX0oxdEl3ZGlKMXhQNVVtaVdSREg2?oc=5",
+          "published": "2026-11-26T09:51:34+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "고리원전, ‘신고리 2호기 방사능방재 합동훈련’ 실시",
+          "publisher": "발전산업신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UbUpGX1MtWVc2U29WbVhHRXd0MmhrYjM1UEo3d0hGMzdMbXkweTREalYwWUJQb1dpT2ptVFAxMnRvTmExM1ZJQk5ucF9XWFhRUzVwYS11dHVlVmZCbUlGUDFfemFxRTVj?oc=5",
+          "published": "2026-11-26T12:26:45+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "고리원자력본부, 신고리2호기 대상 방사능방재 합동훈련 펼쳐",
+          "publisher": "글로벌경제신문",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16TEdWX3hyVHBuTTMtS29DM2pJeUx5bENpT3JWVl94SUtuWmZOMHFpT2EyZ0dmUzFLVnV4aDM5M3g5WGV5b0hXWUhoSWQzem5Kb1Mta0NRSlE3WXhmSXBQZW1RZVF1RDZQOVZkT9IBcEFVX3lxTE82Q3dwM3RBSDFRS0EzbmtNZHhCblRpdHVsQ3NsMTlKNVNyMF81MTFfSGx0WlpxVEZqUXVjbWEySVZHckc0a1BXLWs3T1JhWnR6WGdFeGI0d1RYVHk0SWJRZEE2ZUhHUEx5S3R4b3pvdU8?oc=5",
+          "published": "2026-11-26T22:57:33+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.929,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 창원시에 에너지 취약계층 성금 1,200만원 기탁",
+          "publisher": "서프라이즈뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlaXVEUUxBZlFmb2tRcVJsSnJhVHJkRjMwNjB2NnZsRjVBa2FqWlJDZURIeHB2cG15V3hybk5CRDJBZnRmUzhPNjBSbEd5el9DaHgxbkQ0aWZPTUVsUWtRcFBuX2RFQkhHeWMyMnVn?oc=5",
+          "published": "2026-11-26T06:59:19+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 창원 에너지 취약계층에 1200만원 지원",
+          "publisher": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XbUlGUEprM1BCRU9EUWJjbFJEQWF4aURyTmZsb3hRNHp3aTZXOEtBSnZyX3h4WDhZcm9aMEFsdklYZmJDc0IydVZoNjVobEtjREtLZVpIVjJTWjNRRC1NeGo1Nk1oSnRINDU5MUsteU9oX3PSAXdBVV95cUxNRGhaOWdDZy1XVG5WRG8zSzkzMldPaVdMT01XT1NVQW5DTzVmVTNBVU45ekh6RGRFRm1nRjRzSW1JclVxMzlFQWJpMjVIaG42OWJ5OEZzY2sxRVB2NEY1ZTMwSU9WNkhyVW5SLXRIZW1zVGZzOEFRbw?oc=5",
+          "published": "2026-11-26T07:12:57+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 창원 에너지 취약계층에 1200만원 기부…120세대 난방비 지원",
+          "publisher": "뉴스퀘스트",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nbnBuSnBjQTRXWkNwVjFYb1d3djA3R1FIeXBiRFViSG8zTkRDSUhtT25FcUtraWQzZDliSnNRcmZDZVJQdXI1bFdmVEtUMmhjcFlKUk9YdWZyQ0llM0FEZFo4eVkwZkJGbjZHU0Q0UQ?oc=5",
+          "published": "2026-11-26T07:50:06+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 창원 에너지 취약 계층에 1200만원 지원",
+          "publisher": "신아일보",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91ZzhFeXA4OUZEU0hYOEd2TGpVR2Rka05TUWQxejd1aFp0c0VVc3dIZ18tbHhGcnFyTVMtLTloTUpTeXJoYjAxejBoQ0VvWkhOZUEyZVdRRXp3MmJCbnRyVzA4cWI5X05EMkE0Xzd4elU?oc=5",
+          "published": "2026-11-26T08:31:12+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "창원특례시, 한수원·창원누리에너지 성금 1,200만 원 기탁받아",
+          "publisher": "국제i저널",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UYnBOUVpyT1E4akdRbk9JR3FvLUFlbmNPT3ZjS2tiaS11V203TUdJcThGNDRhUEVpZEloT0Fna25VWnVEZzFvQTIxWW5teDJOMWc4a2ppZXRxUjg5ZGgzMmtXY0tvb0U?oc=5",
+          "published": "2026-11-26T11:15:40+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 창원시에 에너지 취약계층 지원 성금 1,200만 원 전달",
+          "publisher": "웹이코노미",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LNDBVNy1DLWxGMU5DT2dUdk5tT2pISnRkVGh6VWJlOGxia2lXWldfaDJrYWlZalR5YUl4QUxhUUhwZDdIQUQydUpZUWRWdkV4OGxJS2RGcmJTM1YyMDdGUDN5R1BZM0p2Tjhpem9ZRzhoZw?oc=5",
+          "published": "2026-11-26T12:22:08+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 창원시에 에너지 취약계층 성금 1,200만 원 기탁",
+          "publisher": "시사코리아저널",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pZHdWNVNoSHhJZDA3clktQkRMSWQzUUNweHZGODJSMXZ6bVpqazRnZ09TNlZiQll2TGdEYmNkOGlUcVQwX1ZObnR4VmVfT2VxaGF4a002bjdsZ3VUWDZlbTlXRXZaQXBX?oc=5",
+          "published": "2026-11-26T22:50:16+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.924,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 대규모 청정수소 기술 활성화 방안 모색",
+          "publisher": "시사코리아",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1hck9CbUhoVmlsVy1aU241VUp6bEV0T09MMWxfX2tCZVVjWVBHdjNRanhScnRWNjNmQXhGbEZmUGQyTjVWN2c?oc=5",
+          "published": "2026-11-26T08:22:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 대규모 청정수소 기술 개발·산업화 방향 논의",
+          "publisher": "뉴스투데이",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZLUxRRVBNS2RFa29TQ3ZvMDhXUEJiNTNTanVtTndoWjhwRi1XZmE2WHl1bS1FTi01ZllJV3FmWTZEWFZST3huQWloMUxVQ0x5NkxSUzE1RVBXbG8wYnc?oc=5",
+          "published": "2026-11-26T08:25:00+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 대규모 청정수소 기술 활성화 위해 산학연 논의의 장 마련",
+          "publisher": "에너지플랫폼뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9na2xKdURQWXRndDZVWkxFVnc3a1pjMzhySzZmRk1UVnN1WGRQODM0Vi1UVXhiLXdYV2NfYXlOZnN6RDFzMnVjaXIwVWFZRXIxMm9MYW0yanVsUmlNVzhhUHU4Z3ZQVnVJWDFXN25lV3nSAXBBVV95cUxPZ2tsSnVEUFl0Z3Q2VVpMRVZ3N2taYzM4cks2ZkZNVFZzdVhkUDgzNFYtVFV4Yi13WFdjX2F5TmZzekQxczJ1Y2lyMFVhWUVyMTJvTGFtMmp1bFJpTVc4YVB1OGd2UFZ1SVgxVzduZVd5?oc=5",
+          "published": "2026-11-26T10:37:47+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한국수력원자력, 대규모 청정수소 기술 활성화 방안 모색",
+          "publisher": "시사코리아저널",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ESjg1WjlHVVNpWVNicmVkWlRaaFdHcVpQaVVmOVY2d2k0QUI5Tm9tdENTS1otMVpGLWRpZlVqMW5TNWRqa0FSMHpZNHFYLTNxRGw3VV8wRy01SGtxM1h1anJUTWlIeWxs?oc=5",
+          "published": "2026-11-26T19:50:26+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.8,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Tianwan moves step closer to becoming world's biggest nuclear power plant",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/Tianwan-moving-step-closer-becoming-worlds-biggest-nuclear-power-plant",
+          "published": "2026-11-26T14:33:38+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        },
+        {
+          "title": "Tianwan moves step closer to becoming world's biggest nuclear power plant",
+          "publisher": "World Nuclear News",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPanFHZThjX1VXdGpsMUgyNWs1X3JPZjZmMXBua0ZzTmUtenFjOVh2NXVXY0dKRkdTWDFqZl9jd0ZHMU81b0dVdVBkVUh0VzROdHRqZDhiSER3cUk5VFBCem1YVng3eU5HWUZidld5amZ3aUIzaDNvZGVYbVVvTnFVME8wb3g1b1RjdkgzU2dEYXdIVXFOZ19uODVILWJwN3dPaE11UHlVUmdjYWNIaWdfUzlYWFA?oc=5",
+          "published": "2026-11-26T16:57:16+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 3.679,
+      "id": 5
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "제 2026-19 회 원자력안전위원회 개최",
+          "publisher": "서울Pn",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSSXhoejBVZDBaUW94SW5JWGwyVzZfNEdLUWNpRklEZm9IUmVWOURoZElfeXg4QVZ5VjM5Ml9pcXY0NkF2T1YzUzVkMHNWYzNXNkQtZGh5X3djMFZrUkJUdW1B?oc=5",
+          "published": "2026-11-26T03:05:18+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "제2026-19회 원자력안전위원회 개최",
+          "publisher": "도민연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SbDJ3c1k3Q29YejBZNGZJWFVsZEgwZm5NTUF2ZmM2X2pqU2ZkVVhzUWJSazNVYTlRWVg0SGJua1Y2dXJzQUUzZGlGOFJubmdWc1gteGVLQnRNM3Y2U3FtZndSZmlQajM3bUE?oc=5",
+          "published": "2026-11-26T03:24:07+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "원안위, 제2026-19회 원자력안전위원회 개최",
+          "publisher": "https://www.climatepol.com/",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aa05xS3hCTTBicmdjQ3JHN3RVRHotN1hBMzlSZmNNcHdWam9ONEthdG56eGd0QjBwd2g4bk5tWTR0ZHMyRWxEblhSVnpoS3ZkUDVtTkxMcFEwLW11eVpsd2lzX0dBeVpidVJDLQ?oc=5",
+          "published": "2026-11-26T03:27:54+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "원안위, ‘제2026-19회 원자력안전위원회’ 개최",
+          "publisher": "발전산업신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YLWRSUFNzeTFOeGl0T3U3TEI2Rjd2cW5WV0FSMS1VTFdjN1RnVUptbUNyTVVxTklDb19JSnRXTzA1bVlJN0liOUpHLWRzQ2Y5dE96V1JvbDNtRUc5eFdtVG1sblZjVEpz?oc=5",
+          "published": "2026-11-26T12:45:26+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 3.504,
+      "id": 6
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 나눔명문기업 골드회원 인증",
+          "publisher": "LG헬로비전",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPdWNZcDI4NG1YTERyVVlzdXN6ODlZM1prWF92aTB0WXZGeDZZM1lNZ053dDVaTnh0YTA4VzQ0Z05SX1JkUnlTcU8zRGNhOHdvX0Rjczg4Qkl0aU1oUlJwby15MmVGWE9vQldVc1RJNEdad1U?oc=5",
+          "published": "2026-11-26T06:59:09+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 나눔명문기업 골드회원 인증",
+          "publisher": "LG헬로비전",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90bFowM081b3l3d0RvcGlSem9wNi1fVHNLOHZCRUF2OWJmaC1rWlotTDNyQzRIeUVTYTRUR0lhek1BWmp1N1RMWlp3MUprQzQ4WWF6cV9xeG9tSkJhSEVKODRrV0V4cGRqcVF6TUNjNlVSN0lvRWfSAXZBVV95cUxPdGxaMDNPNW95d3dEb3BpUnpvcDYtX1RzSzh2QkVBdjliZmgta1paLUwzckM0SHlFU2E0VEdJYXpNQVpqdTdUTFpadzFKa0M0OFlhenFfcXhvbUpCYUhFSjg0a1dFeHBkanFRek1DYzZVUjdJb0Vn?oc=5",
+          "published": "2026-11-26T07:04:31+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, ‘나눔명문기업’ 골드회원 인증",
+          "publisher": "경주신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xS2NuRWNtWm4wTnRJeExDVFRHWnZZbE1QQk5iLS1NaElxaklBczBCcDY5Y2h3TkVRcGIwUmdQVEpaN1NWNzJiaTFtRFYxVUEzckdEXzREOHhTUQ?oc=5",
+          "published": "2026-11-26T09:22:02+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 나눔 명문기업 골드회원 이름 올려",
+          "publisher": "대구신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sbWd4VkZ0RXBmRHZST2pmSFRuQWs0WWZaVUw5bzZKX2N6U1FFdGZGRHFKdlM4Qk1Ba1FDTFl6N3BuZWRmb2wwczU2c0hnUi0tRTNveW43N2VEWDlOZzF2TFVleWUtM0FrWVRJ?oc=5",
+          "published": "2026-11-26T12:15:07+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 3.483,
+      "id": 7
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한국수력원자력, 체코 원전사업 이행 가속 `현지 협력 행보 강화`",
+          "publisher": "CBN뉴스",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLVIzZXpVc3UycWRVdmhCOXBiSTFOc2NESFVRX29pQl8xZ2pzTk5pMFBRcVhVbTZ3S3h0aTZfMW5jT1BRZ1hYOUNYbE1mci1vSnFBLTZSRTJIdFdZdEktVk85YmJiT05BT0E1OE1XbzJva1VPTjlUN01VZG9Jd1Vlcw?oc=5",
+          "published": "2026-11-26T22:40:03+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 원전사업 이행 가속…현지 협력 행보 강화",
+          "publisher": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kR1YxWVhpeldMcGJ0alV2eC1NWklsWTdZMU9IQ2FwUF83S3VHeU1NRlc4RExJVE8xVGE5U20tTC1UdUc0UTNLSGFFTWluWS03S3RzRQ?oc=5",
+          "published": "2026-11-26T23:37:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 원전사업 이행 가속…현지 협력 행보 강화",
+          "publisher": "오늘경제",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByTVhZdHVPSkVSRVNmTjlhRUtIeWFyRnBtN0JFSWRNYnlNNU9NeUZOUWdjT3pZdHo0Tmt4LUQ1THhPTWF6N0gyaXZKUHNLbVRlUEtsaWxVX1o4MFU1MVoxa2UwRnFRTWhMX2xIbzJKNFV4S0k?oc=5",
+          "published": "2026-11-27T00:10:02+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 2.98,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "New approach to very low radiation doses needed, says nuclear industry",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/nuclear-industry-calls-for-new-approach-to-very-low-radiation-doses",
+          "published": "2026-11-26T17:30:13+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.702,
+      "id": 9
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Additional partners join nuclear-powered LNG ship project",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/additional-partners-join-nuclear-powered-lng-ship-project",
+          "published": "2026-11-26T12:51:40+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.509,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Lance operations suspended after cybersecurity incident",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/lance-operations-suspended-after-cybersecurity-incident",
+          "published": "2026-11-26T12:02:25+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.475,
+      "id": 11
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Twice-recycled fuel loaded into BN-800 fast neutron reactor",
+          "publisher": "World Nuclear News",
+          "url": "https://www.world-nuclear-news.org/articles/twice-recycled-fuel-loaded-into-bn-800-fast-neutron-reactor",
+          "published": "2026-11-26T11:30:08+00:00",
+          "feed": "wnn",
+          "region": "해외"
+        }
+      ],
+      "score": 2.452,
+      "id": 12
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 창원 분산형 연료전지 준공 기념해 1200만원 기부",
+          "publisher": "비즈니스플러스",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Nc3lCQUlqY2FaTERLR0tZdEpWeW9tX0FZOU1GOFIxd2JLcmNyRzlYNzZXUGNLLU9seFA1Nk9CcUlVR3o5Ui1YcGVJaHdUNnlucmNxZkh2d2FwZWkzcWtIa1d4ZGdDNGZsams4RlFTaw?oc=5",
+          "published": "2026-11-26T07:25:22+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 창원 연료전지 준공 기념 1200만원 지역사회 환원",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56OWl3ZnFsV3ZEVlQ0WEQyZGhLQjlpM3NxU3N4RXJZdXRZemZPa0lhN2otVmEzQVFJek5adi01TGg4Y182RFVnc2wtS3BqeGZFSnNEOFNSMzFjdnlCelF6X0Z6VUY?oc=5",
+          "published": "2026-11-26T08:44:21+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 분산형 연료전지 준공 기념 1200만원 지역사회 기부",
+          "publisher": "에너지플랫폼뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoeFkxWmxvZ08zdjcyR3VaVEc2UnJYREE0MkRkb3BXWXdvQTMzZlk5cERxdTZjWThrbTRFX3Y2Z1ZlYzJPRDRRZmpueXRId3hQU1lNdFdNV01YTDFYdmNDV1FUMmtwQm5PT3NJSFdZTGPSAXBBVV95cUxQaHhZMVpsb2dPM3Y3Mkd1WlRHNlJyWERBNDJEZG9wV1l3b0EzM2ZZOXBEcXU2Y1k4a200RV92NmdWZWMyT0Q0UWZqbnl0SHd4UFNZTXRXTVdNWEwxWHZjQ1dRVDJrcEJuT09zSUhXWUxj?oc=5",
+          "published": "2026-11-26T10:37:47+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 2.416,
+      "id": 13
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "원자력통제기술원, 국가품질혁신상 인재개발 부문 대통령 표창 ‘영예’",
+          "publisher": "에너지플랫폼뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xUWtkTThjck5Oc0VFWVVZcU5QSkhUZE85MGdYYWllQTl2V1N1ajA0ekwwaGpsQThhRUtlUDgyYlpGN2FEeDNDdGNXczkta0E5YUpVeTdVdnFsYmw5SGhSTFVxN1NrZUp1bm11MmZVRlfSAXBBVV95cUxOMVFrZE04Y3JOTnNFRVlVWXFOUEpIVGRPOTBnWGFpZUE5dldTdWowNHpMMGhqbEE4YUVLZVA4MmJaRjdhRHgzQ3RjV3M5LWtBOWFKVXk3VXZxbGJsOUhoUkxVcTdTa2VKdW5tdTJmVUZX?oc=5",
+          "published": "2026-11-26T10:37:47+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "원자력통제기술원, 인재개발 혁신 대통령표창 수상",
+          "publisher": "에너지안전신문",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XbUFoNVFLRFd2ME9YUXZYSlpaX2VlTUU3WURDLXBYYnBrV3Z1Ml9PY0hLS2U0RTM5VVRkblRBY2JldVdaaHNEU1Z0SHlicmoxNXQ3VHlzVFMtRWpSdTFGUnIxbzU?oc=5",
+          "published": "2026-11-27T00:28:09+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.992,
+      "id": 14
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Update 377 – IAEA Director General Statement on Situation in Ukraine",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/pressreleases/update-377-iaea-director-general-statement-on-situation-in-ukraine",
+          "published": "2026-11-26T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        }
+      ],
+      "score": 1.973,
+      "id": 15
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "IAEA Visitor Centre Launches Pilot Programme for High Schools",
+          "publisher": "IAEA Top News",
+          "url": "http://www.iaea.org/newscenter/news/iaea-visitor-centre-launches-pilot-programme-for-high-schools",
+          "published": "2026-11-26T00:00:00+00:00",
+          "feed": "iaea",
+          "region": "해외"
+        }
+      ],
+      "score": 1.973,
+      "id": 16
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 체코 두코바니 원전 건설 준비 속도…현지 조직 강화",
+          "publisher": "글로벌이코노믹",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM3RTcmxITER1bUU0ZjdsU0pYbUJSYnNldUlFdDR3cnRhMk9FYzY4aXBkMVFGRFpvQXJSak5ZMnBtX0xfNkoyZ0ZVYkpKU0ozQmdmM1Q5S2E1WXhwX1lXbjBXVWNXYkZXOTNyTmRhdzF4Mm0wUmp0bjUwaXV6R1dOdk5maUJ3aktER3c?oc=5",
+          "published": "2026-11-26T22:49:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 두코바니에 20명 상주 조직…원전 건설 준비 속도",
+          "publisher": "뉴스퀘스트",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQVV80ZDJZUGkwYmg2N2h3YnVYa3FtMWtiQlBUTTgxY0d6NjVqVjYxa1F3MFk5Sk5Zbk05d0JieVVvaExabHlHQmhHY09oUDJsazV1djY5bGZmTkhYTGlVODlyVWNVT0tPanhRY0ZWdw?oc=5",
+          "published": "2026-11-26T23:52:38+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.968,
+      "id": 17
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "산업부 장관, 체코 원전사업 계획의 철저한 이행과 체코와의 신뢰 공고화 방안 점검",
+          "publisher": "헬로티",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qdWhoWHVDc29DWlNaTjRpOHM1eWo0M2RyUzg3NWhrQW1ES1F6dThvQ0hJcjhmR2FwYnBHMHBIdm9VZlc2NFdPNkxYbDdNRUJWV0Q3UVBJRXlkVm1fRC13?oc=5",
+          "published": "2026-11-26T08:12:12+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "산업통상부 장관, 체코 원전사업 계획의 철저한 이행과 체코와의 신뢰 공고화 방안 점검",
+          "publisher": "국악타임즈",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tSkxNMmtGZ0lwM3BxSnhQMGRxRVZuMGd3Qlh6ank1UVpobmdQbi10bVZleDl0dmptTUpJdHVSVzdaNWhXd2tDeWtEZVZZU01LUFgyUkRid04yWXpkY2hqaWN2Yw?oc=5",
+          "published": "2026-11-26T23:42:29+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.961,
+      "id": 18
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "한수원, 체코 원전 현지 사업관리 강화 “건설 준비 속도”",
+          "publisher": "인사이트N파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PZkcyZlZpdlRSWFJ6QzZlRVNtZlA3aW5WRUxVeXB1TFJrS243WTlFaUxoSloyQUtOb05sVVRSTlhSeFZoeml1LV9mZnVyam1jOWNtNGxzMW4za2lmNFZ5b3BMN1JGQQ?oc=5",
+          "published": "2026-11-26T23:10:34+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "한수원, 체코 원전 현지 사업관리 강화…내년 4월 건설허가 신청 총력",
+          "publisher": "아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2a21NdGhKaHU2Tl8tbi0xbVl3RWdYRlNzZ2pHd0NCWTNROFNpWEdWNGo5OHpPbVNScjRmMThZVmhreW4yM19EUDRzdktzWUZwSi1HeVVDczFtd9IBWEFVX3lxTE8yYy1IYXR5TkVjV2xMSzVsU3hvMUp3RnNxcnlORWx5Wi1zVTRLMGZQcm11MThhRHkxaFVvZTMxMWowWDBfZm1FMTVVbU1pRmtwck42S0owWE4?oc=5",
+          "published": "2026-11-26T23:16:15+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.942,
+      "id": 19
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "두산, 한수원과 체코 원전 추가 설비 공급 추진…시공 협상 결렬과 별개",
+          "publisher": "KPI뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xOXRLMjNTZlR5VFlTSm9IR2FucEZQbEpGb2doNTRqa3Q0dGs4ZjQ5X0xtTFRaU3pnaGtPbFJpS1ladnJTODFYRTI3RTRDV1NwOUVR0gFTQVVfeXFMT3E5dEsyM1NmVHlUWVNKb0hHYW5wRlBsSkZvZ2g1NGprdDR0azhmNDlfTG1MVFpTemdoa09sUmlLWVp2clM4MVhFMjdFNENXU3A5RVE?oc=5",
+          "published": "2026-11-26T22:55:12+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "두산, 한수원과 체코 원전 추가 설비 공급 추진…시공 협상 결렬과 별개",
+          "publisher": "KPI뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByUE1BU2JZTVRxdzZwcUNwWTRvQXR5V1RXdFgzLUM0ZUJWNUQxWmg4emhFZzV4VHhLZUhYY1VLT2VhdDRfYWpBWEk2RHFqeURMdWZ2clpnNNIBU0FVX3lxTE9xOXRLMjNTZlR5VFlTSm9IR2FucEZQbEpGb2doNTRqa3Q0dGs4ZjQ5X0xtTFRaU3pnaGtPbFJpS1ladnJTODFYRTI3RTRDV1NwOUVR?oc=5",
+          "published": "2026-11-26T22:55:12+00:00",
+          "feed": "gnews-ko-reg",
+          "region": "국내"
+        }
+      ],
+      "score": 1.928,
+      "id": 20
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Türkiye, Russia discuss energy cooperation and Akkuyu nuclear plant",
+          "publisher": "Report.az",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTXdnME5XUTNaNVJ6WlNabjh2a3VzdW5aTzRaY3hmRjRhcUV4OVhfT2dpaGt1MGY5Q0RFYWVlaHpFaDNPcEN0OHd3TE5SX2htZ0d1SkR3MVNTcEpfbFEyelcxQUE0aHFWNmJURmpJem43Ynd0M190cUw4RHVCQktJem1fLWM1V3RDMEFUSkJOTHozRjY2d2Zfa2Rn?oc=5",
+          "published": "2026-11-26T19:08:10+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Turkiye and Russia Discuss Energy Cooperation and Akkuyu Nuclear Plant",
+          "publisher": "Qatar news agency",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa2JjcTJhSE1tWFkwN0hvY3ZMM0lXNUNkWWtzalhLeVdtQ0JLblNiNG9CRzVtMFFHM2dhMmNnRFhwY1pRX3gwYTdqbFV1OFNlQ0h4Vm55LWVDM3FtaVVrRnMzX19vQ1Z2SmlLYUU2cVIycFdhVmtnLXNEdUZlZy15d251SGUyWmoyN2dveVZPUHd0ZXdLWURxMkNEaWFSV0tVZE96QjhIc0QtYzJ6eU9CaGdlcXNxVHpKaVE?oc=5",
+          "published": "2026-11-26T22:03:55+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.892,
+      "id": 21
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "TEPCO delays restart of No.7 reactor at Kashiwazaki-Kariwa nuclear power plant",
+          "publisher": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcW92WExiRjl5eDFteVR6MTRZajRyQmhwV0ZxbW5MQmt2X2RYc3lHMjJCRnhkdFdpMWl2dlFJT0ZQQlJZbVdJdEd6SXdSdWV5aHdJTU1EQ1dxZGRPa201eWZZX3NNdEJZUi1xT0FEbURiWnF1NzBzX191T3NNNHd4REFqbGhkR2p6dUx6b2RMelpPSGt4Q3hRR1FteUVlWGdxSW10RXRNM1hTVXdURlZ0SFNvb3BBTmM0a0dVanFEN25XZXJ3WUlWV0NiQXJNb0paTWswV0cyeG82TURkTlFSQVF3?oc=5",
+          "published": "2026-11-26T09:37:38+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "TEPCO delays restart of reactor at Niigata nuclear plant by over 1 year",
+          "publisher": "Japan Today",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOXl5N0dQOHpZNHdVWDJ6MURaZHJTX0p3TDJTTEtLNUxlY2kwRW1mTU5kNjJ5bnR2ZzRlem54ODU5VFVpVGRYQVAtazc2X0RBaVU4cEVycGxvQU5MZWY3Rkl5UDNoMGxpaVZ5TGJvNDB4NWNkX1E0bjJFY2VTeW1RTHowcHAxZFhyWWZhYmFmaERYZ1ZrbWpXY1RZWk5neGduWWtkMUZTSkJMMWUtQmRNN0ZR?oc=5",
+          "published": "2026-11-26T21:00:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.848,
+      "id": 22
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "헛도는 원전 공론화, 여론 수렴 뒤에 숨은 전력 정책",
+          "publisher": "마켓인",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aUlVsX0J1SHkxWEJndVZESXcxQzBmS2ZmWWpnUlJnZk5hZWJGN0lXT2I0ejdXei1WMkx1V19ZNzIzVENNRVE3YWM1U3Q0OWV1UVNoMWFqS1ZfRVVCYXZxRDlGSG8zcENkYm96Y2FTOUJPdHc?oc=5",
+          "published": "2026-11-26T20:00:04+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "[사설]헛도는 원전 공론화, 여론 수렴 뒤에 숨은 전력 정책",
+          "publisher": "이데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWlRQX2RGeTBIU2dranVjdmcxVXFuZTQxTTFIMC1HNnJ2ZU5qek1EcGRmVHJFSmR2NnlPS0w3Q3lwX3NBZm9EdV81bFJ2UDhHcTN4MFpTUVN0Qm9oY2lxQ0lPVlFXRTcwXzE1dDUtX0ZnUWVDaVBWblNsRUxYc2dRVQ?oc=5",
+          "published": "2026-11-26T20:00:04+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.806,
+      "id": 23
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "새울원자력본부, 겨울철 산불 대응 합동훈련 시행",
+          "publisher": "에너지데일리",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FR3hjRXRTcGZzTWtUU1FOQXVMQXEzUjQwMU00cVFpaHVIeUN1amtWZmtwMTUzbXU2Zkp5aGFfNEhRMFJNRFFuZjVWMGNTSGxCQldIcTRVVTZRNEM0TFZDSkxaSkZ0N0ZxRml3WENIMS1Idw?oc=5",
+          "published": "2026-11-26T04:22:55+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        },
+        {
+          "title": "새울원전, ‘겨울철 산불 대응 합동훈련’ 실시",
+          "publisher": "발전산업신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80U2ppT01MT0R1R1ZHVjhXcGpoTGowMDBmYVJOX3o2cXNjOFRMcnhwRjQzOFNEQTdfNEJaenQ2ejBOWnAyRGc0WkUtYXBqQmlpcTZrbXVjcDh3Q0Q3ejZaLTRwM1d1Ni1f?oc=5",
+          "published": "2026-11-26T12:34:00+00:00",
+          "feed": "gnews-ko",
+          "region": "국내"
+        }
+      ],
+      "score": 1.496,
+      "id": 24
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Vietnam weighs delaying nuclear power plants beyond 2035 target",
+          "publisher": "The Edge Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBteWFBNURpV1ZubUxGZ1BCb3ZjZDFhQ0xxMjNvVWV2YUNoRDBCNEc5YU5SUkRtR2F6cHFUZ2RMcUNBU0p6VTZuUFR3eS1MSnEw?oc=5",
+          "published": "2026-11-26T07:40:25+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Vietnam Weighs Delaying Nuclear Power Plants Beyond 2035 Target",
+          "publisher": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaGdmcUtqLWtoVmNGWVJUczdNUUFPTWFSNjY1Q1ZTTzNtaExWZUdUOU5EdzRDUHBGQW1oejRXNE11QWNNaXFMeFR5REFrc19jeDFDbXoxbGYxVFJ3MFZvdzRNX0t5aGxPZWNIbmJaVWVuM3VzaDUxTFlzSG4yLVpMYWxRb0dnQnF3SXFMeHFETFRnT244dElKYTBzclV4SFIxV1p6MTE2djJCOXdBMmFoWFNiTWY?oc=5",
+          "published": "2026-11-26T10:35:17+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.414,
+      "id": 25
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Japan’s Tepco Delays Nuclear Reactor Restart on Building Issue",
+          "publisher": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZGNMMkhLY2VERnJQSldVcFJZTTE4djRCUVFRb1JUWE5SdGUxOXZvY0gtM0pDSHAzc1c4c2xyVHN4bzZwLUItdDV1Yi1uTUttVVZxbVNsX2FvNmdaYUVCMXFISlZZd2VGM3hzMGE3eUp0Y3JFYkpTYlEydTNib283d3N5Z2FORng0Y2JMckZNNlktZmdjc3hwVkt2Zk5iTlZSNURycExxUDNTa3BJaTg4cy1JOA?oc=5",
+          "published": "2026-11-26T04:23:00+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        },
+        {
+          "title": "Japan delays nuclear reactor restart by over 1 year",
+          "publisher": "US Muslims",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbHhqMW5FLWdtdzBkTC01N0xIYlJVM1lrcldGX2NUTVM3N1AwNG94T21BZTdMdHBpV0lZLWUxRnF4S2JtajFGalJOQ1RsQ2hwcG10YjhTZUVKSmlNaHlXbTF1d051M3A3bTMybHg4UnNOSmFubjUxUnpDZlJMd3Fhem9OalR3OHhMSE1tYkNlMk16NFXSAaMBQVVfeXFMTjhwNktScW1zWFB4UkVBWERDOXZOTFZuU2JKTDl1aTBvM0tKbEotY3Rabk02YjZicjJ5eENRVHFDYjUwSWpYVE5yYjZWeXhTQkY0a2I2RkhDeWhmbFhYTTAzY0h3MWJqSDI5WHJIa2dRbGZZNWx5dy1Qa0dQQmRmME9VZms1Q1NFbGtGVHRrR1dwMjFuQ1Nlbk1qZ3hQMjdRWkR5UQ?oc=5",
+          "published": "2026-11-26T09:54:29+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 1.386,
+      "id": 26
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Nuclear power needs to be part of international climate objectives: UN report",
+          "publisher": "Yeni Safak English",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaFNoWTd5WUd4Rk5tZzlVZE5tUDdUOUdHdG5UeU9jeHlVUU9iQVdvcWM3WVh2alRnd3RaWGdqMVQycFdMNGN5ZzFsa3F3cXZlR1lNemowZ093dUpRR3hZMUdHMGExWlAxdVJuZUFjdFVTMjJRcHpucmhlYUcxVDdFcDc5VDJiSXR3blhoZEtYVW9iWlpnZE9XQWdnTGlpa0p0cVJOb0g3cURVU0d0WlBOT2tfek5XMEhM?oc=5",
+          "published": "2026-11-26T22:54:44+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.928,
+      "id": 27
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Decision Regarding Paks Nuclear Power Station Expected by Year-End",
+          "publisher": "Hungary Today",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZVRtRHRDN1A4UHBNM0FMM3V0LVZoc1lMdEhoOGJXMlVQLUxrZkNWTnVrVi14MnlMbkROdERzUWI5ZmFaakNDSFZ2a1RtTHZPZm5PUzA2eURObGQyUVllVlFZVFQwM0s4Y05TSHhFdmFwM2wzMnltSk9QR1hYbVdnazZEcjFoWXhzWWxEQmRtYS03cTNCMFE?oc=5",
+          "published": "2026-11-26T21:56:32+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.887,
+      "id": 28
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Poland Advances $50 Billion Nuclear Power Plant With New Equipment Procurement Steps",
+          "publisher": "Construction Review",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc2Fwa2xTbUlJQ0RQanM0SmdHM1JaNFp1R2xDaVp3b2htREhVUGZLU1YyLU5XX3VxNE52U1J5M3MzMWZYcHRSMWxsMjFrNWpZTnNTMUprNi1teXBUMm82aXFWdmpiYUZzcW01NERnOGhMVmFiaFB3azM0MkRTQTZfZnh2NHV1cFUzbExyWDhISDdLWFo5R25ZcXF0V2dvV1V6alVKeExEQnUtMm5kcGgya3A4Zm5oSkNwQUhwRjVR?oc=5",
+          "published": "2026-11-26T21:44:19+00:00",
+          "feed": "gnews-en",
+          "region": "해외"
+        }
+      ],
+      "score": 0.879,
+      "id": 29
+    }
+  ],
+  "feeds": {
+    "gnews-ko": {
+      "ok": true,
+      "entries": 100,
+      "kept": 96
+    },
+    "gnews-ko-reg": {
+      "ok": true,
+      "entries": 98,
+      "kept": 71
+    },
+    "gnews-en": {
+      "ok": true,
+      "entries": 70,
+      "kept": 64
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 50,
+      "kept": 5
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 2
+    },
+    "nrc": {
+      "ok": true,
+      "entries": 174,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    }
+  }
+}

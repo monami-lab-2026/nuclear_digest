@@ -1,0 +1,288 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T00:39:11+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Munich-based Starforge launches with €6.6 million to mass-produce compact nuclear fusion reactors",
+          "publisher": "EU-Startups",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZmRodW1KYXFYNHJMQWY4d1F6cnE5a1hhY2NlRDRNYThWQ0hFMGJtN2VhU3VhSWxyVjJGWkJxWnk5QWdacjNlTTVYaFNLMWUwc1N0d0g3eFlYcDU0SnVOYTk4cndPdld6RmFTZlVsTGxIR0sxR3AzaUJrcUFZWlhqd3dVWXMyY2RnS2RaSGpfMFVBYUJMd2dLc2trMkZ5bW9sLXJ6UWR2endHbDR1UmFYUUxsLVBJNlM3U1g1d0p1U1EzU1pDbEVCMW1NVG5JLWM?oc=5",
+          "published": "2026-11-26T12:14:34+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        },
+        {
+          "title": "Munich Fusion Startup Starforge Raises €6.6M Pre-Seed to Mass-Produce Reactors in Factories",
+          "publisher": "Wowtale",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQVnJVMWxVYks4R3o2YkxpWWpna2hoZ0FWaTcwRHhXMmprMDBMT0lnU0VDZ0lwV2pDanlvYTFWYTJ5UklELXN3ZHdGenhVQ0FuRW0w?oc=5",
+          "published": "2026-11-26T21:22:48+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 1.864,
+      "id": 0
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "블루포인트, 핵융합 산업화 세미나 개최…블랑켓 기술 사업화 논의",
+          "publisher": "스타트업엔(StartupN)",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjNEVDZVI4bnpPNTIxQUljZ21iTlJWUzVnTndGbUF4dkVsNDE1TlJDUmNIM01zVEU3TEZfb0FkaXdjUVVudzkyVllBQVhqUWhzdG14TURMUG9USmNQb2JSd3VFbnAtWDBXNkRWaNIBbEFVX3lxTFBjNEVDZVI4bnpPNTIxQUljZ21iTlJWUzVnTndGbUF4dkVsNDE1TlJDUmNIM01zVEU3TEZfb0FkaXdjUVVudzkyVllBQVhqUWhzdG14TURMUG9USmNQb2JSd3VFbnAtWDBXNkRWaA?oc=5",
+          "published": "2026-11-26T04:20:30+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "블루포인트, ‘2026년 핵융합 퓨전 빌더스 1차 세미나’ 개최…블랑켓 기술개발·산업화 논의",
+          "publisher": "beSUCCESS",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBfbHNuRDBON2hUTW5XbXZtZEpLeXFXX1ZfWi1mVEdrVlJ3T0p0cjgwb2R2cEZfX0JCYWhBV2xTT2RPZXlJTnc?oc=5",
+          "published": "2026-11-26T05:46:22+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 1.213,
+      "id": 1
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "핵융합 상용화 앞당긴다…블루포인트, ‘퓨전 빌더스’ 내달 2일 개최",
+          "publisher": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA3MGU1YzFGc2lSLVZLNFhEbWIyTWRCR2xlS252RDg3aVZEdnZIX2txSl84aVBsRTJrUmcxQld3NGNLd2NmbGc?oc=5",
+          "published": "2026-11-26T00:58:20+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        },
+        {
+          "title": "핵융합 상용화 앞당긴다···블루포인트, 내달 2일 '퓨전 빌더스'",
+          "publisher": "헬로디디",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjU0tpZW5tZ0UwWTJpbkltdG9qZ1hjbUcxZUU1dXBuWWNFVmhVWS1BWHNjS0xPT2lNbDU3NHRvNzdydEVqdEgwYjdFaVhKSG5Kdm83Rm42ZTN4UVZHZjRiMWhDSVZ5dHUyYVE?oc=5",
+          "published": "2026-11-26T01:30:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 1.035,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "공장 양산형 핵융합로 스타포지, 660만 유로 프리시드 투자유치",
+          "publisher": "와우테일",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01UTBaSnpmQ3ZaWTlmY19pTmxTLVRsVl8xanQyeUdqb0g5b0RxOUxvTVBsVFNFdWFyWEhkSk5XeFlzQ3FSN1FLZk1UUEdEVkE?oc=5",
+          "published": "2026-11-26T21:22:07+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.863,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "핵융합로 '블랑켓' 산업화 길 찾는다…블루포인트, '퓨전 빌더스' 개최 - 머니투데이",
+          "publisher": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Nbmc5cXJreHVSZm5id0ZLTVJrRTFPQ29tOGFiSDIwelhQdnVDdk1vY1RTU3o4SmQ3bzlhZVNzMmVranBZNG5YZmIxWEtzZ082bEEtQ2owNjcwMUVGOUx6UlVORWFMV3VCOFU1cWRqNmxvVjAtNXNj0gF8QVVfeXFMUEttdzZoWVl5c2JLMHBtM2Y3MEYzWjk0YWowM29Wbmh5RmtpbEZaazJjRmVObWxDX0ZzRXRPM3pTTDBHRkJLMjkwakxRclZXa01fc2UySDNRX3Qyd2NwQUFJdDMtVS1ObU1EQW8xREJKZ214RVZsc2g4WVo4OQ?oc=5",
+          "published": "2026-11-26T19:05:50+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.769,
+      "id": 4
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Pacific Fusion granted radioactive materials license for fusion facility",
+          "publisher": "The Business Journals",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS25oSGRDNjRlMjB6MnlKdC10YXN4Y0ZITFRUMXg4RnRIOGpRdWtCQTdqa0ZEOGFUVENVZXpaNEdReFQwWFdUdEFMdTRyMUswUEs5UG41MkZaZUxPeEhnWUVMTGpwck5UN0NLbmZ6cC1SVmJubFljWXh1c21JZ0NZcHVwTW1pZGhVSFlkS0ZwbFBibXJsZkxmcTFVZHRMcGpPbExyRW50UDQ?oc=5",
+          "published": "2026-11-26T19:00:00+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.764,
+      "id": 5
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Fusion Startup Starforge Wants to Sell Reactors, Not Electricity",
+          "publisher": "Business Model Analyst",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONkg4NVNjdWJoWXlhOEhfcDBSTGJjMmZYVTE4bDBnYjFpQlBycGd5V0xrTjNKQUlQRXVkMXF6ZFFjQ3l0eEd5WVREcUM0cFp0OVZ3VUh2a0VkeEZqTDhzT1B6ZXNpeDF1RUkzSndFZHQ3LWt5c3Q2eG5NZl95c2hqZEpwQl9OUUU?oc=5",
+          "published": "2026-11-26T17:17:33+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.693,
+      "id": 6
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "블루포인트, 핵융합 기술의 산업화 가능성 찾는다…‘퓨전 빌더스’ 첫 개최",
+          "publisher": "벤처스퀘어",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfbzdEc3Y1d01hNnNKc3k5SEJqU0h0VkJQc3ZDbHNYTlFnS290dEFwWXliZ0ZYdGJyTGNOcVRYb05IWGtJaVM3MTVvWlhtZEU?oc=5",
+          "published": "2026-11-26T16:02:45+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.641,
+      "id": 7
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Japan's METI awards Kyoto Fusioneering-led consortium up to JPY 23.3 billion for tokamak fusion power demonstration",
+          "publisher": "Energies Media",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2QzlvbVlRMXcxOHFyVmJOd3dYX0RRVnQ4c1ZtdzM1cEdnTUlWaXZSWE1GSjdvZkh4LXc2NDJSZHpKQk9TLTBkNGIwQVZaRENsWkpnLW1MWFFYcFpfZXpaTno2NjluWkw5bDFHSF9TLWg0UQ?oc=5",
+          "published": "2026-11-26T14:37:20+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.582,
+      "id": 8
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Three German manufacturers produce the first radial plate for Proxima Fusion's stellarator",
+          "publisher": "energynews.pro",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN01rQjBBM1lPa0xDZW43eXJsbjRlYU5PYnFSbC1pX3d1V3h1WVdBYkJueFY1RzNhRXJ3eks5MHhUR0tTZk14ZzBYa0xxUFdoX0N6Q1hOMklubkpoX0VlWTNZN3pfUE1PRFQtT1ZNZ25VcUZiVjhUWHcwd1Bja0ZjUkdfMUFwMnZZdjdPd2Z0dGQwUGVScDNoYVZXcFVBbGtjb0lfbkFNUlg2VTBESTNXNlN6Rjg4UQ?oc=5",
+          "published": "2026-11-26T10:03:40+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.392,
+      "id": 9
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "이 대통령 \"미래산업 패권 경쟁, AI·반도체 넘어 재생에너지, 핵융합, 양자기술로 확대\"",
+          "publisher": "한국일보",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04b25Kd1UzZmlfZXlQZEI0aTEwNTg3VXFsbFJob0RJSmpBc094RkQyaGM5MW9hLTV4bTZib044eTJmS3Y5ZzVscXduSnNtU0NIWG4wVTIxQzQyaVJZU0tyNVM1OFE2Q0xiR0h0d05jeWR4WFk?oc=5",
+          "published": "2026-11-26T05:57:00+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.221,
+      "id": 10
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Samsung C&T joins project to build Korea’s next-gen fusion reactor",
+          "publisher": "mkbn.mk.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA0MGlWQVMwek94SG9wSVNfcXFjTE1nR1NkNHhmZVpHa3F2TWpmZkRtdVlBTHdYeFhBQ0lTdmk1SklFbGlLdzJub0ZIUzgtakpQZm5Xc0NR?oc=5",
+          "published": "2026-11-26T05:34:37+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.205,
+      "id": 11
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "삼성물산, 대형원전 넘어 “핵융합로 설계ㆍ건설 기술 확보 나선다”",
+          "publisher": "인사이트N파워",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94VTBnSV9QSXZDN1JFSTl5dUhfUW16cjNFRXYybDFHcGtzM0ozdE9VeThLQ2dUUUlLLW5kektoYXBuU1RyOV9FdkxKNXEyXzdOX1dDXzBKajY4aFFWR214X2tHQ2ZLUQ?oc=5",
+          "published": "2026-11-26T03:04:12+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.101,
+      "id": 12
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Nuclear fusion: Europe’s largest experimental platform for breeding blanket studies and testing at ENEA Brasimone",
+          "publisher": "ENEA-media",
+          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOdlFrYzRyS3VPSk5VTHVFNGFJTmplb1JaNFRzRm4tVGVPUjU3TE4xYnk5SXotUEkzTXJPZ0FQcGRETEU1cDVFWURvVnY2SWRxOGZsLWZtMV9YU1I1NnA5QmZoNE1xd1Y2WFRFWWN4M09oSVJDbUppeTRNOExES0lpUG5YUnE5SFUwY3JzaHVNQ1hneTJ0Nmx4QzRVSzR2b0dkQTNMbDdDMXNYQnp1NUxrUE4ydXBwRWtlWWZqc1ZlR2t5RFRwODlFdUJzd1ZyTWJTdjlvd3VWY2Zoa2lFZmhLMkV0LWxnNmxfWHpfY1hwbHpNeENRVkNDS0lIckY1bTY5WHphRUE0aDFtWTBRclN6YmV3LTd5R1FZd3FVcWxn?oc=5",
+          "published": "2026-11-26T02:41:29+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.085,
+      "id": 13
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "블루포인트, 12월 2일 ‘핵융합 퓨전 빌더스’ 1차 세미나 개최",
+          "publisher": "와우테일",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iRmluMkxOZnpqbUZKTkRZbTJFNTBWamtndHNnQjEydmJmdXlYTUdUM0xUQmQtU0dMQ2ZaQnVYNWI1SC1sVEdrR2g5d09jQWs?oc=5",
+          "published": "2026-11-26T01:11:21+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.022,
+      "id": 14
+    }
+  ],
+  "feeds": {
+    "gnews-ko-fusion": {
+      "ok": true,
+      "entries": 22,
+      "kept": 10
+    },
+    "gnews-en-fusion": {
+      "ok": true,
+      "entries": 18,
+      "kept": 8
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    }
+  }
+}
