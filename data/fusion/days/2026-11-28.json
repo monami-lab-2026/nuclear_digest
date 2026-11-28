@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T00:06:01+00:00",
+  "engine": {
+    "engine": "pending",
+    "reason": "waiting for the Claude Code session"
+  },
+  "overview": "",
+  "stories": [],
+  "sources": [
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "German stellarator secures first radial plate",
+          "publisher": "Nuclear Engineering International",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV2VGQlU4T1dVNU9sVjc1M0JtR1NqNVM1RU5EWFo5UUlSWjNEWkdhWEJiQlpXMTdRdnJWLUJINTh0dldNb0Zvam9DbFI2TGNGc3FSWmZmN0xoUjFrZldaS3c2ZUFoaDl1NGJDdFVGc0dFSnF4eTdYcGdlcllkc0x6bVhFLWJJUQ?oc=5",
+          "published": "2026-11-27T16:53:26+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.7,
+      "id": 0
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "Larmor mmWave Systems secures Venture Kick funding to power the future of fusion energy",
+          "publisher": "Startupticker.ch",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYU11LWNGYnQ2RWpRakNRa0k3clZvQlJNbGpqWWp2RUI1RG50dGZiUV8wTEJuZVJaTUxyUmtPQ1RXS0VOMG9nWkg3QzlzRWd4U3RUNzJsUUxBNWVZQm8xX2QxaDFUWWJCX1pRS0RUTW5PbEdidE9DdWxDXzNnekZCOXAzdGQtMFRxU18xdEo0X052ekFKWl9IRWtZTDY2bHJ1NFJkX3publNuMTZRRG56N1hmR2N5azI2RnZFdTZCamUxUQ?oc=5",
+          "published": "2026-11-27T08:19:58+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.343,
+      "id": 1
+    },
+    {
+      "region": "해외",
+      "items": [
+        {
+          "title": "High Voltage Electrical Engineer – Proxima Fusion – Zurich",
+          "publisher": "energynews.pro",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT0dIQ3VBZ09SdzNTSjV0bW1RNjdqVmlEbUo3UjVnOVFfa3p6aXBNUWRabU1CN3NpeFpIY2twTDc3elh3ZW5kM2VHejV4ajZkYjdSUTlWVUxrRXR5b2tIVllRVzBBYzZraWl1YUoxcXJmM0lheGhfZVdZcExIRUpkQlBwUTdOR2txR3RlVA?oc=5",
+          "published": "2026-11-27T05:48:27+00:00",
+          "feed": "gnews-en-fusion",
+          "region": "해외"
+        }
+      ],
+      "score": 0.238,
+      "id": 2
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "AI 데이터센터 전력난이 불붙였나…신성델타테크 ·비츠로테크·서남 초전도체주 '폭풍질주'",
+          "publisher": "핀포인트뉴스",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBOWjNtYnVxMmx0Y3pXajJhVHNSdW1VdVNVZlRjUFFadGRpUGowRHAzM1lwRlhzRU1oeWlLdmR5VTJURERFd0EyZTRxLTNpWld4YTJQdWRRSVJuOUxPbGljSm9USG5VbV9mVFFXMHFQeXpNcXBPUkVR0gF3QVVfeXFMUE5aM21idXEybHRjeldqMmFUc1J1bVV1U1VmVGNQUVp0ZGlQajBEcDMzWXBGWHNFTWh5aUt2ZHlVMlREREV3QTJlNHEtM2laV3hhMlB1ZFFJUm45TE9saWNKb1RIblVtX2ZUUVcwcVB5ek1xcE9SRVE?oc=5",
+          "published": "2026-11-27T03:44:58+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.152,
+      "id": 3
+    },
+    {
+      "region": "국내",
+      "items": [
+        {
+          "title": "【ESG Deal】아크, 전기식 탄소포집 투자유치·워터센스, 수질 모니터링 기술 자금 확보·스타포지, 핵융합 투자 유치",
+          "publisher": "임팩트온",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LMjdXNTh6N0lFY3VsbTlQN2EzcXV0UWJsN3o5VTdNOHJkSjRjS0ktWVlfOGxxbG5tQkJZUkhxSlBWT3BQamFyeFJ5bU1OY09lMHlaUnZQNmdUZF9hWU1Gdm1OZ0YzMld6Zmc?oc=5",
+          "published": "2026-11-27T00:41:14+00:00",
+          "feed": "gnews-ko-fusion",
+          "region": "국내"
+        }
+      ],
+      "score": 0.024,
+      "id": 4
+    }
+  ],
+  "feeds": {
+    "gnews-ko-fusion": {
+      "ok": true,
+      "entries": 8,
+      "kept": 2
+    },
+    "gnews-en-fusion": {
+      "ok": true,
+      "entries": 21,
+      "kept": 3
+    },
+    "wnn": {
+      "ok": true,
+      "entries": 52,
+      "kept": 0
+    },
+    "ans": {
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    },
+    "iaea": {
+      "ok": true,
+      "entries": 15,
+      "kept": 0
+    }
+  }
+}
